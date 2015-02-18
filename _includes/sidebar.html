@@ -27,37 +27,7 @@
         {% endif %}
       {% endfor %}
       <br>
-      <li class="sidebar-nav-item">
-        <a href="http://pinballmap.com/bc">BC Pinball Map</a>
-      </li>
-
-      <br>
-      <li>Leagues</li>
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "league" %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a>
-            </li>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      <br>
-      <li>Tournaments</li>
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "tournament" %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a>
-            </li>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-      <br>
-
       <li class="sidebar-nav-item"></li>
-      
       <li class="sidebar-nav-item"><sub>Built with <a href="https://github.com/poole/hyde">Hyde</a> and <a href="http://jekyllrb.com/">Jekyll</a></sub></li>
     </ul>
     <sub><p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p></sub>

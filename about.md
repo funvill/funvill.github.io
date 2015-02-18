@@ -2,5 +2,5 @@
 layout: page
 title: About
 ---
-this is strait up markdown. About page. 
 
+This is a page about Steven Smethurst.  Photo, resume, links to other social sites. 

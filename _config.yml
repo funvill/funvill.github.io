@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            title
+title:            Abluestar
 tagline:          'this is the tag line'
-description:      'this is the description'
+description:      'Projects of Steven Smethurst'
 url:              http://funvill.github.io
 
 author:
