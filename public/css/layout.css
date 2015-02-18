@@ -9,6 +9,8 @@
    display: inline-block;
    margin: 0 15px;
    padding: 0;
+   width: 35px;
+   height: 35px;
 }
 .social li a { color: #fff; }
 .social li a:hover { color: #11ABB0; }

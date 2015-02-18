@@ -47,7 +47,18 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <br>
+      
+      <li>Projects</li>
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "project" %}
+            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+              <a href="{{ node.url }}">{{ node.title }}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
       <li class="sidebar-nav-item"></li>
       <li class="sidebar-nav-item"><sub>Built with <a href="https://github.com/poole/hyde">Hyde</a> and <a href="http://jekyllrb.com/">Jekyll</a></sub> <br /> <sub><p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p></sub></li>
     </ul>
