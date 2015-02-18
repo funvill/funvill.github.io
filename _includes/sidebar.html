@@ -37,6 +37,7 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
+      <li>Pages<ul>
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -47,8 +48,9 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      </ul></li>
       
-      <li>Projects</li>
+      <li>Projects<ul>
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "project" %}
@@ -58,6 +60,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      </ul></li>
 
       <li class="sidebar-nav-item"></li>
       <li class="sidebar-nav-item"><sub>Built with <a href="https://github.com/poole/hyde">Hyde</a> and <a href="http://jekyllrb.com/">Jekyll</a></sub> <br /> <sub><p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p></sub></li>
