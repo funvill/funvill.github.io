@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            title
+tagline:          'this is the tag line'
+description:      'this is the description'
+url:              http://funvill.github.io
+
+author:
+  name:           'funvill'
+  url:            
+
+paginate:         10
+
+# Custom vars
+version:          1.0
+
+github:           
+  repo:           https://github.com/funvill/funvill.github.io
+
