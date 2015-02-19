@@ -16,8 +16,6 @@ I participated at <a href="http://www.burningman.com/">burning man</a> with its
 
 I joined VHS (<a href="http://vancouver.hackspace.ca/">Vancouver hack space</a>) a electronics group, where I can talk about tech, security, and other geeky subjects and learn from others.
 
-I met a very special lady, who has made me overwhelmingly happy this year, and I have had good friends move away for better opportunities who I miss dearly. Socially this year has been a roller-coaster of ups and downs. Never have I ever felt so connected with a single person and so disconnected with my community at the same time.
-
 New Skills
 <ul>
 	<li><a href="http://en.wikipedia.org/wiki/Lock_picking">Lock-picking</a> - I got the chance to see a guest presenter that was teaching lock picking at VHS over the thanksgiving weekend. He was a securities expert giving talks about how easy cretin types of locks and security features where broken. (physical and electronic) He gave a 2 hour persntaiton on picking locks. I have picked up some <a href="http://www.dealextreme.com/products.dx/category.829~page.1~pagesize.52~pagesort.relevence">lockpicks</a> from <a href="http://www.dealextreme.com/">dealextreme</a> a few months ago, but never got around to playing around with them. I picked my first lock in 1hr and picked up a bunch of practice locks to play with. With practice over the last few month I can pick most normal locks in under 30 sec, and tougher locks in 5-10 mins. Its shocking how easy it really is to pick a lock. <a href="http://deviating.net/lockpicking/">Instructions slides, and more info</a></li>
