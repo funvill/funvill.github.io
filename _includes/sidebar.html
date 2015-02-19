@@ -34,11 +34,11 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
+{% comment %}
       <li>Pages<ul>
         <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
           <a href="/">Home</a>
         </li>
-
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -51,6 +51,9 @@
         {% endif %}
       {% endfor %}
       </ul></li>
+      
+{% endcomment %}
+
 
       <li>Projects<ul>
       {% for node in pages_list %}

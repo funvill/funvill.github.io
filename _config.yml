@@ -15,7 +15,7 @@ author:
   name:           'funvill'
   url:            
 
-paginate:         10
+paginate:         1
 
 # Custom vars
 version:          1.0
