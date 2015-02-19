@@ -16,4 +16,4 @@ Beat the Barman is a Drinking game
 <strong>How to play the game</strong>
 You order a shot and pay with a banknote that will require the barman to get you change. You must have your drink finished by the time he returns. Then order anther one. continue until the bar closes (you win), you get kicked out, you run out of money, you puke, the bar tender returns with your money before you are done your shot.
 
-I have never completed this game successfully but I have managed to spend $140 in 45 mins, I don€™t remember how the rest of the night went.
+I have never completed this game successfully but I have managed to spend $140 in 45 mins, I don&quot;t remember how the rest of the night went.

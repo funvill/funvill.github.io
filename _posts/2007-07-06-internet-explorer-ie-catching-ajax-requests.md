@@ -12,14 +12,14 @@ I would use a bit of JavaScript to query anther page for the temperature of a ro
 It worked fine in FireFox and opera but when I tried it in Internet Explorer (IE) I found that the value never refreshed.
 Example:  <a href="http://www.abluestar.com/dev/web/ajax/temperature/">http://www.abluestar.com/dev/web/ajax/temperature/</a>
 
-It turns out that Internet explorer loves to cache everything even when it€™s told that the data has expired. IE is happy to shows you the catches version.
+It turns out that Internet explorer loves to cache everything even when it&quot;s told that the data has expired. IE is happy to shows you the catches version.
 
-The first thing I tried was to set the Last-Modified, Date, Cache-Control headers so that it shouldn€™t cache anything. Of course Internet Explorer ignored these settings.
+The first thing I tried was to set the Last-Modified, Date, Cache-Control headers so that it shouldn&quot;t cache anything. Of course Internet Explorer ignored these settings.
 
-Then as a good internet enabled programmer I searched the internet for a solution and came across this page <a href="http://www.enja.org/david/?p=25">Ajax IE caching issue</a>. His solution was to use a POST instead of a GET to retrieve the data but it didn€™t work for me
+Then as a good internet enabled programmer I searched the internet for a solution and came across this page <a href="http://www.enja.org/david/?p=25">Ajax IE caching issue</a>. His solution was to use a POST instead of a GET to retrieve the data but it didn&quot;t work for me
 
 After a bit of smashing my head up against the wall, cursing the devil that is internet explorer I finely found a working solution.
-Added a parameter to the end of the URL with the time in Sec€™s
+Added a parameter to the end of the URL with the time in Sec&quot;s
 
 So instead of requesting <a href="http://www.abluestar.com/dev/web/ajax/temperature/value.php">value.php</a> I request <a href="http://www.abluestar.com/dev/web/ajax/temperature/value.php?ms=34908900">value.php?s=1828399595</a>. It worked flawlessly
 Example:  <a href="http://www.abluestar.com/dev/web/ajax/temperature/index2.htm">http://www.abluestar.com/dev/web/ajax/temperature/index2.htm</a>

@@ -10,7 +10,7 @@ categories: [Web development]
 <ul>
 	<li><strong>Time to reflect
 </strong>I spent a lot of time thinking about what I would like to write about. I wrote a big list of all the things that I enjoy in life and one of them happened to be boardgames. When I started writing the blog I was running a weekly boardgames night where 6-10 would get together every Sunday and play games. I had been doing this for about 3-4 months and I had collected about 50 different unique games and I was always on the search for new games.</li>
-	<li><strong>How€™s the competition?
+	<li><strong>How&quot;s the competition?
 </strong>When I was searching for games to play I found there was basically 2 major competitors, both of them have very old fashion websites cluttered and annoying to read. I would have no problem creating a better web2.0 style site that would function and look a lot better.</li>
 	<li><strong>Will you be able to write enough?
 </strong>Tons, games have been played for thousands of years and everyone has there own version of each game. I have been writing about games for 2 months now and I have barely scratched the surface of dice games. <strong>

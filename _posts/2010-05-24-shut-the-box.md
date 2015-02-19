@@ -28,4 +28,4 @@ At the beginning of a player's turn, the hinged lids of the numbered compartment
 
 A turn is over when the player cannot shut a box on a throw of the dice because the numbers shown on the dice do not correspond with the numbers on the boxes that remain open.  When the totaled numbers of the open boxes amount to six or less, the player throws only one die until he has shut all the boxes or throws an unusable number on the die.
 
-At the end of each turn, the total of the boxes still open is added to the player€™s score.  A player is out of the game when he has a score of 45 points or more.  The last player to remain in the game is the winner.
+At the end of each turn, the total of the boxes still open is added to the player&quot;s score.  A player is out of the game when he has a score of 45 points or more.  The last player to remain in the game is the winner.

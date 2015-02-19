@@ -20,7 +20,7 @@ To get as many points by rolling the point number on ten dice.
 
 <strong>How to play</strong>
 A player rolls all 10 dice. If they roll a three of a kind or better that number becomes there point number.
-If they don€™t throw three of a kind or better then they may choose any value as their point number and score three points regardless.
+If they don&quot;t throw three of a kind or better then they may choose any value as their point number and score three points regardless.
 They have four more throws rolling the ten dice and score a point for everytime their point number appears.
 Players win if they score 14 or more, or if the last four rolls of the dice fail to give up a single occurrence of their point number.
 A winning player is paid at odds of 8-1.

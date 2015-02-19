@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Tips and Tricks, Web development]
 ---
-<img src="http://blog.abluestar.com/public/uploads/2007/05/writting.jpg" alt="writting.jpg" align="right" /> I try to keep a list of good blog and article writing tips in my head while I am trying to write posts for you. I don€™t always follow them all but I try my best.
+<img src="http://blog.abluestar.com/public/uploads/2007/05/writting.jpg" alt="writting.jpg" align="right" /> I try to keep a list of good blog and article writing tips in my head while I am trying to write posts for you. I don&quot;t always follow them all but I try my best.
 In no particular order
 <ol>
 	<li><strong>Use bulleted lists</strong> - Bulleted lists help a lot to break up paragraphs and make it easier for online readers. If you bold the fist part of the bulleted list it makes it a lot easier for the users to scan the article and determine if they want to read it.</li>
@@ -22,15 +22,15 @@ In no particular order
 	<li><strong>Be useful</strong> - Write useful content that people will use and search for. Useful content gets bookmarked and websites that have lots of good useful content get subscribed too.</li>
 	<li><strong>Be unique</strong> - Add a person touch to all your posts, it gives the reader a sense where the writer is coming from. If they wanted bland articles they would read a manual.</li>
 	<li><strong>Add a quote</strong> - People love quotes, it make them feel smart to know quotes and a quote near the top of a post helps keep it memorable.</li>
-	<li><strong>Don€™t over use quotes</strong> - things like, don€™t put all your eggs in one basket has been used so many times that its lost all meaning, don€™t use them. if you have to personalize it a little. Don€™t put all your giant man eating lizard eggs in one basket.</li>
+	<li><strong>Don&quot;t over use quotes</strong> - things like, don&quot;t put all your eggs in one basket has been used so many times that its lost all meaning, don&quot;t use them. if you have to personalize it a little. Don&quot;t put all your giant man eating lizard eggs in one basket.</li>
 	<li><strong>Use deep linking </strong>- Write articles that link to your old content, this can be useful for many reasons. When people steal your content you still have a link back to your own website, you can resurrect old dead articles, I have already talked about deep linking before in a pervious article.</li>
 	<li><strong>Link love</strong> - Create lots of context links that make it easier for the users to get more information about the subjects that you are talking about. Link to other bloggers, stroke there ego and hopefully they will post back to you. Never be afraid to link out.</li>
-	<li><strong>Give credit where credit is due</strong> - It you copied something from anther blog, tell your users about it don€™t try to tip toe around it, it€™s not worth it. Any pictures, text, media, or where you got the idea for the post in the first place. This links back to link love.</li>
+	<li><strong>Give credit where credit is due</strong> - It you copied something from anther blog, tell your users about it don&quot;t try to tip toe around it, it&quot;s not worth it. Any pictures, text, media, or where you got the idea for the post in the first place. This links back to link love.</li>
 	<li><strong>Ask the user to get involved</strong> - Ask a question, ask for feedback, do a small non invasive poll, get people to comment and add there own point of view.</li>
 	<li><strong>Use pictures</strong> - Use pictures to break up an article, make sure there above the crease of the article (the first 200 words). People tend to scroll thou the article before deciding to read it and pictures help a lot in convincing them.</li>
 	<li><strong>Use paragraphs</strong> - One giant paragraph can be intimidating to the reader but if you break it down to smaller parts it can a lot little more digestible.</li>
 	<li><strong>Reward top commenters </strong>- Mention the name of a commenter that posted a good comment on an older post, give them some credit they work hard too.</li>
-	<li><strong>Don€™t use the same word twice</strong> - its one of the biggest signs that you are an amateur, using the same words over and over and over again like a favorite word.</li>
-	<li><strong>Make posts timeless</strong> - Try not to put in words like €˜summer of 2005€™ or other information that would give the sense that in a year this information is useless. <a href="http://blog.abluestar.com/timeless-content/">Make posts timeless</a></li>
+	<li><strong>Don&quot;t use the same word twice</strong> - its one of the biggest signs that you are an amateur, using the same words over and over and over again like a favorite word.</li>
+	<li><strong>Make posts timeless</strong> - Try not to put in words like €˜summer of 2005&quot; or other information that would give the sense that in a year this information is useless. <a href="http://blog.abluestar.com/timeless-content/">Make posts timeless</a></li>
 </ol>
 Please comment with any other tips that you might have, I will add them to the list.

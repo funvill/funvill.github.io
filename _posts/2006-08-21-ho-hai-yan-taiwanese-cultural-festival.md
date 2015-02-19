@@ -11,7 +11,7 @@ categories: [Vancouver]
 <strong>HO-HAI-YAN TAIWANESE CULTURAL FESTIVAL</strong>
 TAIWANESE CANADIAN CULTURAL SOCIETY
 
-The Taiwanese Cultural Festival returns to celebrate Taiwan€™s traditional, aboriginal and modern culture in Vancouver! As a five-time CEIA Best Cultural Event winner, TCF will have outstanding arts and craft exhibitions, excellent food fairs and markets, and vibrantly entertaining performances.  Dragon boats races will thrill the audience, and a cooking competition will display Taiwanese and Canadian chefs€™ techniques as well as their sense of flavor.  It is a great event to end your summer! September 2nd to 4th, Plaza of Nation and Roundhouse Community Centre.
+The Taiwanese Cultural Festival returns to celebrate Taiwan&quot;s traditional, aboriginal and modern culture in Vancouver! As a five-time CEIA Best Cultural Event winner, TCF will have outstanding arts and craft exhibitions, excellent food fairs and markets, and vibrantly entertaining performances.  Dragon boats races will thrill the audience, and a cooking competition will display Taiwanese and Canadian chefs&quot; techniques as well as their sense of flavor.  It is a great event to end your summer! September 2nd to 4th, Plaza of Nation and Roundhouse Community Centre.
 
 <strong>When: </strong> [<a href="http://www.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N3R0bmVlZ3I4amM4MmEzdDJscW9hcTZ1c3MgYnIwbmZqaDYyNjQ1YXJoMmJ1azNzYWY5ODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;tmsrc=YnIwbmZqaDYyNjQ1YXJoMmJ1azNzYWY5ODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Google Calendar</a>]
 Saturday, September 2, 2006 10:00 am - 10:00 pm

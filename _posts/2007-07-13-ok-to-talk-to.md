@@ -21,7 +21,7 @@ Its an interesting idea, I hope it works out and I can't wait to find someone el
 <strong>Want to help?</strong>
 <ol>
 	<li>Wear a button. Get one at  info@oksocial.org</li>
-	<li>Give out a bunch of buttons to your friends to wear. Request a bunch of buttons... we€™ll give them to you. It's free.</li>
+	<li>Give out a bunch of buttons to your friends to wear. Request a bunch of buttons... we&quot;ll give them to you. It's free.</li>
 	<li><a href="http://www.myspace.com/133867493">Visit our MySpace profile</a> and be our friend.</li>
 	<li><a href="http://www.oksocial.org/ok_poster.pdf">Download this simple printable poster</a> and post it somewhere.</li>
 	<li>Send us your suggestions.  info@oksocial.org</li>

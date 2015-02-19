@@ -57,7 +57,7 @@ Find a movie and come up with reocurring things to look for; when you see these 
 	<li>Sydney kicks some ass....drink.</li>
 	<li>Criminals wearing ski masks...drink.</li>
 	<li>Walker kisses Alex.....drink.</li>
-	<li>Trip to Walker€™s ranch...drink.</li>
+	<li>Trip to Walker&quot;s ranch...drink.</li>
 	<li>Walker dons his karate attire...drink.</li>
 	<li>Walker rides a horse....drink.</li>
 	<li>Walker has a flashback of his Indian heritage....drink</li>
@@ -67,20 +67,20 @@ Find a movie and come up with reocurring things to look for; when you see these 
 (any of them will work, but the old ones are the best)
 <ul>
 	<li>Someone has a bad feeling about this....drink.</li>
-	<li>It€™s their only hope....drink</li>
+	<li>It&quot;s their only hope....drink</li>
 	<li>An entire planet is described as having one climate....drink</li>
 	<li>Somebody gets choked....drink</li>
 	<li>A woman other than Leia is on screen....drink</li>
 	<li>An old Jedi starts to ramble about the Force (Vader counts)...drink</li>
-	<li>Somebody€™s hand gets cut off....drink</li>
+	<li>Somebody&quot;s hand gets cut off....drink</li>
 	<li>A gigantic technological marvel explodes in a single blast...drink</li>
 	<li>There is a disturbance in the Force....drink</li>
-	<li>It€™s not someone€™s fault....drink</li>
+	<li>It&quot;s not someone&quot;s fault....drink</li>
 	<li>One or more heroes are almost eaten by a Thing....drink</li>
 	<li>A Jedi is much more powerful than he looks....drink</li>
 	<li>Someone exclaims €œNo!€....drink</li>
 	<li>Someone does something apparently suicidal that turns out to be a good idea...drink</li>
-	<li>Someone does something apparently suicidal that turns out to be a good idea and it€™s not Han...drink x2</li>
+	<li>Someone does something apparently suicidal that turns out to be a good idea and it&quot;s not Han...drink x2</li>
 	<li>Someone wears the same outfit in all three movies (it counts if they change at the end)...drink</li>
 	<li>Someone is mind-controlled using the Force....drink</li>
 	<li>People kiss....drink</li>
@@ -92,8 +92,8 @@ Find a movie and come up with reocurring things to look for; when you see these 
 	<li>Someone or something tries to get money from Han....drink</li>
 	<li>Some ship crashes into something after being hit.....drink</li>
 	<li>Someone has a lightsaber duel (includes just using lightsaber)....drink</li>
-	<li>An Ewok dies, and the camera lingers longer than it did when the Death Star exploded, killing millions of people (Fourteen seconds. Count€™em.)...drink</li>
-	<li>It is Luke€™s destiny...drink</li>
+	<li>An Ewok dies, and the camera lingers longer than it did when the Death Star exploded, killing millions of people (Fourteen seconds. Count&quot;em.)...drink</li>
+	<li>It is Luke&quot;s destiny...drink</li>
 	<li>Luke whines....drink</li>
 	<li>Luke discovers a long-lost relative....drink</li>
 	<li>Luke fights monsters or savages....drink</li>
@@ -102,8 +102,8 @@ Find a movie and come up with reocurring things to look for; when you see these 
 	<li>Luke is upside-down...drink</li>
 	<li>Luke and Lando are in the same place at the same time...drink</li>
 	<li>If Luke and Lando speak to each other...drink x2</li>
-	<li>Luke€™s parentage is foreshadowed....drink</li>
-	<li>Luke refuses to take someone€™s advice...drink</li>
+	<li>Luke&quot;s parentage is foreshadowed....drink</li>
+	<li>Luke refuses to take someone&quot;s advice...drink</li>
 	<li>Luke yells €œArtooooo!€....drink</li>
 	<li>Leia insults somebody....drink</li>
 	<li>Leia wears an outfit that covers everything except her face and hands...drink</li>
@@ -113,21 +113,21 @@ Find a movie and come up with reocurring things to look for; when you see these 
 	<li>Obi-Wan Kenobi plays detective. (€€¦Only Imperial Stormtroopers are so precise.€)....drink</li>
 	<li>Han brags about the Millenium Falcon....drink</li>
 	<li>Anybody insults the Millenium Falcon....drink</li>
-	<li>Something doesn€™t work on the Falcon....drink</li>
-	<li>If it€™s the hyperdrive....drink x2</li>
+	<li>Something doesn&quot;t work on the Falcon....drink</li>
+	<li>If it&quot;s the hyperdrive....drink x2</li>
 	<li>Yoda uses bad grammar....drink x2</li>
 	<li>Yoda talks like a fortune cookie....drink</li>
 	<li>R2-D2 gets thrashed....drink</li>
 	<li>R2-D2 plugs into the wrong socket and his head spins around....drink</li>
 	<li>C-3PO loses a body part....drink</li>
 	<li>If C-3PO is completely dismembered....drink x2</li>
-	<li>C-3PO informs us of just how many forms of communication he€™s familiar with...drink</li>
+	<li>C-3PO informs us of just how many forms of communication he&quot;s familiar with...drink</li>
 	<li>A Rebel pilot is of a race other than Caucaisian....drink</li>
 	<li>If the pilot is non-human (co-pilots count)....drink x2</li>
 	<li>A Rebel Pilot says €œNice Shot€¦€....drink</li>
-	<li>A Rebel Pilot says €œI€™ve been hit€¦€....drink</li>
+	<li>A Rebel Pilot says €œI&quot;ve been hit€¦€....drink</li>
 	<li>Tarkin brags about the Death Star....drink</li>
 </ul>
-I€™m sure you can think of many others.  Feel free to comment with your favorites and I' ll add them to the list.
+I&quot;m sure you can think of many others.  Feel free to comment with your favorites and I' ll add them to the list.
 
 Category: Game, Drinking

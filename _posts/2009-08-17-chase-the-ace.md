@@ -20,6 +20,6 @@ Count two three and start rolling.  Players drink, give drinks, or pass dice de
 1  -Pass the die to your left.
 2  -Nothing.
 3  -Nothing.
-4  -Player to the thrower€™s left takes a drink.
-5  -Player to the thrower€™s right takes a drink.
+4  -Player to the thrower&quot;s left takes a drink.
+5  -Player to the thrower&quot;s right takes a drink.
 6  -Player who rolled it takes a drink.

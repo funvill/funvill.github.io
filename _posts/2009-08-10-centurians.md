@@ -18,7 +18,7 @@ No chugging of beers, you have to drink it one shot at a time.
 No puking
 Anyone that gets to 100 shots wins and gains Centurion status.
 
-The game isn€™t that hard when you think about it.  100 shots of beers is about 13 beers its just the pace that you have to keep drinking at.
+The game isn&quot;t that hard when you think about it.  100 shots of beers is about 13 beers its just the pace that you have to keep drinking at.
 <strong>
 Variation of this game</strong>
 The '100' you are allowed to puke but you are not allowed out of your seat for the full 100 mins and every 10 mins you must take a shot of hard bar (vodka, rum, ect).

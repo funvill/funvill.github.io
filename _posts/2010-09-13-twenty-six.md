@@ -10,7 +10,7 @@ Twenty Six is a dice game.
 This is a banking game that was popular in the Midwest USA between the 1930s and 1950s.  It was often played in taverns, which would make payoffs in drinks, until anti-gambling legislation virtually killed the game off.
 
 An operator will often provide a score sheet which states the rules and payoffs made on bets.
-Of course the odds are always in the operator€™s favor.
+Of course the odds are always in the operator&quot;s favor.
 <strong>
 What you Need to Play</strong>
 <ul>

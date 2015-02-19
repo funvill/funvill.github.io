@@ -16,4 +16,4 @@ So instead I am joining the <a href="http://www.dyers.org/blog/archives/2005/11/
 <strong>Rule 3:</strong> If you make it to February 14, you have beaten the extended challenge and can rightfully claim the title of €œMaBeGroMo Champion.€
 <strong>Rule 4:</strong> If you make it past February 14, step out of the Home Depot, put down the deer carcass, and shower well before signing up for several internet €œdating€ services. This is just a suggestion.
 
-You€™re thinking about it. I can see it. I€™ve taken the liberty of answering some of your presented concerns to give you the encouragement to get started in <a href="http://www.dyers.org/blog/beards/the-beard-faq/">The Beard FAQ</a>.  Good luck.
+You&quot;re thinking about it. I can see it. I&quot;ve taken the liberty of answering some of your presented concerns to give you the encouragement to get started in <a href="http://www.dyers.org/blog/beards/the-beard-faq/">The Beard FAQ</a>.  Good luck.

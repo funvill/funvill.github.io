@@ -15,7 +15,7 @@ categories: [Arduino, Arduino, Development, MaxSonar EZ0, MaxSonar EZ1, robots, 
 	<li>Operated on 5v, the arduino has a 5V Pin making it as easy as can be to hook it up to the board.</li>
 	<li>Mounting holes.</li>
 </ul>
-I mounted the sensor on an €˜L€™ bracket and pointed it at a wall about 36 inches away. I connected the GRD, 5V, Analog pin to my Arduino chip and started reading data. After playing around with it for a while, I found it hard to get reliable data from this sensor.
+I mounted the sensor on an €˜L&quot; bracket and pointed it at a wall about 36 inches away. I connected the GRD, 5V, Analog pin to my Arduino chip and started reading data. After playing around with it for a while, I found it hard to get reliable data from this sensor.
 
 Took in 100 readings getting results anywhere from 50-255, unreliable data. I searched Google and found a few other people using this sensor with the Arduino. <a href="http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1226321702">http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1226321702</a>
 
@@ -23,7 +23,7 @@ Apparently these  range finders (less then $100) are notorious for giving spike
 
 So I grounded all my unused analog pin (<em>this is where I made my miss take, see below</em>) and changed my code to find the average over 100 readings as the result. Then tested the results for 10k times and found the results to be wildly different between each session.
 
-After a few more hours of playing around with it I gave up. I considered connected to the serial pins but decide it was more work then it was worth. It could be that this particular sensor was damaged <span style="text-decoration: line-through;">or it could be the brand</span>, either way it didn€™t work out for me.
+After a few more hours of playing around with it I gave up. I considered connected to the serial pins but decide it was more work then it was worth. It could be that this particular sensor was damaged <span style="text-decoration: line-through;">or it could be the brand</span>, either way it didn&quot;t work out for me.
 
 I have included my source code for your reference.
 

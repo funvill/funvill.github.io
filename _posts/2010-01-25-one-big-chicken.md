@@ -30,7 +30,7 @@ Sheets Slit by Sam the Sheet Slitter
 Sexy Siamese Sailors sailing the seven seas
 Echoing egotists echoing egotistical ecstasies
 Naughty Knocked up Nuns navigating the nigerian desert towards the nunnery
-fig pluckers plucking figs, I€™m not a fig plucker or a fig pluckers son but I€™ll pluck figs until the fig plucking€™s done!
+fig pluckers plucking figs, I&quot;m not a fig plucker or a fig pluckers son but I&quot;ll pluck figs until the fig plucking&quot;s done!
 
 I have played this game many times.  Not many people ever get past 5.  It's a good way to start the night.
 You could also make up your own phrases, comment with any suggestions that you might have.

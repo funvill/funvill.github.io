@@ -9,7 +9,7 @@ categories: [Interesting, Web development]
 <strong>Introduction</strong>
 There has been a lot of talk recently about the micro blogging. Micro blogging is a blogging platform that lets you post very small updates about your life, to help keep you and your friends up to date with each others lives. The services are kept very simple so anyone can use them easily.
 
-Two of the biggest players in this field are <a href="http://www.twitter.com">Twitter.com</a> and <a href="http://www.tumblr.com">Tumblr.com</a>. I don€™t have any friends on any of these services so I decided to try them both out and see what they are like.
+Two of the biggest players in this field are <a href="http://www.twitter.com">Twitter.com</a> and <a href="http://www.tumblr.com">Tumblr.com</a>. I don&quot;t have any friends on any of these services so I decided to try them both out and see what they are like.
 
 <strong>Who is more popular</strong>
 One for the first things I do when evaluating two different online communities is look at the usage statistics. I usually will go with the bigger company, more stable, more secure, etc.  According to compete.com twitter.com seems to have a pretty good lead on tumblr.com.
@@ -17,7 +17,7 @@ One for the first things I do when evaluating two different online communities i
 <a href="http://siteanalytics.compete.com/twitter.com+tumblr.com?metric=uv"></a>
 <p style="text-align: center"><a href="http://siteanalytics.compete.com/twitter.com+tumblr.com?metric=uv"><img src="http://home.compete.com.edgesuite.net/twitter.com+tumblr.com_uv_310.png" /></a></p>
 <strong>Domains</strong>
-I like having my own sub domain, personal preference that comes from the old geocities days. tumblr.com provides a sub domain while twitter.com doesn€™t.
+I like having my own sub domain, personal preference that comes from the old geocities days. tumblr.com provides a sub domain while twitter.com doesn&quot;t.
 https://twitter.com/funvill
 http://funvill.tumblr.com/
 +1 point for tumblr.com
@@ -28,7 +28,7 @@ I am very paranoid about losing my data or a free service that becomes pay and h
 +3 points for tumblr.com
 
 <strong>Post categories</strong>
-tumblr.com lets you identify posts under media types such as text, photos, links, chat, audio, video, etc. twitter.com doesn€™t let you set a category.
+tumblr.com lets you identify posts under media types such as text, photos, links, chat, audio, video, etc. twitter.com doesn&quot;t let you set a category.
 +1 point for tumblr.com
 
 <strong>How do I create a new post</strong>

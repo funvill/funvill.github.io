@@ -14,4 +14,4 @@ The object of the game is to speak while hiding your teeth by curling your lips 
 <strong>Example</strong>
 First Person:  Broccoli, Broccoli calls Asparagus, Asparagus
 Second Person:  Asparagus, Asparagus calls Lettuce, Lettuce
-Usually people feel, sound and look so ridiculous trying to say their names that everyone starts laughing - thus showing their teeth - resulting in a drink fest.  If you can laugh and still hide your teeth then you haven€™t had enough to drink beforehand.
+Usually people feel, sound and look so ridiculous trying to say their names that everyone starts laughing - thus showing their teeth - resulting in a drink fest.  If you can laugh and still hide your teeth then you haven&quot;t had enough to drink beforehand.

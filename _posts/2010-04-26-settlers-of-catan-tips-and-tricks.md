@@ -27,7 +27,7 @@ So, if you have a settlement on a 3/5/10 intersection the chance that it will pr
 <strong>Longest Road.</strong>
 When playing for the Longest Road, don't settle for simply having a tie in length, or even one extra segment.  If the game is on the line, make sure to add two or even three extra segments to your road, to prevent an opponent from playing a road-building card and stealing your two-point advantage in one move.
 
-It€™s rare, but be aware of the 13-segment limit; if you are in a race with an opponent, make sure you get to 13 first so he or she doesn€™t steal it from you.
+It&quot;s rare, but be aware of the 13-segment limit; if you are in a race with an opponent, make sure you get to 13 first so he or she doesn&quot;t steal it from you.
 
 If an opponent builds a settlement in the middle of your road network, your routes are split in two for purposes of determining longest trade route, so remember that 'k.
 

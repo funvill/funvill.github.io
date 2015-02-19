@@ -19,7 +19,7 @@ categories: [Web development]
 	<li>Avoid Copyright Infringement</li>
 	<li>Set Yourself Apart with a Brand</li>
 	<li>Reject Hyphens and Numbers</li>
-	<li>Don€™t Follow the Latest Trends</li>
+	<li>Don&quot;t Follow the Latest Trends</li>
 	<li>Use an Ajax Domain Selection Tool</li>
 </ol>
 </blockquote>

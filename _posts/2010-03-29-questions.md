@@ -8,7 +8,7 @@ categories: [drinking, game, Games, Games]
 ---
 Questions is a drinking game.
 
-This is a favorite drinking game, although it€™s often difficult to find people willing to play it.  Mid-level buzz factor. Basic supplies only: people and beer.  It starts with a room full of people, the more the merrier.  The object is to ask a question when it's your turn, but this is much more difficult than it seems.  The rules are:
+This is a favorite drinking game, although it&quot;s often difficult to find people willing to play it.  Mid-level buzz factor. Basic supplies only: people and beer.  It starts with a room full of people, the more the merrier.  The object is to ask a question when it's your turn, but this is much more difficult than it seems.  The rules are:
 <ul>
 	<li>Obviously, the infraction of any rule is punishable by drink.</li>
 	<li>You can only ask one person one question at a time.</li>
@@ -17,7 +17,7 @@ This is a favorite drinking game, although it€™s often difficult to find peo
 	<li>The person asked the question must immediately ask another person.</li>
 	<li>Any hesitation, answering the question, laughing, or doing anything else besides asking somebody a question is punishable by drink.</li>
 	<li>Asking a question back at the person who just asked is punishable by drink.</li>
-	<li>All questions can be asked only once.  Simply rephrasing somebody else€™s question is a cheat.  A person who repeats a question must take a drink.</li>
+	<li>All questions can be asked only once.  Simply rephrasing somebody else&quot;s question is a cheat.  A person who repeats a question must take a drink.</li>
 </ul>
 <strong>Other notes:</strong>
 If the crowd cracks up (for example,after  a spectacularly personal question), a €œTeam Drink€ is called.

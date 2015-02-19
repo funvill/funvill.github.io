@@ -7,7 +7,7 @@ comments: true
 categories: [Dice, Dice, gambling, game, Games, Games]
 ---
 Spoils of War is a dice game.
-This game was once used by soldiers to divide their spoils of war.  It has been suggested centurions played the game for Christ€™s garments after his crucifixion.  Spoils of War is also known as Ten, Spot, Dicey, Roll-Ten and Birdie.  In Italy it's called Talus, in Turkey its called Zarf and it's called Passe-Dix in French.  It€™s a very, very simple game.
+This game was once used by soldiers to divide their spoils of war.  It has been suggested centurions played the game for Christ&quot;s garments after his crucifixion.  Spoils of War is also known as Ten, Spot, Dicey, Roll-Ten and Birdie.  In Italy it's called Talus, in Turkey its called Zarf and it's called Passe-Dix in French.  It&quot;s a very, very simple game.
 
 <strong>What You Need to Play</strong>
 <ul>
@@ -15,7 +15,7 @@ This game was once used by soldiers to divide their spoils of war.  It has been
 	<li>2 or more players</li>
 </ul>
 <strong>How to Play This Game</strong>
-Each player takes turns being the bank.  The players place bets againts the banker for one round.  One player (usually the player to the bank€™s left) rolls the 3 dice.  If the total of the dice is higher then 10 the players win and the banker pays out an equal amount to there bets.  If the player rolls a 10 or less, the banker wins and takes the players bets.
+Each player takes turns being the bank.  The players place bets againts the banker for one round.  One player (usually the player to the bank&quot;s left) rolls the 3 dice.  If the total of the dice is higher then 10 the players win and the banker pays out an equal amount to there bets.  If the player rolls a 10 or less, the banker wins and takes the players bets.
 
 The banker is always at a disadvantage and hustlers try and avoid taking up the position.
 

@@ -18,7 +18,7 @@ I'm running another puppet workshop at VHS
 <p style="padding-left: 30px;">For a €œmuppet-style€ puppet, foam, and a skin material of either synthetic fur or fleece in the colour of your choice.</p>
 <p style="padding-left: 30px;">For a classic sock puppet, fur, fabric or fleece in the colour or style you prefer. A sock would also work.</p>
 <p style="padding-left: 30px;">For a sock monkey, you will need a pair of socks, in a pattern and texture that you believe would make an attractive (or appropriately hideous!) monkey. And poly-fill stuffing.</p>
-<p style="padding-left: 30px;">If you€™d like to get prepared early, we will be posting some handy links leading up to the event:</p>
+<p style="padding-left: 30px;">If you&quot;d like to get prepared early, we will be posting some handy links leading up to the event:</p>
 <p style="padding-left: 30px;"><strong>Finger Puppets!</strong>
 <a href="http://www.handmadecharlotte.com/diy-forest-friend-finger-puppets/">http://www.handmadecharlotte.com/diy-forest-friend-finger-puppets/</a></p>
 <p style="padding-left: 30px;"><strong>Sock Monkeys!</strong>

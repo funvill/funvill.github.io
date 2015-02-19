@@ -8,7 +8,7 @@ categories: [Interesting, News, Projects, Web development]
 ---
 <img src="http://www.everydaypublishing.ca/cart/EDF2009_small.jpg" alt="" align="left" />Flash fiction is perfect for your coffee break, your commute, or whenever you have a few minutes for yourself. Crafted with gemlike precision, every flash fiction piece tells a complete story, never using more than a thousand words.
 
-The Best of Every Day Fiction Two brings together one hundred flash fiction pieces selected from Every Day Fiction€™s second year of publication. Following the success of The Best of Every Day Fiction 2008, this volume brings you a hundred more bite-sized tastes of science fiction, humour, romance, fantasy,
+The Best of Every Day Fiction Two brings together one hundred flash fiction pieces selected from Every Day Fiction&quot;s second year of publication. Following the success of The Best of Every Day Fiction 2008, this volume brings you a hundred more bite-sized tastes of science fiction, humour, romance, fantasy,
 horror, and surrealism along with more traditional literary pieces, from authors all over the world. Whatever your fiction preferences might be, this book is sure to introduce you to some new favourite authors and perhaps expand your literary horizons.
 
 Pages: 316

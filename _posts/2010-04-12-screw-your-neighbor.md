@@ -25,7 +25,7 @@ If a player is asked to trade they must, unless they hold a king, at which point
 
 The dealer, whose turn comes last, can try to exchange with a card cut from the undealt stock, but if the card obtained is a king, the dealer must keep their original card.
 
-After the dealer trades the round is done.  Everyone must show their card and the player, or players with the lowest ranking cards (aces are always low and suits don€™t matter) must place one of their chips into the pot.
+After the dealer trades the round is done.  Everyone must show their card and the player, or players with the lowest ranking cards (aces are always low and suits don&quot;t matter) must place one of their chips into the pot.
 
 If a player has no chips they are eliminated.
 

@@ -10,21 +10,21 @@ categories: [Web development]
 
 Technorati has a neat feature where you can add blogs to your favorite list, it generates a single RSS feed of all the posts and its great for building good back links. Some people got it in there mind that they could make a viral cross linking scheme to build your fave count in Technorati.
 
-I found this via <a href="http://www.msdanielle.com/">Msdanielle.com</a> post <a href="http://www.msdanielle.com/you-fave-my-blog-ill-fave-yours-a-technorati-experiment/">You Fave My Blog, I€™ll Fave Yours: A Technorati Experiment</a>
+I found this via <a href="http://www.msdanielle.com/">Msdanielle.com</a> post <a href="http://www.msdanielle.com/you-fave-my-blog-ill-fave-yours-a-technorati-experiment/">You Fave My Blog, I&quot;ll Fave Yours: A Technorati Experiment</a>
 
-Here€™s how it goes:
+Here&quot;s how it goes:
 1. <a href="http://technorati.com/faves?sub=addfavbtn&amp;add=http://www.abluestar.com/blog">Click Here and Add me to your Technorati Favorites List</a>
-2. Leave a comment on this post that you€™ve added me. Put YOUR Technorati Favorite URL in the comment so I can add you too.
-3. I€™ll add you to my Technorati Favorites list once I receive your comment.
+2. Leave a comment on this post that you&quot;ve added me. Put YOUR Technorati Favorite URL in the comment so I can add you too.
+3. I&quot;ll add you to my Technorati Favorites list once I receive your comment.
 Then copy and paste this stuff and follow the directions in to your blog.
 ***Start Copying Here:***
 
 <strong>Here are the rules:</strong>
 <ol>
 	<li>Write a short introduction paragraph about how you found the list, including a link to the blog post that referred you to it.</li>
-	<li>Copy the rules and entire list below and post it on your blog. To avoid duplicate content and increase the number of keywords to each site, change up the titles of the blogs. Just don€™t change the links.</li>
+	<li>Copy the rules and entire list below and post it on your blog. To avoid duplicate content and increase the number of keywords to each site, change up the titles of the blogs. Just don&quot;t change the links.</li>
 	<li>Take the €œ<strong>My New Faves</strong>€ and move them into €œ<strong>The Original Faves</strong>€ list <em>along with your site</em>. Make sure all links are working properly.</li>
-	<li>Add 3 blogs to your Technorati Favorites and link them in the €œ<strong>My New Faves</strong>€ section. Don€™t forget to add the €œFave Me€ link next to the new blogs (i.e. <em>http://technorati.com/faves?sub=addfavbtn&amp;add=http://www.yourfavesdomain.com</em>)</li>
+	<li>Add 3 blogs to your Technorati Favorites and link them in the €œ<strong>My New Faves</strong>€ section. Don&quot;t forget to add the €œFave Me€ link next to the new blogs (i.e. <em>http://technorati.com/faves?sub=addfavbtn&amp;add=http://www.yourfavesdomain.com</em>)</li>
 	<li>Add Everyone on this list to your Technorati Favorites List by clicking on €œFave this Site.€ Those who want good kharma will fave you back. If not, you will for sure get the benefits of faves from the bloggers who continue this list after you.</li>
 </ol>
 <strong>My New Faves</strong>

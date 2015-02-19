@@ -6,10 +6,10 @@ author: funvill
 comments: true
 categories: [Development, Web development]
 ---
-If you build it they will come. That€™s the mentality that most people have when building there first website. That€™s just not the way the internet works. You have to advertise, you have to tell people that you exist.
+If you build it they will come. That&quot;s the mentality that most people have when building there first website. That&quot;s just not the way the internet works. You have to advertise, you have to tell people that you exist.
 
 Ask your self how you found the last item you purchased from the internet.
-Did you search with Google? What search terms did you use? Did you stumble upon it from someone else€™s website? Did you read a review about it and searched Google for it? Put yourself in the mind of your customers, how do you expect them to find you?
+Did you search with Google? What search terms did you use? Did you stumble upon it from someone else&quot;s website? Did you read a review about it and searched Google for it? Put yourself in the mind of your customers, how do you expect them to find you?
 
 The first thing you should do with all new domains is manually add them to the search engines like Google or Yahoo.
 <a href="http://www.google.com/addurl/"> http://www.google.com/addurl/</a>
