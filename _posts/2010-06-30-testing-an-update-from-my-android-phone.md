@@ -11,6 +11,6 @@ Hello this is a <a href="https://www.google.com">test</a> posting from my <stron
 <strong>
 </strong>
 
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://www.abluestar.com/blog/wp-content/uploads/2010/06/wpid-1277917804850.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.abluestar.com/public/uploads/2010/06/wpid-1277917804850.jpg" alt="image" />
 
 This is a picture of the current book i am reading.

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Interesting, News, Projects]
 ---
-I build the <a href="http://www.abluestar.com/blog/giant-spin-art-maker-faire-2011-vancouver/">first version</a> of my giant spin art back in may after reading build instructions in <a href="http://makeprojects.com/">Make magazine</a> Volume 25.
+I build the <a href="http://blog.abluestar.com/giant-spin-art-maker-faire-2011-vancouver/">first version</a> of my giant spin art back in may after reading build instructions in <a href="http://makeprojects.com/">Make magazine</a> Volume 25.
 
 It work okay but had a few problems. It was direct drive driven and I was worried about burning out the motor. It was scary fast and got unstable as it speeds up.
 

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Web development]
 ---
-<img src="http://www.abluestar.com/blog/wp-content/uploads/naked_day_07.png" alt="naked_day_07.png" title="naked_day_07.png" border="0" height="111" width="294" />
+<img src="http://blog.abluestar.com/public/uploads/naked_day_07.png" alt="naked_day_07.png" title="naked_day_07.png" border="0" height="111" width="294" />
 
 To know more about why styles are disabled on this website visit the
 <a href="http://naked.dustindiaz.com" title="Web Standards Naked Day Host Website"> Annual CSS Naked Day</a> website for more information.

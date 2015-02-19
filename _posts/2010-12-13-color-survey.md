@@ -10,5 +10,5 @@ Color is subjective and people see colors differently sometimes wildly different
 
 I didn't some up with this test, it was stolen directly from <a href="http://en.wikipedia.org/wiki/Randall_Munroe">Randall Patrick Munroe</a> (<a href="http://xkcd.com/">XKCD</a>) and he deserves all the credit. After two weeks of running this test he stopped accepting new submissions and <a href="http://blog.xkcd.com/2010/05/03/color-survey-results/">displayed his results</a>. I am looking to do a longer study of color and how color changes over the years.
 <p style="text-align: center;"><strong>Take the <a href="http://www.abluestar.com/utilities/color/submit.php">color survey</a></strong></p>
-<p style="text-align: left;"><strong><a href="http://www.abluestar.com/blog/wp-content/uploads/2010/12/colors.png"><img class="alignleft size-full wp-image-1156" title="colors" src="http://www.abluestar.com/blog/wp-content/uploads/2010/12/colors.png" alt="" width="397" height="340" /></a>
+<p style="text-align: left;"><strong><a href="http://blog.abluestar.com/public/uploads/2010/12/colors.png"><img class="alignleft size-full wp-image-1156" title="colors" src="http://blog.abluestar.com/public/uploads/2010/12/colors.png" alt="" width="397" height="340" /></a>
 </strong></p>

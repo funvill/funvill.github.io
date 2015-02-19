@@ -10,7 +10,7 @@ categories: [Raspberry PI]
 
 This got me to thinking of how I could track system stats from my <a href="http://www.raspberrypi.org/">Raspberry PI</a> with <a href="http://www.python.org/">python</a> and record the stats on COSM.
 
-I have written about sending data to COSM with a Raspberry PI before in my <a href="http://www.abluestar.com/blog/raspberry-pi-and-the-gpio-pins/">Raspberry PI and the GPIO pins</a> post.  Adafruit also has a great tutorial on this as well <a href="http://learn.adafruit.com/send-raspberry-pi-data-to-cosm/overview">Send Raspberry Pi Data to COSM</a>.
+I have written about sending data to COSM with a Raspberry PI before in my <a href="http://blog.abluestar.com/raspberry-pi-and-the-gpio-pins/">Raspberry PI and the GPIO pins</a> post.  Adafruit also has a great tutorial on this as well <a href="http://learn.adafruit.com/send-raspberry-pi-data-to-cosm/overview">Send Raspberry Pi Data to COSM</a>.
 
 This code snippet will <a href="https://gist.github.com/funvill/5252169">get the system stats (CPU, Ram, Disk Space) from the Raspberry PI</a>, We can then send these values to COSM. I then added in the eeml class to talk to the COSM servers. I also added reading a light sensor that is connected to an Arduino talking pyfirmata.
 

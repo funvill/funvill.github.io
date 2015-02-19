@@ -6,9 +6,9 @@ author: funvill
 comments: true
 categories: [Web development]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/06/mistake.gif" title="mistake.gif"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/06/mistake.thumbnail.gif" alt="mistake.gif" align="right" /></a>These are some of the mistakes I have made over the past few years with Blogging and web design. These mistakes have cost me hours of extra work and in some cases months headache's. Hopefully you can learn from my mistakes and save yourself some time.
+<a href="http://blog.abluestar.com/public/uploads/2007/06/mistake.gif" title="mistake.gif"><img src="http://blog.abluestar.com/public/uploads/2007/06/mistake.thumbnail.gif" alt="mistake.gif" align="right" /></a>These are some of the mistakes I have made over the past few years with Blogging and web design. These mistakes have cost me hours of extra work and in some cases months headache's. Hopefully you can learn from my mistakes and save yourself some time.
 <ul>
-	<li><strong>Used a sub directory</strong> - When you browse to this blog you will might have noticed that its stored in a sub directory ('http://www.abluestar.com/blog/') instead of the base directory ('http://www.abluestar.com/'). This is bad for SEO and but I didn't know that when I first installed this blog.  I just used my hosts default directory ('/blog/') and now its too late to go back and fix it there are already too many links set up.
+	<li><strong>Used a sub directory</strong> - When you browse to this blog you will might have noticed that its stored in a sub directory ('http://blog.abluestar.com/') instead of the base directory ('http://www.abluestar.com/'). This is bad for SEO and but I didn't know that when I first installed this blog.  I just used my hosts default directory ('/blog/') and now its too late to go back and fix it there are already too many links set up.
 <strong>Lesson learned: </strong>Use your base directory for your blog.</li>
 	<li><strong>Used sub domains</strong> - When ever I created a new project I would create a new sub domain for it (projectx.abluestar.com). It made things really easy to sort and organize but Search engines saw it as two different sites and when one project when up the others where not effected.
 <strong>Lesson learned: </strong>Use sub directories not sub domains<strong> </strong></li>

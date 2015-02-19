@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Web development]
 ---
-<img src="http://www.abluestar.com/blog/wp-content/uploads/2007/06/bzlogo.png" alt="bzlogo.png" align="right" />Back in the day, there was a major problem with people posting garbage comments on blogs or forms so they could get back links to there site. Every time they made a new post they would get anther back link and there ranking would rise.
+<img src="http://blog.abluestar.com/public/uploads/2007/06/bzlogo.png" alt="bzlogo.png" align="right" />Back in the day, there was a major problem with people posting garbage comments on blogs or forms so they could get back links to there site. Every time they made a new post they would get anther back link and there ranking would rise.
 
 Then google and yahoo introduced the nofollow link parameter that tells a search engine not to add rank to link in a comments section. Over night all the sites that have been posting garbage on blogs and forms dropped out of the ranking. The level of garbage comments dropped significantly but so did the lagitamit comments too. Since people where not getting any benefit from making a comment people stoped taking the time to leave them.
 
@@ -25,4 +25,4 @@ I found out about this plugin from image promoting the <a href="http://www.jonle
 <strong>Edit</strong>
 While looking around for people to spam this post on I found a post by <a href="http://randaclay.com/archives/a-new-do-follow-plugin-for-trackbacks-only">randaclay.com</a> that talks about a plugin that only removes the <a href="http://www.turkhitbox.com/wordpress-seo/dofollow-trackbacks-plugin.html">no follow link for trackbacks</a>. This is a much better idea, for one it rewards the people that talk about and link to your content. Instead of people who make spam comments.
 
-<img src="http://www.abluestar.com/blog/wp-content/uploads/2007/06/utrackback_ifollow.gif" alt="utrackback_ifollow.gif" />
+<img src="http://blog.abluestar.com/public/uploads/2007/06/utrackback_ifollow.gif" alt="utrackback_ifollow.gif" />

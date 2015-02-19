@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Tips and Tricks, Web development]
 ---
-<img src="http://www.abluestar.com/blog/wp-content/uploads/2007/05/writting.jpg" alt="writting.jpg" align="right" /> I try to keep a list of good blog and article writing tips in my head while I am trying to write posts for you. I don€™t always follow them all but I try my best.
+<img src="http://blog.abluestar.com/public/uploads/2007/05/writting.jpg" alt="writting.jpg" align="right" /> I try to keep a list of good blog and article writing tips in my head while I am trying to write posts for you. I don€™t always follow them all but I try my best.
 In no particular order
 <ol>
 	<li><strong>Use bulleted lists</strong> - Bulleted lists help a lot to break up paragraphs and make it easier for online readers. If you bold the fist part of the bulleted list it makes it a lot easier for the users to scan the article and determine if they want to read it.</li>
@@ -31,6 +31,6 @@ In no particular order
 	<li><strong>Use paragraphs</strong> €“ One giant paragraph can be intimidating to the reader but if you break it down to smaller parts it can a lot little more digestible.</li>
 	<li><strong>Reward top commenters </strong>€“ Mention the name of a commenter that posted a good comment on an older post, give them some credit they work hard too.</li>
 	<li><strong>Don€™t use the same word twice</strong> €“ its one of the biggest signs that you are an amateur, using the same words over and over and over again like a favorite word.</li>
-	<li><strong>Make posts timeless</strong> - Try not to put in words like €˜summer of 2005€™ or other information that would give the sense that in a year this information is useless. <a href="http://www.abluestar.com/blog/timeless-content/">Make posts timeless</a></li>
+	<li><strong>Make posts timeless</strong> - Try not to put in words like €˜summer of 2005€™ or other information that would give the sense that in a year this information is useless. <a href="http://blog.abluestar.com/timeless-content/">Make posts timeless</a></li>
 </ol>
 Please comment with any other tips that you might have, I will add them to the list.

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [makerfaire, Projects, xytable]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2013/03/mario-claw-game.jpg"><img class="size-thumbnail wp-image-3201 alignright" alt="mario-claw-game" src="http://www.abluestar.com/blog/wp-content/uploads/2013/03/mario-claw-game-150x150.jpg" width="150" height="150" /></a>This year for the <a href="http://makerfaire.ca/">Vancouver Maker Faire</a> I am planning on making a giant <a href="http://en.wikipedia.org/wiki/Claw_crane">Claw Crane game</a>.  Normally claw games are found in video arcades and shopping malls and are a glass box where players can control a crane with a joystick and attempt to pick up prizes from the playing area. They are also known as teddy picker, candy crane, claw machine, crane vending machine, arcade claw, grab machine, crane game, skill tester, or simply the claw.
+<a href="http://blog.abluestar.com/public/uploads/2013/03/mario-claw-game.jpg"><img class="size-thumbnail wp-image-3201 alignright" alt="mario-claw-game" src="http://blog.abluestar.com/public/uploads/2013/03/mario-claw-game-150x150.jpg" width="150" height="150" /></a>This year for the <a href="http://makerfaire.ca/">Vancouver Maker Faire</a> I am planning on making a giant <a href="http://en.wikipedia.org/wiki/Claw_crane">Claw Crane game</a>.  Normally claw games are found in video arcades and shopping malls and are a glass box where players can control a crane with a joystick and attempt to pick up prizes from the playing area. They are also known as teddy picker, candy crane, claw machine, crane vending machine, arcade claw, grab machine, crane game, skill tester, or simply the claw.
 
 As seen in <a href="http://www.youtube.com/watch?v=N-Esh4W3dfI">Toy Story, The Claw</a>. These games aren't as populate as they use to be in north america anymore but have exploded in Asia and Japan. You can even play for lobsters <a href="http://www.youtube.com/watch?v=2wtharEsEe0">Sub Marine Catcher</a>
 
@@ -14,7 +14,7 @@ The claw machines are made up of a 2-4 prong claw, <a href="http://en.wikipedia.
 
 Before I started on this project I looked to see if anyone else had done anything similar that I could lean from.
 
-<img class="size-thumbnail wp-image-3202 alignleft" alt="Claw-Game-Model-300x270" src="http://www.abluestar.com/blog/wp-content/uploads/2013/03/Claw-Game-Model-300x270-150x150.jpg" width="150" height="150" />
+<img class="size-thumbnail wp-image-3202 alignleft" alt="Claw-Game-Model-300x270" src="http://blog.abluestar.com/public/uploads/2013/03/Claw-Game-Model-300x270-150x150.jpg" width="150" height="150" />
 
 I found <a href="http://www.splitreaction.com/the-mega-claw/">Mega Claw!</a> created for the 2010 NY Maker Faire. Its the exact same idea that I was planning on doing, with a different approach to the XY table. They have written up a great article on their progress and a <a href="http://www.splitreaction.com/the-mega-claw-%E2%80%93-summary-9-of-9">post mortem</a> after the event. Very impressed project.
 

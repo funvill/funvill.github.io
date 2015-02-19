@@ -10,15 +10,15 @@ This year for the <a href="http://vancouver.makerfaire.ca/">Vancouver Maker Fair
 
 I made the square acrylic version first as a test to see how the table would look. Afterwards I constructed the table. The whole thing took about an hour.
 
-<img class="size-medium wp-image-2824" title="2012-06-21 02.30.53" src="http://www.abluestar.com/blog/wp-content/uploads/2012/08/2012-06-21-02.30.53-225x300.jpg" alt="" width="225" height="300" /> <img class="size-medium wp-image-2823" title="2012-06-21 05.24.38" src="http://www.abluestar.com/blog/wp-content/uploads/2012/08/2012-06-21-05.24.38-300x225.jpg" alt="" width="300" height="225" />
+<img class="size-medium wp-image-2824" title="2012-06-21 02.30.53" src="http://blog.abluestar.com/public/uploads/2012/08/2012-06-21-02.30.53-225x300.jpg" alt="" width="225" height="300" /> <img class="size-medium wp-image-2823" title="2012-06-21 05.24.38" src="http://blog.abluestar.com/public/uploads/2012/08/2012-06-21-05.24.38-300x225.jpg" alt="" width="300" height="225" />
 
 Here is an image from Maker Faire with some kids playing with the table. I put the magnets in to some knex and attached strings to them so people would not walk off with them.
 
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/08/IMG_0002.jpg"><img class="size-medium wp-image-2825" title="IMG_0002" src="http://www.abluestar.com/blog/wp-content/uploads/2012/08/IMG_0002-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2012/08/IMG_0002.jpg"><img class="size-medium wp-image-2825" title="IMG_0002" src="http://blog.abluestar.com/public/uploads/2012/08/IMG_0002-225x300.jpg" alt="" width="225" height="300" /></a>
 
 Finished and sitting in my living room
 
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/08/IMG_4790.jpg"><img class="size-medium wp-image-2828" title="IMG_4790" src="http://www.abluestar.com/blog/wp-content/uploads/2012/08/IMG_4790-300x225.jpg" alt="" width="300" height="225" /></a> <a href="http://www.abluestar.com/blog/wp-content/uploads/2012/08/IMG_4792.jpg"><img class="size-medium wp-image-2829" title="IMG_4792" src="http://www.abluestar.com/blog/wp-content/uploads/2012/08/IMG_4792-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2012/08/IMG_4790.jpg"><img class="size-medium wp-image-2828" title="IMG_4790" src="http://blog.abluestar.com/public/uploads/2012/08/IMG_4790-300x225.jpg" alt="" width="300" height="225" /></a> <a href="http://blog.abluestar.com/public/uploads/2012/08/IMG_4792.jpg"><img class="size-medium wp-image-2829" title="IMG_4792" src="http://blog.abluestar.com/public/uploads/2012/08/IMG_4792-300x225.jpg" alt="" width="300" height="225" /></a>
 
 &nbsp;
 

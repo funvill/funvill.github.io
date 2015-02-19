@@ -13,7 +13,7 @@ As I understand it, its a tool bar for your browser that monitors what you searc
 They don't pay you for clicking on ads so the advertisers might actually get some value from this service unlike the ones from 1996. Since the users get no benifit from constantly clicking ads, the users should in theory only click ads that have value to them all so known as good leads.
 
 <a href="http://www.agloco.com/r/BBFJ0259">AGLOCO</a> goes to great lengths to help you get as many people signed up as possible by paying you a referral commission and creating forum letters for you to send to all your friends and family. They also give you a nifty grafic that shows your referral count.
-<p style="text-align: center"><a href="http://www.agloco.com/r/BBFJ0259"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/06/agloco.gif" alt="agloco.gif" border="0" /></a></p>
+<p style="text-align: center"><a href="http://www.agloco.com/r/BBFJ0259"><img src="http://blog.abluestar.com/public/uploads/2007/06/agloco.gif" alt="agloco.gif" border="0" /></a></p>
 Its an interesting service and I plan on trying it out for a few weeks to see how it goes.
 Feel free to sign up underneath me and help me make some coins.
 Who knows you might make some money too.

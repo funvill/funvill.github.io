@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Chess]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/05/chess.jpg" title="chess.jpg"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/05/chess.jpg" alt="chess.jpg" align="right" /></a>Hello
+<a href="http://blog.abluestar.com/public/uploads/2007/05/chess.jpg" title="chess.jpg"><img src="http://blog.abluestar.com/public/uploads/2007/05/chess.jpg" alt="chess.jpg" align="right" /></a>Hello
 
 Over the past 2 months I have posted 30 chess puzzles and ~50 people have subscribed to the daily chess puzzle feed but in the last two weeks I have been letting the quality of the posts slip there has been at lest 4 bugs in the last two week and thats not fair to my readers.
 

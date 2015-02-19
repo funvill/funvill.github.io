@@ -10,7 +10,7 @@ This week I have been playing with the <a href="http://www.raspberrypi.org/">Rap
 
 <strong>Software</strong>
 
-<img class="size-medium wp-image-3155 alignleft" alt="WebIDE" src="http://www.abluestar.com/blog/wp-content/uploads/2013/02/WebIDE-300x235.png" width="300" height="235" />
+<img class="size-medium wp-image-3155 alignleft" alt="WebIDE" src="http://blog.abluestar.com/public/uploads/2013/02/WebIDE-300x235.png" width="300" height="235" />
 
 I started by formatting a SD Card with the <a href="http://www.raspberrypi.org/downloads">Raspbian €œwheezy€</a> (2012-12-16) image from <a href="http://www.raspberrypi.org/">Raspberry PI's website</a>. I followed this tutorial on <a href="http://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi">how to set up the Raspberry PI</a> for the first time.
 
@@ -31,7 +31,7 @@ $ cd geekman-python-eeml*
 $ sudo python setup.py install</pre>
 <strong>Hardware </strong>
 
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2013/02/2013-01-31-23.07.11.jpg"><img class="size-medium wp-image-3153 alignright" alt="Home made Raspberry PI GPIO ribbon cable" src="http://www.abluestar.com/blog/wp-content/uploads/2013/02/2013-01-31-23.07.11-225x300.jpg" width="225" height="300" /></a>The Raspberry PI has a 26pin mail connector that connects to its GPIO pins. These ribbon cables and breakout boards can be found on <a href="http://www.adafruit.com/products/862">adafruit.com</a> ($2.95) and <a href="https://www.sparkfun.com/products/11489">Sparkfun</a> ($2.95)
+<a href="http://blog.abluestar.com/public/uploads/2013/02/2013-01-31-23.07.11.jpg"><img class="size-medium wp-image-3153 alignright" alt="Home made Raspberry PI GPIO ribbon cable" src="http://blog.abluestar.com/public/uploads/2013/02/2013-01-31-23.07.11-225x300.jpg" width="225" height="300" /></a>The Raspberry PI has a 26pin mail connector that connects to its GPIO pins. These ribbon cables and breakout boards can be found on <a href="http://www.adafruit.com/products/862">adafruit.com</a> ($2.95) and <a href="https://www.sparkfun.com/products/11489">Sparkfun</a> ($2.95)
 
 You can also make your own. <a href="http://www.raspberrypi.org/archives/1404">Hardware lesson with Gert: make your own ribbon cable connector</a>.
 
@@ -41,11 +41,11 @@ You can also make your own. <a href="http://www.raspberrypi.org/archives/1404">
 
 Since I am using <a href="https://bitbucket.org/">bitbucket</a> <a href="https://github.com/funvill/RaspberryPIExamples/tree/master/examples">all my source code is public</a>. I created a few learning scripts to understand how the GPIO pins work on the Raspberry PI. The first script I made was a simple <a href="https://bitbucket.org/funvill/my-pi-projects/src/d0ebc27c2dd1/examples/Blinky.py?at=master">blinking LED</a>, just like the <a href="https://gist.github.com/anonymous/4728721">arduino blinking LED script</a>. Next was to read the <a href="https://bitbucket.org/funvill/my-pi-projects/src/d0ebc27c2dd1/examples/DigitalRead.py?at=master">current state of a switch</a> and print the results to the screen.
 
-This image was tremendously helpful in figuring out what pins go where<em id="__mceDel"><a href="http://www.abluestar.com/blog/wp-content/uploads/2013/02/Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358.png"><img class="alignnone size-medium wp-image-3157" alt="Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358" src="http://www.abluestar.com/blog/wp-content/uploads/2013/02/Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358-300x141.png" width="300" height="141" /></a></em>
+This image was tremendously helpful in figuring out what pins go where<em id="__mceDel"><a href="http://blog.abluestar.com/public/uploads/2013/02/Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358.png"><img class="alignnone size-medium wp-image-3157" alt="Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358" src="http://blog.abluestar.com/public/uploads/2013/02/Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358-300x141.png" width="300" height="141" /></a></em>
 
 Next I followed <a href="http://learn.adafruit.com/send-raspberry-pi-data-to-cosm/overview">Send Raspberry Pi Data to COSM</a> from <a href="http://learn.adafruit.com">adafruit.com</a>. I <a href="https://bitbucket.org/funvill/my-pi-projects/src/d0ebc27c2dd1/examples/cosm.py?at=master">changed the tutorial</a>  to read a digital pin (as the Raspberry PI does not have any analog pins) that I connected to a <a href="https://cosm.com/feeds/102208">magnetic read switch for my front door</a>.
 
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2013/02/0.png"><img class="alignnone size-medium wp-image-3159" alt="0" src="http://www.abluestar.com/blog/wp-content/uploads/2013/02/0-300x102.png" width="300" height="102" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2013/02/0.png"><img class="alignnone size-medium wp-image-3159" alt="0" src="http://blog.abluestar.com/public/uploads/2013/02/0-300x102.png" width="300" height="102" /></a>
 
 &nbsp;
 

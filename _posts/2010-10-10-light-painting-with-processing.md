@@ -17,10 +17,10 @@ The application does not look that difficult to build either. A frame buffer wit
 After about 2 hours with never touching processing before I end up with this;
 
 <p>
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2010/10/greenSteven.png"><img class="alignleft size-medium wp-image-1110" title="greenSteven" src="http://www.abluestar.com/blog/wp-content/uploads/2010/10/greenSteven-300x236.png" alt="" width="300" height="236" /></a><a href="http://www.abluestar.com/blog/wp-content/uploads/2010/10/blue.png"><img class="size-medium wp-image-1111 alignleft" title="blue" src="http://www.abluestar.com/blog/wp-content/uploads/2010/10/blue-300x236.png" alt="" width="300" height="236" /></a><a href="http://www.abluestar.com/blog/wp-content/uploads/2010/10/play.png"><img class="size-medium wp-image-1112 alignleft" title="play" src="http://www.abluestar.com/blog/wp-content/uploads/2010/10/play-300x236.png" alt="" width="300" height="236" /></a><a href="http://www.abluestar.com/blog/wp-content/uploads/2010/10/greenSteven.png"></a>
+<a href="http://blog.abluestar.com/public/uploads/2010/10/greenSteven.png"><img class="alignleft size-medium wp-image-1110" title="greenSteven" src="http://blog.abluestar.com/public/uploads/2010/10/greenSteven-300x236.png" alt="" width="300" height="236" /></a><a href="http://blog.abluestar.com/public/uploads/2010/10/blue.png"><img class="size-medium wp-image-1111 alignleft" title="blue" src="http://blog.abluestar.com/public/uploads/2010/10/blue-300x236.png" alt="" width="300" height="236" /></a><a href="http://blog.abluestar.com/public/uploads/2010/10/play.png"><img class="size-medium wp-image-1112 alignleft" title="play" src="http://blog.abluestar.com/public/uploads/2010/10/play-300x236.png" alt="" width="300" height="236" /></a><a href="http://blog.abluestar.com/public/uploads/2010/10/greenSteven.png"></a>
 </p>
 
 Not exactly what I was looking for but interesting. You can download the source code here.
-<a href='http://www.abluestar.com/blog/wp-content/uploads/2010/10/lightest2.txt'>lightest2</a>
+<a href='http://blog.abluestar.com/public/uploads/2010/10/lightest2.txt'>lightest2</a>
 
 Its a work in progress. 

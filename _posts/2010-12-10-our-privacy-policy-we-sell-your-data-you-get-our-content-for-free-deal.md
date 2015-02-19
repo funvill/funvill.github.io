@@ -26,7 +26,7 @@ Anything and everything you are willing to give me and I plan to keep it for as 
 
 For example;
 <ul>
-	<li><a href="http://tools.ietf.org/html/rfc2616#page-53">HTTP Get request</a> - Your browser has to make a request of my server for some content this request must contain a bunch of information about your system for me to correctly route it back to you. <a href="http://www.abluestar.com/blog/wp-content/uploads/2010/12/GetRequest.txt">Example</a>, Including;
+	<li><a href="http://tools.ietf.org/html/rfc2616#page-53">HTTP Get request</a> - Your browser has to make a request of my server for some content this request must contain a bunch of information about your system for me to correctly route it back to you. <a href="http://blog.abluestar.com/public/uploads/2010/12/GetRequest.txt">Example</a>, Including;
 <ul>
 	<li>Your <a href="http://en.wikipedia.org/wiki/MAC_address">MAC address</a> and your <a href="http://en.wikipedia.org/wiki/IP_address">IP address</a></li>
 	<li>Your "<a href="http://en.wikipedia.org/wiki/User_agent">User-Agent</a>"</li>

@@ -13,11 +13,11 @@ Urban Cactus is a housing project in the Vuurplaat section of Rotterdam by <a hr
 
 Due to its siting at the end of harbor, the architects chose to conceptualize the project as belonging to the "green nerve" rather than the surrounding urban structure.
 
-<img src="http://www.abluestar.com/blog/wp-content/uploads/2007/04/hd30b.jpg" alt="hd30b.jpg" />
+<img src="http://blog.abluestar.com/public/uploads/2007/04/hd30b.jpg" alt="hd30b.jpg" />
 
 They placed the 98 residential units on 19 floors, using the pattern of outdoor spaces to determine the overall appearance of the project.
 
-<img src="http://www.abluestar.com/blog/wp-content/uploads/2007/04/hd30c.jpg" alt="hd30c.jpg" />
+<img src="http://blog.abluestar.com/public/uploads/2007/04/hd30c.jpg" alt="hd30c.jpg" />
 
 The slightly irregular pattern alternates these outdoor spaces to create what are in effect double-height spaces. Each unit then receives more sunlight than a typical stacked composition.
 

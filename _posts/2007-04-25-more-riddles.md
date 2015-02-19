@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Interesting]
 ---
-I enjoyed them so much the first time I posted <a href="http://www.abluestar.com/blog/riddles/">some riddles</a> that I am going to do it again.
+I enjoyed them so much the first time I posted <a href="http://blog.abluestar.com/riddles/">some riddles</a> that I am going to do it again.
 
 Answers after the cut€¦
 <ol>

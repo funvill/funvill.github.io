@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/02/vancouver_ib.jpg" title="Vancouver sky line"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/02/vancouver_ib.thumbnail.jpg" alt="Vancouver sky line" border="0" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2007/02/vancouver_ib.jpg" title="Vancouver sky line"><img src="http://blog.abluestar.com/public/uploads/2007/02/vancouver_ib.thumbnail.jpg" alt="Vancouver sky line" border="0" /></a>
 
 A small personal list of what to do in vancouver
 <ul>

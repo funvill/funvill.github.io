@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/03/lego-yellow-cab-taxi-0.jpg" title="Yellow Cab"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/03/lego-yellow-cab-taxi-0.thumbnail.jpg" alt="Yellow Cab" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2007/03/lego-yellow-cab-taxi-0.jpg" title="Yellow Cab"><img src="http://blog.abluestar.com/public/uploads/2007/03/lego-yellow-cab-taxi-0.thumbnail.jpg" alt="Yellow Cab" /></a>
 
 Often I find that I can find a cab when I need one in this city.  So here is a list of all the major Cab companies in Vancouver.
 

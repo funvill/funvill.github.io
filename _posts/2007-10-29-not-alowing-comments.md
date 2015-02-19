@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Tips and Tricks, Web development]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/10/1570869672_f4631efb6c.jpg"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/10/1570869672_f4631efb6c.thumbnail.jpg" align="right" /></a>I was browsing <a href="http://www.warrenellis.com">warrenellis.com</a> website the other day and tuned in to his <a href="http://www.warrenellis.com/?p=5239">4am pod cast</a>.
+<a href="http://blog.abluestar.com/public/uploads/2007/10/1570869672_f4631efb6c.jpg"><img src="http://blog.abluestar.com/public/uploads/2007/10/1570869672_f4631efb6c.thumbnail.jpg" align="right" /></a>I was browsing <a href="http://www.warrenellis.com">warrenellis.com</a> website the other day and tuned in to his <a href="http://www.warrenellis.com/?p=5239">4am pod cast</a>.
 After it was done I went to leave a comment only to find that comments have been turned off.
 
 Instead he suggest that you make a comment on your own site and use a track back to his website.

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Media]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/02/snoil_470x264.jpg" title="SnOil"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/02/snoil_470x264.jpg" alt="SnOil" border="0" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2007/02/snoil_470x264.jpg" title="SnOil"><img src="http://blog.abluestar.com/public/uploads/2007/02/snoil_470x264.jpg" alt="SnOil" border="0" /></a>
 
 <strong>Ferrofluid</strong>
 Ferrofluid is a liquid that reacts to magnetism. It is attracted by magnets, pretty similar to iron. This can lead to areas where the liquid partly resists to gravitation when a magnet approaches. Thereby a small bump is formed close to the load stone. This behavior is enabled by magnetic nano-particles that are suspended in a carrier fluid. Normally the particles are coated with a surfactant to prevent their agglomeration. This results in stable ferrofluid dispersions.

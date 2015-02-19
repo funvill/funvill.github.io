@@ -17,4 +17,4 @@ Try it out and tell me how close I got
 <a href="http://www.abluestar.com/utilities/what_is_my_ip/where_did_this_ip_addrss_come_from.php">Where does this IP Address come from</a>
 
 <a href="http://www.abluestar.com/utilities/what_is_my_ip/where_did_this_ip_addrss_come_from.php"></a>
-<p style="text-align: center"><a href="http://www.abluestar.com/utilities/what_is_my_ip/where_did_this_ip_addrss_come_from.php"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/04/google_map.jpg" alt="Google map via IP address" /></a></p>
+<p style="text-align: center"><a href="http://www.abluestar.com/utilities/what_is_my_ip/where_did_this_ip_addrss_come_from.php"><img src="http://blog.abluestar.com/public/uploads/2007/04/google_map.jpg" alt="Google map via IP address" /></a></p>

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Uncategorized]
 ---
-<img src="http://www.abluestar.com/blog/wp-content/uploads/2008/04/ox_tail_web.jpg" alt="ox_tail_web.jpg" align="right" /><strong>Ingredients</strong>
+<img src="http://blog.abluestar.com/public/uploads/2008/04/ox_tail_web.jpg" alt="ox_tail_web.jpg" align="right" /><strong>Ingredients</strong>
 <ul>
 	<li> 5 lbs oxtail, cut in 2 inch thick rounds</li>
 	<li> 1 cup flour</li>

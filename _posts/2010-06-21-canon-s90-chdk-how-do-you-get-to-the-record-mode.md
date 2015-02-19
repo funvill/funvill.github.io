@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Tips and Tricks]
 ---
-<strong><img class="size-full wp-image-964 alignright" title="250px-Canon-s90-front" src="http://www.abluestar.com/blog/wp-content/uploads/2010/06/250px-Canon-s90-front.jpg" alt="" width="250" height="276" />Canon S90 CHDK </strong>
+<strong><img class="size-full wp-image-964 alignright" title="250px-Canon-s90-front" src="http://blog.abluestar.com/public/uploads/2010/06/250px-Canon-s90-front.jpg" alt="" width="250" height="276" />Canon S90 CHDK </strong>
 
 <a href="http://chdk.wikia.com/">CHDK</a> (<strong><span style="text-decoration: underline;">C</span></strong>anon <strong><span style="text-decoration: underline;">H</span></strong>ack <strong><span style="text-decoration: underline;">D</span></strong>evelopment <strong><span style="text-decoration: underline;">K</span></strong>it) is a community build open source alternative firmware for canon cameras. CHDK features are; RAW files, bracketing, full manual control over exposure, Zebra-Mode, Live histogram, Grids, and most important scripting.
 

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Interesting]
 ---
-<a href="http://www.msdanielle.com/"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/06/250px-talespin.gif" alt="250px-talespin.gif" align="right" />Ms. Danielle</a> is giving away a <a href="http://www.msdanielle.com/microsoft-zune-30gb-giveaway-contest">30GB Microsoft Zune</a> that she won from John Chow. In her contest you have to talk about her <a href="http://www.msdanielle.com/">new blog site</a> and link to at lest one post.
+<a href="http://www.msdanielle.com/"><img src="http://blog.abluestar.com/public/uploads/2007/06/250px-talespin.gif" alt="250px-talespin.gif" align="right" />Ms. Danielle</a> is giving away a <a href="http://www.msdanielle.com/microsoft-zune-30gb-giveaway-contest">30GB Microsoft Zune</a> that she won from John Chow. In her contest you have to talk about her <a href="http://www.msdanielle.com/">new blog site</a> and link to at lest one post.
 
 I checked out her site and found a interesting post right away <a href="http://www.msdanielle.com/my-top-5-favorite-childhood-cartoons/">my-top-5-favorite-childhood-cartoons</a> and I decided to write my own top five.
 <ul>

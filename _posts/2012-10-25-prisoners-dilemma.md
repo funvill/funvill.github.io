@@ -14,7 +14,7 @@ Too challenging for a SHHH where would probably consuming some beers and hav
 
 A few months ago I listened to a <a href="http://www.radiolab.org">Radio Lab</a> podcast on <a href="http://www.radiolab.org/blogs/radiolab-blogland/2010/dec/14/prisoners-dilemma/">the prisoners-dilemma</a> where they describe the problem and created a competition where people could submit robots that would play this game. They went on to describe the outcome of a few of these robots, how they worked, why they worked that way. It was a interesting podcast.
 
-<img class="alignright size-medium wp-image-2930" style="line-height: 24px; font-size: 16px;" title="PrisonersDilemma" src="http://www.abluestar.com/blog/wp-content/uploads/2012/10/PrisonersDilemma-300x167.png" alt="" width="300" height="167" />
+<img class="alignright size-medium wp-image-2930" style="line-height: 24px; font-size: 16px;" title="PrisonersDilemma" src="http://blog.abluestar.com/public/uploads/2012/10/PrisonersDilemma-300x167.png" alt="" width="300" height="167" />
 
 This sounded perfect for a simple programming contest. It only had a few rules, inputs,  outputs and its very simple to teach someone. So I created a model of the system with a few example bots.
 <ul>

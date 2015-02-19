@@ -8,9 +8,9 @@ categories: [Laser Cutter]
 ---
 Today I laser cut a few different wooden pendents. Most of the iconic ones came from <a href="http://thenounproject.com/">The Noun Project</a>. The circle ones were generated using a java-script library called <a href="http://raphaeljs.com/">Raphael</a> to emulate <a href="http://en.wikipedia.org/wiki/Sacred_geometry">sacred geometry</a>.
 
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/12/2012-12-02-14.17.08.jpg"><img class="alignnone size-medium wp-image-3066" title="2012-12-02 14.17.08" src="http://www.abluestar.com/blog/wp-content/uploads/2012/12/2012-12-02-14.17.08-300x225.jpg" alt="" width="300" height="225" /></a> <img class="alignnone size-medium wp-image-3067" title="SacredGeometry" src="http://www.abluestar.com/blog/wp-content/uploads/2012/12/SacredGeometry-300x221.png" alt="" width="300" height="221" />
+<a href="http://blog.abluestar.com/public/uploads/2012/12/2012-12-02-14.17.08.jpg"><img class="alignnone size-medium wp-image-3066" title="2012-12-02 14.17.08" src="http://blog.abluestar.com/public/uploads/2012/12/2012-12-02-14.17.08-300x225.jpg" alt="" width="300" height="225" /></a> <img class="alignnone size-medium wp-image-3067" title="SacredGeometry" src="http://blog.abluestar.com/public/uploads/2012/12/SacredGeometry-300x221.png" alt="" width="300" height="221" />
 
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/12/iconic.png"><img class="alignnone size-medium wp-image-3068" title="iconic" src="http://www.abluestar.com/blog/wp-content/uploads/2012/12/iconic-300x192.png" alt="" width="300" height="192" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2012/12/iconic.png"><img class="alignnone size-medium wp-image-3068" title="iconic" src="http://blog.abluestar.com/public/uploads/2012/12/iconic-300x192.png" alt="" width="300" height="192" /></a>
 
 There are a few problems with this set. Two of the very tightly packed circle ones walls are too thin and broke while I was cleaning them up. You may be able to see the broken walls in the picture above. Next time I will make the walls a bit thinker by about 2mms.
 <ul>

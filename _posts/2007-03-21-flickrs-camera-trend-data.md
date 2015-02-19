@@ -14,4 +14,4 @@ Flickr keeps a database of all this data including <a href="http://flickr.com/ca
 
 With this information you can see the rise and fall of different camaras based on there models.  Invaluable when you are doing research for a new camera. Flickr even takes its one step father by providing you example pictures taken with the camera.
 
-<a href="http://flickr.com/cameras/" title="populare point and shoot cameras"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/03/populare-point-and-shoot-cameras.JPG" alt="populare point and shoot cameras" /></a>
+<a href="http://flickr.com/cameras/" title="populare point and shoot cameras"><img src="http://blog.abluestar.com/public/uploads/2007/03/populare-point-and-shoot-cameras.JPG" alt="populare point and shoot cameras" /></a>

@@ -8,7 +8,7 @@ categories: [Web development]
 ---
 I found this great plug-in for [tag]Wordpress[/tag] that allows your users to subscribe to a posts comments, any reply to the post will be sent to there email automatically.
 
-This is much easier then having to check back on the post periodically to see if anyone has made a response to your response or subscribe to the comments <a href="http://www.abluestar.com/blog/what-are-rss-feeds-and-how-to-use-them/">rss feed</a>.
+This is much easier then having to check back on the post periodically to see if anyone has made a response to your response or subscribe to the comments <a href="http://blog.abluestar.com/what-are-rss-feeds-and-how-to-use-them/">rss feed</a>.
 
 The Plugin is very easy to install - just upload two files and activate the Plug-in in the Wordpress Plug-in's control panel.
 

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Tips and Tricks, Web development]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/03/100px-feed-iconsvg.png" title="RSS icon 100Ã—100"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/03/100px-feed-iconsvg.png" alt="RSS icon 100Ã—100" align="left" /></a><strong>What is an RSS feed? </strong>
+<a href="http://blog.abluestar.com/public/uploads/2007/03/100px-feed-iconsvg.png" title="RSS icon 100Ã—100"><img src="http://blog.abluestar.com/public/uploads/2007/03/100px-feed-iconsvg.png" alt="RSS icon 100Ã—100" align="left" /></a><strong>What is an RSS feed? </strong>
 
 An RSS (Rich Site Summary) a format for delivering regularly changing web content, designed for Blogs, Newsgroups, ect.
 Basically it is a small text document that contains a summery of the recent posts on a Blog or newsgroup that a User/Feed reader/Aggregators can download to check if there is any new contact on a particular website.
@@ -28,6 +28,6 @@ Some popular feed readers include
 
 The RSS feed for this website can be found on the site bar "<a href="http://feeds.feedburner.com/Abluestar">subscribe to RSS feed</a>"
 A list of all the feeds that I regularly read can be found in my opml (Outline Processor Markup Language) file.
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/03/03-08-2007.opml"><img src="http://www.abluestar.com/images/opml-icon-16x16.png" style="border-style: none; border-width: 0px; margin: 0px 2px; padding: 0px" />My current feeds</a>
+<a href="http://blog.abluestar.com/public/uploads/2007/03/03-08-2007.opml"><img src="http://www.abluestar.com/images/opml-icon-16x16.png" style="border-style: none; border-width: 0px; margin: 0px 2px; padding: 0px" />My current feeds</a>
 
 Other popular sites that provide RSS feeds, <a href="http://www.feedburner.com/">Feedburner</a>

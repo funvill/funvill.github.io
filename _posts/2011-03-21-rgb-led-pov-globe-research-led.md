@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Development, News, Projects, Tips and Tricks]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2011/03/piranha.jpg"><img class="alignright size-thumbnail wp-image-1385" title="piranha" src="http://www.abluestar.com/blog/wp-content/uploads/2011/03/piranha-150x150.jpg" alt="" width="150" height="150" /></a>I started searching for a LED to use in this project.
+<a href="http://blog.abluestar.com/public/uploads/2011/03/piranha.jpg"><img class="alignright size-thumbnail wp-image-1385" title="piranha" src="http://blog.abluestar.com/public/uploads/2011/03/piranha-150x150.jpg" alt="" width="150" height="150" /></a>I started searching for a LED to use in this project.
 
 Normally I would go to my local electronics supply story, but this project requires lots (~64) of LEDs and my <a href="http://www.leeselectronic.com/">local electronics store</a> charges a premium for the LEDs, (@<a href="http://www.leeselectronic.com/product_info.php?products_id=9004">1.50 each</a>) and I know I can get them for cheaper then that.
 
@@ -26,12 +26,12 @@ I have ordered a few samples from different sites that supported free shipping, 
 
 <strong>RGB LED POV Globe</strong>
 <ol>
-	<li><a href="http://www.abluestar.com/blog/rgb-led-pov-globe-research/">RGB LED POV Globe €“ Research</a><strong>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-research/">RGB LED POV Globe €“ Research</a><strong>
 </strong></li>
-	<li><a href="http://www.abluestar.com/blog/rgb-led-pov-globe-%E2%80%93-research-led/">RGB LED POV Globe €“ Research LED</a></li>
-	<li><a href="http://www.abluestar.com/blog/rgb-led-pov-globe-parts-shopping/">RGB LED POV Globe</a><a href="http://www.abluestar.com/blog/rgb-led-pov-globe-%E2%80%93-research-led/"> €“ Parts shopping</a></li>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/">RGB LED POV Globe €“ Research LED</a></li>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-parts-shopping/">RGB LED POV Globe</a><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/"> €“ Parts shopping</a></li>
 	<li><a href="http://http//www.abluestar.com/blog/rgb-led-pov-globe-%E2%80%93-research-other-peoples-projects">RGB LED POV Globe €“ Research other peoples projects.</a></li>
-	<li><a href="http://www.abluestar.com/blog/rgb-led-pov-globe-%e2%80%93-software/">RGB LED POV Globe €“ Software</a></li>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%e2%80%93-software/">RGB LED POV Globe €“ Software</a></li>
 </ol>
 &nbsp;
 <ol>

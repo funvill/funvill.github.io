@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Web development]
 ---
-<img src="http://www.abluestar.com/blog/wp-content/uploads/2007/06/things_that_can_go_wrong.thumbnail.jpg" alt="things_that_can_go_wrong.jpg" align="right" height="118" width="127" />Today I read a post by <a href="http://www.janemayblogs.com/">Jane May</a> at <a href="http://www.johnchow.com">John chow dot com</a>, <a href="http://www.johnchow.com/the-secrets-of-picking-a-niche/">The Secrets of Picking A Niche</a> its a good read if you got 7 mins to spare. The article talks about how to pick the right Niche or subject for your blog or upcoming website. It got me thinking about my own Niche blog <a href="http://www.abluestar.com/games/">Games games and more games</a> and I realized where I went wrong.
+<img src="http://blog.abluestar.com/public/uploads/2007/06/things_that_can_go_wrong.thumbnail.jpg" alt="things_that_can_go_wrong.jpg" align="right" height="118" width="127" />Today I read a post by <a href="http://www.janemayblogs.com/">Jane May</a> at <a href="http://www.johnchow.com">John chow dot com</a>, <a href="http://www.johnchow.com/the-secrets-of-picking-a-niche/">The Secrets of Picking A Niche</a> its a good read if you got 7 mins to spare. The article talks about how to pick the right Niche or subject for your blog or upcoming website. It got me thinking about my own Niche blog <a href="http://www.abluestar.com/games/">Games games and more games</a> and I realized where I went wrong.
 <ul>
 	<li><strong>Time to reflect
 </strong>I spent a lot of time thinking about what I would like to write about. I wrote a big list of all the things that I enjoy in life and one of them happened to be boardgames. When I started writing the blog I was running a weekly boardgames night where 6-10 would get together every Sunday and play games. I had been doing this for about 3-4 months and I had collected about 50 different unique games and I was always on the search for new games.</li>
@@ -27,6 +27,6 @@ Well the last one was hard for me to gage until I had been working on the site f
 So My games site probably will never have a community, and there is almost no chance that people will subscribe to the RSS feed.  People come get what they want and leave.
 
 So I should give up right?
-No!  My games site is a perfect example of <a href="http://www.abluestar.com/blog/timeless-content/">timeless content</a>, the content on this site will still be valid in 5-10 years or more. As the amount of content increases the site will be come more valuable.
+No!  My games site is a perfect example of <a href="http://blog.abluestar.com/timeless-content/">timeless content</a>, the content on this site will still be valid in 5-10 years or more. As the amount of content increases the site will be come more valuable.
 
 Also I enjoy writing about games, I'm learning a lot and I'm having fun writing about them. I won't get a community but I will be the only person in the city that knows 10,000 different <a href="http://www.abluestar.com/games/">card and dice games</a>, any game that I don't know I should be able to make a good guess at the rules. I wont be famous on the internet like <a href="http://www.johnchow.com">John chow dot com</a> but I will be populare in my own city and thats enough for me.

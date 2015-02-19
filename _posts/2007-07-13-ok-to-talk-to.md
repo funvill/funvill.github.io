@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Interesting, Vancouver]
 ---
-<a href="http://www.oksocial.org/"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/07/br-button2.thumbnail.jpg" alt="br-button2.jpg" align="right" /></a> I have always had trouble striking up conversation with random people, I like to be introduced to someone first to have the 'Its OK to talk to me' smile and hand shake.
+<a href="http://www.oksocial.org/"><img src="http://blog.abluestar.com/public/uploads/2007/07/br-button2.thumbnail.jpg" alt="br-button2.jpg" align="right" /></a> I have always had trouble striking up conversation with random people, I like to be introduced to someone first to have the 'Its OK to talk to me' smile and hand shake.
 
 I hate getting that unwelcome, confused look that you sometimes get when you try to strike up a conversation with a random somebody and there trying to find out what you are trying to sell them.
 

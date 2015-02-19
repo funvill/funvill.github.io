@@ -7,7 +7,7 @@ comments: true
 categories: [Media]
 ---
 
-<p align="left"><a href="http://www.abluestar.com/blog/wp-content/uploads/2007/03/prestige.jpg" title="The Prestige"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/03/prestige.thumbnail.jpg" alt="The Prestige" align="right" /></a></p>
+<p align="left"><a href="http://blog.abluestar.com/public/uploads/2007/03/prestige.jpg" title="The Prestige"><img src="http://blog.abluestar.com/public/uploads/2007/03/prestige.thumbnail.jpg" alt="The Prestige" align="right" /></a></p>
 <p align="left"><strong>Tag line:</strong> A Friendship, That Became a Rivalry, A Rivalry, That Became a Battle.</p>
 Its a story about two competing magicians locked in a bitter rivalry that ends with deadly consequences. The story takes place in the picturesque back drop of turn of the century Victorian London with <a href="http://imdb.com/name/nm0413168/">Hugh Jackman</a> as Robert Angier and <a href="http://imdb.com/name/nm0000288/">Christian Bale</a> as Alfred Borden  fellow apprentices turned unfortunate rivals, a plot riddled with jealous, obsession, deceit, revenge that keeps you on the edge of your seat.
 

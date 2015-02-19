@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Development, development, faq, Projects, respberryPI, Tips and Tricks]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/06/Raspberry-Pi-Logo.jpg"><img class="alignright size-thumbnail wp-image-2774" title="Raspberry-Pi-Logo" src="http://www.abluestar.com/blog/wp-content/uploads/2012/06/Raspberry-Pi-Logo-150x150.jpg" alt="" width="150" height="150" /></a>I got my new shinny <a href="http://www.raspberrypi.org/">Raspberry PI</a> a few days ago, and got some time to play with it today. I am a windows guy by default and this is my first adventure in to the world of Linux. While getting everything started it up I ran in to these questions.
+<a href="http://blog.abluestar.com/public/uploads/2012/06/Raspberry-Pi-Logo.jpg"><img class="alignright size-thumbnail wp-image-2774" title="Raspberry-Pi-Logo" src="http://blog.abluestar.com/public/uploads/2012/06/Raspberry-Pi-Logo-150x150.jpg" alt="" width="150" height="150" /></a>I got my new shinny <a href="http://www.raspberrypi.org/">Raspberry PI</a> a few days ago, and got some time to play with it today. I am a windows guy by default and this is my first adventure in to the world of Linux. While getting everything started it up I ran in to these questions.
 
 <strong>[Q] I have a 700 mA USB power supply but my Raspberry PI keeps turning off randomly, Why? </strong>
 <strong>[A]</strong> 700 mA is the absolute minimum, Once I switched to a 1500 mA power supply I had a lot less problems with random restarts.

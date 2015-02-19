@@ -14,4 +14,4 @@ A great system I have used it a few times. Of cource they still have some bugs t
 
 <a href="http://maps.google.ca/maps?f=d&amp;hl=en&amp;geocode=&amp;time=11:08am&amp;date=08%2F11%2F07&amp;ttype=dep&amp;saddr=240+st+and+lougheed+hwy+maple+ridge&amp;daddr=mavis+and+glover,+Langley,+Greater+Vancouver,+British+Columbia,+Canada&amp;dirflg=r&amp;sll=49.176766,-122.567382&amp;sspn=0.01414,0.025234&amp;ie=UTF8&amp;z=11&amp;om=1&amp;start=0">6 transfers and 3 hours, 41 minutes to travail 4k</a>
 240 st and Lougheed hwy Maple Ridge ==&gt; Mavis and Glover, Langley, Greater Vancouver
-<p style="text-align: center"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/11/translink_map.jpg" /></p>
+<p style="text-align: center"><img src="http://blog.abluestar.com/public/uploads/2007/11/translink_map.jpg" /></p>

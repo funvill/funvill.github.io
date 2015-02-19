@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Interesting]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/03/egg_001_lg1.jpg" title="Egglings"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/03/egg_001_lg1.thumbnail.jpg" alt="Egglings" align="right" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2007/03/egg_001_lg1.jpg" title="Egglings"><img src="http://blog.abluestar.com/public/uploads/2007/03/egg_001_lg1.thumbnail.jpg" alt="Egglings" align="right" /></a>
 
 Ceramic Egglings look and feel just like real eggs, Just crack one open, add water. Perfect for brightening any home or office space. Plants thrive for months in their shell and can be replanted in soil.
 

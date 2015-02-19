@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Games]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/05/munchkin.jpg"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/05/munchkin_1.jpg" alt="munchkin_1.jpg" title="munchkin_1.jpg" align="right" border="0" height="300" width="207" /></a><strong>Play time:</strong> 1 hour
+<a href="http://blog.abluestar.com/public/uploads/2007/05/munchkin.jpg"><img src="http://blog.abluestar.com/public/uploads/2007/05/munchkin_1.jpg" alt="munchkin_1.jpg" title="munchkin_1.jpg" align="right" border="0" height="300" width="207" /></a><strong>Play time:</strong> 1 hour
 <strong>Players: </strong>3-6*
 <strong>Set up time:</strong> 5min
 <strong>Ages: </strong>16-up

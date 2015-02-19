@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Projects]
 ---
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/02/t-completed.jpg" title="NiMH/NiCd Cells charger"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/02/t-completed.thumbnail.jpg" alt="NiMH/NiCd Cells charger" border="0" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2007/02/t-completed.jpg" title="NiMH/NiCd Cells charger"><img src="http://blog.abluestar.com/public/uploads/2007/02/t-completed.thumbnail.jpg" alt="NiMH/NiCd Cells charger" border="0" /></a>
 
 The other day I was looking at a USB cell charger from ThinkGeek.
 A battery that charges while it is connected to my USB port.

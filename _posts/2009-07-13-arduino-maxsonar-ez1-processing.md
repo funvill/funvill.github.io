@@ -10,6 +10,6 @@ After resolving my user error with the Maxsonar EZ1 with the help of <em>Bob Gro
 
 So I rewrote the code to use arc instead of lines, Change the hue of the arc depending on how close the object is and CSV instead of a proprietary format. It looks much better if you ask me.
 
-<img class="aligncenter size-full wp-image-764" title="example" src="http://www.abluestar.com/blog/wp-content/uploads/2009/07/example.gif" alt="example" width="646" height="506" />
+<img class="aligncenter size-full wp-image-764" title="example" src="http://blog.abluestar.com/public/uploads/2009/07/example.gif" alt="example" width="646" height="506" />
 
 Source code: <a href="http://www.abluestar.com/dev/arduino/snippets/range_finder_001_%5b2009Jul13_14-01-14%5d.zip">/dev/arduino/snippets/range_finder_001_[2009Jul13_14-01-14].zip</a>

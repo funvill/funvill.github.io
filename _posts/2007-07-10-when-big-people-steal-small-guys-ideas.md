@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Web development]
 ---
-<img src="http://www.abluestar.com/blog/wp-content/uploads/2007/07/colourlovers.jpg" alt="colourlovers.jpg" />
+<img src="http://blog.abluestar.com/public/uploads/2007/07/colourlovers.jpg" alt="colourlovers.jpg" />
 
 I was reading some of the posts on the <a href="http://www.dailyblogtips.com/blog-project-three-final-list/">top three</a> contest by <a href="http://www.dailyblogtips.com/blog-project-three-final-list/">dailyblogtips.com</a>.
 One that caught my attention was  <a href="http://www.clazh.com/31-things-bloggers-should-never-ever-do/">3+1 things bloggers should never ever do

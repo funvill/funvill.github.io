@@ -10,7 +10,7 @@ Last week I started on a simple web app that only has three pages. After I got t
 
 After playing around with the source code for a while I found a few bugs with the system. The tutorial also didn't include a example project to download and try out. So I fixed some of the bugs and created the example code.
 
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/07/nicedog_20120728_024604.zip">nicedog_update</a>
+<a href="http://blog.abluestar.com/public/uploads/2012/07/nicedog_20120728_024604.zip">nicedog_update</a>
 
 <strong>NiceDog nano php web framework example code. </strong>
 <pre>&lt;?php

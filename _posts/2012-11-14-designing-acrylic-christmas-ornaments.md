@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [christmas, Development, Laser, lasercutter, ornaments]
 ---
-<img class="size-full wp-image-2987 alignright" title="orderments" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/orderments.png" alt="" width="228" height="228" />Today I designed a <a href="http://en.wikipedia.org/wiki/Christmas_ornament">Christmas ornaments</a> that I am planning on cutting on <a href="http://vancouver.hackspace.ca/wp/">VHS's laser cutter</a>. The white sections will be cut first, followed by the red, leaving only the black left. I plan to put a small thread though the "O" of holiday....
+<img class="size-full wp-image-2987 alignright" title="orderments" src="http://blog.abluestar.com/public/uploads/2012/11/orderments.png" alt="" width="228" height="228" />Today I designed a <a href="http://en.wikipedia.org/wiki/Christmas_ornament">Christmas ornaments</a> that I am planning on cutting on <a href="http://vancouver.hackspace.ca/wp/">VHS's laser cutter</a>. The white sections will be cut first, followed by the red, leaving only the black left. I plan to put a small thread though the "O" of holiday....
 
 As I write this I just notice now that there is an extra "D" in HOLIDAY... Opps, I will fix that before I cut it.
 

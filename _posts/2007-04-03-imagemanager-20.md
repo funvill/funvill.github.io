@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Web development]
 ---
-<img src="http://www.abluestar.com/blog/wp-content/uploads/2007/03/image-missing.png" alt="image-missing" align="right" />One of the most important Wordpress plugin's for any blogger, ImageManager alowes you to resize, crop, rotate, flip or scale uploaded images.
+<img src="http://blog.abluestar.com/public/uploads/2007/03/image-missing.png" alt="image-missing" align="right" />One of the most important Wordpress plugin's for any blogger, ImageManager alowes you to resize, crop, rotate, flip or scale uploaded images.
 
 Having an image included with your posts make it stick out, but if that image is huge or has random crap in the background it can become annoying.
 
