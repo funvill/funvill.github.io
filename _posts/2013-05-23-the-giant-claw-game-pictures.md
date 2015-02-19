@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Giant Claw Game! €“ Pictures
+title: The Giant Claw Game! - Pictures
 date: 2013-05-23 22:29
 author: funvill
 comments: true

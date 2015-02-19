@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Giant Claw Game! €“ The Claw, Prototype 3
+title: The Giant Claw Game! - The Claw, Prototype 3
 date: 2013-05-05 20:15
 author: funvill
 comments: true

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<a href="/blog/wp-content/uploads/2006/summeraddiction_copy.jpg" rel="lightbox"><img src="/blog/wp-content/uploads/2006/.thumbs/.summeraddiction_copy.jpg" alt="summeraddiction_copy.jpg" title="summeraddiction_copy.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="200" width="157" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2006/summeraddiction_copy.jpg" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/.thumbs/.summeraddiction_copy.jpg" alt="summeraddiction_copy.jpg" title="summeraddiction_copy.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="200" width="157" /></a>
 
 <strong>Summer Addiction Beach Party</strong>
 August 30 will be an introduction to a new series: Summer Addiction. This month we start with a Beach Party that will set a new mark with amazing decorations. With sand, tiki huts, palm trees, surf boards, a special VIP Raft Lounge and more, you will be left feeling as though you're at the beach and craving nothing but cold drinks and bumpin beats.

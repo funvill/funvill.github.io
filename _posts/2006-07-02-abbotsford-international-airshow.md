@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<img src="/blog/wp-content/uploads/2006/07/ch124.jpg" id="image11" alt="Abbotsford International Airshow" align="right" />
+<img src="http://blog.abluestar.com/public/uploads/2006/07/ch124.jpg" id="image11" alt="Abbotsford International Airshow" align="right" />
 <strong>Where:</strong> The Abbotsford Airport, a short drive from Vancouver (1 hour)
 <strong>When:</strong> AUGUST 11-13
 <strong>What:</strong> Abbotsford International Airshow

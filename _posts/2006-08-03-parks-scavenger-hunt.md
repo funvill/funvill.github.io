@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<a href="/blog/wp-content/uploads/2006/07/scavenger_hunt_logo_big.jpg" rel="lightbox"><img src="/blog/wp-content/uploads/2006/07/.thumbs/.scavenger_hunt_logo_big.jpg" alt="scavenger_hunt_logo_big.jpg" title="scavenger_hunt_logo_big.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="77" width="200" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2006/07/scavenger_hunt_logo_big.jpg" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/07/.thumbs/.scavenger_hunt_logo_big.jpg" alt="scavenger_hunt_logo_big.jpg" title="scavenger_hunt_logo_big.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="77" width="200" /></a>
 
 Spend a day in any park in BC and see how many of our scavenger list items you and your team can find. Check them off and send in your entry form by August 15 and your team will be entered in a draw to win a $250 gift certificate from Mountain Equipment Co-op and snacks for your whole team from Tim Hortons!.
 
@@ -28,9 +28,9 @@ Spend a day in any park in BC and see how many of our scavenger list items you a
 </ul>
 <strong>Rules:</strong>
 <ol>
-	<li>Your scavenger hunt must take place in a public park €“ municipal, provincial, federal€¦any public park.</li>
+	<li>Your scavenger hunt must take place in a public park - municipal, provincial, federal€¦any public park.</li>
 	<li>Put your team together and plan your outing (remember water, snacks, sunblock and trailmaps if necessary).</li>
-	<li>Register your team €“ send your team name, the name of the park you will be exploring and the date you're planning your outing to parksmonth@cpawsbc.org.</li>
+	<li>Register your team - send your team name, the name of the park you will be exploring and the date you're planning your outing to parksmonth@cpawsbc.org.</li>
 	<li>Go exploring in your chosen park and have fun.</li>
 	<li>Check off the items on the list as you find them. Please DO NOT pick plants, disturb wildlife or remove anything from the park. There is space on the entry form to record details of your finds and there€™s a surprise bonus prize for the team that sends in the best collection of scavenger booty - including drawings, photographs, monument rubbings or written descriptions of the items they found.</li>
 	<li>Download your entry form and fill out your team name, all the names and ages of team members (teams can be any size, but we recommend you keep them small enough that everyone can participate), the name of the park your team explored, the date of your scavenger hunt, etc. Attach a photo of your group with your park€™s entrance sign, a trail sign, or park monument.</li>

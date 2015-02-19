@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Giant Claw Game! €“ Time Lapes 
+title: The Giant Claw Game! - Time Lapes 
 date: 2013-06-05 21:57
 author: funvill
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Giant Claw Game! €“ Problems 
+title: The Giant Claw Game! - Problems 
 date: 2013-05-19 21:41
 author: funvill
 comments: true

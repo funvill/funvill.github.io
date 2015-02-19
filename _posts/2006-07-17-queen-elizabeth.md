@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<img src="/blog/wp-content/uploads/2006/07/mainphoto_qepark.jpg" id="image37" alt="Queen Elizabeth" align="right" />
+<img src="http://blog.abluestar.com/public/uploads/2006/07/mainphoto_qepark.jpg" id="image37" alt="Queen Elizabeth" align="right" />
 
 The top of this beautifully maintained 52 hectare (130 acre) park is the highest point in the city, at 167m (505 ft) above sea level. From the lookouts, visitors have a 360 degree view of the Vancouver skyline. The park receives nearly 6 million visitors a year who marvel at its superior standard of garden plantings.
 

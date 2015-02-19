@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<img src="/blog/wp-content/uploads/2006/4610108_m.gif" alt="I hart Zombies" title="I hart Zombies" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="170" width="170" />
+<img src="http://blog.abluestar.com/public/uploads/2006/4610108_m.gif" alt="I hart Zombies" title="I hart Zombies" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="170" width="170" />
 
 Saturday, August 19 - starts 4pm from the VAG (Vancouver Art Gallery) and 5pm from 15th and Sophia
 (near Main St).

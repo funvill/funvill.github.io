@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Media, Vancouver]
 ---
-<a href="/blog/wp-content/uploads/2006/MUS_Concerts2_2018.jpg" rel="lightbox"><img src="/blog/wp-content/uploads/2006/.thumbs/.MUS_Concerts2_2018.jpg" alt="MUS_Concerts2_2018.jpg" title="MUS_Concerts2_2018.jpg" style="margin: 5px 10px; padding: 3px" border="2" height="200" width="133" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2006/MUS_Concerts2_2018.jpg" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/.thumbs/.MUS_Concerts2_2018.jpg" alt="MUS_Concerts2_2018.jpg" title="MUS_Concerts2_2018.jpg" style="margin: 5px 10px; padding: 3px" border="2" height="200" width="133" /></a>
 Erich Saide photo.
 
 <strong>Tool at GM Place Review </strong>

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<a href="/blog/wp-content/uploads/2006/07/31134639.100_0025.JPG" rel="lightbox"><img src="/blog/wp-content/uploads/2006/07/.thumbs/.31134639.100_0025.JPG" alt="31134639.100_0025.JPG" title="31134639.100_0025.JPG" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="200" width="150" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2006/07/31134639.100_0025.JPG" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/07/.thumbs/.31134639.100_0025.JPG" alt="31134639.100_0025.JPG" title="31134639.100_0025.JPG" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="200" width="150" /></a>
 
 A 90-minute run that starts in twilight in a suburban neighborhood, then stimulates your senses with a trail run in the mist and inky blackness of the Capilano Canyon. A guided Group run at a gentle pace for the socially-inclined and first time night runner. A Competitive category for those more motivated by the clock and the opportunity to rip their buddy's lungs out. A potluck party and celebration of summer. Entry limited to first 50, so please register early!
 

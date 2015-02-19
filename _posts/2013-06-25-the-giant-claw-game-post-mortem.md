@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Giant Claw Game! €“ Post Mortem
+title: The Giant Claw Game! - Post Mortem
 date: 2013-06-25 22:25
 author: funvill
 comments: true

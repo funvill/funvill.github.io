@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RescueTime July €“ September 2014
+title: RescueTime July - September 2014
 date: 2014-10-10 16:49
 author: funvill
 comments: true

@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<img src="/blog/wp-content/uploads/2006/07/mad-tea-party-with-queen-2.thumbnail.jpg" id="image24" alt="Annual Mad Hatters Tea Party" align="right" />
+<img src="http://blog.abluestar.com/public/uploads/2006/07/mad-tea-party-with-queen-2.thumbnail.jpg" id="image24" alt="Annual Mad Hatters Tea Party" align="right" />
 
 The 13th Annual
 MAD HATTER¹S TEA PARTY

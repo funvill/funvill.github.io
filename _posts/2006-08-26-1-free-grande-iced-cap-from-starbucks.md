@@ -6,12 +6,12 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<a href="/blog/wp-content/uploads/2006/coffe.gif" rel="lightbox"><img src="/blog/wp-content/uploads/2006/.thumbs/.coffe.gif" alt="coffe.gif" title="coffe.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="155" width="200" /></a>
+<a href="http://blog.abluestar.com/public/uploads/2006/coffe.gif" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/.thumbs/.coffe.gif" alt="coffe.gif" title="coffe.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="155" width="200" /></a>
 
 Starbucks goes crazy and starts giving away its Iced coffee.
 Get a <strong>free Grande Iced Cap</strong> from <strong>Starbucks</strong>!
 1 per person, per day, until September 30th, 2006!
-Click the image above to print off a copy of the <a href="/wp-content/uploads/2006/coffe.gif" rel="lightbox">coupon</a>
+Click the image above to print off a copy of the <a href="http://blog.abluestar.com/public/uploads/2006/coffe.gif" rel="lightbox">coupon</a>
 These things normally would go for around $4 each.
 <strong>Enjoy </strong>!
 

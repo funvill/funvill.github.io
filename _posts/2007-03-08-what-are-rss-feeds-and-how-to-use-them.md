@@ -22,7 +22,7 @@ Some popular feed readers include
 <ul>
 	<li><a href="http://www.newsgator.com/NGOLProduct.aspx?ProdID=FeedDemon">FeedDemon</a> - My favorite feed reader and the only one that I have used. It costs about ~$30</li>
 	<li><a href="http://www.google.com/reader/">Mozilla Thunderbird</a> - Free, I have heard very good things about this feed reader but I have not tried it for my self.</li>
-	<li><a href="http://www.google.com/reader/">Google feed reader</a> €“ Free</li>
+	<li><a href="http://www.google.com/reader/">Google feed reader</a> - Free</li>
 </ul>
 <strong>Where can I go to get RSS feeds? </strong>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Giant Claw Game! €“ Relay H-Bridge and Circuit Design
+title: The Giant Claw Game! - Relay H-Bridge and Circuit Design
 date: 2013-05-18 13:33
 author: funvill
 comments: true

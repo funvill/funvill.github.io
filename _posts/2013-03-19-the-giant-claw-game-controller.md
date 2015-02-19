@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Giant Claw Game! €“ Controller 
+title: The Giant Claw Game! - Controller 
 date: 2013-03-19 22:30
 author: funvill
 comments: true

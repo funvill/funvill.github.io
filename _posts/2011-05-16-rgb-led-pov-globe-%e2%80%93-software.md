@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RGB LED POV Globe €“ Software
+title: RGB LED POV Globe - Software
 date: 2011-05-16 21:07
 author: funvill
 comments: true
@@ -22,12 +22,12 @@ This source code is still a work in progress but functionally its working.
 
 <strong>RGB LED POV Globe</strong>
 <ol>
-	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-research/">RGB LED POV Globe €“ Research</a><strong>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-research/">RGB LED POV Globe - Research</a><strong>
 </strong></li>
-	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/">RGB LED POV Globe €“ Research LED</a></li>
-	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-parts-shopping/">RGB LED POV Globe</a><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/"> €“ Parts shopping</a></li>
-	<li><a href="http://http//www.abluestar.com/blog/rgb-led-pov-globe-%E2%80%93-research-other-peoples-projects">RGB LED POV Globe €“ Research other peoples projects.</a></li>
-	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%e2%80%93-software/">RGB LED POV Globe €“ Software</a></li>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/">RGB LED POV Globe - Research LED</a></li>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-parts-shopping/">RGB LED POV Globe</a><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/"> - Parts shopping</a></li>
+	<li><a href="http://http//www.abluestar.com/blog/rgb-led-pov-globe-%E2%80%93-research-other-peoples-projects">RGB LED POV Globe - Research other peoples projects.</a></li>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%e2%80%93-software/">RGB LED POV Globe - Software</a></li>
 </ol>
 &nbsp;
 

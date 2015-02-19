@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<img src="/blog/wp-content/uploads/2006/07/cars-dock.jpg" id="image26" alt="cars-dock.jpg" align="right" />
+<img src="http://blog.abluestar.com/public/uploads/2006/07/cars-dock.jpg" id="image26" alt="cars-dock.jpg" align="right" />
 Heineken presents the Yaletown 06 Flamin' Hot Classic Car Show and Summer Celebration, now revved up for its sixth year. This free event features one of the best boutique vintage car shows found anywhere, plus live entertainment and things to do for everyone in the family.
 
 <strong>Who:</strong> <a href="http://www.heineken.com/">Heineken </a>

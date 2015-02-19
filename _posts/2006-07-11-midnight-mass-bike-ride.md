@@ -7,7 +7,7 @@ comments: true
 categories: [Vancouver]
 ---
 
-<p align="center"><img src="/blog/wp-content/uploads/2006/07/193134753_8bce4bb418.jpg" id="image31" alt="Midnight Mass Bike Ride" /></p>
+<p align="center"><img src="http://blog.abluestar.com/public/uploads/2006/07/193134753_8bce4bb418.jpg" id="image31" alt="Midnight Mass Bike Ride" /></p>
  Hey all you kids out there in bike land - we're days away from the 4th Thursday of the month -
 This <strong>thursday, July 27th</strong> it's time once again for the midnight mass!
 

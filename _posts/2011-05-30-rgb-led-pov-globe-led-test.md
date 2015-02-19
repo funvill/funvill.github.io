@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RGB LED POV Globe €“ LED test
+title: RGB LED POV Globe - LED test
 date: 2011-05-30 22:46
 author: funvill
 comments: true

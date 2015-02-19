@@ -24,7 +24,7 @@ After researching several other boards, I decided to make my own specificall
 
 <img class="alignright size-thumbnail wp-image-1350" title="595_pin_diagram" src="http://blog.abluestar.com/public/uploads/2011/03/595_pin_diagram-150x150.png" alt="" width="150" height="150" />
 
-The most commonly used and basic, shift register is the <a href="http://www.sparkfun.com/products/733">74HC595</a>. There are lots of <a href="http://www.arduino.cc/en/Tutorial/ShiftOut">tutorials</a> and <a href="http://www.youtube.com/watch?v=5P9Gmqk5338">project</a><a href="http://code.google.com/p/bicycleledpov/"> using</a> this chip.  It has 8 output pins and can be connected in series. After asking a few questions on the <a href="http://vancouver.hackspace.ca/">Vancouver HackSpace</a> (VHS) mailing list. I was pointed at the <a href="http://www.insidegadgets.com/projects/shift-register-breakout-board/">595 Shift Ease €“ 74HC595 Shift Register Breakout Board</a>. An ingenious little board that lets you combine shift registers together easily to create a long series of shift registers.
+The most commonly used and basic, shift register is the <a href="http://www.sparkfun.com/products/733">74HC595</a>. There are lots of <a href="http://www.arduino.cc/en/Tutorial/ShiftOut">tutorials</a> and <a href="http://www.youtube.com/watch?v=5P9Gmqk5338">project</a><a href="http://code.google.com/p/bicycleledpov/"> using</a> this chip.  It has 8 output pins and can be connected in series. After asking a few questions on the <a href="http://vancouver.hackspace.ca/">Vancouver HackSpace</a> (VHS) mailing list. I was pointed at the <a href="http://www.insidegadgets.com/projects/shift-register-breakout-board/">595 Shift Ease - 74HC595 Shift Register Breakout Board</a>. An ingenious little board that lets you combine shift registers together easily to create a long series of shift registers.
 
 I started searching for other shift register that had more output pins and better power management. I found the <a href="http://focus.ti.com/docs/prod/folders/print/tlc5947.html">TLC5947</a>. It has 24x PWM 12bit outputs, better power management, and it has a neat thermal shutdown function (Automatic shutdown at over temperature by  that turns off all output drivers). So it if ever gets too hot it turns it self off to protect it. Sounds like the perfect chip, except that it only comes as a <a href="http://en.wikipedia.org/wiki/Surface-mount_technology">surface mount chip</a> (SMT). I never done a SMT before and i have been told that they can be troublesome. One more new skill to learn.
 
@@ -50,12 +50,12 @@ I am hoping to spend less then $1000 on this project but i suspect that by the e
 
 <strong>RGB LED POV Globe</strong>
 <ol>
-	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-research/">RGB LED POV Globe €“ Research</a><strong>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-research/">RGB LED POV Globe - Research</a><strong>
 </strong></li>
-	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/">RGB LED POV Globe €“ Research LED</a></li>
-	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-parts-shopping/">RGB LED POV Globe</a><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/"> €“ Parts shopping</a></li>
-	<li><a href="http://http//www.abluestar.com/blog/rgb-led-pov-globe-%E2%80%93-research-other-peoples-projects">RGB LED POV Globe €“ Research other peoples projects.</a></li>
-	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%e2%80%93-software/">RGB LED POV Globe €“ Software</a></li>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/">RGB LED POV Globe - Research LED</a></li>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-parts-shopping/">RGB LED POV Globe</a><a href="http://blog.abluestar.com/rgb-led-pov-globe-%E2%80%93-research-led/"> - Parts shopping</a></li>
+	<li><a href="http://http//www.abluestar.com/blog/rgb-led-pov-globe-%E2%80%93-research-other-peoples-projects">RGB LED POV Globe - Research other peoples projects.</a></li>
+	<li><a href="http://blog.abluestar.com/rgb-led-pov-globe-%e2%80%93-software/">RGB LED POV Globe - Software</a></li>
 </ol>
 &nbsp;
 

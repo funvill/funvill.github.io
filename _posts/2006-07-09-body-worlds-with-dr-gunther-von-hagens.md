@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<img src="/blog/wp-content/uploads/2006/07/bodyworlds.gif" id="image29" alt="Dr. Gunther von Hagens" align="right" />
+<img src="http://blog.abluestar.com/public/uploads/2006/07/bodyworlds.gif" id="image29" alt="Dr. Gunther von Hagens" align="right" />
 Real humans. Real science. Really amazing!
 Never before has an exhibition offered such an intimate look at the human body. Approximately 200 real human specimens€”whole body plastinates, individual organs, transparent body slices and healthy and diseased organs€”present a one-of-a-kind anatomy and physiology lesson. See how your body€™s systems relate to one another and work together to help you function and survive. View firsthand how lifestyle choices impact your health and how muscles and joints work together during athletic performance.
 

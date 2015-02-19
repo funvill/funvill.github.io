@@ -27,7 +27,7 @@ One of the easiest ways to write timeless content is to write about history. The
 
 <strong>Tips for creating timeless content</strong>
 <ul>
-	<li><strong> Include extra information</strong> €“ When writing about a current events or new project, include a history, Include a time line of events that that caused it, and its predecessors. Add extra information that will be useful even after this event as passed and the product has been replaces.</li>
-	<li><strong> Avoid words that give a sense of age</strong> €“ Whenever it is possible don€™t mention dates or any reference to how old this content is. If you have to reference the date use a full date Feb 2007 instead of 3 days a go, or last year.</li>
-	<li><strong> Don€™t talk about things that change</strong> €“ Don€™t talk about things that may change next year. If you are caught it€™s a sure sign of the age of the content.</li>
+	<li><strong> Include extra information</strong> - When writing about a current events or new project, include a history, Include a time line of events that that caused it, and its predecessors. Add extra information that will be useful even after this event as passed and the product has been replaces.</li>
+	<li><strong> Avoid words that give a sense of age</strong> - Whenever it is possible don€™t mention dates or any reference to how old this content is. If you have to reference the date use a full date Feb 2007 instead of 3 days a go, or last year.</li>
+	<li><strong> Don€™t talk about things that change</strong> - Don€™t talk about things that may change next year. If you are caught it€™s a sure sign of the age of the content.</li>
 </ul>

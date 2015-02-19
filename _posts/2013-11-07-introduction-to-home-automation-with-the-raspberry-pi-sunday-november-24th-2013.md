@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Home automation with the Raspberry Pi €“ Sunday November 24th 2013
+title: Introduction to Home automation with the Raspberry Pi - Sunday November 24th 2013
 date: 2013-11-07 23:22
 author: funvill
 comments: true

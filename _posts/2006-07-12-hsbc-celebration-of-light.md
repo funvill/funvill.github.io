@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-<img src="/blog/wp-content/uploads/2006/07/fireworks_01.jpg" id="image33" alt="HSBC Celebration of Light" align="right" />
+<img src="http://blog.abluestar.com/public/uploads/2006/07/fireworks_01.jpg" id="image33" alt="HSBC Celebration of Light" align="right" />
 The world's leading fireworks manufacturers consider the HSBC Celebration of Light competition to be the most prestigious and an exciting arena where they can unveil the latest pyro-musical techniques and the most innovative fireworks materials.
 
 For the first time in its history, four countries will be competing in the HSBC Celebration of Light:
