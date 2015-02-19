@@ -8,9 +8,7 @@ This is the main page. This should have some introduction about what I do and so
 
 ## Projects
 
-{% for post in site.project %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
-{% endfor %}
+ - 2015 [Pocket Universe](/projects/pocketuniverse/) - Short description of this project
 
 ## Posts
 
