@@ -8,12 +8,12 @@ categories: [Interesting]
 ---
 
 <blockquote>"Next to jazz music, there is nothing that lifts the spirit and strengthens the soul more than a good bowl of chili. Congress should pass a law making it mandatory for all restaurants serving chili to follow a Texas recipe."
-â€” Harry James, trumpet player.</blockquote>
-<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/07/600px-pot_of_chili.jpg" title="600px-pot_of_chili.jpg"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/07/600px-pot_of_chili.thumbnail.jpg" alt="600px-pot_of_chili.jpg" align="right" /></a>A popular saying among self-proclaimed chili purists is "<em>If you know beans about chili, you know chili ain't got no beans</em>". The thought that beans do not belong in chili may be further credited to the fact that most â€œofficialâ€ chili cook-offs do not allow beans. In many cases a chili will be disqualified if it contains such ingredients considered â€œfillerâ€. <a href="http://www.chili.org/documents/CASI%20Official%20Rule%20Book.pdf">Article I, A, 2</a> of the <a href="http://www.chili.org/">CASI </a>rules states: "2. NO FILLERS IN CHILI - Beans, macaroni, rice, hominy, or other similar ingredients are not permitted."
+€” Harry James, trumpet player.</blockquote>
+<a href="http://www.abluestar.com/blog/wp-content/uploads/2007/07/600px-pot_of_chili.jpg" title="600px-pot_of_chili.jpg"><img src="http://www.abluestar.com/blog/wp-content/uploads/2007/07/600px-pot_of_chili.thumbnail.jpg" alt="600px-pot_of_chili.jpg" align="right" /></a>A popular saying among self-proclaimed chili purists is "<em>If you know beans about chili, you know chili ain't got no beans</em>". The thought that beans do not belong in chili may be further credited to the fact that most €œofficial€ chili cook-offs do not allow beans. In many cases a chili will be disqualified if it contains such ingredients considered €œfiller€. <a href="http://www.chili.org/documents/CASI%20Official%20Rule%20Book.pdf">Article I, A, 2</a> of the <a href="http://www.chili.org/">CASI </a>rules states: "2. NO FILLERS IN CHILI - Beans, macaroni, rice, hominy, or other similar ingredients are not permitted."
 
 Anyone that has ever been to a real chili cook off knows that real chili tastes nothing like the stuff that you can get in a can from the grocery store. Its missing the bite, that you can really only get with good home made chili.
 
-Chili should also be stored in the fridge over night before its ready to eat. Some say it seals in the flavor.Â  I tend to use a slow cooker to cook it over 48+ hours to create a really nice roasted flavor.
+Chili should also be stored in the fridge over night before its ready to eat. Some say it seals in the flavor.  I tend to use a slow cooker to cook it over 48+ hours to create a really nice roasted flavor.
 
 <u><strong>My chili recipe</strong></u>
 
@@ -35,7 +35,7 @@ Chili should also be stored in the fridge over night before its ready to eat. So
 <strong>Directions </strong>
 <ol>
 	<li>Brown the ground beef and add it to the crock pot</li>
-	<li>Grill the bacon and cut in to small chunksÂ  and add it to the crock pot</li>
+	<li>Grill the bacon and cut in to small chunks  and add it to the crock pot</li>
 	<li>Add all the rest of the ingredients to the crock pot</li>
 	<li>Put crock pot on a low simmer for 24 hours</li>
 	<li>Refrigerate for 24 hours</li>

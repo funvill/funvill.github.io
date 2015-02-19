@@ -8,7 +8,7 @@ categories: [Web development]
 ---
 A while ago I was looking for a truly upload and go photo gallery one that does require a database. I found an abandoned PHP project called Simple PHP gallery by Paul Griffin.
 
-No database required, automatically generates thumbnails,Â  auto generates gallery layout based off of file structior, a truly upload and go photo gallery. It was almost perfect only missing a few "nice to have" mod_rewrite and comments, file upload, and IPCT data.
+No database required, automatically generates thumbnails,  auto generates gallery layout based off of file structior, a truly upload and go photo gallery. It was almost perfect only missing a few "nice to have" mod_rewrite and comments, file upload, and IPCT data.
 
 After a little searching on Google I found that other people had made improvements to this package such as <a href="http://www.quirm.net/category.php?id=14" aiotarget="false" aiotitle="Enhanced Simple PHP Gallery and">Enhanced Simple PHP Gallery</a> and <a href="http://memory.org/point.b/open.source/">Espg v2</a> that alowed for mod_rewrite, comments.
 

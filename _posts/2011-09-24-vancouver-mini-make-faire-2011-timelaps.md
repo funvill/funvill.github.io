@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Media, Vancouver]
 ---
-I took a time laps of the Vancouver Mini Maker Faire 2011 but forgot all about it after as I started on the next project. Â That is until today.
+I took a time laps of the Vancouver Mini Maker Faire 2011 but forgot all about it after as I started on the next project.  That is until today.
 
 <iframe src="http://www.youtube.com/embed/BWIgK3S4jLY" frameborder="0" width="560" height="315"></iframe>
 

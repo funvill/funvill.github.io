@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Interesting, Tips and Tricks]
 ---
-Instructions on how to fix your computer, install windowsÂ applicationsÂ on your mac, Hack someones Facebook, and make a millionÂ dollarsÂ from a World of warcraftÂ clone.
+Instructions on how to fix your computer, install windows applications on your mac, Hack someones Facebook, and make a million dollars from a World of warcraft clone.
 
 Step 1. Get a fork... it should be about 4-6" long made of metal and not too sharp.
 Step 2. Place in right hand with point end facing up. Ensure that you got a good grip on the handle.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Giant Claw Game! â€“ It Moves !
+title: The Giant Claw Game! €“ It Moves !
 date: 2013-05-23 12:06
 author: funvill
 comments: true

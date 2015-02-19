@@ -8,9 +8,9 @@ categories: [Uncategorized]
 ---
 Over the past few months I have been building a sensor device with a embedded webserver for configuration and reporting. When a user saves a configuration to the device the device needs to be restarted before the changes come in to effect.
 
-While the device is restarting the webserver is unreachable and the users get a blank page or 404 pages, this is bad for the users. So I created this simple script to check to see if the device has been restarted correctly then redirect the users to the correct page.Â This script uses <a href="http://jquery.com/">JQuery</a>
+While the device is restarting the webserver is unreachable and the users get a blank page or 404 pages, this is bad for the users. So I created this simple script to check to see if the device has been restarted correctly then redirect the users to the correct page. This script uses <a href="http://jquery.com/">JQuery</a>
 
-Script:Â <a href="http://www.abluestar.com/blog/wp-content/uploads/2011/09/refresh.txt">Redirect on reboot</a>
+Script: <a href="http://www.abluestar.com/blog/wp-content/uploads/2011/09/refresh.txt">Redirect on reboot</a>
 <code></code>
 <pre>&lt;script type="text/javascript"&gt;
 		function UrlExists(url) {

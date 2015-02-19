@@ -19,7 +19,7 @@ This game is also known as 'Straight Shooter', 'Hearts' or 'Hearts Due'.
 To be the first player to reach 100 points.
 
 <strong>How to Play the Game</strong>
-Each player in turn rolls the six dice and scores points for any sequence of consecutive numbers (1,2,3,4,5,6) thrown beginning with 1. Â If two or more of the same number are rolled only one counts (1,2,2,3,4,2 = 20 points). Â If a player rolls the dice and three 1s show their score is zero and they pass the dice to the next player.
+Each player in turn rolls the six dice and scores points for any sequence of consecutive numbers (1,2,3,4,5,6) thrown beginning with 1.  If two or more of the same number are rolled only one counts (1,2,2,3,4,2 = 20 points).  If a player rolls the dice and three 1s show their score is zero and they pass the dice to the next player.
 1 = 5 points
 1, 2 = 10 points
 1, 2, 3 = 15 points
@@ -29,4 +29,4 @@ Each player in turn rolls the six dice and scores points for any sequence of con
 1, 1, 1 = Players turn is over
 
 <strong>Variations of the Game</strong>
-Some people play without the three 1s rule. Â Some people Â play where six 6s is worth 70 points.
+Some people play without the three 1s rule.  Some people  play where six 6s is worth 70 points.

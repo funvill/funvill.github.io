@@ -10,4 +10,4 @@ categories: [Rants]
 
 <strong>Pong</strong> in answer to a ping: Yes, I do exist. I acknowledge your existence and you are no longer alone in this system. We have a connection and I am waiting for you.
 
-Its aÂ beautifulÂ system.
+Its a beautiful system.

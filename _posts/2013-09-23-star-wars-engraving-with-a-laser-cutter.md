@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Laser Cutter]
 ---
-For a friends birthday I laser etched a few starwars scenesÂ in to wood with VHS's Laser cutter. I only had a limited time so I was unable to experimented with different settings, but they turned out okay.
+For a friends birthday I laser etched a few starwars scenes in to wood with VHS's Laser cutter. I only had a limited time so I was unable to experimented with different settings, but they turned out okay.
 
 <img class="alignnone size-medium wp-image-3485" alt="Starwars falcon" src="http://www.abluestar.com/blog/wp-content/uploads/2013/09/2013-09-20-23.16.14-300x225.jpg" width="300" height="225" />
 

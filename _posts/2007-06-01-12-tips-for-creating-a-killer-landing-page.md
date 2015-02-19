@@ -17,7 +17,7 @@ He made the biggest mistake you can made with any type of advertisement, all his
 	<li><strong> Opening statement</strong> - All lading pages should have an opening statement that should answer the main questions right away. It should be short and sweet.</li>
 	<li><strong> Call to action</strong> - There should be a call to action above the cut of the screen (top 300 px) that should tell the users what they need to do next to continue. BUY NOW, Subscribe, contact us, etc.</li>
 	<li><strong> Make it stand out</strong> - Make the call to action button stand out from the rest of the page. Larger and a different colors, nothing works better then a big red button that tells them what to do.</li>
-	<li><strong> Keep it short</strong> - Everything should be short less then 200 words for each paragraph anything that doesn't have to be on the page should be moved to a support page. You can always add a link to the bottom of a long chunk of text "for more informationâ€¦"</li>
+	<li><strong> Keep it short</strong> - Everything should be short less then 200 words for each paragraph anything that doesn't have to be on the page should be moved to a support page. You can always add a link to the bottom of a long chunk of text "for more information€¦"</li>
 	<li><strong> Offer an avenue for more information</strong> - You should always give them a chance to ask questions or get more information on a subject, these links should stay local to your website or open in a new window.</li>
 	<li><strong> One offer only</strong> - Each page should only have one offer on them, don't confuse your users give them exactly what they want.</li>
 	<li><strong> Be crystal clear</strong> - The offer should be crystal clear on what you are offing.</li>

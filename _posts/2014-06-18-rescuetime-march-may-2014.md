@@ -10,7 +10,7 @@ categories: [News]
 
 <a href="http://www.abluestar.com/blog/wp-content/uploads/2014/06/Rescuetime_March2014.png"><img class="alignnone size-medium wp-image-3971" src="http://www.abluestar.com/blog/wp-content/uploads/2014/06/Rescuetime_March2014-300x254.png" alt="Rescuetime_March2014" width="300" height="254" /></a>
 
-<strong>April 2014Â </strong>
+<strong>April 2014 </strong>
 
 I spent most of the start of this month on vacation in Shenzhen, China.
 

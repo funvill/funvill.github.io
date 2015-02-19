@@ -17,6 +17,6 @@ After a little Google searching I found this article to change the default actio
 	<li>Then click on Change advanced power settings link.</li>
 	<li>Expand Power buttons and lid options tree.</li>
 	<li>Expand Start menu power button option.</li>
-	<li>In the â€œSettingâ€ drop down list, change to Shut down. If you prefer to hibernate your system, choose Hibernate, or Sleep if you want to revert back to out-of-the-box default. Vista Start Menu Power Button Setting</li>
+	<li>In the €œSetting€ drop down list, change to Shut down. If you prefer to hibernate your system, choose Hibernate, or Sleep if you want to revert back to out-of-the-box default. Vista Start Menu Power Button Setting</li>
 	<li>Click on OK button. The change will take effect immediately, and you can now shutdown computer properly by single clicking on power button at Start Menu.</li>
 </ol>

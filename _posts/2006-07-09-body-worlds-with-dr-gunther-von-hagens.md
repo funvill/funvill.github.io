@@ -8,7 +8,7 @@ categories: [Vancouver]
 ---
 <img src="/blog/wp-content/uploads/2006/07/bodyworlds.gif" id="image29" alt="Dr. Gunther von Hagens" align="right" />
 Real humans. Real science. Really amazing!
-Never before has an exhibition offered such an intimate look at the human body. Approximately 200 real human specimensâ€”whole body plastinates, individual organs, transparent body slices and healthy and diseased organsâ€”present a one-of-a-kind anatomy and physiology lesson. See how your bodyâ€™s systems relate to one another and work together to help you function and survive. View firsthand how lifestyle choices impact your health and how muscles and joints work together during athletic performance.
+Never before has an exhibition offered such an intimate look at the human body. Approximately 200 real human specimens€”whole body plastinates, individual organs, transparent body slices and healthy and diseased organs€”present a one-of-a-kind anatomy and physiology lesson. See how your body€™s systems relate to one another and work together to help you function and survive. View firsthand how lifestyle choices impact your health and how muscles and joints work together during athletic performance.
 
 BODY WORLDS 3 was created by anatomist, Dr. Gunther von Hagens, inventor of Plastination, the groundbreaking method of anatomical specimen preservation. The technology allows authentic specimens to be displayed in a lifelike fashion for instruction and education, giving you an opportunity to appreciate what it really means to be human.
 

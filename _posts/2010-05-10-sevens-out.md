@@ -18,10 +18,10 @@ Be the first to get to a pre-arranged score.
 For example 100 to 500.
 
 <strong>How to Play the Game</strong>
-Each player takes a turn rolling both dice until they roll a seven. Â Tally the previous rolls and add them to their score. Â The first person to have a score equal to or grater then the per-arranged goal wins.
+Each player takes a turn rolling both dice until they roll a seven.  Tally the previous rolls and add them to their score.  The first person to have a score equal to or grater then the per-arranged goal wins.
 <strong>
 Example game play</strong>
-Player one rolls, (4,4), (5,3), (3,7), his score for this round is 4+4+5+3+3 = 19. Â Because player one rolled a seven his turn is over. Â It now becomes player twoâ€™s turn.
-Player two rolls (4,5), (4,5), (3,2), (3,3), (3,3), (3,4), (7,7), Â his total is 4+5+4+5+3+2+3+3+3+3+3+4 = 42 it is now players twos turn.
+Player one rolls, (4,4), (5,3), (3,7), his score for this round is 4+4+5+3+3 = 19.  Because player one rolled a seven his turn is over.  It now becomes player two€™s turn.
+Player two rolls (4,5), (4,5), (3,2), (3,3), (3,3), (3,4), (7,7),  his total is 4+5+4+5+3+2+3+3+3+3+3+4 = 42 it is now players twos turn.
 
 Play continues until one player reaches the pre-arranged score.

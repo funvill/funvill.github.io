@@ -8,7 +8,7 @@ categories: [Interesting]
 ---
 I enjoyed them so much the first time I posted <a href="http://www.abluestar.com/blog/riddles/">some riddles</a> that I am going to do it again.
 
-Answers after the cutâ€¦
+Answers after the cut€¦
 <ol>
 	<li>A murderer is condemned to death. He has to choose between three rooms: The first is full of raging fires, the second is full of assassins with loaded guns, and the third is full of lions that haven't eaten in 3 years. Which room is safest for him?</li>
 	<li>A woman shoots her husband. Then she holds him under water for over 5 minutes. Finally, she hangs him. But 5 minutes later they both go out together and enjoy a wonderful dinner together. How can this be?</li>
@@ -19,7 +19,7 @@ Answers after the cutâ€¦
 	<li>This is an unusual paragraph. I'm curious how quickly you can find out what is so unusual about it? It looks so plain you would think nothing was wrong with it! In fact, nothing is wrong with it! It is unusual though. Study it, and think about it, but you still may not find anything odd. But if you work at it a bit, you might find out! Try to do so without any coaching!</li>
 	<li>You are participating in a race. You overtake the second person. What position are you in?</li>
 	<li>If you overtake the last person, then you are...?</li>
-	<li>Â (in your head!) Take 1000 and add 40 to it. Now add another 1000. Now add 30. Add another 1000. Now add 20. Now add another 1000. Now add 10. What is the total?</li>
+	<li> (in your head!) Take 1000 and add 40 to it. Now add another 1000. Now add 30. Add another 1000. Now add 20. Now add another 1000. Now add 10. What is the total?</li>
 	<li>Mary's father has five daughters: 1. Nana, 2. Nene, 3. Nini, 4. Nono. What is the name of the fifth daughter?</li>
 </ol>
 If you know any good riddles feel free to share them with me.

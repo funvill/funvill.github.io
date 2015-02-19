@@ -6,13 +6,13 @@ author: funvill
 comments: true
 categories: [Rants]
 ---
-See below the letter I sent to Greyhound. I will update this post if/when I get a response fromÂ Greyhound
+See below the letter I sent to Greyhound. I will update this post if/when I get a response from Greyhound
 <blockquote>Hello
 
 Conformation number: #18325413
 Seattle to Vancouver, BC 04:05PM Nov 11th 213
 
-I arrived at the Seattle Grayhound station and checked in. My carry on and checked baggage was searched as was everyone else on the bus. They found 2x 12 year old bottles of scotch in my CHECKED baggage (costing a total of $120, Yes I have the recite) The baggage checker (Security?) told me that alcohol was not allowed on any Grayhound bus. I told him that this was my "check baggage" that was going UNDER the bus. He said that it didn't matter, no alcohol on the bus. I told him that did not make any sense and he responded with "That's our policy, you can have the alcohol or your bus ticket" I didn't have any other choice and I left the alcoholÂ with him before boarding the bus.
+I arrived at the Seattle Grayhound station and checked in. My carry on and checked baggage was searched as was everyone else on the bus. They found 2x 12 year old bottles of scotch in my CHECKED baggage (costing a total of $120, Yes I have the recite) The baggage checker (Security?) told me that alcohol was not allowed on any Grayhound bus. I told him that this was my "check baggage" that was going UNDER the bus. He said that it didn't matter, no alcohol on the bus. I told him that did not make any sense and he responded with "That's our policy, you can have the alcohol or your bus ticket" I didn't have any other choice and I left the alcohol with him before boarding the bus.
 
 Once home I checked your website for the policy while writing a complaint.
 https://www.greyhound.ca/en/ticketsandtravel/baggageinformation.aspx

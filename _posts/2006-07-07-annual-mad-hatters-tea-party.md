@@ -9,7 +9,7 @@ categories: [Vancouver]
 <img src="/blog/wp-content/uploads/2006/07/mad-tea-party-with-queen-2.thumbnail.jpg" id="image24" alt="Annual Mad Hatters Tea Party" align="right" />
 
 The 13th Annual
-MAD HATTERÂ¹S TEA PARTY
+MAD HATTER¹S TEA PARTY
 
 This year, the colourful characters of Lewis Carroll's beloved Alice in Wonderland come alive in three Vancouver parks, offering old-fashioned participatory fun for all.
 

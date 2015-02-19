@@ -8,7 +8,7 @@ categories: [Interesting, Vancouver, Vancouver]
 ---
 I have mentioned <a href="http://www.abluestar.com/blog/parks-scavenger-hunt/">vancouver scavenger hunts</a> before but it was mainly for Vancouver's parks and I wanted one that is more geared towards Vancouver its self. I tried searching Google and yahoo but failed to find anything worth while so I created my own list.
 
-Set up a scavenger hunt with your family and friends to see who can find the most items the fastest.Â Please do not take or disturb any of the items that you find use a camera to take a picture and help keep our city looking great.
+Set up a scavenger hunt with your family and friends to see who can find the most items the fastest. Please do not take or disturb any of the items that you find use a camera to take a picture and help keep our city looking great.
 
 First we should start with general the rules:
 <ol>

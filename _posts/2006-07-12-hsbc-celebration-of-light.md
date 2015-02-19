@@ -26,10 +26,10 @@ HSBC has ploted out some of the <a href="http://www.hsbccelebrationoflight.com/f
 <strong>When:</strong>
 <strong>2006 Schedule</strong>
 <ul>
-	<li>Wednesday, July 26 â€” Italy</li>
-	<li>Saturday, July 29 â€” China</li>
-	<li>Wednesday, August 2 â€” Czech Republic</li>
-	<li>Saturday, August 5 â€” Mexico and Celebration Finale</li>
+	<li>Wednesday, July 26 €” Italy</li>
+	<li>Saturday, July 29 €” China</li>
+	<li>Wednesday, August 2 €” Czech Republic</li>
+	<li>Saturday, August 5 €” Mexico and Celebration Finale</li>
 </ul>
-Each show last approximately 25 minutes â€” August 5 show extends to approximately 30 minutes.
+Each show last approximately 25 minutes €” August 5 show extends to approximately 30 minutes.
 Music simulcast begins at 10:00 p.m. on radio station ROCK 101 (101.1 FM).

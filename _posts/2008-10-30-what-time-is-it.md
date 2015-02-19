@@ -21,7 +21,7 @@ What is the time difference between <a href="http://www.abluestar.com/utilities/
 
 The problem with these pages is that they don't have a lot of content on them, and google treats them as worthless pages. So my next step is to find auto generated content for locations for each of these locatons, about 300 words pre page should do it.
 
-My first thought was to scrape news feeds for content, show a excerpt of the post (first 50 words) on the post and include a link back to the original content.Â  but that does not provide too much value to the regular readers of the site.
+My first thought was to scrape news feeds for content, show a excerpt of the post (first 50 words) on the post and include a link back to the original content.  but that does not provide too much value to the regular readers of the site.
 
 I got few ideas on how to get free content, But none of them are that good, any suggestions?
 <ul>

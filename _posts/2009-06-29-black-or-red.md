@@ -14,6 +14,6 @@ Black or Red is a Drinking game played with Cards
 	<li>A deck of cards</li>
 </ul>
 <strong>How to play the game</strong>
-Everyone will sit at a table and you will start the game clockwise. Â First person picks either black or red. Â If they choose the right color they pick who ever they want to drink; if they get it wrong they have to drink.
+Everyone will sit at a table and you will start the game clockwise.  First person picks either black or red.  If they choose the right color they pick who ever they want to drink; if they get it wrong they have to drink.
 
-If player gets the color right three times in a row they can make up a rule; (For example: you canâ€™t point, or you canâ€™t say drink). Â Player continues until they get the color wrong and it goes to the next person and so on. Â Same rules apply to everyone.
+If player gets the color right three times in a row they can make up a rule; (For example: you can€™t point, or you can€™t say drink).  Player continues until they get the color wrong and it goes to the next person and so on.  Same rules apply to everyone.

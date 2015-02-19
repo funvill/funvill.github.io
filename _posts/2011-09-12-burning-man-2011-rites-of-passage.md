@@ -21,6 +21,6 @@ My favorite art installation
 <strong>flickr burningman group</strong>
 <a href="http://www.flickr.com/groups/burningman/"> http://www.flickr.com/groups/burningman/</a>
 
-<strong>A picture of my campÂ </strong>
+<strong>A picture of my camp </strong>
 
 <a href="http://www.abluestar.com/blog/wp-content/uploads/2011/09/297036_10150304659541668_610521667_7695308_207504949_n.jpg"><img class="alignnone size-medium wp-image-1622" title="297036_10150304659541668_610521667_7695308_207504949_n" src="http://www.abluestar.com/blog/wp-content/uploads/2011/09/297036_10150304659541668_610521667_7695308_207504949_n-300x199.jpg" alt="" width="300" height="199" /></a>

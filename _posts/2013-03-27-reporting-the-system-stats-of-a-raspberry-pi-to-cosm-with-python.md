@@ -6,13 +6,13 @@ author: funvill
 comments: true
 categories: [Raspberry PI]
 ---
-<a href="https://cosm.com/">COSM</a> is a online data store of sensor data for the <a href="http://en.wikipedia.org/wiki/Internet_of_Things">internet of things</a>. You can use Cosm to store sensor data (light, temp, heat, etc...) from your internet enabled device (<a href="http://www.arduino.cc/">Arduino</a>, <a href="http://www.raspberrypi.org/">Raspberry PI</a>, etc) online and produce pretty graphs of the values as they change. Recently <a href="http://www.chipkin.com/">Chipkin Automation Systems</a> (The company I work for)Â <a href="http://www.chipkin.com/bacnet-ipmstp-to-cosm-data-logger/">added COSM as one of the supported drivers</a> on their <a href="http://www.chipkin.com/products/cas-gateways/">CAS Gateway device</a>.
+<a href="https://cosm.com/">COSM</a> is a online data store of sensor data for the <a href="http://en.wikipedia.org/wiki/Internet_of_Things">internet of things</a>. You can use Cosm to store sensor data (light, temp, heat, etc...) from your internet enabled device (<a href="http://www.arduino.cc/">Arduino</a>, <a href="http://www.raspberrypi.org/">Raspberry PI</a>, etc) online and produce pretty graphs of the values as they change. Recently <a href="http://www.chipkin.com/">Chipkin Automation Systems</a> (The company I work for) <a href="http://www.chipkin.com/bacnet-ipmstp-to-cosm-data-logger/">added COSM as one of the supported drivers</a> on their <a href="http://www.chipkin.com/products/cas-gateways/">CAS Gateway device</a>.
 
-This got me to thinking of how I could track system stats from my <a href="http://www.raspberrypi.org/">Raspberry PI</a> with <a href="http://www.python.org/">python</a> andÂ recordÂ the stats on COSM.
+This got me to thinking of how I could track system stats from my <a href="http://www.raspberrypi.org/">Raspberry PI</a> with <a href="http://www.python.org/">python</a> and record the stats on COSM.
 
-I have written about sending data to COSM with a Raspberry PI before in myÂ <a href="http://www.abluestar.com/blog/raspberry-pi-and-the-gpio-pins/">Raspberry PI and the GPIO pins</a>Â post. Â Adafruit also has a greatÂ tutorialÂ on this as wellÂ <a href="http://learn.adafruit.com/send-raspberry-pi-data-to-cosm/overview">Send Raspberry Pi Data to COSM</a>.
+I have written about sending data to COSM with a Raspberry PI before in my <a href="http://www.abluestar.com/blog/raspberry-pi-and-the-gpio-pins/">Raspberry PI and the GPIO pins</a> post.  Adafruit also has a great tutorial on this as well <a href="http://learn.adafruit.com/send-raspberry-pi-data-to-cosm/overview">Send Raspberry Pi Data to COSM</a>.
 
-This code snippet will <a href="https://gist.github.com/funvill/5252169">get the system stats (CPU, Ram, Disk Space) from the Raspberry PI</a>, We can then send these values to COSM. I then added in the eeml class to talk to the COSM servers. I also added reading a light sensor that is connected to an Arduino talkingÂ pyfirmata.
+This code snippet will <a href="https://gist.github.com/funvill/5252169">get the system stats (CPU, Ram, Disk Space) from the Raspberry PI</a>, We can then send these values to COSM. I then added in the eeml class to talk to the COSM servers. I also added reading a light sensor that is connected to an Arduino talking pyfirmata.
 
 <a href="https://github.com/funvill/RaspberryPIExamples/blob/master/examples/datalogger.py">Full source code can be found on my github account.</a>
 

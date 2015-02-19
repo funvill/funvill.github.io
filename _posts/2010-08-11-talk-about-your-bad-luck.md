@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Interesting]
 ---
-Talk about your bad luck, one of myÂ favoriteÂ comic book writers had a data fail.
+Talk about your bad luck, one of my favorite comic book writers had a data fail.
 <blockquote>My backups all got corrupted, and my backup device died. I'll fix that on Sunday, I thought, as I was under deadline pressure. Saturday evening, my main machine died in flames. Sent it off for data recovery. The guy running the data recovery shop took it in and then went off to Europe for an operation. And died on the operating table. Came back to the shop to get my machine, because no-one was answering the phone, to find it boarded up, the (mostly off-the-books, apparently) employees scattered to the four winds, and the shop stripped down to the plaster. Not a computer left in there -- not even mine.
 
 (and no-one could do anything with the fucked backup discs, either.)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letâ€™s Be Brief - A story in 6 words 
+title: Let€™s Be Brief - A story in 6 words 
 date: 2007-04-07 09:00
 author: funvill
 comments: true
@@ -10,12 +10,12 @@ categories: [Interesting]
 
 <a href="http://middlezonemusings.com/all-contest-entries-lets-be-brief/">Write a story in 6 words </a>
 
-Some of the better entries include; In between her smiles, despair danced, Kittens are harmless! (Sophieâ€™s last words.), Never was cutting toenails so fatal, 'wedding cake, kids, debt, divorce, freedom.'
+Some of the better entries include; In between her smiles, despair danced, Kittens are harmless! (Sophie€™s last words.), Never was cutting toenails so fatal, 'wedding cake, kids, debt, divorce, freedom.'
 
 In the end there where over 400 entries the <a href="http://middlezonemusings.com/stop-or-the-chicken-gets-it/">winners can be found on this page</a> and include ;
 <ul>
 	<li> Need publicity. Start contest. Six Words?</li>
-	<li> â€œNice skinâ€, he said, replacing it.</li>
+	<li> €œNice skin€, he said, replacing it.</li>
 	<li> Inability to complete thoughts continues to</li>
 	<li>Trust. Things work out. Soon, please.</li>
 	<li> Smoking, thinking about his lost passions.</li>

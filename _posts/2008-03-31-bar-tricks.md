@@ -8,8 +8,8 @@ categories: [Bar Accessories, Interesting, tricks, Video]
 ---
 <p style="text-align: center"></p>
 
-<blockquote>You've been buying your own booze at the local bar like a sucker ever since you turned 21. But with a stiff shot of science, you can hustle the tipsy into picking up your tab. Try this pub magic to score yourself some free rounds. <em>â€” William Snyder</em></blockquote>
-Wired has a nice wiki page about some different Bar tricks that you can do to win yourself a free drink or two.Â  <a href="http://howto.wired.com/wiki/Do_Bar_Tricks">DO Bar Tricks</a>
+<blockquote>You've been buying your own booze at the local bar like a sucker ever since you turned 21. But with a stiff shot of science, you can hustle the tipsy into picking up your tab. Try this pub magic to score yourself some free rounds. <em>€” William Snyder</em></blockquote>
+Wired has a nice wiki page about some different Bar tricks that you can do to win yourself a free drink or two.  <a href="http://howto.wired.com/wiki/Do_Bar_Tricks">DO Bar Tricks</a>
 
 There is also a great YouTube Video, <a href="http://www.youtube.com/watch?v=_bmRQD07HV0">1000 different ways to open a beer bottle.</a>
 

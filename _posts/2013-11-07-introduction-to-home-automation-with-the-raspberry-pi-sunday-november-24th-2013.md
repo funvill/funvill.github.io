@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Home automation with the Raspberry Pi â€“ Sunday November 24th 2013
+title: Introduction to Home automation with the Raspberry Pi €“ Sunday November 24th 2013
 date: 2013-11-07 23:22
 author: funvill
 comments: true
@@ -12,7 +12,7 @@ VHS members only, become a member and join us!
 
 Bottomed lined: <a href="http://abluestar.com/">Steven Smethurst</a>
 
-RVSP on <a href="https://plus.google.com/u/0/events/cjjqunp7nflsoqtuafkuhre2dms">Google+</a>,Â <a href="https://www.facebook.com/events/420902668011729/">Facebook</a>
+RVSP on <a href="https://plus.google.com/u/0/events/cjjqunp7nflsoqtuafkuhre2dms">Google+</a>, <a href="https://www.facebook.com/events/420902668011729/">Facebook</a>
 
 <strong>Cost:</strong>
 Free for VHS members
@@ -33,7 +33,7 @@ In this workshop you will be building a system that will turn on a light if the 
 Before this workshop you should have your Raspberry PI loaded with an OS and have the latest version of <a href="http://www.abluestar.com/blog/getting-started-with-your-raspberry-pi/">Adafruite WebIDE running</a>. It will also help considerably if you record your Raspberry PI MAC address and HostName on a scrap of paper before the workshop.
 
 <span style="text-decoration: underline;"><strong><a href="http://vancouver.hackspace.ca/wp/wp-content/uploads/2013/11/2013-11-02-17.20.48.jpg"><img class="alignright size-medium wp-image-2613" title="2013-11-02 17.20.48" alt="" src="http://vancouver.hackspace.ca/wp/wp-content/uploads/2013/11/2013-11-02-17.20.48-300x225.jpg" width="300" height="225" /></a>Hardware is NOT provided by VHS!!!</strong></span>
-<strong>All the hardware</strong> can be purchased locally at <a href="http://www.leeselectronic.com">Lee's Electronics</a> Â (4522 Main Street). Tell them your a VHS member to receive a small discount. Or you can order all the hardware from adafruit.com they also have many other interesting components. Note there are Raspberry PIs available in the VHS vending machine at the space. If you buy your components from DealExtream expect them to take 6 weeks to be delivered. If you are unable to source all the components join us anyways VHS can lend you some parts for the workshop.
+<strong>All the hardware</strong> can be purchased locally at <a href="http://www.leeselectronic.com">Lee's Electronics</a>  (4522 Main Street). Tell them your a VHS member to receive a small discount. Or you can order all the hardware from adafruit.com they also have many other interesting components. Note there are Raspberry PIs available in the VHS vending machine at the space. If you buy your components from DealExtream expect them to take 6 weeks to be delivered. If you are unable to source all the components join us anyways VHS can lend you some parts for the workshop.
 
 <strong>Parts list</strong>
 <ul>
@@ -74,7 +74,7 @@ Before this workshop you should have your Raspberry PI loaded with an OS and hav
 	<li>Replay breakout board (5V input)
 <ul>
 	<li><a href="http://dx.com/p/4-ch-12v-power-relay-module-red-blue-173827">$7.20 from Deal Extream</a></li>
-	<li><a href=" http://www.adafruit.com/products/268">$26 from AdaFruit</a>Â <strong>(highly suggested)Â </strong></li>
+	<li><a href=" http://www.adafruit.com/products/268">$26 from AdaFruit</a> <strong>(highly suggested) </strong></li>
 </ul>
 </li>
 	<li>Standard wall outlet

@@ -6,12 +6,12 @@ author: funvill
 comments: true
 categories: [Vancouver]
 ---
-This last week I have beenÂ investigatingÂ theÂ B.C. Liquor Control and Licensing Branch to find out who has been making the new laws that the LCLB has been interducingÂ .
+This last week I have been investigating the B.C. Liquor Control and Licensing Branch to find out who has been making the new laws that the LCLB has been interducing .
 <ul>
 	<li>
 <p style="display: inline !important;"><a style="font-size: 12px; line-height: 18px;" href="http://www.cbc.ca/news/canada/british-columbia/story/2012/10/24/bc-liquor-wine-charity.html">B.C. Liquor cracks down on wine fundraisers</a></p>
 </li>
-	<li><a href="http://www.theglobeandmail.com/news/british-columbia/bc-to-ban-clubs-all-ages-events-in-bid-to-restrict-underage-drinking/article7028298/">B.C. to ban clubsâ€™ all-ages events in bid to restrict underage drinking</a></li>
+	<li><a href="http://www.theglobeandmail.com/news/british-columbia/bc-to-ban-clubs-all-ages-events-in-bid-to-restrict-underage-drinking/article7028298/">B.C. to ban clubs€™ all-ages events in bid to restrict underage drinking</a></li>
 </ul>
 After much searching I was unable to find a list of the board members or any public meeting notes. I emailed them directly asking for more information.
 <strong>From</strong>: Steven Smethurst
@@ -27,7 +27,7 @@ Thank you.</blockquote>
 <strong>From</strong>: lclb.lclb -[at]- gov.bc.ca
 <strong>To</strong>: Steven Smethurst
 <blockquote>Dear Steven Smethurst,
-Thank you for writing to the branch with your enquiry. There is not a board of directors for the B.C. Liquor Control and Licensing Branch. You can find more information on the branchâ€™s structure on our website here: <a href="http://www.pssg.gov.bc.ca/lclb/branch/structure.htm">http://www.pssg.gov.bc.ca/lclb/branch/structure.htm</a>.
+Thank you for writing to the branch with your enquiry. There is not a board of directors for the B.C. Liquor Control and Licensing Branch. You can find more information on the branch€™s structure on our website here: <a href="http://www.pssg.gov.bc.ca/lclb/branch/structure.htm">http://www.pssg.gov.bc.ca/lclb/branch/structure.htm</a>.
 
 The executive of the branch are as follows:
 <ul>

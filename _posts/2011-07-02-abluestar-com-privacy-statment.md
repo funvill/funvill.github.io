@@ -6,11 +6,11 @@ author: funvill
 comments: true
 categories: [Rants]
 ---
-IÂ recordÂ as much information as I possiably can from all my users, all the time, and I keep it for as long as I want to. I will sell it to anyone who asks and give it to anyone who puts aÂ lawyersÂ paper under my nose.
+I record as much information as I possiably can from all my users, all the time, and I keep it for as long as I want to. I will sell it to anyone who asks and give it to anyone who puts a lawyers paper under my nose.
 
-* NOTE: This onlyÂ appliesÂ to Abluestar.com. My other sites I got out of my way to remove personal information that I don't need so I won't be subpoenaed for the info. Having my web serverÂ seizedÂ wouldÂ definitivelyÂ cause downtime. *
+* NOTE: This only applies to Abluestar.com. My other sites I got out of my way to remove personal information that I don't need so I won't be subpoenaed for the info. Having my web server seized would definitively cause downtime. *
 
-You should expectÂ everyÂ other site to do the same. <a href="http://www.azarask.in/blog/post/privacy-icons/">Privacy Icons</a> are a way to inform users about how there information will be used on your site.
+You should expect every other site to do the same. <a href="http://www.azarask.in/blog/post/privacy-icons/">Privacy Icons</a> are a way to inform users about how there information will be used on your site.
 
 <a href="http://www.abluestar.com/blog/wp-content/uploads/2011/07/20101222-8my23a7krc7xjppphnn6xtdyqy.png"><img class="alignnone size-full wp-image-1579" title="20101222-8my23a7krc7xjppphnn6xtdyqy" src="http://www.abluestar.com/blog/wp-content/uploads/2011/07/20101222-8my23a7krc7xjppphnn6xtdyqy.png" alt="" width="194" height="252" /></a>
 

@@ -14,7 +14,7 @@ Forest sprites with magical potions create romantic havoc in this deliciously ma
 <strong>Where:</strong>
 Vanier Park, Kits Point at the Foot of Whyte Avenue
 Address for Taxis: 1695 Whyte Avenue, Vanier Park
-<strong>When: </strong> June 1 â€“ Sept 24 2006
+<strong>When: </strong> June 1 €“ Sept 24 2006
 
 For more information please visit
 <a href="http://www.bardonthebeach.org/">http://www.bardonthebeach.org/</a>

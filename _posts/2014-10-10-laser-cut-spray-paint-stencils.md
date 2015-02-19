@@ -6,7 +6,7 @@ author: funvill
 comments: true
 categories: [Laser Cutter]
 ---
-I have been using laser cutter at theÂ <a href="https://vancouver.hackspace.ca/">Vancouver hackspace</a> to make spray paint stencils. I use to cut these stencils by hand and it would take anywhere from 2-3 hours each. Now it takes 15mins with the laser cutter.
+I have been using laser cutter at the <a href="https://vancouver.hackspace.ca/">Vancouver hackspace</a> to make spray paint stencils. I use to cut these stencils by hand and it would take anywhere from 2-3 hours each. Now it takes 15mins with the laser cutter.
 
 <strong>Cthulhu
 </strong><a href="http://www.abluestar.com/blog/wp-content/uploads/2014/10/10624378_1457303577863652_15153576_n.jpg"><img class="alignnone size-medium wp-image-4007" src="http://www.abluestar.com/blog/wp-content/uploads/2014/10/10624378_1457303577863652_15153576_n-300x300.jpg" alt="10624378_1457303577863652_15153576_n" width="300" height="300" /></a>

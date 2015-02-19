@@ -9,7 +9,7 @@ categories: [thanks, Tips and Tricks]
 There are various reasons to disable your anti virus temporarily.
 AVG 7 does not make it easy to disable it.
 
-<strong>Â InstructionsÂ </strong>
+<strong> Instructions </strong>
 <ol>
 	<li>Right click on the AVG icon in your system tray (bottom right next to the clock)</li>
 	<li>Select "Launch AVG Free Control Center"</li>

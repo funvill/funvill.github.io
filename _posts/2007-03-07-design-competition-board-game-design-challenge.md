@@ -24,4 +24,4 @@ Entrants can be individuals or teams. Don't forget to bring all of your equipmen
 </ul>
 Prizes courtesy of <a href="http://www.strategiesgames.ca/">STRATEGIES Games &amp; Hobbies</a> and the <a href="http://www.igda.org/vancouver/">IGDA Vancouver</a>.  We ask that designers show up at Strategies by <em>6PM Sharp!</em> to ensure you can set up your games for a 6:30 start. <a href="http://www.strategiesgames.ca/IGDACHALLENGE2.jpg">Here</a> is an jpg file so you can spread the word!  For more information please contact <a href="mailto:sskerl@gmail.com">Su Skerl</a>.
 
-<strong>Update </strong>(08/April/2007) - The <a href="http://www.igda.org/vancouver/archives/2007/04/boardgame_chall.html">results have been posted on IGDA websiteÂ </a>
+<strong>Update </strong>(08/April/2007) - The <a href="http://www.igda.org/vancouver/archives/2007/04/boardgame_chall.html">results have been posted on IGDA website </a>

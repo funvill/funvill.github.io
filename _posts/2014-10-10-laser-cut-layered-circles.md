@@ -22,4 +22,4 @@ Its 5 layers, I only have one color of paper so it kind of hard to distinguish b
 
 <a href="http://www.abluestar.com/blog/wp-content/uploads/2014/10/5b00b8c00d8dfb4c.jpg"><img class="alignnone size-medium wp-image-4032" src="http://www.abluestar.com/blog/wp-content/uploads/2014/10/5b00b8c00d8dfb4c-225x300.jpg" alt="5b00b8c00d8dfb4c" width="225" height="300" /></a>
 
-<a href="https://talk.hackspace.ca/t/laser-cut-layered-circles/19?u=funvill">More comments hereÂ </a>
+<a href="https://talk.hackspace.ca/t/laser-cut-layered-circles/19?u=funvill">More comments here </a>

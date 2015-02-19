@@ -17,7 +17,7 @@ Processional bands playing world and folk music encourage spectators on the side
 The Illuminares Lantern Procession builds up to an amazing show of art, music, dance, fire sculptures, torch choreography, and dazzling fireworks on the lake.
 
 <strong>Where:</strong> Trout Lake Park Victoria Drive &amp; 15th Avenue
-<strong>When:</strong> July 29, 2006 - 7 â€“ 11 pm (procession @ 9pm)
+<strong>When:</strong> July 29, 2006 - 7 €“ 11 pm (procession @ 9pm)
 
 For more information (and pictures) please visit
 <a href="http://www.publicdreams.org/">http://www.publicdreams.org/</a>

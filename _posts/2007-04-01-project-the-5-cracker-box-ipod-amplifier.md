@@ -25,10 +25,10 @@ A <a href="http://makezine.com/images/09/CrackerboxAmp_Schem.pdf">full size sche
 	<li>Toggle switch, single pole single throw</li>
 	<li>9V battery</li>
 	<li>9V Battery connector</li>
-	<li>0.047ÂµF capacitor</li>
-	<li>220ÂµF capacitor (biggest)</li>
-	<li>0.01Âµf capacitor</li>
-	<li>100Âµf capacitor</li>
+	<li>0.047µF capacitor</li>
+	<li>220µF capacitor (biggest)</li>
+	<li>0.01µf capacitor</li>
+	<li>100µf capacitor</li>
 	<li>Hookup wire, 2 0 or 22 gauge AWG solid core is best.</li>
 	<li>5KO potentiometer (audio or log taper)</li>
 	<li>25-ohm (25O) rheostat</li>

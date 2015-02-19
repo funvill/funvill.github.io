@@ -9,7 +9,7 @@ categories: [drinking, game, Games, Games]
 Centurians is a Drinking game
 This game is also known as Century Club, Centurions, Power Hour, or The '100'
 
-Basically you take a shot of beer once a min for 100 mins or until the other person passes out. Â As easy as it sounds rarely anyone completes all 100 shots before passing out or violently puking.
+Basically you take a shot of beer once a min for 100 mins or until the other person passes out.  As easy as it sounds rarely anyone completes all 100 shots before passing out or violently puking.
 
 <strong>The rules</strong>
 You can play with as many people as you like, (2+ players recommended)
@@ -18,8 +18,8 @@ No chugging of beers, you have to drink it one shot at a time.
 No puking
 Anyone that gets to 100 shots wins and gains Centurion status.
 
-The game isnâ€™t that hard when you think about it. Â 100 shots of beers is about 13 beers its just the pace that you have to keep drinking at.
+The game isn€™t that hard when you think about it.  100 shots of beers is about 13 beers its just the pace that you have to keep drinking at.
 <strong>
 Variation of this game</strong>
 The '100' you are allowed to puke but you are not allowed out of your seat for the full 100 mins and every 10 mins you must take a shot of hard bar (vodka, rum, ect).
-100 beers in 3 days (one weekend, including Friday) if you complete all 100 beers you are even more hardcore then the the people that completed â€˜The '100'
+100 beers in 3 days (one weekend, including Friday) if you complete all 100 beers you are even more hardcore then the the people that completed €˜The '100'

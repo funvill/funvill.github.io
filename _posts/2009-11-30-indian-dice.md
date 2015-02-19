@@ -8,9 +8,9 @@ categories: [Dice, Dice, game, Games, Games]
 ---
 Indian Dice is a poker game with dice.
 
-I have played this game a few times, mainly when we donâ€™t have a set of cards to play with and want to play poker. Â Its very simple if you have played poker before.
+I have played this game a few times, mainly when we don€™t have a set of cards to play with and want to play poker.  Its very simple if you have played poker before.
 
-â€œAll the evidence shows that God was actually quite a gambler, and the universe is a great casino, where dice are thrown, and roulette wheels spin on every occasion. Â Over a large number of bets, the odds even out and we can make predictions; thatâ€™s why casino owners are so rich. Â But over a very small number of rolls of the dice, the uncertainty principle is very important.â€
+€œAll the evidence shows that God was actually quite a gambler, and the universe is a great casino, where dice are thrown, and roulette wheels spin on every occasion.  Over a large number of bets, the odds even out and we can make predictions; that€™s why casino owners are so rich.  But over a very small number of rolls of the dice, the uncertainty principle is very important.€
 -Stephen Hawking
 
 <strong>What you need to play</strong>
@@ -19,7 +19,7 @@ I have played this game a few times, mainly when we donâ€™t have a set of c
 	<li>2 or more players.</li>
 </ul>
 <strong>How to play</strong>
-The point of this game is to build the best poker hand after 2-3 rolls of 5 dice. Â Each player in turn rolls the dice and keep the dice that they want to one side, then rolls 2-3 more times. Â The player may stop after the first 2 or 3 rolls if they like. Â The player with the highest ranking poker hand after everyone has had their turn wins.
+The point of this game is to build the best poker hand after 2-3 rolls of 5 dice.  Each player in turn rolls the dice and keep the dice that they want to one side, then rolls 2-3 more times.  The player may stop after the first 2 or 3 rolls if they like.  The player with the highest ranking poker hand after everyone has had their turn wins.
 
 Dice poker hands ranked high to low
 1. Five of a Kind
@@ -31,4 +31,4 @@ Dice poker hands ranked high to low
 7. One Pair
 8. Highest Die Ranking according to highest backers. (A, K, J, 10, 9. beats A, Q, J, 10, 9. )
 
-You could use standard dice by simply playing 6, 5, 4, 3, 2 ,1 corresponding to A, K, Q, J, 10, 9. Â Some versions of this game that use normal dice use 1 as a wild card that can be any value.
+You could use standard dice by simply playing 6, 5, 4, 3, 2 ,1 corresponding to A, K, Q, J, 10, 9.  Some versions of this game that use normal dice use 1 as a wild card that can be any value.

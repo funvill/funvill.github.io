@@ -13,7 +13,7 @@ categories: [Raspberry PI]
 This hack took about two hours to complete as none of us knew JavaScript, and turned out pretty well.
 
 <a href="http://jsrun.it/Funvill/e6I0">Demo of the javascript application
-</a>Source code can be found onÂ <a href="https://github.com/funvill/JavascriptWordClock/blob/master/wordclock.html">github javascript word clock</a>
+</a>Source code can be found on <a href="https://github.com/funvill/JavascriptWordClock/blob/master/wordclock.html">github javascript word clock</a>
 
 &nbsp;
 

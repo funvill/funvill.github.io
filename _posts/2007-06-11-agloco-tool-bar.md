@@ -24,17 +24,17 @@ Who knows you might make some money too.
 
 <strong>Referral form  letter: </strong>
 <blockquote>Dear reader,
-I recently joined <a href="http://www.agloco.com/r/BBFJ0259">AGLOCO</a> because of a friend recommended it to me. I am now promoting it to you because I like the idea and I want you to share in what I think will be an exciting new Internet concept.AGLOCOâ€™s story is simple:
+I recently joined <a href="http://www.agloco.com/r/BBFJ0259">AGLOCO</a> because of a friend recommended it to me. I am now promoting it to you because I like the idea and I want you to share in what I think will be an exciting new Internet concept.AGLOCO€™s story is simple:
 
 Do you realize how valuable you are? Advertisers, search providers and online retailers are paying billions to reach you while you surf.  How much of that money are you making? NONE!
 
 AGLOCO thinks you deserve a piece of the action.
 
-AGLOCO collects money from those companies on behalf of its members. (For example, Google currently pays AOL 10 cents for every Google search by an AOL user. And Google still has enough profit to pay $1.6 billion dollars for YouTube, an 18-month old site full of content that YouTubeâ€™s users did not get paid for!
+AGLOCO collects money from those companies on behalf of its members. (For example, Google currently pays AOL 10 cents for every Google search by an AOL user. And Google still has enough profit to pay $1.6 billion dollars for YouTube, an 18-month old site full of content that YouTube€™s users did not get paid for!
 
 AGLOCO will work to get its Members their share of this and more.
 
-AGLOCO is building a new form of online community that they call an Economic Network. They are not only paying Members their fair share, but theyâ€™re building a community that will generate the kind of fortune that YouTube made. But instead of that wealth making only a few people rich, the entire community will get its share.
+AGLOCO is building a new form of online community that they call an Economic Network. They are not only paying Members their fair share, but they€™re building a community that will generate the kind of fortune that YouTube made. But instead of that wealth making only a few people rich, the entire community will get its share.
 
 What's the catch? No catch - no spyware, no pop-ups and no spam - membership and software are free and AGLOCO is 100% member owned. Privacy is a core value and AGLOCO never sells or rents member information.
 

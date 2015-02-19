@@ -10,4 +10,4 @@ I created three of these 4pack beer carriers for a few friends of mine. I don't 
 
 [gallery type="slideshow" ids="3936,3937,3938,3939"]
 
-Cut with 6mm Â birch ply at <a href="http://vancouver.hackspace.ca/wp/">VHS</a>
+Cut with 6mm  birch ply at <a href="http://vancouver.hackspace.ca/wp/">VHS</a>

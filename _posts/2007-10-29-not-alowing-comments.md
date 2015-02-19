@@ -19,4 +19,4 @@ Lots of link backs so his Google rank goes up.
 When someone comments on one of his posts, all of there readers also hear about it and more people view his site.
 
 Anyways as for my comment.
-<blockquote>Cialis pills. Generic cialis tadalafil mg pills nextag comâ€¦.</blockquote>
+<blockquote>Cialis pills. Generic cialis tadalafil mg pills nextag com€¦.</blockquote>

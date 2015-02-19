@@ -14,7 +14,7 @@ I have been collecting data about myself since the start of 2014 as part of the 
 </ul>
 Between these three services I can get a pretty good picture of where I have been over the year.
 
-I was reading <a href="http://www.amazon.ca/The-Map-Art-Contemporary-Cartography/dp/1568989725">"The Map as Art" by Katharine Harmon</a>Â and saw this map created by <a href="http://katiehollandlewis.com/portfolio/tangled-pathways/#3">Katie Holland Lewis called Tangled Pathways</a>. Her map was created by mapping the points on her body that provided her with sensations such as pain, and stringing these points together into a map of her experience. Her work gave me the inspiration me to create this project.
+I was reading <a href="http://www.amazon.ca/The-Map-Art-Contemporary-Cartography/dp/1568989725">"The Map as Art" by Katharine Harmon</a> and saw this map created by <a href="http://katiehollandlewis.com/portfolio/tangled-pathways/#3">Katie Holland Lewis called Tangled Pathways</a>. Her map was created by mapping the points on her body that provided her with sensations such as pain, and stringing these points together into a map of her experience. Her work gave me the inspiration me to create this project.
 
 [caption id="attachment_3979" align="alignnone" width="300"]<a href="http://www.abluestar.com/blog/wp-content/uploads/2014/06/img3.jpg"><img class="size-medium wp-image-3979" src="http://www.abluestar.com/blog/wp-content/uploads/2014/06/img3-300x200.jpg" alt=" Katie Holland Lewis called Tangled Pathways " width="300" height="200" /></a> Katie Holland Lewis called Tangled Pathways http://katiehollandlewis.com/portfolio/tangled-pathways/#3[/caption]
 

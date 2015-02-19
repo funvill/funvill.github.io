@@ -11,6 +11,6 @@ categories: [bloodshots, Canada, funny, Media, Movies, Projects, projects, puppe
 
 Tender Threads is the story of a talented young gynecologist who receives a mysterious instructional DVD that informs her that she is likely to be a psycho killer's next victim.
 
-Please be advised: this film may contain puppets, but it's pretty Â well R-Rated. There is some pretty extreme puppet on puppet violence, and also several appearances of fabric and illustrated genitals.
+Please be advised: this film may contain puppets, but it's pretty  well R-Rated. There is some pretty extreme puppet on puppet violence, and also several appearances of fabric and illustrated genitals.
 
 We apologize for the roughness of this, a result of challenging time constraints. Once the voting period of the Bloodshots Canada challenge ends, we will be taking this video offline to make way for an eventual better effects'ed and edited version, with less traumatizing sound.</blockquote>

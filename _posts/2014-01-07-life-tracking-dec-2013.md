@@ -25,10 +25,10 @@ This chart was generated with the help of <a href="https://www.rescuetime.com/">
 </ol>
 <span style="font-size: 24px; font-weight: bold; line-height: 1;">Movement tracking</span>
 
-This image shows my movement around Vancouver in December 2013. The image was created with <a href="http://processing.org/">processing</a> using a script fromÂ <a href="https://github.com/feltron/MMapper">MMapper</a>Â based on data that was recorded with the <a href="http://moves-app.com">Moves app</a> on my cell phone.
+This image shows my movement around Vancouver in December 2013. The image was created with <a href="http://processing.org/">processing</a> using a script from <a href="https://github.com/feltron/MMapper">MMapper</a> based on data that was recorded with the <a href="http://moves-app.com">Moves app</a> on my cell phone.
 <a href="http://www.abluestar.com/blog/wp-content/uploads/2014/01/dec20131.png"><img class="size-medium wp-image-3903 aligncenter" alt="dec2013" src="http://www.abluestar.com/blog/wp-content/uploads/2014/01/dec20131-300x225.png" width="300" height="225" /></a>
 
-This chart of where I spend most of my time was generated with <a href="http://www.moves-export.com/weeklysummaries">http://www.moves-export.com</a>Â using the data provided byÂ <a href="http://moves-app.com">Moves app</a>. A good week for steps should be 70,000
+This chart of where I spend most of my time was generated with <a href="http://www.moves-export.com/weeklysummaries">http://www.moves-export.com</a> using the data provided by <a href="http://moves-app.com">Moves app</a>. A good week for steps should be 70,000
 <table>
 <thead>
 <tr>
@@ -111,7 +111,7 @@ Avg. sleep/record: 6.9 hours
 
 <a href="http://www.abluestar.com/blog/wp-content/uploads/2014/01/chart_1-1.png"><img class="size-medium wp-image-3943 aligncenter" alt="Dec 2014 sleeping" src="http://www.abluestar.com/blog/wp-content/uploads/2014/01/chart_1-1-300x182.png" width="300" height="182" /></a>
 
-Generated with the help of an android app calledÂ <a href="https://play.google.com/store/apps/details?id=com.lslk.sleepbot">Sleep Bot</a>
+Generated with the help of an android app called <a href="https://play.google.com/store/apps/details?id=com.lslk.sleepbot">Sleep Bot</a>
 <h2>Other</h2>
 Gmail disk usage increase: 116mb
 
