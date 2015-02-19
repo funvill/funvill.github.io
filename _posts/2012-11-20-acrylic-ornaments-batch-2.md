@@ -1,0 +1,45 @@
+---
+layout: post
+title: Acrylic Ornaments Batch 2
+date: 2012-11-20 00:00
+author: funvill
+comments: true
+categories: [Laser Cutter]
+---
+These are the results from the "<a href="http://www.abluestar.com/blog/acrylic-ornaments-design-thoughts-an-research/">acrylic ornaments design thoughts and research</a>". They turned out O.K. I am still not completelyÂ happy with it. I learned a lot from this batch and I am looking forward to the next one.Â The raw file can be <a href="http://www.abluestar.com/files/uploads/2012/nov/Kock_snowflake_v1.svg">downloaded here</a>.
+
+<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/Kock_snowflake_v11.png"><img class="alignnone size-full wp-image-3020" title="Kock_snowflake_v1" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/Kock_snowflake_v11.png" alt="" width="430" height="314" /></a>
+
+<strong>Gallery of all of the Snowflakes in this batch
+</strong>[nggallery id=12]
+
+<strong>PuzzleÂ pieces</strong>
+I added the puzzleÂ piecesÂ in to the file to fill in the empty space that wouldÂ normallyÂ be wasted. Â John C (A VHS member) gave me someÂ earningÂ hooks that I attached to a set of the puzzle pieces. They turned out pretty nice.
+
+<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6212.jpg"><img class="alignnone size-thumbnail wp-image-3023" title="img_6212" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6212-150x150.jpg" alt="" width="150" height="150" /></a>Â <a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6213.jpg"><img class="alignnone size-thumbnail wp-image-3024" title="img_6213" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6213-150x150.jpg" alt="" width="150" height="150" /></a>
+
+<strong>3D Snowflake</strong>
+I also cut a design that I found on Â <a href="http://www.thingiverse.com/">thingiverse.com</a>Â a <a href="http://www.thingiverse.com/thing:5008">3D SnowFlake</a>Â in 4 pieces. The pieces snap together but still could use some glue. <a href="http://www.thingiverse.com/derivative:44568">Its nice</a>, but I don't think I will be making another one.
+<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_61891.jpg"><img class="alignnone size-thumbnail wp-image-3026" title="img_6189" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_61891-150x150.jpg" alt="" width="150" height="150" /></a>
+
+<strong>Slotted 3D snowflakes</strong>
+This was my attempt at making slotted 3D snowflakes. The source file above wasÂ scaledÂ too small so I scaledÂ up the source image and forgot toÂ re-sizeÂ the slot. Because of this the slot was too large and would not fit togetherÂ snugly. I re-designed the slotted 3D snowflake with the correct slot size and it came out better. Still not what I am looking for.
+<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6190.jpg"><img class="alignnone size-thumbnail wp-image-3028" title="img_6190" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6190-150x150.jpg" alt="" width="150" height="150" /></a>Â <a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6193.jpg"><img class="alignnone size-thumbnail wp-image-3029" title="img_6193" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6193-150x150.jpg" alt="" width="150" height="150" /></a>Â <a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6192.jpg"><img class="alignnone size-thumbnail wp-image-3030" title="img_6192" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6192-150x150.jpg" alt="" width="150" height="150" /></a>
+
+<strong>Koch SnowflakeÂ With Text</strong>
+I had high hopes for this one, but I got the settings for the text wrong and it cut though the acrylic. In both versions the text is unreadable. I may try this one again with different settings for the laser.
+<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6195.jpg"><img class="alignnone size-thumbnail wp-image-3031" title="img_6195" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6195-150x150.jpg" alt="" width="150" height="150" /></a>Â <a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_61961.jpg"><img class="alignnone size-thumbnail wp-image-3033" title="img_6196" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_61961-150x150.jpg" alt="" width="150" height="150" /></a>
+
+<strong>MoreÂ traditional Snowflakes</strong>
+These are the more traditional snowflakes. They turned out the best, but not what I was looking for. The <a href="http://thenounproject.com/noun/snowflake/#icon-No3777">simplest one</a> is from theÂ <a href="http://thenounproject.com/">the noun project</a>.
+<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6197.jpg"><img class="alignnone size-thumbnail wp-image-3035" title="img_6197" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6197-150x150.jpg" alt="" width="150" height="150" /></a>Â <a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6198.jpg"><img class="alignnone size-thumbnail wp-image-3036" title="img_6198" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6198-150x150.jpg" alt="" width="150" height="150" /></a>Â <a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6199.jpg"><img class="alignnone size-thumbnail wp-image-3037" title="img_6199" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6199-150x150.jpg" alt="" width="150" height="150" /></a>
+
+<strong>Koch Snowflake with a hole in the center</strong>
+These ones will be easy to hang on a tree, and are interestingÂ enough. They are just okay, I think I can do better with moreÂ iterations. Out of this group I like the one with the simple star in the center.
+<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6202.jpg"><img class="alignnone size-thumbnail wp-image-3038" title="img_6202" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6202-150x150.jpg" alt="" width="150" height="150" /></a>Â <a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6204.jpg"><img class="alignnone size-thumbnail wp-image-3039" title="img_6204" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6204-150x150.jpg" alt="" width="150" height="150" /></a>Â <a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6205.jpg"><img class="alignnone size-thumbnail wp-image-3040" title="img_6205" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6205-150x150.jpg" alt="" width="150" height="150" /></a>
+
+<strong>Koch Snowflake at different sizes.Â </strong>
+Same as above but without the center cut out. These are kind ofÂ boringÂ comparedÂ to the other ones. I probably won't do these again.
+<a href="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6207.jpg"><img class="alignnone size-thumbnail wp-image-3041" title="img_6207" src="http://www.abluestar.com/blog/wp-content/uploads/2012/11/img_6207-150x150.jpg" alt="" width="150" height="150" /></a>
+
+Better then the first batch but still working on it.
