@@ -1,11 +1,12 @@
 ---
-layout: post
-title: Thread map of vancouver for Maker Labs Art show
+layout: project
+title: Thread map of vancouver
 date: 2014-06-29 00:35
 author: funvill
 comments: true
 categories: [Art, maps, Projects, projects, thread, Vancouver, Vancouver, yarn]
 ---
+
 I have been collecting data about myself since the start of 2014 as part of the <a href="http://en.wikipedia.org/wiki/Quantified_Self">Quantified Self moment</a> . One of the data points that I have been collecting is my location. Over the year I have been collecting my location data with these three different applications.
 <ul>
 	<li><a href="http://www.moves-app.com/">Moves-app</a> - This application is passive and works in the background on my phone. It tracks the location as well as path between each location and the method of travel. This application has moderate accuracy and can get confused if the GPS gives the wrong data.</li>

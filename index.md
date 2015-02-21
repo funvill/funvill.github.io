@@ -9,6 +9,7 @@ This is the main page. This should have some introduction about what I do and so
 ## Projects
 
  - 2015 [Pocket Universe](/projects/pocketuniverse/) - Short description of this project
+ - 2014 [Thread map of vancouver]() - Laser cut map of vancouver with GPS heat map of a years worth of travel.
  - 2014 [The Giant Claw Game!](/projects/thegiantclawgame.html) - Short description of this project
 
 ## Posts
