@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/funvill
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.abluestar.com
+  * I am funvill (https://keybase.io/funvill) on keybase.
+  * I have a public key with fingerprint EE8A A1D4 A5DB 1B0B BA3A  C27E 7D2E 12EF 4416 7D1D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "ee8aa1d4a5db1b0bba3ac27e7d2e12ef44167d1d",
+            "host": "keybase.io",
+            "key_id": "7d2e12ef44167d1d",
+            "kid": "0101c6fa5844c8c92ba3d193b1247ca9ed51e6a23dfb8efea067db853a05750d370a0a",
+            "uid": "24903db624ae0d768f93547ba199ee00",
+            "username": "funvill"
+        },
+        "service": {
+            "hostname": "blog.abluestar.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1433195522,
+    "expire_in": 157680000,
+    "prev": "796ead753dc8b22ce46bdbc0e133f624dcccb6cd96112576fbc8fb69b05fa4cf",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIfAnicbZJbSBRRGMfXVdNd2qjoAhlJA1nQJufMfTaQhIwuEGRIFtp2bqOT68w6
+O7slZtiFwh4KgoiCJLqYCT5EF0uN7EZFUBlhkelDJBQRFRGFBnZG7K3zcjjf9///
+vgvnQSQ7EM5aVRQ78CXWqmc9vbsmHahIvAo2CdihjUKsSahjk5dp2TXMTbqW7Qkx
+gTEdIUhlpFAMMcAYSYiIGtOoyKDITFmGqkYhFaJCrZPyHRyDUYoVWw6P8Ufcojz6
+H33dZAJAAIlqIkWXZaITQ+QVKDQkDEVZI8hgVIFMRaJETawzkyHA/VhXJAQUTQFU
+0gACiOPSkzhRNoBEsSrKiAGqqbppSIqsYQQNgzEAfGGKuTaqZ1xtpu2MlUgIzVGB
+BzMWYf4G/EGmBDjh1BQjnEizlIfcYuLUc0DSdTyHOAmer/W8ZMy3e41JX7+L4fgU
+KY4tm/JdckOGuSnLsYUY5EriWT4aypIEDUURxajAdictl8UtX6HwngE/fhmW8Tdn
+qAxRTZEo0bEoEiarmGICGJQkk89JCSFYJdRQIRS528REN7FqYKCYSCam4M/WYDuc
+rfM+UQ1npqwaG3lplwnN9/qrcgJZ4cC03KD/HQLh0Mx/nyQyLT9w5OWbx07v3sql
+hTC/tWDx1bYzM9Y+XpDXuuLmyJ+xOx/ev/2oPB3+0XDk9pbI8iQ1vnU+HMkqKg11
+X/vpzkr8ephT3WaduBgPBj8NL794ak7Lzm+17Xb76U1Dn0NlV8YKhs/PqP1++9Se
+r/GB9svlG/tnOoezr+0YqptgLWd7Nhi/C3eXPAsMdnXrC1dfODh7LNw2KP5cEl1/
+f8e6vieLS0bLretfB0PHex+9fVF1YyD3WXrf/lik8uSx0oHx1/nRzqaBFOvbdqiv
+Obcnr2MRODbPblg2/dZnr6OzpWu7ylZWb33XVZjzRisLdWef27zuSXXvvTUfRyeq
+5t4/Wrri0rhT8Tw0/y/84io5
+=43pr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/funvill
+
+==================================================================
