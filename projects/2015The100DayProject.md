@@ -18,4 +18,5 @@ title: (2015) The 100 Day Project
  - [Day 9 - Fairy doors](/day-9-fairy-doors) 
  - [Day 10 - Hexagon star](/day-10-hexagon-star)  
  - [Day 11 - String star](/day-11-string-star)  
+ - [Day 12 - Test Panels](/day-12-test-panels)  
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
