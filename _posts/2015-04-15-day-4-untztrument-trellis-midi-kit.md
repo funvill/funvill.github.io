@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 4 - Untztrument trellis midi kit
-date: 2015-04-15 00:05
+date: 2015-04-15 00:04
 author: funvill
 ---
 

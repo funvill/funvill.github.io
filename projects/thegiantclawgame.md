@@ -1,6 +1,6 @@
 ---
 layout: project
-title: The Giant Claw Game! (2013)
+title: (2013) The Giant Claw Game! 
 ---
 
  - [Vancouver Maker Faire 2013 project](http://blog.abluestar.com/the-giant-claw-game-vancouver-maker-faire-2013-project)
