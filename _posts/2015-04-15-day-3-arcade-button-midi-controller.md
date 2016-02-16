@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Day Arcade button midi controller
+title: Day 3 - Arcade button midi controller
 date: 2015-04-15 00:03
 author: funvill
 comments: true

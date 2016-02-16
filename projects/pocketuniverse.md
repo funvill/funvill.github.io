@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Pocket Universe 2015
+title: Pocket Universe (2015)
 ---
 
 This is the page for the pocket universe

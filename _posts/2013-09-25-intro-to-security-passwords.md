@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro to Security - Passwords 
+title: Intro to Security, Passwords 
 date: 2013-09-25 21:20
 author: funvill
 comments: true
