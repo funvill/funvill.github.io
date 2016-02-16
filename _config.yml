@@ -6,14 +6,14 @@ pygments:         true
 permalink:        /:title
 
 # Setup
-title:            Abluestar
-tagline:          'this is the tag line'
+title:            ABlueStar
+tagline:          'I make things, sometimes they are awesome things'
 description:      'Steven Smethurst is a Vancouver based <em>Maker</em>, <em>Hacker</em>, <em>Coder</em>, and all around <em>great guy!</em>'
 url:              http://funvill.github.io
 
 author:
   name:           'funvill'
-  url:            
+  url:            http://blog.abluestar.com
 
 paginate:         1
 
