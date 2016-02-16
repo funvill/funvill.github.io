@@ -9,7 +9,7 @@ title: 2016 The 100 Day Project
 
 http://thegreatdiscontent.com/100days
 
- - [1 Day - Fractal Triangle](http://)
- - [2 Day - 20x hexagon](http://)
+ - [1 Day - Fractal Triangle](/1-day-fractal-triangle)
+ - [2 Day - 20x hexagon](/2-day-20x-hexagon)
  - [3 Day - Arcade button midi controller](http://)
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
