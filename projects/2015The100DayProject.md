@@ -12,4 +12,10 @@ title: (2015) The 100 Day Project
  - [Day 3 - Arcade button midi controller](/day-3-arcade-button-midi-controller)
  - [Day 4 - Untztrument trellis midi kit](/day-4-untztrument-trellis-midi-kit)
  - [Day 5 - Moster frog](/day-5-moster-frog) 
+ - [Day 6 - Moster lizard](/day-6-moster-lizard) 
+ - [Day 7 - Moster dog](/day-6-moster-dog) 
+ - [Day 8 - Moster mustache](/day-6-moster-mustache) 
+
+ 
+ 
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
