@@ -13,9 +13,9 @@ title: (2015) The 100 Day Project
  - [Day 4 - Untztrument trellis midi kit](/day-4-untztrument-trellis-midi-kit)
  - [Day 5 - Moster frog](/day-5-moster-frog) 
  - [Day 6 - Moster lizard](/day-6-moster-lizard) 
- - [Day 7 - Moster dog](/day-6-moster-dog) 
- - [Day 8 - Moster mustache](/day-6-moster-mustache) 
-
- 
- 
+ - [Day 7 - Moster dog](/day-7-moster-dog) 
+ - [Day 8 - Moster mustache](/day-8-moster-mustache) 
+ - [Day 9 - Fairy doors](/day-9-fairy-doors) 
+ - [Day 10 - Hexagon star](/day-10-hexagon-star)  
+ - [Day 11 - String star](/day-11-string-star)  
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
