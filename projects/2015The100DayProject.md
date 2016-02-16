@@ -11,5 +11,5 @@ http://thegreatdiscontent.com/100days
 
  - [1 Day - Fractal Triangle](/1-day-fractal-triangle)
  - [2 Day - 20x hexagon](/2-day-20x-hexagon)
- - [3 Day - Arcade button midi controller](/3-day-rcade-button-midi-controller)
+ - [3 Day - Arcade button midi controller](/3-day-arcade-button-midi-controller)
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
