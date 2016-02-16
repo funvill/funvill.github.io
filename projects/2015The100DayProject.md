@@ -20,4 +20,5 @@ title: (2015) The 100 Day Project
  - [Day 11 - String star](/day-11-string-star)  
  - [Day 12 - Test Panels](/day-12-test-panels)  
  - [Day 13 - Layered paper craft dragon](/day-13-layered-paper-craft-dragon)  
+ - [Day 14 - Test Polyhedron](/day-14-test-polyhedron)  
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
