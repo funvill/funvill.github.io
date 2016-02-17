@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 27 - Hexagon Star CNC Panel
+title: Day 28 - Hexagon Star CNC Panel
 date: 2015-05-24 00:27
 author: funvill
 ---

@@ -34,5 +34,12 @@ title: (2015) The 100 Day Project
  - [Day 25 - Maker Business Card](/day-25-maker-business-card)
  - [Day 26 - L3D cube build](/day-26-l3d-cube-build)
  - [Day 27 - Hexagon Star CNC Panel](/day-27-hexagon-star-cnc-panel)
+ - [Day 28 - Spiral Panel CNC](/day-28-spiral-panel-cnc)
+ - [Day 29 - Picture frame CNC Panel](/day-29-picture-frame-cnc-panel)
+ - [Day 30 - Large picture frame CNC Panel](/day-30-large-picture-frame-cnc-panel)
+
+
+
 
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
+
