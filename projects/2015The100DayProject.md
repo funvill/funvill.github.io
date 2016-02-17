@@ -27,6 +27,12 @@ title: (2015) The 100 Day Project
  - [Day 18 - Failed array panel](/day-18-failed-array-panel)  
  - [Day 19 - Failed maze panel](/day-19-failed-maze-panel)  
  - [Day 20 - LEDs working Untztrument trellis midi kit](/day-20-leds-working-untztrument-trellis-midi-kit)  
-
+ - [Day 21 - Arcade button midi control](/day-21-arcade-button-midi-control)
+ - [Day 22 - Triangl Line Panel](/day-22-triangl-line-panel)
+ - [Day 23 - Spiral Panel](/day-23-spiral-panel)
+ - [Day 24 - Elven Fairy door](/day-24-elven-fairy-door)
+ - [Day 25 - Maker Business Card](/day-25-maker-business-card)
+ - [Day 26 - L3D cube build](/day-26-l3d-cube-build)
+ - [Day 27 - Hexagon Star CNC Panel](/day-27-hexagon-star-cnc-panel)
 
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
