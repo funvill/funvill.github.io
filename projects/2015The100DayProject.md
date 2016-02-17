@@ -47,6 +47,16 @@ title: (2015) The 100 Day Project
  - [Day 38 - Cthulhu panel](/day-38-cthulhu-panel)
  - [Day 39 - Inside of the dome](/day-39-inside-of-the-dome)
  - [Day 40 - Hyperbolic triangle](/day-40-hyperbolic-triangle)
+ - [Day 41 - Pocket universe title card](/day-41-pocket-universe-title-card)
+ - [Day 42 - All pixel build day](/day-42-all-pixel-build-day)
+ - [Day 43 - Installing leds in the Hexagon star panel](/day-43-installing-leds-in-the-hexagon-star-panel)
+ - [Day 44 - LEDs and Electronics installed in button panel](/day-44-leds-and-electronics-installed-in-button-panel)
+ - [Day 45 - LED Strip Test](/day-45-led-strip-test)
+ - [Day 46 - Voronoi pattern panel](/day-46-voronoi-pattern-panel)
+ - [Day 47 - Twelve sided star](/day-47-twelve-sided-star)
+ - [Day 48 - Maze panel](/day-48-maze-panel)
+ - [Day 49 - Branches panel](/day-49-branches-panel)
+ - [Day 50 - Unfinished panel](/day-50-unfinished-panel) 
 
 
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
