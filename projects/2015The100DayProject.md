@@ -59,6 +59,16 @@ title: (2015) The 100 Day Project
  - [Day 50 - Unfinished panel](/day-50-unfinished-panel) 
  - [Day 51 - Circles panel](/day-51-circles-panel) 
  - [Day 52 - Set up at maker faire](/day-52-set-up-at-maker-faire) 
+ - [Day 53 - Testing LED Strips](/day-53-testing-led-strips) 
+ - [Day 54 - Lasers letters](/day-54-lasers-letters) 
+ - [Day 55 - Fairy door arch](/day-55-fairy-door-arch) 
+ - [Day 56 - Fairy door magic](/day-56-fairy-door-magic) 
+ - [Day 57 - Fairy door normal](/day-57-fairy-door-normal) 
+ - [Day 58 - Hobbit fairy door](/day-58-hobbit-fairy-door) 
+ - [Day 59 - Hobbit fairy door two](/day-59-hobbit-fairy-door-two) 
+ - [Day 60 - Fancy fairy door](/day-60-fancy-fairy-door) 
+
+
 
 
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
