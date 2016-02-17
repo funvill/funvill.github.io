@@ -21,4 +21,12 @@ title: (2015) The 100 Day Project
  - [Day 12 - Test Panels](/day-12-test-panels)  
  - [Day 13 - Layered paper craft dragon](/day-13-layered-paper-craft-dragon)  
  - [Day 14 - Test Polyhedron](/day-14-test-polyhedron)  
+ - [Day 15 - Arcade Button Panel](/day-15-arcade-button-panel)  
+ - [Day 16 - Star panel two](/day-16-star-panel-two)  
+ - [Day 17 - Tiny Star Panel Array](/day-17-tiny-star-panel-array)  
+ - [Day 18 - Failed array panel](/day-18-failed-array-panel)  
+ - [Day 19 - Failed maze panel](/day-19-failed-maze-panel)  
+ - [Day 20 - LEDs working Untztrument trellis midi kit](/day-20-leds-working-untztrument-trellis-midi-kit)  
+
+
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
