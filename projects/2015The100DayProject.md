@@ -67,6 +67,16 @@ title: (2015) The 100 Day Project
  - [Day 58 - Hobbit fairy door](/day-58-hobbit-fairy-door) 
  - [Day 59 - Hobbit fairy door two](/day-59-hobbit-fairy-door-two) 
  - [Day 60 - Fancy fairy door](/day-60-fancy-fairy-door) 
+ - [Day 61 - Flintstone fairy door](/day-61-flintstone-fairy-door) 
+ - [Day 62 - Triangle fairy door](/day-62-triangle-fairy-door) 
+ - [Day 63 - Brick fairy door](/day-63-brick-fairy-door) 
+ - [Day 64 - Barrel fairy door](/day-64-barrel-fairy-door) 
+ - [Day 65 - Curved fairy door](/day-65-curved-fairy-door) 
+ - [Day 66 - Pointy fairy door](/day-66-pointy-fairy-door) 
+ - [Day 67 - Testing fairy door](/day-67-testing-fairy-door) 
+ - [Day 68 - Installing fairy door](/day-68-installing-fairy-door) 
+ - [Day 69 - Installing fairy door two](/day-69-installing-fairy-door-two) 
+ - [Day 70 - Fairy door off cuts](/day-70-fairy-door-off-cuts) 
 
 
 
