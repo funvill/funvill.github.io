@@ -57,6 +57,8 @@ title: (2015) The 100 Day Project
  - [Day 48 - Maze panel](/day-48-maze-panel)
  - [Day 49 - Branches panel](/day-49-branches-panel)
  - [Day 50 - Unfinished panel](/day-50-unfinished-panel) 
+ - [Day 51 - Circles panel](/day-51-circles-panel) 
+ - [Day 52 - Set up at maker faire](/day-52-set-up-at-maker-faire) 
 
 
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
