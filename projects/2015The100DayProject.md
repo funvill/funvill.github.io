@@ -37,8 +37,16 @@ title: (2015) The 100 Day Project
  - [Day 28 - Spiral Panel CNC](/day-28-spiral-panel-cnc)
  - [Day 29 - Picture frame CNC Panel](/day-29-picture-frame-cnc-panel)
  - [Day 30 - Large picture frame CNC Panel](/day-30-large-picture-frame-cnc-panel)
-
-
+ - [Day 31 - Laser branch panel](/day-31-laser-branch-panel)
+ - [Day 32 - Music thank you card](/day-32-music-thank-you-card)
+ - [Day 33 - Painted Fairy Door](/day-33-painted-fairy-door)
+ - [Day 34 - Spades Panel](/day-34-spades-panel)
+ - [Day 35 - Spades Panel variant 2](/day-35-spades-panel-variant-2)
+ - [Day 36 - Arcade button panel](/day-36-arcade-button-panel)
+ - [Day 37 - Flower of life panel](/day-37-flower-of-life-panel)
+ - [Day 38 - Cthulhu panel](/day-38-cthulhu-panel)
+ - [Day 39 - Inside of the dome](/day-39-inside-of-the-dome)
+ - [Day 40 - Hyperbolic triangle](/day-40-hyperbolic-triangle)
 
 
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
