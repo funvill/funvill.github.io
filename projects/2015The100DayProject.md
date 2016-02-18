@@ -107,7 +107,5 @@ title: (2015) The 100 Day Project
  - [Day 98 - Rainbow halloween hat](/day-98-rainbow-halloween-hat) 
  - [Day 99 - VHS LED wall](/day-99-vhs-led-wall) 
  - [Day 100 - ESP8266 IFTTT Button](/day-100-esp8266-ifttt-button) 
-
-
- - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
+ - [Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
 
