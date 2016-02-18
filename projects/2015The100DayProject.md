@@ -77,6 +77,30 @@ title: (2015) The 100 Day Project
  - [Day 68 - Installing fairy door](/day-68-installing-fairy-door) 
  - [Day 69 - Installing fairy door two](/day-69-installing-fairy-door-two) 
  - [Day 70 - Fairy door off cuts](/day-70-fairy-door-off-cuts) 
+ - [Day 71 - Fairy door painting](/day-71-fairy-door-painting) 
+ - [Day 72 - Fairy door workshop](/day-72-fairy-door-workshop) 
+ - [Day 73 - AT walker layered paper craft](/day-73-at-walker-layered-paper-craft) 
+ - [Day 74 - Iron giant layered paper craft](/day-74-iron-giant-layered-paper-craft) 
+ - [Day 75 - Moose layered paper craft](/day-75-moose-layered-paper-craft) 
+ - [Day 76 - Princess Mononoke paper craft](/day-76-princess-mononoke-paper-craft) 
+ - [Day 77 - Red Riding hood paper craft](/day-77-little-red-riding-hood-paper-craft) 
+ - [Day 78 - Samuria Jack paper craft](/day-78-samuria-jack-paper-craft) 
+ - [Day 79 - 3D printed horn](/day-79-3d-printed-horn) 
+ - [Day 80 - Double 3D printed horn](/day-80-double-3d-printed-horn) 
+ - [Day 81 - Voronoi tower](/day-81-voronoi-tower) 
+ - [Day 82 - Visualization of DNA](/day-82-visualization-of-dna) 
+ - [Day 83 - Mario Coin](/83-mario_coin) 
+ - [Day 84 - MeeBox](/84-meebox) 
+ - [Day 85 - Mustaches](/85-mustaches) 
+ - [Day 86 - Fox head mask](/86-fox-head-mask) 
+ - [Day 87 - Burning man plaque](/87-burning-man-plaque) 
+ - [Day 88 - Preying Mantis](/88-preying-mantis) 
+ - [Day 89 - Jumping Spider](/89-jumping-spider) 
+
+
+
+
+
 
 
 
