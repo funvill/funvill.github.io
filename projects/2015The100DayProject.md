@@ -89,20 +89,24 @@ title: (2015) The 100 Day Project
  - [Day 80 - Double 3D printed horn](/day-80-double-3d-printed-horn) 
  - [Day 81 - Voronoi tower](/day-81-voronoi-tower) 
  - [Day 82 - Visualization of DNA](/day-82-visualization-of-dna) 
- - [Day 83 - Mario Coin](/83-mario_coin) 
- - [Day 84 - MeeBox](/84-meebox) 
- - [Day 85 - Mustaches](/85-mustaches) 
- - [Day 86 - Fox head mask](/86-fox-head-mask) 
- - [Day 87 - Burning man plaque](/87-burning-man-plaque) 
- - [Day 88 - Preying Mantis](/88-preying-mantis) 
- - [Day 89 - Jumping Spider](/89-jumping-spider) 
-
-
-
-
-
-
-
+ - [Day 83 - Mario Coin](/day-83-mario_coin) 
+ - [Day 84 - MeeBox](/day-84-meebox) 
+ - [Day 85 - Mustaches](/day-85-mustaches) 
+ - [Day 86 - Fox head mask](/day-86-fox-head-mask) 
+ - [Day 87 - Burning man plaque](/day-87-burning-man-plaque) 
+ - [Day 88 - Preying Mantis](/day-88-preying-mantis) 
+ - [Day 89 - Jumping Spider](/day-89-jumping-spider) 
+ - [Day 90 - Blowfly](/day-90-blowfly) 
+ - [Day 91 - Cockroach](/day-91-cockroach) 
+ - [Day 92 - Yellow Jacket](/day-92-yellow-jacket) 
+ - [Day 93 - Burning man belt](/day-93-burning-man-belt) 
+ - [Day 94 - Radiant acrylic fox mask](/day-94-radiant-acrylic-fox-mask) 
+ - [Day 95 - I Stand With Ahmed workshop](/day-95-istandwithahmed-workshop) 
+ - [Day 96 - This is a not bomb](/day-96-this-is-a-not-bomb) 
+ - [Day 97 - Giant fox mask](/day-97-giant-fox-mask) 
+ - [Day 98 - Rainbow halloween hat](/day-98-rainbow-halloween-hat) 
+ - [Day 99 - VHS LED wall](/day-99-vhs-led-wall) 
+ - [Day 100 - ESP8266 IFTTT Button](/day-100-esp8266-ifttt-button) 
 
 
  - [History - Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
