@@ -8,6 +8,7 @@ This is the main page. This should have some introduction about what I do and so
 
 ## Projects
 
+ - 2016 [CNC Zen Garden](/projects/2016CNCZenGarden.html) - A Zen garden 
  - 2015 [#The100DayProject](/projects/2015The100DayProject.html) - A series of single day projects. 
  - 2015 [Pocket Universe](/projects/pocketuniverse.html) - Mirroed dome.
  - 2014 [Thread map of vancouver](/projects/threadmapofvancouver.html) - Laser cut map of vancouver with GPS heat map of a years worth of travel.
