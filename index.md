@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-published: false
+published: true
 ---
 
 This is the main page. This should have some introduction about what I do and some directions on where to go next..
