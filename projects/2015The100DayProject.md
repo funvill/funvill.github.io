@@ -1,6 +1,10 @@
 ---
 layout: project
-title: (2015) The 100 Day Project 
+title: (2015) The 100 Day Project
+published: true
+date: '2015-12-01 00:01'
+author: funvill
+categories: []
 ---
 
 ## The 100 Day Project - 2015
@@ -108,4 +112,3 @@ title: (2015) The 100 Day Project
  - [Day 99 - VHS LED wall](/day-99-vhs-led-wall) 
  - [Day 100 - ESP8266 IFTTT Button](/day-100-esp8266-ifttt-button) 
  - [Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
-
