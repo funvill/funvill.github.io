@@ -3,9 +3,9 @@ layout: page
 title: List of past projects
 ---
 
-{% for projects in site.projects %}
- {% if projects.title != null %}
-   * {{ projects.date | date_to_string }} &raquo; [ {{ projects.title }} ]({{ projects.url }})
+{% for project in site.projects %}
+ {% if project.title != null %}
+   * {{ project.date | date_to_string }} &raquo; [ {{ project.title }} ]({{ project.url }})
  {% endif %}
 {% endfor %}
-bottom v2
+bottom v3
