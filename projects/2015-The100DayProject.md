@@ -1,11 +1,7 @@
 ---
 layout: project
-collection: projects
 title: (2015) The 100 Day Project
-published: true
-date: '2015-12-01 00:01'
-author: funvill
-categories: []
+excerpt: A series of single day projects.
 ---
 
 ## The 100 Day Project - 2015

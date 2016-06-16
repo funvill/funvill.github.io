@@ -7,11 +7,9 @@ title: List of past projects
 {% for project in site.pages reversed %}
  {% if project.title != null %}
   {% if project.layout == 'project' %}
-   <li> 
-   [ {{ project.title }} ]({{ project.url }})
-   
+   <li><a href="{{ project.url }}">{{ project.title }}</a> 
    {% if page.excerpt != null %}
-   -  {{page.excerpt}} 
+   - {{page.excerpt}}
    {% endif %}
    </li>
   {% endif %}

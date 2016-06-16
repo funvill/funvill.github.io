@@ -1,10 +1,7 @@
 ---
 layout: project
-collection: projects
 title: (2014) Thread map of vancouver 
-date: 2014-06-29 00:35
-author: funvill
-comments: true
+excerpt: Laser cut map of vancouver with GPS heat map of a years worth of travel.
 categories: [Art, maps, Projects, projects, thread, Vancouver, Vancouver, yarn]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: project
-collection: projects
 title: (2014) The Giant Claw Game! 
+excerpt: A large claw game made for Vancouver Maker Faire 2014
 ---
 
  - [Vancouver Maker Faire 2013 project](http://blog.abluestar.com/the-giant-claw-game-vancouver-maker-faire-2013-project)

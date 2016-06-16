@@ -1,11 +1,7 @@
 ---
 layout: project
-collection: projects
 title: (2016) CNC Zen Garden
-date: '2016-06-09 00:01'
-author: funvill
-categories: []
-published: true
+excerpt: A Zen garden controlled by a CNC XY platform.
 ---
 
 
