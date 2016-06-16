@@ -1,10 +1,9 @@
 ---
 layout: project
-collection: project
+collection: projects
 title: (2016) Heart of Mount Pleasant
 date: '2016-06-10 00:01'
 author: funvill
-collection: project
 published: true
 ---
 
