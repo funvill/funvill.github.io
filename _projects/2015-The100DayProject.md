@@ -1,5 +1,6 @@
 ---
 layout: project
+collection: projects
 title: (2015) The 100 Day Project
 published: true
 date: '2015-12-01 00:01'
