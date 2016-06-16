@@ -1,10 +1,7 @@
 ---
 layout: project
-collection: projects
 title: (2016) Heart of Mount Pleasant
-date: '2016-06-10 00:01'
-author: funvill
-published: true
+excerpt: Origami style hearts hanging from a tree in the Heart of Mount Pleasant.
 ---
 
 Comming soon
