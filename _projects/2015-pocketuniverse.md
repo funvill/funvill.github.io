@@ -1,5 +1,6 @@
 ---
 layout: project
+collection: projects
 title: (2015) Pocket Universe 
 ---
 
