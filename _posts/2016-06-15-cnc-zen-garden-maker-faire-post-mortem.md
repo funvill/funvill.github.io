@@ -9,6 +9,8 @@ This is a post mortem of the version of the cnc zen garden that I took to the Va
 
 During the faire I discovered many issues with the machine. Most of these issues I was able to resolve during the faire or at least patch until the end of the faire. Despite all these issues the machine ran through the faire and I learned a lot. 
 
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image02.png)
+
 ## Issues in this version
 
 ### 1) RAMPs board regulator was not properly installed
@@ -18,7 +20,7 @@ I separated the RAMPs board from the arduino mega and found that the through hol
 
 I suspect that the board got compressed while in transit to maker faire causing the leads to touch and short the board. This would explain why I didn't have this issue with the RAMPs board while on my desk at home. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image05.png)
 
 ### 2) Belt on from the towers is at an angle to the Y carriage
 The belt on coming from each of the towers to the Y carriage was at a slight angle. When the Y carriage got close to one of the towers the angle of the belt increased and caused the motors to work harder and consume more current. 
@@ -27,7 +29,7 @@ When the motors consumed more current than the steppers were setup to allow, the
 
 I increased the steppers motors current limit from 0.3 to 0.7 to resolve this issue. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image08.png)
 
 ### 3) Stepper motors going into thermal shutdown.
 
@@ -35,13 +37,13 @@ I increased the stepper motors current to help reduce the skipped steps caused b
 
 I added a small 12v fan to blow air across the heatsinks on the stepper motor drivers and remove some of the heat. This dramatically reduced the temperature of the stepper motor drivers and I never got a thermal shutdown again. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image03.png)
 
 ### 4) Belt tensioning
 
 I did not build in a way to tension the belts easily. Instead I used cable ties connected to the X carriage. Getting the tension just right was impossible. I need to cut and reapply the cable ties several times throughout the event. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image11.png)
 
 ### 5) Belt tensioning under movement
 
@@ -49,7 +51,7 @@ When the X carriage was moving left or right this caused slack in one or the bel
 
 A simple tension spring would have resolved this issue. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image09.png)
 
 
 ### 6) Missed steps near towers made limit switches useless
@@ -64,7 +66,7 @@ I ended up rewriting all my patterns to use the center as a starting location in
 
 I didn’t used bearing for pulley in the towers, instead I used a smooth 8mm bolt. Eventually the pulleys fused with the bolts and started to rub against the acrylic towers. The extra friction made the motors work harder and causes a high pitch squealing noise that annoyed everyone around me. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image01.png)
 
 
 
@@ -72,19 +74,19 @@ I didn’t used bearing for pulley in the towers, instead I used a smooth 8mm bo
 
 The windows in the towers that allowed the belts to connect to the pulleys, were too small and the belts rubbed against the acrylic. This didn’t cause too much of an issue but I suspect that over time it would reduce the lifespan of the belts. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image06.png)
 
 
 ### 9) The belts crossed over and touched each other causing friction
 This is one of the common problems with a CoreXY system. It can be solved by moving the belts to different z heights so they don’t touch each other. In my design the touched and caused friction. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image10.png)
 
 ### 10) Towers were not placed square to each other
 
 The towers were not perfectly square. This caused compression of the X rods when the carriage came close to one of the sides. This often caused missed steps. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image07.png)
 
 
 ## Things that worked
@@ -94,7 +96,7 @@ Even with all the issues with this version there was some things that worked wel
 
 The stilts that I used to offset the working area worked well. They allowed me to lift the working area box off the top of the machine and show people how the machine worked. This also allowed me to review and repair the issues with the machine. 
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image01.png)
 
 ### 2) The working area
 
@@ -105,12 +107,12 @@ The working area is a [RIBBA photo](http://www.ikea.com/ca/en/catalog/products/9
 
 https://www.instagram.com/p/BGYexS9g5Up/?taken-by=funvill
 
-
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image04.png)
 
 
 ### 3) Viewing area 
 
 With the working area raised above the rest of the machine this allowed a small window for people to see how the machine worked. This had a side effect of causing a crowd to form around the machine as everyone took their turn to see what was going on. A crowd draws an even larger crowd. 
 
+![zen garden]({{site.baseurl}}/public/uploads/zen_garden_image12.png)
 
-Prose
