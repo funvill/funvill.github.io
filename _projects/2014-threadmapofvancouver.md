@@ -1,5 +1,6 @@
 ---
 layout: project
+collection: projects
 title: (2014) Thread map of vancouver 
 date: 2014-06-29 00:35
 author: funvill
