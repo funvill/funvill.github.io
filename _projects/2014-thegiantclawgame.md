@@ -1,5 +1,6 @@
 ---
 layout: project
+collection: projects
 title: (2014) The Giant Claw Game! 
 ---
 
