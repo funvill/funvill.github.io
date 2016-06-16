@@ -17,12 +17,6 @@ author:
 
 paginate:         1
 
-collections:
-  projects
-    output: true
-    permalink: /p/:path/
-    path: _projects
-
 # Custom vars
 version:          1.0
 
