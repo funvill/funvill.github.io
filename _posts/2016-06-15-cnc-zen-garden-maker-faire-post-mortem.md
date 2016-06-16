@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: CNC Zen Garden - Vancouver Maker Faire 2016 Post Mortem
 date: '2016-06-15 00:01'
