@@ -8,12 +8,19 @@ This is the main page. This should have some introduction about what I do and so
 
 ## Projects
 
- - 2016 [Heart of Mount Pleasant](/projects/2016-heart-of-mount-pleasant) - Origami style hearts hanging from a tree in the Heart of Mount Pleasant.
- - 2016 [CNC Zen Garden](/projects/2016-CNCZenGarden.html) - A Zen garden controlled by a CNC XY platform.
- - 2015 [#The100DayProject](/projects/2015-The100DayProject.html) - A series of single day projects. 
- - 2015 [Pocket Universe](/projects/2015-pocketuniverse.html) - Mirroed dome.
- - 2014 [Thread map of vancouver](/projects/2014-threadmapofvancouver.html) - Laser cut map of vancouver with GPS heat map of a years worth of travel.
- - 2014 [The Giant Claw Game!](/projects/2014-thegiantclawgame.html) - A large claw game made for Vancouver Maker Faire 2014
+<ul>
+{% for project in site.pages reversed %}
+ {% if project.title != null %}
+  {% if project.layout == "project" %}
+   <li><a href="{{ project.url }}">{{ project.title }}</a> 
+   {% if project.excerpt != null %}
+   - {{project.excerpt}}
+   {% endif %}
+   </li>
+  {% endif %}
+ {% endif %}
+{% endfor %}
+</ul>
 
 ## [Instagram](instagram.com/funvill) 
 

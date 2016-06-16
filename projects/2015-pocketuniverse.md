@@ -1,7 +1,7 @@
 ---
 layout: project
-collection: projects
 title: (2015) Pocket Universe 
+excerpt: Mirroed dome
 ---
 
 This is the page for the pocket universe

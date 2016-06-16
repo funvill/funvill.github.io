@@ -1,7 +1,9 @@
 ---
 layout: page
-title: List of past projects
+title: Projects
 ---
+
+This is a list of some of the past project that I have done. 
 
 <ul>
 {% for project in site.pages reversed %}
