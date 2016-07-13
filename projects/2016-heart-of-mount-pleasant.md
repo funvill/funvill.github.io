@@ -16,4 +16,4 @@ The hearts would be illuminated with small LEDs and batteries contain inside of 
 
 After the project is completed the hearts will be collected and placed in a public gallery space. The installation would be public and free of charge. 
 
-![heart-of-mount-pleasant.PNG]({{site.baseurl}}/public/uploads/heart-of-mount-pleasant.PNG)
+![heart-of-mount-pleasant.PNG]({{site.baseurl}}/public/uploads/MountPleasent.png)
