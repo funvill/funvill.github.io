@@ -6,7 +6,7 @@ date: '2016-07-12 00:01'
 author: funvill
 ---
 
-In the year of 2015-2016 the Vancouver hackspace has devloped a poisonous environment. The culture at VHS has gotten so bad that it is actively encouraging and rewarding bad behavior. I use to have pride4 that I was a VHS member, now I am ashamed to be apart of this group.
+In the year of 2015-2016 the Vancouver hackspace has devloped a poisonous environment. The culture at VHS has gotten so bad that it is actively encouraging and rewarding bad behavior. I use to have pride that I was a VHS member, now I am ashamed to be apart of this group.
 
 VHS use to be a place where people could ask questions and get help with there projects while helping out others. Now people asking questions get ignored, or worst ridiculed for asking a dumb question. People have stopped showing off their projects. VHS is no longer a friendly, welcoming place.
 
