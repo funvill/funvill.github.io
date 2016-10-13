@@ -12,7 +12,7 @@ Between the years of 2015-2016 the Vancouver Hackspace the board of directors ( 
 
 Good, energetic, people will succeed anywhere. VHS is a handicap that prevent even good people from achieving success. Your projects will wither and die at VHS.
 
-This is a list of the alternatives to The Vancouver Hackspace (VHS). 
+This is a list of the alternatives to The Vancouver Hackspace (VHS).
 
 ## Physical spaces
 
@@ -33,7 +33,7 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS).
 - [The Open Science Network](http://www.meetup.com/open-science-network/) - [YVR DIYbio](http://www.opensciencenet.org) is is a community in which burgeoning biological engineers can come together to learn and share ideas, bringing back that enthusiasm for science we experienced as kids. DIYbio 
 - [HackerNest Vancouver Tech Socials](http://www.meetup.com/HackerNestVAN/) - HackerNest Tech Socials are a fun, relaxed way to connect with your local tech community. Atmosphere: chill, friendly, unpretentious, agenda-free (no sales pitch, yo), and brimming with UltraSmart(TM) people.
 - [OpenDataBC-Vancouver](http://www.meetup.com/OpenDataBC-Vancouver/) - OpenDataBC is a collaborative effort by a group of B.C. residents to explore, promote and create value with open data and related technologies.
-promotes the responsible and safe practice of scientific techniques. 
+promotes the responsible and safe practice of scientific techniques.
 
 ## Online communities
 
