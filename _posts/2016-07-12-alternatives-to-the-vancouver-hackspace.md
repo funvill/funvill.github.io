@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Alternatives to the Vancouver Hackspace.
-date: '2016-07-12 00:01 +0800'
+date: 2016-07-12T00:01:00Z
 author: funvill
 ---
 
