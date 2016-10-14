@@ -9,8 +9,18 @@ layout: default
   <div id="renderTOC">
     <table class="toc" id="toc"><tbody><tr><td>      
       <div id="toctitle"><strong>Contents</strong></div>
-      <ol data-toc="div.container" data-toc-headings="h2,h3"></ol>
-    </td></tr></tbody></table>    
+      <ol id='toccontainer' data-toc="div.container" data-toc-headings="h2,h3"></ol>
+    </td></tr></tbody></table>
+    <script>
+      $( document ).ready(function() {
+        if( $("#toccontainer li").length <= 0 ) {
+          $("#renderTOC").hide();          
+        }
+      });
+    </script>
+
+    
+        
   </div>
 
   {{ content }}
