@@ -5,8 +5,12 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+  
   <div id="renderTOC">
-    <ol data-toc="div.container" data-toc-headings="h1,h2,h3,h4"></ol>
+    <table class="toc" id="toc"><tbody><tr><td>
+      <div id="toctitle"><strong>Table of content</strong></div>
+      <ol data-toc="div.container" data-toc-headings="h2,h3"></ol>
+    </td></tr></tbody></table>    
   </div>
 
   {{ content }}

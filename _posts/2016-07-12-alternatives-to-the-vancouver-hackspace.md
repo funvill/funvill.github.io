@@ -15,9 +15,9 @@ Good, energetic, people will succeed anywhere. VHS is a handicap that prevent ev
 This is a list of the alternatives to The Vancouver Hackspace (VHS).
 This list was last updated on 2016-Oct-13. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md). 
 
-# Vancouver
+## Vancouver
 
-## Physical spaces
+### Physical spaces
 
 - [Maker Labs](http://www.makerlabs.com/) - A 26,000sf maker space that provides better, sharper, tools. 3D printers, CNC, multiple laser cutters, plasma cutter, shopbot, Sewing Machine, etc...
 - [VIVO media Arts](http://www.vivomediaarts.com) - VIVO has been in Vancouver since 1973. Public programming includes events, workshops, exhibitions, residencies, co-productions, critical forums.
@@ -30,13 +30,13 @@ This list was last updated on 2016-Oct-13. [Pull requests greatly appreciated](h
 - [The Beaumont studio](http://thebeaumont.org/) - Art and gallery space with a social emphasizes.
 - [Decentral Vancouver](http://decentralvancouver.com/) - Decentral Vancouver is a collaborative community incubator inspired by the ideas behind bitcoin. 
 
-## Events
+### Events
 
 - [Vancouver Mini Maker Faire](http://makerfaire.ca/) - One Giant show and tell for the Maker and Hacker comunity. One of my favorite events of the year. 
 - [Open Hardware Summit](http://www.oshwa.org/) - Not techinically in vancouver but close by in Portland. Annual event. 
 
 
-## Meetups
+### Meetups
 
 - [The Open Science Network](http://www.meetup.com/open-science-network/) - [YVR DIYbio](http://www.opensciencenet.org) is is a community in which burgeoning biological engineers can come together to learn and share ideas, bringing back that enthusiasm for science we experienced as kids. DIYbio 
 - [HackerNest Vancouver Tech Socials](http://www.meetup.com/HackerNestVAN/) - HackerNest Tech Socials are a fun, relaxed way to connect with your local tech community. Atmosphere: chill, friendly, unpretentious, agenda-free (no sales pitch, yo), and brimming with UltraSmart(TM) people.
@@ -48,7 +48,7 @@ promotes the responsible and safe practice of scientific techniques.
 - [Startup Drinks Van](http://learn.foodtree.com/startupdrinksvan/) - Startup Drinks is a casual gathering at the end of each month for anyone who's interested in startups. We meet at a bar in downtown Vancouver and we chat about all things #startups...projects, funding, challenges, and people in the scene. [Meetup page](http://www.meetup.com/Vancouver-Tech-Co-Founders/).
 
 
-## Accelerators/co-working spaces
+### Accelerators/co-working spaces
 
 - [Launch Academy](http://www.launchacademy.ca/) - Education and mentorship in a collaborative environment
 - [The Hive](http://www.hivevancouver.com/) - Community hub for social impact. Coworking, Events, Support Services, hotdesk, etc.. 
@@ -58,42 +58,42 @@ promotes the responsible and safe practice of scientific techniques.
 - [Code Core ](https://www.codecore.ca/) - Code bootcamp. Full-Stack, Rails, Javascript, etc...
 
 
-## Suppliers
+### Suppliers
 These suppliers are local to vancouver area.
 
-### Eletronics conponents
+#### Eletronics conponents
 
 - [Lees Electronic](http://www.leeselectronic.com/) - Supports maker faire and the local maker comunity. 4131 Fraser St (King Ed and Fraser)
 - [Main Electronics](http://www.mainelectronics.com/) - Not too friendly with newbies but has the best selection of knobs and buttons. 4554 Main Street (29th and Main)
 - [RP Electronics](http://www.rpelectronics.com/) - Also has some consumer eletronics. 4181 Dawson Street, Burnaby
 
-### Metals
+#### Metals
 
 - [Metal Supermarket](http://metalsupermarkets.com/) - Good source for metal rods, beams, angled, etc. in stainless steel, aluminum and more.
 - [North Star Metal](http://www.northstarmetalrecycling.com/): Metal recycling, They allow you to wander around but be safe or they will kick you out.
 
-### Wood
+#### Wood
 
 - [Windsor Plywood](http://www.windsorplywood.com/) - Great selection, lots of helpful staff. On the expensive side.
 
-### Platics
+#### Platics
 
 - [Industrial Plastics & Paints](http://www.ippnet.com/) - Has most of everything. 12571 Bridgeport Rd #150, Richmond,
 - [Associated Plastics](http://www.associatedplastics.com/) - Great for Acrylic. 1104 Franklin Street, Vancouver, BC
 
-### Craft supplies
+#### Craft supplies
 
 - [Urban Source](http://www.urbansource.bc.ca/) - All kinds of recycled craft materials - everything is cheap!. Main Street between 15th and 16th Ave.
 - **Dressew** - Sewing/fabric/knitting/etc. Huge selection, dirt cheap! 337 W Hastings St, near Cambie
 - **Yoko YaYa** - Japanese dollar store with all kinds of neat stuff. Tinseltown Mall, 1st floor
 - **Daiso** - Same as Yoko Yaya, but about 5 times more stuff. Aberdeen Mall in Richmond
 
-### Screws, Fasteners
+#### Screws, Fasteners
 
 - [Pacific Fasteners](http://www.pacificfasteners.com/) - They stock a huge range of fasteners (nuts, bolts, screws, nails etc.). 3934 East 1st Ave
 - [Fastenal](http://www.fastenal.com/) - Huge selection. SE Marine Dr and Knight St, and many other locations.
 
-### Tools
+#### Tools
 
 - [Princess Auto](http://www.princessauto.com/) - All kinds of tools.
 - [Acklands GGrainger](https://www.acklandsgrainger.com/) - Tools, equipment and consumables.
@@ -103,9 +103,9 @@ These suppliers are local to vancouver area.
 - [Summit Tools](http://www.summittools.com/) - Even more tools. (1st Ave at Boundary)
 
 
-# Online
+## Online
 
-## Communities
+### Communities
 
 - [Hackaday](http://hackaday.com/) – Daily hacks and projects
 - [Instructables](http://www.instructables.com/tag/type-id/?sort=FEATURED) – Best of instructions. DIY projects.
@@ -118,14 +118,14 @@ These suppliers are local to vancouver area.
 - [The MagPi](https://www.raspberrypi.org/magpi/) - The official raspberry PI magazine. Lots of tutorials and projects.
 - [EEWeb](http://www.eeweb.com/) - Electrical Engineering news, resources, and community.
 
-## YouTube channels
+### YouTube channels
 
 - [EEVblog](https://www.youtube.com/user/EEVblog) - An off-the-cuff video blog for electronic engineers, hobbyists, and hackers. 
 
-## Retailers
+### Retailers
 Online retailers of compoents and dev boards. 
 
-### Devlopment boards and kits
+#### Devlopment boards and kits
 
 - [Adafruit](https://www.adafruit.com/) - One of the best. Great community partner, lots of tutorials. Order your stuff from here when you are getting started. 
 - [SparkFun](http://www.sparkfun.com/) - Awesome site with tutorials and lots of breakout boards and rad parts.
@@ -135,19 +135,19 @@ Online retailers of compoents and dev boards.
 - [RobotShop](http://www.robotshop.ca/) - Robots and related parts.
 
 
-### Eletronic components
+#### Eletronic components
 
 - [Digikey](http://digikey.ca/) - They've got pretty much anything, and they ship overnight from Canada.
 - [Mouser](http://ca.mouser.com/) - Similar to Digikey, but ship from the US (taking an extra day usually).
 - [Newark element14](http://canada.newark.com/) - Similar to Digikey and Mouser, but slower and more expensive shipping.
 
 
-### Materials
+#### Materials
 
 - [Inventables](http://www.inventables.com/) - Acrylic sheets, woods and vaneers, moulding materials, etc.
 - [McMaster Carr](http://www.mcmaster.com/) - Massive catalog of engineering components. Not the cheapest, but the only source for many things. Used to be US-only, but ships (fast) to Canada now.
 
 
-### Miscellaneous
+#### Miscellaneous
 
 - [Ali Express](http://www.aliexpress.com/) - Sort of Amazon meets eBay in China - and almost everything that is manufactured in or for China is available here (i.e. almost everything).
