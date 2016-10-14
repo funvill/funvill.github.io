@@ -30,9 +30,6 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
-  <!-- SEO -->
-  {% seo %}
-
   <!-- TOC --> 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <link rel="stylesheet" href="/plugins/tocmd-generator-master/css/toc.css">
@@ -41,11 +38,9 @@
   <script type="text/javascript">
     $(function() {
       $('#main').toc({
-        showAlways:true,
-        contentsText:"Legenda",
-        hideText:'Collapse',
-        showText:'Expand',
-        showCollapsed:true
+        minItemsToShowToc: 1,
+        renderIn:'#renderTOC',
+        saveShowStatus:false
       });
     });
     </script>
