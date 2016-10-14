@@ -31,6 +31,7 @@ List last updated on 2016-Oct-13. [Pull requests greatly appreciated](https://gi
 ## Vancouver - Events
 
 - [Vancouver Mini Maker Faire](http://makerfaire.ca/) - One Giant show and tell for the Maker and Hacker comunity. One of my favorite events of the year. 
+- [Open Hardware Summit](http://www.oshwa.org/) - Not techinically in vancouver but close by in Portland. Annual event. 
 
 
 ## Vancouver - Meetups
@@ -54,7 +55,6 @@ promotes the responsible and safe practice of scientific techniques.
 - [Light House Labs](https://www.lighthouselabs.ca/) - Code bootcamp. Full-Stack, iOS devlopment, etc...
 - [Code Core ](https://www.codecore.ca/) - Code bootcamp. Full-Stack, Rails, Javascript, etc...
 
-
 ## Online Communities
 
 - [Hackaday](http://hackaday.com/) – Daily hacks and projects
@@ -73,8 +73,76 @@ promotes the responsible and safe practice of scientific techniques.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - An off-the-cuff video blog for electronic engineers, hobbyists, and hackers. 
 
 ## Online - Retailers
+Online retailers of compoents and dev boards. 
+
+### Devlopment boards and kits
 
 - [Adafruit](https://www.adafruit.com/) - One of the best. Great community partner, lots of tutorials. Order your stuff from here when you are getting started. 
-- [Seeed Studio](https://www.seeedstudio.com/) - Strait from Shenzhen. 
+- [SparkFun](http://www.sparkfun.com/) - Awesome site with tutorials and lots of breakout boards and rad parts.
+- [Seeed Studio](https://www.seeedstudio.com/) - Strait from Shenzhen.
+- [ITead Studio](http://iteadstudio.com/) - Similar to Seeed Studio, and also located in China.
+- [Solarbotics](http://www.solarbotics.com/) - Robotics related parts (motors, electronics, gears, sensors, etc).
+- [RobotShop](http://www.robotshop.ca/) - Robots and related parts.
 
 
+### Eletronic components
+
+- [Digikey](http://digikey.ca/) - They've got pretty much anything, and they ship overnight from Canada.
+- [Mouser](http://ca.mouser.com/) - Similar to Digikey, but ship from the US (taking an extra day usually).
+- [Newark element14](http://canada.newark.com/) - Similar to Digikey and Mouser, but slower and more expensive shipping.
+
+
+### Materials
+
+- [Inventables](http://www.inventables.com/) - Acrylic sheets, woods and vaneers, moulding materials, etc.
+- [McMaster Carr](http://www.mcmaster.com/) - Massive catalog of engineering components. Not the cheapest, but the only source for many things. Used to be US-only, but ships (fast) to Canada now.
+
+
+### Miscellaneous
+
+- [Ali Express](http://www.aliexpress.com/) - Sort of Amazon meets eBay in China - and almost everything that is manufactured in or for China is available here (i.e. almost everything).
+
+
+## Vancouver - Suppliers
+These suppliers are local to vancouver area.
+
+### Eletronics conponents
+
+- [Lees Electronic](http://www.leeselectronic.com/) - Supports maker faire and the local maker comunity. 4131 Fraser St (King Ed and Fraser)
+- [Main Electronics](http://www.mainelectronics.com/) - Not too friendly with newbies but has the best selection of knobs and buttons. 4554 Main Street (29th and Main)
+- [RP Electronics](http://www.rpelectronics.com/) - Also has some consumer eletronics. 4181 Dawson Street, Burnaby
+
+### Metals
+
+- [Metal Supermarket](http://metalsupermarkets.com/) - Good source for metal rods, beams, angled, etc. in stainless steel, aluminum and more.
+- [North Star Metal](http://www.northstarmetalrecycling.com/): Metal recycling, They allow you to wander around but be safe or they will kick you out.
+
+### Wood
+
+- [Windsor Plywood](http://www.windsorplywood.com/) - Great selection, lots of helpful staff. On the expensive side.
+
+### Platics
+
+- [Industrial Plastics & Paints](http://www.ippnet.com/) - Has most of everything. 12571 Bridgeport Rd #150, Richmond,
+- [Associated Plastics](http://www.associatedplastics.com/) - Great for Acrylic. 1104 Franklin Street, Vancouver, BC
+
+### Craft supplies 
+
+- [Urban Source](http://www.urbansource.bc.ca/) - All kinds of recycled craft materials - everything is cheap!. Main Street between 15th and 16th Ave.
+- **Dressew** - Sewing/fabric/knitting/etc. Huge selection, dirt cheap! 337 W Hastings St, near Cambie
+- **Yoko YaYa** - Japanese dollar store with all kinds of neat stuff. Tinseltown Mall, 1st floor
+- **Daiso** - Same as Yoko Yaya, but about 5 times more stuff. Aberdeen Mall in Richmond
+
+### Screws, Fasteners
+
+- [Pacific Fasteners](http://www.pacificfasteners.com/) - They stock a huge range of fasteners (nuts, bolts, screws, nails etc.). 3934 East 1st Ave
+- [Fastenal](http://www.fastenal.com/) - Huge selection. SE Marine Dr and Knight St, and many other locations.
+
+### Tools
+
+- [Princess Auto](http://www.princessauto.com/) - All kinds of tools.
+- [Acklands GGrainger](https://www.acklandsgrainger.com/) - Tools, equipment and consumables.
+- [KMS tools](https://www.kmstools.com/) - Every tool that you could ever want.
+- [Busy Bee Tools](http://www.busybeetools.com/) - I have never been but I am told that its great.
+- [Lee Valley](http://www.leevalley.com/) - Mostly wood working tools.
+- [Summit Tools](http://www.summittools.com/) - Even more tools. (1st Ave at Boundary)
