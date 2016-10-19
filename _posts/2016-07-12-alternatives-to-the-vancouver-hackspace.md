@@ -50,12 +50,13 @@ promotes the responsible and safe practice of scientific techniques.
 
 ### Accelerators/co-working spaces
 
-- [Launch Academy](http://www.launchacademy.ca/) - Education and mentorship in a collaborative environment
 - [The Hive](http://www.hivevancouver.com/) - Community hub for social impact. Coworking, Events, Support Services, hotdesk, etc.. 
+- [Launch Academy](http://www.launchacademy.ca/) - Education and mentorship in a collaborative environment
 - [The Profile](http://theprofile.ca/) - Co working space.
 - [The Network Hub](https://www.thenetworkhub.ca/) - Co working space, hot desk.
 - [Light House Labs](https://www.lighthouselabs.ca/) - Code bootcamp. Full-Stack, iOS devlopment, etc...
 - [Code Core ](https://www.codecore.ca/) - Code bootcamp. Full-Stack, Rails, Javascript, etc...
+- [Red Academy](https://www.redacademy.com/) - Code bootcamp. 
 
 
 ### Suppliers
