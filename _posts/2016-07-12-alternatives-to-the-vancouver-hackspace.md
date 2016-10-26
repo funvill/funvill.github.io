@@ -13,7 +13,7 @@ Between the years of 2015-2016 the Vancouver Hackspace the board of directors ( 
 Good, energetic, people will succeed anywhere. VHS is a handicap that prevent even good people from achieving success. Your projects will wither and die at VHS.
 
 This is a list of the alternatives to The Vancouver Hackspace (VHS).
-This list was last updated on 2016-Oct-13. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md). 
+This list was last updated on 2016-Oct-26. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md). 
 
 ## Vancouver
 
@@ -121,10 +121,12 @@ These suppliers are local to vancouver area.
 
 ### YouTube channels
 
-- [EEVblog](https://www.youtube.com/user/EEVblog) - An off-the-cuff video blog for electronic engineers, hobbyists, and hackers. 
+- [MickMake](https://www.youtube.com/channel/UC7GMT3ohvYEAJFDenzj9EMQ) - Current status of the maker world. Reviews, tutorials, technology explanations, news and Maker event coverage.
+- [EEVblog](https://www.youtube.com/user/EEVblog) - An off-the-cuff video blog for electronic engineers, hobbyists, and hackers.
+ 
 
 ### Retailers
-Online retailers of compoents and dev boards. 
+Online retailers of compoents and dev boards.
 
 #### Devlopment boards and kits
 
