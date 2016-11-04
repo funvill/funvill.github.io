@@ -6,11 +6,11 @@ date: '2016-07-12 00:01'
 author: funvill
 ---
 
-Vancouver Hackspace (VHS) use to be a place where people could ask questions and get help with their projects, while helping out others. Now new people asking questions, at best, get ignored, and worst ridiculed for asking a questions. I use to have pride in being a VHS member but now I am ashamed to have been apart of that group.
+Vancouver Hackspace (VHS) use to be a place where people could ask questions and get help with their projects while helping out others. Now new people asking questions, at best, get ignored and worst ridiculed. Between the years of 2015-2016 the Vancouver Hackspace the board of directors ( *names removed* ) as well as a few other members ( *names removed* ) created a toxic environment that destroyed the existing community that took years to create.
 
-Between the years of 2015-2016 the Vancouver Hackspace the board of directors ( *names removed* ) as well as a few other members ( *names removed* ) destroyed the existing community that took years to create.
+Good, energetic, people will succeed anywhere. VHS is a handicap that prevents even good people from achieving success. Your projects will wither and die at VHS. 
 
-Good, energetic, people will succeed anywhere. VHS is a handicap that prevent even good people from achieving success. Your projects will wither and die at VHS.
+I use to have pride in being a VHS member but now I am ashamed to have been a part of that group.
 
 This is a list of the alternatives to The Vancouver Hackspace (VHS).
 This list was last updated on 2016-Oct-26. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md). 
@@ -123,7 +123,11 @@ These suppliers are local to vancouver area.
 
 - [MickMake](https://www.youtube.com/channel/UC7GMT3ohvYEAJFDenzj9EMQ) - Current status of the maker world. Reviews, tutorials, technology explanations, news and Maker event coverage.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - An off-the-cuff video blog for electronic engineers, hobbyists, and hackers.
- 
+
+### Blogs 
+
+- [Adafruit blog](https://blog.adafruit.com/) - New products as well as interesting projects. 
+- [Sparkfun blog](https://www.sparkfun.com/news) - New products as well as interesting projects. 
 
 ### Retailers
 Online retailers of compoents and dev boards.
