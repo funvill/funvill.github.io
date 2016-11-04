@@ -147,6 +147,8 @@ Online retailers of compoents and dev boards.
 - [Digikey](http://digikey.ca/) - They've got pretty much anything, and they ship overnight from Canada.
 - [Mouser](http://ca.mouser.com/) - Similar to Digikey, but ship from the US (taking an extra day usually).
 - [Newark element14](http://canada.newark.com/) - Similar to Digikey and Mouser, but slower and more expensive shipping.
+- [Arrow Electronics](https://www.arrow.com/) - Similar to Digikey and Mouser. Arrow Electronics is a global provider of products, services, and solutions to industrial and commercial users of electronic components and enterprise computing solutions.
+
 
 
 #### Materials
@@ -158,19 +160,26 @@ Online retailers of compoents and dev boards.
 #### Miscellaneous
 
 - [Ali Express](http://www.aliexpress.com/) - Sort of Amazon meets eBay in China - and almost everything that is manufactured in or for China is available here (i.e. almost everything).
+- [DealExtream](http://www.dx.com/) - Not as good as AliExpress but still has some amazing deals.
+- [Taobao](https://world.taobao.com/) - Probably the best place to get the cheapest products from china. Not in english.
+
+### Manufacturing
+
+- [MacroFab](http://www.macrofab.com) - MacroFab specializes in manufacturing and assembling PCBs and electronic devices. From PCB assembly to fulfillment.
+
+## 3D Printing
 
 ### 3D-printable models
 
 - [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
 - [GrabCAD](https://grabcad.com/) - Professional 3D models for manufacting parts.
-- [Shapeways](http://www.shapeways.com/) - Paid 3D printing and professionally made 3D models.
 - [Yeggi.com](http://www.yeggi.com/) - Search Engine for 3D printable Models. Searches a lot of the smaller sites.
 - [ThingiVerse](http://www.thingiverse.com) - The original online catalog of 3D printer models.
 - [NIH 3D Print Exchange](http://3dprint.nih.gov/) - 3D-printable models that are scientifically accurate or medically applicable.
 - [YouMagine](https://www.youmagine.com/) - Open source designs and 3D-printable models.
 - [MyMiniFactory](https://www.myminifactory.com/) - A decent selection of curiated 3D-printable models.
 
-### Manufacturing
+### 3D printing services
 
-- [MacroFab](http://www.macrofab.com) - MacroFab specializes in manufacturing and assembling PCBs and electronic devices. From PCB assembly to fulfillment, we’re the only service that takes you from prototype to customer. MacroFab manages the daily operations of your project, helping to eliminate overhead so you can focus on design and marketing.
-
+- [3D Hubs](https://www.3dhubs.com/) - A hub for finding local 3D printing services. They also have a [comprehensive list of existing 3D printers](https://www.3dhubs.com/3d-printers) with reviews.
+- [Shapeways](http://www.shapeways.com/) - Paid 3D printing and professionally made 3D models. Prints many different materials (Gold, Silver, plastic, etc..)
