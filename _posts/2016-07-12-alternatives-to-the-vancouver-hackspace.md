@@ -10,10 +10,9 @@ Vancouver Hackspace (VHS) use to be a place where people could ask questions and
 
 Good, energetic, people will succeed anywhere. VHS is a handicap that prevents even good people from achieving success. Your projects will wither and die at VHS. 
 
-I use to have pride in being a VHS member but now I am ashamed to have been a part of that group.
+I used to have pride in being a VHS member, but now I am ashamed to have been a part of that group.
 
-This is a list of the alternatives to The Vancouver Hackspace (VHS).
-This list was last updated on 2016-Oct-26. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md). 
+This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a collection of resources. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md). 
 
 ## Vancouver
 
