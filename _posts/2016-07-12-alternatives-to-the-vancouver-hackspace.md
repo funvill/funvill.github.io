@@ -169,7 +169,7 @@ Online retailers of compoents and dev boards.
 
 ## 3D Printing
 
-### 3D-printable models
+### 3D Printable models
 
 - [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
 - [GrabCAD](https://grabcad.com/) - Professional 3D models for manufacting parts.
@@ -183,3 +183,13 @@ Online retailers of compoents and dev boards.
 
 - [3D Hubs](https://www.3dhubs.com/) - A hub for finding local 3D printing services. They also have a [comprehensive list of existing 3D printers](https://www.3dhubs.com/3d-printers) with reviews.
 - [Shapeways](http://www.shapeways.com/) - Paid 3D printing and professionally made 3D models. Prints many different materials (Gold, Silver, plastic, etc..)
+
+## Laser and CNC
+
+- [Open Desk](https://www.opendesk.cc/) - Free open-source CNC furniture and an experiment in the possibilities of distributed manufacturing.
+- [AtFab](http://atfab.co/) - Free open-source CNC furniture. Creating fully parametric fabable furnishings whose dimensions, details, material thickness, and slot size can be easily transformed and fabricated
+- [Sketch Chair](http://www.sketchchair.cc) - SketchChair is a free, open-source software tool that allows anyone to easily design and build their own digitally fabricated furniture.
+- [Open Design Furniture](http://www.opendesignfurniture.com/) - An Amazing collection of open source furniture from many different sites and designers.
+- [Pedro Terra LAB](http://www.pedroterralab.com/open-source-furniture/) - Pedro Terra LAB Open source furniture.
+
+
