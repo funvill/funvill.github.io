@@ -31,8 +31,8 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 
 ### Events
 
-- [Vancouver Mini Maker Faire](http://makerfaire.ca/) - One Giant show and tell for the Maker and Hacker comunity. One of my favorite events of the year. 
-- [Open Hardware Summit](http://www.oshwa.org/) - Not techinically in vancouver but close by in Portland. Annual event. 
+- [Vancouver Mini Maker Faire](http://makerfaire.ca/) - One Giant show and tell for the Maker and Hacker community. One of my favorite events of the year. 
+- [Open Hardware Summit](http://www.oshwa.org/) - Not technically in Vancouver but close by in Portland. Annual event. 
 
 
 ### Meetups
@@ -59,13 +59,13 @@ promotes the responsible and safe practice of scientific techniques.
 
 
 ### Suppliers
-These suppliers are local to vancouver area.
+These suppliers are local to Vancouver area.
 
 #### Eletronics conponents
 
-- [Lees Electronic](http://www.leeselectronic.com/) - Supports maker faire and the local maker comunity. 4131 Fraser St (King Ed and Fraser)
+- [Lees Electronic](http://www.leeselectronic.com/) - Supports maker faire and the local maker community. 4131 Fraser St (King Ed and Fraser)
 - [Main Electronics](http://www.mainelectronics.com/) - Not too friendly with newbies but has the best selection of knobs and buttons. 4554 Main Street (29th and Main)
-- [RP Electronics](http://www.rpelectronics.com/) - Also has some consumer eletronics. 4181 Dawson Street, Burnaby
+- [RP Electronics](http://www.rpelectronics.com/) - Also has some consumer electronics. 4181 Dawson Street, Burnaby
 
 #### Metals
 
@@ -96,10 +96,10 @@ These suppliers are local to vancouver area.
 #### Tools
 
 - [Princess Auto](http://www.princessauto.com/) - All kinds of tools.
-- [Acklands GGrainger](https://www.acklandsgrainger.com/) - Tools, equipment and consumables.
+- [Acklands GGrainger](https://www.acklandsgrainger.com/) - Tools, equipment, and consumables.
 - [KMS tools](https://www.kmstools.com/) - Every tool that you could ever want.
 - [Busy Bee Tools](http://www.busybeetools.com/) - I have never been but I am told that its great.
-- [Lee Valley](http://www.leevalley.com/) - Mostly wood working tools.
+- [Lee Valley](http://www.leevalley.com/) - Mostly woodworking tools.
 - [Summit Tools](http://www.summittools.com/) - Even more tools. (1st Ave at Boundary)
 
 
@@ -123,25 +123,25 @@ These suppliers are local to vancouver area.
 - [MickMake](https://www.youtube.com/channel/UC7GMT3ohvYEAJFDenzj9EMQ) - Current status of the maker world. Reviews, tutorials, technology explanations, news and Maker event coverage.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - An off-the-cuff video blog for electronic engineers, hobbyists, and hackers.
 
-### Blogs 
+### Blogs
 
 - [Adafruit blog](https://blog.adafruit.com/) - New products as well as interesting projects. 
 - [Sparkfun blog](https://www.sparkfun.com/news) - New products as well as interesting projects. 
 
 ### Retailers
-Online retailers of compoents and dev boards.
+Online retailers of components and dev boards.
 
-#### Devlopment boards and kits
+#### Development boards and kits
 
-- [Adafruit](https://www.adafruit.com/) - One of the best. Great community partner, lots of tutorials. Order your stuff from here when you are getting started. 
-- [SparkFun](http://www.sparkfun.com/) - Awesome site with tutorials and lots of breakout boards and rad parts.
+- [Adafruit](https://www.adafruit.com/) - One of the best. A great community partner, lots of tutorials. Order your stuff from here when you are getting started. 
+- [SparkFun](http://www.sparkfun.com/) - Awesome site with tutorials and lots of breakout boards and parts.
 - [Seeed Studio](https://www.seeedstudio.com/) - Strait from Shenzhen.
 - [ITead Studio](http://iteadstudio.com/) - Similar to Seeed Studio, and also located in China.
 - [Solarbotics](http://www.solarbotics.com/) - Robotics related parts (motors, electronics, gears, sensors, etc).
 - [RobotShop](http://www.robotshop.ca/) - Robots and related parts.
 
 
-#### Eletronic components
+#### Electronic components
 
 - [Digikey](http://digikey.ca/) - They've got pretty much anything, and they ship overnight from Canada.
 - [Mouser](http://ca.mouser.com/) - Similar to Digikey, but ship from the US (taking an extra day usually).
@@ -151,7 +151,7 @@ Online retailers of compoents and dev boards.
 
 #### Materials
 
-- [Inventables](http://www.inventables.com/) - Acrylic sheets, woods and vaneers, moulding materials, etc.
+- [Inventables](http://www.inventables.com/) - Acrylic sheets, woods, and veneers, molding materials, etc.
 - [McMaster Carr](http://www.mcmaster.com/) - Massive catalog of engineering components. Not the cheapest, but the only source for many things. Used to be US-only, but ships (fast) to Canada now.
 
 
@@ -159,7 +159,7 @@ Online retailers of compoents and dev boards.
 
 - [Ali Express](http://www.aliexpress.com/) - Sort of Amazon meets eBay in China - and almost everything that is manufactured in or for China is available here (i.e. almost everything).
 - [DealExtream](http://www.dx.com/) - Not as good as AliExpress but still has some amazing deals.
-- [Taobao](https://world.taobao.com/) - Probably the best place to get the cheapest products from china. Not in english.
+- [Taobao](https://world.taobao.com/) - Probably the best place to get the cheapest products from china. Not in English.
 
 ### Manufacturing
 
@@ -167,7 +167,7 @@ Online retailers of compoents and dev boards.
 
 ## 3D Printing
 
-### 3D printing online comunities
+### 3D printing online communities
 
 - [Wanhao Duplicator I3 3D Printing Group](https://www.facebook.com/groups/WanhaoDi3/) - Great general information facebook group. 
 
@@ -198,5 +198,4 @@ Online retailers of compoents and dev boards.
 - [Sketch Chair](http://www.sketchchair.cc) - SketchChair is a free, open-source software tool that allows anyone to easily design and build their own digitally fabricated furniture.
 - [Open Design Furniture](http://www.opendesignfurniture.com/) - An Amazing collection of open source furniture from many different sites and designers.
 - [Pedro Terra LAB](http://www.pedroterralab.com/open-source-furniture/) - Pedro Terra LAB Open source furniture.
-
 
