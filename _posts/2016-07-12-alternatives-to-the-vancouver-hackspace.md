@@ -149,7 +149,6 @@ Online retailers of compoents and dev boards.
 - [Arrow Electronics](https://www.arrow.com/) - Similar to Digikey and Mouser. Arrow Electronics is a global provider of products, services, and solutions to industrial and commercial users of electronic components and enterprise computing solutions.
 
 
-
 #### Materials
 
 - [Inventables](http://www.inventables.com/) - Acrylic sheets, woods and vaneers, moulding materials, etc.
@@ -168,6 +167,14 @@ Online retailers of compoents and dev boards.
 
 ## 3D Printing
 
+### 3D printing online comunities
+
+- [Wanhao Duplicator I3 3D Printing Group](https://www.facebook.com/groups/WanhaoDi3/) - Great general information facebook group. 
+
+### 3D printing software
+
+- [Cura](https://ultimaker.com/en/products/cura-software) - It works great and is simple. Use this.
+
 ### 3D Printable models
 
 - [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
@@ -182,6 +189,7 @@ Online retailers of compoents and dev boards.
 
 - [3D Hubs](https://www.3dhubs.com/) - A hub for finding local 3D printing services. They also have a [comprehensive list of existing 3D printers](https://www.3dhubs.com/3d-printers) with reviews.
 - [Shapeways](http://www.shapeways.com/) - Paid 3D printing and professionally made 3D models. Prints many different materials (Gold, Silver, plastic, etc..)
+- [Dirty SLA](http://dangerousprototypes.com/store/print3d) - Cheap dirty prints. By far the cheapest you are going to find.
 
 ## Laser and CNC
 
