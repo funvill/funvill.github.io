@@ -9,11 +9,12 @@ published: true
 ## Recent posts
 
 <ul>
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit: 7 %}
  {% if post.title != null %}
  <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endif %}
 {% endfor %}
+<li><a href='/archive'>More...</li>
 </ul>
 
 ## Projects
@@ -30,10 +31,12 @@ published: true
   {% endif %}
  {% endif %}
 {% endfor %}
+<li><a href='/projects'>More...</li>
 </ul>
 
-## [Instagram](instagram.com/funvill) 
+## [Instagram]https://instagram.com/funvill)
 
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
 <iframe src="https://snapwidget.com/embed/189896" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+<li><a href='https://instagram.com/funvill'>More...</li>
