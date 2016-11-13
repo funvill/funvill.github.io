@@ -4,7 +4,17 @@ title: Home
 published: true
 ---
 
-This is the main page. This should have some introduction about what I do and some directions on where to go next..
+
+
+## Recent posts
+
+<ul>
+{% for post in site.posts limit:5 %}
+ {% if post.title != null %}
+ <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+ {% endif %}
+{% endfor %}
+</ul>
 
 ## Projects
 
