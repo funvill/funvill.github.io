@@ -7,7 +7,7 @@ published: true
 # Welcome
 I make things, sometimes they are awesome things. 
 
-## <i class="fa fa-sticky-note" aria-hidden="true"></i>Recent posts
+## <i class="fa fa-file" aria-hidden="true"></i> Recent posts
 
 <ul>
 {% for post in site.posts limit: 7 %}
