@@ -4,10 +4,10 @@ title: Home
 published: true
 ---
 
-# Welcome! 
+# Welcome
+I make things, sometimes they are awesome things. 
 
-
-## Recent posts
+## <i class="fa fa-sticky-note" aria-hidden="true"></i>Recent posts
 
 <ul>
 {% for post in site.posts limit: 7 %}
@@ -18,7 +18,7 @@ published: true
 <li><a href="/archive">More...</a></li>
 </ul>
 
-## Projects
+## <i class="fa fa-cubes" aria-hidden="true"></i> Projects
 
 <ul>
 {% for project in site.pages reversed %}
@@ -35,7 +35,7 @@ published: true
 <li><a href="/projects">More...</a></li>
 </ul>
 
-## [Instagram](https://instagram.com/funvill)
+## <i class="fa fa-instagram"></i> [Instagram](https://instagram.com/funvill)
 
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
