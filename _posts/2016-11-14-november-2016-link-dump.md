@@ -20,4 +20,4 @@ What have intersted me this week.
 - [Maslow CNC](https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi?ref=thanks_tweet) - a $500 open source 4 by 8 foot CNC Machine.
 - [Makers of Japan’s Traditional Amezaiku Candy Art](https://thecreatorsproject.vice.com/blog/japanese-traditional-sugar-candy-lollipop-craftman-shinri-tezuka?utm_source=tcpfbus). 
 - [Slightly Left of Centre](https://www.youtube.com/channel/UCL49vdU-wXNu7RlHCxgHnkw) - [Love The Way You Move (LTWYM)](https://www.youtube.com/watch?v=Wga5A6R9BJg) Official Music Video 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=Wga5A6R9BJg"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Wga5A6R9BJg"></iframe>
