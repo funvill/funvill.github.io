@@ -8,14 +8,14 @@ author: funvill
 
 Vancouver Hackspace (VHS) use to be a place where people could ask questions and get help with their projects while helping out others. Now new people asking questions, at best, get ignored and worst ridiculed. Between the years of 2015-2016 the Vancouver Hackspace the board of directors ( *names removed* ) as well as a few other members ( *names removed* ) created a toxic environment that destroyed the existing community that took years to create.
 
-Good, energetic, people will succeed anywhere. VHS is a handicap that prevents even good people from achieving success. Your projects will wither and die at VHS. 
+Good, energetic, people will succeed anywhere. VHS is a handicap that prevents even good people from achieving success. Your projects will wither and die at VHS.
 
 I used to have pride in being a VHS member, but now I am ashamed to have been a part of that group.
 
 Links to others peoples simlare posts.
 
-- @Afreak - [Why I left vancouver hackspace](http://colin.keigher.ca/2016/11/why-i-left-vancouver-hack-space.html)
-- @infil00p - [The space to spiral into the complete shit show that exists now](https://plus.google.com/+JoeBowser/posts/SFFwAZRs9xK), [2](https://twitter.com/infil00p/status/798330126534524928), [3](https://twitter.com/infil00p/status/798329658685026304),
+- @Afreak - [Why I left vancouver hackspace](http://colin.keigher.ca/2016/11/why-i-left-vancouver-hack-space.html), [1](https://twitter.com/afreak/status/798428324716544000)
+- @infil00p - [The space to spiral into the complete shit show that exists now](https://plus.google.com/+JoeBowser/posts/SFFwAZRs9xK), [1](https://twitter.com/infil00p/status/798428648579723264), [2](https://twitter.com/infil00p/status/798330126534524928), [3](https://twitter.com/infil00p/status/798329658685026304),
 
 
 This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a collection of resources. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md). 
