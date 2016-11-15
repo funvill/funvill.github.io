@@ -12,6 +12,12 @@ Good, energetic, people will succeed anywhere. VHS is a handicap that prevents e
 
 I used to have pride in being a VHS member, but now I am ashamed to have been a part of that group.
 
+Links to others peoples simlare posts.
+
+- @Afreak - [Why I left vancouver hackspace](http://colin.keigher.ca/2016/11/why-i-left-vancouver-hack-space.html)
+- @infil00p [1](https://twitter.com/infil00p/status/798330126534524928), [2](https://twitter.com/infil00p/status/798329658685026304),
+
+
 This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a collection of resources. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md). 
 
 ## Vancouver
