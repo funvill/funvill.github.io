@@ -18,7 +18,7 @@ Links to others peoples simlare posts.
 - @infil00p - [The space to spiral into the complete shit show that exists now](https://plus.google.com/+JoeBowser/posts/SFFwAZRs9xK), [1](https://twitter.com/infil00p/status/798428648579723264), [2](https://twitter.com/infil00p/status/798330126534524928), [3](https://twitter.com/infil00p/status/798329658685026304),
 
 
-This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a collection of resources. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md). 
+This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a collection of resources. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md).
 
 ## Vancouver
 
@@ -126,13 +126,40 @@ These suppliers are local to Vancouver area.
 
 ### YouTube channels
 
+#### General
+
+- [Practical Engineering](https://www.youtube.com/user/gradyhillhouse/featured) - Has a great series on [What's that Infrastructure](https://www.youtube.com/watch?v=oA2-80lY5rE&list=PLTZM4MrZKfW_3wFRD1eYzHjHToLkAJWJ0). High products values with well researched topics. The [Arduino Garden Controller - Automatic Watering and Data Logging](https://www.youtube.com/watch?v=O_Q1WKCtWiA) is one of my favorite videos as I a bit of a data horder myself.
+- [Engineer Guy](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ) - I first found the engineer guy while looking for a good explanation of [plastic injection modlding](https://www.youtube.com/watch?v=RMjtmsr3CqA). High production values with great research with history.
+- [DIY Perks](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw) - Intersting proejcts each week. I started following him after I build my own ["Sun blaster" flashlight](https://www.youtube.com/watch?v=kh9j5mDU_hA) based on his tutorials.
+- [MegaBots Inc](https://www.youtube.com/channel/UClT-fyp4Kgd76hESsuLbksA) - Giant fighting robots.
+- [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA) - Primitive huts and tools from scratch using only natural materials in the wild.
+
+#### Eletronics
+
 - [MickMake](https://www.youtube.com/channel/UC7GMT3ohvYEAJFDenzj9EMQ) - Current status of the maker world. Reviews, tutorials, technology explanations, news and Maker event coverage.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - An off-the-cuff video blog for electronic engineers, hobbyists, and hackers.
+- [Scanlime](https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ) - Creator of the FadeCandy board. She is the first person that I supported on [Patreon](https://www.patreon.com/scanlime). A great value to the maker community. One of my favorite videos of hers is the [011 / Ultrasonic Transducer](https://www.youtube.com/watch?v=VuzytIcSxwI). [@scanlime](https://twitter.com/scanlime)
+- [Mikes Electric Stuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Amazing artist that also does a great amount build out video on his channel. One of my favorite art installtions that he has done is [Emergence](https://www.youtube.com/watch?v=9Qlmywxjau0) more info about this installtion can be found here [Heathrow Airport Emergence](http://cinimodstudio.com/portfolio/heathrow-airport-emergence/). [Patreon](https://www.patreon.com/mikeselectricstuff). 
+- [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - The queen of "shitty" robots. One of my favorite videos of hers [Wake-up Machine FAIL](https://www.youtube.com/watch?v=0MzPVe30Q1A) [@simonegiertz](https://twitter.com/simonegiertz).
+- [Adafruit Industries](https://www.youtube.com/channel/UCpOlOeQjj7EsVnDh3zuCgsA) - Daily new videos. Everything from new products, Ask an Engineer, Weekly 3D print, show and tell. 
+
+#### Wood working
+
+- [Matthias Wandel](https://www.youtube.com/user/Matthiaswandel) - The Youtube channel for [woodgears.ca](http://woodgears.ca). One of my favorite videos of his is [wooden marble machines](https://www.youtube.com/watch?v=26EE3jG5thM).
+- [Frank Howarth](https://www.youtube.com/channel/UC3_VCOJMaivgcGqPCTePLBA) - Amazing wood worker with lots of tutorials style videos. Check out his series on building a [CNC Router table](https://www.youtube.com/playlist?list=PLZqh4Qx3PPHka0hxFPcKI475XsxOgrkJb).
+
+#### Makers
+Awesome people doing awesome things
+
+- [J Mantzel](https://www.youtube.com/channel/UC1p7jFXjL7Q0qMii08oAeAQ) - I have never met anyone with as much energy as this guy. His [giant walking robot](https://www.youtube.com/playlist?list=PL13A11662BDE6EB83) series from a few years ago is inspiring and frighting. He is currently building a off the grid ["Sea Castle"/Fortress](https://www.youtube.com/watch?v=MN5S26JA1OI). I backed his [failed kickstarter](https://www.kickstarter.com/projects/1089105581/the-greatest-toy-kit-in-the-universe-spider-tank-m) ad well as support him on [Patreon](https://www.patreon.com/jmemantzel).
+- [The Hacksmith](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ) - Amoung other things, he tries to make working prototypes of props from movies. Such as a [flying iron man suit](https://www.youtube.com/playlist?list=PLbncXbXlaNQcCnCaFTVn84-RLhfX68fFX).
+- [GravityRoad](https://www.youtube.com/channel/UCPelotG5UTbWYKrMfG0ynKg) - Quirky maker with some intersting projects.
+
 
 ### Blogs
 
-- [Adafruit blog](https://blog.adafruit.com/) - New products as well as interesting projects. 
-- [Sparkfun blog](https://www.sparkfun.com/news) - New products as well as interesting projects. 
+- [Adafruit blog](https://blog.adafruit.com/) - New products as well as interesting projects.
+- [Sparkfun blog](https://www.sparkfun.com/news) - New products as well as interesting projects.
 
 ### Retailers
 Online retailers of components and dev boards.

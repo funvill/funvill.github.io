@@ -6,7 +6,7 @@ date: '2016-11-14 00:01'
 author: funvill
 ---
 
-What have intersted me this week.
+What have interested me this week.
 
 - [STASH](http://stashc.com/) Storage Techniques for Art, Science and History - This website provides information and tools so that institutions of all types, sizes and resource levels can learn how to create safe and appropriate storage solutions. These solutions were written by and for collection care professionals in all fields.
 - [ESP8266 + MQTT LED Controller](https://github.com/CurlyWurly-1/ESP8266-H801-MQTT) - ESP8266 / H801 RGB controller using MQTT and WiFi onboarding - With programming via the Arduino IDE This is based on the following sources
