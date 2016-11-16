@@ -51,6 +51,7 @@ promotes the responsible and safe practice of scientific techniques.
 - [Polyglot Vancouver](http://www.meetup.com/PolyglotVancouver/) - Polyglot Vancouver's mission is to bring together software engineers, computer scientists, system administrators, or whatever title you choose. We strive to be inclusive, diverse and bullshit-free.
 - [VanDev](http://www.meetup.com/VanDev/) - Vancouver's Software Developers Network
 - [Startup Drinks Van](http://learn.foodtree.com/startupdrinksvan/) - Startup Drinks is a casual gathering at the end of each month for anyone who's interested in startups. We meet at a bar in downtown Vancouver and we chat about all things #startups...projects, funding, challenges, and people in the scene. [Meetup page](http://www.meetup.com/Vancouver-Tech-Co-Founders/).
+- [Ideas Meetings - Vancouver](http://ideasmeetings.org/vancouver/) - A social group who tries to help each other make our ideas happen. You can be any age, ethnicity, and identify as any gender, you just have to be willing to contribute constructively.
 
 
 ### Accelerators/co-working spaces

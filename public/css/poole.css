@@ -92,13 +92,11 @@ h2 {
   color: #ac4142;
   margin-top: 1rem;
   font-size: 2rem;  
-  border-bottom: thick solid #000000;
 }
 h3 {
   color: #ac4142;
   margin-top: 1.5rem;
   font-size: 1.5rem;
-  text-decoration: underline;
 }
 h4, h5, h6 {
   color: #ac4142;
