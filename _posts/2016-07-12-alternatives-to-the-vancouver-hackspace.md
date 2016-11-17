@@ -81,7 +81,8 @@ These suppliers are local to Vancouver area.
 
 #### Wood
 
-- [Windsor Plywood](http://www.windsorplywood.com/) - Great selection, lots of helpful staff. On the expensive side.
+- [Windsor Plywood](http://www.windsorplywood.com/) - Great selection, lots of helpful staff. Better then Homedepo but still on the expensive side.
+- [P.j. White Hardwoods Ltd](http://www.richelieu.com/ca/en/?stateProv=BC) - Great selection. The best prices but they don't do onsite cuts. Does do deliveries. 1200 East Kent Ave S, Vancouver, BC V5X 2X8
 
 #### Platics
 
