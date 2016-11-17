@@ -27,32 +27,39 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 - [Maker Labs](http://www.makerlabs.com/) - A 26,000sf maker space that provides better, sharper, tools. 3D printers, CNC, multiple laser cutters, plasma cutter, shopbot, Sewing Machine, etc...
 - [VIVO media Arts](http://www.vivomediaarts.com) - VIVO has been in Vancouver since 1973. Public programming includes events, workshops, exhibitions, residencies, co-productions, critical forums.
 - [Van Community Lab](http://vancommunitylab.com/) - Vancouver Community Laboratory (1907 Triumph Street), a 7,000-square-foot huge wood, and metal shop. They run Workshops every so often.
-- [WePress](https://wepress.ca/) - A Vancouver Downtown Eastside Community Makerspace. 3D printers, Workshops, Sewing Machine, etc... 
+- [WePress](https://wepress.ca/) - A Vancouver Downtown Eastside Community Makerspace. 3D printers, Workshops, Sewing Machine, etc...
 - [Fraser Valley Makerspace](http://fvmakers.com/) - Fraser Valley Makerspace (4612 216 Street, 2nd floor) 1200 sq ft with all the DIY tools that you would ever want. 3D printers, Workshops, etc...
-- [Zen Makerlab](http://zenmakerlab.com/) - Zen Maker space (272 East 1st Street)- 3D printers, CNC, multiple laser cutters, and lots of workshops. 
-- [Maker Cube](http://makercube.ca/) - Arduino, Robots, VEX, 3d printers, PCB printing, and a meeting space for a lot of different groups. 
+- [Zen Makerlab](http://zenmakerlab.com/) - Zen Maker space (272 East 1st Street)- 3D printers, CNC, multiple laser cutters, and lots of workshops.
+- [Maker Cube](http://makercube.ca/) - Arduino, Robots, VEX, 3d printers, PCB printing, and a meeting space for a lot of different groups.
 - [The Egg Arts Foundation](https://www.facebook.com/TheEggArtsFoundation/) - The Egg Arts Foundation. TheEgg art incubator is a year-round interactive art workshop and gathering place for the Vancouver Burning Man community. 5,000 sq ft studio has a wide variety of tools, technology, and fun distractions - a great place to build your art project, host a fundraiser, or have a meeting. TheEgg is volunteer-driven and free for everyone.
 - [The Beaumont studio](http://thebeaumont.org/) - Art and gallery space with a social emphasizes.
-- [Decentral Vancouver](http://decentralvancouver.com/) - Decentral Vancouver is a collaborative community incubator inspired by the ideas behind bitcoin. 
+- [Decentral Vancouver](http://decentralvancouver.com/) - Decentral Vancouver is a collaborative community incubator inspired by the ideas behind bitcoin. [Meetup](http://www.meetup.com/decentralvancouver/)
+- [VPL Inspiration Lab](http://www.vpl.ca/news/details/inspirationlab_faqs) - It’s a digital media lab at VPL’s central library downtown: a free place that combines traditional, digital and new media in a custom-built space dedicated to digital creativity, collaboration and storytelling. It features high-performance computers, analog-to-digital conversion, sound studios, video editing and self-publishing software. And all for free.
+- [ICOAAT](http://www.icoaat.com/) - The International Centre of Arts and Technology provider workshops and talks on various topics. *1012 – 207 West Hastings Street* [<i class="fa fa-twitter" aria-hidden="true"></i> @icoaat](https://twitter.com/icoaat), [<i class="fa fa-instagram" aria-hidden="true"></i> @icoaat](https://www.instagram.com/icoaat/)
+- [Vancouver Tool Library](http://vancouvertoollibrary.com/) - The VTL is a collective community resource, run by its members for its members. They lend out tools to the public. [List of tools](https://vancouver.myturn.com/library/inventory/browse). [<i class="fa fa-twitter" aria-hidden="true"></i> @vantoollibrary] (https://twitter.com/vantoollibrary), [<i class="fa fa-facebook-official" aria-hidden="true"></i> @vancouvertoollibrary](https://www.facebook.com/vancouvertoollibrary). 
 
 ### Events
 
-- [Vancouver Mini Maker Faire](http://makerfaire.ca/) - One Giant show and tell for the Maker and Hacker community. One of my favorite events of the year. 
-- [Open Hardware Summit](http://www.oshwa.org/) - Not technically in Vancouver but close by in Portland. Annual event. 
-
+- [Vancouver Mini Maker Faire](http://makerfaire.ca/) - One Giant show and tell for the Maker and Hacker community. One of my favorite events of the year.
+- [Open Hardware Summit](http://www.oshwa.org/) - Not technically in Vancouver but close by in Portland. Annual event.
+- [Pecha Kucha Vancouver](http://www.pechakuchanightvancouver.com/) - PechaKucha is a global series of live events held worldwide where people can meet, inspire and get inspired, based on a format that is fast-paced and fun. Twelve inspiring minds will be giving a unique insight into their latest work and ideas in 20 slides x 20 seconds.
 
 ### Meetups
 
-- [The Open Science Network](http://www.meetup.com/open-science-network/) - [YVR DIYbio](http://www.opensciencenet.org) is is a community in which burgeoning biological engineers can come together to learn and share ideas, bringing back that enthusiasm for science we experienced as kids. DIYbio 
-- [HackerNest Vancouver Tech Socials](http://www.meetup.com/HackerNestVAN/) - HackerNest Tech Socials are a fun, relaxed way to connect with your local tech community. Atmosphere: chill, friendly, unpretentious, agenda-free (no sales pitch, yo), and brimming with UltraSmart(TM) people.
+- [The Open Science Network](http://www.meetup.com/open-science-network/) - [YVR DIYbio](http://www.opensciencenet.org) is is a community in which burgeoning biological engineers can come together to learn and share ideas, bringing back that enthusiasm for science we experienced as kids. DIYbio promotes the responsible and safe practice of scientific techniques.
+- [Creative Mornings](https://creativemornings.com/cities/van) - A series of talks about creative things and things that effect your life. [<i class="fa fa-twitter" aria-hidden="true"></i> @vancouver_cm](https://twitter.com/vancouver_cm), [<i class="fa fa-instagram" aria-hidden="true"></i> @creativemorningsvancouver](https://instagram.com/creativemorningsvancouver)
 - [OpenDataBC-Vancouver](http://www.meetup.com/OpenDataBC-Vancouver/) - OpenDataBC is a collaborative effort by a group of B.C. residents to explore, promote and create value with open data and related technologies.
-promotes the responsible and safe practice of scientific techniques.
 - [Vancouver Robotics Club](http://vancouverroboticsclub.org/) - For people who like building robots. [Meetup page](http://www.meetup.com//VancouverRoboticsClub/)
+- [Ideas Meetings - Vancouver](http://ideasmeetings.org/vancouver/) - A social group who tries to help each other make our ideas happen. You can be any age, ethnicity, and identify as any gender, you just have to be willing to contribute constructively. [<i class="fa fa-facebook-official" aria-hidden="true"></i> Facebook](https://www.facebook.com/ideasvan), [<i class="fa fa-twitter" aria-hidden="true"></i> @ideasmeetings](https://twitter.com/ideasmeetings)
+- [HackerNest Vancouver Tech Socials](http://www.meetup.com/HackerNestVAN/) - HackerNest Tech Socials are a fun, relaxed way to connect with your local tech community. Atmosphere: chill, friendly, unpretentious, agenda-free (no sales pitch, yo), and brimming with UltraSmart(TM) people.
 - [Polyglot Vancouver](http://www.meetup.com/PolyglotVancouver/) - Polyglot Vancouver's mission is to bring together software engineers, computer scientists, system administrators, or whatever title you choose. We strive to be inclusive, diverse and bullshit-free.
 - [VanDev](http://www.meetup.com/VanDev/) - Vancouver's Software Developers Network
 - [Startup Drinks Van](http://learn.foodtree.com/startupdrinksvan/) - Startup Drinks is a casual gathering at the end of each month for anyone who's interested in startups. We meet at a bar in downtown Vancouver and we chat about all things #startups...projects, funding, challenges, and people in the scene. [Meetup page](http://www.meetup.com/Vancouver-Tech-Co-Founders/).
-- [Ideas Meetings - Vancouver](http://ideasmeetings.org/vancouver/) - A social group who tries to help each other make our ideas happen. You can be any age, ethnicity, and identify as any gender, you just have to be willing to contribute constructively. [Facebook](https://www.facebook.com/ideasvan), [@ideasmeetings](https://twitter.com/ideasmeetings)
-
+- [Pixel Crafters](http://www.meetup.com/Vancouver-Tech-Co-Founders/)
+- [Vancouver Futurists](http://www.meetup.com/Vancouver-Futurists/)
+- [Repair Matters](http://repairmatters.ca/) - Repair Matters is a Vancouver-based initiative that empowers people to take part in repair and creative problem solving. Our aim is to bring people with different skill sets and experiences together, ranging from novices to experts, to share knowledge and collectively troubleshoot repair solutions. [<i class="fa fa-instagram" aria-hidden="true"></i> @repairmatters](https://instagram.com/repairmatters/)
+- [Nerd Nite Vancouver](http://vancouver.nerdnite.com/) - Nerd! Nerd Nite is an event which is currently held in over 60 cities worldwide! The formula for each Nerd Nite is pretty standard – 20 minute presentations from three presenters each night, in a laid-back environment with lots to learn, and lots to drink!
+- [Vancouver Design Nerds](http://vancouver.designnerds.org/) - Founded in 2004, the Vancouver Design Nerds Society (VDNS) exist to facilitate, promote and support positive social, environmental and urban transformation by providing a platform for face-to-face creative collaboration. [<i class="fa fa-twitter" aria-hidden="true"></i> @vandesignnerds](https://twitter.com/vandesignnerds)
 
 ### Accelerators/co-working spaces
 
@@ -108,7 +115,7 @@ These suppliers are local to Vancouver area.
 - [KMS tools](https://www.kmstools.com/) - Every tool that you could ever want.
 - [Busy Bee Tools](http://www.busybeetools.com/) - I have never been but I am told that its great.
 - [Lee Valley](http://www.leevalley.com/) - Mostly woodworking tools.
-- [Summit Tools](http://www.summittools.com/) - Even more tools. (1st Ave at Boundary)
+- [Summit Tools](http://www.summittools.com/) - Even more tools. 1st Ave at Boundary
 
 
 ## Online
@@ -165,6 +172,7 @@ Awesome people doing awesome things
 - [Embedded-Lab](http://embedded-lab.com/) – Blog with several projects, tutorials, PIC microcontroller stuff, etc.;
 
 ### Retailers
+
 Online retailers of components and dev boards.
 
 #### Development boards and kits
@@ -211,7 +219,7 @@ Online retailers of components and dev boards.
 
 - [Cura](https://ultimaker.com/en/products/cura-software) - It works great and is simple. Use this.
 
-### 3D Printable models
+### 3D printable models
 
 - [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
 - [GrabCAD](https://grabcad.com/) - Professional 3D models for manufacting parts.
@@ -229,9 +237,10 @@ Online retailers of components and dev boards.
 
 ## Laser and CNC
 
+### Furniture
+
 - [Open Desk](https://www.opendesk.cc/) - Free open-source CNC furniture and an experiment in the possibilities of distributed manufacturing.
 - [AtFab](http://atfab.co/) - Free open-source CNC furniture. Creating fully parametric fabable furnishings whose dimensions, details, material thickness, and slot size can be easily transformed and fabricated
 - [Sketch Chair](http://www.sketchchair.cc) - SketchChair is a free, open-source software tool that allows anyone to easily design and build their own digitally fabricated furniture.
 - [Open Design Furniture](http://www.opendesignfurniture.com/) - An Amazing collection of open source furniture from many different sites and designers.
 - [Pedro Terra LAB](http://www.pedroterralab.com/open-source-furniture/) - Pedro Terra LAB Open source furniture.
-
