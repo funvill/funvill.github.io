@@ -24,9 +24,9 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 
 ### Physical spaces
 
-- [Maker Labs](http://www.makerlabs.com/) - A 26,000sf maker space that provides better, sharper, tools. 3D printers, CNC, multiple laser cutters, plasma cutter, shopbot, Sewing Machine, etc...
-- [VIVO media Arts](http://www.vivomediaarts.com) - VIVO has been in Vancouver since 1973. Public programming includes events, workshops, exhibitions, residencies, co-productions, critical forums.
-- [Van Community Lab](http://vancommunitylab.com/) - Vancouver Community Laboratory (1907 Triumph Street), a 7,000-square-foot huge wood, and metal shop. They run Workshops every so often.
+- [Maker Labs](http://www.makerlabs.com/) - A 26,000sf maker space that provides better, sharper, tools. 3D printers, CNC, multiple laser cutters, plasma cutter, shopbot, Sewing Machine, etc... [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/MakerLabsVan), [<i class="fa fa-instagram" aria-hidden="true"></i>](http://instagram.com/makerlabs), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/makerlabs)
+- [VIVO media Arts](http://www.vivomediaarts.com) - VIVO has been in Vancouver since 1973. Public programming includes events, workshops, exhibitions, residencies, co-productions, critical forums. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/vivomediaarts), [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/vivomediaarts/), [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.facebook.com/vivomediaarts/)
+- [Van Community Lab](http://vancommunitylab.com/) - Vancouver Community Laboratory (1907 Triumph Street), a 7,000-square-foot huge wood, and metal shop. They run Workshops every so often. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/VancouverCoLab), [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.facebook.com/VancouverCoLab)
 - [WePress](https://wepress.ca/) - A Vancouver Downtown Eastside Community Makerspace. 3D printers, Workshops, Sewing Machine, etc...
 - [Fraser Valley Makerspace](http://fvmakers.com/) - Fraser Valley Makerspace (4612 216 Street, 2nd floor) 1200 sq ft with all the DIY tools that you would ever want. 3D printers, Workshops, etc...
 - [Zen Makerlab](http://zenmakerlab.com/) - Zen Maker space (272 East 1st Street)- 3D printers, CNC, multiple laser cutters, and lots of workshops.
