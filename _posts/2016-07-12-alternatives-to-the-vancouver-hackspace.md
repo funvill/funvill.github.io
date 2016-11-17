@@ -62,7 +62,7 @@ promotes the responsible and safe practice of scientific techniques.
 - [The Network Hub](https://www.thenetworkhub.ca/) - Co working space, hot desk.
 - [Light House Labs](https://www.lighthouselabs.ca/) - Code bootcamp. Full-Stack, iOS devlopment, etc...
 - [Code Core ](https://www.codecore.ca/) - Code bootcamp. Full-Stack, Rails, Javascript, etc...
-- [Red Academy](https://www.redacademy.com/) - Code bootcamp. 
+- [Red Academy](https://www.redacademy.com/) - Code bootcamp.
 
 
 ### Suppliers
@@ -117,9 +117,6 @@ These suppliers are local to Vancouver area.
 - [Hackaday](http://hackaday.com/) – Daily hacks and projects
 - [Instructables](http://www.instructables.com/tag/type-id/?sort=FEATURED) – Best of instructions. DIY projects.
 - [Make Magazine](http://makezine.com/) – Magazine for hackers and Makerspace
-- [Dangerous Prototypes](http://dangerousprototypes.com/) – Blog of electronics projects
-- [Electronics-Lab](http://www.electronics-lab.com/blog/) – Blog with daily projects and electronic products reviews
-- [Embedded-Lab](http://embedded-lab.com/) – Blog with several projects, tutorials, PIC microcontroller stuff, etc.;
 - [Robot Kingdom](http://robot-kingdom.com/) – Website with lots of robot projects;
 - [Lets Make Robots](http://letsmakerobots.com/) - Largest and coolest DIY robotics community
 - [The MagPi](https://www.raspberrypi.org/magpi/) - The official raspberry PI magazine. Lots of tutorials and projects.
@@ -129,7 +126,7 @@ These suppliers are local to Vancouver area.
 
 #### General
 
-- [Practical Engineering](https://www.youtube.com/user/gradyhillhouse/featured) - Has a great series on [What's that Infrastructure](https://www.youtube.com/watch?v=oA2-80lY5rE&list=PLTZM4MrZKfW_3wFRD1eYzHjHToLkAJWJ0). High products values with well researched topics. The [Arduino Garden Controller - Automatic Watering and Data Logging](https://www.youtube.com/watch?v=O_Q1WKCtWiA) is one of my favorite videos as I a bit of a data horder myself.
+- [Practical Engineering](https://www.youtube.com/user/gradyhillhouse/featured) - Has a great series on [What's that Infrastructure](https://www.youtube.com/watch?v=oA2-80lY5rE&list=PLTZM4MrZKfW_3wFRD1eYzHjHToLkAJWJ0). High products values with well researched topics. The [Arduino Garden Controller - [Automatic Watering and Data Logging](https://www.youtube.com/watch?v=O_Q1WKCtWiA) is one of my favorite videos as I a bit of a data horder myself.
 - [Engineer Guy](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ) - I first found the engineer guy while looking for a good explanation of [plastic injection modlding](https://www.youtube.com/watch?v=RMjtmsr3CqA). High production values with great research with history.
 - [DIY Perks](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw) - Intersting proejcts each week. I started following him after I build my own ["Sun blaster" flashlight](https://www.youtube.com/watch?v=kh9j5mDU_hA) based on his tutorials.
 - [MegaBots Inc](https://www.youtube.com/channel/UClT-fyp4Kgd76hESsuLbksA) - Giant fighting robots.
@@ -161,6 +158,10 @@ Awesome people doing awesome things
 
 - [Adafruit blog](https://blog.adafruit.com/) - New products as well as interesting projects.
 - [Sparkfun blog](https://www.sparkfun.com/news) - New products as well as interesting projects.
+- [Gerry Sweeney](http://gerrysweeney.com/) - Electronics Engineering and Software Hacking.
+- [Dangerous Prototypes](http://dangerousprototypes.com/) – Blog of electronics projects
+- [Electronics-Lab](http://www.electronics-lab.com/blog/) – Blog with daily projects and electronic products reviews
+- [Embedded-Lab](http://embedded-lab.com/) – Blog with several projects, tutorials, PIC microcontroller stuff, etc.;
 
 ### Retailers
 Online retailers of components and dev boards.
