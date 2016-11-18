@@ -23,6 +23,7 @@ What have interested in the last month.
 - [Critical Making](http://conceptlab.com/criticalmaking/) - Critical Making is a handmade book project by Garnet Hertz that explores how hands-on productive work ‐ making.
 - [Doomsday planning for less crazy folk](http://lcamtuf.coredump.cx/prep/) - When ever doomsday talk starts I point people at this article.
 - [Guerrilla guide to CNC](http://lcamtuf.coredump.cx/gcnc/) - A great guild to setting up a CNC.
+- [The Oral History Of The Poop Emoji Or, How Google Brought Poop To America](https://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america) 
 
 ## Tools
 
