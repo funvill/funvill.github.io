@@ -25,6 +25,7 @@ What have interested in the last month.
 - [Doomsday planning for less crazy folk](http://lcamtuf.coredump.cx/prep/) - When ever doomsday talk starts I point people at this article.
 - [Guerrilla guide to CNC](http://lcamtuf.coredump.cx/gcnc/) - A great guild to setting up a CNC.
 - [What happens to Obama’s @POTUS Twitter account when he’s no longer POTUS](http://time.com/4567113/barack-obama-donald-trump-twitter/) - All his [@POTUS](https://twitter.com/POTUS) tweets will be transferred to a new handle, [@POTUS44](https://twitter.com/POTUS44) and Trump will gain control of this twitter account.
+- [The Oral History Of The Poop Emoji Or, How Google Brought Poop To America](https://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america) 
 
 ## Tools
 
