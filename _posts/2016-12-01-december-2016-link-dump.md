@@ -12,6 +12,7 @@ What has interested in the last month.
 
 - [Open Source Car Control](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
 - [Quickdraw](https://quickdraw.withgoogle.com/) - Google AI learning. Can a neural network learn to recognize doodles? See how well it does with your drawings and help teach it, just by playing. [AI Experiments](https://aiexperiments.withgoogle.com/).
+- [A 4-bit Calculator made in cardboard and marble](https://lapinozz.github.io/learning/2016/11/19/calculator-with-caordboard-and-marbles.html)
 
 ## Books
 
