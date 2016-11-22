@@ -27,13 +27,13 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 - [Maker Labs](http://www.makerlabs.com/) - A 26,000sf maker space that provides better, sharper, tools. 3D printers, CNC, multiple laser cutters, plasma cutter, shopbot, Sewing Machine, etc... [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/MakerLabsVan), [<i class="fa fa-instagram" aria-hidden="true"></i>](http://instagram.com/makerlabs), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/makerlabs)
 - [VIVO media Arts](http://www.vivomediaarts.com) - VIVO has been in Vancouver since 1973. Public programming includes events, workshops, exhibitions, residencies, co-productions, critical forums. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/vivomediaarts), [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/vivomediaarts/), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/vivomediaarts/)
 - [Van Community Lab](http://vancommunitylab.com/) - Vancouver Community Laboratory (1907 Triumph Street), a 7,000-square-foot huge wood, and metal shop. They run Workshops every so often. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/VancouverCoLab), [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.facebook.com/VancouverCoLab)
-- [WePress](https://wepress.ca/) - A Vancouver Downtown Eastside Community Makerspace. 3D printers, Workshops, Sewing Machine, etc...
-- [Fraser Valley Makerspace](http://fvmakers.com/) - Fraser Valley Makerspace (4612 216 Street, 2nd floor) 1200 sq ft with all the DIY tools that you would ever want. 3D printers, Workshops, etc...
-- [Zen Makerlab](http://zenmakerlab.com/) - Zen Maker space (272 East 1st Street)- 3D printers, CNC, multiple laser cutters, and lots of workshops.
-- [Maker Cube](http://makercube.ca/) - Arduino, Robots, VEX, 3d printers, PCB printing, and a meeting space for a lot of different groups.
+- [WePress](https://wepress.ca/) - A Vancouver Downtown Eastside Community Makerspace. 3D printers, Workshops, Sewing Machine, etc...[<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/WePress_YVR/), [<i class="fa fa-instagram" aria-hidden="true"></i>](https://instagram.com/wepressvancouver/), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/WePressVancouver/)
+- [Fraser Valley Makerspace](http://fvmakers.com/) - Fraser Valley Makerspace (4612 216 Street, 2nd floor) 1200 sq ft with all the DIY tools that you would ever want. 3D printers, Workshops, etc... [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/fvmakers), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/fvmakers)
+- [Zen Makerlab](http://zenmakerlab.com/) - Zen Maker space (272 East 1st Street)- 3D printers, CNC, multiple laser cutters, and lots of workshops. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/zenmakerlab), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/Zen-Maker-Lab-391622877676205/)
+- [Maker Cube](http://makercube.ca/) - Arduino, Robots, VEX, 3d printers, PCB printing, and a meeting space for a lot of different groups. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/makercube), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/makercubesurrey)
 - [The Egg Arts Foundation](https://www.facebook.com/TheEggArtsFoundation/) - The Egg Arts Foundation. TheEgg art incubator is a year-round interactive art workshop and gathering place for the Vancouver Burning Man community. 5,000 sq ft studio has a wide variety of tools, technology, and fun distractions - a great place to build your art project, host a fundraiser, or have a meeting. TheEgg is volunteer-driven and free for everyone.
-- [The Beaumont studio](http://thebeaumont.org/) - Art and gallery space with a social emphasizes.
-- [Decentral Vancouver](http://decentralvancouver.com/) - Decentral Vancouver is a collaborative community incubator inspired by the ideas behind bitcoin. [Meetup](http://www.meetup.com/decentralvancouver/)
+- [The Beaumont studio](http://thebeaumont.org/) - Art and gallery space with a social emphasizes. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/thebeaumontyvr), [<i class="fa fa-instagram" aria-hidden="true"></i>](https://instagram.com/thebeaumontstudios), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/BeaumontStudiosVan)
+- [Decentral Vancouver](http://decentralvancouver.com/) - Decentral Vancouver is a collaborative community incubator inspired by the ideas behind bitcoin. [Meetup](http://www.meetup.com/decentralvancouver/), [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/decentralvan), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/pages/decentralbangtown/1448532188710477?ref=hl)
 - [VPL Inspiration Lab](http://www.vpl.ca/news/details/inspirationlab_faqs) - It’s a digital media lab at VPL’s central library downtown: a free place that combines traditional, digital and new media in a custom-built space dedicated to digital creativity, collaboration and storytelling. It features high-performance computers, analog-to-digital conversion, sound studios, video editing and self-publishing software. And all for free.
 - [ICOAAT](http://www.icoaat.com/) - The International Centre of Arts and Technology provider workshops and talks on various topics. *1012 – 207 West Hastings Street* [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/icoaat), [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/icoaat/)
 - [Vancouver Tool Library](http://vancouvertoollibrary.com/) - The VTL is a collective community resource, run by its members for its members. They lend out tools to the public. [List of tools](https://vancouver.myturn.com/library/inventory/browse). [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/vantoollibrary), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/vancouvertoollibrary).
@@ -43,9 +43,9 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 
 ### Events
 
-- [Vancouver Mini Maker Faire](http://makerfaire.ca/) - One Giant show and tell for the Maker and Hacker community. One of my favorite events of the year.
-- [Open Hardware Summit](http://www.oshwa.org/) - Not technically in Vancouver but close by in Portland. Annual event.
-- [Pecha Kucha Vancouver](http://www.pechakuchanightvancouver.com/) - PechaKucha is a global series of live events held worldwide where people can meet, inspire and get inspired, based on a format that is fast-paced and fun. Twelve inspiring minds will be giving a unique insight into their latest work and ideas in 20 slides x 20 seconds.
+- [Vancouver Mini Maker Faire](http://makerfaire.ca/) - One Giant show and tell for the Maker and Hacker community. One of my favorite events of the year. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/vanmakerfaire), [<i class="fa fa-instagram" aria-hidden="true"></i>](https://instagram.com/vanmakerfaire/), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/vancouverminimakerfaire)
+- [Open Hardware Summit](http://www.oshwa.org/) - Not technically in Vancouver but close by in Portland. Annual event. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/OSHWASSOCIATION)
+- [Pecha Kucha Vancouver](http://www.pechakuchanightvancouver.com/) - PechaKucha is a global series of live events held worldwide where people can meet, inspire and get inspired, based on a format that is fast-paced and fun. Twelve inspiring minds will be giving a unique insight into their latest work and ideas in 20 slides x 20 seconds. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/PechaKucha_Van), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/PKNVAN)
 
 ### Meetups
 
@@ -82,7 +82,7 @@ These suppliers are local to Vancouver area.
 
 #### Eletronics conponents
 
-- [Lees Electronic](http://www.leeselectronic.com/) - Supports maker faire and the local maker community. 4131 Fraser St (King Ed and Fraser)
+- [Lees Electronic](http://www.leeselectronic.com/) - Supports maker faire and the local maker community. 4131 Fraser St (King Ed and Fraser). [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/lees_electronic), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/LeesElectronicComponents)
 - [Main Electronics](http://www.mainelectronics.com/) - Not too friendly with newbies but has the best selection of knobs and buttons. 4554 Main Street (29th and Main)
 - [RP Electronics](http://www.rpelectronics.com/) - Also has some consumer electronics. 4181 Dawson Street, Burnaby
 
@@ -127,13 +127,13 @@ These suppliers are local to Vancouver area.
 
 ### Communities
 
-- [Hackaday](http://hackaday.com/) – Daily hacks and projects
-- [Instructables](http://www.instructables.com/tag/type-id/?sort=FEATURED) – Best of instructions. DIY projects.
-- [Make Magazine](http://makezine.com/) – Magazine for hackers and Makerspace
+- [Hackaday](http://hackaday.com/) – Daily hacks and projects. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/hackaday), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/pages/Hack-a-Day/136115233068429)
+- [Instructables](http://www.instructables.com/tag/type-id/?sort=FEATURED) – Best of instructions. DIY projects.  [<i class="fa fa-twitter" aria-hidden="true"></i>](http://www.twitter.com/instructables), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/instructables)
+- [Make Magazine](http://makezine.com/) – Magazine for hackers and Makerspace. [<i class="fa fa-twitter" aria-hidden="true"></i>](http://twitter.com/make), [<i class="fa fa-instagram" aria-hidden="true"></i>](http://instagram.com/makemagazine), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://facebook.com/makemagazine)
+- [The MagPi](https://www.raspberrypi.org/magpi/) - The official raspberry PI magazine. Lots of tutorials and projects. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/TheMagP1), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/MagPiMagazine)
+- [EEWeb](http://www.eeweb.com/) - Electrical Engineering news, resources, and community.
 - [Robot Kingdom](http://robot-kingdom.com/) – Website with lots of robot projects;
 - [Lets Make Robots](http://letsmakerobots.com/) - Largest and coolest DIY robotics community
-- [The MagPi](https://www.raspberrypi.org/magpi/) - The official raspberry PI magazine. Lots of tutorials and projects.
-- [EEWeb](http://www.eeweb.com/) - Electrical Engineering news, resources, and community.
 
 ### YouTube channels
 
@@ -150,7 +150,7 @@ These suppliers are local to Vancouver area.
 - [MickMake](https://www.youtube.com/channel/UC7GMT3ohvYEAJFDenzj9EMQ) - Current status of the maker world. Reviews, tutorials, technology explanations, news and Maker event coverage.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - An off-the-cuff video blog for electronic engineers, hobbyists, and hackers.
 - [Scanlime](https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ) - Creator of the FadeCandy board. She is the first person that I supported on [Patreon](https://www.patreon.com/scanlime). A great value to the maker community. One of my favorite videos of hers is the [011 / Ultrasonic Transducer](https://www.youtube.com/watch?v=VuzytIcSxwI). [@scanlime](https://twitter.com/scanlime)
-- [Mikes Electric Stuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Amazing artist that also does a great amount build out video on his channel. One of my favorite art installtions that he has done is [Emergence](https://www.youtube.com/watch?v=9Qlmywxjau0) more info about this installtion can be found here [Heathrow Airport Emergence](http://cinimodstudio.com/portfolio/heathrow-airport-emergence/). [Patreon](https://www.patreon.com/mikeselectricstuff). 
+- [Mikes Electric Stuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Amazing artist that also does a great amount build out video on his channel. One of my favorite art installtions that he has done is [Emergence](https://www.youtube.com/watch?v=9Qlmywxjau0) more info about this installtion can be found here [Heathrow Airport Emergence](http://cinimodstudio.com/portfolio/heathrow-airport-emergence/). [Patreon](https://www.patreon.com/mikeselectricstuff).
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - The queen of "shitty" robots. One of my favorite videos of hers [Wake-up Machine FAIL](https://www.youtube.com/watch?v=0MzPVe30Q1A) [@simonegiertz](https://twitter.com/simonegiertz).
 - [Adafruit Industries](https://www.youtube.com/channel/UCpOlOeQjj7EsVnDh3zuCgsA) - Daily new videos. Everything from new products, Ask an Engineer, Weekly 3D print, show and tell. 
 
@@ -170,8 +170,8 @@ Awesome people doing awesome things
 
 ### Blogs
 
-- [Adafruit blog](https://blog.adafruit.com/) - New products as well as interesting projects.
-- [Sparkfun blog](https://www.sparkfun.com/news) - New products as well as interesting projects.
+- [Adafruit blog](https://blog.adafruit.com/) - New products as well as interesting projects. [<i class="fa fa-twitter" aria-hidden="true"></i>](http://www.twitter.com/adafruit), [<i class="fa fa-instagram" aria-hidden="true"></i>](http://www.instagram.com/adafruit), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/adafruitindustries)
+- [Sparkfun blog](https://www.sparkfun.com/news) - New products as well as interesting projects. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/#!/sparkfun), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/SparkFun)
 - [Gerry Sweeney](http://gerrysweeney.com/) - Electronics Engineering and Software Hacking.
 - [Dangerous Prototypes](http://dangerousprototypes.com/) – Blog of electronics projects
 - [Electronics-Lab](http://www.electronics-lab.com/blog/) – Blog with daily projects and electronic products reviews
@@ -183,25 +183,25 @@ Online retailers of components and dev boards.
 
 #### Development boards and kits
 
-- [Adafruit](https://www.adafruit.com/) - One of the best. A great community partner, lots of tutorials. Order your stuff from here when you are getting started. 
-- [SparkFun](http://www.sparkfun.com/) - Awesome site with tutorials and lots of breakout boards and parts.
-- [Seeed Studio](https://www.seeedstudio.com/) - Strait from Shenzhen.
-- [ITead Studio](http://iteadstudio.com/) - Similar to Seeed Studio, and also located in China.
-- [Solarbotics](http://www.solarbotics.com/) - Robotics related parts (motors, electronics, gears, sensors, etc).
-- [RobotShop](http://www.robotshop.ca/) - Robots and related parts.
+- [Adafruit](https://www.adafruit.com/) - One of the best. A great community partner, lots of tutorials. Order your stuff from here when you are getting started. [<i class="fa fa-twitter" aria-hidden="true"></i>](http://www.twitter.com/adafruit), [<i class="fa fa-instagram" aria-hidden="true"></i>](http://www.instagram.com/adafruit), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/adafruitindustries)
+- [SparkFun](http://www.sparkfun.com/) - Awesome site with tutorials and lots of breakout boards and parts. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/#!/sparkfun), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/SparkFun)
+- [Seeed Studio](https://www.seeedstudio.com/) - Strait from Shenzhen. [<i class="fa fa-twitter" aria-hidden="true"></i>](http://twitter.com/seeedstudio), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/seeedstudiosz/)
+- [ITead Studio](http://iteadstudio.com/) - Similar to Seeed Studio, and also located in China. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/Iteadstudio), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/pages/ITead-Studio/248984101795699)
+- [Solarbotics](http://www.solarbotics.com/) - Robotics related parts (motors, electronics, gears, sensors, etc). [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/solarbotics/), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/Solarbotics)
+- [RobotShop](http://www.robotshop.ca/) - Robots and related parts. [<i class="fa fa-twitter" aria-hidden="true"></i>](http://twitter.com/@RobotShop), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/pages/RobotShop/54731600766)
 
 
 #### Electronic components
 
-- [Digikey](http://digikey.ca/) - They've got pretty much anything, and they ship overnight from Canada.
-- [Mouser](http://ca.mouser.com/) - Similar to Digikey, but ship from the US (taking an extra day usually).
-- [Newark element14](http://canada.newark.com/) - Similar to Digikey and Mouser, but slower and more expensive shipping.
-- [Arrow Electronics](https://www.arrow.com/) - Similar to Digikey and Mouser. Arrow Electronics is a global provider of products, services, and solutions to industrial and commercial users of electronic components and enterprise computing solutions.
+- [Digikey](http://digikey.ca/) - They've got pretty much anything, and they ship overnight from Canada. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/digikey), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/digikey.electronics)
+- [Mouser](http://ca.mouser.com/) - Similar to Digikey, but ship from the US (taking an extra day usually). [<i class="fa fa-twitter" aria-hidden="true"></i>](https://www.twitter.com/mouserelec), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/mouserelectronics)
+- [Newark element14](http://canada.newark.com/) - Similar to Digikey and Mouser, but slower and more expensive shipping. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/Newarkelement14/), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/Newarkelement14/)
+- [Arrow Electronics](https://www.arrow.com/) - Similar to Digikey and Mouser. Arrow Electronics is a global provider of products, services, and solutions to industrial and commercial users of electronic components and enterprise computing solutions. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/Arrow_dot_com), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/ArrowDotCom)
 
 
 #### Materials
 
-- [Inventables](http://www.inventables.com/) - Acrylic sheets, woods, and veneers, molding materials, etc.
+- [Inventables](http://www.inventables.com/) - Acrylic sheets, woods, and veneers, molding materials, etc. [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/inventables), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/Inventables)
 - [McMaster Carr](http://www.mcmaster.com/) - Massive catalog of engineering components. Not the cheapest, but the only source for many things. Used to be US-only, but ships (fast) to Canada now.
 
 
@@ -213,7 +213,7 @@ Online retailers of components and dev boards.
 
 ### Manufacturing
 
-- [MacroFab](http://www.macrofab.com) - MacroFab specializes in manufacturing and assembling PCBs and electronic devices. From PCB assembly to fulfillment.
+- [MacroFab](http://www.macrofab.com) - MacroFab specializes in manufacturing and assembling PCBs and electronic devices. From PCB assembly to fulfillment. [<i class="fa fa-twitter" aria-hidden="true"></i>](http://www.twitter.com/MacroFab), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/MacroFab)
 
 ## 3D Printing
 
