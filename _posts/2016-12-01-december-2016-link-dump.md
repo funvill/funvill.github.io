@@ -6,7 +6,7 @@ date: '2016-12-01 00:01'
 author: funvill
 ---
 
-What have interested in the last month.
+What has interested in the last month.
 
 ## Projects
 
@@ -40,9 +40,11 @@ What have interested in the last month.
 ## Art
 
 - [Bubble ceramics](http://www.hqpottery.com/) - Makes intersting patterns on ceramics with inky bubbles. This video [describes her proccess](https://www.youtube.com/watch?time_continue=44&v=00MjTzDycFo). [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/hedyyang_/), [etsy](https://www.etsy.com/shop/HQpottery).
+- [Haute Circuits](https://www.boldport.com/blog/2015/11/25/haute-circuits) - PCB design as art. A join project between Eletroncis master [Boldport](https://www.boldport.com/) aka Saar Drimer, and accomplished still-life photographer [Mitch Feinberg](http://mitch.fr/)
 
 ## Fun/Intersting
 
+- [Boldport Club](http://www.boldport.club/) - Beautifully designed eletronics projects each month.
 - [Crushing a camper with a vacuum](https://www.youtube.com/watch?v=9YEXQwnyMms&t=3m13s)
 
 ![Flying hammock](https://i.imgur.com/AVmxAK1.gifv)

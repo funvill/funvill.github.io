@@ -73,7 +73,7 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 - [The Profile](http://theprofile.ca/) - Co working space.
 - [The Network Hub](https://www.thenetworkhub.ca/) - Co working space, hot desk.
 - [Light House Labs](https://www.lighthouselabs.ca/) - Code bootcamp. Full-Stack, iOS devlopment, etc...
-- [Code Core ](https://www.codecore.ca/) - Code bootcamp. Full-Stack, Rails, Javascript, etc...
+- [Code Core](https://www.codecore.ca/) - Code bootcamp. Full-Stack, Rails, Javascript, etc...
 - [Red Academy](https://www.redacademy.com/) - Code bootcamp.
 
 
@@ -160,6 +160,7 @@ These suppliers are local to Vancouver area.
 - [Frank Howarth](https://www.youtube.com/channel/UC3_VCOJMaivgcGqPCTePLBA) - Amazing wood worker with lots of tutorials style videos. Check out his series on building a [CNC Router table](https://www.youtube.com/playlist?list=PLZqh4Qx3PPHka0hxFPcKI475XsxOgrkJb).
 
 #### Makers
+
 Awesome people doing awesome things
 
 - [J Mantzel](https://www.youtube.com/channel/UC1p7jFXjL7Q0qMii08oAeAQ) - I have never met anyone with as much energy as this guy. His [giant walking robot](https://www.youtube.com/playlist?list=PL13A11662BDE6EB83) series from a few years ago is inspiring and frighting. He is currently building a off the grid ["Sea Castle"/Fortress](https://www.youtube.com/watch?v=MN5S26JA1OI). I backed his [failed kickstarter](https://www.kickstarter.com/projects/1089105581/the-greatest-toy-kit-in-the-universe-spider-tank-m) ad well as support him on [Patreon](https://www.patreon.com/jmemantzel).
