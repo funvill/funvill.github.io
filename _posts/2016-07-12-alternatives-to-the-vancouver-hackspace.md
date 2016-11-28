@@ -214,6 +214,8 @@ Online retailers of components and dev boards.
 ### Manufacturing
 
 - [MacroFab](http://www.macrofab.com) - MacroFab specializes in manufacturing and assembling PCBs and electronic devices. From PCB assembly to fulfillment. [<i class="fa fa-twitter" aria-hidden="true"></i>](http://www.twitter.com/MacroFab), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/MacroFab)
+- [Elecrow](http://www.elecrow.com/) - PCB printing, assembly and manufacting.
+- [DirtyPCBs](http://dirtypcbs.com/) - PCB printing.
 
 ## 3D Printing
 
@@ -228,12 +230,14 @@ Online retailers of components and dev boards.
 ### 3D printable models
 
 - [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
-- [YouMagine](https://www.youmagine.com/) - Open source designs and 3D-printable models.
+- [MyMiniFactory](https://www.myminifactory.com/) - A decent selection of curiated 3D-printable models.
 - [ThingiVerse](http://www.thingiverse.com) - The original online catalog of 3D printer models.
+- [YouMagine](https://www.youmagine.com/) - Open source designs and 3D-printable models.
 - [GrabCAD](https://grabcad.com/) - Professional 3D models for manufacting parts.
 - [Yeggi.com](http://www.yeggi.com/) - Search Engine for 3D printable Models. Searches a lot of the smaller sites.
 - [NIH 3D Print Exchange](http://3dprint.nih.gov/) - 3D-printable models that are scientifically accurate or medically applicable.
-- [MyMiniFactory](https://www.myminifactory.com/) - A decent selection of curiated 3D-printable models.
+- [Smithsonian 3d models](https://3d.si.edu/browser) - A large collection of 3d models from the smithsonian.
+- [CG Trader](https://www.cgtrader.com/) - 3D models for VR / AR, 3D printing and computer graphics.
 
 
 ### 3D printing services
