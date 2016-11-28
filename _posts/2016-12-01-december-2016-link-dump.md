@@ -27,12 +27,16 @@ What has interested in the last month.
 - [Guerrilla guide to CNC](http://lcamtuf.coredump.cx/gcnc/) - A great guild to setting up a CNC.
 - [What happens to Obama’s @POTUS Twitter account when he’s no longer POTUS](http://time.com/4567113/barack-obama-donald-trump-twitter/) - All his [@POTUS](https://twitter.com/POTUS) tweets will be transferred to a new handle, [@POTUS44](https://twitter.com/POTUS44) and Trump will gain control of this twitter account.
 - [The Oral History Of The Poop Emoji Or, How Google Brought Poop To America](https://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america) 
+- [Master Class](https://www.masterclass.com/) - Masters of their craft teaching others via video tutorial.
+- [Aphorism](https://en.wikipedia.org/wiki/Aphorism) - noun - a pithy observation that contains a general truth, such as, *"if it ain't broke, don't fix it."*.
 
 ## Tools
 
 - [AliSeeks](http://www.aliseeks.com/) - Better way to search aliexpress.
 - [Parts Box.io](https://partsbox.io/) - Electronic parts inventory management software. [HAD](https://hackaday.com/2016/11/18/partsbox-io-wants-to-organize-your-junk-box/)
 - [winnie](https://winnie.com/) - Discover family-friendly restaurants, kids activities, playgrounds, shopping and more.
+- [Circle CL](https://circleci.com/) - Continuous integration and delivery for software.
+- [Mine Modular Midi Montroller](https://ask.audio/articles/this-modular-midi-controller-specialwaves-mine-is-smart-customisable-sexy) - Mine consists of a matrix of 8×8 (rows columns), that allows the insertion of a maximum of 64 modules.
 
 ## Talks/Videos
 
@@ -47,5 +51,6 @@ What has interested in the last month.
 
 - [Boldport Club](http://www.boldport.club/) - Beautifully designed eletronics projects each month.
 - [Crushing a camper with a vacuum](https://www.youtube.com/watch?v=9YEXQwnyMms&t=3m13s)
+- [Robot teamwork](https://www.facebook.com/926058810805297/videos/1158607727550403/) - Video of making a spring. an entier channel of [these types of videos](https://www.facebook.com/Entertaining-Stuff-926058810805297/).
 
 ![Flying hammock](https://i.imgur.com/AVmxAK1.gifv)
