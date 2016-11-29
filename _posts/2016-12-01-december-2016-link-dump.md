@@ -52,5 +52,6 @@ What has interested in the last month.
 - [Boldport Club](http://www.boldport.club/) - Beautifully designed eletronics projects each month.
 - [Crushing a camper with a vacuum](https://www.youtube.com/watch?v=9YEXQwnyMms&t=3m13s)
 - [Robot teamwork](https://www.facebook.com/926058810805297/videos/1158607727550403/) - Video of making a spring. an entier channel of [these types of videos](https://www.facebook.com/Entertaining-Stuff-926058810805297/).
+- [Simpsons quote generator](https://frinkiac.com/) - Frinkiac has nearly 3 million Simpsons screencaps so get to searching for crying out glayvin!
 
 ![Flying hammock](https://i.imgur.com/AVmxAK1.gifv)
