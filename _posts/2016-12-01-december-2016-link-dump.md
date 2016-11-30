@@ -29,6 +29,7 @@ What has interested in the last month.
 - [The Oral History Of The Poop Emoji Or, How Google Brought Poop To America](https://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america) 
 - [Master Class](https://www.masterclass.com/) - Masters of their craft teaching others via video tutorial.
 - [Aphorism](https://en.wikipedia.org/wiki/Aphorism) - noun - a pithy observation that contains a general truth, such as, *"if it ain't broke, don't fix it."*.
+- [ESP barebones build environment](https://hackaday.com/2016/11/30/the-esp-a-new-1kb-contender-appears/) - ESP barebones build environment focused on minimizing code size, as little as 131 bytes to boot up and blink an LED. It also “supports” some new, insane clock rates (like 346 MHz) and crazy development cycle speeds.
 
 ## Tools
 
@@ -53,5 +54,6 @@ What has interested in the last month.
 - [Crushing a camper with a vacuum](https://www.youtube.com/watch?v=9YEXQwnyMms&t=3m13s)
 - [Robot teamwork](https://www.facebook.com/926058810805297/videos/1158607727550403/) - Video of making a spring. an entier channel of [these types of videos](https://www.facebook.com/Entertaining-Stuff-926058810805297/).
 - [Simpsons quote generator](https://frinkiac.com/) - Frinkiac has nearly 3 million Simpsons screencaps so get to searching for crying out glayvin!
+- [Music For Programming](http://musicforprogramming.net/) - A series of mixes intended for listening while '+task+' to aid concentration and increase productivity
 
 ![Flying hammock](https://i.imgur.com/AVmxAK1.gifv)
