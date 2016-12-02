@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: December 2016 interesting link dump
 date: '2016-12-01 00:01'
@@ -55,5 +55,6 @@ What has interested in the last month.
 - [Robot teamwork](https://www.facebook.com/926058810805297/videos/1158607727550403/) - Video of making a spring. an entier channel of [these types of videos](https://www.facebook.com/Entertaining-Stuff-926058810805297/).
 - [Simpsons quote generator](https://frinkiac.com/) - Frinkiac has nearly 3 million Simpsons screencaps so get to searching for crying out glayvin!
 - [Music For Programming](http://musicforprogramming.net/) - A series of mixes intended for listening while '+task+' to aid concentration and increase productivity
+- [Tesla coil powered film canister gatling gun](https://hackaday.com/2016/11/30/tesla-coil-powered-film-canister-gatling-gun/) - This has all the geek keywords you could ever want. Includes a video as well. 
 
 ![Flying hammock](https://i.imgur.com/AVmxAK1.gifv)
