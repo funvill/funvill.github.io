@@ -14,8 +14,8 @@ I used to have pride in being a VHS member, but now I am ashamed to have been a 
 
 Links to others peoples simlare posts.
 
-- @Afreak - [Why I left vancouver hackspace](http://colin.keigher.ca/2016/11/why-i-left-vancouver-hack-space.html), [1](https://twitter.com/afreak/status/798428324716544000)
-- @infil00p - [The space to spiral into the complete shit show that exists now](https://plus.google.com/+JoeBowser/posts/SFFwAZRs9xK), [1](https://twitter.com/infil00p/status/798428648579723264), [2](https://twitter.com/infil00p/status/798330126534524928), [3](https://twitter.com/infil00p/status/798329658685026304),
+- @Afreak - [Why I left vancouver hackspace](http://colin.keigher.ca/2016/11/why-i-left-vancouver-hack-space.html), [Follow up](http://colin.keigher.ca/2016/12/a-follow-up-on-vancouver-hack-space.html), [1](https://twitter.com/afreak/status/798428324716544000)
+- @infil00p - [The Vancouver Hack Space Rant!!!](http://infil00p.org/hackerspaces/doocracy/inclusion/2016/12/01/vhs-history/), [The space to spiral into the complete shit show that exists now](https://plus.google.com/+JoeBowser/posts/SFFwAZRs9xK), [1](https://twitter.com/infil00p/status/798428648579723264), [2](https://twitter.com/infil00p/status/798330126534524928), [3](https://twitter.com/infil00p/status/798329658685026304),
 - @ninetynein - [VHS is a cheap place to use a laser cutter. That's about it](http://colin.keigher.ca/2016/11/why-i-left-vancouver-hack-space.html?showComment=1479341027380#c8381758208819374722)
 
 This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a collection of resources. [Pull requests greatly appreciated](https://github.com/funvill/funvill.github.io/blob/master/_posts/2016-07-12-alternatives-to-the-vancouver-hackspace.md).
