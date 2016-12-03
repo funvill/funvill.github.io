@@ -85,6 +85,7 @@ These suppliers are local to Vancouver area.
 - [Lees Electronic](http://www.leeselectronic.com/) - Supports maker faire and the local maker community. 4131 Fraser St (King Ed and Fraser). [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/lees_electronic), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/LeesElectronicComponents)
 - [Main Electronics](http://www.mainelectronics.com/) - Not too friendly with newbies but has the best selection of knobs and buttons. 4554 Main Street (29th and Main)
 - [RP Electronics](http://www.rpelectronics.com/) - Also has some consumer electronics. 4181 Dawson Street, Burnaby
+- [MRO Electronics](http://www.mroelectronics.com/mro/) - 1745 Boundary Rd. Vancouver
 
 #### Metals
 
