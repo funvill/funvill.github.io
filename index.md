@@ -5,20 +5,20 @@ published: true
 ---
 
 # Welcome
-I make things, sometimes they are awesome things. 
+I make things, sometimes they are awesome things.
 
-## <i class="fa fa-file" aria-hidden="true"></i> Recent posts
+## <i class="fa fa-file" aria-hidden="true"></i> [[Recent posts]](/archive)
 
 <ul>
 {% for post in site.posts limit: 10 %}
  {% if post.title != null %}
- <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+ <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.excerpt | strip_html | truncate: 60 }}</li>
  {% endif %}
 {% endfor %}
-<li><a href="/archive">More...</a></li>
 </ul>
+<a href="/archive">More...</a>
 
-## <i class="fa fa-cubes" aria-hidden="true"></i> Projects
+## <i class="fa fa-cubes" aria-hidden="true"></i> [[Projects]](/projects)
 
 <ul>
 {% for project in site.pages reversed %}
@@ -26,14 +26,14 @@ I make things, sometimes they are awesome things.
   {% if project.layout == "project" %}
    <li><a href="{{ project.url }}">{{ project.title }}</a>
    {% if project.excerpt != null %}
-   - {{project.excerpt}}
+   - {{project.excerpt | strip_html }}
    {% endif %}
    </li>
   {% endif %}
  {% endif %}
 {% endfor %}
-<li><a href="/projects">More...</a></li>
 </ul>
+<a href="/projects">More...</a>
 
 ## <i class="fa fa-instagram"></i> [Instagram](https://instagram.com/funvill)
 
