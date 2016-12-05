@@ -6,7 +6,7 @@ date: '2016-12-01 00:01'
 author: funvill
 ---
 
-What has interested in the the month of November 2016
+What has interested me in the month of November 2016
 
 ## Projects
 

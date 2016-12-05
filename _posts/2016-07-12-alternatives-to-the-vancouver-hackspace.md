@@ -12,7 +12,7 @@ Good, energetic, people will succeed anywhere. VHS is a handicap that prevents e
 
 I used to have pride in being a VHS member, but now I am ashamed to have been a part of that group.
 
-Links to others peoples simlare posts.
+Links to others peoples similar posts.
 
 - @Afreak - [Why I left vancouver hackspace](http://colin.keigher.ca/2016/11/why-i-left-vancouver-hack-space.html), [Follow up](http://colin.keigher.ca/2016/12/a-follow-up-on-vancouver-hack-space.html), [1](https://twitter.com/afreak/status/798428324716544000)
 - @infil00p - [The Vancouver Hack Space Rant!!!](http://infil00p.org/hackerspaces/doocracy/inclusion/2016/12/01/vhs-history/), [The space to spiral into the complete shit show that exists now](https://plus.google.com/+JoeBowser/posts/SFFwAZRs9xK), [1](https://twitter.com/infil00p/status/798428648579723264), [2](https://twitter.com/infil00p/status/798330126534524928), [3](https://twitter.com/infil00p/status/798329658685026304),
