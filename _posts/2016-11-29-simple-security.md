@@ -41,9 +41,10 @@ I have arranged this section from the easiest tools/practices that will have a l
 
 - [Screen saver, On resume display lock screen](https://www.it.cornell.edu/security/how.cfm?cat=4&tip=139) - When you walk away from your computer you want your computer to automatically lock.  Low Impact on your life, configure it once.
 
+- System Update (aka windows update) - Its annoying I get it, but install all system update as soon as they appear.
+
 - [Signal Private Messenger](https://whispersystems.org/) - Phone app that replaces your default SMS/Text messaging app with a secure messaging app. Low impact on your life. [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)
 
-- System Update (aka windows update) - Its annoying I get it, but install all system update as soon as they appear.
 
 ### Moderate impact on your life
 
@@ -53,15 +54,15 @@ I have arranged this section from the easiest tools/practices that will have a l
 
 - Any deal that is too good to be true, probably it isn’t. Be cautions every time you encounter such offers (or emails).
 
+- Full disk encryption.
+
 ### High impact on your life
+
+- 2-factor (or more) authentication.
 
 - Nothing is free. This is particularly true for apps or software. Free often means if you give us access to your personal data.
 
 - If you use public WiFi, use a VPN.
-
-- Full disk encryption.
-
-- 2-factor (or more) authentication.
 
 ### Extreme impact on your life
 
