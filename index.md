@@ -12,7 +12,7 @@ I make things, sometimes they are awesome things.
 <ul>
 {% for post in site.posts limit: 10 %}
  {% if post.title != null %}
- <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.excerpt | strip_html | truncate: 60 }}</li>
+ <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
