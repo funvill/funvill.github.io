@@ -7,18 +7,18 @@ published: true
 # Welcome
 I make things, sometimes they are awesome things.
 
-## <i class="fa fa-file" aria-hidden="true"></i> [[Recent posts]](/archive)
+## <i class="fa fa-file" aria-hidden="true"></i> [Recent posts](/archive)
 
 <ul>
 {% for post in site.posts limit: 10 %}
  {% if post.title != null %}
- <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+ <li><a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%B %-d %Y" }}</li>
  {% endif %}
 {% endfor %}
 </ul>
 <a href="/archive">More...</a>
 
-## <i class="fa fa-cubes" aria-hidden="true"></i> [[Projects]](/projects)
+## <i class="fa fa-cubes" aria-hidden="true"></i> [Projects](/projects)
 
 <ul>
 {% for project in site.pages reversed %}
