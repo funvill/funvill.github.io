@@ -12,7 +12,7 @@ Inspired by [UsesThis.com/](https://usesthis.com/) - A collection of nerdy inter
 
 # Who are you, and what do you do?
 
-My name is *Steven Smethurst* and live two lives. During the day I am a developer at [Chipkin Automation Systems](http://www.chipkin.com/), a Vancouver based software company that focuses on building and industrial automation. At night I am a maker, hacker and artist.
+My name is *Steven Smethurst* and live two lives. During the day I am a software engineer at [Chipkin Automation Systems](http://www.chipkin.com/) and at night I am a maker, hacker and artist.
 
 # What software do you use?
 
@@ -30,6 +30,7 @@ I spend a good majority of my day on my computer using these tools.
 - [Gitlab](https://about.gitlab.com/) - A alternative to github. git repo, issue tracker, CI, etc..
 - [GitKraken](https://www.gitkraken.com/) - A Git client. NOT free for commercial use.
 - [Beyond Compare 4](http://www.scootersoftware.com/) - A file/folder comparison tool.
+- Bash for windows
 
 ## CAD
 
@@ -66,4 +67,4 @@ I spend a good majority of my day on my computer using these tools.
 
 # What would be your dream setup?
 
-I am happy with what I have. 
+I'm pretty happy with my setup for all practical intents and purposes these days. I have been waiting for a good version of augmented reality and smart contact lenses for a while now.
