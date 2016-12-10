@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog Archives
+date: '2016-12-01 00:01'
 ---
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}

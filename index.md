@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+date: '2016-12-01 00:01'
 published: true
 ---
 

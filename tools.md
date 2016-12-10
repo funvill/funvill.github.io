@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Current tools and equipment
+date: '2016-12-10 00:01'
 ---
 
 Everyday I use a series of tools and equipment that make my life easier. These tool change and morph each year. This is my list of recommended tools that I use every single day.
