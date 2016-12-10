@@ -6,7 +6,7 @@ date: '2016-12-10 00:01'
 
 Everyday I use a series of tools and equipment that make my life easier. These tool change and morph each year. This is my list of recommended tools that I use every single day.
 
-Previous snapshots of my tools and equipment lists can be found here: [2016](#)
+Previous snapshots of my tools and equipment lists can be found here: [2016](/tools-2016)
 
 Inspired by [UsesThis.com/](https://usesthis.com/) - A collection of nerdy interviews asking people from all walks of life what they use to get the job done.
 
