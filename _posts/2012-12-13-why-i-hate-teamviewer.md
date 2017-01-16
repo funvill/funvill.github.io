@@ -8,7 +8,7 @@ categories: [Rants]
 ---
 <strong>TeamViewer is a bad company do not pay for their software. </strong>
 
-A year ago I found about a application called TeamViewer. It WAS this great utility that allowed me to support my friends and colleges with a remote desktop tool. After using it for free for 3 months I decided to do the right thing and purchase it. Big mistake.
+A year ago I found about a application called TeamViewer. It WAS this great utility that allowed me to support my friends and wo-workers with a remote desktop tool. After using it for free for 3 months I decided to do the right thing and purchase it. Big mistake.
 
 The problems started when they updated the version to version 7. Only 2 months after I have purchased version 6.
 
