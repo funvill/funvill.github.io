@@ -15,7 +15,7 @@ enforce_ssl:      blog.abluestar.com
 
 author:
   name:           'funvill'
-  url:            http://blog.abluestar.com
+  url:            https://blog.abluestar.com
 
 paginate:         1
 
@@ -30,3 +30,6 @@ prose:
   
 twitter:
   username:       funvill
+
+gems:
+  - jekyll-sitemap
