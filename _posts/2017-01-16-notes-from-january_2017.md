@@ -24,6 +24,7 @@ Some of the things that I have found interesting in January 2017.
  
 - [Battery testing with a megntic parts tray](http://www.instructables.com/id/Battery-Testing-Helper-Magnetic-Parts-Tray/)
 - [A guide to fire safety in industrial Spaces](https://medium.com/@guicavalcanti/a-guide-to-fire-safety-in-industrial-spaces-e08b122826dd#.iueozwem4)
+- [10 Bullets. By Tom Sachs](https://www.youtube.com/watch?v=49p1JVLHUos) - A prop shop's rules of the shop. 
 
 ## Games
 
