@@ -42,6 +42,7 @@ Some of the things that I have found interesting in January 2017.
 ##  Intersting 
 
 - [Japanese wood paper art](https://www.youtube.com/watch?v=TxvOMHoLRBY) 
+- [The birth and death of javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - This science fiction / comedy / absurdist / completely serious talk traces the history of JavaScript, and programming in general, from 1995 until 2035. It's not pro- or anti-JavaScript; the language's flaws are discussed frankly, but its ultimate impact on the industry is tremendously positive.
 
 ## Movies 
 
