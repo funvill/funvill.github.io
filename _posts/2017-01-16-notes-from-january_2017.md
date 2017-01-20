@@ -33,6 +33,7 @@ Some of the things that I have found interesting in January 2017.
 - [Project Euler](https://projecteuler.net/) - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 - [Stories: The Path of Destinies](http://store.steampowered.com/app/439190/) - A neat steam game where you build a story around players choices and actions. PC, RPG, Actiation-RPG.
 - [The Jackbox Party Pack 3](http://store.steampowered.com/app/434170/) - A great party game. Everyone uses their cellphones/tablets to enter their answers. 
+- [Turtle Wushu Tutorial](https://www.youtube.com/watch?v=rGRyMkejMxE) - A simple game of protector your turtle. I like playing it with LED throwies instead of turtles. The follow to this game is [16 Bit Turtle Wushu Tutorial](https://www.youtube.com/watch?v=2LKstSde1s8)
 
 ## CNC / Laser / 3D printers
 
