@@ -70,3 +70,4 @@ Some of the things that I have found interesting in January 2017.
 - [LoRaWAN](https://www.lora-alliance.org/For-Developers/LoRaWANDevelopers) - Long Range Low Power Wide Area Network made for embeded devices. 
 - [Developing IoT Mashups with Docker, MQTT, Node-RED, InfluxDB, Grafana](http://air.imag.fr/index.php/Developing_IoT_Mashups_with_Docker,_MQTT,_Node-RED,_InfluxDB,_Grafana) A great intro to one persons home automation stack. 
 - [Using SQLite with Node-RED](http://developers.sensetecnic.com/article/using-sqlite-with-fred/) - A simple tutorial on using SQLite with Node-RED. 
+- [MQTT Warn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services. [More info](http://jpmens.net/2014/02/17/introducing-mqttwarn-a-pluggable-mqtt-notifier/)
