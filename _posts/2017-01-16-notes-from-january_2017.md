@@ -57,3 +57,16 @@ Some of the things that I have found interesting in January 2017.
 - [Puzzled Pint](http://www.puzzledpint.com/) - Local meetup of people that attempt to solve a puzzle while drinking a pint.
 - [Archery Tag](http://6packbeach.com/archery-tag/archery-tag-info/) - Its like paintball but with bows and arrows. Lots of fun with a big group. 
 
+## Home and building automation 
+
+- [Mosquitto](https://mosquitto.org/) - A well maintained, fully featured, open source MQTT Client/SErver/Pub/Sub/Broker. 
+- [phpMQTT](https://github.com/bluerhinos/phpMQTT) - A Simple, single file, MQTT Pub/Sub client. Does not support SSL/TLS 
+- [Awesome MQTT](https://github.com/hobbyquaker/awesome-mqtt) - A giant list of MQTT resources. 
+- [MQTT Spec](http://mqtt.org/) - MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport. It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium.
+- [MQTT websocket client](http://www.hivemq.com/demos/websocket-client/) - A client for testing your MQTT broker's websocket interface. 
+- [Install and secure the Mosquitto MQTT broker on ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04) - A create tutorial on how to get started with the Mosquitto MQTT broker.
+- [Node Red](https://nodered.org/) - Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways. Works with Raspberry PI and such. 
+- [Installing and setup for Node-RED](https://www.digitalocean.com/community/tutorials/how-to-connect-your-internet-of-things-with-node-red-on-ubuntu-16-04) - Install Node.js and Node-RED, get an SSL certificate from Let's Encrypt, and use Nginx to handle secure connections for Node-RED.
+- [LoRaWAN](https://www.lora-alliance.org/For-Developers/LoRaWANDevelopers) - Long Range Low Power Wide Area Network made for embeded devices. 
+- [Developing IoT Mashups with Docker, MQTT, Node-RED, InfluxDB, Grafana](http://air.imag.fr/index.php/Developing_IoT_Mashups_with_Docker,_MQTT,_Node-RED,_InfluxDB,_Grafana) A great intro to one persons home automation stack. 
+- [Using SQLite with Node-RED](http://developers.sensetecnic.com/article/using-sqlite-with-fred/) - A simple tutorial on using SQLite with Node-RED. 
