@@ -19,6 +19,7 @@ Some of the things that I have found interesting in January 2017.
 - [RPI Music Player](http://www.rpimusicplayer.com/) - A Raspberry pi music player project for streaming music from devices.
 - [Rune Audio](http://www.runeaudio.com/features/) - another Embeded music player project simlare to the RPI Music player. Used to stream music from devices to your stereo.
 - [Simple LED matrix made out of solo cups](https://www.instagram.com/p/BKsnl29DW3A/). 
+- [Emulator in a NES Cartridge](https://howchoo.com/g/mti0oge5nzk/pi-cart-a-raspberry-pi-retro-gaming-rig-in-an-nes-cartridge)
  
 ## Tips and tricks
  
