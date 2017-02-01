@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Notes from February 2017
-date: '2017-02-010:01'
+date: '2017-02-01 00:01'
 author: funvill
 ---
 
