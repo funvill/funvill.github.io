@@ -16,4 +16,10 @@ Some of the things that I have found interesting in February 2017.
 
 * [Novel Updates](http://www.novelupdates.com/) - Human translated novels, Chinese. Korean and Japanese to English. 
 
+## Art/Paper 
+
+- [Geometric paper sculptures from Matthew Shlian](http://www.thisiscolossal.com/2017/01/new-geometric-paper-sculptures-from-matthew-shlian/?src=footer)
+- [Colorful Paper Village Installations for Hermes by Zim & Zou](http://www.thisiscolossal.com/2017/01/colorful-paper-village-installations-for-hermes-by-zim-zou/) 
+
+
 
