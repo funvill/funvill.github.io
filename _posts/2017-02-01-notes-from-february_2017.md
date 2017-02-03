@@ -11,6 +11,7 @@ Some of the things that I have found interesting in February 2017.
 ## Tips and tricks 
 
 * [Four column ASCII](https://garbagecollected.org/2017/01/31/four-column-ascii/) - A better way of looking at the standard ascii table. 
+* [A Simple Signaling and Protocol Method Determines Device Physical Location](https://www.maximintegrated.com/en/app-notes/index.mvp/id/4037) - Application note that describes how to find the physical location of a 1-Wire sensor on a wire. 
 
 ## Fiction 
 
