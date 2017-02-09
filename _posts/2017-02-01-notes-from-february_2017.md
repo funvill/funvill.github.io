@@ -10,12 +10,16 @@ Some of the things that I have found interesting in February 2017.
 
 ## Tips and tricks 
 
-* [Four column ASCII](https://garbagecollected.org/2017/01/31/four-column-ascii/) - A better way of looking at the standard ascii table. 
-* [A Simple Signaling and Protocol Method Determines Device Physical Location](https://www.maximintegrated.com/en/app-notes/index.mvp/id/4037) - Application note that describes how to find the physical location of a 1-Wire sensor on a wire. 
+- [Four column ASCII](https://garbagecollected.org/2017/01/31/four-column-ascii/) - A better way of looking at the standard ascii table. 
+- [A Simple Signaling and Protocol Method Determines Device Physical Location](https://www.maximintegrated.com/en/app-notes/index.mvp/id/4037) - Application note that describes how to find the physical location of a 1-Wire sensor on a wire. 
+
+## Articles
+
+- [Page weight matters on Youtube](http://blog.chriszacharias.com/page-weight-matters) - Optimizing the weight of a page, slowed down the overall page load times, because a large numbers of people who were previously unable to use YouTube before were suddenly able to.
 
 ## Fiction 
 
-* [Novel Updates](http://www.novelupdates.com/) - Human translated novels, Chinese. Korean and Japanese to English. 
+- [Novel Updates](http://www.novelupdates.com/) - Human translated novels, Chinese. Korean and Japanese to English. 
 
 ## Art/Paper 
 
