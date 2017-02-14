@@ -13,11 +13,11 @@ If you are a beginner, that wants to get into the craft of 3D printing, or are l
 ## Print something for me. 
 A 3D printing services is useful, If you are looking for a local 3D printing service and want the end product without having to do the work yourself. 
 
-[3D Hubs](https://www.3dhubs.com/3dprint#?place=Vancouver,%20Canada&latitude=49.262&longitude=-123.0923&shipsToCountry=CA&shipsToState=BC) is a online market of people with 3D printers that can print your object for you. Normally it takes about 48 hour to print and deliver the 3D printed object. Sometimes you can even meetup with these people and work together to get your product perfect. 
+- [3D Hubs](https://www.3dhubs.com/3dprint#?place=Vancouver,%20Canada&latitude=49.262&longitude=-123.0923&shipsToCountry=CA&shipsToState=BC) is a online market of people with 3D printers that can print your object for you. Normally it takes about 48 hour to print and deliver the 3D printed object. Sometimes you can even meetup with these people and work together to get your product perfect. 
 
-[Maker Labs](http://www.makerlabs.com/) is local maker space with lots of different kinds of 3D printers. Their staff can either teach you how to use the 3D printer or print the object for you. They are a great group of knowledgeable people. 780 East Cordova Street,Vancouver. Open 12-9 PM, 778.984.7299
+- [Maker Labs](http://www.makerlabs.com/) is local maker space with lots of different kinds of 3D printers. Their staff can either teach you how to use the 3D printer or print the object for you. They are a great group of knowledgeable people. 780 East Cordova Street,Vancouver. Open 12-9 PM, 778.984.7299
 
-[Shapeways](https://www.shapeways.com/) is a great online service for 3D printing exotic materials like gold, silver, porcelain, aluminum, etc.. Their prints are always perfect but they do cost more then 3D Hubs. They are not local but they will ship to Vancouver, and anywhere else. 
+- [Shapeways](https://www.shapeways.com/) is a great online service for 3D printing exotic materials like gold, silver, porcelain, aluminum, etc.. Their prints are always perfect but they do cost more then 3D Hubs. They are not local but they will ship to Vancouver, and anywhere else. 
 
 ## Buying a 3D printer
 
@@ -52,5 +52,5 @@ After you know how to use a 3D printer, the next thing is to join a community an
 
 ## Places to avoid 
 
-The worst place to print or learn about 3D printing in Vancouver is, [The Vancouver hackspace](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace) (VHS). Their tools are constantly broken, they have no staff, and the volunteers that run the 3D printers are horrible people (specifically Kevin MacDonald). If your first experience is from VHS then you probably won't like 3D printing. They do a lot of harm to the 3D printing community and make it harder for others to get into it. Avoid them at costs! Luckily there are a lots of alternatives. 
+The worst place to print or learn about 3D printing in Vancouver is, [The Vancouver hackspace](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace) (VHS). Their tools are constantly broken, they have no staff, and the volunteers that run the 3D printers are horrible people. If your first experience is from VHS then you probably won't like 3D printing. They do a lot of harm to the 3D printing community and make it harder for others to get into it. Avoid them at costs! Luckily there are a lots of alternatives. 
 
