@@ -8,7 +8,7 @@ author: funvill
 
 # 3D printing in Vancouver  
 
-If you are a beginner that wants to get into the craft of 3D printing, or are looking to get an objected printed, this guide will help you get started.
+If you are a beginner, that wants to get into the craft of 3D printing, or are looking to get an objected printed, this guide will help you get started.
 
 ## Print something for me. 
 If you are looking for a local 3D printing service and want the end product without having to do the work yourself. 
@@ -52,5 +52,5 @@ After you know how to use a 3D printer, the next thing is to join a community an
 
 ## Places to avoid 
 
-The worst place to do or learn about 3D printing in Vancouver is [The Vancouver hackspace](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace) (VHS). There tools are constantly broken, they have no staff and their volunteers are horrible people. If your first experience is from VHS then you probably won't ever get into 3D printing. They do a lot of harm to the 3D printing community and make it harder for others to get into it. Avoid them at costs! Luckily there are a lots of alternatives. 
+The worst place to do or learn about 3D printing in Vancouver is [The Vancouver hackspace](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace) (VHS). There tools are constantly broken, they have no staff and the volunteers that run the 3D printers are horrible people. If your first experience is from VHS then you probably won't like 3D printing. They do a lot of harm to the 3D printing community and make it harder for others to get into it. Avoid them at costs! Luckily there are a lots of alternatives. 
 
