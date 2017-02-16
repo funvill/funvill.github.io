@@ -13,10 +13,12 @@ Some of the things that I have found interesting in February 2017.
 - [Four column ASCII](https://garbagecollected.org/2017/01/31/four-column-ascii/) - A better way of looking at the standard ascii table. 
 - [A Simple Signaling and Protocol Method Determines Device Physical Location](https://www.maximintegrated.com/en/app-notes/index.mvp/id/4037) - Application note that describes how to find the physical location of a 1-Wire sensor on a wire. 
 - [crontab.guru](https://crontab.guru/#0_18_*_*_2) - A generator for crontab
+- [HTML Reference](http://htmlreference.io/) - A very clean guide on html5 
 
 ## Articles
 
 - [Page weight matters on Youtube](http://blog.chriszacharias.com/page-weight-matters) - Optimizing the weight of a page, slowed down the overall page load times, because a large numbers of people who were previously unable to use YouTube before were suddenly able to.
+- [The Google Analytics setup I use](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/) - A indepth look into setting up Google Analytics.
 
 ## Fiction 
 
