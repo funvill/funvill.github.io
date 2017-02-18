@@ -54,9 +54,8 @@ Some of the things that I have found interesting in February 2017.
 ## Projects 
 
 - [Mongoose OS](https://mongoose-os.com/) - An open source Operating System for the Internet of Things. Supported microcontrollers: ESP32, ESP8266, STM32, TI CC3200, Amazon AWS IoT integrated
-- [Lasercut & 3D printed Platonic Solids](https://www.thingiverse.com/thing:1862570) - Strictly Platonic. The verticies work for any lasercut tile that has the hole 15mm from the edge. M3 screws should self-tap nicely into the plastic. (I used ordinary PLA and had no problem). 
-
-![Strictly Platonic](http://blog.abluestar.com/public/uploads/StrictlyPlatonic.jpg "Strictly Platonic") 
+- [Data Clock (Cloud + Amazon Echo + LED's = Artistic Data!)](https://www.instructables.com/id/Data-Clock-Cloud-Amazon-Echo-LEDs-Artistic-Data/) ![Clock](http://blog.abluestar.com/public/uploads/clock.jpg "Clock") 
+- [Lasercut & 3D printed Platonic Solids](https://www.thingiverse.com/thing:1862570) - Strictly Platonic. The verticies work for any lasercut tile that has the hole 15mm from the edge. M3 screws should self-tap nicely into the plastic. (I used ordinary PLA and had no problem). ![Strictly Platonic](http://blog.abluestar.com/public/uploads/StrictlyPlatonic.jpg "Strictly Platonic") 
 
 
 
