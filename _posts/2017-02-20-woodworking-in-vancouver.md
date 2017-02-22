@@ -8,7 +8,7 @@ author: funvill
 
 # Wood working in Vancouver
 
-Woodworking can be a very rewarding hobby, and Vancouver is a great place to get into the craft. If you are an experienced woodworker looking for a shop, or a beginner that is looking to get started this is the guild for you.
+Woodworking can be a very rewarding hobby, and Vancouver is a great place to get into the craft. If you are an experienced woodworker looking for a shop, or a beginner that is looking to get started this is the guide for you.
 
 ## Woodworking shops
 
@@ -16,7 +16,7 @@ There are only a few good rent-able woodworking shops in Vancouver. This is beca
 
 - [Maker Labs](http://www.makerlabs.com/) - A 26,000sf maker space that has a clean, well equipped woodworking shop. They provided regular courses on many different topics as well as safety courses. Their membership rates are very competitive with other shops. Among their extensive tool list, they also have a full sheet (4x8) CNC cutter ([Shopbot](http://shopbottools.com/)) that is extremely useful for furniture projects. 780 East Cordova Street,Vancouver. Open 12-9 PM, 778.984.7299 [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/MakerLabsVan), [<i class="fa fa-instagram" aria-hidden="true"></i>](http://instagram.com/makerlabs), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/makerlabs)
 - [Vancouver Community Lab](http://vancommunitylab.com/workshops/) - Is a maker space for metal and wood working. They have good selection of wood working tools and lots of space. They run woodworking workshops but not on a regular schedule. While their membership rates are good they currently have reached their membership cap and are not accepting new members ([wait list](http://vancommunitylab.com/membership/)). 1907 Triumph St, Vancouver.
-- [Round House](http://roundhouse.ca/programs/adult/) - Has drop-in nights for people working on their own projects. They offer amazing courses, see below.
+- [Round House](http://roundhouse.ca/programs/adult/) - Weekly drop-in nights for people working on their own projects. They offer amazing courses, see below.
 
 ## Single day workshops and courses
 
@@ -24,12 +24,12 @@ Doing a workshop or course is a great way to get started with woodworking.
 
 - [Round House](http://roundhouse.ca/programs/adult/) - An amazing set of regulare course to get you started with woodworking. From beginner intro courses to artisan hand tools courses, the round house has it all. They also have drop in nights once a week. Their instructors are experienced and passionate about their craft. [Urban Woodworker](http://www.urbanwoodworker.com/) partners with the *Round House* to provide the hand tools workshops.
 - [Maker Labs](http://www.makerlabs.com/) - Runs regular courses on many different topics with an amazing fully equipped workshop.
-- [Lee Valley](http://www.leevalley.com/en/home/SeminarList.aspx?rs=20) In-Store Seminars - Regulare course from one of the main woodworking stores in Vancouver. The prices range from $50-$300.
+- [Lee Valley](http://www.leevalley.com/en/home/SeminarList.aspx?rs=20) In-Store Seminars offer regulare course from experenced people. Lee Valley is one of the main woodworking stores in Vancouver. 
 - [Woodshop COOP](https://woodshop.coop/workshops/) - Runs a 1 day (8 hour),  workshop on reclaimed wood furniture. Great for people that are into the design side of woodworking. 51 Southern St in the False Creek Flats near Main & Terminal
 
 ## Inspiration 
 
-There is a huge amount of online woodworking resources, way too many to list. This is a list of some of my favorite online resources. When I am looking for a new woodworking project I tend to search thought [Instructables woodworking](https://www.instructables.com/howto/woodworking/) how-to guides, [<i class="fa fa-instagram" aria-hidden="true"></i>Instagram #woodworking](https://www.instagram.com/explore/tags/woodworking/) for beautiful finished projects, and [Open Desk](https://www.opendesk.cc/) for woodworking plans. 
+There is a huge amount of online woodworking resources, way too many to list. This is a list of some of my favorite online resources. When I am looking for a new woodworking project I tend to search thought [Instructables woodworking](https://www.instructables.com/howto/woodworking/) how-to guides, [<i class="fa fa-instagram" aria-hidden="true"></i> Instagram #woodworking](https://www.instagram.com/explore/tags/woodworking/) for beautiful finished projects, and [Open Desk](https://www.opendesk.cc/) for woodworking plans. 
 
 
 ## Schools
@@ -50,6 +50,6 @@ You are going to need some wood for making awesome projects.
  
 ## Places to avoid
 
-Vancouver has a lot of great resources for woodworking but there are also some places that are horrible. If you have had the unfortunate experience of going to The [Vancouver Hackspace](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace) (VHS), please don't give up on woodworking!, and try one of the great alternatives in Vancouver. Their small selection of used recycled tools are constantly broken. dull, or unsafe. Their volunteers are all but useless, and teach bad habits. They are not adequate insured and are a accident waiting to happen. Their space is too small to a project of any reasonable size. No proper ventilation, etc... 
+Vancouver has a lot of great resources for woodworking but there are also some places that are horrible. If you have had the unfortunate experience of going to The [Vancouver Hackspace](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace) (VHS), please don't give up on woodworking! and try one of the great alternatives in Vancouver. Their small selection of used recycled tools are constantly broken, dull, or unsafe. Their volunteers are all but useless, and teach bad unsafe habits. They are not adequate insured and are a accident waiting to happen. Their space is too small to a project of any reasonable size. No proper ventilation, the list goes on.
 
 Don't let the Vancouver hackspace ruin your experience with woodworking.
