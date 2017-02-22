@@ -69,3 +69,7 @@ Some of the things that I have found interesting in February 2017.
 
 - [Grotto Spa](http://grottospa.com/) - Underground rock cavern pools 
 - [Himalayan salt cave spa](https://www.saltwonder.ca/)
+
+## Security 
+
+- [USB KILLER V3](https://www.usbkill.com/usb-killer/13-usb-killer-v3.html#/2-edition-anonymous_editio) - When plugged into a device, the USB Killer rapidly charges its capacitors from the USB power lines. When the device is charged, -200VDC is discharged over the data lines of the host device. This charge/discharge cycle is repeated many times per second, until the USB Killer is removed.
