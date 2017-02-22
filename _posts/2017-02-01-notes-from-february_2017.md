@@ -78,3 +78,6 @@ Some of the things that I have found interesting in February 2017.
 ## Games 
 
 - [Air Console](https://www.airconsole.com/) - AirConsole is an online platform that transforms your browser into a video game console and your smartphones into gamepads.
+- [Danmaku Death](https://play.google.com/store/apps/details?id=jakiganicsystems.danmakudeath&hl=en&rdid=jakiganicsystems.danmakudeath) - "Barrage", "Curtain Fire" or "Bullet Hell". Many bullets will attack you. Avoid them all and destroy the enemy!
+- [Lightbot](https://play.google.com/store/apps/details?id=com.lightbot.lightbot&hl=en) - Lightbot is a programming puzzle game: a puzzle game that uses game mechanics that are firmly rooted in programming concepts. 
+
