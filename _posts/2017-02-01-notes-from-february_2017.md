@@ -48,6 +48,8 @@ Some of the things that I have found interesting in February 2017.
 
 - [Product Chart](https://www.productchart.com/) - Quickly compaire many different products in a catagory together. 
 - [Largest API Directory](https://www.programmableweb.com/category/all/apis) - A directory of existing APIs, and articles on making APIs 
+- [Google's API Guidelines](https://cloud.google.com/apis/design/)
+- [Microsoft's API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
 ## Data and tracking 
 
