@@ -73,3 +73,8 @@ Some of the things that I have found interesting in February 2017.
 ## Security 
 
 - [USB KILLER V3](https://www.usbkill.com/usb-killer/13-usb-killer-v3.html#/2-edition-anonymous_editio) - When plugged into a device, the USB Killer rapidly charges its capacitors from the USB power lines. When the device is charged, -200VDC is discharged over the data lines of the host device. This charge/discharge cycle is repeated many times per second, until the USB Killer is removed.
+
+
+## Games 
+
+- [Air Console](https://www.airconsole.com/) - AirConsole is an online platform that transforms your browser into a video game console and your smartphones into gamepads.
