@@ -36,6 +36,10 @@ There is a huge amount of online woodworking resources, way too many to list. Th
 
 Vancouver have many schools to gain a formal education in woodworking. [BCIT](http://www.bcit.ca/study/programs/2050ttcert), [Langara](http://langara.ca/continuing-studies/programs-and-courses/programs/vsb-woodworking/index.html), and [ITA BC](http://www.itabc.ca/program/cabinet-maker-joiner) have a great selection of full-time and part-time programs. Many of other local community collages/university such as [VCC](http://www.vcc.ca/), [Capilano University](https://www.capilanou.ca/), and [UBC](http://wood.ubc.ca/) also offer piecemeal woodworking courses as well.
 
+## Online community
+
+- [@BC_Wood](https://twitter.com/BC_Wood) - BC Wood is a not-for-profit trade association that has represented British Columbia’s value-added wood products industry for over 20 years. [bcwood.com](http://www.bcwood.com/)
+
 ## Tools
 
 Sooner or later you are going to need to buy some of your own woodworking tools. [Lee Valley](http://www.leevalley.com) is your one stop shop for everything to do with woodworking. [KMS Tools](https://www.kmstools.com/) and [Summit Tools](http://www.summittools.com/) have a great selection too and sometimes has better prices then Lee Valley.
