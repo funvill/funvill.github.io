@@ -73,7 +73,7 @@ Some of the things that I have found interesting in February 2017.
 
 - [Grotto Spa](http://grottospa.com/) - Underground rock cavern pools 
 - [Himalayan salt cave spa](https://www.saltwonder.ca/)
-- [Vancouver Open Data Day](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day) 
+- March 4, 2017 [Vancouver Open Data Day](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day) 
 
 ## Security 
 
