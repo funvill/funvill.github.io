@@ -39,6 +39,7 @@ Vancouver have many schools to gain a formal education in woodworking. [BCIT](ht
 ## Online community
 
 - [@BC_Wood](https://twitter.com/BC_Wood) - BC Wood is a not-for-profit trade association that has represented British Columbia’s value-added wood products industry for over 20 years. [bcwood.com](http://www.bcwood.com/)
+- [@WoodWorkingGuys](https://twitter.com/WoodWorkingGuys)
 
 ## Tools
 
