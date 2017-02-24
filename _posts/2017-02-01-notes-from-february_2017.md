@@ -50,6 +50,7 @@ Some of the things that I have found interesting in February 2017.
 - [Largest API Directory](https://www.programmableweb.com/category/all/apis) - A directory of existing APIs, and articles on making APIs 
 - [Google's API Guidelines](https://cloud.google.com/apis/design/)
 - [Microsoft's API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+- [List of people who have been pied](https://en.wikipedia.org/wiki/List_of_people_who_have_been_pied)
 
 ## Data and tracking 
 
@@ -72,6 +73,7 @@ Some of the things that I have found interesting in February 2017.
 
 - [Grotto Spa](http://grottospa.com/) - Underground rock cavern pools 
 - [Himalayan salt cave spa](https://www.saltwonder.ca/)
+- [Vancouver Open Data Day](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day) 
 
 ## Security 
 
