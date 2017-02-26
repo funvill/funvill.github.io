@@ -27,7 +27,7 @@ Some of the things that I have found interesting in February 2017.
 ## Art 
 
 - [1000 Errors - laser cut art, clothing, prints](https://www.facebook.com/1000ErrorsLaserCutArt/) - an awesome collection of layered laser cut art. 
-- [Random International](https://random-international.com/work/) - Random International is a collaborative studio for experimental practice within contemporary art. Founded in 2005 by Hannes Koch and Florian Ortkrass, the studio now includes a larger team in London and Berlin. Questioning aspects of identity and autonomy in the post-digital age, Random International’s work invites active participation
+- [Random International](https://random-international.com/work/) - Random International is a collaborative studio for experimental practice within contemporary art. Founded in 2005 by Hannes Koch and Florian Ortkrass, the studio now includes a larger team in London and Berlin. Questioning aspects of identity and autonomy in the post-digital age, Random International’s work invites active participation. I liked the [fly](https://random-international.com/work/fly/) exibit. 
 
 ### Paper
 
