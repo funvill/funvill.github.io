@@ -52,9 +52,10 @@ Some of the things that I have found interesting in February 2017.
 - [Microsoft's API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 - [List of people who have been pied](https://en.wikipedia.org/wiki/List_of_people_who_have_been_pied)
 
-## Data and tracking 
+## Data, tracking, and Visualizations
 
 - [TRAKT](https://trakt.tv) - Automatically track what you're watching. Find where to watch TV & movies and discover what's hot.
+- [A Million lines of code](http://www.informationisbeautiful.net/visualizations/million-lines-of-code/) - A visual graph of how big a million lines of code is. 
 
 ### Maps 
 
