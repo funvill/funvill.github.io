@@ -68,7 +68,8 @@ Some of the things that I have found interesting in February 2017.
 - [Mongoose OS](https://mongoose-os.com/) - An open source Operating System for the Internet of Things. Supported microcontrollers: ESP32, ESP8266, STM32, TI CC3200, Amazon AWS IoT integrated
 - [Data Clock (Cloud + Amazon Echo + LED's = Artistic Data!)](https://www.instructables.com/id/Data-Clock-Cloud-Amazon-Echo-LEDs-Artistic-Data/) CNC clock with IoT functions ![Clock](http://blog.abluestar.com/public/uploads/clock.jpg "Clock") 
 - [Lasercut & 3D printed Platonic Solids](https://www.thingiverse.com/thing:1862570) - Strictly Platonic. The verticies work for any lasercut tile that has the hole 15mm from the edge. M3 screws should self-tap nicely into the plastic. (I used ordinary PLA and had no problem). ![Strictly Platonic](http://blog.abluestar.com/public/uploads/StrictlyPlatonic.jpg "Strictly Platonic") 
-- [3D paradox wall art puzzle](https://imgur.com/gallery/W3KRB) - Made from cardboard. 
+- [3D paradox wall art puzzle](https://imgur.com/gallery/W3KRB) - Made from cardboard. ![3D paradox](http://blog.abluestar.com/public/uploads/KsD4FNC.jpg "[3D paradox")
+- [SPACE10 open sources The Growroom](https://medium.com/space10-the-farm/space10-open-sources-the-growroom-aa7ca6621715#.x009s42fn) - CNC designs for creating a grow room ![growroom](http://blog.abluestar.com/public/uploads/1-QN5_BJRFEHKJF8jMTF9qwA.jpeg "growroom")
 
 ## Vancouver / Local 
 
