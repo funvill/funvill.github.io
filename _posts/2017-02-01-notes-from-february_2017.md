@@ -22,7 +22,8 @@ Some of the things that I have found interesting in February 2017.
 
 ## News 
 
-- [pinboard, Popular links](https://pinboard.in/popular/) - A list of the most populare links on pinboard. 
+- [Pinboard, Popular links](https://pinboard.in/popular/) - A list of the most populare links on pinboard. 
+- [Pocket, popular links](https://getpocket.com/explore/?src=top_navbar) - The most populare links on Pocket
 
 ## Fiction 
 
