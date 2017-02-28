@@ -20,6 +20,10 @@ Some of the things that I have found interesting in February 2017.
 - [Page weight matters on Youtube](http://blog.chriszacharias.com/page-weight-matters) - Optimizing the weight of a page, slowed down the overall page load times, because a large numbers of people who were previously unable to use YouTube before were suddenly able to.
 - [The Google Analytics setup I use](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/) - A indepth look into setting up Google Analytics.
 
+## News 
+
+- [pinboard, Popular links](https://pinboard.in/popular/) - A list of the most populare links on pinboard. 
+
 ## Fiction 
 
 - [Novel Updates](http://www.novelupdates.com/) - Human translated novels, Chinese. Korean and Japanese to English. 
