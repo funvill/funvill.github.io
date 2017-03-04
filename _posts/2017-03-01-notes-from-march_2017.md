@@ -15,3 +15,7 @@ Some of the things that I have found interesting in March 2017.
 ## Quotes 
 
 - "It is no measure of health to be well adjusted to a profoundly sick society" - [Jiddu Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti)
+
+## Funny 
+
+- [TechMottos](https://twitter.com/TechMottos) - "You could pick five random words and wind up with a better motto." - [@pinboard](https://twitter.com/pinboard)
