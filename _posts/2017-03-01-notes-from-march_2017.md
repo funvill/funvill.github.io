@@ -19,3 +19,4 @@ Some of the things that I have found interesting in March 2017.
 ## Funny 
 
 - [TechMottos](https://twitter.com/TechMottos) - "You could pick five random words and wind up with a better motto." - [@pinboard](https://twitter.com/pinboard)
+- [r/expectedfactorial](https://www.reddit.com/r/expectedfactorial/top/)
