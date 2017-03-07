@@ -68,7 +68,7 @@ So many great resources for laser cutting. This section will grow over time as I
 - [Pedro Terra LAB](http://www.pedroterralab.com/open-source-furniture/) - Pedro Terra LAB Open source furniture.
 
 
-# Places to avoid
+## Places to avoid
 
 With all the good places in Vancouver to get your laser cutter projects done there bound to be a few bad places. The Vancouver Hackspace (VHS) is one of these horrible places. There laser cutter has been broken for weeks and with no timeline for when it will be fixed, its unreliable. The safety course is pathetic and will get people hurt. Their home made air filter (Safety equipment) is sketchy at best, they just don't care about the heath of their members or neighbors. Their community is [toxic, where even good people will fail at their projects](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace).
 
