@@ -31,6 +31,7 @@ Some of the things that I have found interesting in March 2017.
 ## Art 
 
 - [A Large Robotic Arm Futilely Tries to Clean a Blood Red Mess in the Art Installation ‘Can’t Help Myself’](https://laughingsquid.com/a-large-robotic-arm-futilely-tries-to-clean-a-blood-red-mess-in-the-art-installation-cant-help-myself/) 
+- [Logo Book](http://www.logobook.com/) - A gallery and showcase of the best logo design inspiration in the world, featuring over 5000 logo's searchable by designer, shape, object, and style
 
 ## Nature 
 
