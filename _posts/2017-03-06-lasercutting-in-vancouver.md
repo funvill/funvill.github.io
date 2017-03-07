@@ -23,6 +23,7 @@ Most of my open source laser cutter projects can be found in my github repos. ( 
 - [Laser cut wooden maps with public data](https://www.instructables.com/id/Laser-cut-wooden-maps-with-public-data/)
 - [The 100 day project](https://blog.abluestar.com/projects/2015-The100DayProject) - Most of the projects are done with a laser cutter.
 - [50x50cm branches light box](https://www.instagram.com/p/BGUzWsNg5Xm/?taken-by=funvill)
+- [Layered paper craft of the iron giant](https://www.instagram.com/p/5tRMI1A5Xu/?taken-by=funvill)
 
 ## Where to get your projects done in vancouver
 
