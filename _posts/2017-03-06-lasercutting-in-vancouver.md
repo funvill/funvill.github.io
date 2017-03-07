@@ -59,6 +59,15 @@ So many great resources for laser cutting. This section will grow over time as I
 - [@GabrielSchama](https://www.instagram.com/gabrielschama/) - Gabriel Arthur Harry Schama
 - [@MightAsWeld](https://www.instagram.com/mightasweld/) - David Fred.
 
+### Furniture
+
+- [Open Desk](https://www.opendesk.cc/) - Free open-source CNC furniture and an experiment in the possibilities of distributed manufacturing.
+- [AtFab](http://atfab.co/) - Free open-source CNC furniture. Creating fully parametric fabable furnishings whose dimensions, details, material thickness, and slot size can be easily transformed and fabricated
+- [Sketch Chair](http://www.sketchchair.cc) - SketchChair is a free, open-source software tool that allows anyone to easily design and build their own digitally fabricated furniture.
+- [Open Design Furniture](http://www.opendesignfurniture.com/) - An Amazing collection of open source furniture from many different sites and designers.
+- [Pedro Terra LAB](http://www.pedroterralab.com/open-source-furniture/) - Pedro Terra LAB Open source furniture.
+
+
 # Places to avoid
 
 With all the good places in Vancouver to get your laser cutter projects done there bound to be a few bad places. The Vancouver Hackspace (VHS) is one of these horrible places. There laser cutter has been broken for weeks and with no timeline for when it will be fixed, its unreliable. The safety course is pathetic and will get people hurt. Their home made air filter (Safety equipment) is sketchy at best, they just don't care about the heath of their members or neighbors. Their community is [toxic, where even good people will fail at their projects](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace).
