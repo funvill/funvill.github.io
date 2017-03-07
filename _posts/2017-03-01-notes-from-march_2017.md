@@ -20,3 +20,11 @@ Some of the things that I have found interesting in March 2017.
 
 - [TechMottos](https://twitter.com/TechMottos) - "You could pick five random words and wind up with a better motto." - [@pinboard](https://twitter.com/pinboard)
 - [r/expectedfactorial](https://www.reddit.com/r/expectedfactorial/top/)
+
+## Art 
+
+- [A Large Robotic Arm Futilely Tries to Clean a Blood Red Mess in the Art Installation ‘Can’t Help Myself’](https://laughingsquid.com/a-large-robotic-arm-futilely-tries-to-clean-a-blood-red-mess-in-the-art-installation-cant-help-myself/) 
+
+## Nature 
+
+- [oroville dam spillway](https://imgur.com/gallery/mpUge) - A dam's spill way collapses
