@@ -20,6 +20,10 @@ When I got a laser cutter for the first time I was hooked. I spent every spare m
 
 Most of my open source laser cutter projects can be found in my github repos. ( [@funvill](https://github.com/funvill?tab=repositories) )
 
+- [Laser cut wooden maps with public data](https://www.instructables.com/id/Laser-cut-wooden-maps-with-public-data/)
+- [The 100 day project](https://blog.abluestar.com/projects/2015-The100DayProject) - Most of the projects are done with a laser cutter.
+- [50x50cm branches light box](https://www.instagram.com/p/BGUzWsNg5Xm/?taken-by=funvill)
+
 ## Where to get your projects done in vancouver
 
 If you are in Vancouver, you are lucky to have many places to get your projects cut.
