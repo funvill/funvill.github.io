@@ -27,6 +27,8 @@ Some of the things that I have found interesting in March 2017.
 
 - [TechMottos](https://twitter.com/TechMottos) - "You could pick five random words and wind up with a better motto." - [@pinboard](https://twitter.com/pinboard)
 - [r/expectedfactorial](https://www.reddit.com/r/expectedfactorial/top/)
+- [Noisebridge Seinfeld](https://twitter.com/noisebridge_sei/) - Some of my favorites are [Noisebridge's 3rd 5th anniversary party](https://twitter.com/noisebridge_sei/status/324685423186173956), [claiming to be friends with Jacob Applebaum](https://twitter.com/noisebridge_sei/status/324599417816637442), [Jerry's girlfriend breaks](https://twitter.com/noisebridge_sei/status/324589177196904448)
+- [Shit Noisebridge Says](http://shitnoisebridgesays.tumblr.com/) - Some of my favorites are [Sleep hacking](http://shitnoisebridgesays.tumblr.com/post/58176868931/sleep-hacking), [experimental medications with needles](http://shitnoisebridgesays.tumblr.com/post/53448684902/noisebridge-needle-time), [Buying meth is easier](http://shitnoisebridgesays.tumblr.com/post/49268983264/because-buying-meth-is-easier-than-buying-allergy)
 
 ## Art 
 
