@@ -25,3 +25,7 @@ ToDo: Flesh this out with examples and reasons.
 - You can only learn new skills when you have the freedom to try new stuff. 
 - You can read about anything but unless you actually do it, you will never know anything. Also practical work is better then just test jigs
 - Bad news easily is fixable, bad news late is a disasters
+
+# Makeing 
+
+- Always cut away from yourself. 
