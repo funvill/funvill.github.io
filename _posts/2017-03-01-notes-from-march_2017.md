@@ -8,6 +8,10 @@ author: funvill
 
 Some of the things that I have found interesting in March 2017.
 
+## Thinkgs I made
+
+- [Laser Kaleidoscope](https://blog.abluestar.com/projects/2017-laser-kaleidoscope) - A circular light box that incorporates moving lasers which generate twisting fractal shapes. [Video](https://www.youtube.com/watch?v=XHqZNfPvEVY)
+
 ## Projects 
 
 - [Phenakistoscopes](http://makezine.com/projects/animated-records-phenakistoscopes/) - A Mesmerizing Spinning Optical Illusion
