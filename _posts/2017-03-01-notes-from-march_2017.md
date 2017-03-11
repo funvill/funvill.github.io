@@ -20,9 +20,9 @@ Some of the things that I have found interesting in March 2017.
 
 ## Movies / TV 
 
-- [The Void](http://www.imdb.com/title/tt4255304/) - When police officer Carter (Aaron Poole) discovers a blood-soaked man limping down a deserted road, he rushes him to a local hospital with a barebones, night shift staff. [Trailer](https://www.youtube.com/watch?v=IkmSNt4moNg) 
+- [The Void](http://www.imdb.com/title/tt4255304/) - When police officer Carter (Aaron Poole) discovers a blood-soaked man limping down a deserted road, he rushes him to a local hospital with a barebones, night shift staff. [Trailer](https://www.youtube.com/watch?v=IkmSNt4moNg)
 - [Alone](http://www.imdb.com/title/tt4803766/) - Ten survival "experts" attempt to survive alone. The winner receives $500,000. 
-- 
+
 
 ## Quotes 
 
