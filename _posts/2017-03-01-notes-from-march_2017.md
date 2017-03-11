@@ -14,10 +14,15 @@ Some of the things that I have found interesting in March 2017.
 
 <iframe src='https://gfycat.com/ifr/WarmheartedFewHoverfly' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
 
-
 ## Comics 
 
 - [Economix](http://economixcomix.com/) - Economix is a graphic novel that explains the economy. Economix gives the whole story of the economy, from the rise of capitalism to Occupy Wall Street. [TTP](http://economixcomix.com/home/tpp/), [Net-Neutrality](http://economixcomix.com/home/net-neutrality/) 
+
+## Movies / TV 
+
+- [The Void](http://www.imdb.com/title/tt4255304/) - When police officer Carter (Aaron Poole) discovers a blood-soaked man limping down a deserted road, he rushes him to a local hospital with a barebones, night shift staff. [Trailer](https://www.youtube.com/watch?v=IkmSNt4moNg) 
+- [Alone](http://www.imdb.com/title/tt4803766/) - Ten survival "experts" attempt to survive alone. The winner receives $500,000. 
+- 
 
 ## Quotes 
 
@@ -34,6 +39,7 @@ Some of the things that I have found interesting in March 2017.
 
 - [A Large Robotic Arm Futilely Tries to Clean a Blood Red Mess in the Art Installation ‘Can’t Help Myself’](https://laughingsquid.com/a-large-robotic-arm-futilely-tries-to-clean-a-blood-red-mess-in-the-art-installation-cant-help-myself/) 
 - [Logo Book](http://www.logobook.com/) - A gallery and showcase of the best logo design inspiration in the world, featuring over 5000 logo's searchable by designer, shape, object, and style
+- Vancouver [topographic wood map](http://www.gregrae.com/) - Made with a CNC router at MakerLabs, [Build video](https://www.youtube.com/watch?v=uIr_u8qlSvM)
 
 ## Nature 
 
@@ -42,3 +48,12 @@ Some of the things that I have found interesting in March 2017.
 ## Devlopment 
 
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - To generate buzz and get users.
+- [Servo's Hunting](https://forums.adafruit.com/viewtopic.php?f=19&t=113369) - The feedback loop will constantly overshoot the correct position, then overcorrect the other way.
+
+## Data 
+
+- City of Vancouver [Crime data](http://data.vancouver.ca/datacatalogue/crime-data.htm) - This is a dataset of crime data on a year-by-year basis beginning in 2003.
+- City of Vancouver [GeoDash Crime Map](http://geodash.vpd.ca/) - The GeoDash interactive mapping tool is intended to enhance community awareness of policing activity in Vancouver.  
+
+
+
