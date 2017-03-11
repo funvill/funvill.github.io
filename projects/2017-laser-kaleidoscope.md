@@ -11,7 +11,7 @@ A circular light box that incorporates moving lasers which generate twisting fra
 [![Laser Kaleidoscope](https://img.youtube.com/vi/XHqZNfPvEVY/0.jpg)](https://www.youtube.com/watch?v=XHqZNfPvEVY)
 
 # Wiring
-![Wiring](/public/uploads/2017/16x_bb.png "Wiring") 
+![Wiring](/public/uploads/16x_bb.png "Wiring") 
 
 # Parts
 
