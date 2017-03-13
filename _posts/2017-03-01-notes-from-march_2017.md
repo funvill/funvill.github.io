@@ -39,6 +39,15 @@ Some of the things that I have found interesting in March 2017.
 - [Noisebridge Seinfeld](https://twitter.com/noisebridge_sei/) - Some of my favorites are [Noisebridge's 3rd 5th anniversary party](https://twitter.com/noisebridge_sei/status/324685423186173956), [claiming to be friends with Jacob Applebaum](https://twitter.com/noisebridge_sei/status/324599417816637442), [Jerry's girlfriend breaks](https://twitter.com/noisebridge_sei/status/324589177196904448)
 - [Shit Noisebridge Says](http://shitnoisebridgesays.tumblr.com/) - Some of my favorites are [Sleep hacking](http://shitnoisebridgesays.tumblr.com/post/58176868931/sleep-hacking), [experimental medications with needles](http://shitnoisebridgesays.tumblr.com/post/53448684902/noisebridge-needle-time), [Buying meth is easier](http://shitnoisebridgesays.tumblr.com/post/49268983264/because-buying-meth-is-easier-than-buying-allergy)
 
+### Jokes 
+
+- This is my step ladder. I never knew my real ladder.
+- What's the difference between a hippo and a zippo?, One is really heavy, and the other is a little lighter.
+- A blind man walks into a bar. And a table. And a chair.
+- Two cows are sitting in a field, eating grass. One cow turns to the other and says "I'm really worried about this mad cow disease thing, aren't you?". The other cow replies "Doesn't bother me, I'm a chicken".
+- How many hipsters does it take to screw in a lightbulb? Its a pretty obscure number, you've probably never heard of it.
+- Did you hear about the hipster who burned his mouth? He eat his pizza _before_ it was cool.
+
 ## Art 
 
 - [A Large Robotic Arm Futilely Tries to Clean a Blood Red Mess in the Art Installation ‘Can’t Help Myself’](https://laughingsquid.com/a-large-robotic-arm-futilely-tries-to-clean-a-blood-red-mess-in-the-art-installation-cant-help-myself/) 
@@ -47,7 +56,7 @@ Some of the things that I have found interesting in March 2017.
 
 ## Nature 
 
-- [oroville dam spillway](https://imgur.com/gallery/mpUge) - A dam's spill way collapses
+- [Oroville dam spillway](https://imgur.com/gallery/mpUge) - A dam's spill way collapses
 
 ## Devlopment 
 
@@ -58,6 +67,10 @@ Some of the things that I have found interesting in March 2017.
 
 - City of Vancouver [Crime data](http://data.vancouver.ca/datacatalogue/crime-data.htm) - This is a dataset of crime data on a year-by-year basis beginning in 2003.
 - City of Vancouver [GeoDash Crime Map](http://geodash.vpd.ca/) - The GeoDash interactive mapping tool is intended to enhance community awareness of policing activity in Vancouver.  
+
+## Interesting 
+
+- [Wire-above-manhattan](http://mentalfloss.com/article/91594/theres-wire-above-manhattan-youve-probably-never-noticed) - It's called an eruv (plural eruvin). This allows people to freely communicate and socialize on the Sabbath—and carry whatever they please—without having to worry about breaking Jewish law. [Vancouver's, Eruv](https://www.google.com/maps/d/u/0/viewer?mid=1lvDpkRo5LvxYoHtnPy4197dw8UU&ll=49.237481658171426%2C-123.13711789999996&z=13)
 
 
 
