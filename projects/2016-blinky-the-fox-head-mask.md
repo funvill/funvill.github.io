@@ -4,14 +4,14 @@ title: (2016) Blinky the fox head mask
 excerpt: A low polygon fox head mask with an array of LEDS create patterns on the faces. 
 ---
 
-The design for the low polygon fox head mask came from [@wintercroft](https://www.instagram.com/wintercroft/) (Website](https://wintercroft.com/). I laser cut the mask out of [coroplast](https://en.wikipedia.org/wiki/Coroplast) and glued a soft backing on the inside. The insprided to cover the face of the mask with LEDs came from [@Wow_elec_tron](https://www.instagram.com/wow_elec_tron/). He makes some of the most amazing LED masks that I have ever seen. His masks can be purchased from his [Etsy store ElecDashTron](https://www.etsy.com/au/shop/ElecDashTron). 
+The design for the low polygon fox head mask came from [@wintercroft](https://www.instagram.com/wintercroft/) [Website](https://wintercroft.com/). I laser cut the mask out of [coroplast](https://en.wikipedia.org/wiki/Coroplast) and glued a soft backing on the inside. The insprided to cover the face of the mask with LEDs came from [@Wow_elec_tron](https://www.instagram.com/wow_elec_tron/). He makes some of the most amazing LED masks that I have ever seen. His masks can be purchased from his [Etsy store ElecDashTron](https://www.etsy.com/au/shop/ElecDashTron). 
 
-Project source code files can be found in this github project [HalloweenMask](https://github.com/funvill/HalloweenMask). * Note the design files for the low polygon fox head mask are not open source. 
+Project source code files can be found in this github project [HalloweenMask](https://github.com/funvill/HalloweenMask). *Note* the design files for the low polygon fox head mask are not open source. 
 
 ## Parts 
 
-- WS2812 LEDs
-- ESP8266 (WeMos D1 mini)
+- [WS2812 LEDs 144/meter](https://www.adafruit.com/products/1507)
+- ESP8266 [WeMos D1 mini](https://www.wemos.cc/product/d1-mini.html)
 
 ## Laying out the LEDs 
 
