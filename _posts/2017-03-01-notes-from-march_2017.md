@@ -11,6 +11,8 @@ Some of the things that I have found interesting in March 2017.
 ## Thinkgs I made
 
 - [Laser Kaleidoscope](https://blog.abluestar.com/projects/2017-laser-kaleidoscope) - A circular light box that incorporates moving lasers which generate twisting fractal shapes. [Video](https://www.youtube.com/watch?v=XHqZNfPvEVY)
+- [Thunderstorm Cloud](https://blog.abluestar.com/projects/2017-thunderstorm-cloud) - An interactive lamp that mimics thunderstorm cloud
+
 
 ## Projects 
 
