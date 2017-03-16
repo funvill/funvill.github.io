@@ -14,6 +14,7 @@ Some of the things that I have found interesting in March 2017.
 
 ## Projects 
 
+- [Lixie](https://www.tindie.com/products/connornishijima/lixie-an-led-alternative-to-the-nixie-tube/#) - An led alternative to the nixie tube. 
 - [Phenakistoscopes](http://makezine.com/projects/animated-records-phenakistoscopes/) - A Mesmerizing Spinning Optical Illusion
 
 <iframe src='https://gfycat.com/ifr/WarmheartedFewHoverfly' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
