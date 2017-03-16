@@ -76,6 +76,6 @@ Some of the things that I have found interesting in March 2017.
 - [Wire-above-manhattan](http://mentalfloss.com/article/91594/theres-wire-above-manhattan-youve-probably-never-noticed) - It's called an eruv (plural eruvin). This allows people to freely communicate and socialize on the Sabbath—and carry whatever they please—without having to worry about breaking Jewish law. [Vancouver's, Eruv](https://www.google.com/maps/d/u/0/viewer?mid=1lvDpkRo5LvxYoHtnPy4197dw8UU&ll=49.237481658171426%2C-123.13711789999996&z=13)
 - [List of north america festivals](https://www.everfest.com/fest300)
 - [A series of LLNL Atmospheric Nuclear Tests](https://www.youtube.com/playlist?list=PLvGO_dWo8VfcmG166wKRy5z-GlJ_OQND5) - Boom
-
+- [Nimuno](https://www.indiegogo.com/projects/nimuno-loops-the-toy-block-tape#/) - Lego Tape
 
 
