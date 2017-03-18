@@ -30,6 +30,8 @@ Some of the things that I have found interesting in March 2017.
 - [The Void](http://www.imdb.com/title/tt4255304/) (2016) - When police officer Carter (Aaron Poole) discovers a blood-soaked man limping down a deserted road, he rushes him to a local hospital with a barebones, night shift staff. [Trailer](https://www.youtube.com/watch?v=IkmSNt4moNg)
 - [Alone](http://www.imdb.com/title/tt4803766/) - Ten survival "experts" attempt to survive alone. The winner receives $500,000. 
 - [Hidden Figures](http://m.imdb.com/title/tt4846340/) (2016) - The story of a team of African-American women mathematicians who served a vital role in NASA during the early years of the US space program. [Trailer](https://www.youtube.com/watch?v=RK8xHq6dfAo) 
+- [Green Room (2015)](http://www.imdb.com/title/tt4062536/) - A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar
+- [Naked and Afraid](http://m.imdb.com/title/tt3007640/) - Each week, a new pair of total strangers are faced with the ultimate survival challenge: survive for 21 days together with no clothes or supplies in some of the most dangerous environments 
 
 ## Quotes 
 
