@@ -68,3 +68,7 @@ I spend a good majority of my day on my computer using these tools.
 # What would be your dream setup?
 
 I'm pretty happy with my setup for all practical intents and purposes these days. I have been waiting for a good version of augmented reality and smart contact lenses for a while now.
+
+I been meaning to get a 2FA hardware key like [yubikey](https://www.yubico.com/products/yubikey-hardware/), and if I never had to use a physical key again I would very happy. 
+
+
