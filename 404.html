@@ -10,10 +10,18 @@ permalink: 404.html
 </div>
 
 <script>
+if (window.location.href.substr(-1) == '/') {
+    alert("url: "+ window.location.href);
+    var sanitized = window.location.href.replace(/\/+$/, '');
+    alert("sanitized:" + sanitized );
+    location.replace(sanitized);
+}
+  
 $.get(
     "https://data.abluestar.com/log.php",
     {url : window.location.href },
     function(data) {
     }
 );
+  
 </script>
