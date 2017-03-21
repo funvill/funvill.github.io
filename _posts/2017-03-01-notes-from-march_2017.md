@@ -80,4 +80,6 @@ Some of the things that I have found interesting in March 2017.
 - [A series of LLNL Atmospheric Nuclear Tests](https://www.youtube.com/playlist?list=PLvGO_dWo8VfcmG166wKRy5z-GlJ_OQND5) - Boom
 - [Nimuno](https://www.indiegogo.com/projects/nimuno-loops-the-toy-block-tape#/) - Lego Tape
 
+## App and software
 
+- [Splitwise](https://www.splitwise.com/) - Splitwise is a free tool for friends and roommates to track bills and other shared expenses, so that everyone gets paid back. On the web, iPhone, and Android!
