@@ -75,6 +75,6 @@ So many great resources for laser cutting. This section will grow over time as I
 
 ## Places to avoid
 
-With all the good places in Vancouver to get your laser cutter projects done there bound to be a few bad places. The Vancouver Hackspace (VHS) is one of these horrible places. Their laser cutter was broken for weeks, it's unreliable.  The safety course is pathetic and will get people hurt. Their home made air filter (Safety equipment) is sketchy at best, they just don't care about the heath of their members or neighbors. Their community is [toxic, where even good people will fail at their projects](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace).
+With all the good places in Vancouver to get your laser cutter projects done there bound to be a few bad places. The Vancouver Hackspace (VHS) is one of these horrible places. Their laser cutter has broken for weeks and with no timeline for when it will be fixed, it's unreliable.  The safety course is pathetic and will get people hurt. Their home made air filter (Safety equipment) is sketchy at best, they just don't care about the heath of their members or neighbors. Their community is [toxic, where even good people will fail at their projects](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace).
 
 If you been to the Vancouver Hackspace, don't let them ruin your experience with laser cutters. Try one of the many alternatives.
