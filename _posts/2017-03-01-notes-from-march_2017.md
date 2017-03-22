@@ -79,6 +79,7 @@ Some of the things that I have found interesting in March 2017.
 - [List of north america festivals](https://www.everfest.com/fest300)
 - [A series of LLNL Atmospheric Nuclear Tests](https://www.youtube.com/playlist?list=PLvGO_dWo8VfcmG166wKRy5z-GlJ_OQND5) - Boom
 - [Nimuno](https://www.indiegogo.com/projects/nimuno-loops-the-toy-block-tape#/) - Lego Tape
+- [One Meeelion Dollars](https://www.youtube.com/user/onemeeeliondollars/featured) - Creativity, Science and design
 
 ## App and software
 
