@@ -44,6 +44,7 @@ Some of the things that I have found interesting in March 2017.
 - [r/expectedfactorial](https://www.reddit.com/r/expectedfactorial/top/)
 - [Noisebridge Seinfeld](https://twitter.com/noisebridge_sei/) - Some of my favorites are [Noisebridge's 3rd 5th anniversary party](https://twitter.com/noisebridge_sei/status/324685423186173956), [claiming to be friends with Jacob Applebaum](https://twitter.com/noisebridge_sei/status/324599417816637442), [Jerry's girlfriend breaks](https://twitter.com/noisebridge_sei/status/324589177196904448)
 - [Shit Noisebridge Says](http://shitnoisebridgesays.tumblr.com/) - Some of my favorites are [Sleep hacking](http://shitnoisebridgesays.tumblr.com/post/58176868931/sleep-hacking), [experimental medications with needles](http://shitnoisebridgesays.tumblr.com/post/53448684902/noisebridge-needle-time), [Buying meth is easier](http://shitnoisebridgesays.tumblr.com/post/49268983264/because-buying-meth-is-easier-than-buying-allergy)
+- if you ever code something that "feels like a hack but it works," just remember that a CPU is literally a rock that we tricked into thinking [Tweet](https://twitter.com/daisyowl/status/841802094361235456). Not to oversimplify: first you have to flatten the rock and put lightning inside it [Tweet](https://twitter.com/daisyowl/status/841806379962646532)
 
 ### Jokes 
 
