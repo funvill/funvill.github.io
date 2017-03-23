@@ -25,13 +25,14 @@ Some of the things that I have found interesting in March 2017.
 
 - [Economix](http://economixcomix.com/) - Economix is a graphic novel that explains the economy. Economix gives the whole story of the economy, from the rise of capitalism to Occupy Wall Street. [TTP](http://economixcomix.com/home/tpp/), [Net-Neutrality](http://economixcomix.com/home/net-neutrality/) 
 
-## Movies / TV 
+## Movies / TV / Music 
 
 - [The Void](http://www.imdb.com/title/tt4255304/) (2016) - When police officer Carter (Aaron Poole) discovers a blood-soaked man limping down a deserted road, he rushes him to a local hospital with a barebones, night shift staff. [Trailer](https://www.youtube.com/watch?v=IkmSNt4moNg)
 - [Alone](http://www.imdb.com/title/tt4803766/) - Ten survival "experts" attempt to survive alone. The winner receives $500,000. 
 - [Hidden Figures](http://m.imdb.com/title/tt4846340/) (2016) - The story of a team of African-American women mathematicians who served a vital role in NASA during the early years of the US space program. [Trailer](https://www.youtube.com/watch?v=RK8xHq6dfAo) 
 - [Green Room (2015)](http://www.imdb.com/title/tt4062536/) - A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar
 - [Naked and Afraid](http://m.imdb.com/title/tt3007640/) - Each week, a new pair of total strangers are faced with the ultimate survival challenge: survive for 21 days together with no clothes or supplies in some of the most dangerous environments 
+- [brain.fm](https://www.brain.fm/) - Music to relax, foucus, workout to. 
 
 ## Quotes 
 
@@ -62,6 +63,7 @@ Some of the things that I have found interesting in March 2017.
 ## Nature 
 
 - [Oroville dam spillway](https://imgur.com/gallery/mpUge) - A dam's spill way collapses
+- [List of BC trails that have streetview](http://www.destinationbc.ca/News/Local/Destination-BC-takes-the-world-on-a-journey-throug.aspx#.WNQOdzsrKUk) - Destination BC and their partners were loaned two Google Street View Trekkers—a wearable backpack outfitted with 15 separate cameras that collect 360° panoramic imagery in remote outdoor locations inaccessible by car. [links to google maps](http://www.destinationbc.ca/getattachment/Marketing/Consumer-Marketing/2017-North-America-Marketing-Initiatives/British-Columbia-Google-Treks-Links-List-(1).pdf.aspx)
 
 ## Devlopment 
 
