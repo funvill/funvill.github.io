@@ -23,6 +23,7 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 - [3D printing in Vancouver](https://blog.abluestar.com/3D-printing-in-vancouver)
 - [Woodworking in Vancouver](https://blog.abluestar.com/woodworking-in-vancouver)
 - [Lasercutting in Vancouver](https://blog.abluestar.com/lasercutting-in-vancouver)
+- [Renting to the Vancouver Hackspace](https://blog.abluestar.com/renting-to-the-vancouver-hackspace)
 
 
 ## Vancouver
