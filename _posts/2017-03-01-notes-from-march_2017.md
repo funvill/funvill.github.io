@@ -75,6 +75,7 @@ Some of the things that I have found interesting in March 2017.
 
 - City of Vancouver [Crime data](http://data.vancouver.ca/datacatalogue/crime-data.htm) - This is a dataset of crime data on a year-by-year basis beginning in 2003.
 - City of Vancouver [GeoDash Crime Map](http://geodash.vpd.ca/) - The GeoDash interactive mapping tool is intended to enhance community awareness of policing activity in Vancouver.  
+- [Puzzle database](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=lilly/slocum)
 
 ## Interesting 
 
