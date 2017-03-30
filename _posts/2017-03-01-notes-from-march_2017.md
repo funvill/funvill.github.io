@@ -23,10 +23,6 @@ Some of the things that I have found interesting in March 2017.
 
 - [3D Printed topographical map](https://3dprint.com/141293/3d-printed-topographical-map/)
 
-## Comics 
-
-- [Economix](http://economixcomix.com/) - Economix is a graphic novel that explains the economy. Economix gives the whole story of the economy, from the rise of capitalism to Occupy Wall Street. [TTP](http://economixcomix.com/home/tpp/), [Net-Neutrality](http://economixcomix.com/home/net-neutrality/) 
-
 ## Movies / TV / Music 
 
 - [The Void](http://www.imdb.com/title/tt4255304/) (2016) - When police officer Carter (Aaron Poole) discovers a blood-soaked man limping down a deserted road, he rushes him to a local hospital with a barebones, night shift staff. [Trailer](https://www.youtube.com/watch?v=IkmSNt4moNg)
@@ -55,8 +51,9 @@ Some of the things that I have found interesting in March 2017.
 
 ### Comics 
 
-- [pbfcomics](http://pbfcomics.com/) - The Perry Bible Fellowship ran weekly in many newspapers between 2004 and 2007, including The New York Press, The Baltimore City Paper, and the UK Guardian. During that time, it also won the Ignatz, Harvey, and Eisner awards. [The Jubilee](http://pbfcomics.com/270/)
-- [smbc-comics](http://www.smbc-comics.com/) - One of my favorite: [Superman](http://www.smbc-comics.com/?id=2305)
+- [Economix](http://economixcomix.com/) - Economix is a graphic novel that explains the economy. Economix gives the whole story of the economy, from the rise of capitalism to Occupy Wall Street. [TTP](http://economixcomix.com/home/tpp/), [Net-Neutrality](http://economixcomix.com/home/net-neutrality/) 
+- [PBF Comics](http://pbfcomics.com/) - The Perry Bible Fellowship ran weekly in many newspapers between 2004 and 2007, including The New York Press, The Baltimore City Paper, and the UK Guardian. During that time, it also won the Ignatz, Harvey, and Eisner awards. [The Jubilee](http://pbfcomics.com/270/)
+- [SMBC-comics](http://www.smbc-comics.com/) - One of my favorite: [Superman](http://www.smbc-comics.com/?id=2305)
 
 ### Jokes 
 
@@ -96,6 +93,7 @@ Some of the things that I have found interesting in March 2017.
 - [A series of LLNL Atmospheric Nuclear Tests](https://www.youtube.com/playlist?list=PLvGO_dWo8VfcmG166wKRy5z-GlJ_OQND5) - Boom
 - [Nimuno](https://www.indiegogo.com/projects/nimuno-loops-the-toy-block-tape#/) - Lego Tape
 - [One Meeelion Dollars](https://www.youtube.com/user/onemeeeliondollars/featured) - Creativity, Science and design
+- [Source parts on Taobao](https://hackaday.com/2017/03/28/source-parts-on-taobao-an-insiders-guide/)
 
 ## App and software
 
