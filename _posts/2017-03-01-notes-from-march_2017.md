@@ -53,6 +53,11 @@ Some of the things that I have found interesting in March 2017.
 - if you ever code something that "feels like a hack but it works," just remember that a CPU is literally a rock that we tricked into thinking [Tweet](https://twitter.com/daisyowl/status/841802094361235456). Not to oversimplify: first you have to flatten the rock and put lightning inside it [Tweet](https://twitter.com/daisyowl/status/841806379962646532)
 - [r/Idiots Fighting Things](https://www.reddit.com/r/IdiotsFightingThings/) - Videos, gifs, pictures, etc. of people fighting inanimate objects.
 
+### Comics 
+
+- [pbfcomics](http://pbfcomics.com/) - The Perry Bible Fellowship ran weekly in many newspapers between 2004 and 2007, including The New York Press, The Baltimore City Paper, and the UK Guardian. During that time, it also won the Ignatz, Harvey, and Eisner awards. [The Jubilee](http://pbfcomics.com/270/)
+- [smbc-comics](http://www.smbc-comics.com/) - One of my favorite: [Superman](http://www.smbc-comics.com/?id=2305)
+
 ### Jokes 
 
 - This is my step ladder. I never knew my real ladder.
