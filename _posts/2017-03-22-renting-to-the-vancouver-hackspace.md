@@ -30,7 +30,12 @@ ToDo: Fill in this section with examples and photos
 ToDo: Fill in this section with examples and photos 
 
 ## Absentee BoD, no accountability 
-ToDo: Fill in this section with examples and emails 
+It can be difficult to contact someone in charge for a non-for-profit under normal circumstance. The board of directors keep changing and no one wants to take responsibility. 
+
+In the case of the Vancouver HackSpace (VHS) they seem to actively go out of their way to make it difficult (The art of ignoring your landlord). I have had the landlord for the Vancouver HackSpace call me out of sheer frustration at not having anyone from the BoD call him back or return his many messages. Weeks had gone by this point and he was desperate to get a hold of anyone. The board of directors have a miss-guided faith in their "directors insurance". Thinking that it will protect them if anything goes wrong. Missing payments for rent, damages to the building, or any action of their members on the landlords property. 
+
+If you are a landlord, good luck getting a hold of someone in charge of the Vancouver HackSpace when you need to. 
+
 
 ## Past landlords 
 ToDo: Fill in this section with examples 
