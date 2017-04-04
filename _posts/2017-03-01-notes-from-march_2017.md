@@ -6,7 +6,7 @@ date: '2017-03-01 00:01'
 author: funvill
 ---
 
-Some of the things that I have found interesting in March 2017.
+Some of the things that I have found interesting in March 2017. This page is updated throughout the month of March. See [February 2017](/notes-from-february_2017) for the previous month.
 
 ## Thinkgs I made
 
