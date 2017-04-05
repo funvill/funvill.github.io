@@ -11,3 +11,7 @@ Some of the things that I have found interesting in April 2017. This page is upd
 ## Projects 
 
 - [Google's AnyPixel](https://github.com/googlecreativelab/anypixel) - is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays. Anyone can fork the code and the schematics to create their own display at any scale.
+
+## Funny 
+
+- [Burned Your Tweet](https://mobile.twitter.com/burnedyourtweet) - A robot that burns the tweets from @realDonaldTrump
