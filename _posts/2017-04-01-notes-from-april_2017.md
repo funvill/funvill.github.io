@@ -15,3 +15,7 @@ Some of the things that I have found interesting in April 2017. This page is upd
 ## Funny 
 
 - [Burned Your Tweet](https://mobile.twitter.com/burnedyourtweet) - A robot that burns the tweets from @realDonaldTrump
+
+## interesting 
+
+- [Fake UI for film](http://www.pushing-pixels.org/fui/) - Case studdies of how to face computer GUI for films. 
