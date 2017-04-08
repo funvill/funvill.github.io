@@ -23,7 +23,7 @@ Some of the things that I have found interesting in April 2017. This page is upd
 
 - [blog.squix](https://blog.squix.org/) - A series of project for the ESP8266 and other maker related devices.
 - [ESP8266 based Plane Spotter](https://blog.squix.org/2016/07/esp8266-based-plane-spotter-how-to.html)
-- [ESP8266 deauther](https://github.com/spacehuhn/esp8266_deauther/blob/master/README.md)
+- [ESP8266 deauther](https://github.com/spacehuhn/esp8266_deauther/blob/master/README.md) - Deauthentication attack and other hacks using an ESP8266. Also shows how to gain access to the promiscuous for scanning packets. 
 
 ## Funny 
 
