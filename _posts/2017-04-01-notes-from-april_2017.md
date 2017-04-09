@@ -18,6 +18,8 @@ Some of the things that I have found interesting in April 2017. This page is upd
 ### Badges 
 
 - [EPaper display badge](https://www.crystalfontz.com/product/cfap104212b00213-epaper-display-104x212-red-gray-graphic-eink) - This 104x212 resolution epaper graphic display module is an excellent choice for applications where power is severely constrained. Once the image is shown on this EPD (Electronic Paper Display), it will remain visible using zero power.The 3-level grayscale + red eink glass allows clean rendering of small fonts and fine detail.
+- [The Cubic Cyphercon badge](https://hackaday.com/2017/04/09/the-cubic-cyphercon-badge/) - 3D code con puzzle box badge. 
+   
 
 ### ESP8266 
 
