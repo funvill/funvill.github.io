@@ -31,6 +31,7 @@ Some of the things that I have found interesting in April 2017. This page is upd
 
 - [Burned Your Tweet](https://mobile.twitter.com/burnedyourtweet) - A robot that burns the tweets from @realDonaldTrump
 - [Tobacco smoke Enema](https://en.wikipedia.org/wiki/Tobacco_smoke_enema) - The tobacco smoke enema, an insufflation of tobacco smoke into the rectum by enema, was a medical treatment employed by European physicians for a range of ailments.
+- [STRAFE® banned commercial](https://www.youtube.com/watch?v=VHbpdKiInn8) - 1996 FPS commercial
 
 ## Interesting 
 
