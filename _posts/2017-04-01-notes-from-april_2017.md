@@ -38,6 +38,7 @@ Some of the things that I have found interesting in April 2017. This page is upd
 - [Fake UI for film](http://www.pushing-pixels.org/fui/) - Case studdies of how to face computer GUI for films. 
 - [Posters for different File formats](https://github.com/corkami/pics/blob/master/binary/README.md) - [GIF](https://github.com/corkami/pics/blob/master/binary/GIF.png), [JPG](https://github.com/corkami/pics/blob/master/binary/JPG.png), [EXE](https://github.com/corkami/pics/blob/master/binary/pe101/pe101.pdf)
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
+- [counterfeit rice](http://www.bbc.com/news/world-africa-38391998) - Rice from china that is made of plastic pellets. [Snopes](http://www.snopes.com/plastic-rice-from-china/)
 
 ## Local / BC / Vancouver 
 
