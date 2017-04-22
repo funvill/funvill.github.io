@@ -56,3 +56,7 @@ Some of the things that I have found interesting in April 2017. This page is upd
 
 - [Jing](https://www.techsmith.com/jing.html) - Screenshots and gif from movies tools
 
+## Art 
+
+- [Drones and robots weave carbon-fibre pavilion based on moth webs](https://www.dezeen.com/2017/04/12/icd-itke-research-pavilion-university-stuttgart-germany-carbon-fibre-robots-drones/]
+
