@@ -60,3 +60,8 @@ Some of the things that I have found interesting in April 2017. This page is upd
 
 - [Drones and robots weave carbon-fibre pavilion based on moth webs](https://www.dezeen.com/2017/04/12/icd-itke-research-pavilion-university-stuttgart-germany-carbon-fibre-robots-drones/]
 
+## CNC 
+
+- [Essential end mills for your cnc machine](http://makezine.com/2015/12/03/6-essential-end-mills-for-your-cnc-machine/)
+- [Getting Started Carving Step Step](https://www.amazon.ca/Getting-Started-Carving-Step-Step/dp/1680450999/) - Make magazine ebook. 
+
