@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: Earthquake Kits for Vancouver
 date: '2017-04-26 00:01'
