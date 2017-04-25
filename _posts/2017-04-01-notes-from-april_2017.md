@@ -69,7 +69,7 @@ Some of the things that I have found interesting in April 2017. This page is upd
 
 ## Art 
 
-- [Drones and robots weave carbon-fibre pavilion based on moth webs](https://www.dezeen.com/2017/04/12/icd-itke-research-pavilion-university-stuttgart-germany-carbon-fibre-robots-drones/]
+- [Drones and robots weave carbon-fibre pavilion based on moth webs](https://www.dezeen.com/2017/04/12/icd-itke-research-pavilion-university-stuttgart-germany-carbon-fibre-robots-drones/)
 
 ## CNC 
 
