@@ -6,9 +6,10 @@ date: '2017-04-26 00:01'
 author: funvill
 ---
 
-I live in [Vancouver, BC](https://en.wikipedia.org/wiki/Vancouver), a city near the edge of two of these [tectonic plates](https://en.wikipedia.org/wiki/Plate_tectonics): the massive North American plate, and the smaller Juan de Fuca plate. There is a pretty good chance that me and my loved ones are going to live though a large earthquake in my lifetime while living in Vancouver. A active list of [Earthquakes that have happened in the last 30 days in BC](http://www.earthquakescanada.nrcan.gc.ca/index-en.php?CHIS_SZ=bcwa). 
+I live in [Vancouver, BC](https://en.wikipedia.org/wiki/Vancouver), a city near the edge of two of these [tectonic plates](https://en.wikipedia.org/wiki/Plate_tectonics): the massive North American plate, and the smaller Juan de Fuca plate. There is a good chance that me, and my loved ones are going to live though a large earthquake in my lifetime. 
 
 > Research shows that there is a 1 in 4 chance that we will have another major earthquake within the next 50 years. [Source](http://vancouver.ca/home-property-development/earthquake-facts.aspx) 
+A active list of [Earthquakes that have happened in the last 30 days in BC](http://www.earthquakescanada.nrcan.gc.ca/index-en.php?CHIS_SZ=bcwa). 
 
 This lead me to build my own earthquake kits. I found that most of the items need in my spare parts bins from previous projects. Other items I purchased from China as I was in no hurry to get these done. I tried to optimize for space and weight. 
 
@@ -16,10 +17,10 @@ This lead me to build my own earthquake kits. I found that most of the items nee
 
 Below is what is in my own kit based on based on the recommendations from the City of Vancouver's [make a earthquake kit](http://vancouver.ca/home-property-development/make-an-emergency-kit.aspx) page. 
 
-- $6.93 [FM Receiver, MP3, LED, USB, Recorder, SD card music player, USB charger](https://www.aliexpress.com/item/Mini-Portable-dual-band-Rechargeable-Digital-LED-display-panel-Stereo-FM-Radio-Speaker-USB-TF-mirco/32736589000.html) - Super cheap but works. I tested this at 1 day of radio playback when fully charged. I filled the SD card with survival podcasts and some music. It uses the standard Nokia battery pack. I have a few hundred of these battery packs after the local Nokia development house closed down, so I added a few extra batteries. 
+- $6.93 [FM Receiver, MP3, LED, USB, Recorder, SD card music player, USB charger](https://www.aliexpress.com/item/Mini-Portable-dual-band-Rechargeable-Digital-LED-display-panel-Stereo-FM-Radio-Speaker-USB-TF-mirco/32736589000.html) - Super cheap but works. 1 full day of radio playback when fully charged. I filled the SD card with survival podcasts and some music. It uses the standard Nokia battery pack. I have a few hundred of these battery packs after the local Nokia development house closed down, so I added a few extra batteries. 
 - $5.30 [18L Light Waterproof Outdoor Dry Bags](https://www.aliexpress.com/item/LUCKSTONE-8L-15L-Ultra-Light-Waterproof-Outdoor-Dry-Bags-Colorful-Folding-Portable-Packages-for-Camping-Hiking/32779776550.html) - I been using these for camping for years now. Even at their price they have not failed me yet. 
 - $5.60 [Knife, fork, spoon, bottle opener](https://www.aliexpress.com/item/KingCamp-Portable-Stainless-Steel-3-in-1-Outdoor-Flatware-Set-Spoon-Fork-Knife-Camping-Hiking-picnic/32739880284.html) - A decent set, I likes these more then the cheap [spork variant](https://www.aliexpress.com/item/Outdoor-Multi-Function-3-in1-Stainless-Steel-Spork-Travel-Camping-Hiking-Picnic-Utensils-Combo-Knife/32760539179.html) 
-- $3.00 [Flashlight powered by AA batteries](https://www.aliexpress.com/item/CREE-flashlight-tactical-Q5-powerful-led-flashlight-linternas-luzes-light-torch-zaklamp-taschenlampe-torcia-mini-lanterna/32661328827.html) - I have used these flashlights in a film project before. They are rugged and water proof. They take double AA batteries that should be easy to find even in a emergency.
+- $3.00 [Flashlight powered by AA batteries](https://www.aliexpress.com/item/CREE-flashlight-tactical-Q5-powerful-led-flashlight-linternas-luzes-light-torch-zaklamp-taschenlampe-torcia-mini-lanterna/32661328827.html) - I have used these flashlights in a film projects before. They are rugged and water proof. They take double AA batteries that should be easy to find even in a emergency.
 - $1.96 [Fire-Starter, whissle, compass, glass breaker](https://www.aliexpress.com/item/EDC-Gear-Tool-CNC-Magnesium-Bar-Flint-Fire-Starter-Waterproof-Survival-Camp-Kit/32597789594.html) - This device tries to be too many things at once. It works as a fire starter and whissle but fails at being a glass breaker or compass. 
 - $1.00 25ft of [Paracord](https://paracord.com/) - I also use paracord for many of my [decorative knot tying](http://www.animatedknots.com/indexdecorative.php#ScrollPoint) and [lashing](http://www.animatedknots.com/lashsquare/#ScrollPoint) projects. 
 - $1.00 [Protective Gloves](https://www.aliexpress.com/item/Protective-Gloves-Flowers-Can-Be-Digging-Labor-Insurance-Gloves-1607-Rubber-Protective-Insulation-Manufacturers-Direct-Selling/32774973703.html) - Great gloves, they have a good feel and rubber tips. Cheaper when you buy 25x 
@@ -38,6 +39,7 @@ Below is what is in my own kit based on based on the recommendations from the Ci
 - FREE matches or a lighter 
 - FREE Cell phone battery pack - Get these for free from conventions all the time. 
 - FREE A map of the [disaster support hubs](http://vancouver.ca/home-property-development/disaster-support-hubs.aspx) in vancouver 
+- FREE Information sheet about common solution to problems during a disaster 
 
 Total: < $30.00 
 
@@ -52,8 +54,8 @@ Along with the kits I also included a checklist of personal things that they sho
 - Blanket 
 - Money ~ $300 (including coins)
 - Cell phone charger. 
-- Pet needs if you have a pet
-- Baby needs if you have a baby 
+- Pet needs, if you have a pet
+- Baby needs, if you have a baby 
 
 ## Making a plan 
 
