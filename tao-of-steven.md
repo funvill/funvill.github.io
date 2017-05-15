@@ -15,6 +15,7 @@ ToDo: Flesh this out with examples and reasons.
 - Use a auto incrementing build number. Never release two programs with the same version and different funcality. 
 - Write enough documentation that someone not involved in your project can setup a dev environment and make simple changes/deploys/rollbacks
 - Have a lot of logging, and a way of easily viewing/sending them. You can always turn logging down fairly easily, but adding it after the fact is a lot more work.
+- Eat your own dogfood - Any product/tool that you sell you should also be using. [Why Amazon is eating the world](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/)
 
 # Project managment 
 
