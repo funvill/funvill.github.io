@@ -20,6 +20,7 @@ ToDo: Flesh this out with examples and reasons.
 # Project managment 
 
 - Code review every single line of code that is added to your codebase. By at lest one person 
+- Make your _business_ case, not a technical case - go solve peoples problems to save them money or time, Using the latest framework or language maybe intersting but unless it makes it easier to solves the customers problems its not worth doing. [1](https://news.ycombinator.com/item?id=14366305)
 
 # General 
 
