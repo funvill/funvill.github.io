@@ -23,7 +23,7 @@ This project was originally made for the [Vancouver Mini Maker faire 2017](http:
 
 ## Wiring diagram
 
-![Fritzing Drawing](/uploads/LEDPillar_bb.png)
+![Fritzing Drawing](http://blog.abluestar.com/public/uploads/LEDPillar_bb.png)
 
 ## Version 0.0.2 
 
