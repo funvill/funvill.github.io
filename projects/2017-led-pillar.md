@@ -21,6 +21,9 @@ This project was originally made for the [Vancouver Mini Maker faire 2017](http:
 - Two [10ft 1 inch Conduit](https://www.homedepot.ca/en/home/p.1-inch-emt-conduit.1000106372.html)
 - Four [adjustable pipe clamps](https://www.lowes.com/pd/Murray-10-Pack-3-4-in-1-1-2-in-Dia-Stainless-Steel-Adjustable-Clamps/50069657)
 
+## Wiring diagram
+
+![Fritzing Drawing](/uploads/LEDPillar_bb.png)
 
 ## Version 0.0.2 
 
