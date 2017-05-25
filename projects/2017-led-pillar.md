@@ -20,6 +20,7 @@ This project was originally made for the [Vancouver Mini Maker faire 2017](http:
 - Three [100MM LED arcade push button](https://www.aliexpress.com/item/Free-shipping-5pcs-100MM-LED-Light-Lamp-Arcade-push-button-Big-Round-Arcade-Video-Game-Player/32655681463.html)
 - Two [10ft 1 inch Conduit](https://www.homedepot.ca/en/home/p.1-inch-emt-conduit.1000106372.html)
 - Four [adjustable pipe clamps](https://www.lowes.com/pd/Murray-10-Pack-3-4-in-1-1-2-in-Dia-Stainless-Steel-Adjustable-Clamps/50069657)
+- [Home Depot bucket with lid](https://www.homedepot.ca/en/home/p.19l--5-gallon-orange-home-depot-logo-bucket.1000143871.html)
 
 ## Wiring diagram
 
