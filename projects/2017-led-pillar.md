@@ -21,6 +21,7 @@ This project was originally made for the [Vancouver Mini Maker faire 2017](http:
 - Two [10ft 1 inch Conduit](https://www.homedepot.ca/en/home/p.1-inch-emt-conduit.1000106372.html)
 - Four [adjustable pipe clamps](https://www.lowes.com/pd/Murray-10-Pack-3-4-in-1-1-2-in-Dia-Stainless-Steel-Adjustable-Clamps/50069657)
 - [Home Depot bucket with lid](https://www.homedepot.ca/en/home/p.19l--5-gallon-orange-home-depot-logo-bucket.1000143871.html)
+- [5V 5Amp Power supply](http://leeselectronic.com/en/product/108111.html) - This is overkill but its what I had around at the time. 
 
 ## Wiring diagram
 
