@@ -17,6 +17,13 @@ ToDo: Flesh this out with examples and reasons.
 - Have a lot of logging, and a way of easily viewing/sending them. You can always turn logging down fairly easily, but adding it after the fact is a lot more work.
 - Eat your own dogfood - Any product/tool that you sell you should also be using. [Why Amazon is eating the world](https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/)
 
+## Never Ship a product with out at lest 1 hour of testing 
+
+Its late Friday afternoon, we had a working build with a new feature that we just added, all the unit tests worked, and the manual tests of the new features was looking good. So we pushed it to production and did a and shipped it to the customer. When the production build was done, it was already after normal working hours. We wanted to go home, so we didn't manually re-test everything. On monday we returned to work to find an angry email from the customer. The new feature has broken the app, the error was obviouse and if we had done even the most basic manual testing we would have caught it. 
+
+Always allow for at lest 1 hour of testing before shipping a product. 
+
+
 # Project managment 
 
 - Code review every single line of code that is added to your codebase. By at lest one person 
