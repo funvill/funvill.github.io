@@ -236,6 +236,7 @@ Online retailers of components and dev boards.
 
 ### 3D printable models
 
+- [Yobi3D](https://www.yobi3d.com/) - A 3D model search engine.  Search results are shown in 3D.
 - [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
 - [MyMiniFactory](https://www.myminifactory.com/) - A decent selection of curiated 3D-printable models.
 - [ThingiVerse](http://www.thingiverse.com) - The original online catalog of 3D printer models.
