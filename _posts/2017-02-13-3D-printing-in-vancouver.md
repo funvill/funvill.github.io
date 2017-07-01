@@ -39,6 +39,7 @@ After you know how to use a 3D printer, the next thing is to join a community an
 
 ## Where do you get 3D printable models ? 
 
+- [Yobi3D](https://www.yobi3d.com/) - 3D model search engine.  It has a viewer to show search results in 3D.
 - [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
 - [MyMiniFactory](https://www.myminifactory.com/) - A decent selection of curiated 3D-printable models.
 - [ThingiVerse](http://www.thingiverse.com) - The original online catalog of 3D printer models.
