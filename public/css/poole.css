@@ -83,6 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  max-width: 38rem;
 }
 h1 {
   color: #ac4142;
