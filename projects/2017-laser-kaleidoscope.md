@@ -44,4 +44,4 @@ Source code and make files can be found on my github page [Laser Kaleidoscope](h
 # Displayed at 
 
 - Luminescence - Deer Lake Gallery - March 2017
-- Vancouver Maker Faire - June 2017 
+- Vancouver Maker Faire - Vancouver - June 2017 
