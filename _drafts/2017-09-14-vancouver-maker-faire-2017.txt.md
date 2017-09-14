@@ -45,6 +45,8 @@ For more information about this project, including source code, and parts list, 
 ## Hippy ball of life 
 This project was to create a marker that other people could use to find me in a crowd at a festivals. The ball itself is a 20 sided icosahedron with the flower of life pattern on each panel. Each panel is illuminated with a series of addressable LEDs. The LEDs patterns and color change with the movement of the ball. 
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmxBTuAwrtUwvFR4YZpXM8wZJCxunDm2U6N63PJKssAun7mUb2IplTHi0VX-6SGJ6Yn2LYZNxKEB3Q/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 For more information about this project, including source code, and parts list, see the project page. [https://blog.abluestar.com/projects/2016-ball-of-life](https://blog.abluestar.com/projects/2016-ball-of-life)
 
 
