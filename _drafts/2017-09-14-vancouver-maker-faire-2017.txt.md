@@ -8,6 +8,8 @@ author: funvill
 
 This year for the vancouver maker faire I decided to show off all my LED and lighting projects that I had created over the past few years. I also created a special project just for Vancouver Maker Faire the LED Pillar. 
 
+![Vancouver Maker Faire 2017 projects](http://blog.abluestar.com/public/uploads/20170608_192551.jpg "Vancouver Maker Faire 2017 projects")
+
 ## LED Pillar
 The LED Pillar project is thought experiment of how to make a game with a single strip of LEDs as the display. After a few different iterations the final game resembles popular [Guitar Hero](https://en.wikipedia.org/wiki/Guitar_Hero) game from 2005 on a single LED strip.
 
@@ -22,6 +24,13 @@ A circular light box that incorporates moving lasers which generate twisting fra
 
 For more information about this project, including source code, and parts list, see the project page. [https://blog.abluestar.com/projects/2017-laser-kaleidoscope](https://blog.abluestar.com/projects/2017-laser-kaleidoscope)
 
+## Blinky the fox head mask 
+A low polygon fox head mask with an array of LEDs create patterns on the faces.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMQdCVO6FN07Jt5GnZL94rf_8-aMliHIxiHOD2cFD-h3YcoBVc7m7tCz-i5bEPCaOqCByg1F4si-VA/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+For more information about this project, including source code, and parts list, see the project page. [https://blog.abluestar.com/projects/2016-blinky-the-fox-head-mask](https://blog.abluestar.com/projects/2016-blinky-the-fox-head-mask)
+
 ## Thunderstorm cloud
 The Thunderstorm cloud project is an interactive lamp that mimics thunderstorm cloud. Utilizing a strip of LEDS, some sensors, and a Arduino. It is cable of creating a unique lighting storm based on its surroundings. No two thunderstorms are the same. A 60 cm wide 40 cm tall made of pillow fluff and chicken wire. 
 
@@ -29,15 +38,10 @@ The Thunderstorm cloud project is an interactive lamp that mimics thunderstorm c
 
 For more information about this project, including source code, and parts list, see the project page. [https://blog.abluestar.com/projects/2017-thunderstorm-cloud](https://blog.abluestar.com/projects/2017-thunderstorm-cloud)
  
-## Blinky the fox head mask 
-A low polygon fox head mask with an array of LEDs create patterns on the faces.
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMQdCVO6FN07Jt5GnZL94rf_8-aMliHIxiHOD2cFD-h3YcoBVc7m7tCz-i5bEPCaOqCByg1F4si-VA/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-For more information about this project, including source code, and parts list, see the project page. [https://blog.abluestar.com/projects/2016-blinky-the-fox-head-mask](https://blog.abluestar.com/projects/2016-blinky-the-fox-head-mask)
- 
 ## Branchy light box
 Laser cut silhouette of branches in a tree, illuminated with color changing LEDs.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6oeXOLoPFEsqbk1mUFxNdOtsGyTASXe-JrScwgNJ1Y9LfXGDCjSUfDxEiA9rVY7AoA9e8AGftdacq/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 For more information about this project, including source code, and parts list, see the project page. [https://blog.abluestar.com/projects/2016-branchy-light-box](https://blog.abluestar.com/projects/2016-branchy-light-box)
 
