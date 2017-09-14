@@ -2,13 +2,14 @@
 published: true
 layout: post
 title: Vancouver Maker Faire 2017 
-date: '2017-09-14 00:01'
+date: '2017-09-13 00:01'
 author: funvill
 ---
 
 This year for the vancouver maker faire I decided to show off all my LED and lighting projects that I had created over the past few years. I also created a special project just for Vancouver Maker Faire the LED Pillar. 
 
 ![Vancouver Maker Faire 2017 projects](http://blog.abluestar.com/public/uploads/20170608_192551.jpg "Vancouver Maker Faire 2017 projects")
+
 
 ## LED Pillar
 The LED Pillar project is thought experiment of how to make a game with a single strip of LEDs as the display. After a few different iterations the final game resembles popular [Guitar Hero](https://en.wikipedia.org/wiki/Guitar_Hero) game from 2005 on a single LED strip.
