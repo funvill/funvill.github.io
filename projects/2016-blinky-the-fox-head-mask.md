@@ -8,6 +8,9 @@ The design for the low polygon fox head mask came from [@wintercroft](https://ww
 
 Project source code files can be found in this github project [BlinkyFoxHeadMask](https://github.com/funvill/BlinkyFoxHeadMask). *Note* the design files for the low polygon fox head mask are not open source. 
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMQdCVO6FN07Jt5GnZL94rf_8-aMliHIxiHOD2cFD-h3YcoBVc7m7tCz-i5bEPCaOqCByg1F4si-VA/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 ## Parts 
 
 - [WS2812 LEDs 144/meter](https://www.adafruit.com/products/1507)
