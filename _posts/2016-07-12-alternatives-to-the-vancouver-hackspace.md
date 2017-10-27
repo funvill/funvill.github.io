@@ -6,7 +6,7 @@ date: '2016-07-12 00:01'
 author: funvill
 ---
 
-Vancouver Hackspace (VHS) use to be a place where people could ask questions and get help with their projects while helping out others. Now new people asking questions, at best, get ignored and worst ridiculed. Between the years of 2015-2016 the Vancouver Hackspace the board of directors ( *names removed* ) as well as a few other members ( *names removed* ) created a toxic environment that destroyed the existing community that took years to create.
+Vancouver Hackspace (VHS) used to be a place where people could ask questions and get help with their projects while helping out others. Now new people asking questions, at best, get ignored and worst ridiculed. Between the years of 2015-2016 the Vancouver Hackspace the board of directors ( *names removed* ) as well as a few other members ( *names removed* ) created a toxic environment that destroyed the existing community that took years to create.
 
 Good, energetic, people will succeed anywhere. VHS is a handicap that prevents even good people from achieving success. Your projects will wither and die at VHS.
 
