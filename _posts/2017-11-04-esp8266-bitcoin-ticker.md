@@ -15,6 +15,6 @@ Requests the current current price of Bitcoin in your local currency via [Coinde
 - [Wemos D1 ESP8266](https://www.wemos.cc/)
 - [Wemos OLED shield](https://www.aliexpress.com/store/product/OLED-Shield-for-WeMos-D1-mini-0-66-inch-64X48-IIC-I2C/1331105_32627787079.html)
 
-Software can be downloaded from my github https://github.com/funvill/esp8266BitCoinTracker
+Software can be downloaded from my github [https://github.com/funvill/esp8266BitCoinTracker](https://github.com/funvill/esp8266BitCoinTracker)
 
-<img src="uploads/bitcointracker.jpg" alt="ESP8266 Bitcoin tracker"/>
+<img src="/public/uploads/bitcointracker.jpg" alt="ESP8266 Bitcoin tracker"/>
