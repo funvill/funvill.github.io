@@ -29,4 +29,11 @@ Basically, paper cut-outs are layered on each other in a box with a glass frame.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/sKzEJ"><a href="//imgur.com/sKzEJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+### [Furtherfield](https://www.furtherfield.org/)
+A art and technology gallery, that has some interesting blockchain art exibits. I found out about furtherfield thou the [disobedient electronics](https://www.furtherfield.org/disobedient-electronics-protest-book-review/) book. 
+
+### [Plantoids]](https://bitcoinmagazine.com/articles/plantoids-the-first-blockchain-based-artificial-life-forms-1482768916/): The First Blockchain-Based Artificial Life Forms
+A neat sculpture art project that uses the smart-contracts and the blockchain to recive donations. When it recives enugh money it commisiones another version of its self, replicating. 
+
+> You can’t buy a Plantoid because it owns itself. If you like a Plantoid, you can show it appreciation by sending bitcoin to its wallet. Once a Plantoid has earned sufficient funds, it chooses an artist and commissions the artist to produce a new version of itself.
 
