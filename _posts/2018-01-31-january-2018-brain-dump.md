@@ -14,6 +14,9 @@ I was a big fan of [Evernote](https://evernote.com/) for a long time. The interg
 ### Are.na instead of pinterest
 These days I been getting into making installtion art projects. I need a place to store the random source images. A friend of mine suggested that I take a look at [are.na](https://www.are.na/steven-smethurst). Ita s neat card base system that works well with photos, text and links. it supports social sharing of content and its fun to use. I always hated [pinterest](https://www.pinterest.ca/) but [are.na](https://www.are.na/] seems like a better choice over all. 
 
+### [dynalist.io](https://dynalist.io/)
+A paper sheet like todo list for simple daily lists. 
+
 ### Altenratives to TeamViewer
 I have posted about my hate for [teamviewer](https://blog.abluestar.com/why-i-hate-teamviewer) and their horriable licence system before. A few years ago there wasn't many good alternatives to TeamViewer but that has changed. Now I am happy to suggest [Anydesk](https://anydesk.com/remote-desktop), and [Zoho assist](https://www.zoho.com/assist/). 
 
@@ -37,3 +40,27 @@ A neat sculpture art project that uses the smart-contracts and the blockchain to
 
 > You can’t buy a Plantoid because it owns itself. If you like a Plantoid, you can show it appreciation by sending bitcoin to its wallet. Once a Plantoid has earned sufficient funds, it chooses an artist and commissions the artist to produce a new version of itself.
 
+### [Ice Cold Beer game](https://en.wikipedia.org/wiki/Ice_Cold_Beer) aka Zeles Peak
+I found [this clip](https://www.reddit.com/r/interestingasfuck/comments/7ktaby/what_a_ride/) of a guy playing this game on reddit. The premise: Get a ball bearing into the right holes; avoid the wrong holes. Using left and right joysticks to control two independent motors, you manipulate the position of the horizontal rail to control the path of the ball. It looks like a fun game and easy to make, maybe a future maker faire project. I found this project where someone is trying to [make one with an arduino, stepper motors, etc](http://www.everythingmaker.co/project-goal-zekes-peak-arcade-knockoff/). 
+
+There is also a video game called [Tumbleseed](http://store.steampowered.com/app/457890/TumbleSeed/) that has the simlare concept. 
+
+### [Glowing Moon](https://www.thingiverse.com/thing:2531838) by Brandonzhun
+A neat realistic moon nightlight 
+
+### [Digital signage](http://www.binaryemotions.com/) using the Raspberry pi 
+An open source project that allowes you to use a Raspberry pi and a TV/Monitor as digitial a sign or slideshow. 
+
+### [Robboxtools](http://www.robboxtools.com/)
+Fresh from CES 2018, a multiple tool battery pack system that I could see replacing the way we do power tools today. They are also from vancouver, my home town. 
+
+Robbox has a user interface that makes it easy to set the proper rotation speed by selecting the relevant material and properties, such as thickness. 
+
+### [GeoCache locator](http://www.instructables.com/id/Arduino-Geocache-Locator/)
+Input a GPS location and this fun device will point you in the right with a ring of LEDS. Could be neat to make a few city style games. 
+
+### [Free Programing notes](http://books.goalkicker.com/) for many different lanuages 
+Their [C++ book](http://books.goalkicker.com/CPlusPlusBook/) is pretty good even for a verderan like my self. 
+
+### Simple [ESP8266 tutorials with the Arduino IDE](http://www.electronicwings.com/nodemcu/arduino-ide)
+Sometimes you need to learn the basics before moving on to the more advanced topics. 
