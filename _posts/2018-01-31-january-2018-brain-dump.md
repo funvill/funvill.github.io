@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: January 2018 brain dump
 date: '2018-01-31 00:01'
