@@ -10,6 +10,12 @@ permalink: 404.html
 </div>
 
 <script>
+$(document).ready(function () {
+    if(window.location.href.indexOf("/wp/") > -1) {
+       window.location.replace("https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace");
+    }
+});
+  
 if (window.location.href.substr(-1) == '/') {
     var sanitized = window.location.href.replace(/\/+$/, '');
     location.replace(sanitized);
