@@ -19,3 +19,4 @@ author: funvill
 ## ESP8266 and ESP32 
 
 * [ESPEasy](https://www.letscontrolit.com/wiki/index.php/ESPEasy) - The ESP Easy firmware can be used to turn the ESP module into an easy multifunction sensor device for Home Automation solutions like Domoticz. Configuration of the ESP Easy is entirely web based, so once you've got the firmware loaded, you don't need any other tool besides a common web browser.
+* [Favorite open source esp project](https://www.reddit.com/r/esp8266/comments/86csl3/whats_your_favorite_open_source_esp_project/) - A list of user submitted ESP projects. 
