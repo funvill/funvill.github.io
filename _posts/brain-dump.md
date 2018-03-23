@@ -16,3 +16,6 @@ author: funvill
 * [Bubble Blast](https://www.niklasroy.com/bubbleblast/) - Kid friendly, bloon fighting, robot death match. [Source](https://hackaday.com/2018/03/17/balloons-and-bubbles-make-for-kid-friendly-robot-deathmatch/) 
 * [Donkey Car](http://www.donkeycar.com/) - An opensource DIY self driving platform for small scale cars. RC CAR  +  Raspberry Pi + Python (tornado, keras, tensorflow, opencv, ....) 
 
+## ESP8266 and ESP32 
+
+* [ESPEasy](https://www.letscontrolit.com/wiki/index.php/ESPEasy) - The ESP Easy firmware can be used to turn the ESP module into an easy multifunction sensor device for Home Automation solutions like Domoticz. Configuration of the ESP Easy is entirely web based, so once you've got the firmware loaded, you don't need any other tool besides a common web browser.
