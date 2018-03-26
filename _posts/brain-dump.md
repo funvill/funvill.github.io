@@ -10,6 +10,7 @@ author: funvill
 
 * [An intro to pen plotters](http://www.tobiastoft.com/posts/an-intro-to-pen-plotters) - Pen plotters are friendly robots from a not so distant past. They're the missing link between pencils and laser printers... [HackerNews](https://news.ycombinator.com/item?id=16495236)
 * [MountainMath Software](https://mountainmath.ca/) - Lots of vancouver based data visualizations. 
+* [List of different types of word play](https://en.wikipedia.org/wiki/List_of_forms_of_word_play) 
 
 ## Robots 
 
