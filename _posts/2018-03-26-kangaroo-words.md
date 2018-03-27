@@ -16,7 +16,7 @@ I loved these projects and I wanted to make something similar of my own. I searc
 
 In my search, I discovered [List of different types of word play](https://en.wikipedia.org/wiki/List_of_forms_of_word_play) and Kangaroo words.
 
-A Kangaroo word is a word that contains letters of another word, in order (without transposing any letters). For example: encourage contains courage, cog, cur, urge, core, cure, nag, rag, age, nor, rage and enrage.  
+> A Kangaroo word is a word that contains letters of another word, in order (without transposing any letters). For example: encourage contains courage, cog, cur, urge, core, cure, nag, rag, age, nor, rage and enrage.  
 
 Kangaroo word wasn't exactly what I was looking for but it was on the right path. I started searching for a list of all the common Kangaroo word, and what is the largest Kangaroo words that exist. I was able to find [a few small lists](https://en.wiktionary.org/wiki/Appendix:Kangaroo_words) but nothing that was complete. 
 
