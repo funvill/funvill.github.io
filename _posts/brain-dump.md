@@ -12,6 +12,7 @@ author: funvill
 * [MountainMath Software](https://mountainmath.ca/) - Lots of vancouver based data visualizations. 
 * [List of different types of word play](https://en.wikipedia.org/wiki/List_of_forms_of_word_play) 
 * [Cipher on the William and Elizebeth Friedman tombstone](http://elonka.com/friedman/) - At the very bottom of the tombstone, a simple epitaph, "Knowledge Is Power". But actually not as simple as it appears
+* [Becareful what you copy](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66) - Using Zero-width characters are invisible, ‘non-printing’ characters... [Hackernews](https://news.ycombinator.com/item?id=16749422) 
 
 
 ## Robots 
