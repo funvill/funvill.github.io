@@ -4,8 +4,10 @@ title: (2018) Stained Glass Windows
 excerpt: A series of hexagon stain glass windows 
 ---
 
-* [Inspiration](https://blog.abluestar.com/inspiration-stained-glass-windows-project) 
+Blog posts about the stain glass windows project. 
 
+* [Inspiration](https://blog.abluestar.com/inspiration-stained-glass-windows-project) 
+* [Tech Demo](https://blog.abluestar.com/techdemo-stained-glass-windows-project) 
 
 
 
