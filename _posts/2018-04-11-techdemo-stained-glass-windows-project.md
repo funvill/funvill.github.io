@@ -8,7 +8,7 @@ author: funvill
 
 This post is part of a series on the [stained glass windows project](https://blog.abluestar.com/projects/2018-stained-glass-window). 
 
-When starting a new project, I will create a series of tech demo of all the different techniques that I am planning on using in the project. This helps me find out what works and what doesn't. 
+When starting a new project, I tend to create a series of tech demo of all the different techniques that I am planning on using in the project. This helps me find out what works and what doesn't. 
 
 Below are some of the design questions that I wanted to solve while working on the tech demo.
 
@@ -36,15 +36,15 @@ I decided to use a bunch of card stock I had on hand then tapping the cardstock 
 
 ### Finding the right height for the dividers that prevented LED hotspots
 
-An LED hotspot is when, the light from the LED does not diffuse and you can see single points that are brighter than others. There have been many [white papers](https://www.osapublishing.org/DirectPDFAccess/FFF24F71-E3DE-D626-A23330C61CE7F158_198005/oe-18-8-8595.pdf) written about this subject and just as many very expensive solutions to this problem. 
+An LED hotspot is when, the light from the LED does not diffuse and you can see single points that are brighter than others. 
 
 <img src="https://blog.abluestar.com/public/uploads/stainglasswindow_hotspots.png" alt="led_array_from_led_strips"/>
 
-One of the simplest ways is to increase the distance from the LED to the diffusing panel. Finding the optional distance that doesn’t make your project too thick is always a challenge. Normally this comes down to trial an error.  A good rule of thumb is twice the distance from the next closest LED. 
+One of the simplest ways to solve this problem, is to increase the distance from the LED to the diffusing panel. Finding the optional distance that doesn’t make your project's profile too thick is always a challenge. Normally this comes down to trial an error. A good rule of thumb is twice the distance from the next closest LED. 
 
 Another solution is to add a wax paper as a diffusing material. I find that this doesn’t alway produce uniform results and I tend to avoid it. 
 
-In my case most of the sections in my panels are 20 mm apart from each other. After trial and error I ended up using a divider with the height of 30 mm. 
+In my case, most of the sections in my panels are 20 mm apart from each other. After a bit of trial and error I ended up using a divider with the height of 30 mm. 
 
 ### Positioning the LEDs in the segments
 
@@ -54,19 +54,19 @@ I could have made a sheet of LED strips and map the LEDs to each segment. This w
 
 <img src="https://blog.abluestar.com/public/uploads/led_array_from_led_strips.jpg" alt="led_array_from_led_strips"/>
 
-The issue is that there would be many wasted LEDs under the dividers or in the corners of the segments. Mapping each segment would take a lot of time. 
+The issue is that many of the LEDS wouldn't add value. LEDs under the dividers or in the corners of the segments. Mapping each segment would also take a lot of time. 
 
-Instead I used “Square” style LEDs that have mounting flanges built into them. 
+Instead I used "Square" style LEDs that have mounting flanges built into them. 
 
 <img src="https://blog.abluestar.com/public/uploads/led_pixels_square-profile.jpg" alt="Square LEDs"/>
 
-Then created a backplane for these LEDS to be mounted on. The backplane has a series of 11.5mm holes in the center of each of the different segments. The issue with this choice is that I have to have another sheet of acrylic behind dividers. This adds to the cost of this project. 
+Then created a backplane for these LEDS to be mounted on. The backplane has a series of 11.5mm holes that aline with the in the center of each of the different segments. The issue with this choice is that it requires another sheet of acrylic behind dividers. This adds to the cost of this project. 
 
 <img src="https://blog.abluestar.com/public/uploads/stainglasswindow_ledmount.png" alt="LED mount"/>
 
 ### Results 
 
-This was the results of the first tech demo. I am reasonably happy with the way this one came out. I discovered that the spacing between the segments could be a lot smaller. In this tech demo I sed 10 mm. In later designs I shrunk the spacing down to 3mm. 
+This was the results of the first tech demo. I am reasonably happy with the way this one came out. I discovered that the spacing between the segments could be a lot smaller. In this tech demo I used 10 mm spacing. In later designs I shrunk the spacing down to 3mm. 
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Bha3XUBloLC/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/Bha3XUBloLC/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Steven Smethurst (@funvill)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-11T06:17:35+00:00">Apr 10, 2018 at 11:17pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
 
