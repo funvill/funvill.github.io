@@ -8,6 +8,7 @@ Blog posts about the stain glass windows project.
 
 * [Inspiration](https://blog.abluestar.com/inspiration-stained-glass-windows-project) 
 * [Tech Demo](https://blog.abluestar.com/techdemo-stained-glass-windows-project) 
+* [Designing panels](https://blog.abluestar.com/designing-panels-stained-glass-windows-project)
 
 
 
