@@ -8,7 +8,7 @@ author: funvill
 
 This post is part of a series on the [stained glass windows project](https://blog.abluestar.com/projects/2018-stained-glass-window). 
 
-When starting a new project, I tend to create a series of tech demo of all the different techniques that I am planning on using in the project. This helps me find out what works and what doesn't. 
+When starting a new project, I tend to create a series of tech demos of all the different techniques that I am planning on using in the project. This helps me find out what works and what doesn't. 
 
 Below are some of the design questions that I wanted to solve while working on the tech demo.
 
@@ -36,7 +36,7 @@ I decided to use a bunch of card stock I had on hand then tapping the cardstock 
 
 ### Finding the right height for the dividers that prevented LED hotspots
 
-An LED hotspot is when, the light from the LED does not diffuse and you can see single points that are brighter than others. 
+An LED hotspot is when the light from the LED does not diffuse, and you can see single points that are brighter than others. 
 
 <img src="https://blog.abluestar.com/public/uploads/stainglasswindow_hotspots.png" alt="led_array_from_led_strips"/>
 
