@@ -16,7 +16,7 @@ For each pattern, I create a legend image that shows the offset of each LED. Thi
 
 <img src="https://blog.abluestar.com/public/uploads/stainglasswindow_legend.png" alt="Legend" />
 
-Then I create a series of sets for each different geometry within the pattern.
+Then I created a series of sets for each different geometry within the pattern.
 
 For example: Star #1 = 3,4,9,14,13,10,3. Star #4 = 27,28,31,38,37,32. Cube #5=15,16,20. Cube #8=24,25,33 
 
