@@ -13,7 +13,8 @@ author: funvill
 * [List of different types of word play](https://en.wikipedia.org/wiki/List_of_forms_of_word_play) 
 * [Cipher on the William and Elizebeth Friedman tombstone](http://elonka.com/friedman/) - At the very bottom of the tombstone, a simple epitaph, "Knowledge Is Power". But actually not as simple as it appears
 * [Becareful what you copy](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66) - Using Zero-width characters are invisible, ‘non-printing’ characters... [Hackernews](https://news.ycombinator.com/item?id=16749422) 
-
+* [LifeFaker](http://lifefaker.com/?=HackerNews) - Lifefaker.com is a fictitious website where you can purchase social media packages to create a veneered filter of your life to present to others. Packages include: "Look At My Holiday And Cry", "My Unachievable Body", "I Just Happen To Live Here" and many more. [Launch blob post](https://sanctus.io/social-media-mental-health-b1803b6b475f)
+* [9,096 Stars in the Sky](http://www.skyandtelescope.com/astronomy-resources/how-many-stars-night-sky-09172014/) - If you ever looked up into the night sky and asked yourself how many stars you could see, Maybe you said there must be millions of stars out there. A romantic idea but no. There is exactly 9,096 stars in the sky that are visible without magnification...
 
 ## Robots 
 
