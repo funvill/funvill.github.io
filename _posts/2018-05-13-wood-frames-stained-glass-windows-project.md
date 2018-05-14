@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 title: Wood frames - Stained glass windows project
-date: '2018-05-14 00:01'
+date: '2018-05-13 00:01'
 author: funvill
 ---
 
