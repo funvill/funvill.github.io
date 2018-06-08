@@ -1,10 +1,13 @@
 ---
-published: false
+published: true
 layout: post
-title: next brain dump
-date: '2018-03-31 00:01'
+title: May 2018 brain dump 
+date: '2018-05-31 00:01'
 author: funvill
 ---
+
+Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post ([Jan 2018](https://blog.abluestar.com/january-2018-brain-dump), [May 2017](https://blog.abluestar.com/notes-from-may_2017), [April 2017](https://blog.abluestar.com/notes-from-april_2017), [March 2017](https://blog.abluestar.com/notes-from-march_2017) ). (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes) 
+
 
 ## Random interesting links
 
@@ -15,6 +18,8 @@ author: funvill
 * [Becareful what you copy](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66) - Using Zero-width characters are invisible, ‘non-printing’ characters... [Hackernews](https://news.ycombinator.com/item?id=16749422) 
 * [LifeFaker](http://lifefaker.com/?=HackerNews) - Lifefaker.com is a fictitious website where you can purchase social media packages to create a veneered filter of your life to present to others. Packages include: "Look At My Holiday And Cry", "My Unachievable Body", "I Just Happen To Live Here" and many more. [Launch blob post](https://sanctus.io/social-media-mental-health-b1803b6b475f)
 * [9,096 Stars in the Sky](http://www.skyandtelescope.com/astronomy-resources/how-many-stars-night-sky-09172014/) - If you ever looked up into the night sky and asked yourself how many stars you could see, Maybe you said there must be millions of stars out there. A romantic idea but no. There is exactly 9,096 stars in the sky that are visible without magnification...
+* [False Knees](http://falseknees.com/) - A comic about birds. Quite good. 
+* [Dont Hit Save](http://donthitsave.com/) - A comic about programers trying to get ouf o work. 
 
 ## Robots 
 
@@ -26,6 +31,20 @@ author: funvill
 * [ESPEasy](https://www.letscontrolit.com/wiki/index.php/ESPEasy) - The ESP Easy firmware can be used to turn the ESP module into an easy multifunction sensor device for Home Automation solutions like Domoticz. Configuration of the ESP Easy is entirely web based, so once you've got the firmware loaded, you don't need any other tool besides a common web browser.
 * [Favorite open source esp project](https://www.reddit.com/r/esp8266/comments/86csl3/whats_your_favorite_open_source_esp_project/) - A list of user submitted ESP projects. 
 
+## Projects 
+
+* [ROMBUS PINBALL - A LATTEPANDA MINI PINBALL MACHINE](https://circuitbeard.co.uk/2018/05/12/rombus-pinball-a-lattepanda-mini-pinball-machine/) - A mini pinball table that uses a tiny SBC and dule screens. [source code](https://github.com/circuitbeard/rombus-pinball) 
+* [PewPew Lite FeatherWing](https://www.tindie.com/products/deshipu/pewpew-lite-featherwing/?pt=ac_prod_search) - A feather wing with a 8x8 led matrix and a few buttons. Great for a simple badge.
+* [CRAWLING A DUNGEON, 64 PIXELS AT A TIME](https://hackaday.com/2018/05/05/crawling-a-dungeon-64-pixels-at-a-time/) - A simple dungen crawler on a 8x8 led grid. 
+* [TWANG](https://github.com/Critters/TWANG) - A Arduino-based, 1D, LED loving, dungeon crawler. inspired by Line Wobbler by Robin B. [Video](https://www.youtube.com/watch?v=9yf_VINmbTE&list=PL1_Z89_x_Dff-XhOxlx6sQ38wJqe1X2M0)
+* [Wooden lego planter](http://www.notcot.com/archives/2015/06/plant-experiment1.php) - A neat project where they made a lego planter box out of CNC cut wood. 
+* [ECLIPSE LAMP](http://www.instructables.com/id/Eclipse-Lamp/) - An interesting take a on a rotating lamp with LEDS and wood veneer 
+* [RPi Photoframe connected to google photos](https://mrworf.github.io/photoframe/2018/02/26/setting-up-photoframe) 
+
 ## Vancouver, Canada 
 
 * [Heritage Horns](https://www.canadaplace.ca/experience/heritage-horns/) -  Heritage Horns sound the first four notes of our national anthem everyday at noon
+
+## Art 
+
+* [Matthew Shlian](https://ghostly.com/artists/matthew-shlian) - A paper artist that creates geomertry that extends out of the page. "The Process Series, a collection rooted in basic geometry and inspired by electronic music. His second series with Ghostly, The Tessellation Series, evokes the joy of improvisation, and hints at a wellspring of inspiring works to come." 
