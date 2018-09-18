@@ -1,8 +1,14 @@
-# Artist statement
+---
+layout: page
+title: CV
+date: '2018-09-17 00:01'
+---
+
+## Artist statement
 
 Steven Smethurst is a Vancouver based maker, hacker, and installation artist. Steven primarily works with light and technology. Light changes everything around it. It’s messy and bleeds into and over everything. It is loud and demands attention but its effects are temporary. Remove the light from the environment and the environment returns to its natural unaltered state. Steven’s technological background adds unique interactive elements to his work. His work reacts to people, inviting them to touch, play and interact with his installations. “To gain a deeper understanding of art, you need to touch and interact with it“. 
 
-# Exhibitions 
+## Exhibitions 
 
 - (2018) [Stained Glass Windows](https://blog.abluestar.com/projects/2018-stained-glass-window) | Vancouver Culture crawl. 
 - (2017) [Thunderstorm cloud](https://blog.abluestar.com/) | Luminescence Deer Lake Gallery, Vancouver Mini Maker Faire 
@@ -19,7 +25,7 @@ Steven Smethurst is a Vancouver based maker, hacker, and installation artist. St
 - (2014) [Thread map of vancouver](https://blog.abluestar.com/projects/2014-threadmapofvancouver) | Maker labs 
 - (2014) [The Giant Claw Game!](https://blog.abluestar.com/projects/2014-thegiantclawgame) | Vancouver Mini Maker Faire 
 
-# Awards and Grants
+## Awards and Grants
 
 - 2016, Vancouver Foundation grant - Heart of Mount Pleasant
 - 2015, Vancouver Foundation grant - Fairy doors  
