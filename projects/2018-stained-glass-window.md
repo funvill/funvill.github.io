@@ -4,7 +4,11 @@ title: (2018) Stained Glass Windows
 excerpt: A series of hexagon stain glass windows 
 ---
 
-Blog posts about the stain glass windows project. 
+A series of geometric, illuminated, digital stained glass windows. Each window is illuminated with dynamic, colorful, patterns that create unique animations in the glass. 
+
+The lights of each window has been custom-programmed by an ever-evolving algorithm, producing unique patterns that guarantee a visual experience that is both singular, and profoundly logical, seeding the observer's mind and heart with a profound sense of wonder.
+
+
 
 * [Inspiration](https://blog.abluestar.com/inspiration-stained-glass-windows-project) 
 * [Tech Demo](https://blog.abluestar.com/techdemo-stained-glass-windows-project) 
