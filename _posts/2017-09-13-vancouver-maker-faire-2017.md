@@ -6,7 +6,7 @@ date: '2017-09-13 00:01'
 author: funvill
 ---
 
-This year for the vancouver maker faire I decided to show off all my LED and lighting projects that I had created over the past few years. I also created a special project just for Vancouver Maker Faire the LED Pillar. 
+This year for the vancouver maker faire I decided to show off some my LED and lighting projects that I had created over the past few years. I also created a special project just for Vancouver Maker Faire the LED Pillar. 
 
 ![Vancouver Maker Faire 2017 projects](http://blog.abluestar.com/public/uploads/20170608_192551.jpg "Vancouver Maker Faire 2017 projects")
 
