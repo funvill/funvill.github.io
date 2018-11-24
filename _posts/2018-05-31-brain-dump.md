@@ -19,7 +19,7 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post ([Jan 20
 * [LifeFaker](http://lifefaker.com/?=HackerNews) - Lifefaker.com is a fictitious website where you can purchase social media packages to create a veneered filter of your life to present to others. Packages include: "Look At My Holiday And Cry", "My Unachievable Body", "I Just Happen To Live Here" and many more. [Launch blob post](https://sanctus.io/social-media-mental-health-b1803b6b475f)
 * [9,096 Stars in the Sky](http://www.skyandtelescope.com/astronomy-resources/how-many-stars-night-sky-09172014/) - If you ever looked up into the night sky and asked yourself how many stars you could see, Maybe you said there must be millions of stars out there. A romantic idea but no. There is exactly 9,096 stars in the sky that are visible without magnification...
 * [False Knees](http://falseknees.com/) - A comic about birds. Quite good. 
-* [Dont Hit Save](http://donthitsave.com/) - A comic about programers trying to get ouf o work. 
+* [Dont Hit Save](http://donthitsave.com/) - A comic about programers trying to get out of work. 
 
 ## Robots 
 
