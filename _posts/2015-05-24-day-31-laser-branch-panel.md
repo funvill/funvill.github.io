@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Day 31 - Laser branch panel
 date: 2015-05-26 00:31
-author: funvill
+categories: blog
 ---
 
 Full size

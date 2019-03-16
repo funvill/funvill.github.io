@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: They're made out of data
 date: 2010-12-27 15:08
-author: funvill
-comments: true
-categories: [Uncategorized]
+categories: blog, [Uncategorized]
 ---
 <em>With apologies to <a href="http://www.terrybisson.com/">Terry Bisson</a>. <strong>Warning</strong>: Tron 2 spoilers.</em>
 <blockquote>"They're made out of data."

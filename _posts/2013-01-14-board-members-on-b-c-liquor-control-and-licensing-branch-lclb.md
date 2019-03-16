@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Board members on B.C. Liquor Control and Licensing Branch (LCLB)
 date: 2013-01-14 12:05
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
 This last week I have been investigating the B.C. Liquor Control and Licensing Branch to find out who has been making the new laws that the LCLB has been interducing .
 <ul>

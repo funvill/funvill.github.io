@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Last windows boot time, Install date
 date: 2008-03-26 13:29
-author: funvill
-comments: true
-categories: [dos, Tips and Tricks, windows]
+categories: blog, [dos, Tips and Tricks, windows]
 ---
 Do you remember the exact date or time when you last switched on the computer ?
 Here&quot;s a simple DOS command to help you out:

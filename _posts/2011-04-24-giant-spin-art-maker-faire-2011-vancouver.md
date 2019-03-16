@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Giant spin art - Maker Faire 2011 Vancouver
 date: 2011-04-24 15:30
-author: funvill
-comments: true
-categories: [Projects]
+categories: blog, [Projects]
 ---
 I wanted to create a very simple project for <a href="http://makerfaire.ca/">Maker Faire Vancouver</a> that I could do in a weekend and something that people could take home with them as a memento.
 

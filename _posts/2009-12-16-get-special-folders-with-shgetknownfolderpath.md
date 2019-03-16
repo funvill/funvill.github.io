@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Get special folders with SHGetKnownFolderPath
 date: 2009-12-16 15:04
-author: funvill
-comments: true
-categories: [Tips and Tricks]
+categories: blog, [Tips and Tricks]
 ---
 This application will print the special folders that you should be storing your applcations data in.
 UAC on Windows Vista/7 will no longer alowe you to write to files in the "C:\Program Files\" with out elevation to administrator. Instead you should be writting your settings file to the "LocalAppData" folder and your output and log file to "Documents" folder.

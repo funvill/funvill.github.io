@@ -1,9 +1,8 @@
 ---
-published: true
-layout: post
+layout: single
 title: Earthquake Kits for Vancouver
 date: '2017-04-26 00:01'
-author: funvill
+categories: blog
 ---
 
 I live in [Vancouver, BC](https://en.wikipedia.org/wiki/Vancouver), a city near the edge of two of these [tectonic plates](https://en.wikipedia.org/wiki/Plate_tectonics): the massive North American plate, and the smaller Juan de Fuca plate. There is a good chance that me, and my loved ones are going to live though a large earthquake in my lifetime. 
@@ -31,7 +30,7 @@ Below is what is in my own kit based on based on the recommendations from the Ci
 - $0.25 each 4x [Cheap Carabiner](https://www.aliexpress.com/item/2Pcs-Carabiner-D-Shaped-Rope-Hook-Screw-Lock-Keyring-Camping-Kits-Outdoor-Sports-Rope-Buckle-BHU2/1974214917.html) - These cheap ones will not hold your weight but they are useful for hanging things and attaching to cables, etc... 
 - $0.25 Dust masks - Simple paper ones, They are light. 
 - $0.10 5x garbage bags - Useful for a lot of things, including picking up trash!
-- $0.08 [Handheld compass](https://www.alibaba.com/product-detail/20mm-Diameter-Liquid-Filled-Luminous-Dial_60498838793.html?spm=a2700.7724838.0.0.sCZ7XX) - I had plenty of compasses left over from [the compass table](https://blog.abluestar.com/look-what-i-made-compass-table) that I made a few years ago.
+- $0.08 [Handheld compass](https://www.alibaba.com/product-detail/20mm-Diameter-Liquid-Filled-Luminous-Dial_60498838793.html?spm=a2700.7724838.0.0.sCZ7XX) - I had plenty of compasses left over from [the compass table](/look-what-i-made-compass-table) that I made a few years ago.
 - FREE USB drive - I get these for free all the time. I added a encrypted archive and filled it with a list of emergency contact info, copies of Identification, insurance papers and other important documents. 
 - FREE Pencil/Pad of paper
 - FREE Pack of paying cards - You can get these for free from casinos. Need something to pass the time with. 

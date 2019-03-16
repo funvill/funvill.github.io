@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Twenty-One Aces
 date: 2010-09-06 16:27
-author: funvill
-comments: true
-categories: [Dice, Dice, drinking, game, Games, Games]
+categories: blog, [Dice, Dice, drinking, game, Games, Games]
 ---
 Twenty-One Aces is a dice drinking game.
 

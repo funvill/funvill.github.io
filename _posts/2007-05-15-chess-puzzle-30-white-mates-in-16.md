@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Chess Puzzle #31 - White mates in 16
 date: 2007-05-15 09:00
-author: funvill
-comments: true
-categories: [Chess]
+categories: blog, Chess
 ---
 <strong>White to play, White mates in 16 [O.T.Blathy]</strong>
 <p style="text-align: center"><img src="http://www.abluestar.com/scripts/chess_image.php?ff=8/8/8/2p6/1pp5/brpp4/qpprpK1P/1nkbn3" /></p>

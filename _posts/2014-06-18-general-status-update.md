@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: General status update
 date: 2014-06-18 00:16
-author: funvill
-comments: true
-categories: [Uncategorized]
+categories: blog, [Uncategorized]
 ---
 Its been 6 months since I last updated this site. Lots have been going on here are the highlights.
 

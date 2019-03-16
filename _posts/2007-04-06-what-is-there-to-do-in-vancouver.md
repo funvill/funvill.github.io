@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: single
 title: What is there to do in Vancouver?
 date: 2007-04-06 09:00
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
 Living in Vancouver I find myself asking the same question all too often.
 What should I do in Vancouver? or What is going on this weekend in Vancouver?
 
-I have made a pretty extensive list of <a href="http://blog.abluestar.com/things-to-do-in-vancouver/">touristy places to visit in Vancouver</a> a few months ago but I still find my self asking the same questions. There is only so many times you can visit the <a href="http://www.vanaqua.org/home/">The Vancouver Aquarium</a> before you want to drown yourself.
+I have made a pretty extensive list of <a href="/things-to-do-in-vancouver/">touristy places to visit in Vancouver</a> a few months ago but I still find my self asking the same questions. There is only so many times you can visit the <a href="http://www.vanaqua.org/home/">The Vancouver Aquarium</a> before you want to drown yourself.
 
 So I have compiled this list of places that you can go and look to find something to do in Vancouver.
 

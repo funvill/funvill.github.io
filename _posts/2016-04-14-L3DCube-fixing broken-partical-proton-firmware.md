@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Fixing a broken particle photon firmware in windows for the L3D Cube
 date: '2016-04-14 22:39'
-author: funvill
+categories: blog
 published: true
 ---
 

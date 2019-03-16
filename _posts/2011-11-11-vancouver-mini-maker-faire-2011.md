@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Vancouver Mini Maker Faire 2011
 date: 2011-11-11 15:49
-author: funvill
-comments: true
-categories: [Canada, Interesting, Projects, Vancouver, Vancouver]
+categories: blog, [Canada, Interesting, Projects, Vancouver, Vancouver]
 ---
 <strong>* I found this post in my drafts, unfinished, lost and forgotten. I decided to post it, unfinished instead of deleting it. * </strong>
 
@@ -14,8 +12,8 @@ When I heard about this even a few months ago at <a href="http://vancouver.hacks
 
 Instead I made a few smaller projects just in time for Vancouver mini Maker Faire 2011.
 <ul>
-	<li><a href="http://blog.abluestar.com/maker-faire-sign-posts/">Sign posts</a></li>
-	<li><a href="http://blog.abluestar.com/spin-art-vancouver-mini-maker-faire-2011/">Giant Spin art box. </a></li>
+	<li><a href="/maker-faire-sign-posts/">Sign posts</a></li>
+	<li><a href="/spin-art-vancouver-mini-maker-faire-2011/">Giant Spin art box. </a></li>
 </ul>
 There is no way I could catalog all the interesting things that I saw over the weekend so here are some of the highlights.
 
@@ -33,11 +31,11 @@ httpv://www.youtube.com/watch?v=tIUein0F2_Q
 <strong>Robot playground
 </strong>Robots, robots, and robots. In this area different robots interacted and played with each other, some nicer then others.
 
-<a href="http://blog.abluestar.com/public/uploads/2011/06/IMG_2919.jpg"><img class="alignnone size-thumbnail wp-image-1569" title="IMG_2919" src="http://blog.abluestar.com/public/uploads/2011/06/IMG_2919-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://blog.abluestar.com/public/uploads/2011/06/IMG_3121.jpg"><img class="alignnone size-thumbnail wp-image-1572" title="IMG_3121" src="http://blog.abluestar.com/public/uploads/2011/06/IMG_3121-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://blog.abluestar.com/public/uploads/2011/06/IMG_3027.jpg"><img class="alignnone size-thumbnail wp-image-1571" title="IMG_3027" src="http://blog.abluestar.com/public/uploads/2011/06/IMG_3027-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://blog.abluestar.com/public/uploads/2011/06/IMG_2919.jpg"><img class="alignnone size-thumbnail wp-image-1569" title="IMG_2919" src="http://blog.abluestar.com/public/uploads/2011/06/IMG_2919-150x150.jpg" alt="" width="150" height="150" /></a>
+<a href="/public/uploads/2011/06/IMG_2919.jpg"><img class="alignnone size-thumbnail wp-image-1569" title="IMG_2919" src="/public/uploads/2011/06/IMG_2919-150x150.jpg" alt="" width="150" height="150" /></a> <a href="/public/uploads/2011/06/IMG_3121.jpg"><img class="alignnone size-thumbnail wp-image-1572" title="IMG_3121" src="/public/uploads/2011/06/IMG_3121-150x150.jpg" alt="" width="150" height="150" /></a> <a href="/public/uploads/2011/06/IMG_3027.jpg"><img class="alignnone size-thumbnail wp-image-1571" title="IMG_3027" src="/public/uploads/2011/06/IMG_3027-150x150.jpg" alt="" width="150" height="150" /></a> <a href="/public/uploads/2011/06/IMG_2919.jpg"><img class="alignnone size-thumbnail wp-image-1569" title="IMG_2919" src="/public/uploads/2011/06/IMG_2919-150x150.jpg" alt="" width="150" height="150" /></a>
 
 <strong>Music boxes </strong>
 You yell a word in to a box, it records 8 secs of audio and loops it back to you.
 
-<a href="http://blog.abluestar.com/public/uploads/2011/06/IMG_2927.jpg"><img class="alignnone size-medium wp-image-1567" title="IMG_2927" src="http://blog.abluestar.com/public/uploads/2011/06/IMG_2927-300x225.jpg" alt="" width="300" height="225" /></a> <a href="http://blog.abluestar.com/public/uploads/2011/06/IMG_2926.jpg"><img class="alignnone size-medium wp-image-1568" title="IMG_2926" src="http://blog.abluestar.com/public/uploads/2011/06/IMG_2926-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="/public/uploads/2011/06/IMG_2927.jpg"><img class="alignnone size-medium wp-image-1567" title="IMG_2927" src="/public/uploads/2011/06/IMG_2927-300x225.jpg" alt="" width="300" height="225" /></a> <a href="/public/uploads/2011/06/IMG_2926.jpg"><img class="alignnone size-medium wp-image-1568" title="IMG_2926" src="/public/uploads/2011/06/IMG_2926-300x225.jpg" alt="" width="300" height="225" /></a>
 
 &nbsp;

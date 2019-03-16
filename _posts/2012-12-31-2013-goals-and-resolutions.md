@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: 2013 Goals and Resolutions
 date: 2012-12-31 00:00
-author: funvill
-comments: true
-categories: [News]
+categories: blog, [News]
 ---
 <strong>Goals and Resolutions for 2013
 </strong>(<em>In no particular order</em>)
@@ -17,6 +15,6 @@ categories: [News]
 	<li>Start using <a href="https://ifttt.com/">ifttt.com</a> more to help automate my life.</li>
 	<li>Create more sensors to <a href="http://quantifiedself.com">monitor my life</a>.</li>
 </ul>
-It looks like I have only ever done one post like this in the past <a href="http://blog.abluestar.com/what-i-did-in-2010-year-end-review/">What I did in 2010, Year end review</a>. It looks like I have accomplished all the goals I set out for my self in 2010, Woot!
+It looks like I have only ever done one post like this in the past <a href="/what-i-did-in-2010-year-end-review/">What I did in 2010, Year end review</a>. It looks like I have accomplished all the goals I set out for my self in 2010, Woot!
 
 &nbsp;

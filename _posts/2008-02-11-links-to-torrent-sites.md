@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Links to torrent sites
 date: 2008-02-11 01:56
-author: funvill
-comments: true
-categories: [Interesting]
+categories: blog, [Interesting]
 ---
 This is a list of torrent sites that I use regularly. Ranked by popularity
 <ul>

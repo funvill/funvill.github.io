@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Two foot James bond
 date: 2007-04-25 09:00
-author: funvill
-comments: true
-categories: [Media]
+categories: blog, [Media]
 ---
 Found with the help of the good people at <a href="http://www.thevancouverite.com/vancouver_film/two_foot_james_bond_seriously/">thevancouverite.com</a>
 

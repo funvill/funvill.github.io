@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: ARDUINO and MaxSonar EZ1
 date: 2009-07-08 10:51
-author: funvill
-comments: true
-categories: [Arduino, Arduino, Development, MaxSonar EZ0, MaxSonar EZ1, robots, sensor, source]
+categories: blog, [Arduino, Arduino, Development, MaxSonar EZ0, MaxSonar EZ1, robots, sensor, source]
 ---
 <strong>Update: 13 July 2009, Resolved with the help of <em>Bob Gross. User error</em> see notes below.</strong>
 

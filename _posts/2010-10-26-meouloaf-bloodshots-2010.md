@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Meouloaf -- Bloodshots 2010
 date: 2010-10-26 10:43
-author: funvill
-comments: true
-categories: [Media]
+categories: blog, [Media]
 ---
 I demand that you watch this and rate it up!!
 Me and a few friends got together this weekend and made a short horror movie in 48 hours. Now we need your help in voting it up.

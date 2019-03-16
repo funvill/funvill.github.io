@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: How to install PHPBB 3.0.1
 date: 2008-06-05 22:36
-author: funvill
-comments: true
-categories: [Web development]
+categories: blog, [Web development]
 ---
 This tutorial will walk you thou the steps to install <a href="http://www.phpbb.com/">PHPBB3</a> on your system.
 
@@ -28,40 +26,40 @@ For this tutorial we will be use a <a href="http://www.apache.org/">apache.org</
 3) Upload the contents of the archive to your web server. (/abluestar.com/temp/phpBB3/)
 4) Browse to the installation page
 
-<a href="http://blog.abluestar.com/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-432" title="screenshot-introduction" src="http://blog.abluestar.com/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5-300x170.png" alt="" width="300" height="170" /></a>
+<a href="/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-432" title="screenshot-introduction" src="/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5-300x170.png" alt="" width="300" height="170" /></a>
 
 5) Click the install tab at the top of the page. Then click the €œProceed to next step€ button.
 
-<a href="http://blog.abluestar.com/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5-1.png"><img class="alignnone size-medium wp-image-433" title="screenshot-introduction-mozilla-firefox-3-beta-5-1" src="http://blog.abluestar.com/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5-1-300x187.png" alt="" width="300" height="187" /></a>
+<a href="/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5-1.png"><img class="alignnone size-medium wp-image-433" title="screenshot-introduction-mozilla-firefox-3-beta-5-1" src="/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5-1-300x187.png" alt="" width="300" height="187" /></a>
 
 6) On this page your system will be checked for the basic requirements.
 
-<a href="http://blog.abluestar.com/public/uploads/2008/06/screenshot-requirements-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-434" title="screenshot-requirements-mozilla-firefox-3-beta-5" src="http://blog.abluestar.com/public/uploads/2008/06/screenshot-requirements-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
+<a href="/public/uploads/2008/06/screenshot-requirements-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-434" title="screenshot-requirements-mozilla-firefox-3-beta-5" src="/public/uploads/2008/06/screenshot-requirements-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
 
 7) Enter your database settings
 
-<a href="http://blog.abluestar.com/public/uploads/2008/06/screenshot-mysql.png"><img class="alignnone size-medium wp-image-436" title="screenshot-mysql" src="http://blog.abluestar.com/public/uploads/2008/06/screenshot-mysql-300x211.png" alt="" width="300" height="211" /></a>
+<a href="/public/uploads/2008/06/screenshot-mysql.png"><img class="alignnone size-medium wp-image-436" title="screenshot-mysql" src="/public/uploads/2008/06/screenshot-mysql-300x211.png" alt="" width="300" height="211" /></a>
 
 8 ) Set up the boards administrative user
 
-<a href="http://blog.abluestar.com/public/uploads/2008/06/screenshot-administrator-details-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-437" title="screenshot-administrator-details-mozilla-firefox-3-beta-5" src="http://blog.abluestar.com/public/uploads/2008/06/screenshot-administrator-details-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
+<a href="/public/uploads/2008/06/screenshot-administrator-details-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-437" title="screenshot-administrator-details-mozilla-firefox-3-beta-5" src="/public/uploads/2008/06/screenshot-administrator-details-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
 
 9) Set Advanced settings. Most of these settings can be left as there defaults or changed later.
 
-<a href="http://blog.abluestar.com/public/uploads/2008/06/screenshot-advanced-settings-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-438" title="screenshot-advanced-settings-mozilla-firefox-3-beta-5" src="http://blog.abluestar.com/public/uploads/2008/06/screenshot-advanced-settings-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
+<a href="/public/uploads/2008/06/screenshot-advanced-settings-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-438" title="screenshot-advanced-settings-mozilla-firefox-3-beta-5" src="/public/uploads/2008/06/screenshot-advanced-settings-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
 
 10) Create database tables. This page creates the nessary tables on your database for the forum system to store your settings.
 
-<a href="http://blog.abluestar.com/public/uploads/2008/06/screenshot-create-database-tables-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-439" title="screenshot-create-database-tables-mozilla-firefox-3-beta-5" src="http://blog.abluestar.com/public/uploads/2008/06/screenshot-create-database-tables-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
+<a href="/public/uploads/2008/06/screenshot-create-database-tables-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-439" title="screenshot-create-database-tables-mozilla-firefox-3-beta-5" src="/public/uploads/2008/06/screenshot-create-database-tables-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
 
 11) Final stage, this is just a conformation page that everything has been installed correctly. You can now browse to the install directory.
 
 12) Main page. At this stage you should delete the /install/ directory from the PHPBB3 folder.
 
-<a href="http://blog.abluestar.com/public/uploads/2008/06/screenshot-yourdomaincom-gco-information-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-440" title="screenshot-yourdomaincom-gco-information-mozilla-firefox-3-beta-5" src="http://blog.abluestar.com/public/uploads/2008/06/screenshot-yourdomaincom-gco-information-mozilla-firefox-3-beta-5-300x170.png" alt="" width="300" height="170" /></a>
+<a href="/public/uploads/2008/06/screenshot-yourdomaincom-gco-information-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-440" title="screenshot-yourdomaincom-gco-information-mozilla-firefox-3-beta-5" src="/public/uploads/2008/06/screenshot-yourdomaincom-gco-information-mozilla-firefox-3-beta-5-300x170.png" alt="" width="300" height="170" /></a>
 
 13) At this point you can log in to your forums adminitation panle and configure your forums to suit your needs, but this beyond the scope of this tutorial.
 
-<a href="http://blog.abluestar.com/public/uploads/2008/06/screenshot-yourdomaincom-gco-user-control-panel-gco-front-page-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-441" title="screenshot-yourdomaincom-gco-user-control-panel-gco-front-page-mozilla-firefox-3-beta-5" src="http://blog.abluestar.com/public/uploads/2008/06/screenshot-yourdomaincom-gco-user-control-panel-gco-front-page-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
+<a href="/public/uploads/2008/06/screenshot-yourdomaincom-gco-user-control-panel-gco-front-page-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-441" title="screenshot-yourdomaincom-gco-user-control-panel-gco-front-page-mozilla-firefox-3-beta-5" src="/public/uploads/2008/06/screenshot-yourdomaincom-gco-user-control-panel-gco-front-page-mozilla-firefox-3-beta-5-300x187.png" alt="" width="300" height="187" /></a>
 
 This tutorial was written for COMP2920, Steven Smethurst, B.J. Wilson, Dennis Warren 

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Why is everything so plain?
 date: 2008-10-23 09:41
-author: funvill
-comments: true
-categories: [Development]
+categories: blog, [Development]
 ---
 Why is everything so plain?
 

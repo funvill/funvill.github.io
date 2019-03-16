@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Danger Dice
 date: 2009-09-21 12:48
-author: funvill
-comments: true
-categories: [Dice, Dice, drinking, game, Games, Games]
+categories: blog, [Dice, Dice, drinking, game, Games, Games]
 ---
 Danger Dice is a Drinking game
 

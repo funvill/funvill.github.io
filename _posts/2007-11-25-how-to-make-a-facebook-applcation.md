@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: How to make a facebook applcation.
 date: 2007-11-25 18:02
-author: funvill
-comments: true
-categories: [Web development]
+categories: blog, [Web development]
 ---
 We are going to build a simple <a href="http://www.facebook.com/">facebook</a> application to demonstrate how to use the Facebook API.
 
@@ -18,8 +16,8 @@ We are going to build a simple <a href="http://www.facebook.com/">facebook</a> a
 <ol>
 	<li>Add the developers application to your facebook account.
 Goto: <a href="http://www.facebook.com/developers/">http://www.facebook.com/developers/</a> and add the developers application to your account.
-<img src="http://blog.abluestar.com/public/uploads/2007/11/adddevlopers.png" />After you sugsefuly add the devlopers application you should see the devlopers icon on the left sidebar.
-<img src="http://blog.abluestar.com/public/uploads/2007/11/adddevlopers2.png" /></li>
+<img src="/public/uploads/2007/11/adddevlopers.png" />After you sugsefuly add the devlopers application you should see the devlopers icon on the left sidebar.
+<img src="/public/uploads/2007/11/adddevlopers2.png" /></li>
 	<li>Create a new application
 Goto: <a href="http://www.facebook.com/developers/editapp.php?new">http://www.facebook.com/developers/editapp.php?new</a>
 <ol>
@@ -41,7 +39,7 @@ Goto: <a href="http://www.facebook.com/developers/editapp.php?new">http://www.fa
 </ol>
 All the fields are described in detail on the <a href="http://developers.facebook.com/documentation.php">Facebook documentations wiki</a>.
 
-<img src="http://blog.abluestar.com/public/uploads/2007/11/popfriends.png" />
+<img src="/public/uploads/2007/11/popfriends.png" />
 
 We have created out first Facebook application.
 People will be able to add this application to there accounts but it will not do anything just yet.</li>
@@ -89,10 +87,10 @@ echo "hello $user";</li>
 	<li>Add the application to your own Facebook account to test it.
 Goto your applications Canvas page: <a href="http://apps.facebook.com/comp1920tutorialapp/">http://apps.facebook.com/comp1920tutorialapp/</a>
 Add your application to your Facebook account.
-<img src="http://blog.abluestar.com/public/uploads/2007/11/addapplcation.png" /></li>
+<img src="/public/uploads/2007/11/addapplcation.png" /></li>
 	<li>Browse to your applications page
 Goto your applications Canvas page: <a href="http://apps.facebook.com/comp1920tutorialapp/">http://apps.facebook.com/comp1920tutorialapp/</a>
-<img src="http://blog.abluestar.com/public/uploads/2007/11/done.png" /></li>
+<img src="/public/uploads/2007/11/done.png" /></li>
 </ol>
 You have made your first working Facebook Application.
 In the next article we will be adding some functionality to the application to make it useful and describing how it all works.

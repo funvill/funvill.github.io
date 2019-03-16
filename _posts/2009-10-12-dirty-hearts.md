@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Dirty Hearts
 date: 2009-10-12 13:22
-author: funvill
-comments: true
-categories: [Cards, Cards, drinking, game, Games, Games]
+categories: blog, [Cards, Cards, drinking, game, Games, Games]
 ---
 Dirty Hearts is a Drinking, Cards game
 

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Questions
 date: 2010-03-29 17:42
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games]
+categories: blog, [drinking, game, Games, Games]
 ---
 Questions is a drinking game.
 

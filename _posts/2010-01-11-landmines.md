@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Landmines
 date: 2010-01-11 15:36
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games]
+categories: blog, [drinking, game, Games, Games]
 ---
 Landmines is a drinking game.
 

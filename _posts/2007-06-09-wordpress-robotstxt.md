@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Wordpress robots.txt
 date: 2007-06-09 09:00
-author: funvill
-comments: true
-categories: [Tips and Tricks, Web development]
+categories: blog, [Tips and Tricks, Web development]
 ---
 Recently Daily blog tips ran an <a href="http://www.dailyblogtips.com/collection-of-robotstxt-files/">article about Robots.txt</a> files. The article gives examples of other major websites and there robots.txt files but fails to mention the reason behind each rule.
 

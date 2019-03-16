@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Looking for a new host 
 date: 2010-04-15 12:42
-author: funvill
-comments: true
-categories: [Web development]
+categories: blog, [Web development]
 ---
 I been with a bunch of different hosts over the past few years
 <ul>

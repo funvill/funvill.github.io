@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Intro to Security, Passwords 
 date: 2013-09-25 21:20
-author: funvill
-comments: true
-categories: [Uncategorized]
+categories: blog, [Uncategorized]
 ---
 <h1>Passwords</h1>
 <strong>Long passwords</strong>

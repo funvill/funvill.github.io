@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Shut the Box
 date: 2010-05-24 15:17
-author: funvill
-comments: true
-categories: [Dice, Dice, game, Games, Games]
+categories: blog, [Dice, Dice, game, Games, Games]
 ---
 Shut the Box is a dice game.
 Shut the Box is a form of a patience game that can be played with two or more players in a competition.

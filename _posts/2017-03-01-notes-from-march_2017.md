@@ -1,17 +1,16 @@
 ---
-published: true
-layout: post
+layout: single
 title: Notes from March 2017
 date: '2017-03-01 00:01'
-author: funvill
+categories: blog
 ---
 
 Some of the things that I have found interesting in March 2017. This page is updated throughout the month of March. See [February 2017](/notes-from-february_2017) for the previous month.
 
 ## Thinkgs I made
 
-- [Laser Kaleidoscope](https://blog.abluestar.com/projects/2017-laser-kaleidoscope) - A circular light box that incorporates moving lasers which generate twisting fractal shapes. [Video](https://www.youtube.com/watch?v=XHqZNfPvEVY)
-- [Thunderstorm Cloud](https://blog.abluestar.com/projects/2017-thunderstorm-cloud) - An interactive lamp that mimics thunderstorm cloud
+- [Laser Kaleidoscope](/projects/2017-laser-kaleidoscope) - A circular light box that incorporates moving lasers which generate twisting fractal shapes. [Video](https://www.youtube.com/watch?v=XHqZNfPvEVY)
+- [Thunderstorm Cloud](/projects/2017-thunderstorm-cloud) - An interactive lamp that mimics thunderstorm cloud
 
 
 ## Projects 

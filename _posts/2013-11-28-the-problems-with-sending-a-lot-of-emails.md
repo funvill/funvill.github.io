@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: The problems with sending a lot of emails.
 date: 2013-11-28 21:20
-author: funvill
-comments: true
-categories: [Rants]
+categories: blog, [Rants]
 ---
 One of my side projects is a daily fiction magazines called <a href="http://www.everydayfiction.com/">EveryDayFiction.com</a>. We take user submitted stories of 1000 words or less. Give feedback on every submitted story, select the best stories, and publish a new story each and every day. We even pay our authors! We have been operating since 2007 and we have published 2500+ stories.
 <h3><strong>We send a lot of emails </strong></h3>

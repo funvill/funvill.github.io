@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Aces In The Pot
 date: 2009-06-07 18:53
-author: funvill
-comments: true
-categories: [Dice, Dice, gambling, Games, Games]
+categories: blog, [Dice, Dice, gambling, Games, Games]
 ---
 Aces In The Pot is a a very simple Gambling Dice game that I am told was played mainly in ports of very old cities.
 

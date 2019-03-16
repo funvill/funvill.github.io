@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Finding a good web host 
 date: 2007-05-14 09:00
-author: funvill
-comments: true
-categories: [Tips and Tricks, Web development]
+categories: blog, [Tips and Tricks, Web development]
 ---
 I am often asked who is the best web host?, what web host do you use? and what makes a good web host good?
 

@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: A perfect example of why you should use the same password on different websites. 
 date: 2011-01-31 19:19
-author: funvill
-comments: true
-categories: [Rants]
+categories: blog, [Rants]
 ---
-<img class="size-full wp-image-1249 alignright" title="pof" src="http://blog.abluestar.com/public/uploads/2011/01/pof.png" alt="" width="476" height="89" />Plenty of fish stores your password as plain text in their database. I know this because they send you a weekly email with updates to the site and puts your password at the bottom of the email so you can easily login.
+<img class="size-full wp-image-1249 alignright" title="pof" src="/public/uploads/2011/01/pof.png" alt="" width="476" height="89" />Plenty of fish stores your password as plain text in their database. I know this because they send you a weekly email with updates to the site and puts your password at the bottom of the email so you can easily login.
 
 <a href="http://it.slashdot.org/story/11/01/31/1856202/PlentyofFish-Hacked-Founder-Emails-Hackers-Mom?from=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+Slashdot/slashdot+(Slashdot)">Plenty of fish</a> was hacked and their data was stolen by a 3rd party. They now have your email address and a password to try for other sites.
 

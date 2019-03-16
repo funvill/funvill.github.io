@@ -1,10 +1,8 @@
 ---
-layout: post
-title: Our privacy policy: We sell your data. You get our content for €œfree.€ Deal?
+layout: single
+title: "Our privacy policy: We sell your data. You get our content for free, Deal?"
 date: 2010-12-10 12:12
-author: funvill
-comments: true
-categories: [Interesting, Rants, Web development]
+categories: blog, Interesting, Rants, Web development
 ---
 You have no expectation of privacy. We will collect any and all information you or your computer is willing to give us and do whatever we want with that information. Use of this site is entirely optional. Use at your own risk.
 
@@ -26,7 +24,7 @@ Anything and everything you are willing to give me and I plan to keep it for as 
 
 For example;
 <ul>
-	<li><a href="http://tools.ietf.org/html/rfc2616#page-53">HTTP Get request</a> - Your browser has to make a request of my server for some content this request must contain a bunch of information about your system for me to correctly route it back to you. <a href="http://blog.abluestar.com/public/uploads/2010/12/GetRequest.txt">Example</a>, Including;
+	<li><a href="http://tools.ietf.org/html/rfc2616#page-53">HTTP Get request</a> - Your browser has to make a request of my server for some content this request must contain a bunch of information about your system for me to correctly route it back to you. <a href="/public/uploads/2010/12/GetRequest.txt">Example</a>, Including;
 <ul>
 	<li>Your <a href="http://en.wikipedia.org/wiki/MAC_address">MAC address</a> and your <a href="http://en.wikipedia.org/wiki/IP_address">IP address</a></li>
 	<li>Your "<a href="http://en.wikipedia.org/wiki/User_agent">User-Agent</a>"</li>

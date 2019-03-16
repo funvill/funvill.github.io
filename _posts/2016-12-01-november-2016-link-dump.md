@@ -1,9 +1,8 @@
 ---
-published: true
-layout: post
+layout: single
 title: November 2016 interesting link dump
 date: '2016-12-01 00:01'
-author: funvill
+categories: blog
 ---
 
 What has interested me in the month of November 2016

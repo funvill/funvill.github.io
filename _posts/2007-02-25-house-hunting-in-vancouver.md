@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: House Hunting in Vancouver
 date: 2007-02-25 15:36
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2006/accomodation_house.gif" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/accomodation_house.gif" alt="accomodation_house.gif" title="accomodation_house.gif" style="margin: 5px 10px; padding: 3px" border="2" height="174" width="200" /></a>
+<a href="/public/uploads/2006/accomodation_house.gif" rel="lightbox"><img src="/public/uploads/2006/accomodation_house.gif" alt="accomodation_house.gif" title="accomodation_house.gif" style="margin: 5px 10px; padding: 3px" border="2" height="174" width="200" /></a>
 Some of my favorite house hunting websites in vancouver
 
 When responding to any online classified ad, it&quot;s always a good idea to provide lots of information about your self. During peek house hunting times such as September some ads can get upwards of 50+ responses a day, a potential renter can get overwhelmed. So make it easy for them to select you over the next guy. Clean well formatted response with your contact information.

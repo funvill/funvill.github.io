@@ -1,16 +1,14 @@
 ---
-layout: post
+layout: single
 title: The Giant Claw Game! - Relay H-Bridge and Circuit Design
 date: 2013-05-18 13:33
-author: funvill
-comments: true
-categories: [Projects]
+categories: blog, [Projects]
 ---
 Over the week I worked on the Relay H Bridge,  software and circuit diagrams for this project. Only 1 more week till it needs to be done.
 
 <strong>Relay H Bridge </strong>
 
-After finding out that my <a href="http://blog.abluestar.com/the-giant-claw-game-the-controls-system/">L298 H Bridge</a> was not powerful enough to operate my gantry motors last week, I switched over to use a Relay H Bridge. The advantages of using a relay instead of the L298 is that the relay can take a lot more current but the switching frequency is much slower (~40 hz)
+After finding out that my <a href="/the-giant-claw-game-the-controls-system/">L298 H Bridge</a> was not powerful enough to operate my gantry motors last week, I switched over to use a Relay H Bridge. The advantages of using a relay instead of the L298 is that the relay can take a lot more current but the switching frequency is much slower (~40 hz)
 <table>
 <tbody>
 <tr>
@@ -40,7 +38,7 @@ After finding out that my <a href="http://blog.abluestar.com/the-giant-claw-game
 </tr>
 </tbody>
 </table>
-<a href="http://blog.abluestar.com/public/uploads/2013/05/arduino-a-4-canali-5v-relay-modulo-di-scheda-di-espansione_kmunaz13430945734694.jpg"><img class="alignnone size-full wp-image-3302" alt="Relay H Bridge" src="http://blog.abluestar.com/public/uploads/2013/05/arduino-a-4-canali-5v-relay-modulo-di-scheda-di-espansione_kmunaz13430945734694.jpg" width="587" height="785" /></a>
+<a href="/public/uploads/2013/05/arduino-a-4-canali-5v-relay-modulo-di-scheda-di-espansione_kmunaz13430945734694.jpg"><img class="alignnone size-full wp-image-3302" alt="Relay H Bridge" src="/public/uploads/2013/05/arduino-a-4-canali-5v-relay-modulo-di-scheda-di-espansione_kmunaz13430945734694.jpg" width="587" height="785" /></a>
 
 Image source: <a href="http://nvhs.wordpress.com/project/catspberry/motor-controller/">http://nvhs.wordpress.com/project/catspberry/motor-controller/</a>
 
@@ -48,7 +46,7 @@ Image source: <a href="http://nvhs.wordpress.com/project/catspberry/motor-contr
 
 I don't have much experience with circuit design but I think this makes sense. I built it with <a href="https://www.circuitlab.com">circuitlab.com</a> and online circuit designer.
 
-<strong> <a href="http://blog.abluestar.com/public/uploads/2013/05/big-claw-game1.png"><img class="alignnone size-medium wp-image-3303" alt="big-claw-game circuit " src="http://blog.abluestar.com/public/uploads/2013/05/big-claw-game1-300x282.png" width="300" height="282" /></a></strong>
+<strong> <a href="/public/uploads/2013/05/big-claw-game1.png"><img class="alignnone size-medium wp-image-3303" alt="big-claw-game circuit " src="/public/uploads/2013/05/big-claw-game1-300x282.png" width="300" height="282" /></a></strong>
 
 &nbsp;
 

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: NSIS - tips and tricks 
 date: 2008-04-11 10:39
-author: funvill
-comments: true
-categories: [Development, nsis, programing, scripts, tips, Tips and Tricks, tricks, windows]
+categories: blog, [Development, nsis, programing, scripts, tips, Tips and Tricks, tricks, windows]
 ---
 I create a lot of windows application to make things easier for my customers. The simple act of coping a file from an email to a certain directory can become the most complicated tasks for a certain type of customer.
 

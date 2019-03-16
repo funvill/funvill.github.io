@@ -1,9 +1,8 @@
 ---
-published: true
-layout: post
+layout: single
 title: Laser cutting in Vancouver
 date: '2017-03-06 00:01'
-author: funvill
+categories: blog
 ---
 
 # Laser cutting in Vancouver
@@ -21,7 +20,7 @@ When I got a laser cutter for the first time I was hooked. I spent every spare m
 Most of my open source laser cutter projects can be found in my github repos. ( [@funvill](https://github.com/funvill?tab=repositories) )
 
 - [Laser cut wooden maps with public data](https://www.instructables.com/id/Laser-cut-wooden-maps-with-public-data/)
-- [The 100 day project](https://blog.abluestar.com/projects/2015-The100DayProject) - Most of the projects are done with a laser cutter.
+- [The 100 day project](/projects/2015-The100DayProject) - Most of the projects are done with a laser cutter.
 - [50x50cm branches light box](https://www.instagram.com/p/BGUzWsNg5Xm/?taken-by=funvill)
 - [Layered paper craft of the iron giant](https://www.instagram.com/p/5tRMI1A5Xu/?taken-by=funvill)
 
@@ -75,6 +74,6 @@ So many great resources for laser cutting. This section will grow over time as I
 
 ## Places to avoid
 
-With all the good places in Vancouver to get your laser cutter projects done there bound to be a few bad places. The Vancouver Hackspace (VHS) is one of these horrible places. Their laser cutter has broken for weeks and with no timeline for when it will be fixed, it's unreliable.  The safety course is pathetic and will get people hurt. Their home made air filter (Safety equipment) is sketchy at best, they just don't care about the heath of their members or neighbors. Their community is [toxic, where even good people will fail at their projects](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace).
+With all the good places in Vancouver to get your laser cutter projects done there bound to be a few bad places. The Vancouver Hackspace (VHS) is one of these horrible places. Their laser cutter has broken for weeks and with no timeline for when it will be fixed, it's unreliable.  The safety course is pathetic and will get people hurt. Their home made air filter (Safety equipment) is sketchy at best, they just don't care about the heath of their members or neighbors. Their community is [toxic, where even good people will fail at their projects](/alternatives-to-the-vancouver-hackspace).
 
 If you been to the Vancouver Hackspace, don't let them ruin your experience with laser cutters. Try one of the many alternatives.

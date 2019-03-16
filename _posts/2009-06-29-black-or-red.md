@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Black or Red
 date: 2009-06-29 10:21
-author: funvill
-comments: true
-categories: [Cards, Cards, drinking, game, Games, Games]
+categories: blog, [Cards, Cards, drinking, game, Games, Games]
 ---
 Black or Red is a Drinking game played with Cards
 

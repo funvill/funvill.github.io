@@ -1,12 +1,11 @@
 ---
-published: true
-layout: post
+layout: single
 title: Tech Demo - Stained glass windows project
 date: '2018-04-11 00:01'
-author: funvill
+categories: blog
 ---
 
-This post is part of a series on the [stained glass windows project](https://blog.abluestar.com/projects/2018-stained-glass-window). 
+This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 
 
 When starting a new project, I tend to create a series of tech demos of all the different techniques that I am planning on using in the project. This helps me find out what works and what doesn't. 
 
@@ -16,13 +15,13 @@ Below are some of the design questions that I wanted to solve while working on t
 
 My first thought was to use [Methylene chloride](https://en.wikipedia.org/wiki/Dichloromethane)  (acrylic glue). The issue with methylene chloride is that the parts have to be butted up to each other with no room for a gap. I could not guarantee that the laser cutter that I was using had tight enough tolerances that would prevent a gap from forming. Methylene chloride can also discolor acrylic and leave blotches or water marks that would be very visible when the light shines through the white acrylic. 
 
-<img src="https://blog.abluestar.com/public/uploads/stainglasswindow_segments.png" alt="Segments"/>
+<img src="/public/uploads/stainglasswindow_segments.png" alt="Segments"/>
 
 I thought about sandwiching the center plate between two clear plates of acrylic. This would be very expensive as each plate would need 4 layers of acrylic. Semi-transparent white inlay, Black borders, and two transparent sheets. 
 
 I ended up with the low tech method of using clear packing tape stretch across the entire plate on the inside. This worked quite well. 
 
-<img src="https://blog.abluestar.com/public/uploads/stainglasswindow_tape.png" alt="tape"/>
+<img src="/public/uploads/stainglasswindow_tape.png" alt="tape"/>
 
 ### Dividers between the different segments in the design. 
 
@@ -32,13 +31,13 @@ My first idea was to use the laser cutter to create slotted dividers between eac
 
 I decided to use a bunch of card stock I had on hand then tapping the cardstock together. This left imperfections in the dividers as the card stock got crinkled or deformed. The black borders helped hide the imperfections in the dividers. 
 
-<img src="https://blog.abluestar.com/public/uploads/stainglasswindow_dividers.png" alt="Dividers"/>
+<img src="/public/uploads/stainglasswindow_dividers.png" alt="Dividers"/>
 
 ### Finding the right height for the dividers that prevented LED hotspots
 
 An LED hotspot is when the light from the LED does not diffuse, and you can see single points that are brighter than others. 
 
-<img src="https://blog.abluestar.com/public/uploads/stainglasswindow_hotspots.png" alt="led_array_from_led_strips"/>
+<img src="/public/uploads/stainglasswindow_hotspots.png" alt="led_array_from_led_strips"/>
 
 One of the simplest ways to solve this problem, is to increase the distance from the LED to the diffusing panel. Finding the optional distance that doesn’t make your project's profile too thick is always a challenge. Normally this comes down to trial an error. A good rule of thumb is twice the distance from the next closest LED. 
 
@@ -52,17 +51,17 @@ I need to layout the LEDs so that I could map and change the color of each segme
 
 I could have made a sheet of LED strips and map the LEDs to each segment. This would allow me to have multiple LEDs per segment when the segment were larger. 
 
-<img src="https://blog.abluestar.com/public/uploads/led_array_from_led_strips.jpg" alt="led_array_from_led_strips"/>
+<img src="/public/uploads/led_array_from_led_strips.jpg" alt="led_array_from_led_strips"/>
 
 The issue is that many of the LEDS wouldn't add value. LEDs under the dividers or in the corners of the segments. Mapping each segment would also take a lot of time. 
 
 Instead I used "Square" style LEDs that have mounting flanges built into them. 
 
-<img src="https://blog.abluestar.com/public/uploads/led_pixels_square-profile.jpg" alt="Square LEDs"/>
+<img src="/public/uploads/led_pixels_square-profile.jpg" alt="Square LEDs"/>
 
 Then created a backplane for these LEDS to be mounted on. The backplane has a series of 11.5mm holes that aline with the in the center of each of the different segments. The issue with this choice is that it requires another sheet of acrylic behind dividers. This adds to the cost of this project. 
 
-<img src="https://blog.abluestar.com/public/uploads/stainglasswindow_ledmount.png" alt="LED mount"/>
+<img src="/public/uploads/stainglasswindow_ledmount.png" alt="LED mount"/>
 
 ### Results 
 

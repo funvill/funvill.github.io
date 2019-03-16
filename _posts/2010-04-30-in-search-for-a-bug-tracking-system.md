@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: In search for a bug tracking system 
 date: 2010-04-30 10:32
-author: funvill
-comments: true
-categories: [Development]
+categories: blog, [Development]
 ---
 I'm about to start a new development project with a new group and we needed some sort of bug tracking system to coordinate all our efforts.  Previously I have used <a href="http://www.mantisbt.org/">www.mantisbt.org/</a> but its messy and I don't like the layout at all.
 

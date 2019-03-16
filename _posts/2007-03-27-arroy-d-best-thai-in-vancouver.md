@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Arroy-d - Best Thai in vancouver
 date: 2007-03-27 12:47
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2007/03/dsc00052.jpg" title="Arroy-d Thai"><img src="http://blog.abluestar.com/public/uploads/2007/03/dsc00052.thumbnail.jpg" alt="Arroy-d Thai" align="right" /></a><strong>One of my new favorite spots</strong>
+<a href="/public/uploads/2007/03/dsc00052.jpg" title="Arroy-d Thai"><img src="/public/uploads/2007/03/dsc00052.thumbnail.jpg" alt="Arroy-d Thai" align="right" /></a><strong>One of my new favorite spots</strong>
 The atmospheres is pretty nice, they have an area where you can sit down on the floor on pillows, and the normal chair and table area with pleasant music plays in the background.
 
 The portions are smaller the some of the other places I have been too but it always fills me up, the good is very good and there lunch specials are great. Less then $6 for most lunch items and 12-15 for the dinner.

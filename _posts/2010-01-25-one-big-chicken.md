@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: One Big Chicken
 date: 2010-01-25 15:49
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games, word, words]
+categories: blog, [drinking, game, Games, Games, word, words]
 ---
 One Big Chicken is a drinking game.
 

@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: HO-HAI-YAN TAIWANESE CULTURAL FESTIVAL
 date: 2006-08-21 00:30
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2006/tcf2006.jpg" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/.thumbs/.tcf2006.jpg" alt="tcf2006.jpg" title="tcf2006.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="65" width="200" /></a>
+<a href="/public/uploads/2006/tcf2006.jpg" rel="lightbox"><img src="/public/uploads/2006/.thumbs/.tcf2006.jpg" alt="tcf2006.jpg" title="tcf2006.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="65" width="200" /></a>
 
 <strong>HO-HAI-YAN TAIWANESE CULTURAL FESTIVAL</strong>
 TAIWANESE CANADIAN CULTURAL SOCIETY

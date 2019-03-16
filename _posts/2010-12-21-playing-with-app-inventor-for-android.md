@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Playing with app inventor for android
 date: 2010-12-21 00:01
-author: funvill
-comments: true
-categories: [Development, Tips and Tricks, Uncategorized]
+categories: blog, [Development, Tips and Tricks, Uncategorized]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2010/12/app_view.png"><img class="alignright size-full wp-image-1171" title="app_view" src="http://blog.abluestar.com/public/uploads/2010/12/app_view.png" alt="" width="279" height="563" /></a><a href="http://appinventor.googlelabs.com/">App inventor for android</a> was just recently released for everyone to play with. I looked in to it hoping I could create a simple <a href="http://www.everydayfiction.com/">EveryDayFiction</a> feed reader app but it doesn't seem to support <em>Get RSS feed</em> just yet.
+<a href="/public/uploads/2010/12/app_view.png"><img class="alignright size-full wp-image-1171" title="app_view" src="/public/uploads/2010/12/app_view.png" alt="" width="279" height="563" /></a><a href="http://appinventor.googlelabs.com/">App inventor for android</a> was just recently released for everyone to play with. I looked in to it hoping I could create a simple <a href="http://www.everydayfiction.com/">EveryDayFiction</a> feed reader app but it doesn't seem to support <em>Get RSS feed</em> just yet.
 
 So I created a simple sensor reading app that reads all the sensors on the phone and displays them raw to the users. (Note the sensors are all zero because its running in emulation)
 
@@ -20,6 +18,6 @@ A few missing features that i was wishing for while building this app.
 </ul>
 Interesting idea, but I don't see to many people making killer apps with this software.
 
-<a href="http://blog.abluestar.com/public/uploads/2010/12/blocksEditor.png"><img class="alignnone size-thumbnail wp-image-1169" title="blocksEditor" src="http://blog.abluestar.com/public/uploads/2010/12/blocksEditor-150x150.png" alt="" width="150" height="150" /></a>
+<a href="/public/uploads/2010/12/blocksEditor.png"><img class="alignnone size-thumbnail wp-image-1169" title="blocksEditor" src="/public/uploads/2010/12/blocksEditor-150x150.png" alt="" width="150" height="150" /></a>
 
-<a href="http://blog.abluestar.com/public/uploads/2010/12/Sensors_b001.zip">Download example</a>
+<a href="/public/uploads/2010/12/Sensors_b001.zip">Download example</a>

@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Tool at GM place Review
 date: 2006-08-27 12:14
-author: funvill
-comments: true
-categories: [Media, Vancouver]
+categories: blog, [Media, Vancouver]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2006/MUS_Concerts2_2018.jpg" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/.thumbs/.MUS_Concerts2_2018.jpg" alt="MUS_Concerts2_2018.jpg" title="MUS_Concerts2_2018.jpg" style="margin: 5px 10px; padding: 3px" border="2" height="200" width="133" /></a>
+<a href="/public/uploads/2006/MUS_Concerts2_2018.jpg" rel="lightbox"><img src="/public/uploads/2006/.thumbs/.MUS_Concerts2_2018.jpg" alt="MUS_Concerts2_2018.jpg" title="MUS_Concerts2_2018.jpg" style="margin: 5px 10px; padding: 3px" border="2" height="200" width="133" /></a>
 Erich Saide photo.
 
 <strong>Tool at GM Place Review </strong>

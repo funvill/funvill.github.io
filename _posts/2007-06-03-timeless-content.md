@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Timeless content 
 date: 2007-06-03 09:00
-author: funvill
-comments: true
-categories: [Tips and Tricks, Web development]
+categories: blog, [Tips and Tricks, Web development]
 ---
-<img src="http://blog.abluestar.com/public/uploads/2007/06/clockicon.jpg" alt="clockicon.jpg" align="right" />I have talked before about <a href="http://blog.abluestar.com/23-tips-for-writing-good-blog-posts-and-articles/">creating timeless content</a> but never in detail till now. Its one of the first things I check when searching for content is when it was written.
+<img src="/public/uploads/2007/06/clockicon.jpg" alt="clockicon.jpg" align="right" />I have talked before about <a href="/23-tips-for-writing-good-blog-posts-and-articles/">creating timeless content</a> but never in detail till now. Its one of the first things I check when searching for content is when it was written.
 
 <strong>Content is king.</strong>
 The internet is about content, about finding answers to your questions, it&quot;s supposes to make things easier. As people search the internet for content they are dropped off on your pages. If the content is relevant or useful they will stay and read it, if not they will go somewhere else to find what they need.

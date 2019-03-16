@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Perverted Sounds
 date: 2010-03-01 16:32
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games, word]
+categories: blog, [drinking, game, Games, Games, word]
 ---
 Perverted Sounds is a drinking word game.
 

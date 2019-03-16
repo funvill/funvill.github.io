@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: 2006 DESTINATION FUNNY SHORT FILM CONTEST
 date: 2006-08-20 00:18
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2006/logo_top_tilt_230x157.gif" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/.thumbs/.logo_top_tilt_230x157.gif" alt="logo_top_tilt_230x157.gif" title="logo_top_tilt_230x157.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="137" width="200" /></a>
+<a href="/public/uploads/2006/logo_top_tilt_230x157.gif" rel="lightbox"><img src="/public/uploads/2006/.thumbs/.logo_top_tilt_230x157.gif" alt="logo_top_tilt_230x157.gif" title="logo_top_tilt_230x157.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="137" width="200" /></a>
 
 <strong>2006 DESTINATION FUNNY SHORT FILM CONTEST</strong>
 <a href="http://www.vancouvercomedyfest.com">www.vancouvercomedyfest.com</a>

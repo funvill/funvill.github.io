@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: single
 title: Extracting the IPTC data from an image in PHP
 date: 2007-03-26 10:08
-author: funvill
-comments: true
-categories: [exif, Web development]
+categories: blog, [exif, Web development]
 ---
 
-<p align="left"><img src="http://blog.abluestar.com/public/uploads/2007/03/image-missing.png" alt="image-missing" align="right" />When you add a caption to an image in <a href="http://picasa.google.com/">Google's Picasa/Picasa2</a> (and some other image editing programs) the caption is saved in a special spot in the imaged header section called IPTC data.</p>
-While creating the <a href="http://www.abluestar.com/utilities/ephpg_iptc/">IPTC mod</a> for the <a href="http://blog.abluestar.com/photo-gallery-that-does-not-require-a-mysql-database/">simple gallery script</a> I had to extract the IPTC information for the title of the image. This allowed me to extract the title from Picasa and included it under my images in my gallery.
+<p align="left"><img src="/public/uploads/2007/03/image-missing.png" alt="image-missing" align="right" />When you add a caption to an image in <a href="http://picasa.google.com/">Google's Picasa/Picasa2</a> (and some other image editing programs) the caption is saved in a special spot in the imaged header section called IPTC data.</p>
+While creating the <a href="http://www.abluestar.com/utilities/ephpg_iptc/">IPTC mod</a> for the <a href="/photo-gallery-that-does-not-require-a-mysql-database/">simple gallery script</a> I had to extract the IPTC information for the title of the image. This allowed me to extract the title from Picasa and included it under my images in my gallery.
 
 <strong>What is IPTC?</strong>
 

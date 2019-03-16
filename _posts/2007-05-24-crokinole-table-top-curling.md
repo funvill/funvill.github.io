@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Crokinole - Table top curling 
 date: 2007-05-24 09:00
-author: funvill
-comments: true
-categories: [Games]
+categories: blog, Games
 ---
-<a href="http://flickr.com/photos/jwagner/41019485/"><img src="http://blog.abluestar.com/public/uploads/2007/05/Crokinole_small.jpg" alt="Crokinole_small.jpg" title="Crokinole_small.jpg" align="right" border="0" height="150" width="200" /></a>Crokinole (pronounced croak-i-knoll, <span title="Pronunciation in IPA" class="IPA">/ËˆkÉ¹okÉªinol/</span>) is one of the most memorable childhood games that I use to play with my family. Its basically miniature table top curling board but fun (unlike real curling).
+<a href="http://flickr.com/photos/jwagner/41019485/"><img src="/public/uploads/2007/05/Crokinole_small.jpg" alt="Crokinole_small.jpg" title="Crokinole_small.jpg" align="right" border="0" height="150" width="200" /></a>Crokinole (pronounced croak-i-knoll, <span title="Pronunciation in IPA" class="IPA">/ËˆkÉ¹okÉªinol/</span>) is one of the most memorable childhood games that I use to play with my family. Its basically miniature table top curling board but fun (unlike real curling).
 
 There are Crokinole clubs and <a href="http://www.worldcrokinole.com/">tournament's</a> in many major cities that met regularly and tons of books on the subject, <a href="http://www.crokinolemovie.com/">even movies</a>, but its still not a widely known game. Most people I talk to have never heard of it or seen anyone play it before.
 

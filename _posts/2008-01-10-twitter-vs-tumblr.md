@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Twitter vs Tumblr
 date: 2008-01-10 16:07
-author: funvill
-comments: true
-categories: [Interesting, Web development]
+categories: blog, [Interesting, Web development]
 ---
 <strong>Introduction</strong>
 There has been a lot of talk recently about the micro blogging. Micro blogging is a blogging platform that lets you post very small updates about your life, to help keep you and your friends up to date with each others lives. The services are kept very simple so anyone can use them easily.

@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: single
 title: Day 1 - Fractal Triangle
 date: 2015-04-15 00:01
-author: funvill
-comments: true
+categories: blog
 ---
 
 ![](/public/uploads/2015/11123890_1440957399529991_594106365_n.jpg)

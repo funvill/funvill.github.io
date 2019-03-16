@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Raspberry PI as a FM transmitter 
 date: 2013-03-26 20:28
-author: funvill
-comments: true
-categories: [c, fm, Raspberry PI, RaspberryPI, transmitter]
+categories: blog, [c, fm, Raspberry PI, RaspberryPI, transmitter]
 ---
-<img class="alignright size-medium wp-image-3216" alt="pi_fm_gpio" src="http://blog.abluestar.com/public/uploads/2013/03/pi_fm_gpio-300x225.jpg" width="300" height="225" />
+<img class="alignright size-medium wp-image-3216" alt="pi_fm_gpio" src="/public/uploads/2013/03/pi_fm_gpio-300x225.jpg" width="300" height="225" />
 
 A few weeks ago I found this tutorial on make magazine <a href="http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter">Turning the Raspberry Pi Into an FM Transmitter</a> by <a href="http://blog.codeclub.org.uk/blog/brief/">Code Club pihack</a>.
 

@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Larch Market
 date: 2006-08-18 13:12
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2006/english_market_cheese.JPG" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/.thumbs/.english_market_cheese.JPG" alt="english_market_cheese.JPG" title="english_market_cheese.JPG" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="150" width="200" /></a>
+<a href="/public/uploads/2006/english_market_cheese.JPG" rel="lightbox"><img src="/public/uploads/2006/.thumbs/.english_market_cheese.JPG" alt="english_market_cheese.JPG" title="english_market_cheese.JPG" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="150" width="200" /></a>
 <strong>LARCH MARKET</strong>
 A community bazaar
 

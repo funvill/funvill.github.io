@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Bard On The Beach - Midsummer night’s dream
 date: 2006-07-06 11:47
-author: funvill
-comments: true
-categories: [Media]
+categories: blog, [Media]
 ---
-<img src="http://blog.abluestar.com/public/uploads/2006/07/91_preview.jpg" id="image16" alt="Bard On The Beach - Midsummer night's dream" align="right" />
+<img src="/public/uploads/2006/07/91_preview.jpg" id="image16" alt="Bard On The Beach - Midsummer night's dream" align="right" />
 Forest sprites with magical potions create romantic havoc in this deliciously magical comedy. Upset with Queen Titania, Oberon, King of the Fairies, engages Puck to charm her with a nectar that causes love at first sight. Mischievous Puck not only arranges for Titania to fall for a simple weaver named Bottom whom he has transformed into an ass, but he uses the nectar to tangle the affections of four courtly lovers who have sought refuge in the forest. Much hilarity also occurs as Bottom and his friends rehearse a play they hope to present at court.
 
 <strong>Who: </strong> <a href="http://www.bardonthebeach.org/about.html">Bard On The Beach</a>

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Getting started with your Raspberry PI
 date: 2013-09-10 22:20
-author: funvill
-comments: true
-categories: [Raspberry PI]
+categories: blog, [Raspberry PI]
 ---
 The Raspberry Pi is a credit-card-sized single-board computer developed in the UK by the Raspberry Pi Foundation with the intention of promoting the teaching of basic computer science in schools
 
@@ -28,7 +26,7 @@ For this tutorial we will be using the Raspbian OS. Raspbian is an unofficial p
 <ol>
 	<li>From the terminal window type
 <pre><span style="color: #008000;">ifconfig</span></pre>
-<a href="http://blog.abluestar.com/public/uploads/2013/09/ifconfig.png"><img alt="ifconfig" src="http://blog.abluestar.com/public/uploads/2013/09/ifconfig-300x151.png" width="300" height="151" /></a></li>
+<a href="/public/uploads/2013/09/ifconfig.png"><img alt="ifconfig" src="/public/uploads/2013/09/ifconfig-300x151.png" width="300" height="151" /></a></li>
 </ol>
 </li>
 	<li>Restart your Raspberry PI</li>
@@ -49,11 +47,11 @@ The instructions on AdaFruit's website are straight forward with plenty of pictu
 
 <strong>Raspberry PI and the GPIO pins</strong>
 
-More details: <a href="http://blog.abluestar.com/raspberry-pi-and-the-gpio-pins/">http://blog.abluestar.com/raspberry-pi-and-the-gpio-pins/</a>
+More details: <a href="/raspberry-pi-and-the-gpio-pins/">/raspberry-pi-and-the-gpio-pins/</a>
 
 <strong>Hardware </strong>
 
-<a href="http://blog.abluestar.com/public/uploads/2013/02/2013-01-31-23.07.11.jpg"><img class="alignright" alt="Home made Raspberry PI GPIO ribbon cable" src="http://blog.abluestar.com/public/uploads/2013/02/2013-01-31-23.07.11-225x300.jpg" width="225" height="300" /></a>The Raspberry PI has a 26pin mail connector that connects to its GPIO pins. These ribbon cables and breakout boards can be found on <a href="http://www.adafruit.com/products/862">adafruit.com</a> ($2.95) and <a href="https://www.sparkfun.com/products/11489">Sparkfun</a> ($2.95)
+<a href="/public/uploads/2013/02/2013-01-31-23.07.11.jpg"><img class="alignright" alt="Home made Raspberry PI GPIO ribbon cable" src="/public/uploads/2013/02/2013-01-31-23.07.11-225x300.jpg" width="225" height="300" /></a>The Raspberry PI has a 26pin mail connector that connects to its GPIO pins. These ribbon cables and breakout boards can be found on <a href="http://www.adafruit.com/products/862">adafruit.com</a> ($2.95) and <a href="https://www.sparkfun.com/products/11489">Sparkfun</a> ($2.95)
 
 You can also make your own. <a href="http://www.raspberrypi.org/archives/1404">Hardware lesson with Gert: make your own ribbon cable connector</a>.
 
@@ -61,7 +59,7 @@ You can also make your own. <a href="http://www.raspberrypi.org/archives/1404">
 
 Since I am using <a href="https://bitbucket.org/">bitbucket</a> <a href="https://github.com/funvill/RaspberryPIExamples/tree/master/examples">all my source code is public</a>. I created a few learning scripts to understand how the GPIO pins work on the Raspberry PI. The first script I made was a simple <a href="https://bitbucket.org/funvill/my-pi-projects/src/d0ebc27c2dd1/examples/Blinky.py?at=master">blinking LED</a>, just like the <a href="https://gist.github.com/anonymous/4728721">arduino blinking LED script</a>. Next was to read the <a href="https://bitbucket.org/funvill/my-pi-projects/src/d0ebc27c2dd1/examples/DigitalRead.py?at=master">current state of a switch</a> and print the results to the screen.
 
-This image was tremendously helpful in figuring out what pins go where<a href="http://blog.abluestar.com/public/uploads/2013/02/Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358.png"><img alt="Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358" src="http://blog.abluestar.com/public/uploads/2013/02/Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358-300x141.png" width="300" height="141" /></a>
+This image was tremendously helpful in figuring out what pins go where<a href="/public/uploads/2013/02/Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358.png"><img alt="Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358" src="/public/uploads/2013/02/Raspberry-Pi-GPIO-Layout-Revision-1-e1347664808358-300x141.png" width="300" height="141" /></a>
 
 <code># Blinkly Script
 # This script will blink a LED ON and OFF again.

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Lasers and Vancouver OpenData 
 date: 2012-12-28 16:08
-author: funvill
-comments: true
-categories: [Laser Cutter]
+categories: blog, [Laser Cutter]
 ---
 A few days ago I attended a talk at the <a href="http://vancouver.hackspace.ca/wp/">Vancouver HackSpace</a> (VHS) on using <a href="http://vancouver.hackspace.ca/wp/2012/11/29/open-data-and-lasers-at-vhs-thursday-dec-13th/">Open Data and lasers</a> to make interesting wooden maps.
 
@@ -12,7 +10,7 @@ A few days ago I attended a talk at the <a href="http://vancouver.hackspace.ca
 
 These maps took about 2 hrs each to cut and look amazing. This is a map of all the Vancouver roads and parks.
 
-<a href="http://blog.abluestar.com/public/uploads/2012/12/IMG_8983.jpg"><img class="alignnone size-medium wp-image-3104" alt="IMG_8983" src="http://blog.abluestar.com/public/uploads/2012/12/IMG_8983-300x225.jpg" width="300" height="225" /></a> <a href="http://blog.abluestar.com/public/uploads/2012/12/IMG_8984.jpg"><img class="alignnone size-medium wp-image-3105" alt="IMG_8984" src="http://blog.abluestar.com/public/uploads/2012/12/IMG_8984-300x225.jpg" width="300" height="225" /></a> <a href="http://blog.abluestar.com/public/uploads/2012/12/IMG_8985.jpg"><img class="alignnone size-medium wp-image-3106" alt="IMG_8985" src="http://blog.abluestar.com/public/uploads/2012/12/IMG_8985-300x225.jpg" width="300" height="225" /></a>
+<a href="/public/uploads/2012/12/IMG_8983.jpg"><img class="alignnone size-medium wp-image-3104" alt="IMG_8983" src="/public/uploads/2012/12/IMG_8983-300x225.jpg" width="300" height="225" /></a> <a href="/public/uploads/2012/12/IMG_8984.jpg"><img class="alignnone size-medium wp-image-3105" alt="IMG_8984" src="/public/uploads/2012/12/IMG_8984-300x225.jpg" width="300" height="225" /></a> <a href="/public/uploads/2012/12/IMG_8985.jpg"><img class="alignnone size-medium wp-image-3106" alt="IMG_8985" src="/public/uploads/2012/12/IMG_8985-300x225.jpg" width="300" height="225" /></a>
 
 The problems with these maps is that I only used 1/16th inch wood. The wood bowed and twisted significantly. To flatten it out, I had to soak the map in water for an hour then stack books on top of it. Next time I think i will use thicker wood 1/8th or 1/4th
 

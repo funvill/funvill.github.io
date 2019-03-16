@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Google talk 
 date: 2007-03-14 16:08
-author: funvill
-comments: true
-categories: [Tips and Tricks, Web development]
+categories: blog, [Tips and Tricks, Web development]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2007/03/chat_popout.png" title="GTalk pop up"><img src="http://blog.abluestar.com/public/uploads/2007/03/chat_popout.png" alt="GTalk pop up" align="right" /></a>
+<a href="/public/uploads/2007/03/chat_popout.png" title="GTalk pop up"><img src="/public/uploads/2007/03/chat_popout.png" alt="GTalk pop up" align="right" /></a>
 
 <strong>What is Google Talk or GTalk </strong>
 
@@ -62,4 +60,4 @@ Basicly it goes something like this
 </ol>
 <strong>How can I contact you with GTalk </strong>
 
-Add me,  <a href="http://blog.abluestar.com/public/uploads/2007/03/funvills_email.png" title="Gmail address"><img src="http://blog.abluestar.com/public/uploads/2007/03/funvills_email.png" alt="Gmail address" /></a>
+Add me,  <a href="/public/uploads/2007/03/funvills_email.png" title="Gmail address"><img src="/public/uploads/2007/03/funvills_email.png" alt="Gmail address" /></a>

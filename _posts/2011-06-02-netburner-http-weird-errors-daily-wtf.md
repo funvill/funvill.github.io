@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: single
 title: Netburner http weird errors - Daily WTF
 date: 2011-06-02 11:33
-author: funvill
-comments: true
-categories: [Development, Rants]
+categories: blog, [Development, Rants]
 ---
 <strong>Daily WTF</strong>
 
-<a href="http://blog.abluestar.com/public/uploads/2011/06/netburner-logo.gif"><img class="alignright size-full wp-image-1505" title="netburner-logo" src="http://blog.abluestar.com/public/uploads/2011/06/netburner-logo.gif" alt="" width="200" height="93" /></a>I got these weird errors while attempting to compile a Netburner project with NbEclipse. The project included the HTTP driver as well as some custom generated pages. After bashing my head against the wall for an hour I figure out what caused these errors. Because the HTTP driver has been loaded you are required to have a file in the <em>/http/index.html</em> folder to get NbEclipse to compile.
+<a href="/public/uploads/2011/06/netburner-logo.gif"><img class="alignright size-full wp-image-1505" title="netburner-logo" src="/public/uploads/2011/06/netburner-logo.gif" alt="" width="200" height="93" /></a>I got these weird errors while attempting to compile a Netburner project with NbEclipse. The project included the HTTP driver as well as some custom generated pages. After bashing my head against the wall for an hour I figure out what caused these errors. Because the HTTP driver has been loaded you are required to have a file in the <em>/http/index.html</em> folder to get NbEclipse to compile.
 <blockquote>C:\dev\nburn\lib\NetBurner.a(httpinternal.o): In function `BaseDoHead':
 C:\release\nburn\system/httpinternal.cpp:431: undefined reference to `default_page'
 C:\dev\nburn\lib\NetBurner.a(httpinternal.o): In function `BaseDoGet':

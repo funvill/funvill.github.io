@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: InkPop.com, Are spammers and a security risk for their users. DONT USE THEM. They suck
 date: 2011-07-01 13:37
-author: funvill
-comments: true
-categories: [Rants]
+categories: blog, [Rants]
 ---
 <strong>They are spammers </strong>
 
@@ -21,7 +19,7 @@ After I got this email I emailed them back telling them what I thought of them. 
 
 I had to sign up to their forms before I was able to make a new posts. I used a random password because I didn't trust them. After I signed up I got an email with my password as plain text. That means two things;
 <ol>
-	<li>They are storing YOUR password as plain text in their database. This is really bad and there is no need for it. If their web servers are compromised then the hackers will have access to your password and personal information that they can use to try and attack other sites you are registered with. See this post for more information <a href="http://blog.abluestar.com/a-perfect-example-of-why-you-should-use-the-same-password-on-different-websites/">A perfect example of why you should use the same password on different websites.</a></li>
+	<li>They are storing YOUR password as plain text in their database. This is really bad and there is no need for it. If their web servers are compromised then the hackers will have access to your password and personal information that they can use to try and attack other sites you are registered with. See this post for more information <a href="/a-perfect-example-of-why-you-should-use-the-same-password-on-different-websites/">A perfect example of why you should use the same password on different websites.</a></li>
 	<li>They are sending YOUR password as plain text in emails. Snooping wireless traffic is easy, Snooping for words like passwords in text makes it even easier to get peoples passwords. Anyone that is listening to your connection while they foolishly send this email, now has access to your account and your password. If you use that password in more then one place they can guess at other places you are registered at and login as you.</li>
 </ol>
 They don't protect your privacy, your passwords, and put you at risk.

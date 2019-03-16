@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Vegetable
 date: 2010-10-04 19:06
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games, word]
+categories: blog, [drinking, game, Games, Games, word]
 ---
 Vegetable is a word drinking game.
 

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: VPSN Stick it to the Streets, Vancouver Car free day 2010
 date: 2010-06-25 17:30
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
 <h2><strong>Stick it to the Streets</strong></h2>
 <a href="http://www.vancouverpublicspace.ca/">VPSN</a> is gathering a large group of people wandering the street with noise makers making a lot of noise/"Music", from downtown to GasTown. its too bad they didn't go thou <a href="http://en.wikipedia.org/wiki/Yaletown">YaleTown</a> with all the people that bitch continually about <a href="http://vancouver.ca/police/policeboard/agenda/2007/070418/0721RPM.pdf">noise violation</a> [PDF].
@@ -13,7 +11,7 @@ categories: [Vancouver]
 <div id="_mcePaste"><strong>Where: </strong>Meet at Granville and Smithe in downtown Vancouver. From there, we&quot;ll slowly make our way towards Gastown.</div>
 <div><strong>More info:</strong> <a href="http://www.beyondrobson.com/city/2010/06/the_vancouver_public_space_network_shows_us_how_to_stick_it_to_the_streets/">VPSN Stick it to the Streets</a>, <a href="http://www.facebook.com/event.php?eid=127220227305473">Facebook event</a></div>
 <h2>The First Annual East Van Chili Cook Off!</h2>
-<img class="alignright size-full wp-image-1011" title="chili" src="http://blog.abluestar.com/public/uploads/2010/06/chili.png" alt="" width="180" height="228" />Me and my friends have been having a "chili cook off potluck" for the last 5 years, each year we give away a prize to the top user voted chili. Its a private event and most years 15-30 people show up with lots of different kinds of chili, lots of fun. This year I will be attending the <a href="http://www.facebook.com/event.php?eid=111874062157982">East van chili cook off</a> using the skills that I learnt from the past competitions to make the best chili ever!1!!one!.
+<img class="alignright size-full wp-image-1011" title="chili" src="/public/uploads/2010/06/chili.png" alt="" width="180" height="228" />Me and my friends have been having a "chili cook off potluck" for the last 5 years, each year we give away a prize to the top user voted chili. Its a private event and most years 15-30 people show up with lots of different kinds of chili, lots of fun. This year I will be attending the <a href="http://www.facebook.com/event.php?eid=111874062157982">East van chili cook off</a> using the skills that I learnt from the past competitions to make the best chili ever!1!!one!.
 <blockquote>Do you have what it takes to win the 1st Annual East Van Chili Cook Off? Grab your ingredients then and meet us down at <a href="http://vancouver.ca/parks/cc/troutlake/index.htm">Trout Lake</a> on July 10th for a rootin-tootin good time.
 
 For more info and to register go to: <a href="http://eastvanchili.blogspot.com/">http://eastvanchili.blogspot.com/</a>
@@ -34,7 +32,7 @@ I made a small time laps video from a friends roof of the street. Unfortunately
 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="405" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/Z3ZLL5XWVZo&amp;hl=en_US&amp;fs=1&amp;border=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="500" height="405" src="http://www.youtube.com/v/Z3ZLL5XWVZo&amp;hl=en_US&amp;fs=1&amp;border=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-120 pictures @ 1 picture a min, shot with a <a href="http://blog.abluestar.com/canon-s90-chdk-how-do-you-get-to-the-record-mode/">hacked Canon S90 CHDK</a>.
+120 pictures @ 1 picture a min, shot with a <a href="/canon-s90-chdk-how-do-you-get-to-the-record-mode/">hacked Canon S90 CHDK</a>.
 <h2>Calendar</h2>
 <div>
 <ul>
