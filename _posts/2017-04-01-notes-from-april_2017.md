@@ -2,7 +2,8 @@
 layout: single
 title: Notes from April 2017
 date: '2017-04-01 00:01'
-categories: blog
+categories: blog, brain dump 
+toc: true
 ---
 
 Some of the things that I have found interesting in April 2017. This page is updated throughout the month of April. See [March 2017](/notes-from-march_2017) for the previous month.

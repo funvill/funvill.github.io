@@ -3,6 +3,7 @@ layout: single
 title: Renting to the vancouver hackspace
 date: '2017-03-22 00:01'
 categories: blog
+toc: true
 ---
 
 If you are thinking about renting a building or a space to the Vancouver Hackspace (VHS), think hard about that choice. It could be very costly to you and your building. 

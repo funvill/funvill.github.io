@@ -3,6 +3,7 @@ layout: single
 title: Alternatives to the Vancouver Hackspace.
 date: '2016-07-12 00:01'
 categories: blog
+toc: true
 ---
 
 Vancouver Hackspace (VHS) used to be a place where people could ask questions and get help with their projects while helping out others. Now new people asking questions, at best, get ignored and worst ridiculed. Between the years of 2015-2016 the Vancouver Hackspace the board of directors ( *names removed* ) as well as a few other members ( *names removed* ) created a toxic environment that destroyed the existing community that took years to create.

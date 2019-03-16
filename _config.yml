@@ -67,7 +67,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-301766-4"
     anonymize_ip         : # true, false (default)
@@ -134,6 +134,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - "_pages"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -197,7 +198,7 @@ sass:
 permalink: /:title
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Vancouver" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -264,8 +265,18 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # true
       share: true
-      related: true
+      related: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      share: true

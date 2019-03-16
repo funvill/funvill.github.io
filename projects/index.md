@@ -1,6 +1,7 @@
 ---
-layout: "home"
 title: "Projects"
+layout: "single"
+classes: wide
 ---
 
 This is a list of some of the past project that I have done. 

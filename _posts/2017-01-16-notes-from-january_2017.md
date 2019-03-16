@@ -2,7 +2,8 @@
 layout: single
 title: Notes from January 2017
 date: '2017-01-16 00:01'
-categories: blog
+categories: blog, brain dump
+toc: true
 ---
 
 Some of the things that I have found interesting in January 2017.

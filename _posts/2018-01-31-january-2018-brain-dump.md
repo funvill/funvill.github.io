@@ -2,7 +2,8 @@
 layout: single
 title: January 2018 brain dump
 date: '2018-01-31 00:01'
-categories: blog
+categories: blog, brain dump 
+toc: true
 ---
 
 Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post ([1](/notes-from-may_2017), [2](/notes-from-april_2017), [3](/notes-from-march_2017) ). (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes) 
@@ -31,11 +32,11 @@ Basically, paper cut-outs are layered on each other in a box with a glass frame.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/sKzEJ"><a href="//imgur.com/sKzEJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-### [Furtherfield](https://www.furtherfield.org/)
-A art and technology gallery, that has some interesting blockchain art exhibits. I found out about furtherfield thou the [disobedient electronics](https://www.furtherfield.org/disobedient-electronics-protest-book-review/) book. 
+### Furtherfield
+[Furtherfield](https://www.furtherfield.org/) A art and technology gallery, that has some interesting blockchain art exhibits. I found out about furtherfield thou the [disobedient electronics](https://www.furtherfield.org/disobedient-electronics-protest-book-review/) book. 
 
-### [Plantoids]](https://bitcoinmagazine.com/articles/plantoids-the-first-blockchain-based-artificial-life-forms-1482768916/): The First Blockchain-Based Artificial Life Forms
-A neat sculpture art project that uses the smart-contracts and the blockchain to receive donations. When it receives enough money it commissioners another version of its self, replicating. 
+### Plantoids
+[Plantoids](https://bitcoinmagazine.com/articles/plantoids-the-first-blockchain-based-artificial-life-forms-1482768916/): The First Blockchain-Based Artificial Life Forms A neat sculpture art project that uses the smart-contracts and the blockchain to receive donations. When it receives enough money it commissioners another version of its self, replicating. 
 
 > You can’t buy a Plantoid because it owns itself. If you like a Plantoid, you can show it appreciation by sending bitcoin to its wallet. Once a Plantoid has earned sufficient funds, it chooses an artist and commissions the artist to produce a new version of itself.
 
