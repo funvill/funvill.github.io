@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Light painting with Processing
 date: 2010-10-10 13:00
-author: funvill
-comments: true
-categories: [Projects, Tips and Tricks]
+categories: blog, [Projects, Tips and Tricks]
 ---
 I have always liked <a href="http://en.wikipedia.org/wiki/Light_painting">light panting</a> and <a href="http://www.webdesignerdepot.com/2010/10/100-stunning-demonstrations-of-light-painting/">light graffiti</a>. But there are things that I don't like about it, it takes along time, its process incentive, you can do it live. After searching around the internet I found this video
 
@@ -17,10 +15,10 @@ The application does not look that difficult to build either. A frame buffer wit
 After about 2 hours with never touching processing before I end up with this;
 
 <p>
-<a href="http://blog.abluestar.com/public/uploads/2010/10/greenSteven.png"><img class="alignleft size-medium wp-image-1110" title="greenSteven" src="http://blog.abluestar.com/public/uploads/2010/10/greenSteven-300x236.png" alt="" width="300" height="236" /></a><a href="http://blog.abluestar.com/public/uploads/2010/10/blue.png"><img class="size-medium wp-image-1111 alignleft" title="blue" src="http://blog.abluestar.com/public/uploads/2010/10/blue-300x236.png" alt="" width="300" height="236" /></a><a href="http://blog.abluestar.com/public/uploads/2010/10/play.png"><img class="size-medium wp-image-1112 alignleft" title="play" src="http://blog.abluestar.com/public/uploads/2010/10/play-300x236.png" alt="" width="300" height="236" /></a><a href="http://blog.abluestar.com/public/uploads/2010/10/greenSteven.png"></a>
+<a href="/public/uploads/2010/10/greenSteven.png"><img class="alignleft size-medium wp-image-1110" title="greenSteven" src="/public/uploads/2010/10/greenSteven-300x236.png" alt="" width="300" height="236" /></a><a href="/public/uploads/2010/10/blue.png"><img class="size-medium wp-image-1111 alignleft" title="blue" src="/public/uploads/2010/10/blue-300x236.png" alt="" width="300" height="236" /></a><a href="/public/uploads/2010/10/play.png"><img class="size-medium wp-image-1112 alignleft" title="play" src="/public/uploads/2010/10/play-300x236.png" alt="" width="300" height="236" /></a><a href="/public/uploads/2010/10/greenSteven.png"></a>
 </p>
 
 Not exactly what I was looking for but interesting. You can download the source code here.
-<a href='http://blog.abluestar.com/public/uploads/2010/10/lightest2.txt'>lightest2</a>
+<a href='/public/uploads/2010/10/lightest2.txt'>lightest2</a>
 
 Its a work in progress. 

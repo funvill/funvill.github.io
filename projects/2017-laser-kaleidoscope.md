@@ -30,7 +30,7 @@ Source code and make files can be found on my github page [Laser Kaleidoscope](h
 
 # Wiring
 
-![Wiring](http://blog.abluestar.com/public/uploads/16x_bb.png "Wiring") 
+![Wiring](/public/uploads/16x_bb.png "Wiring") 
 
 # Parts
 

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Sevens Out
 date: 2010-05-10 14:36
-author: funvill
-comments: true
-categories: [Dice, Dice, game, Games, Games]
+categories: blog, [Dice, Dice, game, Games, Games]
 ---
 Sevens Out is a dice game.
 

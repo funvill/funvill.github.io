@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: "single"
 title: Current tools and equipment
 date: '2016-12-10 00:01'
 ---

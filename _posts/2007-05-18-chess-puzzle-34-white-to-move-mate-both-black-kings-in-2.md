@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Chess Puzzle #34 - White to move, Mate both black kings in 2 
 date: 2007-05-18 09:00
-author: funvill
-comments: true
-categories: [Chess]
+categories: blog, Chess
 ---
 <strong>White to play</strong> W.B.Rice 1912
 What to play and mate both black kings in two.

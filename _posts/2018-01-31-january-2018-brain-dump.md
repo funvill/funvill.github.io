@@ -1,12 +1,11 @@
 ---
-published: true
-layout: post
+layout: single
 title: January 2018 brain dump
 date: '2018-01-31 00:01'
-author: funvill
+categories: blog
 ---
 
-Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post ([1](https://blog.abluestar.com/notes-from-may_2017), [2](https://blog.abluestar.com/notes-from-april_2017), [3](https://blog.abluestar.com/notes-from-march_2017) ). (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes) 
+Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post ([1](/notes-from-may_2017), [2](/notes-from-april_2017), [3](/notes-from-march_2017) ). (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes) 
 
 ### I have stopped using Evernote 
 I was a big fan of [Evernote](https://evernote.com/) for a long time. The integration with [IFTTT](https://ifttt.com/) and the dream of *Getting organized. Work smarter. Remember everything* was appealing. I spent 5 years using Evernote amassing close to 7000 notes. Scanning business cards was a killer feature for me. I was a loyal customer for a long time. As time went on other services started to pick away at my Evernote mind share, google docs for notes, google photos for photos, [pinboard](https://pinboard.in/) for links, etc.. I found myself spending more time on organization information (tagging, grouping, etc..) in Evernote then I actually spent on retrieving information. Then it started getting slow, Evernote added more and more features that seemed to just slow everything down. The last note I put into Evernote was in Dec-2015 and I didn't miss it when it was gone. 
@@ -18,7 +17,7 @@ I been getting into making installation art projects. I need a place to store th
 A paper sheet like to-do list for simple daily lists. 
 
 ### Alternatives to TeamViewer
-I have posted about my hate for [teamviewer](https://blog.abluestar.com/why-i-hate-teamviewer) and their horrible licence system before. A few years ago there wasn't many good alternatives to TeamViewer but that has changed. Now I am happy to suggest [Anydesk](https://anydesk.com/remote-desktop), and [Zoho assist](https://www.zoho.com/assist/). 
+I have posted about my hate for [teamviewer](/why-i-hate-teamviewer) and their horrible licence system before. A few years ago there wasn't many good alternatives to TeamViewer but that has changed. Now I am happy to suggest [Anydesk](https://anydesk.com/remote-desktop), and [Zoho assist](https://www.zoho.com/assist/). 
 
 ### Sarah Anne Johnson [FIREWORKS (2012)](http://sarahannejohnson.ca/works/fireworks-2012/) 
 > Fireworks is an extension of the work I completed for Arctic Wonderland, and it was commissioned in 2012 by the Winnipeg Art Gallery for its centennial exhibition (Winnipeg Now.) The main element of this piece is the massive illuminated fireworks sculpture I created to hang from the ceiling. Inside are different types of lights that burst, flicker, and shine at various times and with vivid colors. Underneath this piece is a schooner that originally had figurines partying on it, but I later reconfigured it to be filled with fleshy silicon mounds. The whole piece is set against a backdrop photograph of the arctic, giving an ironic undertone the the celebratory jubilation happening with the sculpture.

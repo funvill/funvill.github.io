@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Illuminares Lantern Procession
 date: 2006-07-05 11:48
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<img src="http://blog.abluestar.com/public/uploads/2006/07/lantern.JPG" id="image18" alt="Illuminares Lantern Procession" align="right" width="300" />
+<img src="/public/uploads/2006/07/lantern.JPG" id="image18" alt="Illuminares Lantern Procession" align="right" width="300" />
 
 As dusk falls over Trout Lake Park in East Vancouver, families and friends come together from far and wide to witness an extraordinary celebration of light.
 

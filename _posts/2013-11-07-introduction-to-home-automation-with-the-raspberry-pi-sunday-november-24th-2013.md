@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Introduction to Home automation with the Raspberry Pi - Sunday November 24th 2013
 date: 2013-11-07 23:22
-author: funvill
-comments: true
-categories: [Projects, Raspberry PI]
+categories: blog, [Projects, Raspberry PI]
 ---
 <strong>Who:</strong>
 VHS members only, become a member and join us!
@@ -30,7 +28,7 @@ In this workshop we will be using a Raspberry PI to read sensors (inputs), store
 
 In this workshop you will be building a system that will turn on a light if the door is open or motion is detected in an area. We will be recording the current temperature to a database and if the temperature goes outside of a range a fan will be turned on to reduce the temperature.
 
-Before this workshop you should have your Raspberry PI loaded with an OS and have the latest version of <a href="http://blog.abluestar.com/getting-started-with-your-raspberry-pi/">Adafruite WebIDE running</a>. It will also help considerably if you record your Raspberry PI MAC address and HostName on a scrap of paper before the workshop.
+Before this workshop you should have your Raspberry PI loaded with an OS and have the latest version of <a href="/getting-started-with-your-raspberry-pi/">Adafruite WebIDE running</a>. It will also help considerably if you record your Raspberry PI MAC address and HostName on a scrap of paper before the workshop.
 
 <span style="text-decoration: underline;"><strong><a href="http://vancouver.hackspace.ca/wp/wp-content/uploads/2013/11/2013-11-02-17.20.48.jpg"><img class="alignright size-medium wp-image-2613" title="2013-11-02 17.20.48" alt="" src="http://vancouver.hackspace.ca/wp/wp-content/uploads/2013/11/2013-11-02-17.20.48-300x225.jpg" width="300" height="225" /></a>Hardware is NOT provided by VHS!!!</strong></span>
 <strong>All the hardware</strong> can be purchased locally at <a href="http://www.leeselectronic.com">Lee's Electronics</a>  (4522 Main Street). Tell them your a VHS member to receive a small discount. Or you can order all the hardware from adafruit.com they also have many other interesting components. Note there are Raspberry PIs available in the VHS vending machine at the space. If you buy your components from DealExtream expect them to take 6 weeks to be delivered. If you are unable to source all the components join us anyways VHS can lend you some parts for the workshop.

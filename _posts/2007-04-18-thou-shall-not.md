@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Thou shall not
 date: 2007-04-18 09:00
-author: funvill
-comments: true
-categories: [Media]
+categories: blog, [Media]
 ---
 
 

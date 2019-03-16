@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Day 73 - AT-Walker layered paper craft
 date: 2015-07-28 01:13
-author: funvill
+categories: blog
 ---
 
 Three layer version

@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: RaspberryPI - Find the MAC address and change the host name
 date: 2013-02-26 16:19
-author: funvill
-comments: true
-categories: [programing, Raspberry PI, snippet, VHS]
+categories: blog, [programing, Raspberry PI, snippet, VHS]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2013/02/Raspi-PGB001.png"><img class="size-thumbnail wp-image-3183 alignright" alt="Raspi-PGB001" src="http://blog.abluestar.com/public/uploads/2013/02/Raspi-PGB001-150x150.png" width="150" height="150" /></a>We have been running Raspbberry PI nights at VHS the last few weeks and they have been going really well.
+<a href="/public/uploads/2013/02/Raspi-PGB001.png"><img class="size-thumbnail wp-image-3183 alignright" alt="Raspi-PGB001" src="/public/uploads/2013/02/Raspi-PGB001-150x150.png" width="150" height="150" /></a>We have been running Raspbberry PI nights at VHS the last few weeks and they have been going really well.
 <ul>
 	<li><a href="http://vancouver.hackspace.ca/wp/2013/02/14/using-the-raspberry-pi-to-control-a-arduino-thursday-feb-21st-2013-730pm/">Using the Raspberry PI to control a Arduino</a></li>
 	<li><a href="http://vancouver.hackspace.ca/wp/2013/02/04/raspberry-pi-python-webide-gpio-pins-blink-sketch-tuesday-feb-5th/">Raspberry PI + Python + WebIDE + GPIO pins = Blink sketch</a></li>

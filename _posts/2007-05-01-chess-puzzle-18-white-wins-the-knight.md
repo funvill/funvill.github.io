@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Chess Puzzle #18 - White wins the knight 
 date: 2007-05-01 09:00
-author: funvill
-comments: true
-categories: [Chess]
+categories: blog, Chess
 ---
 <strong>White to play, White wins the knight  [Reeh-Heissler '03]</strong>
 <strong>By</strong>: Shelby Lyman

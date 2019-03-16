@@ -1,12 +1,10 @@
 ---
-layout: post
-title: Card game: Munchkin - Kill monsters, steal the treasure, and stab your buddy
+layout: single
+title: Card game - Munchkin - Kill monsters, steal the treasure, and stab your buddy
 date: 2007-05-23 09:00
-author: funvill
-comments: true
-categories: [Games]
+categories: blog, Games
 ---
-<a href="http://blog.abluestar.com/public/uploads/2007/05/munchkin.jpg"><img src="http://blog.abluestar.com/public/uploads/2007/05/munchkin_1.jpg" alt="munchkin_1.jpg" title="munchkin_1.jpg" align="right" border="0" height="300" width="207" /></a><strong>Play time:</strong> 1 hour
+<a href="/public/uploads/2007/05/munchkin.jpg"><img src="/public/uploads/2007/05/munchkin_1.jpg" alt="munchkin_1.jpg" title="munchkin_1.jpg" align="right" border="0" height="300" width="207" /></a><strong>Play time:</strong> 1 hour
 <strong>Players: </strong>3-6*
 <strong>Set up time:</strong> 5min
 <strong>Ages: </strong>16-up

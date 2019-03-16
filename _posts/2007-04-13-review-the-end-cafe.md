@@ -1,13 +1,11 @@
 ---
-layout: post
+layout: single
 title: Review - The End Cafe
 date: 2007-04-13 09:00
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
 
-<p style="text-align: center"><img src="http://blog.abluestar.com/public/uploads/IMG_0100.jpg" alt="IMG_0100.jpg" title="IMG_0100.jpg" border="0" height="279" width="520" /></p>
+<p style="text-align: center"><img src="/public/uploads/IMG_0100.jpg" alt="IMG_0100.jpg" title="IMG_0100.jpg" border="0" height="279" width="520" /></p>
 Last Saturday night around 9pm we where killing time at Broadway Skytrain station before heading downtown to see some show and we decided to in at The End Cafe for a bit.
 
 The place was packed with people (20 something to mid 30s) there was a live Spanish band playing on a small stage that was pretty good good. People dancing laughing and generally having a good time, great first date atmosphere.

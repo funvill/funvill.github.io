@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: The Grouse Grind
 date: 2006-07-15 18:46
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<img src="http://blog.abluestar.com/public/uploads/2006/07/grouse-grind.gif" id="image39" alt="The Grouse Grind" align="right" />
+<img src="/public/uploads/2006/07/grouse-grind.gif" id="image39" alt="The Grouse Grind" align="right" />
 
 If you want a real challenge - or at least a serious workout - try the Grouse Grind. A 2.9-kilometre (3700 ft) trail straight up to the top of Grouse Mountain. And when we say straight up, we mean it!
 

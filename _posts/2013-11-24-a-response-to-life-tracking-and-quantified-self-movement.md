@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: A response to Life tracking and Quantified Self movement. 
 date: 2013-11-24 00:40
-author: funvill
-comments: true
-categories: [Rants]
+categories: blog, [Rants]
 ---
 A few days ago someone was asking about live tracking and productivity hacks this is my response to them.
 <blockquote>I use timers on my phone, Google calendar, and a spread sheet. All portable tools that have there versions on just about every platform/system. (IOS, Outlook, etc)

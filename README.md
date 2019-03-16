@@ -1,1 +1,1 @@
-This repo is for the website [blog.abluestar.com](https://blog.abluestar.com), based on the Hyde template for [Jekyll](http://jekyllrb.com)
+This repo is for the website [blog.abluestar.com](https://blog.abluestar.com), based on the [Minimal-Mistakes](https://github.com/mmistakes/minimal-mistakes) template for [Jekyll](http://jekyllrb.com)

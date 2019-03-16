@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Chase The Ace
 date: 2009-08-17 11:11
-author: funvill
-comments: true
-categories: [Dice, Dice, drinking, game, Games, Games]
+categories: blog, [Dice, Dice, drinking, game, Games, Games]
 ---
 Chase The Ace is a dice, drinking game
 

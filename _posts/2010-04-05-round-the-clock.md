@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Round The Clock
 date: 2010-04-05 18:00
-author: funvill
-comments: true
-categories: [Dice, Dice, game, Games, Games]
+categories: blog, [Dice, Dice, game, Games, Games]
 ---
 Round the Clock is a dice game.
 

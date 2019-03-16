@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Ice Cube Raft Race
 date: 2009-11-23 13:59
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games]
+categories: blog, [drinking, game, Games, Games]
 ---
 Ice Cube Raft Race is a drinking game.
 

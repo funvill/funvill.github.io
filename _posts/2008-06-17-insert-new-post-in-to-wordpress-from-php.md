@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Insert new post in to wordpress from php
 date: 2008-06-17 22:52
-author: funvill
-comments: true
-categories: [Tips and Tricks, Web development]
+categories: blog, [Tips and Tricks, Web development]
 ---
 This code snippet should let you add a new post to your wordpress database 2.5.1 
 

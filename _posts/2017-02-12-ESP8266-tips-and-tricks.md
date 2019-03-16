@@ -1,9 +1,8 @@
 ---
-published: true
-layout: post
+layout: single
 title: ESP8266 tips and tricks
 date: '2017-02-12 00:01'
-author: funvill
+categories: blog
 ---
 
 Last updated: 2017 Feb 12th 

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Bar Tricks
 date: 2008-03-31 13:16
-author: funvill
-comments: true
-categories: [Bar Accessories, Interesting, tricks, Video]
+categories: blog, [Bar Accessories, Interesting, tricks, Video]
 ---
 <p style="text-align: center"></p>
 

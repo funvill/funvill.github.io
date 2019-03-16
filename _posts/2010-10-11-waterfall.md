@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Waterfall
 date: 2010-10-11 19:11
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games, teams]
+categories: blog, [drinking, game, Games, Games, teams]
 ---
 Waterfall is a drinking game.
 <strong>

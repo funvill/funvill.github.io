@@ -1,36 +1,34 @@
 ---
-layout: post
+layout: single
 title: How do you talk to someone over a common, instant message client (Gtalk, MSN) securely, with encryption
 date: 2012-03-26 11:11
-author: funvill
-comments: true
-categories: [crypto, Development, faq, GTalk, IM, Interesting, security, VHS]
+categories: blog, [crypto, Development, faq, GTalk, IM, Interesting, security, VHS]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2012/03/Encrypt_all_the_things.png"><img class="alignright size-medium wp-image-2766" title="Encrypt_all_the_things" src="http://blog.abluestar.com/public/uploads/2012/03/Encrypt_all_the_things-300x269.png" alt="" width="300" height="269" /></a>How do you talk to someone over a common, instant message (IM) client (gtalk, MSN, ect..) securely, with encryption. This was my question when I went to the <a href="https://vancouver.hackspace.ca/wp/2012/03/01/practical-intro-to-computer-security-thursday-22nd-march-2012/">Practical intro to computer security</a> at <a href="https://vancouver.hackspace.ca">Vancouver Hackspace</a>.
+<a href="/public/uploads/2012/03/Encrypt_all_the_things.png"><img class="alignright size-medium wp-image-2766" title="Encrypt_all_the_things" src="/public/uploads/2012/03/Encrypt_all_the_things-300x269.png" alt="" width="300" height="269" /></a>How do you talk to someone over a common, instant message (IM) client (gtalk, MSN, ect..) securely, with encryption. This was my question when I went to the <a href="https://vancouver.hackspace.ca/wp/2012/03/01/practical-intro-to-computer-security-thursday-22nd-march-2012/">Practical intro to computer security</a> at <a href="https://vancouver.hackspace.ca">Vancouver Hackspace</a>.
 
-<a href="http://www.cypherpunks.ca/otr/">Off the record</a> (OTR) is a plugin for most IM clients that sets up a secure connection between two computers that you can use to ensure that no one else is listing in and that you are talking to the person you intend to. The problem is that there is no OTR plugin for my perfered IM client <a href="http://www.digsby.com/">Digsby</a>. Infact there are not a lot of clients that support the OTR plug-ins. The OTR people do provide a tool kit to devlope plug-ins for other clients but thats a lot of work. <a href="http://blog.abluestar.com/public/uploads/2012/03/PidginPortable_128.png"><img class="alignright size-full wp-image-2754" title="PidginPortable_128" src="http://blog.abluestar.com/public/uploads/2012/03/PidginPortable_128.png" alt="" width="128" height="128" /></a>
+<a href="http://www.cypherpunks.ca/otr/">Off the record</a> (OTR) is a plugin for most IM clients that sets up a secure connection between two computers that you can use to ensure that no one else is listing in and that you are talking to the person you intend to. The problem is that there is no OTR plugin for my perfered IM client <a href="http://www.digsby.com/">Digsby</a>. Infact there are not a lot of clients that support the OTR plug-ins. The OTR people do provide a tool kit to devlope plug-ins for other clients but thats a lot of work. <a href="/public/uploads/2012/03/PidginPortable_128.png"><img class="alignright size-full wp-image-2754" title="PidginPortable_128" src="/public/uploads/2012/03/PidginPortable_128.png" alt="" width="128" height="128" /></a>
 
 The ORT developers suggest <a href="http://www.pidgin.im/">Pidgin</a>. A cross platform, multi protocol (MSN, GTalk, Jabber, ect..), opensource, Free, IM client that can <a href="http://portableapps.com/apps/internet/pidgin_portable">run without being installed</a>. I have looked at Pidgin before but i didn't like it as it was too plain for me. This talk gave me the opportunity to look deeper in to this application and I found that its is has <a href="http://developer.pidgin.im/wiki/ThirdPartyPlugins">many plugins</a> and themes for it that make it much more usable.
 
 <strong>Instructions </strong>
 <ol>
-	<li><a href="http://blog.abluestar.com/public/uploads/2012/03/ORT.png"><img class="alignright size-medium wp-image-2755" title="ORT" src="http://blog.abluestar.com/public/uploads/2012/03/ORT-247x300.png" alt="" width="247" height="300" /></a>Download and install <a href="http://pidgin.im/">Pidgin </a></li>
+	<li><a href="/public/uploads/2012/03/ORT.png"><img class="alignright size-medium wp-image-2755" title="ORT" src="/public/uploads/2012/03/ORT-247x300.png" alt="" width="247" height="300" /></a>Download and install <a href="http://pidgin.im/">Pidgin </a></li>
 	<li>Download and install the <a href="http://www.cypherpunks.ca/otr/index.php">OTR plugin</a></li>
 	<li>Start Pidgin, from tools menu select "plugins"</li>
 	<li>Select the Off The Record "OTR" plugin from the menu and click configure.</li>
 	<li>Select a account on the Off the record configuration dialog and click the "Generate" button.</li>
-	<li>Start a conversation with a friend that has the OTR plugin installed. You should see a new button called <a href="http://blog.abluestar.com/public/uploads/2012/03/no-private.png"><img class="alignnone size-full wp-image-2756" title="no private" src="http://blog.abluestar.com/public/uploads/2012/03/no-private.png" alt="" width="102" height="21" /></a></li>
+	<li>Start a conversation with a friend that has the OTR plugin installed. You should see a new button called <a href="/public/uploads/2012/03/no-private.png"><img class="alignnone size-full wp-image-2756" title="no private" src="/public/uploads/2012/03/no-private.png" alt="" width="102" height="21" /></a></li>
 	<li>Click this button and it will send your friend a message starting the secure communication.
 <ul>
 	<li>If your friend does not have the OTR plugin installed they will see a message that looks like this "<em>?OTR?v2? nobody@nowhere.com has requested an Off-the-Record private conversation &lt;<a href="http://otr.cypherpunks.ca/">http://otr.cyph<wbr>erpunks.ca/</wbr></a>&gt;.  However, you do not have a plugin to support that. See <a href="http://otr.cypherpunks.ca/">http://otr.cyph<wbr>erpunks.ca/</wbr></a>for more information.</em>"</li>
-	<li>If your friend does have the OTR plugin installed correctly they should see a message similar to this "<em>(12:34:26 PM) The privacy status of the current conversation is now: Unverified, Conversation with __FRIENDS_NAME___ on 3/28/2012 12:34:26 PM: (12:34:26 PM) The privacy status of the current conversation is now: Unverified</em>" What this means is that the communication between you two are now encrypted but you can't be sure that your friend is who they say they are. <a href="http://blog.abluestar.com/public/uploads/2012/03/unverified.png"><img class="alignnone size-full wp-image-2760" title="unverified" src="http://blog.abluestar.com/public/uploads/2012/03/unverified.png" alt="" width="83" height="25" /></a></li>
+	<li>If your friend does have the OTR plugin installed correctly they should see a message similar to this "<em>(12:34:26 PM) The privacy status of the current conversation is now: Unverified, Conversation with __FRIENDS_NAME___ on 3/28/2012 12:34:26 PM: (12:34:26 PM) The privacy status of the current conversation is now: Unverified</em>" What this means is that the communication between you two are now encrypted but you can't be sure that your friend is who they say they are. <a href="/public/uploads/2012/03/unverified.png"><img class="alignnone size-full wp-image-2760" title="unverified" src="/public/uploads/2012/03/unverified.png" alt="" width="83" height="25" /></a></li>
 </ul>
 </li>
 	<li>You can then verify your friends by click the unverified button and select "authenticate buddy" from the menu</li>
 	<li>On this page you can ask your friend a question that only they would know.
-<a href="http://blog.abluestar.com/public/uploads/2012/03/questions.png"><img class="alignnone size-medium wp-image-2762" title="questions" src="http://blog.abluestar.com/public/uploads/2012/03/questions-292x300.png" alt="" width="292" height="300" /></a></li>
+<a href="/public/uploads/2012/03/questions.png"><img class="alignnone size-medium wp-image-2762" title="questions" src="/public/uploads/2012/03/questions-292x300.png" alt="" width="292" height="300" /></a></li>
 	<li>Once you have verified that your friend is who they say they are then the icon will change to
-<a href="http://blog.abluestar.com/public/uploads/2012/03/private.png"><img class="alignnone size-full wp-image-2761" title="private" src="http://blog.abluestar.com/public/uploads/2012/03/private.png" alt="" width="76" height="23" /></a></li>
+<a href="/public/uploads/2012/03/private.png"><img class="alignnone size-full wp-image-2761" title="private" src="/public/uploads/2012/03/private.png" alt="" width="76" height="23" /></a></li>
 </ol>
 <div><strong>Notes:</strong></div>
 <div>

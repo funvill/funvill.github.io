@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Joke, My Grandfathers Death
 date: 2007-02-28 10:49
-author: funvill
-comments: true
-categories: [Interesting]
+categories: blog, [Interesting]
 ---
 Fellow 1: "Now my grandfather, he knew the exact day of the year that he was going to die. It was the right year too. Not only that, but he knew what time he would die that day, and he was right about that too."
 

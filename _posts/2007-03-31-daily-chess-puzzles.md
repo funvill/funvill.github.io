@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Daily Chess Puzzles 
 date: 2007-03-31 09:31
-author: funvill
-comments: true
-categories: [a, Chess, Games]
+categories: blog, [a, Chess, Games]
 ---
-<a href="http://www.abluestar.com/chess/" title="Chess Board"><img src="http://blog.abluestar.com/public/uploads/2007/03/5_52_chessboard_chess3gif.gif" alt="Chess Board" align="right" /></a>I have created a script that generates a new chess puzzle from a database once a day. The puzzles can be email to you or you can subscribe via a RSS feed.
+<a href="http://www.abluestar.com/chess/" title="Chess Board"><img src="/public/uploads/2007/03/5_52_chessboard_chess3gif.gif" alt="Chess Board" align="right" /></a>I have created a script that generates a new chess puzzle from a database once a day. The puzzles can be email to you or you can subscribe via a RSS feed.
 <ul>
 	<li><a href="http://www.abluestar.com/chess/"> A list of past chess puzzles</a></li>
 	<li><a href="http://feeds.feedburner.com/abluestar/chess">Subscribe to the chess puzzle a day RSS feed</a></li>

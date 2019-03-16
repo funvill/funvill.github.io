@@ -1,13 +1,11 @@
 ---
-layout: post
+layout: single
 title: The Prestige (2006) - A beautifully crafted film
 date: 2007-03-09 16:13
-author: funvill
-comments: true
-categories: [Media]
+categories: blog, [Media]
 ---
 
-<p align="left"><a href="http://blog.abluestar.com/public/uploads/2007/03/prestige.jpg" title="The Prestige"><img src="http://blog.abluestar.com/public/uploads/2007/03/prestige.thumbnail.jpg" alt="The Prestige" align="right" /></a></p>
+<p align="left"><a href="/public/uploads/2007/03/prestige.jpg" title="The Prestige"><img src="/public/uploads/2007/03/prestige.thumbnail.jpg" alt="The Prestige" align="right" /></a></p>
 <p align="left"><strong>Tag line:</strong> A Friendship, That Became a Rivalry, A Rivalry, That Became a Battle.</p>
 Its a story about two competing magicians locked in a bitter rivalry that ends with deadly consequences. The story takes place in the picturesque back drop of turn of the century Victorian London with <a href="http://imdb.com/name/nm0413168/">Hugh Jackman</a> as Robert Angier and <a href="http://imdb.com/name/nm0000288/">Christian Bale</a> as Alfred Borden  fellow apprentices turned unfortunate rivals, a plot riddled with jealous, obsession, deceit, revenge that keeps you on the edge of your seat.
 

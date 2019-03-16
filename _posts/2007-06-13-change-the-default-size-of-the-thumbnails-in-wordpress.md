@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Resize thumbnails in Wordpress
 date: 2007-06-13 23:08
-author: funvill
-comments: true
-categories: [Tips and Tricks, Web development]
+categories: blog, [Tips and Tricks, Web development]
 ---
 I get asked this question lot, how to change the default size of the thumbnail that wordpress creates when you upload an image. There are two different ways of doing it depending on what version of your Wordpress you have installed.
 

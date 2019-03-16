@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Heritage Hall Comic Con
 date: 2006-07-13 12:38
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<img src="http://blog.abluestar.com/public/uploads/2006/07/con_stackofcomics.jpg" id="image36" alt="Heritage Hall Comic Con" align="right" />
+<img src="/public/uploads/2006/07/con_stackofcomics.jpg" id="image36" alt="Heritage Hall Comic Con" align="right" />
 A day of alternative &amp; small-press comics, zines, artwork &amp; culture
 
 <strong>When:</strong> Sunday, Auust 27, 2006 11 AM to 5 PM

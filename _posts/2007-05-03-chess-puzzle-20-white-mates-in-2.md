@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Chess Puzzle #20 - White mates in 2
 date: 2007-05-03 09:00
-author: funvill
-comments: true
-categories: [Chess]
+categories: blog, Chess
 ---
 <strong>White to play, White mates in 2 [Gy. Bakcsi 1973]</strong>
 

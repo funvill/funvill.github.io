@@ -1,9 +1,8 @@
 ---
-published: true
-layout: post
+layout: single
 title: Wanhao Duplicator i3 
 date: '2016-11-06 00:01'
-author: funvill
+categories: blog
 ---
 
 I picked up a used [Wanhao Duplicator i3](https://www.3dhubs.com/3d-printers/wanhao-duplicator-i3) from a friend for a good price. I have used 3D printers in the past, but I have never owned one before. Having one at my house allows me to run really long print jobs (+20 hours). The interesting thing about the Wanhao Duplicator i3 is that it allows me to [print exotic filaments](https://all3dp.com/best-3d-printer-filament-types-pla-abs-pet-exotic-wood-metal/) like [ninja flex](http://ninjaflex3d.ca/), PETG, nylon, wood, etc. 
@@ -12,7 +11,7 @@ I decided to use [Cura](https://ultimaker.com/en/products/cura-software) at the 
 
 I joined a helpful [facebook group for the Wanhao Duplicator i3](https://www.facebook.com/groups/WanhaoDi3/) that I have been asking lots of questions as I slowly figure this printer out. 
 
-As I find more information I updated my [3D printer resources](http://blog.abluestar.com/alternatives-to-the-vancouver-hackspace#d-printing) list. 
+As I find more information I updated my [3D printer resources](/alternatives-to-the-vancouver-hackspace#d-printing) list. 
 
 ## 3D printing FAQ 
 

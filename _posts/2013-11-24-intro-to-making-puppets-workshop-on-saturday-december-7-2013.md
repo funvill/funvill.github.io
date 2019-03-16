@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Intro to Making Puppets workshop on Saturday, December 7, 2013
 date: 2013-11-24 13:00
-author: funvill
-comments: true
-categories: [Projects, Vancouver]
+categories: blog, [Projects, Vancouver]
 ---
 I'm running another puppet workshop at VHS
 <p style="padding-left: 30px;"><strong><a href="http://vancouver.hackspace.ca/wp/2013/11/22/intro-to-making-puppets-workshop-on-saturday-december-7-2013/">Intro to Making Puppets workshop on Saturday, December 7, 2013</a></strong></p>

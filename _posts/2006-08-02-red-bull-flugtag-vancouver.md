@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Red Bull Flugtag Vancouver
 date: 2006-08-02 15:33
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2006/07/flash_placeholder.gif" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/07/.thumbs/.flash_placeholder.gif" alt="flash_placeholder.gif" title="flash_placeholder.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="133" width="200" /></a>
+<a href="/public/uploads/2006/07/flash_placeholder.gif" rel="lightbox"><img src="/public/uploads/2006/07/.thumbs/.flash_placeholder.gif" alt="flash_placeholder.gif" title="flash_placeholder.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="133" width="200" /></a>
 
 <strong>What is Flugtag </strong>
 The first Flugtag took place in Austria in 1991. Since then, the dream of flying hand-made machines into unsuspecting bodies of water has spread like wildfire. From Ireland to San Francisco, inspired pilots have come out of the woodwork to construct their own outrageous craft. And while the flights have never been record-breaking, the pre-launch showmanship has always been unparalleled!

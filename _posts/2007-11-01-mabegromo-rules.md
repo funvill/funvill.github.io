@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: MaBeGroMo Rules
 date: 2007-11-01 12:43
-author: funvill
-comments: true
-categories: [Projects]
+categories: blog, [Projects]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2007/11/beard.jpg"><img src="http://blog.abluestar.com/public/uploads/2007/11/beard.thumbnail.jpg" align="right" /></a>One of my good friends are starting the <a href="http://www.nanowrimo.org/">NaNoWriMo</a> today so far hes gotten <a href="http://www.criticaloddness.com/blog/smooth/">457 words in</a>.  Not being a writer or wanting to be one I am effectively disqualified from the compaction.
+<a href="/public/uploads/2007/11/beard.jpg"><img src="/public/uploads/2007/11/beard.thumbnail.jpg" align="right" /></a>One of my good friends are starting the <a href="http://www.nanowrimo.org/">NaNoWriMo</a> today so far hes gotten <a href="http://www.criticaloddness.com/blog/smooth/">457 words in</a>.  Not being a writer or wanting to be one I am effectively disqualified from the compaction.
 
 So instead I am joining the <a href="http://www.dyers.org/blog/archives/2005/11/16/mabegromo/">MabeGroMo</a>.<a href="http://www.dyers.org/blog/archives/2005/11/16/mabegromo/">
 </a>

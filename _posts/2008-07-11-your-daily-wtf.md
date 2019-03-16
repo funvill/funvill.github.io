@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Your daily WTF
 date: 2008-07-11 14:26
-author: funvill
-comments: true
-categories: [Development, Tips and Tricks]
+categories: blog, [Development, Tips and Tricks]
 ---
 I found this today while doing code review.
 

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Beat The Barman
 date: 2009-06-22 10:16
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games]
+categories: blog, [drinking, game, Games, Games]
 ---
 Beat the Barman is a Drinking game
 

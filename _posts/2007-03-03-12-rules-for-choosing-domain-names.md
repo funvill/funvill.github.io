@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: 12 Rules for Choosing Domain Names
 date: 2007-03-03 16:57
-author: funvill
-comments: true
-categories: [Web development]
+categories: blog, [Web development]
 ---
 <a href="http://www.seomoz.org/blog/how-to-choose-the-right-domain-name">SEOmoz.org/</a> has a great set of 12 tips for people that are planning on creating a new domain.
 <blockquote>

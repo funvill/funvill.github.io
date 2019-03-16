@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: 12 Tips for creating a killer landing page.
 date: 2007-06-01 09:00
-author: funvill
-comments: true
-categories: [Tips and Tricks, Web development]
+categories: blog, [Tips and Tricks, Web development]
 ---
-<img src="http://blog.abluestar.com/public/uploads/2007/05/writting.jpg" align="right" height="96" width="92" />Good landing pages are a key to creating conversations from your advertisement. It's the first page that your users see when they click on one of your ads its got to be exactly what they want.
+<img src="/public/uploads/2007/05/writting.jpg" align="right" height="96" width="92" />Good landing pages are a key to creating conversations from your advertisement. It's the first page that your users see when they click on one of your ads its got to be exactly what they want.
 
 I created these tips for creating killer landing pages when I was helping a good friend of mine fixes his adwords campaign. I created landing pages and optimized his adwords campaign and in 2 months he was getting 7-10 times as many leads from his website as he once was. From 2 a day to 12-25 a day it a huge improvement and I ended up getting a nice bounce.
 
@@ -27,4 +25,4 @@ He made the biggest mistake you can made with any type of advertisement, all his
 	<li><strong> Lots of White space</strong> - an uncluttered page with lots of blank space.</li>
 	<li><strong> Remove anything that does not need to be there</strong> - No navigation, no side bar, no ads for other products, remove anything that's distracting. You should still have your sites logo near the top of the page with a link back to your main page.</li>
 </ol>
-You should also take a look at yesterdays post, <a href="http://blog.abluestar.com/23-tips-for-writing-good-blog-posts-and-articles/">23 tips for writing good blog posts and articles</a>
+You should also take a look at yesterdays post, <a href="/23-tips-for-writing-good-blog-posts-and-articles/">23 tips for writing good blog posts and articles</a>

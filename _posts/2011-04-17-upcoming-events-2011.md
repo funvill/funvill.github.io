@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Upcoming events for this summer 
 date: 2011-04-17 14:20
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
 <div><strong>Upcoming events for this summer </strong></div>
 <ul>

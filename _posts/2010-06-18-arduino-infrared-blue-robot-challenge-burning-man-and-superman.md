@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Arduino Infrared, Blue Robot challenge, Burning man and superman 
 date: 2010-06-18 15:01
-author: funvill
-comments: true
-categories: [Arduino, Interesting, News, Projects, Vancouver]
+categories: blog, [Arduino, Interesting, News, Projects, Vancouver]
 ---
 <strong>Blue robot challenge </strong>
 
@@ -35,7 +33,7 @@ Photos of perviousness burning mans: <a href="http://web.me.com/alvarobarrios/
 
 <strong>Upcoming events </strong>
 <ul>
-	<li><a href="http://www.scienceworld.ca/swad">June 18th, 2010 Science World After Dark (SWAD) </a>- Is tonight as I <a href="http://blog.abluestar.com/interesting-friday/">previously mentioned</a> last week.</li>
+	<li><a href="http://www.scienceworld.ca/swad">June 18th, 2010 Science World After Dark (SWAD) </a>- Is tonight as I <a href="/interesting-friday/">previously mentioned</a> last week.</li>
 	<li><a href="http://www.carfreevancouver.org/">June 20th, 2010 Vancouver Car free days</a> - They block off 3 streets in Vancouver (Main st, Commercial drive, Kits)  to p0rmote alternative transportation such as bikes. Vendors, bands, circus shows and acts of all types fill the streets for this event. Wholly volunteer-organized and presented, involving over 30 core organizers and 300 volunteers</li>
 	<li><a href="http://www.burningman.com/">Aug 30- Sept 06 Burning man</a> - Got two tickets, now I just need to find a way down there, food, water, RV,  costumes, and all the things in between.</li>
 	<li><a href="http://www.ticketmaster.ca/event/110044C99D9E9A98?artistid=735894&amp;majorcatid=10001&amp;minorcatid=60">Sept 25, 2010 Primus - the Oddity Faire</a> - $42 at <a href="http://www.pne.ca/">PNE fourm</a>. Not my faviorte venue but I do enjoy a good <a href="http://en.wikipedia.org/wiki/Primus_(band)">Primus</a>/<a href="http://en.wikipedia.org/wiki/Les_Claypool">Les Claypool </a>show.</li>

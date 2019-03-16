@@ -1,9 +1,8 @@
 ---
-published: true
-layout: post
+layout: single
 title: Travel Tips
 date: '2019-01-29 00:01'
-author: funvill
+categories: blog
 ---
 
 ## Traveling

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Mah Na Mah Na
 date: 2007-04-26 09:00
-author: funvill
-comments: true
-categories: [Media]
+categories: blog, [Media]
 ---
 For the people that grew up with the <a href="http://en.wikipedia.org/wiki/The_Muppet_Show">Muppets</a>, <a href="http://en.wikipedia.org/wiki/Mahna_Mahna">Mah Na Mah Na</a> song is no stranger. I still find myself singing it as I walk down the street to the horror of my too cool friends with in ear shot.
 

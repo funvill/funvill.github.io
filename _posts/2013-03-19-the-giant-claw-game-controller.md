@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: single
 title: The Giant Claw Game! - Controller 
 date: 2013-03-19 22:30
-author: funvill
-comments: true
-categories: [Laser Cutter, Projects]
+categories: blog, [Laser Cutter, Projects]
 ---
-Continuing from my last post on <a href="http://blog.abluestar.com/the-giant-claw-game-vancouver-maker-faire-2013-project/">The Giant Claw Game!</a> This week I build the controller for the Giant Claw using the laser cutter, a arcade joystick and a button.
+Continuing from my last post on <a href="/the-giant-claw-game-vancouver-maker-faire-2013-project/">The Giant Claw Game!</a> This week I build the controller for the Giant Claw using the laser cutter, a arcade joystick and a button.
 
-<img class="size-medium wp-image-3209 alignright" alt="messing wiring" src="http://blog.abluestar.com/public/uploads/2013/03/2013-03-04-14.55.00-300x225.jpg" width="300" height="225" />
+<img class="size-medium wp-image-3209 alignright" alt="messing wiring" src="/public/uploads/2013/03/2013-03-04-14.55.00-300x225.jpg" width="300" height="225" />
 
 The box was cut with <a href="http://vancouver.hackspace.ca/wp/">VHS's laser cutter</a>, using a pattern that I created with this <a href="http://boxmaker.rahulbotics.com/">laser cutting box making tool</a>. I purchased the joystick and button from a local arcade suppler <a href="http://www.flippers.com/">John's Jukes</a> for $14.
 

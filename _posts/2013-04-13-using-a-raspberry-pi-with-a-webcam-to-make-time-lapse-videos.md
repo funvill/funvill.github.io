@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Using a Raspberry PI with a webcam to make time lapse videos. 
 date: 2013-04-13 14:38
-author: funvill
-comments: true
-categories: [Projects, Raspberry PI]
+categories: blog, [Projects, Raspberry PI]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2013/04/64807.jpg"><img class="size-thumbnail wp-image-3236 alignright" alt="64807" src="http://blog.abluestar.com/public/uploads/2013/04/64807-150x150.jpg" width="150" height="150" /></a>I have made a bunch of time lapse videos in the past with my Cannon S90 using the <a href="http://chdk.wikia.com/wiki/CHDK">CHDK</a> hacked firmware. These videos turn out great and I have very happy with the results. The problem is that I have to leave my expensive camera unattended for hours or days at a time and I am unable to use the camera while it is in use.
+<a href="/public/uploads/2013/04/64807.jpg"><img class="size-thumbnail wp-image-3236 alignright" alt="64807" src="/public/uploads/2013/04/64807-150x150.jpg" width="150" height="150" /></a>I have made a bunch of time lapse videos in the past with my Cannon S90 using the <a href="http://chdk.wikia.com/wiki/CHDK">CHDK</a> hacked firmware. These videos turn out great and I have very happy with the results. The problem is that I have to leave my expensive camera unattended for hours or days at a time and I am unable to use the camera while it is in use.
 
 A few weeks ago I found a few cheap HD webcams (<a href="http://ncix.com/products/?sku=64807&amp;promoid=1371">HP HD-3110 Autofocus 720p 30FPS Widescreen Webcam</a>) on <a href="http://ncix.com/">NCIX</a>. These Webcams work with the <a href="http://www.raspberrypi.org">Raspberry PI</a> and consumes a less power then other webcams I have tested in the past.
 

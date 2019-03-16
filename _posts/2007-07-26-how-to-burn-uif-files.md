@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: How to burn .uif files
 date: 2007-07-26 16:12
-author: funvill
-comments: true
-categories: [open ufi files, Tips and Tricks]
+categories: blog, [open ufi files, Tips and Tricks]
 ---
 The .UIF or Universal Image Format File was created by MagicISO as a compressed ISO file.
 

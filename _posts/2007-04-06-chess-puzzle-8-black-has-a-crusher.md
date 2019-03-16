@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: single
 title: Chess Puzzle #8 - Black has a crusher
 date: 2007-04-06 09:00
-author: funvill
-comments: true
-categories: [Chess]
+categories: blog, Chess
 ---
 <strong>Black has a crusher</strong>
 Hint: Sacrifice the rook
 
-<a href="http://blog.abluestar.com/?p=168">
+<a href="/?p=168">
 <img src="http://www.abluestar.com/scripts/chess_image.php?ff=6k1/5p1p/8/1p2Q2K/1Nr4P/P5P1/3n2q1/3R4" height="323" width="305" /></a>
 
 <!--more--><a href="javascript:ReverseContentDisplay('chess_solution')">[Show Solution]</a>

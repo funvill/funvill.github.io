@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: The Movies
 date: 2010-07-19 14:32
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games, movie, Movies]
+categories: blog, [drinking, game, Games, Games, movie, Movies]
 ---
 The movies is a really simple drinking game and is probably the first one I ever played.
 Find a movie and come up with reocurring things to look for; when you see these things you drink.

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Sequences
 date: 2010-04-19 19:05
-author: funvill
-comments: true
-categories: [Dice, Dice, game, Games, Games]
+categories: blog, [Dice, Dice, game, Games, Games]
 ---
 Sequences is a dice game.
 This game is a version of an old game called 'Hearts' or 'Hearts Due' that is played with a special set of dice that have the letters H, E, A, R, T, S printed on their sides instead of numbers.

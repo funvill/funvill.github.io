@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Screw Your Neighbor 
 date: 2010-04-12 18:19
-author: funvill
-comments: true
-categories: [Cards, Cards, game, Games, Games]
+categories: blog, [Cards, Cards, game, Games, Games]
 ---
 Screw Your Neighbor is an elimination card game.  After each round, one player is eliminated (or loses a token).
 When all players but one have been eliminated, the remaining player wins the game.

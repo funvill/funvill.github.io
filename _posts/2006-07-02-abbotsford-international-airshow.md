@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Abbotsford International Airshow
 date: 2006-07-02 11:43
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<img src="http://blog.abluestar.com/public/uploads/2006/07/ch124.jpg" id="image11" alt="Abbotsford International Airshow" align="right" />
+<img src="/public/uploads/2006/07/ch124.jpg" id="image11" alt="Abbotsford International Airshow" align="right" />
 <strong>Where:</strong> The Abbotsford Airport, a short drive from Vancouver (1 hour)
 <strong>When:</strong> AUGUST 11-13
 <strong>What:</strong> Abbotsford International Airshow

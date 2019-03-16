@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Centennial
 date: 2009-08-03 10:57
-author: funvill
-comments: true
-categories: [Dice, Dice, game, Games, Games]
+categories: blog, [Dice, Dice, game, Games, Games]
 ---
 Centennial is a Dice game, also known as Martinetti and Ohio.
 

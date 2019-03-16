@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Chess Puzzle #21 - White mates in 2
 date: 2007-05-04 09:00
-author: funvill
-comments: true
-categories: [Chess]
+categories: blog, Chess
 ---
 <strong>White to play, White mates in 2 [Gy. Bakcsi - L. Zoltan 1993]</strong>
 

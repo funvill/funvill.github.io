@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Disable and Enable MFC controls by name 
 date: 2007-11-30 12:25
-author: funvill
-comments: true
-categories: [Development, Tips and Tricks]
+categories: blog, [Development, Tips and Tricks]
 ---
 I use this snippet all the time to disable/enable, hide/show, move MFC controls.
 

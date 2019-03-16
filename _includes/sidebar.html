@@ -1,46 +1,24 @@
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1><a href="/">{{ site.title }}</a></h1>
-      <p class="lead">{{ site.description }}</p>
-
-      <ul class="social">
-         <li><a href="https://twitter.com/funvill"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="https://instagram.com/funvill"><i class="fa fa-instagram"></i></a></li>               
-         <li><a href="https://github.com/funvill"><i class="fa fa-github"></i></a></li>
-         <li><a href="http://stackoverflow.com/users/58456/steven-smethurst"><i class="fa fa-stack-overflow"></i></a></li>
-         <li><a href="https://www.facebook.com/funvill"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="https://ca.linkedin.com/pub/steven-smethurst/20/43/899"><i class="fa fa-linkedin"></i></a></li>
-         <li><a href="https://plus.google.com/111367666747908953608/posts"><i class="fa fa-google-plus"></i></a></li>               
-         <li><a href="skype:funvill?call"><i class="fa fa-skype"></i></a></li>
-         <li><a href="https://www.youtube.com/user/funvill"><i class="fa fa-youtube"></i></a></li>
-         <li><a href="http://steamcommunity.com/id/funvill/"><i class="fa fa-steam"></i></a></li>
-         <li><a href="http://www.last.fm/user/funvill"><i class="fa fa-lastfm"></i></a></li>
-         <li><a href="http://www.reddit.com/user/funvill/"><i class="fa fa-reddit"></i></a></li>
-         <li><a title='Rebel alliance' href="#"><i class="fa fa-rebel"></i></a></li>
-         <li><a title='Android fanboy' href="#"><i class="fa fa-android"></i></a></li>
-         <li><a title='Linux user' href="#"><i class="fa fa-linux"></i></a></li>
-         <li><a title='Bicycle user' href="#"><i class="fa fa-bicycle"></i></a></li>
-      </ul>
-
-
-    </div>
-
-    <ul class="sidebar-nav">
-      <li>Pages<ul>
-        <li class="sidebar-nav-item"><a href="/"><i class="fa fa-star" aria-hidden="true"></i> Home</a></li>
-        <li class="sidebar-nav-item"><a href='/archive'><i class="fa fa-file" aria-hidden="true"></i> Blog Archives</a></li>
-        <li class="sidebar-nav-item"><a href='/projects'><i class="fa fa-cubes" aria-hidden="true"></i> Projects</a></li>
-        <li class="sidebar-nav-item"><a href='/tools'><i class="fa fa-rocket" aria-hidden="true"></i> Tools and Equipment</a></li>
-        <li class="sidebar-nav-item"><a href='/cv'><i class="fa fa-certificate" aria-hidden="true"></i> CV</a></li>
-      </ul></li>
-
-      <li class="sidebar-nav-item"></li>
-      <li class="sidebar-nav-item"><sub>Built with <a href="https://github.com/poole/hyde">Hyde</a> and <a href="http://jekyllrb.com/">Jekyll</a></sub> <br /> <sub><p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p></sub></li>
-      
-
-
-    </ul>
-    
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src=
+        {% if s.image contains "://" %}
+          "{{ s.image }}"
+        {% else %}
+          "{{ s.image | relative_url }}"
+        {% endif %}
+        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+      {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
+    {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+  {% endif %}
   </div>
-</div>
+{% endif %}

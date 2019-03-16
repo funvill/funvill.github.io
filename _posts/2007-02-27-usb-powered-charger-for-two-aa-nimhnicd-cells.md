@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: USB Powered Charger for Two AA NiMH/NiCd Cells
 date: 2007-02-27 15:26
-author: funvill
-comments: true
-categories: [Projects]
+categories: blog, [Projects]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2007/02/t-completed.jpg" title="NiMH/NiCd Cells charger"><img src="http://blog.abluestar.com/public/uploads/2007/02/t-completed.thumbnail.jpg" alt="NiMH/NiCd Cells charger" border="0" /></a>
+<a href="/public/uploads/2007/02/t-completed.jpg" title="NiMH/NiCd Cells charger"><img src="/public/uploads/2007/02/t-completed.thumbnail.jpg" alt="NiMH/NiCd Cells charger" border="0" /></a>
 
 The other day I was looking at a USB cell charger from ThinkGeek.
 A battery that charges while it is connected to my USB port.

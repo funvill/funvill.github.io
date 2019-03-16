@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Wordpress Post via email (wp-mail.php)
 date: 2012-07-12 19:08
-author: funvill
-comments: true
-categories: [email, php, Web development, wordpress]
+categories: blog, [email, php, Web development, wordpress]
 ---
 For the last few years I have used a plugin called <a href="http://wordpress.org/extend/plugins/postie">postie</a> that would let me email automated posts to my blog and they would automatically get posted for me. It worked great for years until a few months ago (it took me a while to even notice)
 

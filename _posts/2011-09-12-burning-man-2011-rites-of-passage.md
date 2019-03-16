@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Burning Man 2011 - Rites of Passage
 date: 2011-09-12 20:18
-author: funvill
-comments: true
-categories: [Interesting, Media]
+categories: blog, [Interesting, Media]
 ---
 I didn't take too many PG pictures, So here are others videos. Amazing year.
 
@@ -23,4 +21,4 @@ My favorite art installation
 
 <strong>A picture of my camp </strong>
 
-<a href="http://blog.abluestar.com/public/uploads/2011/09/297036_10150304659541668_610521667_7695308_207504949_n.jpg"><img class="alignnone size-medium wp-image-1622" title="297036_10150304659541668_610521667_7695308_207504949_n" src="http://blog.abluestar.com/public/uploads/2011/09/297036_10150304659541668_610521667_7695308_207504949_n-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="/public/uploads/2011/09/297036_10150304659541668_610521667_7695308_207504949_n.jpg"><img class="alignnone size-medium wp-image-1622" title="297036_10150304659541668_610521667_7695308_207504949_n" src="/public/uploads/2011/09/297036_10150304659541668_610521667_7695308_207504949_n-300x199.jpg" alt="" width="300" height="199" /></a>

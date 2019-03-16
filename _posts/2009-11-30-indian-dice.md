@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Indian Dice
 date: 2009-11-30 14:09
-author: funvill
-comments: true
-categories: [Dice, Dice, game, Games, Games]
+categories: blog, [Dice, Dice, game, Games, Games]
 ---
 Indian Dice is a poker game with dice.
 

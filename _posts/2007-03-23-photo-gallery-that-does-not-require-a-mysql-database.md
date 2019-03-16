@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Photo Gallery that does not require a MySql database 
 date: 2007-03-23 15:12
-author: funvill
-comments: true
-categories: [Web development]
+categories: blog, [Web development]
 ---
 A while ago I was looking for a truly upload and go photo gallery one that does require a database. I found an abandoned PHP project called Simple PHP gallery by Paul Griffin.
 

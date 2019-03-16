@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Tips for pulling an all nighter 
 date: 2007-07-18 09:00
-author: funvill
-comments: true
-categories: [Tips and Tricks]
+categories: blog, [Tips and Tricks]
 ---
-<img src="http://blog.abluestar.com/public/uploads/2007/07/shift-work-sleep-disorder.thumbnail.jpg" alt="shift-work-sleep-disorder.jpg" align="right" />
+<img src="/public/uploads/2007/07/shift-work-sleep-disorder.thumbnail.jpg" alt="shift-work-sleep-disorder.jpg" align="right" />
 <blockquote>People who say they sleep like a baby usually don't have one.
 ~Leo J. Burke</blockquote>
 Today I was reading a recent article on <a href="http://www.jonlee.ca/">Jonlee.ca</a> about his set of tips for <a href="http://www.jonlee.ca/10-tips-for-prolonged-computer-usage/">prolonged Computer Usage</a>.

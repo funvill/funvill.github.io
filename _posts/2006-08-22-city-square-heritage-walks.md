@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: City Square Heritage Walks
 date: 2006-08-22 01:16
-author: funvill
-comments: true
-categories: [Vancouver]
+categories: blog, [Vancouver]
 ---
-<a href="http://blog.abluestar.com/public/uploads/2006/explore.jpg" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/2006/.thumbs/.explore.jpg" alt="explore.jpg" title="explore.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="188" width="200" /></a>
+<a href="/public/uploads/2006/explore.jpg" rel="lightbox"><img src="/public/uploads/2006/.thumbs/.explore.jpg" alt="explore.jpg" title="explore.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="188" width="200" /></a>
 
 <strong>City Square Heritage Walks</strong>
 

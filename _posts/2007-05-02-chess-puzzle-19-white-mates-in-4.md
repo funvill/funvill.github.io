@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Chess Puzzle #19 - White mates in 4
 date: 2007-05-02 09:00
-author: funvill
-comments: true
-categories: [Chess]
+categories: blog, Chess
 ---
 <strong>White to play, White mates in 4 [Van den Doel-Heinatz '03]</strong>
 <strong>By</strong>: Shelby Lyman

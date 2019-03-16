@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: C++ name mangling hell
 date: 2008-11-09 09:00
-author: funvill
-comments: true
-categories: [Development, Tips and Tricks]
+categories: blog, [Development, Tips and Tricks]
 ---
 I found this post on Experts exchange about <a href="http://www.experts-exchange.com/Programming/System/Windows__Programming/MFC/Q_21865192.html ">C++ name mangling hell</a>. I have run in to this problems a few times, it drives me nuts as I always forget about it when trying to use LoadLibrary and GetProcAddress.
 <blockquote><code>#ifdef FIRSTINDLL_EXPORTS

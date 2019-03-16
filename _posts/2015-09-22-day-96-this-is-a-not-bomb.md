@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Day 96 - This is a not bomb
 date: 2015-09-22 01:36
-author: funvill
+categories: blog
 ---
 
 WARNING THIS IS NOT A BOMB

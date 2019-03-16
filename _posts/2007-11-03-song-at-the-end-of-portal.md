@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Song at the end of Portal
 date: 2007-11-03 11:32
-author: funvill
-comments: true
-categories: [Games, Interesting]
+categories: blog, [Games, Interesting]
 ---
 Portal is one of the better games I have played this year. A black humor puzzle game thats not repetitive and is actually fun... Fun you remember fun don't you? the way games use to be before we go all caught up in our new shinny graphics cards.
 

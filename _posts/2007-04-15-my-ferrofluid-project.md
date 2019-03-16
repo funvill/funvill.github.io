@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: My Ferrofluid Project 
 date: 2007-04-15 09:00
-author: funvill
-comments: true
-categories: [Interesting, Projects]
+categories: blog, [Interesting, Projects]
 ---
-A few months ago I found a Youtube video of <a href="http://www.kodama.hc.uec.ac.jp/protrudeflow/">Sachiko Kodama</a> <a href="http://en.wikipedia.org/wiki/Ferrofluid">ferrofluid</a> sculpture. There are more then a few of them  running around on you tube just <a href="http://www.youtube.com/results?search_query=Ferrofluid">search for Ferrofluid</a>. There is also the <a href="http://blog.abluestar.com/snoil-a-physical-display-based-on-ferrofluid/">snake oil project </a>that I posted earlier.
+A few months ago I found a Youtube video of <a href="http://www.kodama.hc.uec.ac.jp/protrudeflow/">Sachiko Kodama</a> <a href="http://en.wikipedia.org/wiki/Ferrofluid">ferrofluid</a> sculpture. There are more then a few of them  running around on you tube just <a href="http://www.youtube.com/results?search_query=Ferrofluid">search for Ferrofluid</a>. There is also the <a href="/snoil-a-physical-display-based-on-ferrofluid/">snake oil project </a>that I posted earlier.
 
 They looked amazing and pretty simple too do, an electric magnet and iron core and a bunch of [tag]Ferrofluid[/tag]. I Could make one of these easily, it can not be that hard I said to myself.
 
@@ -14,7 +12,7 @@ So me and my artist friend decided to make our own. We choose to start small fir
 
 At first we tried to <a href="http://chemistry.about.com/od/demonstrationsexperiments/ss/liquidmagnet.htm">make our own Ferrofluid</a> but that didn't work out too well. It turned out to be more of a brown mud that sort reacted to magnets but it wasn't very impressive nothing like the videos that we had seen. After a few attempts at creating home made Ferrofluid we decided to buy some of the good stuff online. It was pretty expensive I think it was $230 CAN for a 1 liter bottle. I don't remember where we bought it from.
 
-<a href="http://blog.abluestar.com/public/uploads/fluid_demo.jpg" rel="lightbox"><img src="http://blog.abluestar.com/public/uploads/fluid_demo.jpg" alt="fluid_demo.jpg" title="fluid_demo.jpg" align="right" border="0" height="160" width="240" /></a>
+<a href="/public/uploads/fluid_demo.jpg" rel="lightbox"><img src="/public/uploads/fluid_demo.jpg" alt="fluid_demo.jpg" title="fluid_demo.jpg" align="right" border="0" height="160" width="240" /></a>
 
 The stuff is messy very messy, it stained my skin for a good week and imposable to get out of anything fabric.
 

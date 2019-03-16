@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: RPXnow and Windows live ID, problems signing out
 date: 2010-01-23 13:23
-author: funvill
-comments: true
-categories: [Development, Microsoft, OpenID, Rants, RPXnow, windows]
+categories: blog, [Development, Microsoft, OpenID, Rants, RPXnow, windows]
 ---
 <strong>The problem </strong>
 
@@ -12,7 +10,7 @@ I am using <a href="https://rpxnow.com/">RPXnow</a> to help simplify the OpenID 
 
 Super scary to most users.
 
-<a href="http://blog.abluestar.com/public/uploads/2010/01/RPXnow_WindowsLifeID_Cantsignout.png"><img class="aligncenter size-full wp-image-856" title="RPXnow Windows Live ID Cant sign out" src="http://blog.abluestar.com/public/uploads/2010/01/RPXnow_WindowsLifeID_Cantsignout.png" alt="" width="801" height="412" /></a>
+<a href="/public/uploads/2010/01/RPXnow_WindowsLifeID_Cantsignout.png"><img class="aligncenter size-full wp-image-856" title="RPXnow Windows Live ID Cant sign out" src="/public/uploads/2010/01/RPXnow_WindowsLifeID_Cantsignout.png" alt="" width="801" height="412" /></a>
 
 After a few <em><strong>DAYS</strong>!</em> of trouble shooting I found this support issues on Google groups.
 <a href="http://groups.google.com/group/rpx-developers/browse_thread/thread/3d0d1ffde84a4c4b/041b1830f4d68393?lnk=gst&amp;q=windows+live+id,+sign+out#041b1830f4d68393">http://groups.google.com/group/rpx-developers/browse_thread/thread/3d0d1ffde84a4c4b/041b1830f4d68393?lnk=gst&amp;q=windows+live+id,+sign+out#041b1830f4d68393</a>

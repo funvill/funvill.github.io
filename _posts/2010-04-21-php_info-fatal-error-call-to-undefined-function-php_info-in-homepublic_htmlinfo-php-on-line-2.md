@@ -1,10 +1,8 @@
 ---
-layout: post
-title: Fatal error: Call to undefined function: php_info() in /home/*/public_html/info.php on line 2
+layout: single
+title: "Fatal error: Call to undefined function: php_info() in /home/*/public_html/info.php on line 2"
 date: 2010-04-21 13:35
-author: funvill
-comments: true
-categories: [Tips and Tricks]
+categories: blog, Tips and Tricks
 ---
 <strong>Source code:</strong>
 <code>&lt;?php

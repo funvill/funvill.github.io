@@ -1,9 +1,8 @@
 ---
-published: true
-layout: post
+layout: single
 title: Wood working in vancouver
 date: '2017-02-20 00:01'
-author: funvill
+categories: blog
 ---
 
 # Wood working in Vancouver
@@ -57,6 +56,6 @@ You are going to need some wood for making awesome projects.
  
 ## Places to avoid
 
-Vancouver has a lot of great resources for woodworking but there are also some places that are horrible. If you have had the unfortunate experience of going to The [Vancouver Hackspace](https://blog.abluestar.com/alternatives-to-the-vancouver-hackspace) (VHS), please don't give up on woodworking! and try one of the great alternatives in Vancouver. Their small selection of used recycled tools are constantly broken, dull, or unsafe. Their volunteers are all but useless, and teach bad unsafe habits. They are not adequate insured and are a accident waiting to happen. Their space is too small to a project of any reasonable size. No proper ventilation, the list goes on.
+Vancouver has a lot of great resources for woodworking but there are also some places that are horrible. If you have had the unfortunate experience of going to The [Vancouver Hackspace](/alternatives-to-the-vancouver-hackspace) (VHS), please don't give up on woodworking! and try one of the great alternatives in Vancouver. Their small selection of used recycled tools are constantly broken, dull, or unsafe. Their volunteers are all but useless, and teach bad unsafe habits. They are not adequate insured and are a accident waiting to happen. Their space is too small to a project of any reasonable size. No proper ventilation, the list goes on.
 
 Don't let the Vancouver hackspace ruin your experience with woodworking.

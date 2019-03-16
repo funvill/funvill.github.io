@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Disarm The Bomb
 date: 2009-10-19 13:28
-author: funvill
-comments: true
-categories: [drinking, game, Games, Games]
+categories: blog, [drinking, game, Games, Games]
 ---
 Disarm The Bomb is a drinking game.
 

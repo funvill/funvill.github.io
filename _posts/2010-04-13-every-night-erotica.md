@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Every Night Erotica
 date: 2010-04-13 21:17
-author: funvill
-comments: true
-categories: [News]
+categories: blog, [News]
 ---
 <a href="http://www.everynighterotica.com/" target="_blank"><span style="font-family: Georgia; color: #0000ff; font-size: small;"><span style="text-decoration: underline;">Every Night Erotica</span></span></a><span style="font-family: Georgia; font-size: small;"> online magazine launching May 1<sup>st</sup> 2010. </span>
 

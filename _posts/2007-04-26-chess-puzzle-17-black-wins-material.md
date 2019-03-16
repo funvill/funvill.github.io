@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title: Chess Puzzle #17 - Black wins material
 date: 2007-04-26 09:00
-author: funvill
-comments: true
-categories: [Chess, july 17]
+categories: blog, [Chess, july 17]
 ---
 <strong>Black to play and Black wins material</strong>
 <strong>By: </strong>Shelby Lyman
