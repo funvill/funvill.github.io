@@ -2,7 +2,7 @@
 layout: single
 title: If you build it they will come mentality...
 date: 2008-01-03 14:30
-categories: Development WebDevelopment
+categories: Development Development
 ---
 If you build it they will come. That&quot;s the mentality that most people have when building there first website. That&quot;s just not the way the internet works. You have to advertise, you have to tell people that you exist.
 

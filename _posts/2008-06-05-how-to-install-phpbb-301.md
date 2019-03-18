@@ -2,7 +2,7 @@
 layout: single
 title: How to install PHPBB 3.0.1
 date: 2008-06-05 22:36
-categories: WebDevelopment
+categories: Development
 ---
 This tutorial will walk you thou the steps to install <a href="http://www.phpbb.com/">PHPBB3</a> on your system.
 

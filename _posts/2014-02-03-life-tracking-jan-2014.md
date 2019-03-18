@@ -2,7 +2,8 @@
 layout: single
 title: Life tracking Jan 2014
 date: 2014-02-03 16:48
-categories: gmail, google, heat, life tracking, map, maps, moving, movment, News, qt, search, sleeping, stats, steps, temp, tracking, Vancouver, walking, working
+categories: Self
+tags: gmail google heat life tracking map maps moving movment News qt search sleeping stats steps tracking Vancouver walking working
 ---
 This chart was generated with the help of <a href="https://www.rescuetime.com/">Rescue Time</a>. It looks like I'm more productive this month (58) than last month (53)
 

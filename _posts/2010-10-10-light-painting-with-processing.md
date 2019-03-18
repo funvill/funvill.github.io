@@ -2,7 +2,7 @@
 layout: single
 title: Light painting with Processing
 date: 2010-10-10 13:00
-categories: Projects, Tips
+categories: Projects Tips
 ---
 I have always liked <a href="http://en.wikipedia.org/wiki/Light_painting">light panting</a> and <a href="http://www.webdesignerdepot.com/2010/10/100-stunning-demonstrations-of-light-painting/">light graffiti</a>. But there are things that I don't like about it, it takes along time, its process incentive, you can do it live. After searching around the internet I found this video
 

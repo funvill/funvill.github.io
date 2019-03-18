@@ -2,7 +2,7 @@
 layout: single
 title: Chase The Ace
 date: 2009-08-17 11:11
-categories: Dice drinking Games
+categories: Dice Drinking Games
 ---
 Chase The Ace is a dice, drinking game
 

@@ -2,7 +2,7 @@
 layout: single
 title: Who Shit, What Shit
 date: 2010-10-18 19:17
-categories: Drinking Games, word
+categories: Drinking Games
 ---
 Who Shit, What Shit is a drinking game.
 

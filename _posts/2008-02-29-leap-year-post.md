@@ -2,7 +2,7 @@
 layout: single
 title: Leap Year post!
 date: 2008-02-29 14:47
-categories: Interesting
+categories: uncategorized
 ---
 February 29 is a date that only occurs once every four years, and is called leap day. This day is added to the calendar in leap years as a corrective measure, because the earth does not orbit around the sun in precisely 365.000 days.
 The chance of being born on leap year day is about 1 in 1,500, there are about 4 million people worldwide with February 29 as there birthday.

@@ -2,10 +2,11 @@
 layout: single
 title: CakePHP - Search bar 
 date: 2009-12-09 14:16
-categories: cakephp search WebDevelopment
+categories: Development
+Tags: cakephp search 
 ---
 This code snippet will create a search box that uses can use to search for text in the database.
-The control creates a query to search certain fields of publsihed stories
+The control creates a query to search certain fields of published stories
 
 <strong>View or layout:</strong>
 <code>&lt;?php

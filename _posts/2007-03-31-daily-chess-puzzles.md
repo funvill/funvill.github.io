@@ -2,7 +2,7 @@
 layout: single
 title: Daily Chess Puzzles 
 date: 2007-03-31 09:31
-categories: Chess, Games
+categories: Chess Games
 ---
 <a href="http://www.abluestar.com/chess/" title="Chess Board"><img src="/public/uploads/2007/03/5_52_chessboard_chess3gif.gif" alt="Chess Board" align="right" /></a>I have created a script that generates a new chess puzzle from a database once a day. The puzzles can be email to you or you can subscribe via a RSS feed.
 <ul>

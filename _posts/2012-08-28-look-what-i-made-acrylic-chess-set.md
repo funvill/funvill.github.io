@@ -2,7 +2,8 @@
 layout: single
 title: Look what I made - Acrylic chess set
 date: 2012-08-28 17:22
-categories: acrylic, Chess, Games, Laser, lasercutter, News, projects, VHS
+categories: Projects
+tags: projects acrylic Chess Games Laser lasercutter News projects VHS
 ---
 &nbsp;
 

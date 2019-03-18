@@ -2,7 +2,7 @@
 layout: single
 title: Where I went wrong 
 date: 2007-06-18 01:58
-categories: WebDevelopment
+categories: Development
 ---
 <img src="/public/uploads/2007/06/things_that_can_go_wrong.thumbnail.jpg" alt="things_that_can_go_wrong.jpg" align="right" height="118" width="127" />Today I read a post by <a href="http://www.janemayblogs.com/">Jane May</a> at <a href="http://www.johnchow.com">John chow dot com</a>, <a href="http://www.johnchow.com/the-secrets-of-picking-a-niche/">The Secrets of Picking A Niche</a> its a good read if you got 7 mins to spare. The article talks about how to pick the right Niche or subject for your blog or upcoming website. It got me thinking about my own Niche blog <a href="http://www.abluestar.com/games/">Games games and more games</a> and I realized where I went wrong.
 <ul>

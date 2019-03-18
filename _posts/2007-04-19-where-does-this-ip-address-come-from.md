@@ -2,7 +2,8 @@
 layout: single
 title: Where does this IP Address come from
 date: 2007-04-19 09:00
-categories: Development, IP, map, Projects, Utility, WebDevelopment
+categories: Development
+tags: Development IP map Projects Utility Development
 ---
 A few days ago I was asked to find out where or close to where a user of ours was coming from. so i created this GEO location script <a href="http://www.abluestar.com/utilities/what_is_my_ip/where_did_this_ip_addrss_come_from.php">Where does this IP Address come from</a>
 

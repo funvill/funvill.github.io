@@ -2,7 +2,7 @@
 layout: single
 title: More riddles
 date: 2007-04-25 09:00
-categories: Interesting
+categories: uncategorized
 ---
 I enjoyed them so much the first time I posted <a href="/riddles/">some riddles</a> that I am going to do it again.
 

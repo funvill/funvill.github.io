@@ -2,7 +2,7 @@
 layout: single
 title: Vancouver Mini Maker Faire 2011
 date: 2011-11-11 15:49
-categories: Canada Interesting Projects, Vancouver
+categories: Projects Vancouver
 ---
 <strong>* I found this post in my drafts, unfinished, lost and forgotten. I decided to post it, unfinished instead of deleting it. * </strong>
 

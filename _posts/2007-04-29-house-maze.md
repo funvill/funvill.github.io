@@ -2,7 +2,7 @@
 layout: single
 title: House maze 
 date: 2007-04-29 09:00
-categories: Interesting
+categories: uncategorized
 ---
 Here is a house that converted its backyard in to a corn maze and charge people to run the maze.
 I seen this done many times with <a href="http://www.cornfieldmaze.com/">corn mazes</a> where the maze its self makes more money then the actually corn could.

@@ -2,7 +2,7 @@
 layout: single
 title: Tool at GM place Review
 date: 2006-08-27 12:14
-categories: Media, Vancouver
+categories: Media Vancouver
 ---
 <a href="/public/uploads/2006/MUS_Concerts2_2018.jpg" rel="lightbox"><img src="/public/uploads/2006/MUS_Concerts2_2018.jpg" alt="MUS_Concerts2_2018.jpg" title="MUS_Concerts2_2018.jpg" style="margin: 5px 10px; padding: 3px" border="2" height="200" width="133" /></a>
 Erich Saide photo.

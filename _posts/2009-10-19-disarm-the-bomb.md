@@ -2,7 +2,7 @@
 layout: single
 title: Disarm The Bomb
 date: 2009-10-19 13:28
-categories: drinking Games
+categories: Drinking Games
 ---
 Disarm The Bomb is a drinking game.
 

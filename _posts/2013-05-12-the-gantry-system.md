@@ -2,7 +2,10 @@
 layout: single
 title: The Giant Claw Game! - The Gantry System
 date: 2013-05-12 18:33
-categories: claw, corexy, gantry, pictures, Projects, status update, xy, xytable
+categories: 
+    - claw game 
+    - projects
+tags: claw corexy gantry pictures Projects xy xytable
 ---
 This week I have working on the gantry system. The gantry system is used to move the claw around inside the Cube.
 

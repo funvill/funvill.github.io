@@ -2,7 +2,8 @@
 layout: single
 title: Bar Tricks
 date: 2008-03-31 13:16
-categories: Bar Accessories Interesting tricks Video
+categories: media 
+tags: Bar Accessories Interesting tricks Video
 ---
 <p style="text-align: center"></p>
 

@@ -2,7 +2,7 @@
 layout: single
 title: 12 Tips for creating a killer landing page.
 date: 2007-06-01 09:00
-categories: Tips WebDevelopment
+categories: Tips Development
 ---
 <img src="/public/uploads/2007/05/writting.jpg" align="right" height="96" width="92" />Good landing pages are a key to creating conversations from your advertisement. It's the first page that your users see when they click on one of your ads its got to be exactly what they want.
 

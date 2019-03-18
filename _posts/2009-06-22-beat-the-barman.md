@@ -2,7 +2,7 @@
 layout: single
 title: Beat The Barman
 date: 2009-06-22 10:16
-categories: drinking Games
+categories: Drinking Games
 ---
 Beat the Barman is a Drinking game
 

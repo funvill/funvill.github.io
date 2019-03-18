@@ -2,7 +2,7 @@
 layout: single
 title: The Best of Every Day Fiction Two (Anthology)
 date: 2010-01-25 01:26
-categories: Interesting, News, Projects, WebDevelopment
+categories: uncategorized News Projects Development
 ---
 <img src="http://www.everydaypublishing.ca/cart/EDF2009_small.jpg" alt="" align="left" />Flash fiction is perfect for your coffee break, your commute, or whenever you have a few minutes for yourself. Crafted with gemlike precision, every flash fiction piece tells a complete story, never using more than a thousand words.
 

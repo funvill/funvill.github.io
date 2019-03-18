@@ -2,7 +2,7 @@
 layout: single
 title: Domain names and registrar 
 date: 2014-06-18 00:23
-categories: WebDevelopment
+categories: Development
 ---
 <strong>Domain names and registrar</strong>
 

@@ -2,7 +2,7 @@
 layout: single
 title: John Chow - How to make money online 
 date: 2007-05-31 10:14
-categories: WebDevelopment
+categories: Development
 ---
 <a href="http://www.johnchow.com/" title="johnchow.jpg"><img src="/public/uploads/2007/05/johnchow.thumbnail.jpg" alt="johnchow.jpg" align="right" /></a>I recently reached the 200 mark in subscribed RSS feeds it was becoming unmanageable and I spent maybe 4 hours a day reading posts instead of making posts, not very productive.
 

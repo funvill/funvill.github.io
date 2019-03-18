@@ -2,7 +2,7 @@
 layout: single
 title: Star-wars engraving with a laser cutter 
 date: 2013-09-23 15:08
-categories: Laser Cutter
+categories: LaserCutter
 ---
 For a friends birthday I laser etched a few starwars scenes in to wood with VHS's Laser cutter. I only had a limited time so I was unable to experimented with different settings, but they turned out okay.
 

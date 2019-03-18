@@ -2,7 +2,7 @@
 layout: single
 title: OK to talk to 
 date: 2007-07-13 15:02
-categories: Interesting, Vancouver
+categories: Vancouver
 ---
 <a href="http://www.oksocial.org/"><img src="/public/uploads/2007/07/br-button2.thumbnail.jpg" alt="br-button2.jpg" align="right" /></a> I have always had trouble striking up conversation with random people, I like to be introduced to someone first to have the 'Its OK to talk to me' smile and hand shake.
 

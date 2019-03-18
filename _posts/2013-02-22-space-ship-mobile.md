@@ -2,7 +2,7 @@
 layout: single
 title: Space ship mobile 
 date: 2013-02-22 17:17
-categories: Laser Cutter
+categories: LaserCutter
 ---
 One of my good friends just had a child and I wanted to get them a hand made gift. I decided on making a <a href="http://en.wikipedia.org/wiki/Mobile_(sculpture)">mobile</a> with VHS's laser cutter.
 

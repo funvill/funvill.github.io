@@ -2,7 +2,7 @@
 layout: single
 title: Netburner http weird errors - Daily WTF
 date: 2011-06-02 11:33
-categories: Development, Rants
+categories: Development Rants
 ---
 <strong>Daily WTF</strong>
 

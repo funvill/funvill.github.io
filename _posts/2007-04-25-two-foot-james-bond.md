@@ -13,5 +13,3 @@ Found with the help of the good people at <a href="http://www.thevancouverite.co
 it doesn't get much better then that. 
 
 Enjoy
-
- 

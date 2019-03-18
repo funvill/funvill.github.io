@@ -2,7 +2,7 @@
 layout: single
 title: RGB LED POV Globe - Parts shopping 
 date: 2011-03-23 21:30
-categories: Development, News
+categories: Development News
 ---
 I spent most of the last week doing research and ordering parts samples and testing equipment, trying to get everything set up for this project.
 

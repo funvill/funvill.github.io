@@ -2,7 +2,7 @@
 layout: single
 title: Centurians 
 date: 2009-08-10 11:03
-categories: drinking Games
+categories: Drinking Games
 ---
 Centurians is a Drinking game
 This game is also known as Century Club, Centurions, Power Hour, or The '100'

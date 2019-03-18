@@ -2,7 +2,7 @@
 layout: single
 title: Raspberry PI controlling an Arduino via the pyfirmata protocol 
 date: 2013-02-10 21:30
-categories: Development, Raspberry PI, Tips
+categories: Development  RaspberryPI Tips
 ---
 The <a href="http://reviews.cnet.co.uk/desktops/25-fun-things-to-do-with-a-raspberry-pi-50009851/">Raspberry PI is good for a lot of things</a> from <a href="http://www.engadget.com/2012/09/13/supercomputer-built-from-raspberry-pi-and-lego/">computer clusters</a> to <a href="http://www.instructables.com/id/Raspberry-Pi-GPIO-home-automation/">home automation</a> but its missing a few things such as a <a href="http://learn.adafruit.com/adding-a-real-time-clock-to-raspberry-pi/overview">real time clock</a>, terminal/barrel power connector, or  Analog pins.  The Arduino has analog pins that can be read by the USB virtual serial port from the Raspberry PI.
 

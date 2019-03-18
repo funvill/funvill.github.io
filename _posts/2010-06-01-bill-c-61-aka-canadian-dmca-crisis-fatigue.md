@@ -2,7 +2,7 @@
 layout: single
 title: Bill C-61 AKA Canadian DMCA - Crisis Fatigue
 date: 2010-06-01 12:00
-categories: News, Rants
+categories: News Rants
 ---
 Canada's DMCA (AKA <a href="http://www2.parl.gc.ca/housepublications/publication.aspx?docid=3570473&amp;language=e&amp;mode=1">Bill C-61</a>) is back up in front of parliament again. We defeated it once before in summer of 2008 now <em><strong>they </strong><span style="font-style: normal;">change it slightly call it a different name, emphasize different points and send it back to parliament. Basically they are hoping for "</span>Crisis fatigue</em>"
 

@@ -2,7 +2,8 @@
 layout: single
 title: The Giant Claw Game! - The Controls System 
 date: 2013-05-14 00:01
-categories: circuit, current, drill, drills, gear, gears, hbridge, motors, Projects, pulley, relay
+categories: Projects
+tags: circuit current drill drills gear gears hbridge motors Projects pulley relay
 ---
 Only two weeks left to get the Claw up and running ready for <a href="http://vancouver.makerfaire.ca/breaker-faire-may-25th/">Breaker Faire</a> the <a href="http://vancouver.makerfaire.ca/">Maker Faire</a> fund raiser party. I am starting to get worried that I might not get it done in time.
 

@@ -2,7 +2,7 @@
 layout: single
 title: Twenty One
 date: 2010-08-30 16:18
-categories: Dice, gambling, Games
+categories: Dice Gambling Games
 ---
 Twenty one is a dice jeopardy approach game.
 This game is absurdly easy to play but it's a good game to explain what jeopardy approach games are.  In a jeopardy approach games, the object is most closely approach a goal score without exceeding it.  This game is also known as Blackjack in the USA, Pontoon in the UK, and Vingt-et-un in France.

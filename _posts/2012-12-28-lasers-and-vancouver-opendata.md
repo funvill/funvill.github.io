@@ -2,7 +2,7 @@
 layout: single
 title: Lasers and Vancouver OpenData 
 date: 2012-12-28 16:08
-categories: Laser Cutter
+categories: LaserCutter
 ---
 A few days ago I attended a talk at the <a href="http://vancouver.hackspace.ca/wp/">Vancouver HackSpace</a> (VHS) on using <a href="http://vancouver.hackspace.ca/wp/2012/11/29/open-data-and-lasers-at-vhs-thursday-dec-13th/">Open Data and lasers</a> to make interesting wooden maps.
 

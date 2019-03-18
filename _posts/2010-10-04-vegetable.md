@@ -2,7 +2,7 @@
 layout: single
 title: Vegetable
 date: 2010-10-04 19:06
-categories: Drinking Games, word
+categories: Drinking Games
 ---
 Vegetable is a word drinking game.
 

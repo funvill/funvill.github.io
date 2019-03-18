@@ -2,7 +2,8 @@
 layout: single
 title: Updated versions of VHS Lighting Talk Challenge coins
 date: 2012-11-07 16:35
-categories: coins, design, Development, Laser, lasercutter, News, projects, shhh, VHS
+categories: Projects 
+tags: coins design Development Laser lasercutter News projects shhh VHS
 ---
 I tested a few different versions of the <a href="/vhs-lighting-talk-challenge-coins-super-happy-hacker-house/">VHS Lighting Talk Challenge coins</a> that I designed last wee. With the help of a fellow <a href="http://vancouver.hackspace.ca/">VHS</a> member Richard (Nutters) we arrived at this design.
 

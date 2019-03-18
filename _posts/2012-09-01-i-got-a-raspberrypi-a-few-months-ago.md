@@ -2,7 +2,7 @@
 layout: single
 title: I got a RaspberryPI (a few months ago) 
 date: 2012-09-01 00:01
-categories: Development, Projects, RaspberryPI
+categories: Development  Projects  RaspberryPI
 ---
 <a href="/public/uploads/2012/08/IMG_4793.jpg"><img class="alignright size-medium wp-image-2834" title="IMG_4793" src="/public/uploads/2012/08/IMG_4793-300x225.jpg" alt="" width="300" height="225" /></a>I got a <a href="http://www.raspberrypi.org/">RaspberryPI</a> a few months ago, but with <a href="http://vancouver.makerfaire.ca/">Vancouver Maker Faire</a> and the <a href="http://vancouver.hackspace.ca/wp/2012/08/30/call-for-letters-of-support/">281 proposal</a> and all the other things going on in my life I just never got around to playing with it.
 <blockquote><strong>What&quot;s a Raspberry Pi?</strong>

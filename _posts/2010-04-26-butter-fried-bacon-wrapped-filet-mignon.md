@@ -2,7 +2,8 @@
 layout: single
 title: Butter fried bacon wrapped filet Mignon
 date: 2010-04-26 21:10
-categories: Cooking, directions, how to, raspberry, recipe, salad, steak, Uncategorized
+categories: recipe
+tags: Cooking directions raspberry recipe salad steak
 ---
 In response to a friends post about <a href="http://www.criticaloddness.com/blog/buttersteak-mignon/">buttersteak-mignon</a> and his harassment about my not cooking any more I decided to construct the most delicious steak ever made.
 

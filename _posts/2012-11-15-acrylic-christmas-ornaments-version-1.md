@@ -2,7 +2,7 @@
 layout: single
 title: Acrylic Christmas Ornaments version 1
 date: 2012-11-15 22:38
-categories: Development, Laser Cutter
+categories: Development  LaserCutter
 ---
 <a href="/public/uploads/2012/11/2012-11-15-22.13.401.jpg"><img class="alignright size-medium wp-image-2991" title="2012-11-15 22.13.40" src="/public/uploads/2012/11/2012-11-15-22.13.401-300x175.jpg" alt="" width="300" height="175" /></a>I got some time on <a href="http://vancouver.hackspace.ca/wp/">VHS's laser cuter</a> tonight and was able cut up the first version of the ornaments. They still need some work.
 <ul>

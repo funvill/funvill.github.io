@@ -2,7 +2,8 @@
 layout: single
 title: Raspberry PI and the GPIO pins
 date: 2013-02-03 20:35
-categories: Arduino, cosm, data logger, Development, home automation, Raspberry PI, raspberypi
+categories: Arduino RaspberryPI
+tags: Arduino cosm DataLogger Development HomeAutomation RaspberryPI
 ---
 This week I have been playing with the <a href="http://www.raspberrypi.org/">Rapberry PI</a>, <a href="http://www.python.org/">Python</a> and the <a href="http://pypi.python.org/pypi/RPi.GPIO">Python GPIO pins library</a>.
 

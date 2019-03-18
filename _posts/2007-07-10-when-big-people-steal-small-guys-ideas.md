@@ -2,7 +2,7 @@
 layout: single
 title: When big people steal small guys ideas 
 date: 2007-07-10 00:41
-categories: WebDevelopment
+categories: Development
 ---
 <img src="/public/uploads/2007/07/colourlovers.jpg" alt="colourlovers.jpg" />
 

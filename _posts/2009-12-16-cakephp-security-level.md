@@ -2,7 +2,7 @@
 layout: single
 title: CakePHP - Security.level
 date: 2009-12-16 18:34
-categories: Tips WebDevelopment
+categories: Tips Development
 ---
 I been having reports from my users that they are getting randomly logged out of my web applications. After much debugging I found that CakePHP regenerates the session on every request.
 <blockquote>File: <em>core.php</em>

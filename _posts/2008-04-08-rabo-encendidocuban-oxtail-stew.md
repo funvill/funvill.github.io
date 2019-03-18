@@ -2,7 +2,7 @@
 layout: single
 title: Rabo Encendido(Cuban Oxtail Stew)
 date: 2008-04-08 00:55
-categories: Uncategorized
+categories: recipes
 ---
 <img src="/public/uploads/2008/04/ox_tail_web.jpg" alt="ox_tail_web.jpg" align="right" /><strong>Ingredients</strong>
 <ul>

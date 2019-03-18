@@ -2,7 +2,8 @@
 layout: single
 title: The last batch of GeoCoins
 date: 2012-09-23 23:29
-categories: coins, GeoCaching, GeoCoins, Laser, lasercutter, Projects, VHS, Wood
+categories: Projects
+tags: coins GeoCaching GeoCoins Laser lasercutter Projects VHS Wood
 ---
 I was able to compleat the last bunch of GeoCoins tonight at <a href="vancouver.hackspace.ca">VHS</a>. These ones turned out better then the first two batches. I sanded the surface of the coins just a little to remove some of the extra burn marks. They made the lines lighter but a lot more readable.
 

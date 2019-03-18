@@ -2,7 +2,8 @@
 layout: single
 title: WHAT IS reCAPTCHA
 date: 2008-04-01 14:35
-categories: Development OCR Puzzle WebDevelopment Website
+categories: Development
+tags: Development OCR Puzzle Development Website
 ---
 
 <blockquote>

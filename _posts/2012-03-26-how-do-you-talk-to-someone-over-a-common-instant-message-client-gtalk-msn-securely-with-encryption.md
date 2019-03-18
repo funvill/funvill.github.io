@@ -2,7 +2,8 @@
 layout: single
 title: How do you talk to someone over a common, instant message client (Gtalk, MSN) securely, with encryption
 date: 2012-03-26 11:11
-categories: crypto, Development, faq, GTalk, IM Interesting security, VHS
+categories: Development
+tags: crypto Development faq, GTalk IM Interesting security VHS
 ---
 <a href="/public/uploads/2012/03/Encrypt_all_the_things.png"><img class="alignright size-medium wp-image-2766" title="Encrypt_all_the_things" src="/public/uploads/2012/03/Encrypt_all_the_things-300x269.png" alt="" width="300" height="269" /></a>How do you talk to someone over a common, instant message (IM) client (gtalk, MSN, ect..) securely, with encryption. This was my question when I went to the <a href="https://vancouver.hackspace.ca/wp/2012/03/01/practical-intro-to-computer-security-thursday-22nd-march-2012/">Practical intro to computer security</a> at <a href="https://vancouver.hackspace.ca">Vancouver Hackspace</a>.
 

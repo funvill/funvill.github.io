@@ -2,7 +2,7 @@
 layout: single
 title: Introduction to Home automation with the Raspberry Pi - Sunday November 24th 2013
 date: 2013-11-07 23:22
-categories: Projects, Raspberry PI
+categories: Projects  RaspberryPI
 ---
 <strong>Who:</strong>
 VHS members only, become a member and join us!

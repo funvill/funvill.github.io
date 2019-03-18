@@ -2,7 +2,7 @@
 layout: single
 title: Waterfall
 date: 2010-10-11 19:11
-categories: Drinking Games, teams
+categories: Drinking Games
 ---
 Waterfall is a drinking game.
 <strong>

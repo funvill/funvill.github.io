@@ -2,7 +2,7 @@
 layout: single
 title: Travel Tips
 date: '2019-01-29 00:01'
-categories: tips travel
+categories: Tips Travel
 tags: travel
 ---
 

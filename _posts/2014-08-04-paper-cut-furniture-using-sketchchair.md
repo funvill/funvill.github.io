@@ -2,7 +2,8 @@
 layout: single
 title: Paper cut furniture using SketchChair
 date: 2014-08-04 00:34
-categories: chair, CNC, furniture, Laser Cutter, paper
+categories: LaserCutter
+tags: chair CNC furniture LaserCutter paper
 ---
 I found <a href="https://www.kickstarter.com/projects/diatom/sketchchair-furniture-designed-by-you">SketchChair</a> while looking for CNC related projects on Kickstarter. It is an <a href="http://sketchchair.cc/">open source application</a> that you can use to draw chairs and output the design files for cutting on a CNC or laser cutter.
 

@@ -2,7 +2,8 @@
 layout: single
 title: Cakephp - Using the same view for multiple controler functions 
 date: 2009-11-19 12:05
-categories: cakephp controler php render snippit template WebDevelopment
+categories: Development
+tags: cakephp controler php render snippit template Development
 ---
 <strong>Question:</strong>
 I have a Cakephp project the controller has several different methods.

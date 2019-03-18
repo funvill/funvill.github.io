@@ -2,7 +2,7 @@
 layout: single
 title: Laser cut spray paint stencils
 date: 2014-10-10 17:50
-categories: Laser Cutter
+categories: LaserCutter
 ---
 I have been using laser cutter at the <a href="https://vancouver.hackspace.ca/">Vancouver hackspace</a> to make spray paint stencils. I use to cut these stencils by hand and it would take anywhere from 2-3 hours each. Now it takes 15mins with the laser cutter.
 

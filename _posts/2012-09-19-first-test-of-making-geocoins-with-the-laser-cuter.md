@@ -2,7 +2,8 @@
 layout: single
 title: First test of making GeoCoins with the laser cuter
 date: 2012-09-19 12:00
-categories: Games, GeoCaching, GeoCoins, Laser, LaserCuter, Projects, QRCode, VHS, Wood
+categories: Projects
+tags: Games GeoCaching GeoCoins Laser LaserCuter Projects QRCode VHS Wood
 ---
 <img class="alignright size-medium wp-image-2854" title="2012-09-18 23.39.19" src="/public/uploads/2012/09/2012-09-18-23.39.19-225x300.jpg" alt="" width="225" height="300" />
 

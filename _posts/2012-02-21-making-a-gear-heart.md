@@ -2,7 +2,8 @@
 layout: single
 title: Making a Gear Heart
 date: 2012-02-21 00:00
-categories: 3dprinted, abs, gear, gifts, heart Interesting News, pictures, projects, thingaverse, VHS, Video
+categories: Projects
+tags: 3dprinted abs gear gifts heart News pictures Projects thingaverse VHS Video
 ---
 <a href="/public/uploads/2012/02/IMG_4136.jpg"><img class="size-medium wp-image-2730 alignright" title="IMG_4136" src="/public/uploads/2012/02/IMG_4136-300x225.jpg" alt="" width="300" height="225" /></a>
 

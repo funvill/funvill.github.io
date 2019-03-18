@@ -2,7 +2,8 @@
 layout: single
 title: I visited Hacklab hackerspace
 date: 2012-10-09 00:01
-categories: hackspace, images Interesting photos, travel
+categories: Travel
+tags: hackspace Interesting photos travel
 ---
 While visiting <a href="http://www.toronto.ca/">Toronto</a> I was able to make it down to <a href="http://hacklab.to/">Hacklab.To</a> and get a tour of their space.
 

@@ -2,7 +2,7 @@
 layout: single
 title: The Giant Claw Game! - Controller 
 date: 2013-03-19 22:30
-categories: Laser Cutter, Projects
+categories: LaserCutter Projects
 ---
 Continuing from my last post on <a href="/the-giant-claw-game-vancouver-maker-faire-2013-project/">The Giant Claw Game!</a> This week I build the controller for the Giant Claw using the laser cutter, a arcade joystick and a button.
 

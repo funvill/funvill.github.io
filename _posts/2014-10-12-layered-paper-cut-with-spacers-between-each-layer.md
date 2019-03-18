@@ -2,7 +2,7 @@
 layout: single
 title: Layered paper cut with spacers between each layer
 date: 2014-10-12 19:12
-categories: Laser Cutter
+categories: LaserCutter
 ---
 I made this <a href="/laser-cut-layered-circles/">laser cut, paper, layered, circle design</a> a few weeks ago. At the time I didn't have any different color paper so I made it out of red paper. The problem with making it all out of red is that the different layers don't show up that well. I took the results as a test and left it in the corner of my room where all my tests cut go.
 

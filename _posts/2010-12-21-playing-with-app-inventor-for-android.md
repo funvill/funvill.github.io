@@ -2,7 +2,7 @@
 layout: single
 title: Playing with app inventor for android
 date: 2010-12-21 00:01
-categories: Development, Tips, Uncategorized
+categories: Development Tips
 ---
 <a href="/public/uploads/2010/12/app_view.png"><img class="alignright size-full wp-image-1171" title="app_view" src="/public/uploads/2010/12/app_view.png" alt="" width="279" height="563" /></a><a href="http://appinventor.googlelabs.com/">App inventor for android</a> was just recently released for everyone to play with. I looked in to it hoping I could create a simple <a href="http://www.everydayfiction.com/">EveryDayFiction</a> feed reader app but it doesn't seem to support <em>Get RSS feed</em> just yet.
 

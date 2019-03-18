@@ -2,7 +2,7 @@
 layout: single
 title: Lee Krasnow - Puzzle box maker
 date: 2007-11-03 15:47
-categories: Games Interesting
+categories: Games 
 ---
 I stumbled on to "<a href="http://pwdbp.com/?action=5364.showPerson">Lee Krasnow</a>" work from a <a href="http://www.makezine.com/blog/archive/2006/05/make_podcast_lee_krasnow_makes.html">MAKE pod cast</a> that I have included below.
 

@@ -2,7 +2,7 @@
 layout: single
 title: Simplified Craps
 date: 2010-05-31 15:31
-categories: Dice, gambling, Games
+categories: Dice Gambling Games
 ---
 Simplified Craps is a dice game.
 This is a simplified version of craps that is often played on the street of New York.
