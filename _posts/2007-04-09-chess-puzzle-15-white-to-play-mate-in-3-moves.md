@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #11 - White to play, mate in 3 moves
 date: 2007-04-09 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play and mate in three moves</strong>
 W. Atkinson, Montreal

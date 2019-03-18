@@ -2,7 +2,7 @@
 layout: single
 title: Cakephp - Add meta tags to views
 date: 2009-12-02 12:20
-categories: blog, [Tips and Tricks]
+categories: Tips
 ---
 This is how you add well formated meta tags to a cakephp views even thou the meta tags are rendered in the layout.
 

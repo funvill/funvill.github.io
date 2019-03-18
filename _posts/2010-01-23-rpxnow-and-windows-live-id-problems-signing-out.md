@@ -2,7 +2,8 @@
 layout: single
 title: RPXnow and Windows live ID, problems signing out
 date: 2010-01-23 13:23
-categories: blog, [Development, Microsoft, OpenID, Rants, RPXnow, windows]
+categories: Development
+tags: Microsoft OpenID Rants RPXnow windows
 ---
 <strong>The problem </strong>
 

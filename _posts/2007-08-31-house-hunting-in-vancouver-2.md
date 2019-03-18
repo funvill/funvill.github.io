@@ -2,7 +2,7 @@
 layout: single
 title: House hunting in vancouver
 date: 2007-08-31 11:14
-categories: blog, [Tips and Tricks, Vancouver]
+categories: Tips, Vancouver
 ---
 House hunting in Vancouver is exalting to say the lest, with a less then 1% vacancy rate and school just around the corner its almost impossible to find anything worthy in late August or early September. I have gotten suggestions from friends and family that I should just rent a motel for a month and wait till December when the renting rush is over and done with. But for some of us this isn't an option so I have created this list of house hunting websites that might help you in your search.
 <ul>

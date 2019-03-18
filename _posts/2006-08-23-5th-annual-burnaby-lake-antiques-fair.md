@@ -2,9 +2,9 @@
 layout: single
 title: 5th Annual BURNABY LAKE ANTIQUES FAIR
 date: 2006-08-23 01:28
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
-<a href="/public/uploads/2006/shopviewtransp.jpg" rel="lightbox"><img src="/public/uploads/2006/.thumbs/.shopviewtransp.jpg" alt="shopviewtransp.jpg" title="shopviewtransp.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="162" width="200" /></a>
+<a href="/public/uploads/2006/shopviewtransp.jpg" rel="lightbox"><img src="/public/uploads/2006/shopviewtransp.jpg" alt="shopviewtransp.jpg" title="shopviewtransp.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="162" width="200" /></a>
 
 <strong>5th Annual BURNABY LAKE ANTIQUES FAIR</strong>
 

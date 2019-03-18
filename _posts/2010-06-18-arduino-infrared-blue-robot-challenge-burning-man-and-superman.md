@@ -2,7 +2,7 @@
 layout: single
 title: Arduino Infrared, Blue Robot challenge, Burning man and superman 
 date: 2010-06-18 15:01
-categories: blog, [Arduino, Interesting, News, Projects, Vancouver]
+categories: Arduino Interesting News, Projects, Vancouver
 ---
 <strong>Blue robot challenge </strong>
 
@@ -20,7 +20,8 @@ This week I have been concentrating on the <em>Blue robot challenge</em> from <
 
 This is big news for me as it merge of <a href="http://mu.wordpress.org/">MU</a> and <a href="http://wordpress.org/">WordPress</a> in too one package. I have been using MU for the past few months in perperation for <a href="http://everydaynovels.com/">EveryDayNovels.com</a> project. The problem with MU is that most of the plugins built for WordPress don't work in MU but now that the projects have merged we should start seeing a lot more plugins upgraded to WordPress 3.0 and will work with the MU features.
 <ul>
-	<li><a href="http://wordpress.org/development/2010/06/thelonious/">WordPress 3.0 €œThelonious€</a></li>
+	<li><a href="http://wordpress.org/development/2010/06/thelonious/">WordPress 3.0 "
+Thelonious"</a></li>
 </ul>
 <strong>Burning man and Super man </strong>
 

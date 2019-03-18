@@ -2,7 +2,10 @@
 layout: single
 title: Tech Demo - Stained glass windows project
 date: '2018-04-11 00:01'
-categories: blog
+categories: 
+    - projects
+    - stain glass windows 
+tags: techdemo paper tape acrylic laser 
 ---
 
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 

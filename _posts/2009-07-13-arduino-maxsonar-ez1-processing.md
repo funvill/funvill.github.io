@@ -2,7 +2,7 @@
 layout: single
 title: Arduino + Maxsonar EZ1 + Processing 
 date: 2009-07-13 14:08
-categories: blog, [Arduino, Arduino, csv, Development, GUI, MaxSonar EZ1, Processing, visualization]
+categories: Arduino csv Development GUI MaxSonarEZ1 Processing visualization
 ---
 After resolving my user error with the Maxsonar EZ1 with the help of <em>Bob Gross</em> I moved on to visulizing the data captured. Captuing the output of from the Arduino with Hyper ternimal as a CSV file and importing it in to Excel worked, but I was looking for something more advanced. After a little <a href="http://en.wikipedia.org/wiki/Google_(verb)">google</a> (The verb <strong>to google</strong> (also spelled <strong>to Google</strong>) refers to using the Google search engine to obtain information on the Web.) I found a simlare project <a href=" http://creativetechnology.eu/wordpress/?p=299">Arduino + Processing: range finder</a> that worked but didn't look as nice as I wanted.
 

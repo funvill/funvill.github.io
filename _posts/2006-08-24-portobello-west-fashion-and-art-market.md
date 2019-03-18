@@ -2,9 +2,9 @@
 layout: single
 title: Portobello West Fashion and Art Market
 date: 2006-08-24 01:41
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
-<a href="/public/uploads/2006/bwgoldan.gif" rel="lightbox"><img src="/public/uploads/2006/.thumbs/.bwgoldan.gif" alt="bwgoldan.gif" title="bwgoldan.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="143" width="200" /></a>
+<a href="/public/uploads/2006/bwgoldan.gif" rel="lightbox"><img src="/public/uploads/2006/bwgoldan.gif" alt="bwgoldan.gif" title="bwgoldan.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="143" width="200" /></a>
 
 <strong>Portobello West Fashion and Art Market</strong>
 

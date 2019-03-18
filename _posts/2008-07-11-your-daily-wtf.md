@@ -2,7 +2,7 @@
 layout: single
 title: Your daily WTF
 date: 2008-07-11 14:26
-categories: blog, [Development, Tips and Tricks]
+categories: Development Tips
 ---
 I found this today while doing code review.
 

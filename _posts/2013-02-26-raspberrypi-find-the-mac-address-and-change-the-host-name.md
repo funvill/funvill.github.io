@@ -2,7 +2,7 @@
 layout: single
 title: RaspberryPI - Find the MAC address and change the host name
 date: 2013-02-26 16:19
-categories: blog, [programing, Raspberry PI, snippet, VHS]
+categories: programing, Raspberry PI, snippet, VHS
 ---
 <a href="/public/uploads/2013/02/Raspi-PGB001.png"><img class="size-thumbnail wp-image-3183 alignright" alt="Raspi-PGB001" src="/public/uploads/2013/02/Raspi-PGB001-150x150.png" width="150" height="150" /></a>We have been running Raspbberry PI nights at VHS the last few weeks and they have been going really well.
 <ul>
@@ -28,7 +28,9 @@ In this example the MAC address is <em>B8-27-EB-A1-B2-C3</em>
 <strong>How to change the Host Name of your Raspberry PI/Linux box </strong>
 
 A host name makes it easy to find the device on your network when you do not know the IP address of your Raspberry PI.
-<pre>sudo nano /etc/hostname (and enter the desired name, €œCTRL+X€ then €œY€ to quit) 
+<pre>sudo nano /etc/hostname (and enter the desired name, "
+CTRL+X" then "
+Y" to quit) 
 sudo nano /etc/hosts and replace raspberry with the hostname you chose above
 sudo /etc/init.d/hostname.sh start (to enable the changes).</pre>
 Instead of typing the IP address of your Rapsberry PI you can use the host name to connect to your device.

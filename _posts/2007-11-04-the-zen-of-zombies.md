@@ -2,7 +2,7 @@
 layout: single
 title: The zen of zombies
 date: 2007-11-04 15:13
-categories: blog, [Media]
+categories: Media
 ---
 During the first chilly weekend of fall, zombie hordes congregated in the park for a relaxing afternoon of yoga..
 

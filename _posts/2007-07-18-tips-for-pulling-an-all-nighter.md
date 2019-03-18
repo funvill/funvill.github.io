@@ -2,7 +2,7 @@
 layout: single
 title: Tips for pulling an all nighter 
 date: 2007-07-18 09:00
-categories: blog, [Tips and Tricks]
+categories: Tips
 ---
 <img src="/public/uploads/2007/07/shift-work-sleep-disorder.thumbnail.jpg" alt="shift-work-sleep-disorder.jpg" align="right" />
 <blockquote>People who say they sleep like a baby usually don't have one.

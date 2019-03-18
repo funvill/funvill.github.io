@@ -2,7 +2,7 @@
 layout: single
 title: Must see movies
 date: '2016-11-15 00:01'
-categories: blog
+categories: uncategorized
 ---
 
 Last updated November 13, 2016

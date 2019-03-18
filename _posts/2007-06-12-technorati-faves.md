@@ -2,7 +2,7 @@
 layout: single
 title: Technorati faves
 date: 2007-06-12 09:00
-categories: blog, [Web development]
+categories: WebDevelopment
 ---
 <img src="/public/uploads/2007/06/technoratiicon.gif" alt="technoratiicon.gif" align="right" />Technorati is becoming one of the biggest players in blogging. Its a great tool for ranking one site against anther and its also a search engine of content. Before I make a post I do a quick search on Technorati and see who else has written about it. After I make a post I search Technorati for other blogs that might benefit from my content and posts comments on there blogs.
 
@@ -21,9 +21,14 @@ Then copy and paste this stuff and follow the directions in to your blog.
 <ol>
 	<li>Write a short introduction paragraph about how you found the list, including a link to the blog post that referred you to it.</li>
 	<li>Copy the rules and entire list below and post it on your blog. To avoid duplicate content and increase the number of keywords to each site, change up the titles of the blogs. Just don&quot;t change the links.</li>
-	<li>Take the €œ<strong>My New Faves</strong>€ and move them into €œ<strong>The Original Faves</strong>€ list <em>along with your site</em>. Make sure all links are working properly.</li>
-	<li>Add 3 blogs to your Technorati Favorites and link them in the €œ<strong>My New Faves</strong>€ section. Don&quot;t forget to add the €œFave Me€ link next to the new blogs (i.e. <em>http://technorati.com/faves?sub=addfavbtn&amp;add=http://www.yourfavesdomain.com</em>)</li>
-	<li>Add Everyone on this list to your Technorati Favorites List by clicking on €œFave this Site.€ Those who want good kharma will fave you back. If not, you will for sure get the benefits of faves from the bloggers who continue this list after you.</li>
+	<li>Take the "
+<strong>My New Faves</strong>" and move them into "
+<strong>The Original Faves</strong>" list <em>along with your site</em>. Make sure all links are working properly.</li>
+	<li>Add 3 blogs to your Technorati Favorites and link them in the "
+<strong>My New Faves</strong>" section. Don&quot;t forget to add the "
+Fave Me" link next to the new blogs (i.e. <em>http://technorati.com/faves?sub=addfavbtn&amp;add=http://www.yourfavesdomain.com</em>)</li>
+	<li>Add Everyone on this list to your Technorati Favorites List by clicking on "
+Fave this Site." Those who want good kharma will fave you back. If not, you will for sure get the benefits of faves from the bloggers who continue this list after you.</li>
 </ol>
 <strong>My New Faves</strong>
 

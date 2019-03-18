@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #9 - White to play, mate in 3 moves
 date: 2007-04-07 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play and mate in three moves</strong>
 <strong>Hint:</strong> All Night Long

@@ -2,7 +2,7 @@
 layout: single
 title: Paper bookshelf from DIY Furniture book
 date: 2014-10-10 19:01
-categories: blog, [Projects]
+categories: Projects
 ---
 I  built a version the slot together bookshelf from the book <a href="http://www.amazon.co.uk/DIY-Furniture-Step-Step-Guide/dp/1856697428">DIY Furniture: A Step-by-Step Guide</a>.
 

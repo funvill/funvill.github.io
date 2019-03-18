@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #7 - White wins a piece
 date: 2007-04-05 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White wins a piece</strong>
 [Epishin-Sadler 2003]

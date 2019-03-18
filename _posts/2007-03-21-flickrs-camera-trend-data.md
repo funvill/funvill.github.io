@@ -2,7 +2,7 @@
 layout: single
 title: Flickr's camera trend data
 date: 2007-03-21 11:15
-categories: blog, [Tips and Tricks]
+categories: Tips
 ---
 When you take a snap shot with your digital camera your camera also saves some extra meta information to the file called Exif data.
 <p align="left">Different camaras save different information to the Exif portion of your picture most of the time it will contains information like <strong>Manufacturer</strong>, <strong>Model</strong>, Orientation, Software, <strong>Date and Time</strong>, YCbCr Positioning, Compression, x-Resolution, y-Resolution, Resolution Unit, Exposure Time, FNumber, ExposureProgram, Exif Version, Date and TimeCompressed Bits per Pixel, Exposure Bias, MaxApertureValue, Metering Mode, Flash, Focal Length, Maker Note, FlashPixVersion, Color Space, PixelXDimension, PixelYDimension, File Source, InteroperabilityIndex, InteroperabilityVersion, ect.</p>

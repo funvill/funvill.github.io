@@ -2,7 +2,7 @@
 layout: single
 title: I visited HACK Manhattan Hackerspace
 date: 2012-10-08 17:40
-categories: blog, [hackspace, images, Interesting, photos, pictures, travel]
+categories: hackspace, images Interesting photos, pictures, travel
 ---
 While I was in New York to see <a href="http://makerfaire.com/newyork/2012/">World Maker Faire</a>, I got a chance to visit <a href="http://hackmanhattan.com/">HACK Manhattan</a>.
 

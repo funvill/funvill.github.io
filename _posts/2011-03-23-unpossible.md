@@ -2,7 +2,7 @@
 layout: single
 title: Unpossible
 date: 2011-03-23 21:48
-categories: blog, [Media]
+categories: Media
 ---
 <iframe src="http://player.vimeo.com/video/2725986" width="400" height="225" frameborder="0"></iframe><p><a href="http://vimeo.com/2725986">Unpossible</a> from <a href="http://vimeo.com/robinking">Robin King</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 

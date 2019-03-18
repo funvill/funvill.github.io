@@ -2,7 +2,7 @@
 layout: single
 title: A perfect example of why you should use the same password on different websites. 
 date: 2011-01-31 19:19
-categories: blog, [Rants]
+categories: Rants
 ---
 <img class="size-full wp-image-1249 alignright" title="pof" src="/public/uploads/2011/01/pof.png" alt="" width="476" height="89" />Plenty of fish stores your password as plain text in their database. I know this because they send you a weekly email with updates to the site and puts your password at the bottom of the email so you can easily login.
 

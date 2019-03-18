@@ -2,7 +2,7 @@
 layout: single
 title: Two layer Stencils 
 date: 2011-02-19 16:06
-categories: blog, [Interesting]
+categories: Interesting
 ---
 More stencils this time we used two or more colors. The next steep is a custom 5-10 color image. one that takes me the night to cut out and do.
 

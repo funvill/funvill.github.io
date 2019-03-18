@@ -2,7 +2,7 @@
 layout: single
 title: The Giant Claw Game! - Pictures
 date: 2013-05-23 22:29
-categories: blog, [Projects]
+categories: Projects
 ---
 <strong>The Cart</strong>
 

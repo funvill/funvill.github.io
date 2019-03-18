@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #6 - White nets a piece 
 date: 2007-04-01 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>#6 White nets a piece ( Rank: 2)</strong>
 By Shelby Lyman - National Post March 22, 2007 [adapted, Ivanchuk-Topalov 2003]

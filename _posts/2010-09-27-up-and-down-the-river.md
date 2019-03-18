@@ -2,7 +2,7 @@
 layout: single
 title: Up and Down the River
 date: 2010-09-27 18:57
-categories: blog, [Cards, Cards, drinking, game, Games, Games]
+categories: Cards, Drinking Games
 ---
 Up and Down the River is a drinking game.
 

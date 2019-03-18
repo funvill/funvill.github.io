@@ -2,7 +2,7 @@
 layout: single
 title: Timeless content 
 date: 2007-06-03 09:00
-categories: blog, [Tips and Tricks, Web development]
+categories: Tips WebDevelopment
 ---
 <img src="/public/uploads/2007/06/clockicon.jpg" alt="clockicon.jpg" align="right" />I have talked before about <a href="/23-tips-for-writing-good-blog-posts-and-articles/">creating timeless content</a> but never in detail till now. Its one of the first things I check when searching for content is when it was written.
 

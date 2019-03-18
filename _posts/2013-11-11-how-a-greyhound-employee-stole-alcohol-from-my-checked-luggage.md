@@ -2,7 +2,7 @@
 layout: single
 title: How a Greyhound employee stole alcohol from my checked luggage.
 date: 2013-11-11 23:06
-categories: blog, [Rants]
+categories: Rants
 ---
 See below the letter I sent to Greyhound. I will update this post if/when I get a response from Greyhound
 <blockquote>Hello

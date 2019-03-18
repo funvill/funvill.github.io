@@ -2,7 +2,7 @@
 layout: single
 title: Anti-Counterfeiting Trade Agreement = BAD
 date: 2008-05-30 14:16
-categories: blog, [Uncategorized]
+categories: Uncategorized
 ---
 Have you heard about the €˜Anti-Counterfeiting Trade Agreement,&quot;
 <blockquote>The agreement is being structured much like the North American Free Trade Agreement (NAFTA) except it will create rules and regulations regarding private copying and copyright laws.

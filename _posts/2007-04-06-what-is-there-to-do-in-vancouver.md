@@ -2,7 +2,7 @@
 layout: single
 title: What is there to do in Vancouver?
 date: 2007-04-06 09:00
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 Living in Vancouver I find myself asking the same question all too often.
 What should I do in Vancouver? or What is going on this weekend in Vancouver?

@@ -2,7 +2,7 @@
 layout: single
 title: Laser cut layered Crystal skull
 date: 2012-12-03 23:52
-categories: blog, [Laser Cutter]
+categories: Laser Cutter
 ---
 My father loves skulls and every year I get him a skull for Christmas. A few years ago I got  him a bottle of <a href="http://crystalheadvodka.com">Crystal Head Vodka</a>.  The vodka was concieved by actor <a title="Dan Aykroyd" href="http://en.wikipedia.org/wiki/Dan_Aykroyd">Dan Aykroyd</a> and artist <a title="John Alexander (artist)" href="http://en.wikipedia.org/wiki/John_Alexander_(artist)">John Alexander</a> with an <a href="http://www.youtube.com/watch?v=SKqjIv91Zx8">excellent video ad</a>.
 <p style="padding-left: 30px;"><a href="/public/uploads/2012/12/220px-Crystal_skull_british_museum_random9834672.jpg"><img class="alignright size-thumbnail wp-image-3071" title="220px-Crystal_skull_british_museum_random9834672" src="/public/uploads/2012/12/220px-Crystal_skull_british_museum_random9834672-150x150.jpg" alt="" width="150" height="150" /></a>The <a href="http://en.wikipedia.org/wiki/Crystal_skull">crystal skulls</a> are a number of human skull hardstone carvings made of clear or milky quartz, known in art history as "rock crystal", claimed to be pre-Columbian Mesoamerican artifacts by their alleged finders; however, none of the specimens made available for scientific study have been authenticated as pre-Columbian in origin. The results of these studies demonstrated that those examined were manufactured in the mid-19th century or later, almost certainly in Europe.[1] Despite some claims presented in an assortment of popularizing literature, legends of crystal skulls with mystical powers do not figure in genuine Mesoamerican or other Native American mythologies and spiritual accounts</p>

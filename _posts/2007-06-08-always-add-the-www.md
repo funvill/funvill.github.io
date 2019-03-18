@@ -2,7 +2,7 @@
 layout: single
 title: Always add the www
 date: 2007-06-08 09:00
-categories: blog, [Tips and Tricks, Web development]
+categories: Tips WebDevelopment
 ---
 When creating a new website you want to create as little duplicate content as possible. Most host let your users access your website from either the <em>http://abluestar.com</em> or the www version <em>http://www.abluestar.com</em>. This can be dramaticly reduce your site's Page rank because is that most search engines see the 'www' and the 'non www' version as two different websites and Googles's Page rank is split between the two sites. Instead of getting a solid PR4 you get two measly PR2 sites.
 

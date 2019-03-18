@@ -2,7 +2,7 @@
 layout: single
 title: The Giant Claw Game! - Relay H-Bridge and Circuit Design
 date: 2013-05-18 13:33
-categories: blog, [Projects]
+categories: Projects
 ---
 Over the week I worked on the Relay H Bridge,  software and circuit diagrams for this project. Only 1 more week till it needs to be done.
 

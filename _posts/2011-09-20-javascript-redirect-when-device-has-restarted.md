@@ -2,7 +2,7 @@
 layout: single
 title: Javascript redirect when device has restarted 
 date: 2011-09-20 12:45
-categories: blog, [Uncategorized]
+categories: Uncategorized
 ---
 Over the past few months I have been building a sensor device with a embedded webserver for configuration and reporting. When a user saves a configuration to the device the device needs to be restarted before the changes come in to effect.
 

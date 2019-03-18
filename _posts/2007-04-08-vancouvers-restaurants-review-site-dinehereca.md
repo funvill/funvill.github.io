@@ -2,7 +2,7 @@
 layout: single
 title: Vancouver's Restaurants review site - Dinehere.ca
 date: 2007-04-08 12:41
-categories: blog, [Development, Vancouver]
+categories: Development, Vancouver
 ---
 <img src="/public/uploads/2007/04/restaurant_icon.gif" alt="restaurant_icon" align="right" />Vancouver has <a href="http://www.dinehere.ca/allrestbyarea.asp">thousands of restaurant</a> to choose from and each week me and a few friends try out a new one. Finding a new restaurants never hard with fantastic websites such as <a href="http://www.dinehere.ca/">Dinehere.ca</a> but its are missing a few nice to have features such as a map of all the restaurants in your area, and select a random restaurant.
 

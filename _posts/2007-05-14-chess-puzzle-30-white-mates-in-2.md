@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #30 - White mates in 2
 date: 2007-05-14 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play, White mates in 2 [V. Kovalenko 1968]</strong>
 

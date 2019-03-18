@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #10 - Mate in 2, White to move
 date: 2007-04-08 09:00
-categories: blog, [1.Bxc4+n 2.Nf4#, Chess]
+categories: Chess
 ---
 <strong>White to play and mate in two moves</strong>
 <strong>Hint:</strong> Back Rank

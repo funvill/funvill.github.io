@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #26 - White mates in 2
 date: 2007-05-10 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play, White mates in 2 [T. Kaedos 1971]</strong>
 

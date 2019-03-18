@@ -2,7 +2,7 @@
 layout: single
 title: Defeat your Google twin
 date: 2007-06-22 16:03
-categories: blog, [Interesting]
+categories: Interesting
 ---
 <img src="/public/uploads/2007/06/gwhn101l.thumbnail.jpg" alt="gwhn101l.jpg" align="right" />What is a <a href="http://en.wikipedia.org/wiki/Google_twin">Google twin</a> you ask?
 

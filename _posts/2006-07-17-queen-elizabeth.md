@@ -2,7 +2,7 @@
 layout: single
 title: Queen Elizabeth
 date: 2006-07-17 19:15
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/mainphoto_qepark.jpg" id="image37" alt="Queen Elizabeth" align="right" />
 

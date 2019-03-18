@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #17 - Black wins material
 date: 2007-04-26 09:00
-categories: blog, [Chess, july 17]
+categories: Chess
 ---
 <strong>Black to play and Black wins material</strong>
 <strong>By: </strong>Shelby Lyman

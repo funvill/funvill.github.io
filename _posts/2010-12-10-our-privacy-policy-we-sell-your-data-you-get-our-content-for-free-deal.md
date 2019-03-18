@@ -2,7 +2,7 @@
 layout: single
 title: "Our privacy policy: We sell your data. You get our content for free, Deal?"
 date: 2010-12-10 12:12
-categories: blog, Interesting, Rants, Web development
+categories: Interesting, Rants, WebDevelopment
 ---
 You have no expectation of privacy. We will collect any and all information you or your computer is willing to give us and do whatever we want with that information. Use of this site is entirely optional. Use at your own risk.
 

@@ -2,7 +2,7 @@
 layout: single
 title: How to install PHPBB 3.0.1
 date: 2008-06-05 22:36
-categories: blog, [Web development]
+categories: WebDevelopment
 ---
 This tutorial will walk you thou the steps to install <a href="http://www.phpbb.com/">PHPBB3</a> on your system.
 
@@ -28,7 +28,8 @@ For this tutorial we will be use a <a href="http://www.apache.org/">apache.org</
 
 <a href="/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5.png"><img class="alignnone size-medium wp-image-432" title="screenshot-introduction" src="/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5-300x170.png" alt="" width="300" height="170" /></a>
 
-5) Click the install tab at the top of the page. Then click the €œProceed to next step€ button.
+5) Click the install tab at the top of the page. Then click the "
+Proceed to next step" button.
 
 <a href="/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5-1.png"><img class="alignnone size-medium wp-image-433" title="screenshot-introduction-mozilla-firefox-3-beta-5-1" src="/public/uploads/2008/06/screenshot-introduction-mozilla-firefox-3-beta-5-1-300x187.png" alt="" width="300" height="187" /></a>
 

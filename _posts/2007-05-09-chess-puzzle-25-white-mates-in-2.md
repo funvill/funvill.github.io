@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #25 - White mates in 2
 date: 2007-05-09 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play, White mates in 2 [G. Zahodyakin 1967]</strong>
 

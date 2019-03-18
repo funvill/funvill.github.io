@@ -2,7 +2,7 @@
 layout: single
 title: UPS vs FedEx 
 date: 2009-12-04 10:38
-categories: blog, [Rants]
+categories: Rants
 ---
 I ordered some cables from this online store in the states (I live in Canada) the cost in goods was $30 for both packages.
 
@@ -14,9 +14,9 @@ $51 for shipping <strong>and the product</strong> from FedEX.
 
 In this case it would be cheaper for me to make a new order from the store and get FedEx to ship it then it would be for me to accept the USP shipment and pay the brokerage fees, and thats exactly what I did.
 
-Two weeks later I get a call from UPS asking why I refused delivery. I told them my story and how its cheaper for me to make the purchase again then it is to pay for outrageousness  brokerage fees that they where charging and ended the conversation with 'Why would anyone choose to use USP over FedEx?'
+Two weeks later I get a call from UPS asking why I refused delivery. I told them my story and how its cheaper for me to make the purchase again then it is to pay for outrageousness brokerage fees that they where charging and ended the conversation with 'Why would anyone choose to use USP over FedEx?'
 
-They asked me to pay for the current  ($40) brokerage fees and additional ($13) shipping it back to me on top of the money I already spent on shipping the first time. For a total of 40+13+13= $66 CND due. I refused.
-They told me that I would not get package delivered and it would be returned to sender. Prefrect maybe I can get the seller to ship me the products via FedEx this time and it would still save me $45 (=$66-$21) in the end.
+They asked me to pay for the current ($40) brokerage fees and additional ($13) shipping it back to me on top of the money I already spent on shipping the first time. For a total of 40+13+13= $66 CND due. I refused.
+They told me that I would not get package delivered and it would be returned to sender. Prefect maybe I can get the seller to ship me the products via FedEx this time and it would still save me $45 (=$66-$21) in the end.
 
 Last time I ever use USP.

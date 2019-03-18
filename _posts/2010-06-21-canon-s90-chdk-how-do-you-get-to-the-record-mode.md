@@ -2,7 +2,7 @@
 layout: single
 title: Canon S90 CHDK How do you get to the record mode?
 date: 2010-06-21 00:00
-categories: blog, [Tips and Tricks]
+categories: Tips
 ---
 <strong><img class="size-full wp-image-964 alignright" title="250px-Canon-s90-front" src="/public/uploads/2010/06/250px-Canon-s90-front.jpg" alt="" width="250" height="276" />Canon S90 CHDK </strong>
 

@@ -2,7 +2,7 @@
 layout: single
 title: Why I hate TeamViewer
 date: 2012-12-13 10:47
-categories: blog, [Rants]
+categories: Rants
 ---
 <strong>TeamViewer is a bad company do not pay for their software. </strong>
 

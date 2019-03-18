@@ -2,7 +2,7 @@
 layout: single
 title: RGB LED POV Globe - Status update and mechanical issues
 date: 2011-06-12 15:27
-categories: blog, [Arduino, Development, Projects, Uncategorized]
+categories: Arduino, Development, Projects, Uncategorized
 ---
 This project has somewhat hit a road block and with 12 days left before <a href="http://makerfaire.ca/">Maker Faire</a> I'm starting to panic. This leaves me with ~4 good working days left. Here is my current stats.
 

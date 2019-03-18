@@ -2,7 +2,7 @@
 layout: single
 title: Geo Caching with Wooden nickles
 date: 2012-10-15 22:34
-categories: blog, [coins, GeoCaching, GeoCoins, Interesting, Laser, lasercutter, News, Projects, projects, Uncategorized, VHS, Wood]
+categories: coins, GeoCaching, GeoCoins Interesting Laser, lasercutter, News, Projects, Uncategorized, VHS, Wood
 ---
 <a href="/public/uploads/2012/10/2012-10-06-14.07.17.jpg"><img class="alignleft size-medium wp-image-2908" title="2012-10-06 14.07.17" src="/public/uploads/2012/10/2012-10-06-14.07.17-300x225.jpg" alt="" width="300" height="225" /></a>I recently went on a trip to New York for the World Maker Faire. My plan was to make a bunch of wooden nickles that resembled Geo Coins and put them in several different Geo Caches across New York and Toronto.
 

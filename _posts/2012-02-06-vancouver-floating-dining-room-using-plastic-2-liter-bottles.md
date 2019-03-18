@@ -2,7 +2,7 @@
 layout: single
 title: Vancouver floating dining room using plastic 2-Liter bottles
 date: 2012-02-06 10:53
-categories: blog, [Art, Canada, design, interesting, Vancouver, Vancouver]
+categories: Art, Canada, design Interesting Vancouver
 ---
 <a href="/public/uploads/2012/02/42_axo01.jpg"><img class="size-medium wp-image-2720 alignright" title="42_axo01" src="/public/uploads/2012/02/42_axo01-289x300.jpg" alt="" width="289" height="300" /></a>
 

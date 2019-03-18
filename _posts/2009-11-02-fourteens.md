@@ -2,7 +2,7 @@
 layout: single
 title: Fourteens
 date: 2009-11-02 13:46
-categories: blog, [Dice, Dice, game, Games, Games]
+categories: Dice Games
 ---
 Fourteens is a dice game.
 This is a banking game that was popular in the Midwest of the USA between the 1930's and 1950's.  It was often played in taverns which would make payoffs in drinks until anti-gambling legislation killed off the game to a great extent.  An operator will often provide a score sheet which states the rules and payoffs made on bets.  Of course the odds are always in the operators favor.

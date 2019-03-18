@@ -2,7 +2,7 @@
 layout: single
 title: The Movies
 date: 2010-07-19 14:32
-categories: blog, [drinking, game, Games, Games, movie, Movies]
+categories: Drinking Games, Movies
 ---
 The movies is a really simple drinking game and is probably the first one I ever played.
 Find a movie and come up with reocurring things to look for; when you see these things you drink.
@@ -20,10 +20,14 @@ Find a movie and come up with reocurring things to look for; when you see these 
 <strong>Three Ninjas</strong>
 <ul>
 	<li>When someone says the name Rocky, Colt, or Tum Tum....drink.</li>
-	<li>Whenever the phrase €œRocky Loves Emily€ is said....drink.</li>
-	<li>Anytime the guys sent to kidnap the boys says €œdude€...drink.</li>
-	<li>Whenever €œninjas€ is said...drink.</li>
-	<li>When Grandpa says the word €œboys€...drink.</li>
+	<li>Whenever the phrase "
+Rocky Loves Emily" is said....drink.</li>
+	<li>Anytime the guys sent to kidnap the boys says "
+dude"...drink.</li>
+	<li>Whenever "
+ninjas" is said...drink.</li>
+	<li>When Grandpa says the word "
+boys"...drink.</li>
 </ul>
 <strong>South Park: Bigger Longer &amp; Uncut</strong>
 <ul>
@@ -35,13 +39,15 @@ Find a movie and come up with reocurring things to look for; when you see these 
 </ul>
 <strong>Walker Texas Ranger</strong>
 <ul>
-	<li>€œEyes of the Ranger€ plays in the opening sequence....drink.</li>
+	<li>"
+Eyes of the Ranger" plays in the opening sequence....drink.</li>
 	<li>a trip to CDs bar and grill....drink.</li>
 	<li>chase sequence...drink.</li>
 	<li>shows bad guys plotting in hideout...drink.</li>
 	<li>bad guy is roundhouse kicked in the face...drink.</li>
 	<li>Rangers get in fight while following a lead....drink.</li>
-	<li>Anyone refers to €œRanger Headquarters€...drink.</li>
+	<li>Anyone refers to "
+Ranger Headquarters"...drink.</li>
 	<li>Someone swings melee weapon at Walker or Travette....drink.</li>
 	<li>Slow motion jump kick...drink.</li>
 	<li>bad guy gets kicked/shot and falls and breaks window/table...drink.</li>
@@ -76,7 +82,8 @@ Find a movie and come up with reocurring things to look for; when you see these 
 	<li>It&quot;s not someone&quot;s fault....drink</li>
 	<li>One or more heroes are almost eaten by a Thing....drink</li>
 	<li>A Jedi is much more powerful than he looks....drink</li>
-	<li>Someone exclaims €œNo!€....drink</li>
+	<li>Someone exclaims "
+No!"....drink</li>
 	<li>Someone does something apparently suicidal that turns out to be a good idea...drink</li>
 	<li>Someone does something apparently suicidal that turns out to be a good idea and it&quot;s not Han...drink x2</li>
 	<li>Someone wears the same outfit in all three movies (it counts if they change at the end)...drink</li>
@@ -102,13 +109,14 @@ Find a movie and come up with reocurring things to look for; when you see these 
 	<li>If Luke and Lando speak to each other...drink x2</li>
 	<li>Luke&quot;s parentage is foreshadowed....drink</li>
 	<li>Luke refuses to take someone&quot;s advice...drink</li>
-	<li>Luke yells €œArtooooo!€....drink</li>
+	<li>Luke yells "
+Artooooo!"....drink</li>
 	<li>Leia insults somebody....drink</li>
 	<li>Leia wears an outfit that covers everything except her face and hands...drink</li>
 	<li>If Leia wears an outfit that covers her neck as well...drink x2</li>
 	<li>If  Leia is almost totally nude...drink x3</li>
 	<li>Obi-Wan Kenobi materializes for a guest appearance....drink</li>
-	<li>Obi-Wan Kenobi plays detective. (€€¦Only Imperial Stormtroopers are so precise.€)....drink</li>
+	<li>Obi-Wan Kenobi plays detective. ("€¦Only Imperial Stormtroopers are so precise.")....drink</li>
 	<li>Han brags about the Millenium Falcon....drink</li>
 	<li>Anybody insults the Millenium Falcon....drink</li>
 	<li>Something doesn&quot;t work on the Falcon....drink</li>
@@ -122,8 +130,10 @@ Find a movie and come up with reocurring things to look for; when you see these 
 	<li>C-3PO informs us of just how many forms of communication he&quot;s familiar with...drink</li>
 	<li>A Rebel pilot is of a race other than Caucaisian....drink</li>
 	<li>If the pilot is non-human (co-pilots count)....drink x2</li>
-	<li>A Rebel Pilot says €œNice Shot€¦€....drink</li>
-	<li>A Rebel Pilot says €œI&quot;ve been hit€¦€....drink</li>
+	<li>A Rebel Pilot says "
+Nice Shot€¦"....drink</li>
+	<li>A Rebel Pilot says "
+I&quot;ve been hit€¦"....drink</li>
 	<li>Tarkin brags about the Death Star....drink</li>
 </ul>
 I&quot;m sure you can think of many others.  Feel free to comment with your favorites and I' ll add them to the list.

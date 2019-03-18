@@ -2,7 +2,7 @@
 layout: single
 title: Midnight Mass Bike Ride
 date: 2006-07-11 11:59
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 
 <p align="center"><img src="/public/uploads/2006/07/193134753_8bce4bb418.jpg" id="image31" alt="Midnight Mass Bike Ride" /></p>

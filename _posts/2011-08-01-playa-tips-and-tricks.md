@@ -2,7 +2,7 @@
 layout: single
 title: Playa tips and tricks 
 date: 2011-08-01 00:00
-categories: blog, [Tips and Tricks]
+categories: Tips
 ---
 You can find lots of tips and tricks, <a href="http://www.burningman.com/first_timers/">First time guide</a>, and <a href="http://www.preparefortheplaya.com/">Preparing for the Playa</a> posts on the internet if you search hard enough and if its your first time you should be reading them all. This is my list hope it helps.
 <ul>

@@ -2,7 +2,7 @@
 layout: single
 title: Translink schedules via bus stop ID
 date: 2007-03-30 09:30
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 <img src="/public/uploads/2007/03/pic_bus_neu.thumbnail.jpg" alt="pic_bus_neu.jpg" align="right" />On very bus stop in Vancouver there is a 5 digit code near the top left or button right that is used to identify the bus stop. i have often wondered why I can look up the bus schedules via this number especially when I call up Chris at Translink automationed phone system. People in noisy areas or with heavy ascents can never get the right cross streets with there voice system but imagine if they let people type the bus stop code in to there phone.
 

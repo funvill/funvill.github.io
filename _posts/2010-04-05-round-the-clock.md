@@ -2,7 +2,7 @@
 layout: single
 title: Round The Clock
 date: 2010-04-05 18:00
-categories: blog, [Dice, Dice, game, Games, Games]
+categories: Dice Games
 ---
 Round the Clock is a dice game.
 

@@ -2,7 +2,7 @@
 layout: single
 title: Interesting Friday 
 date: 2010-06-11 16:27
-categories: blog, [Arduino, Interesting, Vancouver, Web development]
+categories: Arduino Interesting Vancouver, WebDevelopment
 ---
 Interesting Friday, I'm going to try to make a new post once a week on Friday of all the interesting things that I have found over the week. People to follow, interesting projects, local events, ect.
 <ul>

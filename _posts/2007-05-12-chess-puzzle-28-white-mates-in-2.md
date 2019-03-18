@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #28 - White mates in 2
 date: 2007-05-12 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play, White mates in 2 [L. Valve 1943]</strong>
 

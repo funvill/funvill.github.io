@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle - Submissions welcome
 date: 2007-05-23 00:01
-categories: blog, Chess
+categories: Chess
 ---
 <a href="/public/uploads/2007/05/chess.jpg" title="chess.jpg"><img src="/public/uploads/2007/05/chess.jpg" alt="chess.jpg" align="right" /></a>Hello
 

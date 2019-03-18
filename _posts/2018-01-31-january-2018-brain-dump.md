@@ -2,7 +2,7 @@
 layout: single
 title: January 2018 brain dump
 date: '2018-01-31 00:01'
-categories: blog, brain dump 
+categories: bookmarks
 toc: true
 ---
 

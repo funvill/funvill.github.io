@@ -2,7 +2,7 @@
 layout: single
 title: How to make a facebook applcation.
 date: 2007-11-25 18:02
-categories: blog, [Web development]
+categories: WebDevelopment
 ---
 We are going to build a simple <a href="http://www.facebook.com/">facebook</a> application to demonstrate how to use the Facebook API.
 

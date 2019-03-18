@@ -2,7 +2,7 @@
 layout: single
 title: Google talk 
 date: 2007-03-14 16:08
-categories: blog, [Tips and Tricks, Web development]
+categories: Tips WebDevelopment
 ---
 <a href="/public/uploads/2007/03/chat_popout.png" title="GTalk pop up"><img src="/public/uploads/2007/03/chat_popout.png" alt="GTalk pop up" align="right" /></a>
 

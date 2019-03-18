@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #32 - White to move, do not mate 
 date: 2007-05-16 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play, </strong>
 Most likely you have seen this puzzle before, its one of the more common teaching problems in chess programs.

@@ -2,7 +2,7 @@
 layout: single
 title: Dirty Hearts
 date: 2009-10-12 13:22
-categories: blog, [Cards, Cards, drinking, game, Games, Games]
+categories: Cards drinking Games
 ---
 Dirty Hearts is a Drinking, Cards game
 

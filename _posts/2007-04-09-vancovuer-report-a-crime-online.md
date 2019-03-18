@@ -2,7 +2,7 @@
 layout: single
 title: Vancovuer report a crime online   
 date: 2007-04-09 09:00
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 <a href="https://vancouver.ca/citizenreport_wa/"><img src="/public/uploads/iv009_19970084_arms_vancouv_1.jpg" alt="iv009_19970084_arms_vancouv_1.jpg" title="iv009_19970084_arms_vancouv_1.jpg" align="right" border="0" height="266" width="200" /></a>Vancouver now lets you to <a href="https://vancouver.ca/citizenreport_wa/">report crimes in Vancouver online</a>.  I have been broken in to twice, my bike stolen 3 times and 'misplaced' my digital camera 5 times. Every time I call Vancouver's non emergency phone number 604-717-3321 wait on hold for what seems like hours and report it. I don't ever expect it to be recovered but I feel an obligation to report it.
 

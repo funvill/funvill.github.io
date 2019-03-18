@@ -2,7 +2,7 @@
 layout: single
 title: Arduino Robots
 date: 2009-07-04 19:41
-categories: blog, [Arduino, Development]
+categories: Arduino Development
 ---
 <div>I bought a <a href="http://www.arduino.cc/">Arduino</a> board for a green house project I was planning to do sometime last year. To regulate the temperature, turn on and off lights and fans, data logging, ect. A friend ended up giving me some deadacated hardware making the Arduino project a lot of extra work for very little gain and I abandon it. This little board has been sitting on my shelf for the good part of a year collecting dust.</div>
 A few days ago I saw some videos of <a href="http://en.wikipedia.org/wiki/Robot-sumo">sumobots</a> (<strong><em>Robot-sumo</em></strong><em>, or pepe-sumo, is a </em><em>sport</em><em> in which two </em><em>robots</em><em> attempt to push each other out of a circle (in a similar fashion to the sport of </em><em>sumo</em><em>). The robots used in this competition are called sumobots.</em>) on <a href="http://robots.net/article/2763.html">robots.net</a> and <a href="http://www.youtube.com/results?search_query=sumobots&amp;search_type=&amp;aq=f">youtube</a>.

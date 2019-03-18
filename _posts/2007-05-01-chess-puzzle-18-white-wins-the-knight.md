@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #18 - White wins the knight 
 date: 2007-05-01 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play, White wins the knight  [Reeh-Heissler '03]</strong>
 <strong>By</strong>: Shelby Lyman

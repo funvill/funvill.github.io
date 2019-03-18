@@ -2,7 +2,7 @@
 layout: single
 title: Harrison Hot Springs Sand Sculpture Tournament of Champions
 date: 2006-07-04 11:46
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/m_sculpt_image.jpg" id="image14" alt="Harrison Hot Springs Sand Sculpture Tournament of Champions" align="right" />
 

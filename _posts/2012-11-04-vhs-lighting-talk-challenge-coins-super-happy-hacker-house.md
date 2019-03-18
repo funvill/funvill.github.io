@@ -2,7 +2,7 @@
 layout: single
 title: VHS Lighting Talk Challenge coins - Super Happy Hacker House
 date: 2012-11-04 12:20
-categories: blog, [coins, design, events, Laser, lasercutter, lightingtalks, News, Projects, projects, shhh, Vancouver, VHS]
+categories: coins, design, events, Laser, lasercutter, lightingtalks, News, Projects, shhh, Vancouver, VHS
 ---
 <strong>Update: </strong><a href="/updated-versions-of-vhs-lighting-talk-challenge-coins/">Updated versions of VHS Lighting Talk Challenge coins</a>
 

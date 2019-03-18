@@ -2,7 +2,7 @@
 layout: single
 title: Wooden laser cut pendants
 date: 2012-12-02 16:31
-categories: blog, [Laser Cutter]
+categories: Laser Cutter
 ---
 Today I laser cut a few different wooden pendents. Most of the iconic ones came from <a href="http://thenounproject.com/">The Noun Project</a>. The circle ones were generated using a java-script library called <a href="http://raphaeljs.com/">Raphael</a> to emulate <a href="http://en.wikipedia.org/wiki/Sacred_geometry">sacred geometry</a>.
 

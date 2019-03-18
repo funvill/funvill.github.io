@@ -2,7 +2,7 @@
 layout: single
 title: Thou shall not
 date: 2007-04-18 09:00
-categories: blog, [Media]
+categories: Media
 ---
 
 

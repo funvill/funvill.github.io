@@ -2,7 +2,7 @@
 layout: single
 title: Making puppets
 date: 2012-02-20 01:34
-categories: blog, [howto, Interesting, News, projects, puppets, VHS]
+categories: howto Interesting News, projects, puppets, VHS
 ---
 <a href="/public/uploads/2012/02/puppets07.jpg"><img class="size-medium wp-image-2737 aligncenter" title="puppets07" src="/public/uploads/2012/02/puppets07-300x225.jpg" alt="" width="300" height="225" /></a>
 

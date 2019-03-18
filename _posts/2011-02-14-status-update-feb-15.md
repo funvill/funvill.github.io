@@ -2,7 +2,7 @@
 layout: single
 title: Status update Feb 15
 date: 2011-02-14 16:07
-categories: blog, [Arduino, Development, Interesting, Media, News, Vancouver]
+categories: Arduino, Development Interesting Media, News, Vancouver
 ---
 <ul>
 	<li><a href="http://www.raygunrevival.com/">Ray Gun Revival</a> has been launched. We sent out 8k unsolicited email newsletter to anyone that had anything to do with the old site and only ~50 people followed the link and signed up for the newsletter. Showing me that spam just doesn't work.</li>

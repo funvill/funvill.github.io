@@ -2,7 +2,7 @@
 layout: single
 title: Acrylic Ornaments Batch 2
 date: 2012-11-20 00:00
-categories: blog, [Laser Cutter]
+categories: Laser Cutter
 ---
 These are the results from the "<a href="/acrylic-ornaments-design-thoughts-an-research/">acrylic ornaments design thoughts and research</a>". They turned out O.K. I am still not completely happy with it. I learned a lot from this batch and I am looking forward to the next one. The raw file can be <a href="http://www.abluestar.com/files/uploads/2012/nov/Kock_snowflake_v1.svg">downloaded here</a>.
 

@@ -2,7 +2,8 @@
 layout: single
 title: Travel Tips
 date: '2019-01-29 00:01'
-categories: blog
+categories: tips travel
+tags: travel
 ---
 
 ## Traveling

@@ -2,7 +2,7 @@
 layout: single
 title: Flower plug
 date: 2007-11-12 13:35
-categories: blog, [bathroom, design, Development]
+categories: bathroom design Development
 ---
 The flower plug was designed to allow the user to know when the bath water was just the right temperature by changing color from a light pink to a beautiful deep purple color. Once the flower is purple, it is safe to enter the water without the fear of it being too hot.
 <p style="text-align: center"><img src="/public/uploads/2007/11/flower_plug.jpg" /></p>

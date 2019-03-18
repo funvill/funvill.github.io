@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #12 - White to play, mate in 1 move
 date: 2007-04-10 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play and mate in one move</strong>
 W. Atkinson, Montreal 1st Prize, Canadian Spectator Tourney, 1880

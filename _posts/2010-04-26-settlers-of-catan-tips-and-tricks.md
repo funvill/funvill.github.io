@@ -2,7 +2,7 @@
 layout: single
 title: "Settlers of Catan: Tricks and Tactics"
 date: 2010-04-26 00:16
-categories: blog, boardgames, Cards, catan, game, Games, Games, settlers of catan, Table Top
+categories: boardgames, Cards, catan, Games, settlers of catan, Table Top
 ---
 Settlers of Catan is a multiplayer board game designed by Klaus Teuber.
 It was first published in 1995 in Germany by Franckh-Kosmos Verlags-Gmb H &amp; Co. (Kosmos), under the name Die Siedler von Catan.

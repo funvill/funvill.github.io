@@ -2,12 +2,13 @@
 layout: single
 title: Indian Poker
 date: 2009-12-07 14:15
-categories: blog, [Cards, Cards, drinking, game, Games, Games]
+categories: Cards Drinking Games
 ---
 Indian Poker is a drinking, card game.
 I just played this game for the first time this weekend.  It was very simple to learn and really good after a few beers.  It's a pretty silly game and if you are in the right mood it can really make you laugh.
 
-€œThey speak of my drinking but never think of my thirst€
+"
+They speak of my drinking but never think of my thirst"
 -Scottish Proverb
 
 <strong>What you need to play</strong>

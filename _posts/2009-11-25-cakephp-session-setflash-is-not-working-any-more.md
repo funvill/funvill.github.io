@@ -2,7 +2,8 @@
 layout: single
 title: Cakephp - Session->setFlash is not working any more. 
 date: 2009-11-25 12:13
-categories: blog, [cakephp, session, setflash, tips, Tips and Tricks, Web development]
+categories: WebDevelopment
+Tags: cakephp session setflash Tips
 ---
 <strong>Question:</strong>
 <em>setFlash()</em> no longer showing up on the page. Why ?

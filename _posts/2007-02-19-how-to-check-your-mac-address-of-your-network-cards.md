@@ -2,7 +2,7 @@
 layout: single
 title: How to check your MAC address of your network cards
 date: 2007-02-19 09:00
-categories: blog, [Tips and Tricks]
+categories: Tips
 ---
 How to check your MAC address of your network cards
 1) Open a command prompt (Windows Start button-&gt; Run -&gt; Type "cmd" )

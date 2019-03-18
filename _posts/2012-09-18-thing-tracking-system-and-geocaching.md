@@ -2,7 +2,7 @@
 layout: single
 title: Thing tracking system and GeoCaching
 date: 2012-09-18 23:29
-categories: blog, [development, Games, geocoin, Interesting, Projects, software, things, tracking, Vancouver]
+categories: development, Games, geocoin Interesting Projects, software, things, tracking, Vancouver
 ---
 <a style="color: #ff4b33; line-height: 24px; font-size: 16px;" href="/public/uploads/2012/09/2012-09-08-14.23.18.jpg"><img class="alignright size-medium wp-image-2847" title="2012-09-08 14.23.18" src="/public/uploads/2012/09/2012-09-08-14.23.18-225x300.jpg" alt="" width="225" height="300" /></a>
 

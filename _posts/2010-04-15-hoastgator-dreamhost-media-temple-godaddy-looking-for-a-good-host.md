@@ -2,7 +2,7 @@
 layout: single
 title: Looking for a new host 
 date: 2010-04-15 12:42
-categories: blog, [Web development]
+categories: WebDevelopment
 ---
 I been with a bunch of different hosts over the past few years
 <ul>

@@ -2,7 +2,7 @@
 layout: single
 title: The Grouse Grind
 date: 2006-07-15 18:46
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/grouse-grind.gif" id="image39" alt="The Grouse Grind" align="right" />
 

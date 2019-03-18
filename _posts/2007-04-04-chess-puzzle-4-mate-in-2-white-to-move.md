@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #4 - Mate in 2, White to move
 date: 2007-04-04 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>Chess Puzzle #4 - Mate in 2, White to move</strong>
 <a href="/chess-puzzle-4-mate-in-2-white-to-move/">

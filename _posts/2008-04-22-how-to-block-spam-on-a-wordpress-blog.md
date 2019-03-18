@@ -2,7 +2,7 @@
 layout: single
 title: How to block spam on a wordpress Blog
 date: 2008-04-22 11:13
-categories: blog, [plugins, spam, Web development, wordpress]
+categories: plugins spam WebDevelopment wordpress
 ---
 To help stop spam activate the <a href="http://akismet.com/download/">Akismet plugin</a>.
 <ol>

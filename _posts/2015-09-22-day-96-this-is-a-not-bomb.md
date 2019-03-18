@@ -2,7 +2,7 @@
 layout: single
 title: Day 96 - This is a not bomb
 date: 2015-09-22 01:36
-categories: blog
+categories: uncategorized
 ---
 
 WARNING THIS IS NOT A BOMB

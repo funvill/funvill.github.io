@@ -2,7 +2,7 @@
 layout: project
 title: (2014) Thread map of vancouver 
 excerpt: Laser cut map of vancouver with GPS heat map of a years worth of travel.
-categories: [Art, maps, Projects, projects, thread, Vancouver, Vancouver, yarn]
+categories: Art, maps, Projects, thread, Vancouver, yarn
 ---
 
 I have been collecting data about myself since the start of 2014 as part of the <a href="http://en.wikipedia.org/wiki/Quantified_Self">Quantified Self moment</a> . One of the data points that I have been collecting is my location. Over the year I have been collecting my location data with these three different applications.
@@ -30,7 +30,3 @@ The picture below shows the first three months of data using thread. I used a di
 I ended up submitting this idea to the <a href="http://www.makerlabs.ca/">Maker Labs</a> <a href="https://www.picatic.com/MakerLabsOpening">art show</a> on July 4th and got accepted. This is my first real art show that I have ever participated in and I am very excited about it. <a href="https://www.picatic.com/MakerLabsOpening">RSVP for the art show here</a>
 
 I will post updated pictures and a link as I finish the rest of the map.
-
-&nbsp;
-
-&nbsp;

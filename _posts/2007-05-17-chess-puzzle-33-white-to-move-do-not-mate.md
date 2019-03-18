@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #33 - White to move, do not mate
 date: 2007-05-17 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play</strong>
 A lot like the last puzzle but slightly more challenging. What moves must White play to <strong>force a stale mate</strong>

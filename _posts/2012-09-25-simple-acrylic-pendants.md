@@ -2,7 +2,7 @@
 layout: single
 title: Simple acrylic pendants
 date: 2012-09-25 00:00
-categories: blog, [Art, gifts, jewelry, Laser, lasercutter, Projects, projects, VHS]
+categories: Art, gifts, jewelry, Laser, lasercutter, Projects, VHS
 ---
 <img class="size-medium wp-image-2883 alignleft" title="2012-09-23 23.37.38" src="/public/uploads/2012/09/2012-09-23-23.37.381-269x300.jpg" alt="" width="269" height="300" />
 

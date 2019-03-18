@@ -2,7 +2,7 @@
 layout: single
 title: More laser cut Guilloches
 date: 2014-10-10 17:57
-categories: blog, [Laser Cutter]
+categories: Laser Cutter
 ---
 These were created by generating <a href="http://en.wikipedia.org/wiki/Guilloch%C3%A9">GuillochÃ©s</a> in inkscape using the macro function, then cutting them on VHS's laser cutter. All the source files can be found on my github <a href="https://github.com/funvill/Aaaaaaaart">https://github.com/funvill/Aaaaaaaart</a>
 

@@ -2,7 +2,7 @@
 layout: single
 title: Acrylic Ornaments - Design thoughts an research 
 date: 2012-11-19 01:12
-categories: blog, [Development, Laser Cutter]
+categories: Development, Laser Cutter
 ---
 After cutting the last batch of <a href="/acrylic-christmas-ornaments-version-1/">Acrylic Ornaments</a> I thought I would do a bit more research before doing the next run. Ideally I would like to write a program that would take a persons name and generate a unique snowflake for each person. While looking in to generative snow flakes I found a post on  <a href="http://en.wikipedia.org/wiki/Koch_snowflake">Koch Snowflake</a>.
 <blockquote>The Koch snowflake (also known as the Koch star and Koch island) is a mathematical curve and one of the earliest fractal curves to have been described. It is based on the Koch curve, which appeared in a 1904 paper titled "On a continuous curve without tangents, constructible from elementary geometry"

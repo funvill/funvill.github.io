@@ -2,7 +2,7 @@
 layout: single
 title: ImageManager 2.0
 date: 2007-04-03 09:00
-categories: blog, [Web development]
+categories: WebDevelopment
 ---
 <img src="/public/uploads/2007/03/image-missing.png" alt="image-missing" align="right" />One of the most important Wordpress plugin's for any blogger, ImageManager alowes you to resize, crop, rotate, flip or scale uploaded images.
 

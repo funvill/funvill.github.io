@@ -2,7 +2,7 @@
 layout: single
 title: I like the weird
 date: 2012-09-16 14:12
-categories: blog, [burningman, Games, Interesting, Media, Video, youtube]
+categories: burningman, Games Interesting Media, Video, youtube
 ---
 Games 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/46kVxnCFNWQ" frameborder="0" allowfullscreen></iframe>

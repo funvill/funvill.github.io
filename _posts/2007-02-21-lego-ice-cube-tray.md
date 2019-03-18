@@ -2,7 +2,7 @@
 layout: single
 title: Lego Ice cube Tray 
 date: 2007-02-21 15:31
-categories: blog, [Projects]
+categories: Projects
 ---
 <a href="/public/uploads/2007/03/el502-0000-xx-12-1.jpg" title="Lego Ice cub tray"><img src="/public/uploads/2007/03/el502-0000-xx-12-1.thumbnail.jpg" alt="Lego Ice cub tray" align="right" /></a>
 A tray made of silicone that can be used to make Lego shaped ice cubes.

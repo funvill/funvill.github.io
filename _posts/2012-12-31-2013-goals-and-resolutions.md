@@ -2,7 +2,7 @@
 layout: single
 title: 2013 Goals and Resolutions
 date: 2012-12-31 00:00
-categories: blog, [News]
+categories: News
 ---
 <strong>Goals and Resolutions for 2013
 </strong>(<em>In no particular order</em>)

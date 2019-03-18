@@ -2,7 +2,7 @@
 layout: single
 title: 5 Favorite Childhood Cartoons
 date: 2007-06-10 09:00
-categories: blog, [Interesting]
+categories: Interesting
 ---
 <a href="http://www.msdanielle.com/"><img src="/public/uploads/2007/06/250px-talespin.gif" alt="250px-talespin.gif" align="right" />Ms. Danielle</a> is giving away a <a href="http://www.msdanielle.com/microsoft-zune-30gb-giveaway-contest">30GB Microsoft Zune</a> that she won from John Chow. In her contest you have to talk about her <a href="http://www.msdanielle.com/">new blog site</a> and link to at lest one post.
 

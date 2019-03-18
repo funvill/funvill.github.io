@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #16 - White to play, mate in 3 moves
 date: 2007-04-14 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play and mate in three moves</strong>
 H. Northcote, Toronto 1st Prize, Toronto Globe, 1872

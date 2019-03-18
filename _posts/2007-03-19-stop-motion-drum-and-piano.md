@@ -2,7 +2,7 @@
 layout: single
 title: Stop motion drum and piano
 date: 2007-03-19 12:40
-categories: blog, [Media]
+categories: Media
 ---
 A video where <a href="http://www.youtube.com/profile?user=lassegg">lassegg</a> hits each note on a drum and piano separately and edited them together to make a song. Its pretty good if you ask me.
 

@@ -2,7 +2,7 @@
 layout: single
 title: Kitchen diaries
 date: 2007-02-26 16:47
-categories: blog, [Media]
+categories: Media
 ---
 An interesting look at beat boxing and cooking
 YouTube: <a href="http://www.youtube.com/v/S7GGkKpBR-g">http://www.youtube.com/v/S7GGkKpBR-g</a>

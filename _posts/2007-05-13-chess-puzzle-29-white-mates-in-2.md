@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #29 - White mates in 2
 date: 2007-05-13 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play, White mates in 2 [H. Lehner 1874]</strong>
 

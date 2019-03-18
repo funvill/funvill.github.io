@@ -2,7 +2,7 @@
 layout: single
 title: GeoGramOne - GPS tracker to Google maps
 date: 2013-07-09 20:27
-categories: blog, [Projects]
+categories: Projects
 ---
 <a href="/public/uploads/2013/07/GeogramOneTop2.jpg"><img class="size-thumbnail wp-image-3438 alignright" alt="GeogramOneTop2" src="/public/uploads/2013/07/GeogramOneTop2-150x150.jpg" width="150" height="150" /></a>A few weeks ago I ordered a <a href="http://dsscircuits.com/geogram-one.html">GeoGramOne</a> board from <a href="http://dsscircuits.com">DSScircuits</a>. Its a Open source GPS tracker that was <a href="http://www.kickstarter.com/projects/dsscircuits/open-source-tracking-device">succefuly funded on Kickstarter</a>. The board combines a <a href="http://en.wikipedia.org/wiki/Global_Positioning_System">GPS</a>, <a href="https://en.wikipedia.org/wiki/GSM">GSM Modem</a> (cellphone), <a href="http://www.arduino.cc/">Arduino</a> (Atmega328p),  <a href="https://www.sparkfun.com/products/10617">lipo fuel gauge</a>, and 6 axis digital <a href="http://en.wikipedia.org/wiki/Accelerometer">accelerometer</a>.
 

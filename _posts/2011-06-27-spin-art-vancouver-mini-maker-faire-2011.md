@@ -2,7 +2,7 @@
 layout: single
 title: Spin Art - Vancouver Mini Maker Faire 2011
 date: 2011-06-27 12:48
-categories: blog, [Interesting, News, Projects]
+categories: Interesting, News, Projects
 ---
 I build the <a href="/giant-spin-art-maker-faire-2011-vancouver/">first version</a> of my giant spin art back in may after reading build instructions in <a href="http://makeprojects.com/">Make magazine</a> Volume 25.
 

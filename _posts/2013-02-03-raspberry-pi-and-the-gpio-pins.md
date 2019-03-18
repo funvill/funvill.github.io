@@ -2,7 +2,7 @@
 layout: single
 title: Raspberry PI and the GPIO pins
 date: 2013-02-03 20:35
-categories: blog, [Arduino, cosm, data logger, Development, home automation, Raspberry PI, raspberypi]
+categories: Arduino, cosm, data logger, Development, home automation, Raspberry PI, raspberypi
 ---
 This week I have been playing with the <a href="http://www.raspberrypi.org/">Rapberry PI</a>, <a href="http://www.python.org/">Python</a> and the <a href="http://pypi.python.org/pypi/RPi.GPIO">Python GPIO pins library</a>.
 
@@ -10,7 +10,8 @@ This week I have been playing with the <a href="http://www.raspberrypi.org/">Rap
 
 <img class="size-medium wp-image-3155 alignleft" alt="WebIDE" src="/public/uploads/2013/02/WebIDE-300x235.png" width="300" height="235" />
 
-I started by formatting a SD Card with the <a href="http://www.raspberrypi.org/downloads">Raspbian €œwheezy€</a> (2012-12-16) image from <a href="http://www.raspberrypi.org/">Raspberry PI's website</a>. I followed this tutorial on <a href="http://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi">how to set up the Raspberry PI</a> for the first time.
+I started by formatting a SD Card with the <a href="http://www.raspberrypi.org/downloads">Raspbian "
+wheezy"</a> (2012-12-16) image from <a href="http://www.raspberrypi.org/">Raspberry PI's website</a>. I followed this tutorial on <a href="http://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi">how to set up the Raspberry PI</a> for the first time.
 
 I then <a href="http://learn.adafruit.com/adafruits-raspberry-pi-lesson-6-using-ssh">enabled SSH</a> so I don't have to attache a monitor, keyboard or mouse to the Raspberry PI. Since my main box is a Windows machine I downloaded and installed <a href="http://www.putty.org/">PuTTY</a> to use as my SSH client.
 

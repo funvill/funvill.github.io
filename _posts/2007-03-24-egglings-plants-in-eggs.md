@@ -2,7 +2,7 @@
 layout: single
 title: Egglings - Plants in eggs 
 date: 2007-03-24 12:43
-categories: blog, [Interesting]
+categories: Interesting
 ---
 <a href="/public/uploads/2007/03/egg_001_lg1.jpg" title="Egglings"><img src="/public/uploads/2007/03/egg_001_lg1.thumbnail.jpg" alt="Egglings" align="right" /></a>
 

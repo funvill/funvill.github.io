@@ -2,7 +2,7 @@
 layout: single
 title: Raspberry PI - Start up questions
 date: 2012-06-17 19:23
-categories: blog, [Development, development, faq, Projects, respberryPI, Tips and Tricks]
+categories: Development, faq, Projects, respberryPI, Tips
 ---
 <a href="/public/uploads/2012/06/Raspberry-Pi-Logo.jpg"><img class="alignright size-thumbnail wp-image-2774" title="Raspberry-Pi-Logo" src="/public/uploads/2012/06/Raspberry-Pi-Logo-150x150.jpg" alt="" width="150" height="150" /></a>I got my new shinny <a href="http://www.raspberrypi.org/">Raspberry PI</a> a few days ago, and got some time to play with it today. I am a windows guy by default and this is my first adventure in to the world of Linux. While getting everything started it up I ran in to these questions.
 
@@ -16,9 +16,11 @@ categories: blog, [Development, development, faq, Projects, respberryPI, Tips an
 <strong>[A] </strong>The default username and password can be found on the <a href="http://www.raspberrypi.org/downloads">download page</a> for the Raspberry PI OS.<strong> Username:</strong> pi <strong>Password:</strong> raspberry
 
 <strong>[Q] Now that I am logged in how to I get the desktop to show?</strong>
-<strong> [A]</strong> You need to launch a desktop environment, (Debian €œsqueeze€) comes with X Windows. You can start it by typing "startx" in the command prompt.
+<strong> [A]</strong> You need to launch a desktop environment, (Debian "
+squeeze") comes with X Windows. You can start it by typing "startx" in the command prompt.
 
-<strong>[Q] With the default firmware (Debian €œsqueeze€), The keyboard is set to British formatted keyboard, and I would like it to be set to US formatted key board. How do I do this? </strong>
+<strong>[Q] With the default firmware (Debian "
+squeeze"), The keyboard is set to British formatted keyboard, and I would like it to be set to US formatted key board. How do I do this? </strong>
 <strong>[A]</strong> From the terminal window
 <blockquote>- Type 'sudo su' then press =enter]
 - Run 'dpkg-reconfigure locales' and changing from en_GB.UTF-8 to en_US.UTF-8 (or whatever country setting you need).

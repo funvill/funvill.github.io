@@ -2,7 +2,7 @@
 layout: single
 title: AGLOCO tool bar
 date: 2007-06-11 09:00
-categories: blog, [Interesting]
+categories: Interesting
 ---
 Over the last few months all I have been hearing about is <a href="http://www.agloco.com/r/BBFJ0259">AGLOCO</a>.
 

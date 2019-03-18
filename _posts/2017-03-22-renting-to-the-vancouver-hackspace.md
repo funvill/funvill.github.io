@@ -2,7 +2,7 @@
 layout: single
 title: Renting to the vancouver hackspace
 date: '2017-03-22 00:01'
-categories: blog
+categories: uncategorized
 toc: true
 ---
 

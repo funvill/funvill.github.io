@@ -2,7 +2,7 @@
 layout: single
 title: Tom Kha Gai
 date: 2008-02-11 17:16
-categories: blog, [Uncategorized]
+categories: Uncategorized
 ---
 <a href="/public/uploads/2008/02/0003_polevka_tom_kha_gai.jpg" title="0003_polevka_tom_kha_gai.jpg"><img src="/public/uploads/2008/02/0003_polevka_tom_kha_gai.thumbnail.jpg" alt="0003_polevka_tom_kha_gai.jpg" align="right" /></a>This is a mild but spicy chicken soup (it can also be made with shrimp, pork, beef or mushrooms), flavored with the very unique flavor of galangal ("kha" in Thai) which creates a heavenly taste when combined with hot chile peppers, coconut milk, lime leaves and lemongrass.
 

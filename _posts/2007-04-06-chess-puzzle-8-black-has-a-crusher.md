@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #8 - Black has a crusher
 date: 2007-04-06 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>Black has a crusher</strong>
 Hint: Sacrifice the rook

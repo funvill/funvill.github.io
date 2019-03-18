@@ -2,7 +2,7 @@
 layout: single
 title: Life tracking Dec 2013
 date: 2014-01-07 00:01
-categories: blog, [gmail, google, heat, life tracking, map, maps, moving, movment, News, qt, search, sleeping, stats, steps, temp, tracking, Vancouver, walking, working]
+categories: gmail, google, heat, life tracking, map, maps, moving, movment, News, qt, search, sleeping, stats, steps, temp, tracking, Vancouver, walking, working
 ---
 <h2>Productivity tracking</h2>
 This chart was generated with the help of <a href="https://www.rescuetime.com/">Rescue Time</a>

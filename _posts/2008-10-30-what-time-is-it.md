@@ -2,7 +2,7 @@
 layout: single
 title: What time is it 
 date: 2008-10-30 12:04
-categories: blog, [Development, Projects, Web development]
+categories: Development Projects WebDevelopment
 ---
 Have you ever ask yourself what is the current time is it in <a href="http://www.abluestar.com/utilities/timezones/zoneinfo/Asia/Hong_Kong">HongKong</a>, <a href="http://www.abluestar.com/utilities/timezones/zoneinfo/America/Vancouver">Vancouver</a>?
 I work with people all over this planet, I'm constantly asking myself what time is its where they are?, can I phone them? ect...

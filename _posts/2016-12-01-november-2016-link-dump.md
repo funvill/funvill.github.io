@@ -2,7 +2,7 @@
 layout: single
 title: November 2016 interesting link dump
 date: '2016-12-01 00:01'
-categories: blog, brain dump
+categories: bookmarks
 toc: true
 ---
 

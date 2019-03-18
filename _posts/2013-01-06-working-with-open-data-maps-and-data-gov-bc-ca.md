@@ -2,7 +2,7 @@
 layout: single
 title: Working with Open Data, Maps and data.gov.bc.ca
 date: 2013-01-06 20:43
-categories: blog, [bathymetric, Canada, Development, maps, opendata]
+categories: bathymetric, Canada, Development, maps, opendata
 ---
 This weekend I have been playing with more <a href="/lasers-and-vancouver-opendata/">Open Data and Maps</a> using <a href="http://mapbox.com/tilemill/">TileMill</a>. Specifically I been trying to make a <a href="http://en.wikipedia.org/wiki/Bathymetric_chart">Bathymetric map</a> of the <a href="http://en.wikipedia.org/wiki/Salish_Sea">Salish Sea</a> (BC Coastal waters)
 <blockquote>A <strong>bathymetric</strong> chart is the submerged equivalent of an above-water topographic map. Bathymetric charts are designed to present accurate, measurable description and visual presentation of the submerged terrain. In an ideal case, the joining of a bathymetric chart and topographic map of the same scale and projection of the same geographic area would be seamless. The only difference would be that the values begin increasing after crossing the zero at the designated sea level datum. Thus the topographic map's mountains have the greatest values while the bathymetric chart's greatest depths have the greatest values. Simply put, the bathymetric chart is intended to show the land if overlying waters were removed in exactly the same manner as the topographic map.

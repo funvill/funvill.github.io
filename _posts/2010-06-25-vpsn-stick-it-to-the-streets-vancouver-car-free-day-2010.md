@@ -2,7 +2,7 @@
 layout: single
 title: VPSN Stick it to the Streets, Vancouver Car free day 2010
 date: 2010-06-25 17:30
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 <h2><strong>Stick it to the Streets</strong></h2>
 <a href="http://www.vancouverpublicspace.ca/">VPSN</a> is gathering a large group of people wandering the street with noise makers making a lot of noise/"Music", from downtown to GasTown. its too bad they didn't go thou <a href="http://en.wikipedia.org/wiki/Yaletown">YaleTown</a> with all the people that bitch continually about <a href="http://vancouver.ca/police/policeboard/agenda/2007/070418/0721RPM.pdf">noise violation</a> [PDF].

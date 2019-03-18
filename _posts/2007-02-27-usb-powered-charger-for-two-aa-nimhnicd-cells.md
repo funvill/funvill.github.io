@@ -2,7 +2,7 @@
 layout: single
 title: USB Powered Charger for Two AA NiMH/NiCd Cells
 date: 2007-02-27 15:26
-categories: blog, [Projects]
+categories: Projects
 ---
 <a href="/public/uploads/2007/02/t-completed.jpg" title="NiMH/NiCd Cells charger"><img src="/public/uploads/2007/02/t-completed.thumbnail.jpg" alt="NiMH/NiCd Cells charger" border="0" /></a>
 

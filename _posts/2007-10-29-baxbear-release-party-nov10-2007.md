@@ -2,7 +2,7 @@
 layout: single
 title: BAXBEAR Release party Nov10 2007
 date: 2007-10-29 15:28
-categories: blog, [Interesting, toys, Vancouver, Vancouver]
+categories: Interesting toys Vancouver, 
 ---
 <a href="http://www.baxbear.com/">BAXBEAR </a>Release party Nov10 2007
 9.00 PM - midnight November 10th 2007

@@ -2,7 +2,7 @@
 layout: single
 title: Internet explorer (IE) caching AJAX requests.
 date: 2007-07-06 13:14
-categories: blog, [Development, Projects, Web development]
+categories: Development, Projects, WebDevelopment
 ---
 The project was to create a status web page that showed the temperature of a room. The temperature of the room changes rapidly and I wanted the changes to appear on the page without my users having to click refresh every time they wanted an updated value.The ideal solution was AJAX.
 I would use a bit of JavaScript to query anther page for the temperature of a room and refresh a div on the status page every n seconds.

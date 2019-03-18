@@ -2,7 +2,7 @@
 layout: single
 title: What I did in 2010, Year end review 
 date: 2010-12-29 19:00
-categories: blog, [Interesting, News]
+categories: Interesting, News
 ---
 I hate writing this type of post, the review of all your failures and accomplishments over the last year. But review is important its stops you from repeating the same mistakes and give you a direction to go next year.
 

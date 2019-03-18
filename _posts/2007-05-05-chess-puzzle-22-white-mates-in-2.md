@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #22 - White mates in 2
 date: 2007-05-05 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play, White mates in 2 [N. A. bakke 1972]</strong>
 

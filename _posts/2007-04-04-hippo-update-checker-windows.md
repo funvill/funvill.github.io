@@ -2,7 +2,7 @@
 layout: single
 title: Hippo Update Checker (Windows)
 date: 2007-04-04 09:00
-categories: blog, [Tips and Tricks, Utility]
+categories: Tips, Utility
 ---
 <a href="/public/uploads/sshot_1.png" rel="lightbox"><img src="/public/uploads/sshot_1.png" alt="sshot_1.png" title="sshot_1.png" align="right" border="0" height="309" width="294" /></a>I found this great program today on <a href="http://lifehacker.com/software/updates/download-of-the-day-file-hippo-update-checker-windows-249262.php">LifeHacker</a> news feed called <a href="http://www.filehippo.com/updatechecker/">Hippo Update Checker</a>. It scans your computer for your installed programs and checks there version against the version in Hippo's database. if there is a newer releases to any of your programs it displays them nicely in your browser with a download link.
 

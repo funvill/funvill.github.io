@@ -2,7 +2,7 @@
 layout: single
 title: Acrylic puzzle test 1
 date: 2012-11-25 21:32
-categories: blog, [Development, Laser Cutter]
+categories: Development, Laser Cutter
 ---
 For one of the Christmas presents this year I want to make a home made puzzle on the laser cutter.
 

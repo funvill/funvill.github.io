@@ -2,7 +2,7 @@
 layout: single
 title: What I have been up to in January 2011 
 date: 2011-01-31 18:11
-categories: blog, [Development, Interesting, Media, News]
+categories: Development Interesting Media, News
 ---
 Its been a busy month, the start of the year always is.
 <ul>

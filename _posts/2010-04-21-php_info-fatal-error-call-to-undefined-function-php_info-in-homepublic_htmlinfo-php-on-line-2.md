@@ -2,7 +2,7 @@
 layout: single
 title: "Fatal error: Call to undefined function: php_info() in /home/*/public_html/info.php on line 2"
 date: 2010-04-21 13:35
-categories: blog, Tips and Tricks
+categories: Tips
 ---
 <strong>Source code:</strong>
 <code>&lt;?php

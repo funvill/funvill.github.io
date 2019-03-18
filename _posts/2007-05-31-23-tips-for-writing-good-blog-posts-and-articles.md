@@ -2,7 +2,7 @@
 layout: single
 title: 23 Tips for writing good blog posts and articles.
 date: 2007-05-31 09:00
-categories: blog, [Tips and Tricks, Web development]
+categories: Tips WebDevelopment
 ---
 <img src="/public/uploads/2007/05/writting.jpg" alt="writting.jpg" align="right" /> I try to keep a list of good blog and article writing tips in my head while I am trying to write posts for you. I don&quot;t always follow them all but I try my best.
 In no particular order

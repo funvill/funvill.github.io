@@ -2,7 +2,7 @@
 layout: single
 title: Wastbasket for the bathroom
 date: 2007-11-12 00:25
-categories: blog, [design, Interesting]
+categories: design Interesting
 ---
 The bin can be sealed by a ordinary magazine, useful for people who like to read on the toilet
 

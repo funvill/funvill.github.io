@@ -2,7 +2,7 @@
 layout: single
 title: Julie Feeney
 date: 2007-03-11 16:02
-categories: blog, [Media]
+categories: Media
 ---
 <a href="/public/uploads/2007/03/jfhomecrop.jpg" title="Julie Feeney"><img src="/public/uploads/2007/03/jfhomecrop.jpg" alt="Julie Feeney" align="right" /></a> A very creative musician with a fantastic voice, a very sexy Irish accent. She plays eleven instruments on "13 songs" album, including keyboards, alto recorder, treble recorder, harmonium, accordion, violin, harmonica, melodica, and xylophone.
 

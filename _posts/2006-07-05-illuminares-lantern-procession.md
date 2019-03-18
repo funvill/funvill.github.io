@@ -2,7 +2,7 @@
 layout: single
 title: Illuminares Lantern Procession
 date: 2006-07-05 11:48
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/lantern.JPG" id="image18" alt="Illuminares Lantern Procession" align="right" width="300" />
 

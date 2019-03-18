@@ -2,7 +2,7 @@
 layout: single
 title: Not alowing comments 
 date: 2007-10-29 18:41
-categories: blog, [Tips and Tricks, Web development]
+categories: Tips WebDevelopment
 ---
 <a href="/public/uploads/2007/10/1570869672_f4631efb6c.jpg"><img src="/public/uploads/2007/10/1570869672_f4631efb6c.thumbnail.jpg" align="right" /></a>I was browsing <a href="http://www.warrenellis.com">warrenellis.com</a> website the other day and tuned in to his <a href="http://www.warrenellis.com/?p=5239">4am pod cast</a>.
 After it was done I went to leave a comment only to find that comments have been turned off.

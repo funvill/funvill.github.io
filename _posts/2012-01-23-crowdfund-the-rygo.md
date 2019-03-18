@@ -2,7 +2,7 @@
 layout: single
 title: Crowdfund the Rygo
 date: 2012-01-23 21:13
-categories: blog, [3dprinted, Art, crowdfund, friends, projects, sculpture, Vancouver, VHS]
+categories: 3dprinted, Art, crowdfund, friends, projects, sculpture, Vancouver, VHS
 ---
 Help us create the biggest 3D print in North America, designed by Bathsheba Grossman, printed by the DShape and installed at Gropp's Gallery of Vancouver
 

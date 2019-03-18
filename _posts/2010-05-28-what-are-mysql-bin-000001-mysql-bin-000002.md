@@ -2,7 +2,7 @@
 layout: single
 title: What are mysql-bin.000001, mysql-bin.000002...
 date: 2010-05-28 10:47
-categories: blog, [mysql, Tips and Tricks, Web development]
+categories: mysql, Tips WebDevelopment
 ---
 By default whenever you make a change to a <a href="http://www.mysql.com/">MySQL </a>database it creates a log of the query and stores it in a file simlare to 'mysql-bin.000001' . The MySQL database does this so that you can <a href="http://dev.mysql.com/tech-resources/articles/recovering-from-crashes.html">recover</a> or <a href="http://dev.mysql.com/doc/refman/5.0/en/replication.html">replicate a database</a>. Most applications this is a good things to have enabled just like doing regular backups.
 

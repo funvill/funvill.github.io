@@ -2,7 +2,7 @@
 layout: single
 title: Vancouver Maker Faire - Call for Makers
 date: 2012-03-15 09:27
-categories: blog, [Canada, events, makerfaire, Vancouver, Vancouver]
+categories: Canada, events, makerfaire, Vancouver
 ---
 <a href="/public/uploads/2012/03/png.png"><img class="alignright size-medium wp-image-2751" title="png" src="/public/uploads/2012/03/png-300x113.png" alt="" width="300" height="113" /></a>If you haven't already heard, Vancouver Maker Faire have an amazing venue in store for this year; we'll be in the <a href="http://vancouver.makerfaire.ca/vancouver-mini-maker-faire-in-2012-at-the-pne/" target="_blank">Forum building at the <strong>Pacific National Exhibition</strong></a> (PNE) on the weekend of June 23rd and 24th. This will give us 48,000 square feet of indoor space, and ample outdoor space too! Yes, forty eight thousand square feet of space to fill with amazing makers, doers, and creatives! It's going to be HUGE!
 

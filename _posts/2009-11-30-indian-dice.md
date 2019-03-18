@@ -2,13 +2,14 @@
 layout: single
 title: Indian Dice
 date: 2009-11-30 14:09
-categories: blog, [Dice, Dice, game, Games, Games]
+categories: Dice Games
 ---
 Indian Dice is a poker game with dice.
 
 I have played this game a few times, mainly when we don&quot;t have a set of cards to play with and want to play poker.  Its very simple if you have played poker before.
 
-€œAll the evidence shows that God was actually quite a gambler, and the universe is a great casino, where dice are thrown, and roulette wheels spin on every occasion.  Over a large number of bets, the odds even out and we can make predictions; that&quot;s why casino owners are so rich.  But over a very small number of rolls of the dice, the uncertainty principle is very important.€
+"
+All the evidence shows that God was actually quite a gambler, and the universe is a great casino, where dice are thrown, and roulette wheels spin on every occasion.  Over a large number of bets, the odds even out and we can make predictions; that&quot;s why casino owners are so rich.  But over a very small number of rolls of the dice, the uncertainty principle is very important."
 -Stephen Hawking
 
 <strong>What you need to play</strong>

@@ -2,7 +2,8 @@
 layout: single
 title: Website theme update
 date: '2019-03-16 00:01'
-categories: blog
+categories: website
+tags: jekyll markdown history screenshots
 
 gallery:
   - url: /public/uploads/2003_website_screenshot.PNG

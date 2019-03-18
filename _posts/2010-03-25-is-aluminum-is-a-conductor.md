@@ -2,7 +2,7 @@
 layout: single
 title: Is Aluminum is a conductor ?
 date: 2010-03-25 15:12
-categories: blog, [Tips and Tricks]
+categories: Tips
 ---
 <strong>YES</strong>
 

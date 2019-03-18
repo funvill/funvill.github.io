@@ -2,7 +2,7 @@
 layout: single
 title: Notes from January 2017
 date: '2017-01-16 00:01'
-categories: blog, brain dump
+categories: bookmarks
 toc: true
 ---
 

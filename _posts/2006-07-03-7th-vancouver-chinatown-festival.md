@@ -2,7 +2,7 @@
 layout: single
 title: 7th Vancouver Chinatown Festival
 date: 2006-07-03 11:44
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/f_02.jpg" id="image12" alt="7th Vancouver Chinatown Festival " align="right" />
 The Annual Vancouver Chinatown Festival is the largest multicultural summer celebration in the vancouver.   Attended by families, youths, the general public, and tourists, Chinatown Festival has become a spectacular summer attraction and the number of participants continues to grow each year.   The attendance of the 6th Vancouver Chinatown Festival was estimated at 40,000 over the two-day event.

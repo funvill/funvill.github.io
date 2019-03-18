@@ -2,7 +2,7 @@
 layout: single
 title: Chess Puzzle #27 - White mates in 2
 date: 2007-05-11 09:00
-categories: blog, Chess
+categories: Chess
 ---
 <strong>White to play, White mates in 2 [Gy. Schifferi 1928]</strong>
 

@@ -2,7 +2,7 @@
 layout: single
 title: Danger Dice
 date: 2009-09-21 12:48
-categories: blog, [Dice, Dice, drinking, game, Games, Games]
+categories: Dice drinking Games
 ---
 Danger Dice is a Drinking game
 

@@ -2,7 +2,7 @@
 layout: single
 title: Heritage Hall Comic Con
 date: 2006-07-13 12:38
-categories: blog, [Vancouver]
+categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/con_stackofcomics.jpg" id="image36" alt="Heritage Hall Comic Con" align="right" />
 A day of alternative &amp; small-press comics, zines, artwork &amp; culture

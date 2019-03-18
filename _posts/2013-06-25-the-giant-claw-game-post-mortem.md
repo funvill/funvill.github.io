@@ -2,7 +2,7 @@
 layout: single
 title: The Giant Claw Game! - Post Mortem
 date: 2013-06-25 22:25
-categories: blog, [Projects]
+categories: Projects
 ---
 Things didn't go as planed, the claw broke with the very first kid. I added min and max limit switch to the claw to tell when the claw was fully open or fully closed. The problem is that the claw does not know it has picked up a toy or not. So the first kid picked up 5 toys at once and started closing on the toys and squeezed and squeezed trying to hit its min limit switch and rip it self apart.
 
