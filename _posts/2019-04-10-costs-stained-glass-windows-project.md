@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Wood frames - Costs
+title: Costs - Stained glass windows project
 date: '2019-04-10 00:01'
 categories: 
     - projects
