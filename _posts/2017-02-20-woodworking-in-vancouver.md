@@ -14,7 +14,7 @@ Woodworking can be a very rewarding hobby, and Vancouver is a great place to get
 
 There are only a few good rent-able woodworking shops in Vancouver. This is because of the insurance that is required to run a open to the public woodworking shop.
 
-- [Maker Labs](http://www.makerlabs.com/) - A 26,000sf maker space that has a clean, well equipped woodworking shop. They provided regular courses on many different topics as well as safety courses. Their membership rates are very competitive with other shops. Among their extensive tool list, they also have a full sheet (4x8) CNC cutter ([Shopbot](http://shopbottools.com/)) that is extremely useful for furniture projects. 780 East Cordova Street,Vancouver. Open 12-9 PM, 778.984.7299 [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/MakerLabsVan), [<i class="fa fa-instagram" aria-hidden="true"></i>](http://instagram.com/makerlabs), [<i class="fa fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/makerlabs)
+- [Maker Labs](http://www.makerlabs.com/) - A 26,000sf maker space that has a clean, well equipped woodworking shop. They provided regular courses on many different topics as well as safety courses. Their membership rates are very competitive with other shops. Among their extensive tool list, they also have a full sheet (4x8) CNC cutter ([Shopbot](http://shopbottools.com/)) that is extremely useful for furniture projects. 780 East Cordova Street,Vancouver. Open 12-9 PM, 778.984.7299 [<i class="fab fa-twitter" aria-hidden="true"></i>](https://twitter.com/MakerLabsVan), [<i class="fab fa-instagram" aria-hidden="true"></i>](http://instagram.com/makerlabs), [<i class="fab fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/makerlabs)
 - [Vancouver Community Lab](http://vancommunitylab.com/workshops/) - Is a maker space for metal and wood working. They have good selection of wood working tools and lots of space. They run woodworking workshops but not on a regular schedule. While their membership rates are good they currently have reached their membership cap and are not accepting new members ([wait list](http://vancommunitylab.com/membership/)). 1907 Triumph St, Vancouver.
 - [Round House](http://roundhouse.ca/programs/adult/) - Weekly drop-in nights for people working on their own projects. They offer amazing courses, see below.
 
@@ -29,7 +29,7 @@ Doing a workshop or course is a great way to get started with woodworking.
 
 ## Inspiration 
 
-There is a huge amount of online woodworking resources, way too many to list. This is a list of some of my favorite online resources. When I am looking for a new woodworking project I tend to search thought [Instructables woodworking](https://www.instructables.com/howto/woodworking/) how-to guides, [<i class="fa fa-instagram" aria-hidden="true"></i> Instagram #woodworking](https://www.instagram.com/explore/tags/woodworking/) for beautiful finished projects, and [Open Desk](https://www.opendesk.cc/) for woodworking plans. 
+There is a huge amount of online woodworking resources, way too many to list. This is a list of some of my favorite online resources. When I am looking for a new woodworking project I tend to search thought [Instructables woodworking](https://www.instructables.com/howto/woodworking/) how-to guides, [<i class="fab fa-instagram" aria-hidden="true"></i> Instagram #woodworking](https://www.instagram.com/explore/tags/woodworking/) for beautiful finished projects, and [Open Desk](https://www.opendesk.cc/) for woodworking plans. 
 
 
 ## Schools

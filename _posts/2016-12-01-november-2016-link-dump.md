@@ -53,7 +53,7 @@ What has interested me in the month of November 2016
 
 ## Art
 
-- [Bubble ceramics](http://www.hqpottery.com/) - Makes intersting patterns on ceramics with inky bubbles. This video [describes her proccess](https://www.youtube.com/watch?time_continue=44&v=00MjTzDycFo). [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/hedyyang_/), [etsy](https://www.etsy.com/shop/HQpottery).
+- [Bubble ceramics](http://www.hqpottery.com/) - Makes intersting patterns on ceramics with inky bubbles. This video [describes her proccess](https://www.youtube.com/watch?time_continue=44&v=00MjTzDycFo). [<i class="fab fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/hedyyang_/), [etsy](https://www.etsy.com/shop/HQpottery).
 - [Haute Circuits](https://www.boldport.com/blog/2015/11/25/haute-circuits) - PCB design as art. A join project between Eletroncis master [Boldport](https://www.boldport.com/) aka Saar Drimer, and accomplished still-life photographer [Mitch Feinberg](http://mitch.fr/)
 - [Makers of Japan’s Traditional Amezaiku Candy Art](https://thecreatorsproject.vice.com/blog/japanese-traditional-sugar-candy-lollipop-craftman-shinri-tezuka?utm_source=tcpfbus). 
 
