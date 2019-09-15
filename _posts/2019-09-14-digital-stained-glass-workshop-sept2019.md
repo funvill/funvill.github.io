@@ -5,6 +5,8 @@ date: '2019-09-14 00:01'
 categories: Events
 ---
 
+[![Digital Stained glass workshop](/public/uploads/StainedGlassWindowsBanner2019Sept.jpg)](/public/uploads/StainedGlassWindowsBanner2019Sept.jpg)
+
 [Register for the workshop](https://www.eventbrite.ca/e/digital-stained-glass-window-workshop-tickets-72727153875)
 
 ## About this Event
