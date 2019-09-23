@@ -5,6 +5,10 @@ date: '2019-09-14 00:01'
 categories: Events
 ---
 
+**Update**. See this post for photos from the event, source code files, Slides, and a post mortem (what worked, what didn't) 
+[Digital stained glass workshop - Post mortem](https://blog.abluestar.com/digital-stained-glass-workshop-sept2019-post-mortem/)
+
+
 [![Digital Stained glass workshop](/public/uploads/StainedGlassWindowsBanner2019Sept.jpg)](/public/uploads/StainedGlassWindowsBanner2019Sept.jpg)
 
 In this workshop attendees will learn how to design and make a unique illuminated digital stained glass window. The illuminated digital stained glass window is animated using fully programmable RGB LEDs and a microprocessor. The effect is a dazzling display of lights. This workshop consists of designing the layout and segments on a sheet of paper. Then attendees scan and converting the image into a vector using inkscape (Free Windows/MAC/Linux application). The vector file is then used to cut out of foam on a desktop CNC router. At the end of this course attendees will get to take home their custom designed 9”x9”x4” stained glass window.
