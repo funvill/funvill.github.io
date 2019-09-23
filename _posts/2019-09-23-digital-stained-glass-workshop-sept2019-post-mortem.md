@@ -22,6 +22,7 @@ On September 22, 2019 I ran [digital stained glass workshop](https://blog.ablues
 - Computer problems. Everyone brought their own computer but two of the six people couldn't install inkscape. They ended up using the paper to make their design, then I converted it in inkscape afterwards.
 - Power supplies. Some of the power supplies used a coax style cabling instead of two wires. This means that I couldn't use the screw down barrel jack with them. This also means that I didn't have enough power supplies for everyone. 
 - Cheatsheet needs to be clearer about the design requirements.
+- I needed a video of how the CNC cut out the sections. Some people found it hard to visualize from the images in the slides alone
 
 ## Next time 
 
@@ -52,8 +53,3 @@ Total: $312.4 Material costs (per person $52.06 )
 
 All the files that are used in this workshop are avalaible open source from this github repo 
 [https://github.com/funvill/Workshop-DigitialStainedGlassWindow](https://github.com/funvill/Workshop-DigitialStainedGlassWindow)
-
-
-
-
-
