@@ -13,6 +13,8 @@
     {% endif %}
 
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+
+    <li>page.path: {{page.path}}, page.relative_path: {{page.relative_path}}, [<a href='https://github.com/funvill/funvill.github.io/edit/master/{{page.relative_path}}'>Edit</a>]</li>
   </ul>
 </div>
 
