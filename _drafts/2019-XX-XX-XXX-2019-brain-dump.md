@@ -25,3 +25,9 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain
 
 - [Plague doctor at a rave](https://twitter.com/BanhammersWrath/status/1150139506437316609)
 - [My neighbor totoro](https://twitter.com/wireengineer/status/1150201866069905409) backlit PCB board. 
+- [Bookshelf Dioramic](https://laughingsquid.com/back-alley-bookshelf-inserts/) - Tiny Dioramic that is sized to fit next to books on a bookshelf.
+- [Lightwork ](https://github.com/marvage/Lightwork) - Lightwork simplifies the process of mapping complex arrangements of LEDs, removing the limitations of straight lines and grids from your light based creations.
+
+## Cosplay 
+
+- [Black mage LED eyes](https://twitter.com/labratbot/status/1130450748284841984) - Using a LED dotmatrics for the eyes. [video](https://www.instagram.com/p/BxptEeencqw/?igshid=ijvoo59mhtbo)
