@@ -68,9 +68,9 @@ My name is *Steven Smethurst* and live two lives. During the day I am a software
 - [Logitech MX Master](http://www.logitech.com/en-ca/product/mx-master) - Best mouse I have ever had. Wireless, adaptive scroll wheel auto-shifts from click-to-click to hyper-fast scroll. 
 - [Maker's Notebook](http://www.makershed.com/products/makers-notebook-hard-bound) - When I do make paper notes, this is my goto book. Grid paper with, useful reference material. 
 - [Sony WH-H900N](https://www.sony.ca/en/electronics/headband-headphones/wh-h900n) - Wireless Bluetooth noise canceling headphones. One of the best noise canceling headphones I have ever owned. The have a *"reduce wind filter"* that is amazing. The touch controls are a nice feature as well. 
-- [Samsung S8](https://www.samsung.com/global/galaxy/galaxy-s8/) - Android phone. I do not recommend this or ANY SAMSUNG phone. They are filled with so much bloatware that they are practically unusable.
+- [Pixel 3](https://store.google.com/ca/product/pixel_3) - Android phone. Google's flagship phone. Its wonderful. 
 
 # What would be your dream setup?
 
-The first thing I would do is switch to using a Google prime phone (Latest [Pixel](https://store.google.com/product/pixel_3) series). Then I would upgrade my monitor setup to a 34"+ ultra wide monitor such as [Acer XR342CK Pbmiiqphuzx](https://wclink.co/link/29241/151265/4/83270?merchant=Amazon). Finnely I would love to get my hands on a futurisitc, not currently avalaible, augmented reality (AR) glasses that supported super human vision. 
+I would upgrade my monitor setup to a 34"+ ultra wide monitor such as [Acer XR342CK Pbmiiqphuzx](https://wclink.co/link/29241/151265/4/83270?merchant=Amazon). Finnely I would love to get my hands on a futurisitc, not currently avalaible, augmented reality (AR) glasses that supported super human vision. 
 
