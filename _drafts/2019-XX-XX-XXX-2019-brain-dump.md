@@ -20,6 +20,8 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain
 ## Social  
 
 - [List of makers on twitter](https://twitter.com/airbornesurfer/status/1120456497513865218) - A list of people on twitter to follow that are makers/inventers. 
+- [Cassidy Williams @cassidoo](https://twitter.com/cassidoo) - A very very funny programer comedian. Also a mech keyboard fan. Favorite posts: [First try](https://twitter.com/cassidoo/status/1153738731188187141), [ESLint](https://twitter.com/cassidoo/status/1185656470953549824), [goofing off](https://twitter.com/cassidoo/status/1179110386445905920)
+- [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - a Swedish inventor, maker, robotics enthusiast, maker of shitty robots. 
 
 ## Maker stuff 
 
