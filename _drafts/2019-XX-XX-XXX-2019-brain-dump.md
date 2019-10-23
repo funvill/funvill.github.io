@@ -33,3 +33,7 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain
 ## Cosplay 
 
 - [Black mage LED eyes](https://twitter.com/labratbot/status/1130450748284841984) - Using a LED dotmatrics for the eyes. [video](https://www.instagram.com/p/BxptEeencqw/?igshid=ijvoo59mhtbo)
+
+## Art 
+
+- [Minimalist Marble Machine](https://tinkerlog.com/2015/02/24/minimalist-marble-machine/) - The simplest form of a marble machine but done extreamly well. 
