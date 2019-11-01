@@ -37,3 +37,7 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain
 ## Art 
 
 - [Minimalist Marble Machine](https://tinkerlog.com/2015/02/24/minimalist-marble-machine/) - The simplest form of a marble machine but done extreamly well. [Hackaday post](https://hackaday.com/2015/03/21/your-marble-machine-doesnt-need-to-change-the-world/)
+
+## Tools 
+
+- [Simple Scraper](https://simplescraper.io/) - Browser plugin for scraping website and making JSON or APIs based on them. 
