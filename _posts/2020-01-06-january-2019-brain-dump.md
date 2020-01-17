@@ -1,7 +1,7 @@
 ---
 layout: single
 title: January 2020 brain dump 
-date: '2019-01-06 00:22'
+date: '2020-01-06 00:22'
 categories: bookmarks
 tags: bookmarks make math
 toc: true
