@@ -9,6 +9,8 @@ classes: wide
 Steven Smethurst is a Vancouver based maker, hacker, and installation artist. Steven primarily works with light and technology. Light changes everything around it. It’s messy and bleeds into and over everything. It is loud and demands attention but its effects are temporary. Remove the light from the environment and the environment returns to its natural, unaltered state. Steven’s technological background adds unique interactive elements to his work. His work reacts to people, inviting them to touch, play and interact with his installations. "To gain a deeper understanding of art, you need to touch and interact with it". 
 
 # Exhibitions 
+
+- (2020) City of glass, Luminescence V Deer Lake Gallery
 - (2019) [Stained Glass Windows](/projects/2018-stained-glass-window), Luminescence IV Deer Lake Gallery
 - (2018) [Stained Glass Windows](/projects/2018-stained-glass-window), Vancouver Culture crawl. 
 - (2018) [Edge lit lantern](https://www.instagram.com/p/Bmu26HDF9Uf/?taken-by=funvill), [re-vision](https://www.revision-theartofrecycling.com/) Granville Island vancouver 
@@ -39,3 +41,8 @@ Steven Smethurst is a Vancouver based maker, hacker, and installation artist. St
 - 2015, Vancouver Foundation grant - Fairy doors  
 - 2015, Black rock city (Burning man) Honoraria - Pocket Universe
 - 2015, Greater Vancouver Interactive Arts Society (GVIAS) grant - Pocket Universe
+
+# Talks 
+
+- 2020, Pecha Kucha Burnaby - Creative Progression: 100 days challange to a 1 year project
+- 2020, Vancouver Creative Technology Meetup - Creative Consistency: An Illuminating Process
