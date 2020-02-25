@@ -6,7 +6,7 @@ date: '2018-09-17 00:01'
 classes: wide
 ---
 
-Steven Smethurst is a Vancouver based maker, hacker, and installation artist. Steven primarily works with light and technology. Light changes everything around it. It’s messy and bleeds into and over everything. It is loud and demands attention but its effects are temporary. Remove the light from the environment and the environment returns to its natural, unaltered state. Steven’s technological background adds unique interactive elements to his work. His work reacts to people, inviting them to touch, play and interact with his installations. "To gain a deeper understanding of art, you need to touch and interact with it". 
+Steven Smethurst is a Vancouver based maker, hacker, and installation artist. Steven primarily works with light and technology. Light changes everything around it. It’s messy and bleeds into and over everything. It is loud and demands attention but its effects are temporary. Remove the light from the environment and the environment returns to its natural, unaltered state. Steven’s technological background adds unique interactive elements to his work. His work reacts to people, inviting them to touch, play and interact with his installations. 
 
 # Exhibitions 
 
