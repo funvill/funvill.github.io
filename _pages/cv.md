@@ -36,13 +36,13 @@ Steven Smethurst is a Vancouver based maker, hacker, and installation artist. St
 
 # Awards and Grants
 
-- 2018, Lookout Arts Quarry grant - Pillar of Tetris
-- 2016, Vancouver Foundation grant - Heart of Mount Pleasant
-- 2015, Vancouver Foundation grant - Fairy doors  
-- 2015, Black rock city (Burning man) Honoraria - Pocket Universe
-- 2015, Greater Vancouver Interactive Arts Society (GVIAS) grant - Pocket Universe
+- (2018) Lookout Arts Quarry grant - Pillar of Tetris
+- (2016) Vancouver Foundation grant - Heart of Mount Pleasant
+- (2015) Vancouver Foundation grant - Fairy doors  
+- (2015) Black rock city (Burning man) Honoraria - Pocket Universe
+- (2015) Greater Vancouver Interactive Arts Society (GVIAS) grant - Pocket Universe
 
 # Talks 
 
-- 2020, Pecha Kucha Burnaby - Creative Progression: 100 days challange to a 1 year project
-- 2020, Vancouver Creative Technology Meetup - Creative Consistency: An Illuminating Process
+- (2020) Pecha Kucha Burnaby - Creative Progression: 100 days challange to a 1 year project
+- (2020) Vancouver Creative Technology Meetup - Creative Consistency: An Illuminating Process
