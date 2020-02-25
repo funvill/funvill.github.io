@@ -4,8 +4,6 @@ title: Defeat your Google twin
 date: 2007-06-22 16:03
 categories: uncategorized
 ---
-<img src="/public/uploads/2007/06/gwhn101l.thumbnail.jpg" alt="gwhn101l.jpg" align="right" />What is a <a href="http://en.wikipedia.org/wiki/Google_twin">Google twin</a> you ask?
-
 A <strong>"Google twin"</strong> is a person <a href="http://www.google.ca/search?q=steven+smethurst">who shares your name</a>, and whose information returns results on Google when you <a href="http://en.wikipedia.org/wiki/Egosurfing" title="Egosurfing">egosurf</a>. They may or may not be currently ranked higher than you.
 
 If your Google twin is ranked higher then you on google then you have to defeat him by getting your ranking for your name up higher then his.
