@@ -1,7 +1,7 @@
 ---
 layout: project
-title: (2019) Illumiated Stained Glass Tetragonal Trapezohedron
-excerpt: Illumiated Stained Glass Tetragonal Trapezohedron sculpture 
+title: (2019) illuminated Stained Glass Tetragonal Trapezohedron
+excerpt: illuminated Stained Glass Tetragonal Trapezohedron sculpture 
 ---
 
 <img src="/public/uploads/tetragonalTrapezohedron.png" alt="Tetragonal Trapezohedron"/>
