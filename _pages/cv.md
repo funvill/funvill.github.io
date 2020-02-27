@@ -11,7 +11,8 @@ Steven Smethurst is a Vancouver based maker, hacker, and installation artist. St
 # Exhibitions 
 
 - (2020) City of glass, Luminescence V Deer Lake Gallery
-- (2019) [Stained Glass Windows](/projects/2018-stained-glass-window), Luminescence IV Deer Lake Gallery
+- (2019) [Illuminated Stained Glass Tetragonal Trapezohedron](/projects/2019-illuminated-stained-glass-tetragonal-trapezohedron/), Vancouver Maker Faire 2019
+- (2019) [Stained Glass Windows](/projects/2018-stained-glass-window), Luminescence IV Deer Lake Gallery, Vancouver Maker Faire 2019
 - (2018) [Stained Glass Windows](/projects/2018-stained-glass-window), Vancouver Culture crawl. 
 - (2018) [Edge lit lantern](https://www.instagram.com/p/Bmu26HDF9Uf/?taken-by=funvill), [re-vision](https://www.revision-theartofrecycling.com/) Granville Island vancouver 
 - (2018) [Pillar of Tetris](/projects/2017-led-pillar), Sh'Bang festival  
