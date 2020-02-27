@@ -14,10 +14,11 @@ A series of 28 custom LED patterns are programmed into the sculpture. Each patte
  
 I also created a phone app that allows users to select the patterns and pallets, then save the ones that they like the best to favorite menu. 
  
-The sculpture stands about 40 inches high and 18 inches wide. I used a [ESP8266](http://esp8266.net/) to control the LEDS. There are 224 LEDs. 28 LEDs on each kite face. I designed the panels using [Fusion-360](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists)
+The sculpture stands about 40 inches high and 18 inches wide. I used a [ESP8266](http://esp8266.net/) ( [Wemos D1 mini](https://docs.wemos.cc/en/latest/d1/index.html) ) to control the LEDS. There are 224 LEDs. 28 LEDs on each kite face. I designed the panels using [Fusion-360](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists)
 
 All source code files, firmware, etc can be found here on my github repo [TetragonalDeltohedron](https://github.com/funvill/StainGlassLaserPatterns/tree/master/TetragonalDeltohedron)
 
+The parts to make this project cost ~$100 CAD. (LEDs, controller, foam, acrylic, glue)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eQ1KYd4pdF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
