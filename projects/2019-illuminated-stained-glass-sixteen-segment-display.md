@@ -24,10 +24,12 @@ The results were not great. It also took a lot of time to make the paper folded 
 
 After I built the [illuminated Stained Glass Tetragonal Trapezohedron](https://blog.abluestar.com/projects/2019-illuminated-stained-glass-tetragonal-trapezohedron/) using the new foam method. I decided to try and use this new method to make a series of sixteen segmented displays. 
 
+A foam center was cut using a [Inventables X-Carve](https://www.inventables.com/technologies/x-carve). The foam separates the light from bleeding from one pocket/cell to another. An acrylic top plate was added as a diffuser.
+
 <img src="/public/uploads/foam-16-segments.png" alt="foam-16-segments"/>
 
 Cheaper, and easier to make. I was able to make an 8 digit display, with scrolling text. I wrote some firmware to print tweets, show the time, and make colorful patterns. 
 
 All source code files, firmware, etc can be found here on my github repo [segmented-display](https://github.com/funvill/segmented-display)
 
-I designed the panels using Fusion-360. The parts to make this project cost ~$300 CAD. (LEDs, controller, foam, acrylic, glue)
+I designed the panels using Fusion-360. I used a [ESP8266](http://esp8266.net/) ( [Wemos D1 mini](https://docs.wemos.cc/en/latest/d1/index.html) ) to control the LEDS. The parts to make this project cost ~$300 CAD. (LEDs, controller, foam, acrylic, glue)
