@@ -33,6 +33,7 @@ Always allow for at lest 1 hour of testing before shipping a product.
 - You can only learn new skills when you have the freedom to try new stuff. 
 - You can read about anything but unless you actually do it, you will never know anything. Also practical work is better then just test jigs
 - Bad news easily is fixable, bad news late is a disasters
+- You may not need the tools to last a lifetime; you buy a cheap set first, and then replace the ones you actually use with the quality ones, for the reasons you explain. This prevents you from spending excess money on tools you don't use. "when you break a tool, replace it with one twice as expensive. When you lose a tool, replace it with one half as expensive."
 
 # DIY 
 
