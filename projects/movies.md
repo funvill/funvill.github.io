@@ -1,3 +1,9 @@
+---
+layout: project
+title: Movies and TV shjows
+excerpt: A brief personal review of some of the movies and TV shows that I have watched. 
+---
+
 A brief personal review of some of the movies that I have watched. 
 
 ## 2020
