@@ -102,6 +102,71 @@ Year of Coronavirus (COVID-19) pandemic, I spent a lot of time indoors watching 
 - The Umbrella Academy: Season 1 - While it was intersting, I just couldn't get into it. 
 - Russian Doll: Season 1 - (5/5) Amazing, Loved every part of this show. 
 
+## 2018
+
+### Movies 
+
+- **The Beach**
+- **The Hangover: Part II**
+- **First They Killed My Father**
+- **The Ballad of Buster Scruggs**
+- **The Secret Life of Pets**
+- **Coco**
+- **Cargo**
+- **How It Ends**
+- **The Outsider**
+- **TAU**
+- **Sicario**
+- **Hail, Caesar!**
+- **A Beautiful Mind**
+- **Minions**
+- **Land of the Lost**
+- **The Hitman’s Bodyguard**
+- **Anon**
+- **There Will Be Blood**
+- **Orbiter 9**
+- **The Titan**
+- **Game Over, Man!**
+- **68 Kill**
+- **Furious 7**
+- **Baywatch**
+- **Infinity Chamber**
+- **The Cloverfield Paradox**
+
+### TV 
+
+- **Happy!**
+- **BoJack Horseman: Season 5**
+- **The Haunting of Hill House**
+- **Ozark: Season 1**
+- **Ozark: Season 2**
+- **The Flash: Season 1**
+- **The Flash: Season 2**
+- **The Flash: Season 3**
+- **Love: Season 1**
+- **Love: Season 2**
+- **Love: Season 3**
+- **Queer Eye: Season 1**
+- **Queer Eye: Season 2**
+- **A Series of Unfortunate Events: Season 1**
+- **A Series of Unfortunate Events: Season 2**
+- **Lost in Space: Season 1**
+- **Lost in Space: Season 2**
+- **Santa Clarita Diet: Season 1**
+- **Santa Clarita Diet: Season 2**
+- **Bob's Burgers: Season 6**
+- **Bob's Burgers: Season 7**
+- **The Good Place: Season 1**
+- **The Good Place: Season 2**
+- **Disenchantment: Part 1**
+- **The 100: Season 5**
+- **Brooklyn Nine-Nine: Season 5**
+- **Unbreakable Kimmy Schmidt: Season 4**
+- **Wild Wild Country: Season 1**
+- **Limitless: Season 1**
+- **Altered Carbon: Season 1**
+- **The End of the F***ing World: Season 1**
+- **Dirk Gently's Holistic Detective Agency: Season - ****
 
 ## Older 
 
