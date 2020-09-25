@@ -26,7 +26,7 @@ Always allow for at lest 1 hour of testing before shipping a product.
 # Project management 
 
 - Code review every single line of code that is added to your codebase. By at lest one person 
-- Make your _business_ case, not a technical case - go solve peoples problems to save them money or time, Using the latest framework or language maybe interesting  but unless it makes it easier to solves the customers problems its not worth doing. [1](https://news.ycombinator.com/item?id=14366305)
+- Make your _business_ case, not a technical case - go solve peoples problems to save them money or time, Using the latest framework or language maybe interesting but unless it makes it easier to solves the customers problems its not worth doing. [1](https://news.ycombinator.com/item?id=14366305)
 
 # General 
 
@@ -38,3 +38,9 @@ Always allow for at lest 1 hour of testing before shipping a product.
 # DIY 
 
 - Always cut away from yourself. 
+
+# People 
+
+- **Being good at something doesn’t promise rewards.** It doesn’t even promise a compliment. What’s rewarded in the world is scarcity, so what matters is what you can do that other people are bad at. [Source](https://www.collaborativefund.com/blog/a-few-rules/)
+- **Don’t expect balance from very talented people.** People who are exceptionally good at one thing tend to be exceptionally bad at another, due to overconfidence and mental bandwidth taken up by the exceptional skill. Skills also have two sides: No one should be shocked when people who think about the world in unique ways you like also think about the world in unique ways you don’t like. [Source](https://www.collaborativefund.com/blog/a-few-rules/)
+- **It is way easier to spot other people’s mistakes than your own.** We judge others based solely on their actions, but when judging ourselves we have an internal dialogue that justifies our mistakes and bad decisions. [Source](https://www.collaborativefund.com/blog/a-few-rules/)
