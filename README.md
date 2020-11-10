@@ -1,1 +1,3 @@
-This repo is for the website [blog.abluestar.com](https://blog.abluestar.com), based on the [Minimal-Mistakes](https://github.com/mmistakes/minimal-mistakes) template for [Jekyll](http://jekyllrb.com)
+# blog.abluestar.com
+
+Source code for[blog.abluestar.com](https://blog.abluestar.com/) using [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
