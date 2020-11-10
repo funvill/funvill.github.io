@@ -1,19 +1,21 @@
 ---
-layout: project
-title: (2019) illuminated Stained Glass Tetragonal Trapezohedron
-excerpt: illuminated Stained Glass Tetragonal Trapezohedron sculpture 
+title: (2019) Illuminated Stained Glass Tetragonal Trapezohedron
+excerpt: Illuminated Stained Glass Tetragonal Trapezohedron sculpture 
+post_date: 2019-01-01 00:00:00
+header:
+  teaser: /public/uploads/tetragonalTrapezohedron.png
 ---
 
 <img src="/public/uploads/tetragonalTrapezohedron.png" alt="Tetragonal Trapezohedron"/>
 
-I made the illuminated stained glass [tetragonal trapezohedron](https://en.wikipedia.org/wiki/Tetragonal_trapezohedron) sculpture for [Vancouver Maker faire 2019](https://vancouver.makerfaire.com/) at [Science world](https://www.scienceworld.ca/). 
- 
-This sculpture is based on the same techniques used in the [illuminated stained glass window](https://blog.abluestar.com/projects/2018-stained-glass-window/) project. A back plane that is used to position the LEDs in the center of the pockets. A foam center was cut using a [Inventables X-Carve](https://www.inventables.com/technologies/x-carve). The foam separates the light from bleeding from one pocket/cell to another. An acrylic top plate was added as a diffuser. 
- 
-A series of 28 custom LED patterns are programmed into the sculpture. Each pattern can use a different color palette. There are 4,294,967,296 (2^32) combinations between the patterns and the pallets. By default a random pattern and pallet will be selected, run for 2 min then a new random pattern and pallet will be selected. 
- 
-I also created a phone app that allows users to select the patterns and pallets, then save the ones that they like the best to favorite menu. 
- 
+I made the illuminated stained glass [tetragonal trapezohedron](https://en.wikipedia.org/wiki/Tetragonal_trapezohedron) sculpture for [Vancouver Maker faire 2019](https://vancouver.makerfaire.com/) at [Science world](https://www.scienceworld.ca/).
+
+This sculpture is based on the same techniques used in the [illuminated stained glass window](https://blog.abluestar.com/projects/2018-stained-glass-window/) project. A back plane that is used to position the LEDs in the center of the pockets. A foam center was cut using a [Inventables X-Carve](https://www.inventables.com/technologies/x-carve). The foam separates the light from bleeding from one pocket/cell to another. An acrylic top plate was added as a diffuser.
+
+A series of 28 custom LED patterns are programmed into the sculpture. Each pattern can use a different color palette. There are 4,294,967,296 (2^32) combinations between the patterns and the pallets. By default a random pattern and pallet will be selected, run for 2 min then a new random pattern and pallet will be selected.
+
+I also created a phone app that allows users to select the patterns and pallets, then save the ones that they like the best to favorite menu.
+
 The sculpture stands about 40 inches high and 18 inches wide. I used a [ESP8266](http://esp8266.net/) ( [Wemos D1 mini](https://docs.wemos.cc/en/latest/d1/index.html) ) to control the LEDS. There are 224 LEDs. 28 LEDs on each kite face. I designed the panels using [Fusion-360](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists)
 
 All source code files, firmware, etc can be found here on my github repo [TetragonalDeltohedron](https://github.com/funvill/StainGlassLaserPatterns/tree/master/TetragonalDeltohedron)

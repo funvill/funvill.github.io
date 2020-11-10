@@ -1,17 +1,19 @@
 ---
-layout: project
 title: (2018) Stained Glass Windows
 excerpt: A series of hexagon stain glass windows 
+post_date: 2018-01-01 00:00:00
+header:
+  teaser: /public/uploads/teaser_2018_StainedGlassWindows.png
 ---
 
-A series of geometric, illuminated, digital stained glass windows. Each window is illuminated with dynamic, colorful, patterns that create unique animations in the glass. 
+A series of geometric, illuminated, digital stained glass windows. Each window is illuminated with dynamic, colorful, patterns that create unique animations in the glass.
 
 The lights of each window has been custom-programmed by an ever-evolving algorithm, producing unique patterns that guarantee a visual experience that is both singular, and profoundly logical, seeding the observer's mind and heart with a profound sense of wonder.
 
-* [Inspiration](/inspiration-stained-glass-windows-project/) 
-* [Tech Demo](/techdemo-stained-glass-windows-project/) 
+* [Inspiration](/inspiration-stained-glass-windows-project/)
+* [Tech Demo](/techdemo-stained-glass-windows-project/)
 * [Designing panels](/designing-panels-stained-glass-windows-project/)
-* [Hardware](/hardware-stained-glass-windows-project/) 
+* [Hardware](/hardware-stained-glass-windows-project/)
 * [Programing patterns](/programing-stained-glass-windows-project/)
 * [Wood frames](/wood-frames-stained-glass-windows-project/)
 * [Costs](/costs-stained-glass-windows-project/)

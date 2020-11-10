@@ -1,18 +1,17 @@
 ---
-layout: project
 title: (2016) Ball of life. 
 excerpt: A Wooden icosahedron with LEDs used for festivals as a marker 
+post_date: 2016-01-01 00:00:00
 ---
 
-This project was to create a marker that other people could use to find me in a crowd at a festivals. The ball its self is a 20 sided [icosahedron](https://en.wikipedia.org/wiki/Icosahedron) with the [flower of life pattern](https://en.wikipedia.org/wiki/Overlapping_circles_grid#Modern_usage) on each pannel. Each panel is illuminated with a series of addressable LEDs. The LEDs patterns and color change with the movement of the ball. 
+This project was to create a marker that other people could use to find me in a crowd at a festivals. The ball its self is a 20 sided [icosahedron](https://en.wikipedia.org/wiki/Icosahedron) with the [flower of life pattern](https://en.wikipedia.org/wiki/Overlapping_circles_grid#Modern_usage) on each pannel. Each panel is illuminated with a series of addressable LEDs. The LEDs patterns and color change with the movement of the ball.
 
 I created three versions of this each with slight changes. Made with laser cut wood, and WS2812 LEDs (NeoPixels), and a [circuit playground](https://www.adafruit.com/product/3000) from [Adafruit](https://www.adafruit.com/)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmxBTuAwrtUwvFR4YZpXM8wZJCxunDm2U6N63PJKssAun7mUb2IplTHi0VX-6SGJ6Yn2LYZNxKEB3Q/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-
-
 ## Change log
+
 - Version 1 - Very thin walls, the panels broke when I used zap straps to fasten them together. This version never left my house.  
 - Version 2 - Much thinker walls that made it easier to fasten it together. I drop this version on the ground at a festival and [it was stepped on and crushed](https://www.instagram.com/p/BHpuzaihABz/?taken-by=funvill).
 - Version 3 - This version was interactive. I used the [LIS3DH triple-axis accelerometer](https://www.adafruit.com/product/2809) in the [Circuit Playground](https://www.adafruit.com/product/3000) to control the hue, saturation and brightness of the LEDs. 

@@ -1,7 +1,7 @@
 ---
-layout: project
 title: (2017) LED Pillar
 excerpt: A game using a single strip of LEDs as a display. Made for Vancouver Mini Maker Faire 2017
+post_date: 2017-01-01 00:00:00
 ---
 
 The LED Pillar project is thought experiment of how to make a game with a single strip of LEDs as the display. After a few different iterations the final game resembles popular [Guitar Hero](https://en.wikipedia.org/wiki/Guitar_Hero) game from 2005 on a single LED strip. 

@@ -1,14 +1,16 @@
 ---
-layout: project
 title: (2019) Illuminated Stained Glass Sixteen Segment Display
 excerpt: Illuminated Stained Glass Sixteen Segment Display
+post_date: 2019-01-01 00:00:00
+header:
+  teaser: /public/uploads/foam-16-segments.png
 ---
 
 <img src="/public/uploads/foam-16-segments.png" alt="foam-16-segments"/>
 
-I have always been fascinated by segmented displays. Maybe it that I came from a time that most display on microwaves, stoves, clocks were all segmented display. It reminds me of a simpler time. 
+I have always been fascinated by segmented displays. Maybe it that I came from a time that most display on microwaves, stoves, clocks were all segmented display. It reminds me of a simpler time.
 
-There are several different types of segmented displays. Each with a different amount of segments 7, 9, 14, 16 or a different organization of the segments. 
+There are several different types of segmented displays. Each with a different amount of segments 7, 9, 14, 16 or a different organization of the segments.
 
 <img src="/public/uploads/1024px-Common_segment_displays.svg.png" alt="segment_displays"/>
 
@@ -22,13 +24,13 @@ My first version I made, I used paper divers to separate the different segments
 
 The results were not great. It also took a lot of time to make the paper folded segments. The cost of the white and black sandwiched acrylic was prohibited. It would have been a daunting task to make more than a few of these. I ended up shelving this idea for a few months.   
 
-After I built the [illuminated Stained Glass Tetragonal Trapezohedron](https://blog.abluestar.com/projects/2019-illuminated-stained-glass-tetragonal-trapezohedron/) using the new foam method. I decided to try and use this new method to make a series of sixteen segmented displays. 
+After I built the [illuminated Stained Glass Tetragonal Trapezohedron](https://blog.abluestar.com/projects/2019-illuminated-stained-glass-tetragonal-trapezohedron/) using the new foam method. I decided to try and use this new method to make a series of sixteen segmented displays.
 
 A foam center was cut using a [Inventables X-Carve](https://www.inventables.com/technologies/x-carve). The foam separates the light from bleeding from one pocket/cell to another. An acrylic top plate was added as a diffuser.
 
 <img src="/public/uploads/foam-16-segments.png" alt="foam-16-segments"/>
 
-Cheaper, and easier to make. I was able to make an 8 digit display, with scrolling text. I wrote some firmware to print tweets, show the time, and make colorful patterns. 
+Cheaper, and easier to make. I was able to make an 8 digit display, with scrolling text. I wrote some firmware to print tweets, show the time, and make colorful patterns.
 
 All source code files, firmware, etc can be found here on my github repo [segmented-display](https://github.com/funvill/segmented-display)
 

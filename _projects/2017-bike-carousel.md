@@ -1,7 +1,9 @@
 ---
-layout: project
 title: (2017) Fairmont Pacific Rim Bike Carousel
-excerpt: A custom electric bike carousel installed at the Fairmont Pacific Rim hotel downtown Vancouver. 
+excerpt: A custom electric bike carousel installed at the Fairmont Pacific Rim hotel downtown Vancouver.
+post_date: 2017-01-01 00:00:00 
+header:
+  teaser: /public/uploads/teaser_2017_FairmontPacificRimBikeCarousel.png
 ---
 
 The bike carousel, [Chapel Arts](http://www.chapelarts.com/) have designed for [Fairmont Pacific Rim](http://www.fairmont.com/pacific-rim-vancouver/) hotel, is one-of-a-kind, an endeavour they undertook together in the aim of elevating the storage of bikes into a form of art. The carousel fits perfectly beside the Fairmont Pacific Rim hotel’s entrance, spinning around above the pond outside the entrance, it is as functional as it is beautiful. Made of Mahogany plywood, the carousel was designed, fabricated in-house and installed by Chapel Arts at the Pacific Rim in August 2017, where it will store 18 custom electric BMW bicycles.
@@ -12,9 +14,9 @@ This project was sponsored by [Fairmont Pacific Rim](http://www.fairmont.com/pac
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSfAQlDwaPGL0XPGcZLLW5jpSQfVnvrHOe1xnP7N5wDRw3W1o9B5S2ofZeJcREbmiNgJ1MXSaxKEYm/embed?start=false&loop=true&delayms=7000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Steven was invited to work on the Fairmont Pacific Rim bike carousel project by Chapel Arts, to help with the lighting. 
+Steven was invited to work on the Fairmont Pacific Rim bike carousel project by Chapel Arts, to help with the lighting.
 
-The project consisted of 18 bike spokes, each with 4 meters of individually addressable LEDs, for a total of over 5000 LEDs. All the LEDs at full brightness consumed 90 Amps at 5 volts or 450 Watts. 
+The project consisted of 18 bike spokes, each with 4 meters of individually addressable LEDs, for a total of over 5000 LEDs. All the LEDs at full brightness consumed 90 Amps at 5 volts or 450 Watts.
 
 The choice to use the [Teency 3.2](https://www.pjrc.com/store/teensy32.html) as the main LED controller was based on the amount of ram, the available GPIO pins and that the board has two available serial ports. The ~5000 LEDs required ~57k of ram to keep the color information in memory all the same time. Having all the color information in ram at the same time made programing the different patterns much easier. This excluded many other development boards. The Teency had 23 easly usedable GPIO pins that allowed us to connect each spoke to a separate GPIO pin. This made it quicker for the Teency to update all the LEDs faster. Two serial ports also came in handy as it allowed us to use one serial port for RS485 Modbus communications with main system PLC controller as well as a debug logging port. The [fastLED library](https://github.com/FastLED/FastLED) was used to create 14 different patterns that slowly rotate through on the bike carousel 
 
