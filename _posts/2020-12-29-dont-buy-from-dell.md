@@ -83,7 +83,7 @@ Agent (Mary_Joyce_Ulilang): "Sales team"
 Session Ended
 ```
 
-Contacted them again via phgone (No transcript) It takes up to 5 bussiness days for the Dell rewards to be refunded. By that time, the Black friday deal would be over, and they cannot "rain check" the deal for me while they figure out the Dell Rewards. Angry, but I still wanted the monitor, so I went thought with the new order, with the 10% coupon.
+Contacted them again via phone (No transcript) It takes up to 5 bussiness days for the Dell rewards to be refunded. By that time, the Black friday deal would be over, and they cannot "rain check" the deal for me while they figure out the Dell Rewards. Angry, but I still wanted the monitor, so I went thought with the new order, with the 10% coupon. (lost $27 of dell rewards)
 
 I orderd the new monitor on *Friday, November 27, 2020* for *$460.31* checking the shipping address before I ordered.
 
@@ -136,13 +136,13 @@ From this interaction "You will update the shipping address once the package arr
 Tue. Dec. 8, 2020 - 7:26 p.m. VANCOUVER, BC Shipment delivered to STEVEN at: GUARD of ⬛⬛⬛⬛⬛⬛
 ```
 
-Delivered to the wrong address, delivered to the billing address instead of the shipping address. Because of COVID the billing address is an empty warehouse with no one in it. There are no guards, and no reason anyone would be there. I do not know who could have recived the montor. The warehouse is a couple of hours away from my address.
+Delivered to the wrong address. Delivered to the billing address instead of the shipping address. Because of COVID the billing address is an empty warehouse with no one in it. There are no guards, and no reason anyone would be there. I do not know who could have recived the montor. The warehouse is a couple of hours away from my address.
 
-Call up Dell (no transcript). They cannot help me directly. They can send their shipper (pulator) back to the address to try and recover the monitor and return it to Dell if they cannot recover the montior it effectly my problem. Shit out of luck. Angry, Fuck you Dell.
+Call up Dell (no transcript). They cannot help me directly. They can send their shipper (purolator) back to the address to try and recover the monitor and return it to Dell if they cannot recover the montior it effectly my problem. Shit out of luck. Angry, Fuck you Dell.
 
-Mon. Dec. 14, 2020 a coworker has taken the 2-hour drive into the warehouse and found the monitor. It was recived by a neibouring business, I guess the shipper decided to deliver it there when he found our warehouse closed.
+Mon. Dec. 14, 2020 a coworker took the 2-hour drive into the warehouse and found the monitor. It was recived by a neighbouring business (purolator problem), I guess the shipper decided to deliver it there when he found our warehouse closed.
 
-Get a quote for shipping it from my coworker’s house or warehouse to my house (the shipping address), cost $140 for shipping. Call up dell (no transcript). My case has been passed to a specialist and he cannot help me. Wait on the specialist.
+I get a quote for shipping it from my coworker’s house or warehouse to my house (the shipping address), cost $140 for shipping. Call up dell (no transcript). My case has been passed to a specialist and he cannot help me. Wait on the specialist.
 
 7 days go by... In this time, I have walked the 20 mins down the road and purchsed a new monitor from Bestbuy for less then the monitor from Dell. Better in all ways, and it has instore return. I give the Dell monitor to my coworker. Dell specialist eventually does call me, and they can offer me nothing but the ability to pick up the moniotor from the warehouse where no one is and ship it back to Dell, to be shipped out again. Gawd knows how long that would take.
 
