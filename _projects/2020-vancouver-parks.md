@@ -14,13 +14,13 @@ When the [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) lock
 Some of my favorite parks:
 
 - [Deering Island Park](https://covapp.vancouver.ca/ParkFinder/parkdetail.aspx?inparkid=38) - The small park on Deering island, has a good bench with great views of the Fraser River. From this park, you can walk the Fraser river trail and see a bit of Vancouver's historic milling sites.
-- [Fraser River Park[](](https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=92)) - On this walk along the river boardwalk you will see dogs playing in the off-leash section and a fantastic view of airplanes landing at YVR. A great place for recording "slow TV".
+- [Fraser River Park](https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=92) - On this walk along the river boardwalk you will see dogs playing in the off-leash section and a fantastic view of airplanes landing at YVR. A great place for recording "slow TV".
 - [Queen Elizabeth Park](https://covapp.vancouver.ca/ParkFinder/ParkDetail.aspx?InParkId=167) - This gorgeous park is one of the most beautiful parks in the city. Filled with gardens, flowers, fountains, amazing views.
-- **New Park** - The european-style park just seems out of place in the city but is filled with wonderful garden beds, art, and a labyrinth.
+- [Shannon Mews Park](https://vancouver.ca/parks-recreation-culture/shannon-mews-park.aspx) (aka **New Park**) - The european-style park just seems out of place in the city but is filled with wonderful garden beds, art, and a labyrinth.
 - [Crab Park](https://covapp.vancouver.ca/ParkFinder/parkdetail.aspx?inparkid=28) - This park has a great view of the north shore, sea bus, Harbor air helicopters landing, all the boats in the Vancouver harbor and is a good place for a picnic.
 - [Marpole Midden](https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=124) - This seemingly ordinary park has a plain open field, but the history of this place was really interesting and well worth the visit. A [National Historic Site of Canada](https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=81)
-- [[Memorial South Park](](https://covapp.vancouver.ca/ParkFinder/ParkDetail.aspx?InParkId=186)) - Huge park, with lots of amenities, and all the sports fields. For me, the duck pond was the highlight as it had lots of wood ducks. A good place for a picnic.
-- [Habitat Island (aka beer island)](https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=241) - It doesnt seem like much of a park, more of a gravel dumping ground from the Olympics, but this park has tons of birds calling it home. Good spot for just sitting around and watching the birds.
+- [Memorial South Park]((https://covapp.vancouver.ca/ParkFinder/ParkDetail.aspx?InParkId=186) - Huge park, with lots of amenities, and all the sports fields. For me, the duck pond was the highlight as it had lots of wood ducks. A good place for a picnic.
+- [Habitat Island](https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=241) (aka **beer island**)- It doesnt seem like much of a park, more of a gravel dumping ground from the Olympics, but this park has tons of birds calling it home. Good spot for just sitting around and watching the birds.
 - [VanDusen Botanical Garden](https://covapp.vancouver.ca/ParkFinder/ParkDetail.aspx?InParkId=173) - Is a beautiful park worth visiting however it does cost money.
 - [Jonathan Rogers Park](https://covapp.vancouver.ca/ParkFinder/ParkDetail.aspx?InParkId=137) - This park has good views, and is a great place for a beer.
 
@@ -41,25 +41,47 @@ This was a great project for COVID-19 (2020). It allowed us to explore different
 
 ![Photos of parks in Vancouver page 18](/public/uploads/2020/2020-page18_930x.png "Photos of parks in Vancouver page 18")
 
+MacDonald Beach Park, Robson Park, Guelph Park, Sahalli Park, Lilian To Park, Thornton Park
+
 ![Photos of parks in Vancouver page 19](/public/uploads/2020/2020-page19_930x.png "Photos of parks in Vancouver page 19")
+
+Andy Livingstone Park, China Creek North Park, Pine street community gardens, Riley Park Community Garden, Ted and Mary Gric Rhododendron Garden, [Bloedel Conservatory](https://vancouver.ca/parks-recreation-culture/bloedel-conservatory.aspx)
 
 ![Photos of parks in Vancouver page 20](/public/uploads/2020/2020-page20_930x.png "Photos of parks in Vancouver page 20")
 
+Charleson Park, second beach, Trillium Park, MacLean Park, Grandville loop park
+
 ![Photos of parks in Vancouver page 21](/public/uploads/2020/2020-page21_930x.png "Photos of parks in Vancouver page 21")
+
+Seaforth Peace Park, Choklit Park, Nat Bailey Stadium, Riley park, Strathcona Linear Park, Charleson Park, Hilcrest park, Downtown Skateboard Park
 
 ![Photos of parks in Vancouver page 22](/public/uploads/2020/2020-page22_930x.png "Photos of parks in Vancouver page 22")
 
+Stanley Park, 
+
 ![Photos of parks in Vancouver page 23](/public/uploads/2020/2020-page23_930x.png "Photos of parks in Vancouver page 23")
+
+Stanley Park, 
 
 ![Photos of parks in Vancouver page 24](/public/uploads/2020/2020-page24_930x.png "Photos of parks in Vancouver page 24")
 
+ Coopers' Park, Jean Beaty Park, Point Grey Road Park, Victoria Park, McSpadden Park, Kerrisdale Arena, Garden Park
+
 ![Photos of parks in Vancouver page 25](/public/uploads/2020/2020-page25_930x.png "Photos of parks in Vancouver page 25")
+
+Rupert Park, Dusty Greenwell Park, New Brighton Park, Charles Park, New Brighton pool, Garden Park, Templeton Park, Burrard View Park
 
 ![Photos of parks in Vancouver page 26](/public/uploads/2020/2020-page26_930x.png "Photos of parks in Vancouver page 26")
 
+Ron Basford Park, Vanier Park, 
+
 ![Photos of parks in Vancouver page 27](/public/uploads/2020/2020-page27_930x.png "Photos of parks in Vancouver page 27")
 
+Vanier Park, Locarno Beach Park, Tatlow Park, Jean Beaty Park, Volunteer Park, Cultural Harmony Grove, Margaret Pigott Park
+
 ![Photos of parks in Vancouver page 28](/public/uploads/2020/2020-page28_930x.png "Photos of parks in Vancouver page 28")
+
+Point gray road park, Spanish Banks West park, Hadden Park, Kitsilano Beach Park
 
 ![Photos of parks in Vancouver page 29](/public/uploads/2020/2020-page29_930x.png "Photos of parks in Vancouver page 29")
 
