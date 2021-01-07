@@ -11,6 +11,8 @@ When the [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) lock
 
 ![Map of all the parks in Vancouver](/public/uploads/2020/2020-VancouverParksMap.png "Map of all the parks in Vancouver")
 
+[map](https://www.google.com/maps/d/edit?mid=1N0yb4JCLJDdPRu4BCR7W86f9M5RGfTnC&usp=sharing)
+
 Some of my favorite parks:
 
 - [Deering Island Park](https://covapp.vancouver.ca/ParkFinder/parkdetail.aspx?inparkid=38) - The small park on Deering island, has a good bench with great views of the Fraser River. From this park, you can walk the Fraser river trail and see a bit of Vancouver's historic milling sites.
