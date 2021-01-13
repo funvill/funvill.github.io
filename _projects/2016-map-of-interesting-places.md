@@ -1,7 +1,9 @@
 ---
-title: (2016) Map of intersting places. 
-excerpt: A constantly updated map of interesting places from around the world. 
+title: (2016) Map of intersting places
+excerpt: A constantly updated map of interesting places from around the world
 post_date: 2016-01-01 00:00:00
+header:
+  teaser: /public/uploads/teaser_2016_map_of_interesting_places.png
 ---
 
 A map of intersting places around the world to vist.

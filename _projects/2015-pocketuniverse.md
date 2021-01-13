@@ -2,6 +2,8 @@
 title: (2015) Pocket Universe 
 excerpt: Mirroed dome
 post_date: 2015-01-01 00:00:00
+header:
+  teaser: /public/uploads/teaser_none.png
 ---
 
 This is the page for the pocket universe

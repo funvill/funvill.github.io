@@ -4,6 +4,8 @@ excerpt: Laser cut map of vancouver with GPS heat map of a years worth of travel
 categories: Art Projects Maps
 tags: Art maps Projects thread Vancouver yarn
 post_date: 2014-01-01 00:00:00
+header:
+  teaser: /public/uploads/teaser_none.png
 ---
 
 I have been collecting data about myself since the start of 2014 as part of the <a href="http://en.wikipedia.org/wiki/Quantified_Self">Quantified Self moment</a> . One of the data points that I have been collecting is my location. Over the year I have been collecting my location data with these three different applications.

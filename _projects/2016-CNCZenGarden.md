@@ -2,6 +2,8 @@
 title: (2016) CNC Zen Garden
 excerpt: A Zen garden controlled by a CNC XY platform.
 post_date: 2016-01-01 00:00:00
+header:
+  teaser: /public/uploads/teaser_2016_CNC_Zen_Garden.png
 ---
 
 

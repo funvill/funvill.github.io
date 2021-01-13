@@ -2,6 +2,9 @@
 title: (2017) Asics color changing cloud project.
 excerpt: A series of color changing clouds for Asics New York popup shop.
 post_date: 2017-01-01 00:00:00
+header:
+  teaser: /public/uploads/teaser_2017_asics_color_changing_cloud.png
+
 ---
 
 Working with [HFour Studios](http://hfour.ca/) Steven was asked to help create a series of color changing fluffy clouds that hang above the crowd of people a the New york [Asics](http://www.asics.com/us/en-us/) pop up shop August 2017.

@@ -2,6 +2,8 @@
 title: (2015) The 100 Day Project
 excerpt: A series of single day projects.
 post_date: 2015-01-01 00:00:00
+header:
+  teaser: /public/uploads/teaser_none.png
 ---
 
 ## The 100 Day Project - 2015
