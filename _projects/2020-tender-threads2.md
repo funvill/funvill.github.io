@@ -12,12 +12,12 @@ We shot this with two people, who were both the actors and crew. We chose not to
 
 It was a lot of fun doing a 48-hour short film. I like self-contained projects with deadlines that keep you focused on the goal. I hope to do more of these in the future.
 
-**[Tender Threads 2](https://www.youtube.com/watch?v=nVVAklIjCiE)** - *Horror comedy short film Tender Threads 2*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nVVAklIjCiE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**[Let's Do It! Tender Threads 2: Behind The Scenes](https://www.youtube.com/watch?v=aTa5xYgC17Y)** - *Behind then Scenes Video for our horror comedy short film Tender Threads 2, submitted to the My Rode Reel 2020 short film competition.*
+**[Tender Threads 2](https://www.youtube.com/watch?v=nVVAklIjCiE)** - *Horror comedy short film Tender Threads 2*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aTa5xYgC17Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**[Let's Do It! Tender Threads 2: Behind The Scenes](https://www.youtube.com/watch?v=aTa5xYgC17Y)** - *Behind then Scenes Video for our horror comedy short film Tender Threads 2, submitted to the My Rode Reel 2020 short film competition.*
 
+Below are some photos that we took during the filming.
 
 ![Tender Threads 2 gallery](/public/uploads/2020/2020-tender-threads-2-gallery.png "Tender Threads 2 gallery")
