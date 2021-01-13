@@ -3,7 +3,7 @@ title: (2016) Blinky the fox head mask
 excerpt: A low polygon fox head mask with an array of LEDS create patterns on the faces. 
 post_date: 2016-01-01 00:00:00
 header:
-  teaser: /public/uploads/teaser_none.png
+  teaser: /public/uploads/teaser_2016_blinky_fox_head_mask.png
 ---
 
 The design for the low polygon fox head mask came from [@wintercroft](https://www.instagram.com/wintercroft/) [Website](https://wintercroft.com/). I laser cut the mask out of [coroplast](https://en.wikipedia.org/wiki/Coroplast) and glued a soft backing on the inside. The inspiration to cover the face of the mask with LEDs came from [@Wow_elec_tron](https://www.instagram.com/wow_elec_tron/). He makes some of the most amazing LED masks that I have ever seen. His masks can be purchased from his [Etsy store ElecDashTron](https://www.etsy.com/au/shop/ElecDashTron).

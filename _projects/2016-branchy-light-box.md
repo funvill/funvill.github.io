@@ -3,7 +3,7 @@ title: (2016) Branchy light box
 excerpt: Laser cut silhouette of branches in a tree, illuminated with color changing LEDs
 post_date: 2016-01-01 00:00:00
 header:
-  teaser: /public/uploads/teaser_none.png
+  teaser: /public/uploads/teaser_2016_branchy_light_box.png
 ---
 
 Laser cut silhouette of branches in a tree, illuminated with color changing LEDs.
