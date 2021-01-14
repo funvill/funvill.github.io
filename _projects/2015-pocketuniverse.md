@@ -3,11 +3,10 @@ title: (2015) Pocket Universe
 excerpt: Mirroed dome
 post_date: 2015-01-01 00:00:00
 header:
-  teaser: /public/uploads/teaser_none.png
+  teaser: /public/uploads/teaser_2015_pocket_universe.png
 ---
 
 This is the page for the pocket universe
-ToDo
 
 **Physical Description:**
 
@@ -33,13 +32,13 @@ Triangle area: 15.6 ft
 Triangle height: 5.2 ft
 Floor area: 61.9 ft square
 
-**Requirements**
+## Requirements
 
 - 20x20 ft will be required to set up the dome, the dome itself only takes up around 16x16 ft of space.
 - Set up time is 90mins, take down time is 45-60min.
 - 110v AC (Approximately ~75 W) of power.
 
-**Budget**
+## Budget
 
 - $100 - [Dome construction kit](http://www.strombergschickens.com/prod_detail_list/Starplate-Dome-Kit). Count 1
 - $30 - [Lumber for structs on the dome](http://www.homedepot.ca/product/2x2x8-framing-lumber/954339) (2x2x8' @ 1.00 each). Count 30x
@@ -54,4 +53,7 @@ Floor area: 61.9 ft square
 - $120 - Mirrored acrylic (4x8x1/8 @ $60 each) Count: 2x
 - $120 - Lexan sheet (4x8x1/4 @ $60 each), Count 2x.
 - $30 - Miscellaneous, Zap Straps, garbage bags, scissors, tape, etc
-- 
+
+## Photos
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQi_T5s5c1nGdWKNjfIpvtiOOF2b0ifemIsD4FW82O4R8XMR9IerrEkok0evzLwJKHabghPkmszYnsS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
