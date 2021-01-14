@@ -111,3 +111,13 @@ header:
 - [Day 99 - VHS LED wall](/day-99-vhs-led-wall)
 - [Day 100 - ESP8266 IFTTT Button](/day-100-esp8266-ifttt-button)
 - [Original poste](https://talk.hackspace.ca/t/the100dayproject/1979?u=funvill)
+
+## Meetup
+
+After the 100 days of project I held a meetup where anyone else that partispated in this project got to show off their projects.
+
+![2015 Vancouver 100 day project meetup group photo](/public/uploads/2015/2015-100day-group-photo.jpg "2015 Vancouver 100 day project meetup group photo")
+
+## Photos
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSB9q1TpzYFBKpU18LYGmb0-u6JuV7Y9_H7NXPavoXmXcIDitTtH1gemGtZ1p2Ytih1ZkQwOg8GYjC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

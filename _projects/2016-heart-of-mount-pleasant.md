@@ -3,10 +3,10 @@ title: (2016) Heart of Mount Pleasant
 excerpt: Origami style hearts hanging from a tree in the Heart of Mount Pleasant.
 post_date: 2016-01-01 00:00:00
 header:
-  teaser: /public/uploads/teaser_none.png
+  teaser: /public/uploads/teaser_2016_heart_of_mount_pleasant.png
 ---
 
-..Never created..
+This project was bever created
 
 The "Heart of Mount Pleasant" project has been funded by the small neighbourhood grants.  
 
