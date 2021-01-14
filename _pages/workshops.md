@@ -1,6 +1,9 @@
 ---
+layout: "single"
 title: Workshops
-excerpt: A list of workshops that I have facilitated 
+date: '2018-12-10 00:01'
+permalink: /workshops
+excerpt: A list of workshops that I have facilitated
 ---
 
 A list of workshops that I have facilitated.
