@@ -23,7 +23,7 @@ Some of my favorite parks:
 - [Crab Park](https://covapp.vancouver.ca/ParkFinder/parkdetail.aspx?inparkid=28) - This park has a great view of the north shore, sea bus, Harbor air helicopters landing, all the boats in the Vancouver harbor and is a good place for a picnic.
 - [Marpole Midden](https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=124) - This seemingly ordinary park has a plain open field, but the history of this place was really interesting and well worth the visit. A [National Historic Site of Canada](https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=81)
 - [Memorial South Park](https://covapp.vancouver.ca/ParkFinder/ParkDetail.aspx?InParkId=186) - Huge park, with lots of amenities, and all the sports fields. For me, the duck pond was the highlight as it had lots of wood ducks. A good place for a picnic.
-- [Habitat Island](https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=241) (aka **beer island**)- It doesnt seem like much of a park, more of a gravel dumping ground from the Olympics, but this park has tons of birds calling it home. Good spot for just sitting around and watching the birds.
+- [Habitat Island](https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=241) (aka **Beer island**)- It doesnt seem like much of a park, more of a gravel dumping ground from the Olympics, but this park has tons of birds calling it home. Good spot for just sitting around and watching the birds.
 - [VanDusen Botanical Garden](https://covapp.vancouver.ca/ParkFinder/ParkDetail.aspx?InParkId=173) - Is a beautiful park worth visiting however it does cost money.
 - [Jonathan Rogers Park](https://covapp.vancouver.ca/ParkFinder/ParkDetail.aspx?InParkId=137) - This park has good views, and is a great place for a beer.
 
@@ -60,11 +60,11 @@ Seaforth Peace Park, Choklit Park, Nat Bailey Stadium, Riley park, Strathcona Li
 
 ![Photos of parks in Vancouver page 22](/public/uploads/2020/2020-page22_930x.png "Photos of parks in Vancouver page 22")
 
-Stanley Park, 
+Stanley Park,
 
 ![Photos of parks in Vancouver page 23](/public/uploads/2020/2020-page23_930x.png "Photos of parks in Vancouver page 23")
 
-Stanley Park, 
+Stanley Park,
 
 ![Photos of parks in Vancouver page 24](/public/uploads/2020/2020-page24_930x.png "Photos of parks in Vancouver page 24")
 
@@ -76,7 +76,7 @@ Rupert Park, Dusty Greenwell Park, New Brighton Park, Charles Park, New Brighton
 
 ![Photos of parks in Vancouver page 26](/public/uploads/2020/2020-page26_930x.png "Photos of parks in Vancouver page 26")
 
-Ron Basford Park, Vanier Park, 
+Ron Basford Park, Vanier Park,
 
 ![Photos of parks in Vancouver page 27](/public/uploads/2020/2020-page27_930x.png "Photos of parks in Vancouver page 27")
 
@@ -135,3 +135,8 @@ Deering Island Park, Guelph Park, Lilian To Park, China Creek North Park, Strath
 **Parks without signs:**
 
 Barclay Heritage Square , Komagata Maru Memorial, Arbutus Greenway Park , Harbour Green Park , Lord Roberts Field , King George Basketball Court , Portal Park , Cardero Park , Devonshire Park , Park Site on Trinity Street , Cambridge Park , Wall Street Community Garden , Oxford Park , Creekside Park, Bates Park , Portside View Park , Commissioner Park , Park Site at N Renfrew St , Harbour View Park , New Brighton Beach , Franklin Community Park , Hastings Community , Kaslo Park , Prince of Wales Park , Carolina Park, St. Lui Park , Ravine Park , Kerrisdale Centennial Park , Eburne Park, VGH Energy Centre Plaza, Granville Park, Pine Street Community Garden, Willow Park, Shaughnessy Park, Laurel Landbridge Park, Hinge Park, Jonathan Rogers Park, Robson Square, Prince Edward Park, Riverview Park, Arbutus Park, Tyee Elementary School, Mosaic Creek Park, Britannia Park, Salisbury Park, Templeton Park, Creekside Park, Point Grey Park Site at Trafalgar Street, Point Grey Park Site at Stephens Street, Acadia Beach, Jericho Hill Grounds, Trimble Park, Westmount Park, Foreshore Park, West Point Grey Park, Shannon Park, Montgomery Park, Memorial West Park, Chaldecott Park, Malkin Park, Valdez Park, Quadra West Park, VanDusen Botanical Garden, Park Site on Blenheim, Braemar Park, park on trafalgar street, FBL U-Hill, Pacific Spirit Regional Park, Ross Park, Brewers Park, Humm Park, Bobolink Park sign, Kinross Ravine Park, Neighbourhood Park South, Fraser Foreshore Trail, Iona Beach Regional Park, Old Hastings Mill Store Museum, Chess park, McDonald Beach Park, Cleveland Dam, Brunswick Point, Gibbys Field
+
+**Press:**
+
+- [Vancouver Is Awesome](https://www.vancouverisawesome.com/vancouver-news/local-couple-visits-over-250-vancouver-parks-in-adorable-photoblog-photos-3247223)
+- [Daily Hive](https://dailyhive.com/vancouver/couple-visits-250-parks-vancouver)
