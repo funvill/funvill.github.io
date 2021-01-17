@@ -140,3 +140,4 @@ Barclay Heritage Square , Komagata Maru Memorial, Arbutus Greenway Park , Harbou
 
 - [Vancouver Is Awesome](https://www.vancouverisawesome.com/vancouver-news/local-couple-visits-over-250-vancouver-parks-in-adorable-photoblog-photos-3247223)
 - [Daily Hive](https://dailyhive.com/vancouver/couple-visits-250-parks-vancouver)
+.
