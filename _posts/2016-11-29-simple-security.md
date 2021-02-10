@@ -21,13 +21,11 @@ For example: A different set of tools are used to defend against your little sib
 5. Foreign Governments (China, Russia, USA, etc...)
 6. (High) National Government (Country, [CSEC](https://www.cse-cst.gc.ca/en/homepage), [NSA](https://www.nsa.gov/), etc.. )
 
-
 It becomes very expensive and time-consuming to protect against your national government. As they can physically arrest you and put you in jail until you give them your passwords or use the wrench method.
 
 ![alt text](http://imgs.xkcd.com/comics/security.png "wrench method")
 
 [http://xkcd.com/538/](http://xkcd.com/538/)
-
 
 I personally try to defend against my local government, as well as do some of the easy stuff to defend against foreign governments.
 

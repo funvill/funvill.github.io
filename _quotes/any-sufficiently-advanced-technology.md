@@ -1,1 +1,0 @@
-**Any sufficiently advanced technology is equivalent to magic.** - Arthur C. Clarke

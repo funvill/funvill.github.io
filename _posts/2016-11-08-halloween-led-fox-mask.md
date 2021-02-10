@@ -13,6 +13,3 @@ For Halloween this year I combined a Fox Mask designed by [Winter Croft](https:/
 I have used this mask design in the past. For burning man [Flashy mask](https://www.instagram.com/p/7DKuccg5da/?taken-by=funvill). I also made a [giant mask](https://www.instagram.com/p/842YEXg5aG/?taken-by=funvill) for a friends band. Winter Croft makes some great masks.
 
 The mask is from [coroplast](https://en.wikipedia.org/wiki/Coroplast), uses a [WeMos D1 mini](https://www.wemos.cc/product/d1-mini.html) and [Adafruit Neopixel libary](https://github.com/adafruit/Adafruit_NeoPixel) for the animations. The [Source files](https://github.com/funvill/HalloweenMask) can be found on my [github](https://github.com/funvill).
-
-
-

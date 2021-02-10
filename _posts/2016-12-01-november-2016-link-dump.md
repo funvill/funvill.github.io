@@ -17,7 +17,6 @@ What has interested me in the month of November 2016
 - [ESP8266 + double H-Bridge](https://github.com/olliephillips/espruinoCar) RC car - Espruino code to control a remote control car, using ESP8266, double H-Bridge, Websocket server and client. Control itself is provided by iotUI.js which is based on riot.js and HTML device orientation API on iPhone.
 - [Sparky, a DIY electric boat](https://www.youtube.com/watch?v=M_ae5U1Y-2E&feature=youtu.be&a) - An eletric boat made out of coroplast.
 
-
 ## Books
 
 - [The Effective Engineer](https://www.amazon.ca/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) - First book in my works book club. It was a great refresher of good pratices.
@@ -55,7 +54,7 @@ What has interested me in the month of November 2016
 
 - [Bubble ceramics](http://www.hqpottery.com/) - Makes intersting patterns on ceramics with inky bubbles. This video [describes her proccess](https://www.youtube.com/watch?time_continue=44&v=00MjTzDycFo). [<i class="fab fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/hedyyang_/), [etsy](https://www.etsy.com/shop/HQpottery).
 - [Haute Circuits](https://www.boldport.com/blog/2015/11/25/haute-circuits) - PCB design as art. A join project between Eletroncis master [Boldport](https://www.boldport.com/) aka Saar Drimer, and accomplished still-life photographer [Mitch Feinberg](http://mitch.fr/)
-- [Makers of Japan’s Traditional Amezaiku Candy Art](https://thecreatorsproject.vice.com/blog/japanese-traditional-sugar-candy-lollipop-craftman-shinri-tezuka?utm_source=tcpfbus). 
+- [Makers of Japan’s Traditional Amezaiku Candy Art](https://thecreatorsproject.vice.com/blog/japanese-traditional-sugar-candy-lollipop-craftman-shinri-tezuka?utm_source=tcpfbus).
 
 ## Fun/Intersting
 
@@ -68,7 +67,6 @@ What has interested me in the month of November 2016
 - [Baby Iguana being chased by snakes](https://streamable.com/0z8g) - Possibly the greatest scene in documentary history. [Reddit](https://www.reddit.com/r/videos/comments/5bo4f4/baby_iguana_being_chased_by_snakes_possibly_the/)
 - [Web Bloat Score](http://www.webbloatscore.com/) - Calulates the web bloat score of a page.
 - [Ghost in the Shell Official Trailer 1 (2017) - Scarlett Johansson Movie](https://www.youtube.com/watch?v=G4VmJcZR0Yg&feature=youtu.be&a) - I have very fond memories of the [animaited version from 1995](http://www.imdb.com/title/tt0113568/).
-
 
 ![Flying hammock](https://i.imgur.com/AVmxAK1.gifv)
 

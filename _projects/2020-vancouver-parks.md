@@ -6,7 +6,7 @@ header:
   teaser: /public/uploads/2020/2020-parks-teaser.png
 ---
 
-When the [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) lockdown started in March of 2020, my office closed down and I started to Working From Home (WFH). My daily commute, walking to work, was the primary way I got exercise each day.  I rarely left the house for the first few weeks of COVID. The lack of daily exercise, the same four walls every day, and the general stress of COVID were causing me to be mildly depressed. 
+When the [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) lockdown started in March of 2020, my office closed down and I started to Working From Home (WFH). My daily commute, walking to work, was the primary way I got exercise each day.  I rarely left the house for the first few weeks of COVID. The lack of daily exercise, the same four walls every day, and the general stress of COVID were causing me to be mildly depressed.
 
 My partner suggested that we go to all the parks in Vancouver for exercise, a COVID-19 project, and to get to know all the different neighborhoods in Vancouver. A quick google showed that there were [~250 parks](https://vancouver.ca/parks-recreation-culture/parks-gardens-and-beaches.aspx). If we went to a couple a day, we could see them all before the end of the year. With lots of parks on bike paths, we could potentially see a dozen or so parks on a single ride. As a way of confirming we had been to a park, we decided to do a selfie in front of each of the park signs and post it to social media. It took us seven and a half months to completed this project. We visited our last park on December 19th, 2020.
 
@@ -140,4 +140,3 @@ Barclay Heritage Square , Komagata Maru Memorial, Arbutus Greenway Park , Harbou
 
 - [Vancouver Is Awesome](https://www.vancouverisawesome.com/vancouver-news/local-couple-visits-over-250-vancouver-parks-in-adorable-photoblog-photos-3247223)
 - [Daily Hive](https://dailyhive.com/vancouver/couple-visits-250-parks-vancouver)
-.

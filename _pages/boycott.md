@@ -1,3 +1,8 @@
+---
+title: "boycott"
+excerpt: People and companies that I am boycotting
+---
+
 # boycott
 
 A list of people/groups/companies that I personally do not want to work with if possiable.
