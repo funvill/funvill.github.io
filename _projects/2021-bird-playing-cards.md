@@ -1,0 +1,35 @@
+---
+title: (2021) Vancouver Bird playing cards
+excerpt: A deck of playing cards featuring photos of birds from around Vancouver 
+post_date: 2020-01-01 00:00:00
+header:
+  teaser: /public/uploads/2021/2021-bird-playing-cards-teaser.png
+---
+
+## Idea
+
+My partner purchased a [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.bhphotovideo.com/c/product/1082154-REG/sigma_150_600mm_f_5_6_3_dg_os.html) as a birthday Christmas gift to herself at the end of 2020. I have been borrowing it on my days off to take photos of birds. I have since become completely enamored with birdwatching. From Zero to full birder in just a few weeks.
+
+Birding speaks towards my trend towards "gotta catch them all" style projects. Similar to my [2020 Vancouver parks project](https://blog.abluestar.com/projects/2020-vancouver-parks/) where we visited all 420 parks in Vancouver and took a selfie in front o the sign.
+
+I was looking for a project to do with all the photos I had been shooting of the birds. Something I could show off to others and bigger than another photo book.
+
+I decided to make a deck of playing cards with photos of local Vancouver birds. The face of the card will have a photo of a bird, its name, and some information that can help people identify them in the wild. The goal is to make this deck of cards a pocket-size identification guide to help people identify the birds around them.
+
+I decided to order the birds in each suite by their wingspan. The larger the bird the higher the face value of the card. Anna's hummingbird with a wingspan of 12 cm is one of the smallest birds that would have a face value of 1 (Ace). While a Sandhill crane with a large wingspan of 201 cm would have a face value of 12 (Queen)
+
+I also wanted to organize the type of bird by their suites. Hearts for songbirds, Clubs for water birds, Diamonds for shoreline birds, and Spades for raptors and oddballs.
+
+There are approximately [200 different species of birds](https://www.inaturalist.org/observations?d1=2020-01-01&d2=2021-01-01&place_id=27530&subview=table&view=species&iconic_taxa=Aves) that are found in Vancouver. Some on their migration north or south and others that call Vancouver home year around. 75 of them are common while the rest are rarer to see. Plenty of birds species to make a deck of 52 cards +2 jokers
+
+The next step is to get good, print quality, photos of all the birds. I have been uploading photos of the birds to a project on [iNaturalist](https://www.inaturalist.org/projects/2021-vancouver-steven-and-lori-). It also has a running tally of the different species of birds I photographed so far. I have been posting the best photos on my Instagram feed ([@funvill](https://www.instagram.com/funvill/)). Follow me to keep up to date with this project.
+
+## Design
+
+## Bird photos
+
+## Printing and shipping
+
+## Feeback
+
+## post mortem
