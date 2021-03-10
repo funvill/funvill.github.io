@@ -1,7 +1,7 @@
 ---
 title: (2021) Vancouver Bird playing cards
 excerpt: A deck of playing cards featuring photos of birds from around Vancouver 
-post_date: 2020-01-01 00:00:00
+post_date: 2021-01-01 00:00:00
 header:
   teaser: /public/uploads/2021/2021-bird-playing-cards-teaser.png
 ---
@@ -16,15 +16,26 @@ I was looking for a project to do with all the photos I had been shooting of the
 
 I decided to make a deck of playing cards with photos of local Vancouver birds. The face of the card will have a photo of a bird, its name, and some information that can help people identify them in the wild. The goal is to make this deck of cards a pocket-size identification guide to help people identify the birds around them.
 
-I decided to order the birds in each suite by their wingspan. The larger the bird the higher the face value of the card. Anna's hummingbird with a wingspan of 12 cm is one of the smallest birds that would have a face value of 1 (Ace). While a Sandhill crane with a large wingspan of 201 cm would have a face value of 12 (Queen)
-
-I also wanted to organize the type of bird by their suites. Hearts for songbirds, Clubs for water birds, Diamonds for shoreline birds, and Spades for raptors and oddballs.
-
 There are approximately [200 different species of birds](https://www.inaturalist.org/observations?d1=2020-01-01&d2=2021-01-01&place_id=27530&subview=table&view=species&iconic_taxa=Aves) that are found in Vancouver. Some on their migration north or south and others that call Vancouver home year around. 75 of them are common while the rest are rarer to see. Plenty of birds species to make a deck of 52 cards +2 jokers
 
 The next step is to get good, print quality, photos of all the birds. I have been uploading photos of the birds to a project on [iNaturalist](https://www.inaturalist.org/projects/2021-vancouver-steven-and-lori-). It also has a running tally of the different species of birds I photographed so far. I have been posting the best photos on my Instagram feed ([@funvill](https://www.instagram.com/funvill/)). Follow me to keep up to date with this project.
 
 ## Design
+
+I decided to order the birds in each suite by their wingspan. The larger the bird the higher the face value of the card. Anna's hummingbird with a wingspan of 12 cm is one of the smallest birds that would have a face value of 1 (Ace). While a Sandhill crane with a large wingspan of 201 cm would have a face value of 12 (Queen)
+
+I also wanted to organize the type of bird by their suites.
+
+- **♥ Hearts** for songbirds: [Annas Hummingbirds](https://www.allaboutbirds.org/guide/Annas_Hummingbird), [Dark-eyed Junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco), [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee)
+- **♣ Clubs** for waterbirds: [Hooded Merganser](https://www.allaboutbirds.org/guide/Hooded_Merganser), [Wood Duck](https://www.allaboutbirds.org/guide/Wood_Duck), [Northern Shoveler](https://www.allaboutbirds.org/guide/Northern_Shoveler)
+- **♦ Diamonds** for shoreline birds: [Black Oystercatcher](https://www.allaboutbirds.org/guide/Black_Oystercatcher), [Pied-billed grebe](https://www.allaboutbirds.org/guide/Pied-billed_grebe), [Pelagic cormorant](https://www.allaboutbirds.org/guide/Pelagic_cormorant)
+- **♠ Spades** for raptors and oddballs: [Northern Harrier](https://www.allaboutbirds.org/guide/Northern_Harrier), [Great Blue Heron](https://www.allaboutbirds.org/guide/Great_Blue_Heron), [Cooper's Hawk](https://www.allaboutbirds.org/guide/Coopers_Hawk).
+
+Some birds tend to have several names depending on where you are. The [Canada jay](https://www.allaboutbirds.org/guide/Canada_jay), also known as the gray jay, grey jay, camp robber, or whisky jack. Using the Latin name (Perisoreus canadensis) helps reduce the confusion on what bird is what. But it's not useful to the average person. I decided to leave out the Latin name of the bird as it won't help with identifying the birds.
+
+[One-eyed royals](https://en.wikipedia.org/wiki/List_of_playing-card_nicknames#One-eyed_royals) is referring to Jack of Spades (J♠), Jack of Hearts (J♥), and King of Diamonds (K♦) that traditionally only have one eye visible. This tradition is used in some game rules. For example, it is common to play poker with "One-eyed jacks are wild".  I want to keep this tradition in the bird deck so I specifically choose photos for the Jacks that followed this rule.
+
+Traditionally the suite and the value of the card are shown in the top left and upside down in the bottom right of the cards. This allows the cards to be orientated in both directions. The duplication of the suite /value does take up more space on the card but I felt that it was a better design and worth the real-estate on the card.
 
 ## Bird photos
 
@@ -32,4 +43,4 @@ The next step is to get good, print quality, photos of all the birds. I have bee
 
 ## Feeback
 
-## post mortem
+## Post mortem
