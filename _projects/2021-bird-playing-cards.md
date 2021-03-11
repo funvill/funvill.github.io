@@ -37,6 +37,12 @@ Some birds tend to have several names depending on where you are. The [Canada ja
 
 Traditionally the suite and the value of the card are shown in the top left and upside down in the bottom right of the cards. This allows the cards to be orientated in both directions. The duplication of the suite /value does take up more space on the card but I felt that it was a better design and worth the real-estate on the card.
 
+### Layout
+
+I spent a lot of time trying out many different layouts of cards. I am no designer but I wanted to see what I could do before passing it off on to a professional.
+
+![Quick sketch of the design of the playing cards](/public/uploads/2021/playingcard-design-first.png "Quick sketch of the design of the playing cards")![Playing cards design 2](/public/uploads/2021/playingcard-design-2.png "Playing cards design 2")![Playing cards design 3](/public/uploads/2021/playingcard-design-3.png "Playing cards design 3")![Playing cards design 4](/public/uploads/2021/playingcard-design-4.png "Playing cards design 4")![Playing cards design 5](/public/uploads/2021/playingcard-design-5.png "Playing cards design 5")![Playing cards design 6](/public/uploads/2021/playingcard-design-6.png "Playing cards design 6")![Playing cards design 7](/public/uploads/2021/playingcard-design-7.png "Playing cards design 7")![Playing cards design 8](/public/uploads/2021/playingcard-design-8.png "Playing cards design 8")![Playing cards design 9](/public/uploads/2021/playingcard-design-9.png "Playing cards design 9")
+
 ## Bird photos
 
 ## Printing and shipping
