@@ -35,6 +35,8 @@ Some birds tend to have several names depending on where you are. The [Canada ja
 
 [One-eyed royals](https://en.wikipedia.org/wiki/List_of_playing-card_nicknames#One-eyed_royals) is referring to Jack of Spades (J♠), Jack of Hearts (J♥), and King of Diamonds (K♦) that traditionally only have one eye visible. This tradition is used in some game rules. For example, it is common to play poker with "One-eyed jacks are wild".  I want to keep this tradition in the bird deck so I specifically choose photos for the Jacks that followed this rule.
 
+![Example of one-eyed_royals](/public/uploads/2021/one-eyed_royals.jpg "Example of one-eyed_royals")
+
 Traditionally the suite and the value of the card are shown in the top left and upside down in the bottom right of the cards. This allows the cards to be orientated in both directions. The duplication of the suite /value does take up more space on the card but I felt that it was a better design and worth the real-estate on the card.
 
 ### Layout
