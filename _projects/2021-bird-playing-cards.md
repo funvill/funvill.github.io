@@ -20,6 +20,22 @@ There are approximately [200 different species of birds](https://www.inaturalist
 
 The next step is to get good, print quality, photos of all the birds. I have been uploading photos of the birds to a project on [iNaturalist](https://www.inaturalist.org/projects/2021-vancouver-steven-and-lori-). It also has a running tally of the different species of birds I photographed so far. I have been posting the best photos on my Instagram feed ([@funvill](https://www.instagram.com/funvill/)). Follow me to keep up to date with this project.
 
+## Photographing birds
+
+It took me 90 days (February - April) to collect 52 print-quality photos of different species for the deck of cards. During this time I took 17,190 photos, of 93 species, over 960 observations. That's approximately ~200 photos a day of ~10 different species.
+
+From the calendar, you can see that took most of my photos on the weekends when I visited bird sanctuary and other specific bird locations.
+
+![Calendar of bird photos](/public/uploads/2021/2021-birdPlayingCards-photo-calendar.png "Calendar of bird photos")
+
+This is a map of locations that took photos of birds. Most of the photos that I took were located in Mount pleasant in Vancouver near my house.
+
+![Map of bird photos](/public/uploads/2021/2021-birdPlayingCards-photo-map.png "Map of bird photos")
+
+My top ten most photographed birds: [Song Sparrow](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=9100), [American Crow](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=8021), [American Robin](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=12727), [Bald Eagle](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=5305), [Black-capped Chickadee](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=144815), [Northern Flicker](https://www.naturalist.org/observations?user_id=funvill&taxon_id=18236), [Anna's Hummingbird](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=6317), [House Finch](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=199840), [Mallard](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=6930), [Great Blue Heron](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=4956)
+
+This list not surprisingly matches up with [top bird species in Vancouver, observed on iNatural](https://www.inaturalist.org/observations?place_id=27530&quality_grade=research&subview=table&view=species&iconic_taxa=Aves)
+
 ## Design
 
 I decided to order the birds in each suite by their wingspan. The larger the bird the higher the face value of the card. Anna's hummingbird with a wingspan of 12 cm is one of the smallest birds that would have a face value of 1 (Ace). While a Sandhill crane with a large wingspan of 201 cm would have a face value of 12 (Queen)
@@ -104,8 +120,6 @@ I wanted the wingspan font to be smaller and different from the bird name font. 
 #### King
 
 I used a photo of a Varied Thrush for the king. The issue with this photo is that the background isn't blurred out or a solid color. This makes the bird look darker than it is. I need to find a better photo of this bird.
-
-## Bird photos
 
 ## Printing and shipping
 
