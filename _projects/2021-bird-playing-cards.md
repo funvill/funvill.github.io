@@ -45,6 +45,66 @@ I spent a lot of time trying out many different layouts of cards. I am no design
 
 ![Quick sketch of the design of the playing cards](/public/uploads/2021/playingcard-design-first.png "Quick sketch of the design of the playing cards")![Playing cards design 2](/public/uploads/2021/playingcard-design-2.png "Playing cards design 2")![Playing cards design 3](/public/uploads/2021/playingcard-design-3.png "Playing cards design 3")![Playing cards design 4](/public/uploads/2021/playingcard-design-4.png "Playing cards design 4")![Playing cards design 5](/public/uploads/2021/playingcard-design-5.png "Playing cards design 5")![Playing cards design 6](/public/uploads/2021/playingcard-design-6.png "Playing cards design 6")![Playing cards design 7](/public/uploads/2021/playingcard-design-7.png "Playing cards design 7")![Playing cards design 8](/public/uploads/2021/playingcard-design-8.png "Playing cards design 8")![Playing cards design 9](/public/uploads/2021/playingcard-design-9.png "Playing cards design 9")
 
+### Version 1
+
+This is the first version of the hearts suit. I wanted to get something on paper to be able to solicit feedback early from my peer group before making more iterations.
+
+![Version 1 layout of Hearts](/public/uploads/2021/2021-birdPlayingCards-v1_w900.png "Version 1 layout of Hearts")
+
+This is some of the feedback and issues I see with this version.
+
+#### Horizontal rotation of some birds and not others
+
+This was the main criticism of this design. I wasn't thinking of the orientation when I was taking photos of the birds. Some of my best photos are originated horizontal instead of vertical.
+
+Most waterbirds (ducks) are on the water are orientated horizontally. If I try to put them in a vertical photo the background will take up most of the space of the photo. The bird will look physically small.
+
+I am still trying to figure out what to do here.
+
+#### Size of the photo frame
+
+The frame for the photo is just the amount of space that was available on the card. I didn't give it much thought about the ratio of the photo frame. It's not 3x4 or the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio) or any other magic designer ratio.
+
+it feels too tall for the card and I might change the frame to be more traditional sized.
+
+#### Scaling of birds
+
+The scale of the birds in 3:hearts: Q:hearts: looks odd compared to the rest of the suit because the bird is so much bigger in the frame than the rest of the photos.
+
+I think this problem only really an issue when all the cards are laid out on a single sheet. When playing with the cards I don't think this will be an issue. Either way, in the next iteration I will try to get all the birds to take up the same amount of space in the frame as possible.
+
+#### Additional information
+
+In this version, I removed the Latin name, diet, and other information about the bird from the cards. I did this to reduce the noise from the card but it sounds like many people liked the extra context.
+
+#### Wingspan and bird size
+
+The only information besides the bird name on the cards is the wingspan range. I left this information on the card to give some context to the order that I arranged the cards. Smallest to largest wingspan in a suite.
+
+It was suggested that I should either remove this or show iconography for the size of the bird instead. Maybe even include a banana for scale. Very small, Small, Banana size, Large, Larger, Very large
+
+#### Jokers
+
+It was suggested that the jokers with fictional birds or extinct birds.
+
+The theme of these cards is photos of birds that I took while in Vancouver. Fictional birds or extinct birds are much harder to take photos of.
+
+The plan is to use photos of me and my partner with common birds on our heads. I have a photo of a red-wing blackbird on my head for the red joker and a chickadee on my partner's head for the black joker.
+
+#### 10
+
+The only double-digit number in the set. While I like the font the extra space that the 10 takes up edges dangerously close to the "Safe area" where it could be cut off during manufacturing.
+
+I think this is one of though things where I need to get a proof printed to see what it looks like before I make the large order.
+
+#### Wingspan font
+
+I wanted the wingspan font to be smaller and different from the bird name font. I don't like how gray it turned out when looking at the print preview. I think I need to try out a few different iterations.
+
+#### King
+
+I used a photo of a Varied Thrush for the king. The issue with this photo is that the background isn't blurred out or a solid color. This makes the bird look darker than it is. I need to find a better photo of this bird.
+
 ## Bird photos
 
 ## Printing and shipping
