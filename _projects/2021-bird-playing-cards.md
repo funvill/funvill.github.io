@@ -22,19 +22,52 @@ The next step is to get good, print quality, photos of all the birds. I have bee
 
 ## Photographing birds
 
-It took me 90 days (February - April) to collect 52 print-quality photos of different species for the deck of cards. During this time I took 17,190 photos, of 93 species, over 960 observations. That's approximately ~200 photos a day of ~10 different species.
+It took me 76 days (February - April) to collect 52 print-quality photos of different species for the deck of cards. During this time I took 17,190 photos, of 93 species, over 960 observations. That's approximately ~220 photos a day of ~12 different species.
 
 From the calendar, you can see that took most of my photos on the weekends when I visited bird sanctuary and other specific bird locations.
 
 ![Calendar of bird photos](/public/uploads/2021/2021-birdPlayingCards-photo-calendar.png "Calendar of bird photos")
 
-This is a map of locations that took photos of birds. Most of the photos that I took were located in Mount pleasant in Vancouver near my house.
+This is a map of locations that took photos of birds. Most of the photos that I took were located in Mount pleasant in Vancouver near my house and bird sanctuary.
+
+- [Maplewood Flats](https://www.vancouvertrails.com/trails/maplewood-flats/)
+- [Colony Farm Regional Park](http://www.metrovancouver.org/services/parks/parks-greenways-reserves/colony-farm-regional-park)
+- [Deas Island Regional Park](http://www.metrovancouver.org/services/parks/parks-greenways-reserves/deas-island-regional-park)
+- [West Dyke Trail](https://www.richmond.ca/parks/trails/trails-map/westdyke.htm)
+- [Iona Beach Regional Park](http://www.metrovancouver.org/services/parks/parks-greenways-reserves/iona-beach-regional-park)
+- [Reifel Migratory Bird Sanctuary](https://www.reifelbirdsanctuary.com/)
+- [Richmond Nature Park](https://www.richmond.ca/parks/parks/naturepark/about.htm)
+- [Burnaby Lake](https://www.vancouvertrails.com/trails/burnaby-lake/)
 
 ![Map of bird photos](/public/uploads/2021/2021-birdPlayingCards-photo-map.png "Map of bird photos")
 
 My top ten most photographed birds: [Song Sparrow](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=9100), [American Crow](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=8021), [American Robin](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=12727), [Bald Eagle](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=5305), [Black-capped Chickadee](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=144815), [Northern Flicker](https://www.naturalist.org/observations?user_id=funvill&taxon_id=18236), [Anna's Hummingbird](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=6317), [House Finch](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=199840), [Mallard](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=6930), [Great Blue Heron](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=4956)
 
 This list not surprisingly matches up with [top bird species in Vancouver, observed on iNatural](https://www.inaturalist.org/observations?place_id=27530&quality_grade=research&subview=table&view=species&iconic_taxa=Aves)
+
+Most of my best photos can be found on my instagram page.
+
+- [Red-naped Sapsucker, and a Red-breasted Sapsucker](https://www.instagram.com/p/CNOK5xssXJh/)
+- [Lots of 'red headed' house finch](https://www.instagram.com/p/CM8zz4WsZmz/) down at the river district
+- [Bakers dozen or downy woodpecker](https://www.instagram.com/p/CM0wTrHMPdk/) at south arm park
+- [White-winged crossbill](https://www.instagram.com/p/CMeCIV9M1rE/)
+- [Birds staring me down](https://www.instagram.com/p/CML4gXcMALh/)
+- [My first trip to Rifel bird sanctuary](https://www.instagram.com/p/CMJcBBYMRG_/). We got 35 species including Sand hill cranes, dozens of herons, Northern shovelers, red wing black birds, American coots, and white faced goose,among many others
+- [Downy woodpecker](https://www.instagram.com/p/CMFc3jbBjnt/)
+- [Golden crowned Kinglet](https://www.instagram.com/p/CL8ewIFhDkx/). He is searching for insect eggs in the moss on a tree
+- [Cooper's hawk, Northern harrier, red tailed Hawk](https://www.instagram.com/p/CL57e5yBpgG/), house finch, and a bunch of northern Flicker
+- [Playing with crows](https://www.instagram.com/p/CLvsLU1hQar/)
+- [Smooth backgrounds](https://www.instagram.com/p/CLs68ITB2Zd/)
+- [Great blue heron in flight](https://www.instagram.com/p/CLnsK_5hx5d/) jumping between rocks
+- [Cloudy rainy day at Fraser River Park](https://www.instagram.com/p/CLne5F0BZnR/), got a few good shots of birds playing in the rain
+- Snowy day at [Maplewood flats conservation area](https://www.instagram.com/p/CLYCz61hGN9/). Found a Cooper's hawk, dozens of friendly spotted towhee, and a few hungry birds
+- [Northern Flicker](https://www.instagram.com/p/CLOMlz_BWaa/) sticking his tongue out and eating some bugs
+- [Hooded Merganser](https://www.instagram.com/p/CLGs7gdBKcT/) flying away with a fish.
+- [Juvenile baled eagles](https://www.instagram.com/p/CLEJZMhhKBU/) learning to hunt ducks at crescent Beach
+- [Northern Flicker](https://www.instagram.com/p/CK3CJpLh9Tg/), American Robin, hooded Merganser, Barrow's Goldeneye
+- [Pelagic Cormorants](https://www.instagram.com/p/CK2_K9EhCP_/) catching a fish and a crab
+- [American Robin's and American wigeon](https://www.instagram.com/p/CKu5sKThUTX/)
+- [Belted kingfishers](https://www.instagram.com/p/CKakMBtsPZl/), Eagles, blue herons, hooded merganser, American dipper, bufflehead
 
 ## Design
 
@@ -85,7 +118,7 @@ it feels too tall for the card and I might change the frame to be more tradition
 
 #### Scaling of birds
 
-The scale of the birds in 3:hearts: Q:hearts: looks odd compared to the rest of the suit because the bird is so much bigger in the frame than the rest of the photos.
+The scale of the birds in 3♥, Q♥ looks odd compared to the rest of the suit because the bird is so much bigger in the frame than the rest of the photos.
 
 I think this problem only really an issue when all the cards are laid out on a single sheet. When playing with the cards I don't think this will be an issue. Either way, in the next iteration I will try to get all the birds to take up the same amount of space in the frame as possible.
 
@@ -117,7 +150,7 @@ I think this is one of though things where I need to get a proof printed to see 
 
 I wanted the wingspan font to be smaller and different from the bird name font. I don't like how gray it turned out when looking at the print preview. I think I need to try out a few different iterations.
 
-#### King
+#### ♥ King
 
 I used a photo of a Varied Thrush for the king. The issue with this photo is that the background isn't blurred out or a solid color. This makes the bird look darker than it is. I need to find a better photo of this bird.
 
