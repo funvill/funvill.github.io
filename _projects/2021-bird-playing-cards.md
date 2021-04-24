@@ -167,7 +167,7 @@ I have printed this version out and found a few issues that I will need to fix i
 
 #### Alignment of the Suite, Rank, Bird Name Text
 
-<img align="left" src="/public/uploads/2021/2021-birdPlayingCards-v2_Alignment-issue.png" alt="Alignment of the Suite, Rank, Bird Name Text"> The suite and rank were designed in a single font object, but the font that I selected wasn’t fixed width and the rank are sometimes oddly shaped. When I aligned the suite and rank it caused the suite to sometimes be slightly (10px) off center.
+<img style='float: left; margin: 0px 15px 15px 0px;' src="/public/uploads/2021/2021-birdPlayingCards-v2_Alignment-issue.png" alt="Alignment of the Suite, Rank, Bird Name Text"> The suite and rank were designed in a single font object, but the font that I selected wasn’t fixed width and the rank are sometimes oddly shaped. When I aligned the suite and rank it caused the suite to sometimes be slightly (10px) off center.
 
 I aligned the bird name text off the first card that I designed “A♥” then updated the text on all the other cards without realigning the text. Because of the odd shape of the “A” on the first card it caused some weird issues on all the other cards making the font look off center.
 
