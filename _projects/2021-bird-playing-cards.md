@@ -4,6 +4,7 @@ excerpt: A deck of playing cards featuring photos of birds from around Vancouver
 post_date: 2021-01-01 00:00:00
 header:
   teaser: /public/uploads/2021/2021-bird-playing-cards-teaser.png
+toc: true
 ---
 
 ## Idea
@@ -153,6 +154,16 @@ I wanted the wingspan font to be smaller and different from the bird name font. 
 #### ♥ King
 
 I used a photo of a Varied Thrush for the king. The issue with this photo is that the background isn't blurred out or a solid color. This makes the bird look darker than it is. I need to find a better photo of this bird.
+
+### Version 2
+
+After reviewing the advice I got form Version 1, I added all the bird photos to the latest design.
+
+A few of the photos I took were unusable in a vertical orientation and I had to remove them. I am hoping to find these birds again and take new photos. Missing birds are in yellow.
+
+I have printed this version out and found a few issues that I will need to fix in the next version.
+
+![Version 2 layout](/public/uploads/2021/2021-birdPlayingCards-v2_w900.png "Version 2 layout")
 
 ## Printing and shipping
 
