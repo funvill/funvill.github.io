@@ -1,73 +1,66 @@
 ---
 layout: "single"
 title: Current tools and equipment
-date: '2018-12-10 00:01'
+date: '2021-05-17 00:01'
 permalink: /tools
 ---
 
-Everyday I use a series of tools and equipment that make my life easier. These tool change and morph each year. This is my list of recommended tools and equipment.
+Everyday I use a series of tools that make my life easier. These tool change and morph each year. This is my list of recommended tools and equipment.
 
-Previous snapshots of my tools and equipment lists can be found here: [2016](https://blog.abluestar.com/tools-2016)
+Previous snapshots of my tools and equipment lists can be found here: [2018](/tools-2018), [2016](/tools-2016)
 
 Inspired by [UsesThis.com](https://usesthis.com/) - A collection of interviews asking people from all walks of life, what they use to get the job done.
 
 # Who are you, and what do you do?
 
-My name is *Steven Smethurst* and live two lives. During the day I am a software engineer at [Chipkin Automation Systems](http://store.chipkin.com/) and at night I am a maker, hacker and artist.
+My name is *Steven Smethurst* and live two lives. During the day I am a CTO at [Chipkin Automation Systems](http://store.chipkin.com/) and at night I am a maker, hacker and artist.
 
-# What has changed since 2016
+# What has changed since 2018
 
-- I use [linux subsystem for windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (aka Ubuntu bash on Windows) every single day. I don't know how I got a long with out it before. Its amazing.
-- I started using [Spotify](https://www.spotify.com/ca-en/) instead of [Google play music](https://play.google.com/music/listen?u=0#) primarly because *google play music* does not support [family plans](https://www.spotify.com/ca-en/family/) with [Google apps for doamins](https://support.google.com/a/answer/53926?hl=en) aka GSuite. I like the social aspect of Spotify, and that other device logged into your account can act as a remote (next song, volumn, sort playlist, etc..).
-- I stopped using the [Arduino IDE](https://www.arduino.cc/en/main/software) entirely in favor of [PlatformIO](https://platformio.org/). The dependency manager in *PlatformIO* is a killer feature that has made my project much more portable. 
-- I quit [Chrome](https://www.google.com/chrome/) for [FireFox](https://www.mozilla.org/en-CA/firefox/). The thing that made me start searching for an alternative to *Chrome* was that they started to restrict adblocking software. (1) [Google Struggles to Justify Why It's Restricting Ad Blockers in Chrome](https://www.vice.com/en_ca/article/evy53j/google-struggles-to-justify-making-chrome-ad-blockers-worse), (2) [Manifest V3](https://docs.google.com/document/d/1nPu6Wy4LWR66EFLeYInl3NzzhHzc-qnk4w4PX-0XMw8/edit#heading=h.5ottncv8stov) (3) [Chrome extension manifest v3 proposal #338](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-496009417). After switching I got use to *FireFox* pretty quickly. The privacy and anti tracking features were a nice bounus. The only feature that I miss is [Google ChromeCast](https://store.google.com/product/chromecast) button in my browser. It was convenient to share my browser window with my chrome cast, now I juse use remote desktop (RDP).
-- I went from a [Galaxy S6 Edge](http://www.samsung.com/ca/consumer/mobile-devices/smartphones/galaxy-s/SM-G925WZKABMC) to a [Samsung S8](https://www.samsung.com/global/galaxy/galaxy-s8/) and I will never use a Samsung phone again. The hardware was great exactly what I look for in a device, but Samsung [Bloatware](https://en.wikipedia.org/wiki/Software_bloat) was unbearable. Over 40 apps that you can't uninstall is ridiculous. It seems like every other month some new bloatware is forced on my by a software patch.
+A global pandemic ([COVID-19](https://en.wikipedia.org/wiki/COVID-19)) closed my work office and I started working primarily work from home. The pandemic changes the way I work, how I spend my free time and the hobbies that I choose to do.
+
+I have stopped using [Slack](https://slack.com/intl/en-ca/), [Google Hangouts](https://hangouts.google.com/), [Skype](https://www.skype.com/en/), and a few other messaging services for [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software). MSTeams has its rough edges but it works well for work collaboration and video calls. Since most of my friends are forced to have an MSTeams account because of their work everyone is already on the service.
+
+I stopped using [FireFox](https://www.mozilla.org/en-CA/firefox/) for [Internet Explorer Edge](https://www.microsoft.com/en-us/edge). FireFox just had too many issues loading certain webpages made it frustrating to work with. The missing integration with Chromecast was also annoying. I didn't want to use Google Chrome, because of the same reasons that I had in [2018](/tools-2018). Internet Explorer Edge uses the same engine as Google Chrome with a Microsoft skin. It works well enough.
+
+The [AutoDesk Fusion 360 hobbyist license change](https://hackaday.com/2020/09/16/autodesk-announces-major-changes-to-fusion-360-personal-use-license-terms/) didn't come as much of a surprise. Because of COVID-19 and my lack of access to a workshop, I stopped using my CNC router, laser cutter, and 3D printer so I haven't needed F360 in the last two years. I have not bothered to find a replacement and instead, I do projects that don't require any CAD work.
+
+Drop [Lastpass](https://www.lastpass.com/) for [BitWarden](https://bitwarden.com/). Lastpass got bought by [LogMeIn](https://www.logmein.com/) and [changed their free model](https://support.logmeininc.com/lastpass/help/what-can-i-expect-to-change-for-lastpass-free-on-march-16-2021) making it a lot less useful. While I was a paid customer for LastPass and was unaffected by this change. I also was recommending password databases to a lot of people over the years. When these people couldn't use the free version anymore they came to me looking for an alternative. After researching alternatives I ended up switching to BitWarden. It does everything Lastpass does with a slightly worse but workable interface. Lastpass lost a paid customer and a champion for their product.
+
+I cracked my touch screen for my [Microsoft Surface pro 3](https://en.wikipedia.org/wiki/Surface_Pro_3). It was my primary laptop but with work from home (WFH) I just have not needed a laptop in the last two years so I have not gotten around to replacing it.
+
+My partner purchased a [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.bhphotovideo.com/c/product/1082154-REG/sigma_150_600mm_f_5_6_3_dg_os.html) as a birthday Christmas gift to herself at the end of 2020. I started borrowing the lens on my days off to take photos of birds. I have since become completely enamored with birdwatching. From Zero to full birder in just a few weeks. I purchased a [Sony a6400](https://www.sony.ca/en/electronics/interchangeable-lens-cameras/ilce-6400) camera body to go with the lense. Taking this lens out birding gave me a much-needed excuse to leave the house during COVID. I created a [deck of bird playing cards](/projects/2021-bird-playing-cards) with the photos that I have been shooting.
+
+I picked up [Affinity Photo](https://affinity.serif.com/en-us/photo/) to edit photos from the camera and lens, and [Affinity Designer](https://affinity.serif.com/en-us/designer/) for layout work for the [deck of bird playing cards](/projects/2021-bird-playing-cards) project. Both are great tools with fantastic learning resources.
+
+I got 34inch+ ultra-wide monitors that I was wishing for in 2018 and I didn't like them at all. I ended up switched back to 3x 27inch monitors that I much prefer. It's easier to position the three separate monitors in the orientation that I want rather than one very large curved monitor.
+
+I use [Calendly](https://calendly.com/) to schedule meetings with customers.
 
 # What software do you use?
 
-## IDE and Text Editor
-
-- [Visual Studio Code](https://code.visualstudio.com/) - A Extensible and customizable text editor. I tend to use this text editor more then I use Visual studio's these days. Its Free, and extensible.
-- [Visual Studio 2019](https://www.visualstudio.com/vs/community/) - A fully-featured, extensible IDE and compiler for CSharp, C/C++, etc...
-- [PlatformIO](https://platformio.org/) - Cross-platform IDE and unified debugger built into Visual Studio Code. I use this tool to program ESP8266/ESP32/Arduino/Teensy/SAMD11/etc..
-
-## Development tools
-
-- [GitLab](https://about.gitlab.com/) - A alternative to github. git repo, issue tracker, CI, etc..
+- [Visual Studio Code](https://code.visualstudio.com/) - A Extensible and customizable text editor. I tend to use this text editor more than I use Visual studio's these days. It's Free and extensible.
+- [Visual Studio](https://www.visualstudio.com/vs/community/) - A fully-featured, extensible IDE and compiler for CSharp, C/C++, etc...
+- I use [linux subsystem for windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (aka Ubuntu bash on Windows) every single day. 
+- [GitLab](https://about.gitlab.com/) - A alternative to Github. git repo, issue tracker, CI, etc...
 - [GitKraken](https://www.gitkraken.com/) - A Git client. NOT free for commercial use.
 - [Beyond Compare 4](http://www.scootersoftware.com/) - A file/folder comparison tool.
 - [Wireshark](https://www.wireshark.org/) - A widely-used network protocol analyzer. I use this every single day.
-
-## CAD
-
-- [Autodesk fusion 360](http://www.autodesk.com/products/fusion-360/overview) - A modern CAD application. Effectively an unlimited trial.
-
-## Communication
-
-- [Google Docs Suite](https://gsuite.google.com/) - GMail, Drive, Calendar, etc...
-- [Skype](https://www.skype.com/en/) - There are a lot of problems with Skype but its still the clearest VOIP tool that I have found.
-- [Signal Private Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) - Private secure, end to end communications. My prefered form of communication.
+- [Signal Private Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) - Private secure, end to end communications. My preferred form of communication.
 - [Github pages + Jekyll](https://github.com/funvill/funvill.github.io) - Main blogging platform.
-
-## Media
-
 - [Spotify](https://www.spotify.com/ca-en/) - My main source for music.
 - [Netflix](https://www.netflix.com/ca/) - TV and movies.
-
-## Other/boring
-
-- [Lastpass](https://lastpass.com/) - A password database.
-- [FireFox](https://www.mozilla.org/en-CA/firefox/new/) - Privacy is more importain to me these days.
-- [Bitlocker](https://en.wikipedia.org/wiki/BitLocker) - Full disk encryption.
+- [BitWarden](https://bitwarden.com/) for passwords, and [Authy](https://authy.com/) for 2FA
 
 # What hardware do you use?
 
-- [Microsoft surface pro 3](https://www.microsoft.com/surface/en-ca/devices/surface-pro-3) - This is my primary mobile computer. i7, 8gb RAM, 512GB storage.
-- [Logitech MX Master](http://www.logitech.com/en-ca/product/mx-master) - Best mouse I have ever had. Wireless, adaptive scroll wheel auto-shifts from click-to-click to hyper-fast scroll.
-- [Maker's Notebook](http://www.makershed.com/products/makers-notebook-hard-bound) - When I do make paper notes, this is my goto book. Grid paper with, useful reference material.
-- [Sony WH-H900N](https://www.sony.ca/en/electronics/headband-headphones/wh-h900n) - Wireless Bluetooth noise canceling headphones. One of the best noise canceling headphones I have ever owned. The have a *"reduce wind filter"* that is amazing. The touch controls are a nice feature as well.
-- [Pixel 3](https://store.google.com/ca/product/pixel_3) - Android phone. Google's flagship phone. Its wonderful.
+- [Logitech MX Master](http://www.logitech.com/en-ca/product/mx-master) - Best mouse I have ever had. Wireless, adaptive scroll wheel auto-shift from click-to-click to hyper-fast scroll.
+- [Pixel 3](https://store.google.com/ca/product/pixel_3) - Android phone. It's old now but it suits my needs and I have not had a reason to upgrade.
+- [Dell 27 USB-C Ultrathin Monitor: S2719DC](https://www.dell.com/en-ca/shop/dell-27-usb-c-ultrathin-monitor-s2719dc/apd/210-aqpv/monitors-monitor-accessories) and [Dell UltraSharp 27 4K](https://www.dell.com/en-ca/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - Do not recommend see this post [Do not buy from Dell])(/dont-buy-from-dell/).
+- [Logitech G610 Orion](https://www.tomsguide.com/us/logitech-g610-orion,review-3506.html) - A great mechanical keyboard with media keys and volume dial. I got into the keyboard crazy a few years ago and got a bunch of strange-looking keyboards but I always came back to this one. It great and just works.
 
 # What would be your dream setup?
 
-I would upgrade my monitor setup to a 34"+ ultra wide monitor such as [Acer XR342CK Pbmiiqphuzx](https://wclink.co/link/29241/151265/4/83270?merchant=Amazon). Finnely I would love to get my hands on a futurisitc, not currently avalaible, augmented reality (AR) glasses that supported super human vision.
+With working from home my office took over the entire living room of my 540 Square Feet (50 Square Meters) apartment. I have to box up a lot of my project and living room to fit my office. My dream setup would live in a larger place with a separate room for my office, preferably surrounded by art and house plants.
+
+I think a [Every Day Calendar](https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar) would help me keep up with my good habits. I tried to make a few versions but nothing compares to the real version.
