@@ -2,7 +2,7 @@
 layout: single
 title: ESP8266 Tips
 date: '2017-02-12 00:01'
-categories: uncategorized
+categories: Uncategorized
 ---
 
 Last updated: 2017 Feb 12th 

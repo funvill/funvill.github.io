@@ -2,7 +2,7 @@
 layout: single
 title: 3D printing in vancouver
 date: '2017-02-13 00:01'
-categories: uncategorized
+categories: Uncategorized
 toc: true
 ---
 

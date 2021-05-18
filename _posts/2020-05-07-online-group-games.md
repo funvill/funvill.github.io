@@ -2,7 +2,7 @@
 layout: single
 title: Online group games 
 date: '2020-05-07 00:01'
-categories: games
+categories: Games
 tags: games boardgames 
 ---
 

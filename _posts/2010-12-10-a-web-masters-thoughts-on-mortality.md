@@ -2,7 +2,7 @@
 layout: single
 title: A web masters thoughts on mortality
 date: 2010-12-10 11:33
-categories: uncategorized
+categories: Uncategorized
 ---
 As much as I believe that I am a <a href="http://en.wikipedia.org/wiki/God_complex">god</a> at programing and all things to do with the microchip, eventually I am going to die. I know it sounds <a href="http://www.merriam-webster.com/dictionary/ridiculous">ridiculous</a> but its going to happen. I just have to accept the fact that I am <a href="http://en.wikipedia.org/wiki/Mortality">mortal</a> and plan for the future.
 

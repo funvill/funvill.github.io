@@ -2,7 +2,7 @@
 layout: single
 title: Defeat your Google twin
 date: 2007-06-22 16:03
-categories: uncategorized
+categories: Uncategorized
 ---
 A <strong>"Google twin"</strong> is a person <a href="http://www.google.ca/search?q=steven+smethurst">who shares your name</a>, and whose information returns results on Google when you <a href="http://en.wikipedia.org/wiki/Egosurfing" title="Egosurfing">egosurf</a>. They may or may not be currently ranked higher than you.
 

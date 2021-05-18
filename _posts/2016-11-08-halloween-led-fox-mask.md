@@ -2,7 +2,7 @@
 layout: single
 title: Halloween LED Fox Mask
 date: '2016-11-08 00:01'
-categories: uncategorized
+categories: Uncategorized
 ---
 
 For Halloween this year I combined a Fox Mask designed by [Winter Croft](https://wintercroft.com/) ([Instagram](https://www.instagram.com/wintercroft/)) and the LED mapping technique from [wow_elec_tron](https://www.instagram.com/wow_elec_tron/) ( [Etsy](https://www.etsy.com/au/shop/ElecDashTron) ).

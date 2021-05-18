@@ -5,4 +5,4 @@ permalink: /blog/
 author_profile: true
 ---
 
-List of blog posts
+List of blog posts by [category](/categories), by [tags](/tags)

@@ -2,7 +2,7 @@
 layout: single
 title: Vancouver Maker Faire 2017 
 date: '2017-09-13 00:01'
-categories: uncategorized
+categories: Uncategorized
 ---
 
 This year for the vancouver maker faire I decided to show off some my LED and lighting projects that I had created over the past few years. I also created a special project just for Vancouver Maker Faire the LED Pillar.

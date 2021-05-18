@@ -2,7 +2,7 @@
 layout: single
 title: How I buy bitcoins and Ethereum
 date: '2017-11-28 00:01'
-categories: uncategorized
+categories: Uncategorized
 ---
 
 A few months ago I started to play around with Crypto-Currency such as [Bitcoin](https://www.bitcoin.com/) and [Ethereum](https://www.ethereum.org/). Mostly to understand the [blockchain technology](https://en.wikipedia.org/wiki/Blockchain) and because of [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out) (Fear of missing out) on the price increase. Today 1 BTC == $10,000 USD. Over the last four weeks my investment/gambling has increased 110%. As the price keeps climbing up I been getting excited about it and telling people. One of the most common questions I get is how to buy Bitcoin and Ethereum. 

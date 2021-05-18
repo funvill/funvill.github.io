@@ -51,7 +51,7 @@ Year of Coronavirus (COVID-19) pandemic, I spent a lot of time indoors watching 
 
 ## 2019
 
-### Movies 
+### Movies
 
 - **Dunkirk (2017)** - (5/5) Epic, war movie. [IMDb](https://www.imdb.com/title/tt5013056/)
 - **John Wick Chapter 3 Parabellum (2019)** - (5/5) [IMDb](https://www.imdb.com/title/tt10855692/)

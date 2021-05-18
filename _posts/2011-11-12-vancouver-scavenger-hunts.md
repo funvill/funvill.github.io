@@ -2,7 +2,7 @@
 layout: single
 title: Vancouver Scavenger Hunts
 date: 2011-11-12 15:50
-categories: uncategorized Vancouver
+categories: Uncategorized Vancouver
 ---
 I have mentioned <a href="/parks-scavenger-hunt/">vancouver scavenger hunts</a> before but it was mainly for Vancouver's parks and I wanted one that is more geared towards Vancouver its self. I tried searching Google and yahoo but failed to find anything worth while so I created my own list.
 

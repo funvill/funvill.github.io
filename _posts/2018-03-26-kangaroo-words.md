@@ -2,7 +2,7 @@
 layout: single
 title: Kangaroo words
 date: '2018-03-26 00:01'
-categories: uncategorized
+categories: Uncategorized
 ---
 
 Recently I saw two great art projects by [@whisbe](https://www.instagram.com/whisbe/). Where a sign that has a phrase written on it. The phrase's meaning changes when certain letters or words are added or removed. 
