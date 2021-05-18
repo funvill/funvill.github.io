@@ -5,7 +5,7 @@ date: '2021-05-17 00:01'
 permalink: /tools
 ---
 
-Everyday I use a series of tools that make my life easier. These tool change and morph each year. This is my list of recommended tools and equipment.
+Everyday I use a series of tools that make my life easier. These tool change and morph each year. This is my most up-to-date list of recommended tools and equipment.
 
 Previous snapshots of my tools and equipment lists can be found here: [2018](/tools-2018), [2016](/tools-2016)
 
@@ -13,15 +13,15 @@ Inspired by [UsesThis.com](https://usesthis.com/) - A collection of interviews a
 
 # Who are you, and what do you do?
 
-My name is *Steven Smethurst* and live two lives. During the day I am a CTO at [Chipkin Automation Systems](http://store.chipkin.com/) and at night I am a maker, hacker and artist.
+My name is [*Steven Smethurst*](/about) and live two lives. During the day I am a CTO at [Chipkin Automation Systems](http://store.chipkin.com/) and at night I am a maker, hacker and artist.
 
 # What has changed since 2018
 
-A global pandemic ([COVID-19](https://en.wikipedia.org/wiki/COVID-19)) closed my work office and I started working primarily work from home. The pandemic changes the way I work, how I spend my free time and the hobbies that I choose to do.
+A global pandemic ([COVID-19](https://en.wikipedia.org/wiki/COVID-19)) closed my work office and I started working permanently from home (WFM). The pandemic changes the way I work, how I spend my free time and the hobbies that I choose to do.
 
-I have stopped using [Slack](https://slack.com/intl/en-ca/), [Google Hangouts](https://hangouts.google.com/), [Skype](https://www.skype.com/en/), and a few other messaging services for [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software). MSTeams has its rough edges but it works well for work collaboration and video calls. Since most of my friends are forced to have an MSTeams account because of their work everyone is already on the service.
+I have stopped using [Slack](https://slack.com/intl/en-ca/), [Google Hangouts](https://hangouts.google.com/), [Skype](https://www.skype.com/en/), and a few other messaging services for [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software). MSTeams has its rough edges but it works well for work collaboration and video calls. Since most of my friends are forced to use MSTeams for, everyone is already on the service creating a [network effect](https://en.wikipedia.org/wiki/Network_effect).
 
-I stopped using [FireFox](https://www.mozilla.org/en-CA/firefox/) for [Internet Explorer Edge](https://www.microsoft.com/en-us/edge). FireFox just had too many issues loading certain webpages made it frustrating to work with. The missing integration with Chromecast was also annoying. I didn't want to use Google Chrome, because of the same reasons that I had in [2018](/tools-2018). Internet Explorer Edge uses the same engine as Google Chrome with a Microsoft skin. It works well enough.
+I stopped using [FireFox](https://www.mozilla.org/en-CA/firefox/) for [Internet Explorer Edge](https://www.microsoft.com/en-us/edge). FireFox just had too many issues loading certain webpages made it frustrating to work with. The missing integration with Chromecast was also annoying. I didn't want to use Google Chrome, because of the reasons I mentioned in [2018](/tools-2018). Internet Explorer Edge uses the same engine as Google Chrome with a Microsoft skin. It works well enough.
 
 The [AutoDesk Fusion 360 hobbyist license change](https://hackaday.com/2020/09/16/autodesk-announces-major-changes-to-fusion-360-personal-use-license-terms/) didn't come as much of a surprise. Because of COVID-19 and my lack of access to a workshop, I stopped using my CNC router, laser cutter, and 3D printer so I haven't needed F360 in the last two years. I have not bothered to find a replacement and instead, I do projects that don't require any CAD work.
 
@@ -33,7 +33,7 @@ My partner purchased a [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](htt
 
 I picked up [Affinity Photo](https://affinity.serif.com/en-us/photo/) to edit photos from the camera and lens, and [Affinity Designer](https://affinity.serif.com/en-us/designer/) for layout work for the [deck of bird playing cards](/projects/2021-bird-playing-cards) project. Both are great tools with fantastic learning resources.
 
-I got 34inch+ ultra-wide monitors that I was wishing for in 2018 and I didn't like them at all. I ended up switched back to 3x 27inch monitors that I much prefer. It's easier to position the three separate monitors in the orientation that I want rather than one very large curved monitor.
+I got 34inch+ ultra-wide monitors that I was wishing for in 2018 and I didn't like it at all. I ended up switched back to three 27inch monitors that I much prefer. It's easier to position the three separate monitors in the orientation that I want rather than one very large curved monitor.
 
 I use [Calendly](https://calendly.com/) to schedule meetings with customers.
 
@@ -55,11 +55,11 @@ I use [Calendly](https://calendly.com/) to schedule meetings with customers.
 
 - [Logitech MX Master](http://www.logitech.com/en-ca/product/mx-master) - Best mouse I have ever had. Wireless, adaptive scroll wheel auto-shift from click-to-click to hyper-fast scroll.
 - [Pixel 3](https://store.google.com/ca/product/pixel_3) - Android phone. It's old now but it suits my needs and I have not had a reason to upgrade.
-- [Dell 27 USB-C Ultrathin Monitor: S2719DC](https://www.dell.com/en-ca/shop/dell-27-usb-c-ultrathin-monitor-s2719dc/apd/210-aqpv/monitors-monitor-accessories) and [Dell UltraSharp 27 4K](https://www.dell.com/en-ca/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - Do not recommend see this post [Do not buy from Dell](/dont-buy-from-dell/).
+- [Dell 27 USB-C Ultrathin Monitor: S2719DC](https://www.dell.com/en-ca/shop/dell-27-usb-c-ultrathin-monitor-s2719dc/apd/210-aqpv/monitors-monitor-accessories) and [Dell UltraSharp 27 4K](https://www.dell.com/en-ca/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - Do not recommend. See this post [Do not buy from Dell](/dont-buy-from-dell).
 - [Logitech G610 Orion](https://www.tomsguide.com/us/logitech-g610-orion,review-3506.html) - A great mechanical keyboard with media keys and volume dial. I got into the keyboard crazy a few years ago and got a bunch of strange-looking keyboards but I always came back to this one. It great and just works.
 
 # What would be your dream setup?
 
-With working from home my office took over the entire living room of my 540 Square Feet (50 Square Meters) apartment. I have to box up a lot of my project and living room to fit my office. My dream setup would live in a larger place with a separate room for my office, preferably surrounded by art and house plants.
+With working from home my office took over the entire living room of my 540 Square Feet (50 Square Meters) apartment. I have to box up a lot of my project and living room furniture to fit my office. My dream setup would live in a larger place with a separate room for my office, preferably surrounded by art and house plants.
 
 I think a [Every Day Calendar](https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar) would help me keep up with my good habits. I tried to make a few versions but nothing compares to the real version.
