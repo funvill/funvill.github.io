@@ -69,6 +69,7 @@ google_site_verification : "0zKuGt2hC1SFUVt9rmmeDHiUnoN3rVnfOvrc5gUsO7k"
 bing_site_verification   : "7FC72B4F92E9B0B16A5E0E714E4E3497"
 yandex_site_verification :
 naver_site_verification  :
+page_excerpts            : true # https://jekyllrb.com/docs/pages/#excerpts-for-pages
 
 # Social Sharing
 twitter:
