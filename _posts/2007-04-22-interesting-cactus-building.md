@@ -2,7 +2,7 @@
 layout: single
 title: Interesting cactus building
 date: 2007-04-22 09:00
-categories: uncategorized
+categories: Uncategorized
 ---
 <strong>The urban cactus building</strong>
 Found via <a href="http://www.boingboing.net/2006/11/30/cactus_building.html">boingboing.net,</a> Who found it on <a href="http://www.boingboing.net/2006/11/30/cactus_building.html"></a><a href="http://archidose.blogspot.com/2006/10/half-dose-30-urban-cactus.html">archidose.blogspot.com</a>

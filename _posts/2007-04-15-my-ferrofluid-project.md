@@ -2,7 +2,7 @@
 layout: single
 title: My Ferrofluid Project 
 date: 2007-04-15 09:00
-categories: uncategorized Projects
+categories: Uncategorized Projects
 ---
 A few months ago I found a Youtube video of <a href="http://www.kodama.hc.uec.ac.jp/protrudeflow/">Sachiko Kodama</a> <a href="http://en.wikipedia.org/wiki/Ferrofluid">ferrofluid</a> sculpture. There are more then a few of them  running around on you tube just <a href="http://www.youtube.com/results?search_query=Ferrofluid">search for Ferrofluid</a>. There is also the <a href="/snoil-a-physical-display-based-on-ferrofluid/">snake oil project </a>that I posted earlier.
 

@@ -2,7 +2,7 @@
 layout: single
 title: Status update May 12, 2011
 date: 2011-05-12 12:48
-categories: uncategorized News
+categories: Uncategorized News
 ---
 I have been busy the last few weeks as projects ramp up and we get closer to Maker Faire and the weather gets nicer around Vancouver. Its getting harder to makes these status updates as I would rather be making something or going outside and enjoying the sunshine and now Appa (A black kitty) won't let me use my laptop without jumping up on my lap.
 <ul>

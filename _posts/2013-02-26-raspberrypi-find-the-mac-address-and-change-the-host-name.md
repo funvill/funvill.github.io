@@ -2,7 +2,7 @@
 layout: single
 title: RaspberryPI - Find the MAC address and change the host name
 date: 2013-02-26 16:19
-categories: programing RaspberryPI snippet VHS
+categories: programing RaspberryPI snippet
 ---
 <a href="/public/uploads/2013/02/Raspi-PGB001.png"><img class="size-thumbnail wp-image-3183 alignright" alt="Raspi-PGB001" src="/public/uploads/2013/02/Raspi-PGB001-150x150.png" width="150" height="150" /></a>We have been running Raspbberry PI nights at VHS the last few weeks and they have been going really well.
 <ul>

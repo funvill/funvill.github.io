@@ -2,7 +2,7 @@
 layout: single
 title: Mushroom growing kit and automation
 date: '2016-11-07 00:01'
-categories: uncategorized
+categories: Uncategorized
 ---
 In the middle of Oct, I attended a talk by [Paul Stamets](http://www.fungi.com/about-paul-stamets.html) about Mushroom Mycelium & The Worldwide Food Web. Specifically about how Bees and Mycelium are linked and his research into different uses of mushroom mycelium. Paul Stamets also did a convincing TED talk [Paul Stamets: 6 ways mushrooms can save the world](https://www.ted.com/talks/paul_stamets_on_6_ways_mushrooms_can_save_the_world?language=en) in 2008. He wrote several books including [The Mushroom Cultivator: A Practical Guide to Growing Mushrooms at Home](https://www.amazon.ca/Mushroom-Cultivator-Practical-Growing-Mushrooms/dp/0961079800). A leader in Mushroom/Mycelium/fungi. Paul Stamets talk convinced me to take a closer look into mushroom cultivation.
 

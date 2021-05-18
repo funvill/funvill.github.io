@@ -2,7 +2,7 @@
 layout: single
 title: How to be distracted
 date: 2011-10-31 14:48
-categories: uncategorized Rants
+categories: Uncategorized Rants
 ---
 I work up at the crack of noon today determined to-do three things, buy a shaver, Clear my inbox, and write a new post on my blog.
 

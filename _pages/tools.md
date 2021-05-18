@@ -29,7 +29,7 @@ Drop [Lastpass](https://www.lastpass.com/) for [BitWarden](https://bitwarden.com
 
 I cracked my touch screen for my [Microsoft Surface pro 3](https://en.wikipedia.org/wiki/Surface_Pro_3). It was my primary laptop but with work from home (WFH) I just have not needed a laptop in the last two years so I have not gotten around to replacing it.
 
-My partner purchased a [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.bhphotovideo.com/c/product/1082154-REG/sigma_150_600mm_f_5_6_3_dg_os.html) as a birthday Christmas gift to herself at the end of 2020. I started borrowing the lens on my days off to take photos of birds. I have since become completely enamored with birdwatching. From Zero to full birder in just a few weeks. I purchased a [Sony a6400](https://www.sony.ca/en/electronics/interchangeable-lens-cameras/ilce-6400) camera body to go with the lense. Taking this lens out birding gave me a much-needed excuse to leave the house during COVID. I created a [deck of bird playing cards](/projects/2021-bird-playing-cards) with the photos that I have been shooting.
+My partner purchased a [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.bhphotovideo.com/c/product/1082154-REG/sigma_150_600mm_f_5_6_3_dg_os.html) as a birthday Christmas gift to herself at the end of 2020. I started borrowing the lens on my days off to take photos of birds. I have since become completely enamored with birdwatching. From Zero to full birder in just a few weeks. I purchased a [Sony a6400](https://www.sony.ca/en/electronics/interchangeable-lens-cameras/ilce-6400) camera body to go with the lense. Taking this lens out birding gave me a much-needed excuse to leave the house during COVID. I created a [deck of bird playing cards](/projects/2021-bird-playing-cards) with the photos that I have been shooting. I been uploading my photos to [INaturalist](https://www.inaturalist.org/people/funvill).
 
 I picked up [Affinity Photo](https://affinity.serif.com/en-us/photo/) to edit photos from the camera and lens, and [Affinity Designer](https://affinity.serif.com/en-us/designer/) for layout work for the [deck of bird playing cards](/projects/2021-bird-playing-cards) project. Both are great tools with fantastic learning resources.
 
@@ -41,22 +41,21 @@ I use [Calendly](https://calendly.com/) to schedule meetings with customers.
 
 - [Visual Studio Code](https://code.visualstudio.com/) - A Extensible and customizable text editor. I tend to use this text editor more than I use Visual studio's these days. It's Free and extensible.
 - [Visual Studio](https://www.visualstudio.com/vs/community/) - A fully-featured, extensible IDE and compiler for CSharp, C/C++, etc...
-- I use [linux subsystem for windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (aka Ubuntu bash on Windows) every single day. 
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) - Linux subsystem for windows (AKA Ubuntu bash on Windows). I user this every single day.
 - [GitLab](https://about.gitlab.com/) - A alternative to Github. git repo, issue tracker, CI, etc...
-- [GitKraken](https://www.gitkraken.com/) - A Git client. NOT free for commercial use.
+- [GitKraken](https://www.gitkraken.com/) - A Git client. Paid app.
 - [Beyond Compare 4](http://www.scootersoftware.com/) - A file/folder comparison tool.
 - [Wireshark](https://www.wireshark.org/) - A widely-used network protocol analyzer. I use this every single day.
 - [Signal Private Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) - Private secure, end to end communications. My preferred form of communication.
 - [Github pages + Jekyll](https://github.com/funvill/funvill.github.io) - Main blogging platform.
-- [Spotify](https://www.spotify.com/ca-en/) - My main source for music.
-- [Netflix](https://www.netflix.com/ca/) - TV and movies.
+- [Spotify](https://www.spotify.com/ca-en/) for music, and [Netflix](https://www.netflix.com/ca/) for TV and movies.
 - [BitWarden](https://bitwarden.com/) for passwords, and [Authy](https://authy.com/) for 2FA
 
 # What hardware do you use?
 
 - [Logitech MX Master](http://www.logitech.com/en-ca/product/mx-master) - Best mouse I have ever had. Wireless, adaptive scroll wheel auto-shift from click-to-click to hyper-fast scroll.
 - [Pixel 3](https://store.google.com/ca/product/pixel_3) - Android phone. It's old now but it suits my needs and I have not had a reason to upgrade.
-- [Dell 27 USB-C Ultrathin Monitor: S2719DC](https://www.dell.com/en-ca/shop/dell-27-usb-c-ultrathin-monitor-s2719dc/apd/210-aqpv/monitors-monitor-accessories) and [Dell UltraSharp 27 4K](https://www.dell.com/en-ca/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - Do not recommend see this post [Do not buy from Dell])(/dont-buy-from-dell/).
+- [Dell 27 USB-C Ultrathin Monitor: S2719DC](https://www.dell.com/en-ca/shop/dell-27-usb-c-ultrathin-monitor-s2719dc/apd/210-aqpv/monitors-monitor-accessories) and [Dell UltraSharp 27 4K](https://www.dell.com/en-ca/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - Do not recommend see this post [Do not buy from Dell](/dont-buy-from-dell/).
 - [Logitech G610 Orion](https://www.tomsguide.com/us/logitech-g610-orion,review-3506.html) - A great mechanical keyboard with media keys and volume dial. I got into the keyboard crazy a few years ago and got a bunch of strange-looking keyboards but I always came back to this one. It great and just works.
 
 # What would be your dream setup?
