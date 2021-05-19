@@ -1,10 +1,10 @@
 ---
-title: (2021) Vancouver Bird playing cards
-excerpt: A deck of playing cards featuring photos of birds from around Vancouver 
-post_date: 2021-01-01 00:00:00
-header:
-  teaser: /public/uploads/2021/2021-bird-playing-cards-teaser.png
-toc: true
+title       : (2021) Vancouver Bird playing cards
+excerpt     : A deck of playing cards featuring photos of birds from around Vancouver 
+post_date   : 2021-01-01 00:00:00
+header      :
+  teaser    : /public/uploads/2021/2021-bird-playing-cards-teaser.png
+toc         : true
 ---
 
 ## Idea
@@ -173,8 +173,28 @@ I aligned the bird name text off the first card that I designed “A♥” then 
 
 It's a minor detail but is very visible when you print the cards out.
 
-## Printing and shipping
+#### Back of the cards
 
-## Feeback
+<img style='float: right; margin: 0px 15px 15px 0px;' src="/public/uploads/2021/2021-birdPlayingCards-cover_v2.png" alt="Cover image"> I wanted something simple and iconic for the back of the cards. Another photo of a bird was too "busy" for me. I didn't want to choose a single bird species as it would elevate that species above all the other birds.
 
-## Post mortem
+I decided to use a feather as its iconic of birds without being too specific to one species over another.
+
+For the style of the feather, I wanted something more artistic and creative. A [blown acrylic flower](https://www.youtube.com/watch?v=meqaNHB0K_w), acrylic pour, drawn ink, pencil, ink, block print, spraypaint stencil, watercolors, stained glass, etc...
+
+After playing around with a bunch of different designs I decided to use a watercolor feather. The watercolor would add softness to the background that I hope is appealing.
+
+My partner and I tried doing it ourselves first and spent a few nights playing around with watercolors. It was a fun experiment but I wasn't happy with the results.
+
+I found a few stock photo websites that had suitable watercolor feathers but they didn't have a story associated with the painting, that the photos on the face of the cards did. Instead of using stock images, I made a call-out on my social networks looking for watercolor artists that had experience with nature and birds. I got 20 responses quickly and was able to find a person that I was happy with.
+
+I worked with [Sal Beck](https://www.facebook.com/sal.beck.7) to design a feather design that I liked. She even sent me the original painting. I like that this painting has a story, it adds some flavor to the whole project.
+
+## Printing
+
+Before starting this project I did my research to find out what everyone else was using for their printers. After reviewing [dozens of playing cards projects](https://www.kickstarter.com/discover/advanced?ref=nav_search&term=playing%20cards) on Kickstarter and contacting their creators I decided to go with [Make Playing Cards](https://www.makeplayingcards.com/) (MCP). MCP was recommended by several Kickstarter creators, they did small runs of less than 50x, no set-up charge, and their prices were reasonable in quantity, supported full-color photos, and lots of different options to choose from.
+
+I didn't realize that they were shipping from China. My proofs took 4 weeks to ship to my door. The shipping costs were relatively expensive compared to the costs of the decks of cards. If I knew it was going to take that long I would have printed several different variants of the cards for proofs.
+
+Pricing for [Custom poker size cards](https://www.makeplayingcards.com/design/custom-blank-card.html) quanity: 1-5 ($13.90 USD), 50-99 ($7.95 USD), 100-249 ($6.35 USD)
+
+I am planning on printing around 60 decks of cards. It should cost around $500 + shipping.
