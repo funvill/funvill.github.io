@@ -89,13 +89,13 @@ Some birds tend to have several names depending on where you are. The [Canada ja
 
 Traditionally the suite and the value of the card are shown in the top left and upside down in the bottom right of the cards. This allows the cards to be orientated in both directions. The duplication of the suite /value does take up more space on the card but I felt that it was a better design and worth the real-estate on the card.
 
-### Layout
+## Layout
 
 I spent a lot of time trying out many different layouts of cards. I am no designer but I wanted to see what I could do before passing it off on to a professional.
 
 ![Quick sketch of the design of the playing cards](/public/uploads/2021/playingcard-design-first.png "Quick sketch of the design of the playing cards")![Playing cards design 2](/public/uploads/2021/playingcard-design-2.png "Playing cards design 2")![Playing cards design 3](/public/uploads/2021/playingcard-design-3.png "Playing cards design 3")![Playing cards design 4](/public/uploads/2021/playingcard-design-4.png "Playing cards design 4")![Playing cards design 5](/public/uploads/2021/playingcard-design-5.png "Playing cards design 5")![Playing cards design 6](/public/uploads/2021/playingcard-design-6.png "Playing cards design 6")![Playing cards design 7](/public/uploads/2021/playingcard-design-7.png "Playing cards design 7")![Playing cards design 8](/public/uploads/2021/playingcard-design-8.png "Playing cards design 8")![Playing cards design 9](/public/uploads/2021/playingcard-design-9.png "Playing cards design 9")
 
-### Version 1
+## Version 1
 
 This is the first version of the hearts suit. I wanted to get something on paper to be able to solicit feedback early from my peer group before making more iterations.
 
@@ -103,7 +103,7 @@ This is the first version of the hearts suit. I wanted to get something on paper
 
 This is some of the feedback and issues I see with this version.
 
-#### Horizontal rotation of some birds and not others
+### Horizontal rotation of some birds and not others
 
 This was the main criticism of this design. I wasn't thinking of the orientation when I was taking photos of the birds. Some of my best photos are originated horizontal instead of vertical.
 
@@ -111,29 +111,29 @@ Most waterbirds (ducks) are on the water are orientated horizontally. If I try t
 
 I am still trying to figure out what to do here.
 
-#### Size of the photo frame
+### Size of the photo frame
 
 The frame for the photo is just the amount of space that was available on the card. I didn't give it much thought about the ratio of the photo frame. It's not 3x4 or the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio) or any other magic designer ratio.
 
 it feels too tall for the card and I might change the frame to be more traditional sized.
 
-#### Scaling of birds
+### Scaling of birds
 
 The scale of the birds in 3♥, Q♥ looks odd compared to the rest of the suit because the bird is so much bigger in the frame than the rest of the photos.
 
 I think this problem only really an issue when all the cards are laid out on a single sheet. When playing with the cards I don't think this will be an issue. Either way, in the next iteration I will try to get all the birds to take up the same amount of space in the frame as possible.
 
-#### Additional information
+### Additional information
 
 In this version, I removed the Latin name, diet, and other information about the bird from the cards. I did this to reduce the noise from the card but it sounds like many people liked the extra context.
 
-#### Wingspan and bird size
+### Wingspan and bird size
 
 The only information besides the bird name on the cards is the wingspan range. I left this information on the card to give some context to the order that I arranged the cards. Smallest to largest wingspan in a suite.
 
 It was suggested that I should either remove this or show iconography for the size of the bird instead. Maybe even include a banana for scale. Very small, Small, Banana size, Large, Larger, Very large
 
-#### Jokers
+### Jokers
 
 It was suggested that the jokers with fictional birds or extinct birds.
 
@@ -141,21 +141,21 @@ The theme of these cards is photos of birds that I took while in Vancouver. Fict
 
 The plan is to use photos of me and my partner with common birds on our heads. I have a photo of a red-wing blackbird on my head for the red joker and a chickadee on my partner's head for the black joker.
 
-#### 10
+### 10
 
 The only double-digit number in the set. While I like the font the extra space that the 10 takes up edges dangerously close to the "Safe area" where it could be cut off during manufacturing.
 
 I think this is one of though things where I need to get a proof printed to see what it looks like before I make the large order.
 
-#### Wingspan font
+### Wingspan font
 
 I wanted the wingspan font to be smaller and different from the bird name font. I don't like how gray it turned out when looking at the print preview. I think I need to try out a few different iterations.
 
-#### ♥ King
+### ♥ King
 
 I used a photo of a Varied Thrush for the king. The issue with this photo is that the background isn't blurred out or a solid color. This makes the bird look darker than it is. I need to find a better photo of this bird.
 
-### Version 2
+## Version 2
 
 After reviewing the advice I got form Version 1, I added all the bird photos to the latest design.
 
@@ -165,7 +165,7 @@ I have printed this version out and found a few issues that I will need to fix i
 
 ![Version 2 layout](/public/uploads/2021/2021-birdPlayingCards-v2_w900.png "Version 2 layout")
 
-#### Alignment of the Suite, Rank, Bird Name Text
+### Alignment of the Suite, Rank, Bird Name Text
 
 <img style='float: left; margin: 0px 15px 15px 0px;' src="/public/uploads/2021/2021-birdPlayingCards-v2_Alignment-issue.png" alt="Alignment of the Suite, Rank, Bird Name Text"> The suite and rank were designed in a single font object, but the font that I selected wasn’t fixed width and the rank are sometimes oddly shaped. When I aligned the suite and rank it caused the suite to sometimes be slightly (10px) off center.
 
@@ -173,7 +173,7 @@ I aligned the bird name text off the first card that I designed “A♥” then 
 
 It's a minor detail but is very visible when you print the cards out.
 
-#### Back of the cards
+### Back of the cards
 
 <img style='float: right; margin: 0px 15px 15px 0px;' src="/public/uploads/2021/2021-birdPlayingCards-cover_v2.png" alt="Cover image"> I wanted something simple and iconic for the back of the cards. Another photo of a bird was too "busy" for me. I didn't want to choose a single bird species as it would elevate that species above all the other birds.
 
@@ -198,3 +198,44 @@ I didn't realize that they were shipping from China. My proofs took 4 weeks to s
 Pricing for [Custom poker size cards](https://www.makeplayingcards.com/design/custom-blank-card.html) quanity: 1-5 ($13.90 USD), 50-99 ($7.95 USD), 100-249 ($6.35 USD)
 
 I am planning on printing around 60 decks of cards. It should cost around $500 + shipping.
+
+## Proof of version 2.6
+
+I got my first print of the deck of cards using version 2.6 and they turned out okay. A bunch of things immediately jumped out to me.
+
+<img style='margin: 15px;' src="/public/uploads/2021/playingcard-proof_v1_sideshot.png" alt="proof side shot">
+
+<img style='float: right; margin: 0 15px;' src="/public/uploads/2021/playingcard-suite-rank.png" alt="suite-rank"> **The suite and rank are too small** - The suite symbol could be at least 40% larger. it looks dwarfed compared to the rank.
+
+**Use black for the bird name** - I used a gray color font for the bird name text. It looked good on my screen but looks terrible when on the printed cards. I should have just used straight black.
+
+<img style='float: left; margin: 0 15px;' src="/public/uploads/2021/playingcard-wingspan-size.png" alt="wingspan"> **The "wingspan" font is far too small** - The font is too small and the font is too light. It made it hard to read.
+
+**Border around the suite and rank** - I printed the joker with a very small black border around the red text and it turned out great. I think it would look good around the red suit and rank.
+
+<img style='float: right; margin: 0 15px;' src="/public/uploads/2021/playingcard-margin.png" alt="margin"> **Add a black border around the photo** - Similar to the border around the red suit and rank, I think a black 1mm border around the photo of the bird would look good.
+
+**The cards are smaller than normal cards** - I used "poker" size cards and didn't realize that they are slightly smaller than regular playing cards. "Casino" size cards are the "normal" size cards. Redesigning the cards for a new template will be a lot of work, but being able to use this deck with another deck seems important.
+
+<img style='float: left; margin: 0 15px;' src="/public/uploads/2021/playingcard-joker.png" alt="joker"> **Too much white space in the margins** - There is too much white space above and below the bird photo. I either need to increase the size of the bird photo or put something in these margins.
+
+**Glossy finish** - In this version, I used a normal matted finish, I should have used a glossy finish it would have made the photos pop.
+
+**The template did not match the actual cut cards** - This was disappointing to find out. The template provided didn't match what I was expecting.
+
+<img style='float: right; margin: 0 15px;' src="/public/uploads/2021/playingcard-background.png" alt="background"> **The back of the card looks washed out** - I lighten the image for the back of the cards to make the background white. I also printed a version without the brightened-up background that looked a lot better.
+
+**Changes to specific cards** -  A few of the specific cards had some issues.
+
+- ♥3 Black-capped Chickadee - Bird is too high in the photo.
+- ♠6 Red-naped Sapsucker - The photo is dull and blurry.
+- ♠Q Red-tailed Hawk - Background is too busy.
+- ♦5 Northern Shoveler - Bird is squashed into the frame.
+- ♦8 Double-breasted Cormorant - Tail is cut off, the bird is squashed into the frame.
+- ♦9 Olympic Gull - Bird disappears into the similar color background.
+- ♦10 White-fronted Goose - Bird is squashed into the frame.
+- ♦J Canada Goose - Wing is cut off.
+- ♣4 Hooded Merganser - Nose and tail are cut off.
+- ♣Q Gladwell - Bird is small in the photo.
+
+<img style='margin: 15px;' src="/public/uploads/2021/playingcard-proof_one.png" alt="proof top down">
