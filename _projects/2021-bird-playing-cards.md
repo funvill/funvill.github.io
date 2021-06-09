@@ -19,7 +19,66 @@ I decided to make a deck of playing cards with photos of local Vancouver birds. 
 
 There are approximately [200 different species of birds](https://www.inaturalist.org/observations?d1=2020-01-01&d2=2021-01-01&place_id=27530&subview=table&view=species&iconic_taxa=Aves) that are found in Vancouver. Some on their migration north or south and others that call Vancouver home year around. 75 of them are common while the rest are rarer to see. Plenty of birds species to make a deck of 52 cards +2 jokers
 
-The next step is to get good, print quality, photos of all the birds. I have been uploading photos of the birds to a project on [iNaturalist](https://www.inaturalist.org/projects/2021-vancouver-steven-and-lori-). It also has a running tally of the different species of birds I photographed so far. I have been posting the best photos on my Instagram feed ([@funvill](https://www.instagram.com/funvill/)). Follow me to keep up to date with this project.
+The next step is to get good, print quality, photos of all the birds. I have been uploading photos of the birds to a project on [iNaturalist](https://www.inaturalist.org/projects/2021-vancouver-steven-and-lori-). It also has a running tally of the different species of birds I photographed so far. I have been posting the best photos on my Instagram feed ([@funvill](https://www.instagram.com/funvill/). Follow me to keep up to date with this project.
+
+## Birds
+
+Suite/Rank | BirdName                                                                                 | Wingspan     | Sex
+-----------|------------------------------------------------------------------------------------------|--------------|----
+♥ Ace      | [Anna's Hummingbird](https://www.allaboutbirds.org/guide/Annas_Hummingbird)              |   10 - 12 cm | ♂️
+♥ 2        | [Golden-Crowned Kinglet](https://www.allaboutbirds.org/guide/Golden-crowned_Kinglet)     |   14 - 18 cm | ♂️
+♥ 3        | [Black-Capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee)     |   15 - 20 cm | ⚥
+♥ 4        | [Ruby Crowned Kinglet](https://www.allaboutbirds.org/guide/Ruby-crowned_Kinglet)         |   16 - 18 cm | ♀️
+♥ 5        | [Pine Siskin](https://www.allaboutbirds.org/guide/Pine_Siskin)                           |   18 - 22 cm | ⚥
+♥ 6        | [Dark-eyed Junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco)                   |   18 - 25 cm | ⚥
+♥ 7        | [Song Sparrow](https://www.allaboutbirds.org/guide/Song_Sparrow)                         |   18 - 26 cm | ⚥
+♥ 8        | [House Finch](https://www.allaboutbirds.org/guide/House_Finch)                           |   20 - 25 cm | ♂️
+♥ 9        | [White-Crowned Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow)       |   21 - 24 cm | ⚥
+♥ 10       | [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee)                     |   27 - 29 cm | ⚥
+♥ Jack     | [Red-Winged Blackbird](https://www.allaboutbirds.org/guide/Red-winged_Blackbird)         |   31 - 40 cm | ♂️
+♥ Queen    | [American Robin](https://www.allaboutbirds.org/guide/American_Robin)                     |   31 - 41 cm | ⚥
+♥ King     | [Varied Thrush](https://www.allaboutbirds.org/guide/Varied_Thrush)                       |   34 - 42 cm | ⚥
+♠ Ace      | [Downy Woodpecker](https://www.allaboutbirds.org/guide/Downy_Woodpecker)                 |   25 - 31 cm | ♂️
+♠ 2        | [Red Crossbill](https://www.allaboutbirds.org/guide/Red_Crossbill)                       |   30 - 35 cm | ♀️
+♠ 3        | [Tree Swallows](https://www.allaboutbirds.org/guide/Tree_Swallow)                        |   31 - 35 cm | ♀️
+♠ 4        | [European Starling](https://www.allaboutbirds.org/guide/European_Starling)               |   32 - 44 cm | ⚥
+♠ 5        | [Red-Breasted Sapsuckers](https://www.allaboutbirds.org/guide/Red-breasted_Sapsucker)    |   35 - 40 cm | ⚥
+♠ 6        | [Red-Naped Sapsucker](https://www.allaboutbirds.org/guide/Red-naped_Sapsucker)           |   41 - 43 cm | ♂️
+♠ 7        | [Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker)                 |   42 - 54 cm | ♂️
+♠ 8        | [Cooper's Hawk](https://www.allaboutbirds.org/guide/Coopers_Hawk)                        |   62 - 99 cm | ⚥
+♠ 9        | [Pileated Woodpecker](https://www.allaboutbirds.org/guide/Pileated_Woodpecker)           |   66 - 75 cm | ♀️
+♠ 10       | [American Crow](https://www.allaboutbirds.org/guide/American_Crow)                       |  85 - 100 cm | ⚥
+♠ Jack     | [Northern Harrier](https://www.allaboutbirds.org/guide/Northern_Harrier)                 |  97 - 122 cm | ♀️
+♠ Queen    | [Red-Tailed Hawk](https://www.allaboutbirds.org/guide/Red-tailed_Hawk)                   | 105 - 141 cm | ⚥
+♠ King     | [Bald Eagle](https://www.allaboutbirds.org/guide/Bald_Eagle)                             | 180 - 230 cm | ⚥
+♦ Ace      | [Pied-Billed Grebe](https://www.allaboutbirds.org/guide/Pied-billed_Grebe)               |   45 - 62 cm | ⚥
+♦ 2        | [Short-Billed Dowitcher](https://www.allaboutbirds.org/guide/Short-billed_Dowitcher)     |   46 - 56 cm | ⚥
+♦ 3        | [Belted Kingfisher](https://www.allaboutbirds.org/guide/Belted_Kingfisher)               |   48 - 58 cm | ♀️
+♦ 4        | [Greater Yellowlegs](https://www.allaboutbirds.org/guide/Greater_Yellowlegs)             |   55 - 60 cm | ⚥
+♦ 5        | [Northern Shoveler](https://www.allaboutbirds.org/guide/Northern_Shoveler)               |   70 - 76 cm | ♂️
+♦ 6        | [Black Oystercatcher](https://www.allaboutbirds.org/guide/Black_Oystercatcher)           |   81 - 88 cm | ⚥
+♦ 7        | [American-Bittern](https://www.allaboutbirds.org/guide/American_Bittern)                 |  92 – 115 cm | ⚥
+♦ 8        | [Pelagic Cormorant](https://www.allaboutbirds.org/guide/Pelagic_Cormorant)               | 100 - 120 cm | ⚥
+♦ 9        | [Double-Crested Cormorant](https://www.allaboutbirds.org/guide/Double-crested_Cormorant) | 114 - 123 cm | ⚥
+♦ 10       | [Glaucous-Winged Gull](https://www.allaboutbirds.org/guide/Glaucous-winged_Gull)         | 120 - 150 cm | ⚥
+♦ Jack     | [Canada Goose](https://www.allaboutbirds.org/guide/Canada_Goose)                         | 127 - 185 cm | ⚥
+♦ Queen    | [Great Blue Heron](https://www.allaboutbirds.org/guide/Great_Blue_Heron)                 | 167 - 200 cm | ⚥
+♦ King     | [Sandhill Crane](https://www.allaboutbirds.org/guide/Sandhill_Crane)                     | 170 - 230 cm | ⚥
+♣ Ace      | [Bufflehead](https://www.allaboutbirds.org/guide/Bufflehead)                             |   53 - 60 cm | ♀️
+♣ 2        | [Green-Winged Teal](https://www.allaboutbirds.org/guide/Green-winged_Teal)               |   54 - 59 cm | ♂️♀️
+♣ 3        | [American Coot](https://www.allaboutbirds.org/guide/American_Coot)                       |   58 - 71 cm | ⚥
+♣ 4        | [Hooded Merganser](https://www.allaboutbirds.org/guide/Hooded_Merganser)                 |   60 - 66 cm | ♂️
+♣ 5        | [Ring-Necked Duck](https://www.allaboutbirds.org/guide/Ring-necked_Duck)                 |   62 - 63 cm | ♂️
+♣ 6        | [Mandarin Duck](https://ebird.org/species/manduc)                                        |   65 - 75 cm | ♂️
+♣ 7        | [Wood Duck](https://www.allaboutbirds.org/guide/Wood_Duck)                               |   66 - 73 cm | ♂️♀️
+♣ 8        | [Lesser Scaup](https://www.allaboutbirds.org/guide/Lesser_Scaup)                         |   68 – 78 cm | ♂️
+♣ 9        | [Barrow's Goldeneye](https://www.allaboutbirds.org/guide/Barrows_Goldeneye)              |   70 - 73 cm | ♀️
+♣ 10       | [Common Meganser](https://www.allaboutbirds.org/guide/Common_Merganser)                  |   70 - 86 cm | ♀️
+♣ Jack     | [American Wigeon](https://www.allaboutbirds.org/guide/American_Wigeon)                   |   76 - 91 cm | ♂️
+♣ Queen    | [Gadwall](https://www.allaboutbirds.org/guide/Gadwall)                                   |   78 - 90 cm | ♂️
+♣ King     | [Northern Pintail](https://www.allaboutbirds.org/guide/Northern_Pintail)                 |   80 - 95 cm | ♂️
+Red Joker  | [Lori Schlechtleitner](https://www.instagram.com/inspiringspokes/)                       |       165 cm | ♀️
+Black Joker| [Steven Smethurst](https://blog.abluestar.com/)                                          |       168 cm | ♂️
 
 ## Photographing birds
 
@@ -239,3 +298,5 @@ I got my first print of the deck of cards using version 2.6 and they turned out 
 - ♣Q Gladwell - Bird is small in the photo.
 
 <img style='margin: 15px;' src="/public/uploads/2021/playingcard-proof_one.png" alt="proof top down">
+
+

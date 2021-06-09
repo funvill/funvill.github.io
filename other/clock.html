@@ -1,0 +1,42 @@
+<!---
+
+    # Simple online digital clock
+    https://blog.abluestar.com/other/clock.html 
+
+    ## Change log 
+    - 1.0 (2021-June-04) - Created
+
+    ## ToDo: 
+    - When the screen size is smaller then X format the time to be stacked on top of each other. HH \n MM \n SS
+
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Simple online digital clock</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Simple online digital clock" />
+  <META NAME=”robots” CONTENT=”noindex”>
+  <style>
+      body { font-size: 4.2vw; text-align: center;}
+      #clock { width: 99vw }
+      #time { font-size: 28.0vw;}
+  </style>
+</head>
+<body>
+  <div id='clock'></div>
+
+  <script type="text/javascript">
+    function UpdateTime() {
+        const date = new Date();
+        document.getElementById('clock').innerHTML = "";
+        // https://stackoverflow.com/a/34015511
+        document.getElementById('clock').innerHTML += '<div id=\'date\'>' + date.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: '2-digit', year: 'numeric'}) +'</div>';
+        document.getElementById('clock').innerHTML += '<div id=\'time\'>' + date.toLocaleTimeString('en-US', {hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true }).replace("AM","").replace("PM","") +'</div>';
+    }
+    setInterval(UpdateTime, 1000);
+    UpdateTime(); 
+  </script>
+</body>
+</html>
