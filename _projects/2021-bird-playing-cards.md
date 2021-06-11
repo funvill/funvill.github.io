@@ -5,19 +5,18 @@ post_date   : 2021-01-01 00:00:00
 header      :
   teaser    : /public/uploads/2021/2021-bird-playing-cards-teaser.png
 toc         : true
+toc_sticky  : true
 ---
 
 ## Idea
 
-My partner purchased a [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.bhphotovideo.com/c/product/1082154-REG/sigma_150_600mm_f_5_6_3_dg_os.html) as a birthday Christmas gift to herself at the end of 2020. I have been borrowing it on my days off to take photos of birds. I have since become completely enamored with birdwatching. From Zero to full birder in just a few weeks.
+My partner purchased a [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.bhphotovideo.com/c/product/1082154-REG/sigma_150_600mm_f_5_6_3_dg_os.html) as a birthday Christmas gift to herself at the end of 2020. I have been borrowing it on my days off to take photos of birds. I have since become completely enamored with birdwatching. From zero to full birder in just a few weeks.
 
 Birding speaks towards my trend towards "gotta catch them all" style projects. Similar to my [2020 Vancouver parks project](https://blog.abluestar.com/projects/2020-vancouver-parks/) where we visited all 420 parks in Vancouver and took a selfie in front o the sign.
 
-I was looking for a project to do with all the photos I had been shooting of the birds. Something I could show off to others and bigger than another photo book.
+I was looking for a project to do with all the photos I had been taking of the birds. I decided to make a deck of playing cards with photos of local Vancouver birds. The face of the card will have a photo of a bird, its name, and some information that can help people identify them in the wild. The goal is to make this deck of cards a pocket-size identification guide to help people identify the birds around them.
 
-I decided to make a deck of playing cards with photos of local Vancouver birds. The face of the card will have a photo of a bird, its name, and some information that can help people identify them in the wild. The goal is to make this deck of cards a pocket-size identification guide to help people identify the birds around them.
-
-There are approximately [200 different species of birds](https://www.inaturalist.org/observations?d1=2020-01-01&d2=2021-01-01&place_id=27530&subview=table&view=species&iconic_taxa=Aves) that are found in Vancouver. Some on their migration north or south and others that call Vancouver home year around. 75 of them are common while the rest are rarer to see. Plenty of birds species to make a deck of 52 cards +2 jokers
+There are approximately [200 different species of birds](https://www.inaturalist.org/observations?d1=2020-01-01&d2=2021-01-01&place_id=27530&order_by=votes&view=species&iconic_taxa=Aves) that are found in Vancouver. Some on their migration north or south and others that call Vancouver home year around. 75 of them are common while the rest are rarer to see. Plenty of birds species to make a deck of 52 cards +2 jokers
 
 The next step is to get good, print quality, photos of all the birds. I have been uploading photos of the birds to a project on [iNaturalist](https://www.inaturalist.org/projects/2021-vancouver-steven-and-lori-). It also has a running tally of the different species of birds I photographed so far. I have been posting the best photos on my Instagram feed ([@funvill](https://www.instagram.com/funvill/). Follow me to keep up to date with this project.
 
@@ -25,58 +24,58 @@ The next step is to get good, print quality, photos of all the birds. I have bee
 
 Suite/Rank | BirdName                                                                                 | Wingspan     | Sex | My photos 📷
 -----------|------------------------------------------------------------------------------------------|--------------|-----|--------------
-♥ Ace      | [Anna's Hummingbird](https://www.allaboutbirds.org/guide/Annas_Hummingbird)              |   10 - 12 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6317)
-♥ 2        | [Golden-Crowned Kinglet](https://www.allaboutbirds.org/guide/Golden-crowned_Kinglet)     |   14 - 18 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=117100)
-♥ 3        | [Black-Capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee)     |   15 - 20 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=144815)
-♥ 4        | [Ruby Crowned Kinglet](https://www.allaboutbirds.org/guide/Ruby-crowned_Kinglet)         |   16 - 18 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=117095)
-♥ 5        | [Pine Siskin](https://www.allaboutbirds.org/guide/Pine_Siskin)                           |   18 - 22 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=145304)
-♥ 6        | [Dark-eyed Junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco)                   |   18 - 25 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=10094)
-♥ 7        | [Song Sparrow](https://www.allaboutbirds.org/guide/Song_Sparrow)                         |   18 - 26 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=9100)
-♥ 8        | [House Finch](https://www.allaboutbirds.org/guide/House_Finch)                           |   20 - 25 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=199840)
-♥ 9        | [White-Crowned Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow)       |   21 - 24 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=9176)
-♥ 10       | [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee)                     |   27 - 29 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=9420)
-♥ Jack     | [Red-Winged Blackbird](https://www.allaboutbirds.org/guide/Red-winged_Blackbird)         |   31 - 40 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=9744)
-♥ Queen    | [American Robin](https://www.allaboutbirds.org/guide/American_Robin)                     |   31 - 41 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=12727)
-♥ King     | [Varied Thrush](https://www.allaboutbirds.org/guide/Varied_Thrush)                       |   34 - 42 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=145088)
-♠ Ace      | [Downy Woodpecker](https://www.allaboutbirds.org/guide/Downy_Woodpecker)                 |   25 - 31 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=792988)
-♠ 2        | [Red Crossbill](https://www.allaboutbirds.org/guide/Red_Crossbill)                       |   30 - 35 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=10410)
-♠ 3        | [Tree Swallows](https://www.allaboutbirds.org/guide/Tree_Swallow)                        |   31 - 35 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=11935)
-♠ 4        | [European Starling](https://www.allaboutbirds.org/guide/European_Starling)               |   32 - 44 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=14850)
-♠ 5        | [Red-Breasted Sapsuckers](https://www.allaboutbirds.org/guide/Red-breasted_Sapsucker)    |   35 - 40 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=18464)
-♠ 6        | [Red-Naped Sapsucker](https://www.allaboutbirds.org/guide/Red-naped_Sapsucker)           |   41 - 43 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=18467)
-♠ 7        | [Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker)                 |   42 - 54 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=18236)
-♠ 8        | [Cooper's Hawk](https://www.allaboutbirds.org/guide/Coopers_Hawk)                        |   62 - 99 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=5112)
-♠ 9        | [Pileated Woodpecker](https://www.allaboutbirds.org/guide/Pileated_Woodpecker)           |   66 - 75 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=17855)
-♠ 10       | [American Crow](https://www.allaboutbirds.org/guide/American_Crow)                       |  85 - 100 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=8021)
-♠ Jack     | [Northern Harrier](https://www.allaboutbirds.org/guide/Northern_Harrier)                 |  97 - 122 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=558446)
-♠ Queen    | [Red-Tailed Hawk](https://www.allaboutbirds.org/guide/Red-tailed_Hawk)                   | 105 - 141 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=5212)
-♠ King     | [Bald Eagle](https://www.allaboutbirds.org/guide/Bald_Eagle)                             | 180 - 230 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=5305)
-♦ Ace      | [Pied-Billed Grebe](https://www.allaboutbirds.org/guide/Pied-billed_Grebe)               |   45 - 62 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4246)
-♦ 2        | [Short-Billed Dowitcher](https://www.allaboutbirds.org/guide/Short-billed_Dowitcher)     |   46 - 56 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=3869)
-♦ 3        | [Belted Kingfisher](https://www.allaboutbirds.org/guide/Belted_Kingfisher)               |   48 - 58 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=2548)
-♦ 4        | [Greater Yellowlegs](https://www.allaboutbirds.org/guide/Greater_Yellowlegs)             |   55 - 60 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=3893)
-♦ 5        | [Northern Shoveler](https://www.allaboutbirds.org/guide/Northern_Shoveler)               |   70 - 76 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=558438)
-♦ 6        | [Black Oystercatcher](https://www.allaboutbirds.org/guide/Black_Oystercatcher)           |   81 - 88 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4838)
-♦ 7        | [American-Bittern](https://www.allaboutbirds.org/guide/American_Bittern)                 |  92 – 115 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=5034)
-♦ 8        | [Pelagic Cormorant](https://www.allaboutbirds.org/guide/Pelagic_Cormorant)               | 100 - 120 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4283)
-♦ 9        | [Double-Crested Cormorant](https://www.allaboutbirds.org/guide/Double-crested_Cormorant) | 114 - 123 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4265)
-♦ 10       | [Glaucous-Winged Gull](https://www.allaboutbirds.org/guide/Glaucous-winged_Gull)         | 120 - 150 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4399)
-♦ Jack     | [Canada Goose](https://www.allaboutbirds.org/guide/Canada_Goose)                         | 127 - 185 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7089)
-♦ Queen    | [Great Blue Heron](https://www.allaboutbirds.org/guide/Great_Blue_Heron)                 | 167 - 200 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4956)
-♦ King     | [Sandhill Crane](https://www.allaboutbirds.org/guide/Sandhill_Crane)                     | 170 - 230 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=508048)
-♣ Ace      | [Bufflehead](https://www.allaboutbirds.org/guide/Bufflehead)                             |   53 - 60 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6993)
-♣ 2        | [Green-Winged Teal](https://www.allaboutbirds.org/guide/Green-winged_Teal)               |   54 - 59 cm | ♂️♀️  | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6937)
-♣ 3        | [American Coot](https://www.allaboutbirds.org/guide/American_Coot)                       |   58 - 71 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=473)
-♣ 4        | [Hooded Merganser](https://www.allaboutbirds.org/guide/Hooded_Merganser)                 |   60 - 66 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7109)
-♣ 5        | [Ring-Necked Duck](https://www.allaboutbirds.org/guide/Ring-necked_Duck)                 |   62 - 63 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7044)
-♣ 6        | [Mandarin Duck](https://ebird.org/species/manduc)                                        |   65 - 75 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7106)
-♣ 7        | [Wood Duck](https://www.allaboutbirds.org/guide/Wood_Duck)                               |   66 - 73 cm | ♂️♀️  | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7107)
-♣ 8        | [Lesser Scaup](https://www.allaboutbirds.org/guide/Lesser_Scaup)                         |   68 – 78 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7054)
-♣ 9        | [Barrow's Goldeneye](https://www.allaboutbirds.org/guide/Barrows_Goldeneye)              |   70 - 73 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6994)
-♣ 10       | [Common Meganser](https://www.allaboutbirds.org/guide/Common_Merganser)                  |   70 - 86 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7004)
-♣ Jack     | [American Wigeon](https://www.allaboutbirds.org/guide/American_Wigeon)                   |   76 - 91 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=485176)
-♣ Queen    | [Gadwall](https://www.allaboutbirds.org/guide/Gadwall)                                   |   78 - 90 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=558439)
-♣ King     | [Northern Pintail](https://www.allaboutbirds.org/guide/Northern_Pintail)                 |   80 - 95 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6933)
+♥ Ace      | [Anna's Hummingbird](https://www.allaboutbirds.org/guide/Annas_Hummingbird)              |   10 - 12 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=6317)
+♥ 2        | [Golden-Crowned Kinglet](https://www.allaboutbirds.org/guide/Golden-crowned_Kinglet)     |   14 - 18 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=117100)
+♥ 3        | [Black-Capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee)     |   15 - 20 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=144815)
+♥ 4        | [Ruby Crowned Kinglet](https://www.allaboutbirds.org/guide/Ruby-crowned_Kinglet)         |   16 - 18 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=117095)
+♥ 5        | [Pine Siskin](https://www.allaboutbirds.org/guide/Pine_Siskin)                           |   18 - 22 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=145304)
+♥ 6        | [Dark-eyed Junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco)                   |   18 - 25 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=10094)
+♥ 7        | [Song Sparrow](https://www.allaboutbirds.org/guide/Song_Sparrow)                         |   18 - 26 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=9100)
+♥ 8        | [House Finch](https://www.allaboutbirds.org/guide/House_Finch)                           |   20 - 25 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=199840)
+♥ 9        | [White-Crowned Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow)       |   21 - 24 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=9176)
+♥ 10       | [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee)                     |   27 - 29 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=9420)
+♥ Jack     | [Red-Winged Blackbird](https://www.allaboutbirds.org/guide/Red-winged_Blackbird)         |   31 - 40 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=9744)
+♥ Queen    | [American Robin](https://www.allaboutbirds.org/guide/American_Robin)                     |   31 - 41 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=12727)
+♥ King     | [Varied Thrush](https://www.allaboutbirds.org/guide/Varied_Thrush)                       |   34 - 42 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=145088)
+♠ Ace      | [Downy Woodpecker](https://www.allaboutbirds.org/guide/Downy_Woodpecker)                 |   25 - 31 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=792988)
+♠ 2        | [Red Crossbill](https://www.allaboutbirds.org/guide/Red_Crossbill)                       |   30 - 35 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=10410)
+♠ 3        | [Tree Swallows](https://www.allaboutbirds.org/guide/Tree_Swallow)                        |   31 - 35 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=11935)
+♠ 4        | [European Starling](https://www.allaboutbirds.org/guide/European_Starling)               |   32 - 44 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=14850)
+♠ 5        | [Red-Breasted Sapsuckers](https://www.allaboutbirds.org/guide/Red-breasted_Sapsucker)    |   35 - 40 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=18464)
+♠ 6        | [Red-Naped Sapsucker](https://www.allaboutbirds.org/guide/Red-naped_Sapsucker)           |   41 - 43 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=18467)
+♠ 7        | [Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker)                 |   42 - 54 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=18236)
+♠ 8        | [Cooper's Hawk](https://www.allaboutbirds.org/guide/Coopers_Hawk)                        |   62 - 99 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=5112)
+♠ 9        | [Pileated Woodpecker](https://www.allaboutbirds.org/guide/Pileated_Woodpecker)           |   66 - 75 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=17855)
+♠ 10       | [American Crow](https://www.allaboutbirds.org/guide/American_Crow)                       |  85 - 100 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=8021)
+♠ Jack     | [Northern Harrier](https://www.allaboutbirds.org/guide/Northern_Harrier)                 |  97 - 122 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=558446)
+♠ Queen    | [Red-Tailed Hawk](https://www.allaboutbirds.org/guide/Red-tailed_Hawk)                   | 105 - 141 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=5212)
+♠ King     | [Bald Eagle](https://www.allaboutbirds.org/guide/Bald_Eagle)                             | 180 - 230 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=5305)
+♦ Ace      | [Pied-Billed Grebe](https://www.allaboutbirds.org/guide/Pied-billed_Grebe)               |   45 - 62 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=4246)
+♦ 2        | [Short-Billed Dowitcher](https://www.allaboutbirds.org/guide/Short-billed_Dowitcher)     |   46 - 56 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=3869)
+♦ 3        | [Belted Kingfisher](https://www.allaboutbirds.org/guide/Belted_Kingfisher)               |   48 - 58 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=2548)
+♦ 4        | [Greater Yellowlegs](https://www.allaboutbirds.org/guide/Greater_Yellowlegs)             |   55 - 60 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=3893)
+♦ 5        | [Northern Shoveler](https://www.allaboutbirds.org/guide/Northern_Shoveler)               |   70 - 76 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=558438)
+♦ 6        | [Black Oystercatcher](https://www.allaboutbirds.org/guide/Black_Oystercatcher)           |   81 - 88 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=4838)
+♦ 7        | [American-Bittern](https://www.allaboutbirds.org/guide/American_Bittern)                 |  92 – 115 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=5034)
+♦ 8        | [Pelagic Cormorant](https://www.allaboutbirds.org/guide/Pelagic_Cormorant)               | 100 - 120 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=4283)
+♦ 9        | [Double-Crested Cormorant](https://www.allaboutbirds.org/guide/Double-crested_Cormorant) | 114 - 123 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=4265)
+♦ 10       | [Glaucous-Winged Gull](https://www.allaboutbirds.org/guide/Glaucous-winged_Gull)         | 120 - 150 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=4399)
+♦ Jack     | [Canada Goose](https://www.allaboutbirds.org/guide/Canada_Goose)                         | 127 - 185 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=7089)
+♦ Queen    | [Great Blue Heron](https://www.allaboutbirds.org/guide/Great_Blue_Heron)                 | 167 - 200 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=4956)
+♦ King     | [Sandhill Crane](https://www.allaboutbirds.org/guide/Sandhill_Crane)                     | 170 - 230 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=508048)
+♣ Ace      | [Bufflehead](https://www.allaboutbirds.org/guide/Bufflehead)                             |   53 - 60 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=6993)
+♣ 2        | [Green-Winged Teal](https://www.allaboutbirds.org/guide/Green-winged_Teal)               |   54 - 59 cm | ♂️♀️  | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=6937)
+♣ 3        | [American Coot](https://www.allaboutbirds.org/guide/American_Coot)                       |   58 - 71 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=473)
+♣ 4        | [Hooded Merganser](https://www.allaboutbirds.org/guide/Hooded_Merganser)                 |   60 - 66 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=7109)
+♣ 5        | [Ring-Necked Duck](https://www.allaboutbirds.org/guide/Ring-necked_Duck)                 |   62 - 63 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=7044)
+♣ 6        | [Mandarin Duck](https://ebird.org/species/manduc)                                        |   65 - 75 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=7106)
+♣ 7        | [Wood Duck](https://www.allaboutbirds.org/guide/Wood_Duck)                               |   66 - 73 cm | ♂️♀️  | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=7107)
+♣ 8        | [Lesser Scaup](https://www.allaboutbirds.org/guide/Lesser_Scaup)                         |   68 – 78 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=7054)
+♣ 9        | [Barrow's Goldeneye](https://www.allaboutbirds.org/guide/Barrows_Goldeneye)              |   70 - 73 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=6994)
+♣ 10       | [Common Meganser](https://www.allaboutbirds.org/guide/Common_Merganser)                  |   70 - 86 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=7004)
+♣ Jack     | [American Wigeon](https://www.allaboutbirds.org/guide/American_Wigeon)                   |   76 - 91 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=485176)
+♣ Queen    | [Gadwall](https://www.allaboutbirds.org/guide/Gadwall)                                   |   78 - 90 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=558439)
+♣ King     | [Northern Pintail](https://www.allaboutbirds.org/guide/Northern_Pintail)                 |   80 - 95 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=6933)
 Red Joker  | [Lori Schlechtleitner](https://www.instagram.com/inspiringspokes/)                       |       165 cm | ♀️   |
 Black Joker| [Steven Smethurst](https://blog.abluestar.com/)                                          |       168 cm | ♂️   |
 
@@ -88,22 +87,13 @@ From the calendar, you can see that took most of my photos on the weekends when 
 
 ![Calendar of bird photos](/public/uploads/2021/2021-birdPlayingCards-photo-calendar.png "Calendar of bird photos")
 
-This is a map of locations that took photos of birds. Most of the photos that I took were located in Mount pleasant in Vancouver near my house and bird sanctuary.
-
-- [Maplewood Flats](https://www.vancouvertrails.com/trails/maplewood-flats/)
-- [Colony Farm Regional Park](http://www.metrovancouver.org/services/parks/parks-greenways-reserves/colony-farm-regional-park)
-- [Deas Island Regional Park](http://www.metrovancouver.org/services/parks/parks-greenways-reserves/deas-island-regional-park)
-- [West Dyke Trail](https://www.richmond.ca/parks/trails/trails-map/westdyke.htm)
-- [Iona Beach Regional Park](http://www.metrovancouver.org/services/parks/parks-greenways-reserves/iona-beach-regional-park)
-- [Reifel Migratory Bird Sanctuary](https://www.reifelbirdsanctuary.com/)
-- [Richmond Nature Park](https://www.richmond.ca/parks/parks/naturepark/about.htm)
-- [Burnaby Lake](https://www.vancouvertrails.com/trails/burnaby-lake/)
+This is a map of locations that took photos of birds. Most of the photos that I took were located in Mount pleasant in Vancouver near my house and bird sanctuary. [Maplewood Flats](https://www.vancouvertrails.com/trails/maplewood-flats/), [Colony Farm Regional Park](http://www.metrovancouver.org/services/parks/parks-greenways-reserves/colony-farm-regional-park), [Deas Island Regional Park](http://www.metrovancouver.org/services/parks/parks-greenways-reserves/deas-island-regional-park), [West Dyke Trail](https://www.richmond.ca/parks/trails/trails-map/westdyke.htm), [Iona Beach Regional Park](http://www.metrovancouver.org/services/parks/parks-greenways-reserves/iona-beach-regional-park), [Reifel Migratory Bird Sanctuary](https://www.reifelbirdsanctuary.com/), [Richmond Nature Park](https://www.richmond.ca/parks/parks/naturepark/about.htm), [Burnaby Lake](https://www.vancouvertrails.com/trails/burnaby-lake/)
 
 ![Map of bird photos](/public/uploads/2021/2021-birdPlayingCards-photo-map.png "Map of bird photos")
 
 My top ten most photographed birds: [Song Sparrow](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=9100), [American Crow](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=8021), [American Robin](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=12727), [Bald Eagle](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=5305), [Black-capped Chickadee](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=144815), [Northern Flicker](https://www.naturalist.org/observations?user_id=funvill&taxon_id=18236), [Anna's Hummingbird](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=6317), [House Finch](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=199840), [Mallard](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=6930), [Great Blue Heron](https://www.inaturalist.org/observations?user_id=funvill&taxon_id=4956)
 
-This list not surprisingly matches up with [top bird species in Vancouver, observed on iNatural](https://www.inaturalist.org/observations?place_id=27530&quality_grade=research&subview=table&view=species&iconic_taxa=Aves)
+This list not surprisingly matches up with [top bird species in Vancouver, observed on iNatural](https://www.inaturalist.org/observations?place_id=27530&quality_grade=research&order_by=votes&view=species&iconic_taxa=Aves)
 
 Most of my best photos can be found on my instagram page.
 
@@ -131,7 +121,7 @@ Most of my best photos can be found on my instagram page.
 
 ## Design
 
-I decided to order the birds in each suite by their wingspan. The larger the bird the higher the face value of the card. Anna's hummingbird with a wingspan of 12 cm is one of the smallest birds that would have a face value of 1 (Ace). While a Sandhill crane with a large wingspan of 201 cm would have a face value of 12 (Queen)
+I decided to order the birds in each suite by the size of their wingspan. The larger the bird the higher the face value of the card. Anna's hummingbird with a wingspan of 12 cm is one of the smallest birds that would have a face value of 1 (Ace). While a Sandhill crane with a large wingspan of 201 cm would have a face value of 12 (Queen)
 
 I also wanted to organize the type of bird by their suites.
 
@@ -154,6 +144,16 @@ I spent a lot of time trying out many different layouts of cards. I am no design
 
 ![Quick sketch of the design of the playing cards](/public/uploads/2021/playingcard-design-first.png "Quick sketch of the design of the playing cards")![Playing cards design 2](/public/uploads/2021/playingcard-design-2.png "Playing cards design 2")![Playing cards design 3](/public/uploads/2021/playingcard-design-3.png "Playing cards design 3")![Playing cards design 4](/public/uploads/2021/playingcard-design-4.png "Playing cards design 4")![Playing cards design 5](/public/uploads/2021/playingcard-design-5.png "Playing cards design 5")![Playing cards design 6](/public/uploads/2021/playingcard-design-6.png "Playing cards design 6")![Playing cards design 7](/public/uploads/2021/playingcard-design-7.png "Playing cards design 7")![Playing cards design 8](/public/uploads/2021/playingcard-design-8.png "Playing cards design 8")![Playing cards design 9](/public/uploads/2021/playingcard-design-9.png "Playing cards design 9")
 
+## Printing
+
+Before starting this project I did my research to find out what everyone else was using for their printers. After reviewing [dozens of playing cards projects](https://www.kickstarter.com/discover/advanced?ref=nav_search&term=playing%20cards) on Kickstarter and contacting their creators I decided to go with [Make Playing Cards](https://www.makeplayingcards.com/) (MCP). MCP was recommended by several Kickstarter creators, they did small runs of less than 50x, no set-up charge, and their prices were reasonable in quantity, supported full-color photos, and lots of different options to choose from.
+
+I didn't realize that they were shipping from China. My proofs took 4 weeks to ship to my door. The shipping costs were relatively expensive compared to the costs of the decks of cards. If I knew it was going to take that long I would have printed several different variants of the cards for proofs.
+
+Pricing for [Custom poker size cards](https://www.makeplayingcards.com/design/custom-blank-card.html) quanity: 1-5 ($13.90 USD), 50-99 ($7.95 USD), 100-249 ($6.35 USD)
+
+I am planning on printing around 60 decks of cards. It should cost around $500 + shipping.
+
 ## Version 1
 
 This is the first version of the hearts suit. I wanted to get something on paper to be able to solicit feedback early from my peer group before making more iterations.
@@ -162,57 +162,23 @@ This is the first version of the hearts suit. I wanted to get something on paper
 
 This is some of the feedback and issues I see with this version.
 
-### Horizontal rotation of some birds and not others
+<img style='float: right; margin: 0px 0px 15px 15px;' src="/public/uploads/2021/playingcard-vertical-horazontal.png" alt="Horizontal rotation"> **Horizontal rotation** - This was the main criticism of this design. I wasn't thinking of the orientation when I was taking photos of the birds. Some of my best photos are originated horizontal instead of vertical. Most waterbirds (ducks) are on the water are orientated horizontally. If I try to put them in a vertical photo the background will take up most of the space of the photo. The bird will look physically small. I am still trying to figure out what to do here.
 
-This was the main criticism of this design. I wasn't thinking of the orientation when I was taking photos of the birds. Some of my best photos are originated horizontal instead of vertical.
+**Size of the photo frame** - The frame for the photo is just the amount of space that was available on the card. I didn't give it much thought about the ratio of the photo frame. It's not 3x4 or the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio) or any other magic designer ratio. it feels too tall for the card and I might change the frame to be more traditional sized.
 
-Most waterbirds (ducks) are on the water are orientated horizontally. If I try to put them in a vertical photo the background will take up most of the space of the photo. The bird will look physically small.
+<img style='float: left; margin: 0px 15px 15px 0px;' src="/public/uploads/2021/playingcard-scalingofbirds.png" alt="Scaling of birds"> **Scaling of birds** - The scale of the birds in 3♥, Q♥ looks odd compared to the rest of the suit because the bird is so much bigger in the frame than the rest of the photos. I think this problem only really an issue when all the cards are laid out on a single sheet. When playing with the cards I don't think this will be an issue. Either way, in the next iteration I will try to get all the birds to take up the same amount of space in the frame as possible.
 
-I am still trying to figure out what to do here.
+**Additional information** - In this version, I removed the Latin name, diet, and other information about the bird from the cards. I did this to reduce the noise from the card but it sounds like many people liked the extra context.
 
-### Size of the photo frame
+<img style='float: right; margin: 0px 0px 15px 15px;' src="/public/uploads/2021/playingcard-king-hearts.png" alt="King hearts"> **♥ King** - I used a photo of a Varied Thrush for the king. The issue with this photo is that the background isn't blurred out or a solid color. This makes the bird look darker than it is. I need to find a better photo of this bird.
 
-The frame for the photo is just the amount of space that was available on the card. I didn't give it much thought about the ratio of the photo frame. It's not 3x4 or the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio) or any other magic designer ratio.
+**Jokers** - It was suggested that the jokers with fictional birds or extinct birds. The theme of these cards is photos of birds that I took while in Vancouver. Fictional birds or extinct birds are much harder to take photos of. The plan is to use photos of me and my partner with common birds on our heads. I have a photo of a red-wing blackbird on my head for the red joker and a chickadee on my partner's head for the black joker.
 
-it feels too tall for the card and I might change the frame to be more traditional sized.
+<img style='float: left; margin: 0px 15px 15px 0px;' src="/public/uploads/2021/playingcard-wingspan.png" alt="Wingspan and bird size"> **Wingspan font** - I wanted the wingspan font to be smaller and different from the bird name font. I don't like how gray it turned out when looking at the print preview. I think I need to try out a few different iterations.
 
-### Scaling of birds
+<img style='float: right; margin: 0px 0px 15px 15px;' src="/public/uploads/2021/playingcard-ten.png" alt="10 suite"> **10** - The only double-digit number in the set. While I like the font the extra space that the 10 takes up edges dangerously close to the "Safe area" where it could be cut off during manufacturing. I think this is one of though things where I need to get a proof printed to see what it looks like before I make the large order.
 
-The scale of the birds in 3♥, Q♥ looks odd compared to the rest of the suit because the bird is so much bigger in the frame than the rest of the photos.
-
-I think this problem only really an issue when all the cards are laid out on a single sheet. When playing with the cards I don't think this will be an issue. Either way, in the next iteration I will try to get all the birds to take up the same amount of space in the frame as possible.
-
-### Additional information
-
-In this version, I removed the Latin name, diet, and other information about the bird from the cards. I did this to reduce the noise from the card but it sounds like many people liked the extra context.
-
-### Wingspan and bird size
-
-The only information besides the bird name on the cards is the wingspan range. I left this information on the card to give some context to the order that I arranged the cards. Smallest to largest wingspan in a suite.
-
-It was suggested that I should either remove this or show iconography for the size of the bird instead. Maybe even include a banana for scale. Very small, Small, Banana size, Large, Larger, Very large
-
-### Jokers
-
-It was suggested that the jokers with fictional birds or extinct birds.
-
-The theme of these cards is photos of birds that I took while in Vancouver. Fictional birds or extinct birds are much harder to take photos of.
-
-The plan is to use photos of me and my partner with common birds on our heads. I have a photo of a red-wing blackbird on my head for the red joker and a chickadee on my partner's head for the black joker.
-
-### 10
-
-The only double-digit number in the set. While I like the font the extra space that the 10 takes up edges dangerously close to the "Safe area" where it could be cut off during manufacturing.
-
-I think this is one of though things where I need to get a proof printed to see what it looks like before I make the large order.
-
-### Wingspan font
-
-I wanted the wingspan font to be smaller and different from the bird name font. I don't like how gray it turned out when looking at the print preview. I think I need to try out a few different iterations.
-
-### ♥ King
-
-I used a photo of a Varied Thrush for the king. The issue with this photo is that the background isn't blurred out or a solid color. This makes the bird look darker than it is. I need to find a better photo of this bird.
+**Wingspan and bird size** - The only information besides the bird name on the cards is the wingspan range. I left this information on the card to give some context to the order that I arranged the cards. Smallest to largest wingspan in a suite. It was suggested that I should either remove this or show iconography for the size of the bird instead. Maybe even include a banana for scale. Very small, Small, Banana size, Large, Larger, Very large
 
 ## Version 2
 
@@ -224,17 +190,13 @@ I have printed this version out and found a few issues that I will need to fix i
 
 ![Version 2 layout](/public/uploads/2021/2021-birdPlayingCards-v2_w900.png "Version 2 layout")
 
-### Alignment of the Suite, Rank, Bird Name Text
-
-<img style='float: left; margin: 0px 15px 15px 0px;' src="/public/uploads/2021/2021-birdPlayingCards-v2_Alignment-issue.png" alt="Alignment of the Suite, Rank, Bird Name Text"> The suite and rank were designed in a single font object, but the font that I selected wasn’t fixed width and the rank are sometimes oddly shaped. When I aligned the suite and rank it caused the suite to sometimes be slightly (10px) off center.
+<img style='float: left; margin: 0px 15px 15px 0px;' src="/public/uploads/2021/2021-birdPlayingCards-v2_Alignment-issue.png" alt="Alignment of the Suite, Rank, Bird Name Text"> **Suite, Rank, Birdname Alignment** - The suite and rank were designed in a single font object, but the font that I selected wasn’t fixed width and the rank are sometimes oddly shaped. When I aligned the suite and rank it caused the suite to sometimes be slightly (10px) off center.
 
 I aligned the bird name text off the first card that I designed “A♥” then updated the text on all the other cards without realigning the text. Because of the odd shape of the “A” on the first card it caused some weird issues on all the other cards making the font look off center.
 
 It's a minor detail but is very visible when you print the cards out.
 
-### Back of the cards
-
-<img style='float: right; margin: 0px 15px 15px 0px;' src="/public/uploads/2021/2021-birdPlayingCards-cover_v2.png" alt="Cover image"> I wanted something simple and iconic for the back of the cards. Another photo of a bird was too "busy" for me. I didn't want to choose a single bird species as it would elevate that species above all the other birds.
+<img style='float: right; margin: 0px 0px 15px 15px;' src="/public/uploads/2021/2021-birdPlayingCards-cover_v2.png" alt="Cover image"> **Back of the cards** - I wanted something simple and iconic for the back of the cards. Another photo of a bird was too "busy" for me. I didn't want to choose a single bird species as it would elevate that species above all the other birds.
 
 I decided to use a feather as its iconic of birds without being too specific to one species over another.
 
@@ -248,21 +210,11 @@ I found a few stock photo websites that had suitable watercolor feathers but the
 
 I worked with [Sal Beck](https://www.facebook.com/sal.beck.7) to design a feather design that I liked. She even sent me the original painting. I like that this painting has a story, it adds some flavor to the whole project.
 
-## Printing
-
-Before starting this project I did my research to find out what everyone else was using for their printers. After reviewing [dozens of playing cards projects](https://www.kickstarter.com/discover/advanced?ref=nav_search&term=playing%20cards) on Kickstarter and contacting their creators I decided to go with [Make Playing Cards](https://www.makeplayingcards.com/) (MCP). MCP was recommended by several Kickstarter creators, they did small runs of less than 50x, no set-up charge, and their prices were reasonable in quantity, supported full-color photos, and lots of different options to choose from.
-
-I didn't realize that they were shipping from China. My proofs took 4 weeks to ship to my door. The shipping costs were relatively expensive compared to the costs of the decks of cards. If I knew it was going to take that long I would have printed several different variants of the cards for proofs.
-
-Pricing for [Custom poker size cards](https://www.makeplayingcards.com/design/custom-blank-card.html) quanity: 1-5 ($13.90 USD), 50-99 ($7.95 USD), 100-249 ($6.35 USD)
-
-I am planning on printing around 60 decks of cards. It should cost around $500 + shipping.
-
-## Proof of version 2.6
+## Version 2.6 (Printed)
 
 I got my first print of the deck of cards using version 2.6 and they turned out okay. A bunch of things immediately jumped out to me.
 
-<img style='margin: 15px;' src="/public/uploads/2021/playingcard-proof_v1_sideshot.png" alt="proof side shot">
+<img style='margin: 15px;' src="/public/uploads/2021/playingcard-proof_v1_sideshot.png" alt="proof angled shot">
 
 <img style='float: right; margin: 0 15px;' src="/public/uploads/2021/playingcard-suite-rank.png" alt="suite-rank"> **The suite and rank are too small** - The suite symbol could be at least 40% larger. it looks dwarfed compared to the rank.
 
@@ -299,4 +251,31 @@ I got my first print of the deck of cards using version 2.6 and they turned out 
 
 <img style='margin: 15px;' src="/public/uploads/2021/playingcard-proof_one.png" alt="proof top down">
 
+## Version 2.7
 
+Changes in this version after reviewing the printed 2.6 version.
+
+- Increased the size of the suite ♥♣♦♠
+- Use black color for the font of the Bird name
+- Black border around the suite and rank
+- Red font for the bird name on red cards
+- Black boarder around the photo
+- Increased the card size to match a "casino" size
+- Reduced the margin size around the photo
+- Used a textured background for the cards
+- Updated QR Code info card with version number
+- Moved Bufflehead from ♣2 to ♣1
+- Moved Green-Winged-Teal from ♣1 to ♣2
+- Changed bird species ♦10 to American Bitterns
+- Changed photo for ♥4 Ruby Crowned Kinglet
+- Changed photo for ♠10 American Crow
+- Changed photo for ♦8 Double Crested Cormorant
+- Changed photo for ♦Jack Canada Goose
+- Changed photo for ♣7 Wood Duck
+- Changed photo for ♣Queen Gadwall
+- Changed photo for ♦9 Glaucous Winged Gull to one where he eating a starfish
+- Fixed mistaken ID, changed ♦2 Long-Billed-Dowitcher to short-Billed-Dowitcher (Thanks Lori)
+- Fixed mistaken ID, changed ♣10 Red-breasted Merganser to Common Merganser (Thanks Lori)
+- Fixed mistaken ID, changed ♦9 Olympic Gull to Glaucous Winged Gull (Thanks Lori)
+
+<img style='margin: 15px;' src="/public/uploads/2021/2021-birdPlayingCards-v2.7-900.png" alt="version 2.7">
