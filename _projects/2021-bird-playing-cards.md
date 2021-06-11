@@ -23,62 +23,62 @@ The next step is to get good, print quality, photos of all the birds. I have bee
 
 ## Birds
 
-Suite/Rank | BirdName                                                                                 | Wingspan     | Sex
------------|------------------------------------------------------------------------------------------|--------------|----
-♥ Ace      | [Anna's Hummingbird](https://www.allaboutbirds.org/guide/Annas_Hummingbird)              |   10 - 12 cm | ♂️
-♥ 2        | [Golden-Crowned Kinglet](https://www.allaboutbirds.org/guide/Golden-crowned_Kinglet)     |   14 - 18 cm | ♂️
-♥ 3        | [Black-Capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee)     |   15 - 20 cm | ⚥
-♥ 4        | [Ruby Crowned Kinglet](https://www.allaboutbirds.org/guide/Ruby-crowned_Kinglet)         |   16 - 18 cm | ♀️
-♥ 5        | [Pine Siskin](https://www.allaboutbirds.org/guide/Pine_Siskin)                           |   18 - 22 cm | ⚥
-♥ 6        | [Dark-eyed Junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco)                   |   18 - 25 cm | ⚥
-♥ 7        | [Song Sparrow](https://www.allaboutbirds.org/guide/Song_Sparrow)                         |   18 - 26 cm | ⚥
-♥ 8        | [House Finch](https://www.allaboutbirds.org/guide/House_Finch)                           |   20 - 25 cm | ♂️
-♥ 9        | [White-Crowned Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow)       |   21 - 24 cm | ⚥
-♥ 10       | [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee)                     |   27 - 29 cm | ⚥
-♥ Jack     | [Red-Winged Blackbird](https://www.allaboutbirds.org/guide/Red-winged_Blackbird)         |   31 - 40 cm | ♂️
-♥ Queen    | [American Robin](https://www.allaboutbirds.org/guide/American_Robin)                     |   31 - 41 cm | ⚥
-♥ King     | [Varied Thrush](https://www.allaboutbirds.org/guide/Varied_Thrush)                       |   34 - 42 cm | ⚥
-♠ Ace      | [Downy Woodpecker](https://www.allaboutbirds.org/guide/Downy_Woodpecker)                 |   25 - 31 cm | ♂️
-♠ 2        | [Red Crossbill](https://www.allaboutbirds.org/guide/Red_Crossbill)                       |   30 - 35 cm | ♀️
-♠ 3        | [Tree Swallows](https://www.allaboutbirds.org/guide/Tree_Swallow)                        |   31 - 35 cm | ♀️
-♠ 4        | [European Starling](https://www.allaboutbirds.org/guide/European_Starling)               |   32 - 44 cm | ⚥
-♠ 5        | [Red-Breasted Sapsuckers](https://www.allaboutbirds.org/guide/Red-breasted_Sapsucker)    |   35 - 40 cm | ⚥
-♠ 6        | [Red-Naped Sapsucker](https://www.allaboutbirds.org/guide/Red-naped_Sapsucker)           |   41 - 43 cm | ♂️
-♠ 7        | [Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker)                 |   42 - 54 cm | ♂️
-♠ 8        | [Cooper's Hawk](https://www.allaboutbirds.org/guide/Coopers_Hawk)                        |   62 - 99 cm | ⚥
-♠ 9        | [Pileated Woodpecker](https://www.allaboutbirds.org/guide/Pileated_Woodpecker)           |   66 - 75 cm | ♀️
-♠ 10       | [American Crow](https://www.allaboutbirds.org/guide/American_Crow)                       |  85 - 100 cm | ⚥
-♠ Jack     | [Northern Harrier](https://www.allaboutbirds.org/guide/Northern_Harrier)                 |  97 - 122 cm | ♀️
-♠ Queen    | [Red-Tailed Hawk](https://www.allaboutbirds.org/guide/Red-tailed_Hawk)                   | 105 - 141 cm | ⚥
-♠ King     | [Bald Eagle](https://www.allaboutbirds.org/guide/Bald_Eagle)                             | 180 - 230 cm | ⚥
-♦ Ace      | [Pied-Billed Grebe](https://www.allaboutbirds.org/guide/Pied-billed_Grebe)               |   45 - 62 cm | ⚥
-♦ 2        | [Short-Billed Dowitcher](https://www.allaboutbirds.org/guide/Short-billed_Dowitcher)     |   46 - 56 cm | ⚥
-♦ 3        | [Belted Kingfisher](https://www.allaboutbirds.org/guide/Belted_Kingfisher)               |   48 - 58 cm | ♀️
-♦ 4        | [Greater Yellowlegs](https://www.allaboutbirds.org/guide/Greater_Yellowlegs)             |   55 - 60 cm | ⚥
-♦ 5        | [Northern Shoveler](https://www.allaboutbirds.org/guide/Northern_Shoveler)               |   70 - 76 cm | ♂️
-♦ 6        | [Black Oystercatcher](https://www.allaboutbirds.org/guide/Black_Oystercatcher)           |   81 - 88 cm | ⚥
-♦ 7        | [American-Bittern](https://www.allaboutbirds.org/guide/American_Bittern)                 |  92 – 115 cm | ⚥
-♦ 8        | [Pelagic Cormorant](https://www.allaboutbirds.org/guide/Pelagic_Cormorant)               | 100 - 120 cm | ⚥
-♦ 9        | [Double-Crested Cormorant](https://www.allaboutbirds.org/guide/Double-crested_Cormorant) | 114 - 123 cm | ⚥
-♦ 10       | [Glaucous-Winged Gull](https://www.allaboutbirds.org/guide/Glaucous-winged_Gull)         | 120 - 150 cm | ⚥
-♦ Jack     | [Canada Goose](https://www.allaboutbirds.org/guide/Canada_Goose)                         | 127 - 185 cm | ⚥
-♦ Queen    | [Great Blue Heron](https://www.allaboutbirds.org/guide/Great_Blue_Heron)                 | 167 - 200 cm | ⚥
-♦ King     | [Sandhill Crane](https://www.allaboutbirds.org/guide/Sandhill_Crane)                     | 170 - 230 cm | ⚥
-♣ Ace      | [Bufflehead](https://www.allaboutbirds.org/guide/Bufflehead)                             |   53 - 60 cm | ♀️
-♣ 2        | [Green-Winged Teal](https://www.allaboutbirds.org/guide/Green-winged_Teal)               |   54 - 59 cm | ♂️♀️
-♣ 3        | [American Coot](https://www.allaboutbirds.org/guide/American_Coot)                       |   58 - 71 cm | ⚥
-♣ 4        | [Hooded Merganser](https://www.allaboutbirds.org/guide/Hooded_Merganser)                 |   60 - 66 cm | ♂️
-♣ 5        | [Ring-Necked Duck](https://www.allaboutbirds.org/guide/Ring-necked_Duck)                 |   62 - 63 cm | ♂️
-♣ 6        | [Mandarin Duck](https://ebird.org/species/manduc)                                        |   65 - 75 cm | ♂️
-♣ 7        | [Wood Duck](https://www.allaboutbirds.org/guide/Wood_Duck)                               |   66 - 73 cm | ♂️♀️
-♣ 8        | [Lesser Scaup](https://www.allaboutbirds.org/guide/Lesser_Scaup)                         |   68 – 78 cm | ♂️
-♣ 9        | [Barrow's Goldeneye](https://www.allaboutbirds.org/guide/Barrows_Goldeneye)              |   70 - 73 cm | ♀️
-♣ 10       | [Common Meganser](https://www.allaboutbirds.org/guide/Common_Merganser)                  |   70 - 86 cm | ♀️
-♣ Jack     | [American Wigeon](https://www.allaboutbirds.org/guide/American_Wigeon)                   |   76 - 91 cm | ♂️
-♣ Queen    | [Gadwall](https://www.allaboutbirds.org/guide/Gadwall)                                   |   78 - 90 cm | ♂️
-♣ King     | [Northern Pintail](https://www.allaboutbirds.org/guide/Northern_Pintail)                 |   80 - 95 cm | ♂️
-Red Joker  | [Lori Schlechtleitner](https://www.instagram.com/inspiringspokes/)                       |       165 cm | ♀️
-Black Joker| [Steven Smethurst](https://blog.abluestar.com/)                                          |       168 cm | ♂️
+Suite/Rank | BirdName                                                                                 | Wingspan     | Sex | My photos 📷
+-----------|------------------------------------------------------------------------------------------|--------------|-----|--------------
+♥ Ace      | [Anna's Hummingbird](https://www.allaboutbirds.org/guide/Annas_Hummingbird)              |   10 - 12 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6317)
+♥ 2        | [Golden-Crowned Kinglet](https://www.allaboutbirds.org/guide/Golden-crowned_Kinglet)     |   14 - 18 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=117100)
+♥ 3        | [Black-Capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee)     |   15 - 20 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=144815)
+♥ 4        | [Ruby Crowned Kinglet](https://www.allaboutbirds.org/guide/Ruby-crowned_Kinglet)         |   16 - 18 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=117095)
+♥ 5        | [Pine Siskin](https://www.allaboutbirds.org/guide/Pine_Siskin)                           |   18 - 22 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=145304)
+♥ 6        | [Dark-eyed Junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco)                   |   18 - 25 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=10094)
+♥ 7        | [Song Sparrow](https://www.allaboutbirds.org/guide/Song_Sparrow)                         |   18 - 26 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=9100)
+♥ 8        | [House Finch](https://www.allaboutbirds.org/guide/House_Finch)                           |   20 - 25 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=199840)
+♥ 9        | [White-Crowned Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow)       |   21 - 24 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=9176)
+♥ 10       | [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee)                     |   27 - 29 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=9420)
+♥ Jack     | [Red-Winged Blackbird](https://www.allaboutbirds.org/guide/Red-winged_Blackbird)         |   31 - 40 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=9744)
+♥ Queen    | [American Robin](https://www.allaboutbirds.org/guide/American_Robin)                     |   31 - 41 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=12727)
+♥ King     | [Varied Thrush](https://www.allaboutbirds.org/guide/Varied_Thrush)                       |   34 - 42 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=145088)
+♠ Ace      | [Downy Woodpecker](https://www.allaboutbirds.org/guide/Downy_Woodpecker)                 |   25 - 31 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=792988)
+♠ 2        | [Red Crossbill](https://www.allaboutbirds.org/guide/Red_Crossbill)                       |   30 - 35 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=10410)
+♠ 3        | [Tree Swallows](https://www.allaboutbirds.org/guide/Tree_Swallow)                        |   31 - 35 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=11935)
+♠ 4        | [European Starling](https://www.allaboutbirds.org/guide/European_Starling)               |   32 - 44 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=14850)
+♠ 5        | [Red-Breasted Sapsuckers](https://www.allaboutbirds.org/guide/Red-breasted_Sapsucker)    |   35 - 40 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=18464)
+♠ 6        | [Red-Naped Sapsucker](https://www.allaboutbirds.org/guide/Red-naped_Sapsucker)           |   41 - 43 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=18467)
+♠ 7        | [Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker)                 |   42 - 54 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=18236)
+♠ 8        | [Cooper's Hawk](https://www.allaboutbirds.org/guide/Coopers_Hawk)                        |   62 - 99 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=5112)
+♠ 9        | [Pileated Woodpecker](https://www.allaboutbirds.org/guide/Pileated_Woodpecker)           |   66 - 75 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=17855)
+♠ 10       | [American Crow](https://www.allaboutbirds.org/guide/American_Crow)                       |  85 - 100 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=8021)
+♠ Jack     | [Northern Harrier](https://www.allaboutbirds.org/guide/Northern_Harrier)                 |  97 - 122 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=558446)
+♠ Queen    | [Red-Tailed Hawk](https://www.allaboutbirds.org/guide/Red-tailed_Hawk)                   | 105 - 141 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=5212)
+♠ King     | [Bald Eagle](https://www.allaboutbirds.org/guide/Bald_Eagle)                             | 180 - 230 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=5305)
+♦ Ace      | [Pied-Billed Grebe](https://www.allaboutbirds.org/guide/Pied-billed_Grebe)               |   45 - 62 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4246)
+♦ 2        | [Short-Billed Dowitcher](https://www.allaboutbirds.org/guide/Short-billed_Dowitcher)     |   46 - 56 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=3869)
+♦ 3        | [Belted Kingfisher](https://www.allaboutbirds.org/guide/Belted_Kingfisher)               |   48 - 58 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=2548)
+♦ 4        | [Greater Yellowlegs](https://www.allaboutbirds.org/guide/Greater_Yellowlegs)             |   55 - 60 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=3893)
+♦ 5        | [Northern Shoveler](https://www.allaboutbirds.org/guide/Northern_Shoveler)               |   70 - 76 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=558438)
+♦ 6        | [Black Oystercatcher](https://www.allaboutbirds.org/guide/Black_Oystercatcher)           |   81 - 88 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4838)
+♦ 7        | [American-Bittern](https://www.allaboutbirds.org/guide/American_Bittern)                 |  92 – 115 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=5034)
+♦ 8        | [Pelagic Cormorant](https://www.allaboutbirds.org/guide/Pelagic_Cormorant)               | 100 - 120 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4283)
+♦ 9        | [Double-Crested Cormorant](https://www.allaboutbirds.org/guide/Double-crested_Cormorant) | 114 - 123 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4265)
+♦ 10       | [Glaucous-Winged Gull](https://www.allaboutbirds.org/guide/Glaucous-winged_Gull)         | 120 - 150 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4399)
+♦ Jack     | [Canada Goose](https://www.allaboutbirds.org/guide/Canada_Goose)                         | 127 - 185 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7089)
+♦ Queen    | [Great Blue Heron](https://www.allaboutbirds.org/guide/Great_Blue_Heron)                 | 167 - 200 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=4956)
+♦ King     | [Sandhill Crane](https://www.allaboutbirds.org/guide/Sandhill_Crane)                     | 170 - 230 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=508048)
+♣ Ace      | [Bufflehead](https://www.allaboutbirds.org/guide/Bufflehead)                             |   53 - 60 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6993)
+♣ 2        | [Green-Winged Teal](https://www.allaboutbirds.org/guide/Green-winged_Teal)               |   54 - 59 cm | ♂️♀️  | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6937)
+♣ 3        | [American Coot](https://www.allaboutbirds.org/guide/American_Coot)                       |   58 - 71 cm | ⚥   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=473)
+♣ 4        | [Hooded Merganser](https://www.allaboutbirds.org/guide/Hooded_Merganser)                 |   60 - 66 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7109)
+♣ 5        | [Ring-Necked Duck](https://www.allaboutbirds.org/guide/Ring-necked_Duck)                 |   62 - 63 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7044)
+♣ 6        | [Mandarin Duck](https://ebird.org/species/manduc)                                        |   65 - 75 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7106)
+♣ 7        | [Wood Duck](https://www.allaboutbirds.org/guide/Wood_Duck)                               |   66 - 73 cm | ♂️♀️  | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7107)
+♣ 8        | [Lesser Scaup](https://www.allaboutbirds.org/guide/Lesser_Scaup)                         |   68 – 78 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7054)
+♣ 9        | [Barrow's Goldeneye](https://www.allaboutbirds.org/guide/Barrows_Goldeneye)              |   70 - 73 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6994)
+♣ 10       | [Common Meganser](https://www.allaboutbirds.org/guide/Common_Merganser)                  |   70 - 86 cm | ♀️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=7004)
+♣ Jack     | [American Wigeon](https://www.allaboutbirds.org/guide/American_Wigeon)                   |   76 - 91 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=485176)
+♣ Queen    | [Gadwall](https://www.allaboutbirds.org/guide/Gadwall)                                   |   78 - 90 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=558439)
+♣ King     | [Northern Pintail](https://www.allaboutbirds.org/guide/Northern_Pintail)                 |   80 - 95 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&subview=table&user_id=funvill&verifiable=any&view=&taxon_id=6933)
+Red Joker  | [Lori Schlechtleitner](https://www.instagram.com/inspiringspokes/)                       |       165 cm | ♀️   |
+Black Joker| [Steven Smethurst](https://blog.abluestar.com/)                                          |       168 cm | ♂️   |
 
 ## Photographing birds
 
