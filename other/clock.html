@@ -4,36 +4,49 @@
     https://blog.abluestar.com/other/clock.html 
 
     ## Change log 
+    - 1.1 (2021-June-15) - Updated the hours to use 24 hours clock.
+                         - Added progress bars for hours, minutes, seconds
     - 1.0 (2021-June-04) - Created
 
     ## ToDo: 
     - When the screen size is smaller then X format the time to be stacked on top of each other. HH \n MM \n SS
-
 -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
 <head>
   <title>Simple online digital clock</title>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="description" content="Simple online digital clock" />
-  <META NAME=”robots” CONTENT=”noindex”>
+  <meta charset='UTF-8' />
+  <meta name='viewport' content='width=device-width,initial-scale=1' />
+  <meta name='description' content='Simple online digital clock' />
+  <meta NAME='robots' CONTENT='noindex' />
+
   <style>
-      body { font-size: 4.2vw; text-align: center;}
-      #clock { width: 99vw }
-      #time { font-size: 28.0vw;}
+      body { margin: 1vw 0;  padding: 0; border: 0 ; }
+      #clock { width: 99vw ; text-align: center; line-height: 0.8; }
+      #time { text-align: left; font-size: 27.0vw;}
+      #date { font-size: 4.2vw;}
+      #progress {font-size: 1vw; text-align: left; }
+      #hours   {height: 2vw; border-right: solid 0.6vw black; background-color: rgb(255, 100, 100) ;}
+      #minutes {height: 4vw; border-right: solid 0.8vw black; background-color: rgb(100, 100, 255) ;}
+      #seconds {height: 6vw; border-right: solid 1.0vw black; background-color: rgb(100, 255, 100) ;}
   </style>
 </head>
 <body>
-  <div id='clock'></div>
+  <div id='clock'><div id='date'></div><div id='time'></div>
+  <div id='progress'><div id='hours'></div><div id='minutes'></div><div id='seconds'></div></div>
 
-  <script type="text/javascript">
+  <script type='text/javascript'>
     function UpdateTime() {
         const date = new Date();
-        document.getElementById('clock').innerHTML = "";
-        // https://stackoverflow.com/a/34015511
-        document.getElementById('clock').innerHTML += '<div id=\'date\'>' + date.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: '2-digit', year: 'numeric'}) +'</div>';
-        document.getElementById('clock').innerHTML += '<div id=\'time\'>' + date.toLocaleTimeString('en-US', {hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true }).replace("AM","").replace("PM","") +'</div>';
+        // https://stackoverflow.com/a/34015511      
+        document.getElementById('date').innerHTML = date.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: '2-digit', year: 'numeric'});
+        document.getElementById('time').innerHTML = date.toLocaleTimeString('en-US', {hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false }).replace('AM','').replace('PM','') ;
+
+        // Get current mins as a percentage 
+        let currentDate = new Date();
+        document.getElementById('hours').style.width = Math.round((currentDate.getHours() / 24) * 100) + '%' ;
+        document.getElementById('minutes').style.width = Math.round((currentDate.getMinutes() / 60) * 100) + '%' ;
+        document.getElementById('seconds').style.width = Math.round((currentDate.getSeconds() / 60) * 100) + '%' ;        
     }
     setInterval(UpdateTime, 1000);
     UpdateTime(); 

@@ -138,7 +138,7 @@ Some birds tend to have several names depending on where you are. The [Canada ja
 
 Traditionally the suite and the value of the card are shown in the top left and upside down in the bottom right of the cards. This allows the cards to be orientated in both directions. The duplication of the suite /value does take up more space on the card but I felt that it was a better design and worth the real-estate on the card.
 
-## Layout
+## Card Layout
 
 I spent a lot of time trying out many different layouts of cards. I am no designer but I wanted to see what I could do before passing it off on to a professional.
 
@@ -279,3 +279,7 @@ Changes in this version after reviewing the printed 2.6 version.
 - Fixed mistaken ID, changed ♦9 Olympic Gull to Glaucous Winged Gull (Thanks Lori)
 
 <img style='margin: 15px;' src="/public/uploads/2021/2021-birdPlayingCards-v2.7-900.png" alt="version 2.7">
+
+## Press
+
+- [The Vancouver parks couple is now finding different birds across the city](https://dailyhive.com/vancouver/couple-visits-250-parks-vancouver-birds)
