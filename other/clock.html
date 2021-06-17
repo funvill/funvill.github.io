@@ -4,6 +4,7 @@
     https://blog.abluestar.com/other/clock.html 
 
     ## Change log 
+    - 1.2 (2021-June-17) - Update the progress bars background color based on palettes from https://www.colourlovers.com
     - 1.1 (2021-June-15) - Updated the hours to use 24 hours clock.
                          - Added progress bars for hours, minutes, seconds
     - 1.0 (2021-June-04) - Created
@@ -26,16 +27,52 @@
       #time { text-align: left; font-size: 27.0vw;}
       #date { font-size: 4.2vw;}
       #progress {font-size: 1vw; text-align: left; }
-      #hours   {height: 2vw; border-right: solid 0.6vw black; background-color: rgb(255, 100, 100) ;}
-      #minutes {height: 4vw; border-right: solid 0.8vw black; background-color: rgb(100, 100, 255) ;}
-      #seconds {height: 6vw; border-right: solid 1.0vw black; background-color: rgb(100, 255, 100) ;}
+      #year     {font-size: 1vw; height: 1vw; border-right: solid 0.4vw black; background-color: #FFFFFF ;}
+      #monthdays{font-size: 1vw; height: 1vw; border-right: solid 0.4vw black; background-color: #69D2E7 ;}
+      #weekdays {font-size: 1vw; height: 1vw; border-right: solid 0.4vw black; background-color: #A7DBD8 ;}
+      #hours    {font-size: 2vw; height: 2vw; border-right: solid 0.6vw black; background-color: #E0E4CC ;}
+      #minutes  {font-size: 4vw; height: 4vw; border-right: solid 0.8vw black; background-color: #F38630 ;}
+      #seconds  {font-size: 6vw; height: 6vw; border-right: solid 1.0vw black; background-color: #FA6900 ;}
   </style>
 </head>
 <body>
   <div id='clock'><div id='date'></div><div id='time'></div>
-  <div id='progress'><div id='hours'></div><div id='minutes'></div><div id='seconds'></div></div>
+  <div id='progress'><div id='year'>Year</div><div id='monthdays'>Month</div><div id='weekdays'>Week</div><div id='hours'>Hour</div><div id='minutes'>Minute</div><div id='seconds'>Seconds</div></div>
+
 
   <script type='text/javascript'>
+    function LoadNewPalettes() {
+      // http://www.colourlovers.com/api/palettes/?lover=COLOURlover&format=json&numResults=1&orderCol=score&sortBy=DESC
+      // Hand picked palettes 
+      var palettes = [
+        ["69D2E7", "A7DBD8", "E0E4CC", "F38630", "FA6900"], // https://www.colourlovers.com/palette/92095/Giant_Goldfish
+        ["D1F2A5", "EFFAB4", "FFC48C", "FF9F80", "F56991"], // https://www.colourlovers.com/palette/373610/Melon_Ball_Surprise
+        ["00A0B0", "6A4A3C", "CC333F", "EB6841", "EDC951"], // https://www.colourlovers.com/palette/1473/Ocean_Five
+        ["FAD089", "FF9C5B", "F5634A", "ED303C", "3B8183"], // https://www.colourlovers.com/palette/131576/Maddening_Caravan
+        ["A1DBB2", "FEE5AD", "FACA66", "F7A541", "F45D4C"], // https://www.colourlovers.com/palette/1916178/Happy_Day_!
+      ];
+
+      // Select a random palett 
+      var palettOffset = Math.floor(Math.random() * palettes.length);
+
+      // Update the progress bars based on the Palettes
+      var progressBarsNames = ['monthdays','weekdays','hours','minutes', 'seconds'];
+      for( var progressBarOffset = 0 ; progressBarOffset < progressBarsNames.length ; progressBarOffset++) {
+        if( typeof palettes[palettOffset] !== 'undefined' ) {
+          document.getElementById(progressBarsNames[progressBarOffset]).style.backgroundColor = '#' + palettes[palettOffset][progressBarOffset] ;
+        }
+      }
+    }
+
+    // Change the palette every 60 secons (1min)
+    setInterval(LoadNewPalettes, 1000 * 60); 
+    LoadNewPalettes();
+    
+
+    function dayOfTheYear(date) {
+      return Math.floor((date - new Date(date.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24);
+    }
+
     function UpdateTime() {
         const date = new Date();
         // https://stackoverflow.com/a/34015511      
@@ -44,6 +81,9 @@
 
         // Get current mins as a percentage 
         let currentDate = new Date();
+        document.getElementById('year').style.width = Math.round((dayOfTheYear(currentDate) / 365) * 100) + '%' ;
+        document.getElementById('monthdays').style.width = Math.round(((currentDate.getDate()) / 31) * 100) + '%' ;
+        document.getElementById('weekdays').style.width = Math.round(((currentDate.getDay() + 1) / 7) * 100) + '%' ;
         document.getElementById('hours').style.width = Math.round((currentDate.getHours() / 24) * 100) + '%' ;
         document.getElementById('minutes').style.width = Math.round((currentDate.getMinutes() / 60) * 100) + '%' ;
         document.getElementById('seconds').style.width = Math.round((currentDate.getSeconds() / 60) * 100) + '%' ;        
