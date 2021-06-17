@@ -141,5 +141,5 @@ Barclay Heritage Square , Komagata Maru Memorial, Arbutus Greenway Park , Harbou
 **Press:**
 
 - [Local couple creates adorable photoblog visiting over 250 Vancouver parks (PHOTOS)](https://www.vancouverisawesome.com/vancouver-news/local-couple-visits-over-250-vancouver-parks-in-adorable-photoblog-photos-3247223) (Vancouver Is Awesome)
-- [Couple documents their pandemic visits to over 250 Vancouver parks (PHOTOS)](https://dailyhive.com/vancouver/couple-visits-250-parks-vancouver) (dailyhive)
-- [This couple visited 250 parks in Vancouver during COVID. These are their 5 faves](https://dailyhive.com/vancouver/couples-visits-vancouver-parks-favourites) (dailyhive)
+- [Couple documents their pandemic visits to over 250 Vancouver parks (PHOTOS)](https://dailyhive.com/vancouver/couple-visits-250-parks-vancouver) (Dailyhive)
+- [This couple visited 250 parks in Vancouver during COVID. These are their 5 faves](https://dailyhive.com/vancouver/couples-visits-vancouver-parks-favourites) (Dailyhive)
