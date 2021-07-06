@@ -8,17 +8,21 @@ toc         : true
 toc_sticky  : true
 ---
 
-## Idea
+## Description
 
-My partner purchased a [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.bhphotovideo.com/c/product/1082154-REG/sigma_150_600mm_f_5_6_3_dg_os.html) as a birthday Christmas gift to herself at the end of 2020. I have been borrowing it on my days off to take photos of birds. I have since become completely enamored with birdwatching. From zero to full birder in just a few weeks.
+When the COVID-19 lockdown started in March of 2020, my office closed down and I started working from home. Sadly, my daily walk to and from work was the primary way I got exercise each day. In the first few weeks I rarely left the house and the lack of daily exercise, being cooped up inside the same room every day, and the general stress of COVID was causing me to experience a large amount of anxiety.
 
-Birding speaks towards my trend towards "gotta catch them all" style projects. Similar to my [2020 Vancouver parks project](https://blog.abluestar.com/projects/2020-vancouver-parks/) where we visited all 420 parks in Vancouver and took a selfie in front o the sign.
+My partner, Lori, suggested that we start an outdoor activity to get through COVID.  We decided to [go to all the ~250 parks in Vancouver](/projects/2020-vancouver-parks/), and take a selfie in front of every park sign in the city. That project got me out of the house, gave me some exercise, and greatly improved my mood. It gave us something to look forward to most days and a reason to leave the house. We finished the Vancouver parks project in 7 months on December 19th of 2020.
 
-I was looking for a project to do with all the photos I had been taking of the birds. I decided to make a deck of playing cards with photos of local Vancouver birds. The face of the card will have a photo of a bird, its name, and some information that can help people identify them in the wild. The goal is to make this deck of cards a pocket-size identification guide to help people identify the birds around them.
+Lori and I started birding as a second 'covid project' after that in January 2021 as this also became a great reason to leave the house. It quickly became one of my favorite hobbies. Birding really speaks to my trend of  “gotta catch them all” style projects, similar to my 2020 Vancouver parks project. It's like a giant hunt and seek puzzle!
 
-There are approximately [200 different species of birds](https://www.inaturalist.org/observations?d1=2020-01-01&d2=2021-01-01&place_id=27530&order_by=votes&view=species&iconic_taxa=Aves) that are found in Vancouver. Some on their migration north or south and others that call Vancouver home year around. 75 of them are common while the rest are rarer to see. Plenty of birds species to make a deck of 52 cards +2 jokers
+There are approximately [~270 different species of birds](https://www.inaturalist.org/observations?d1=2020-01-01&d2=2021-01-01&place_id=27530&order_by=votes&view=species&iconic_taxa=Aves) that are found in Vancouver. Some on them migration north or south and others that call Vancouver home year around. 75 of them are common while the rest are rarer to see. Plenty of birds species to make a deck of 52 cards +2 jokers
 
-The next step is to get good, print quality, photos of all the birds. I have been uploading photos of the birds to a project on [iNaturalist](https://www.inaturalist.org/projects/2021-vancouver-steven-and-lori-). It also has a running tally of the different species of birds I photographed so far. I have been posting the best photos on my Instagram feed ([@funvill](https://www.instagram.com/funvill/). Follow me to keep up to date with this project.
+We quickly started amassing a number of good bird photos and thus a hunt for a 3rd project was born to use those photos in!  We decided to make a deck of playing cards where the face of each card would have a different species of bird from our photo collection.
+
+It took 76 days (February - April) to collect 52 print-quality photos of different species for the deck of cards. During this time we took 17,190 photos, of 93 species, over 960 observations. That’s approximately ~220 photos, and ~12 different species a day. We used a [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.bhphotovideo.com/c/product/1082154-REG/sigma_150_600mm_f_5_6_3_dg_os.html) with a [Sony A6400 camera body](https://www.bhphotovideo.com/c/product/1453768-REG/sony_ilce_6400_b_alpha_a6400_mirrorless_digital.html) which I think really worked well.
+
+I have been uploading photos of the birds to a project on [iNaturalist](https://www.inaturalist.org/projects/2021-vancouver-steven-and-lori-). It also has a running tally of the different species of birds I photographed so far. I have been posting the best photos on my Instagram feed ([@funvill](https://www.instagram.com/funvill/). Follow me to keep up to date with this project.
 
 ## Birds
 
