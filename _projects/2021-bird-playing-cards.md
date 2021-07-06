@@ -144,7 +144,7 @@ I spent a lot of time trying out many different layouts of cards. I am no design
 
 ![Quick sketch of the design of the playing cards](/public/uploads/2021/playingcard-design-first.png "Quick sketch of the design of the playing cards")![Playing cards design 2](/public/uploads/2021/playingcard-design-2.png "Playing cards design 2")![Playing cards design 3](/public/uploads/2021/playingcard-design-3.png "Playing cards design 3")![Playing cards design 4](/public/uploads/2021/playingcard-design-4.png "Playing cards design 4")![Playing cards design 5](/public/uploads/2021/playingcard-design-5.png "Playing cards design 5")![Playing cards design 6](/public/uploads/2021/playingcard-design-6.png "Playing cards design 6")![Playing cards design 7](/public/uploads/2021/playingcard-design-7.png "Playing cards design 7")![Playing cards design 8](/public/uploads/2021/playingcard-design-8.png "Playing cards design 8")![Playing cards design 9](/public/uploads/2021/playingcard-design-9.png "Playing cards design 9")
 
-## Printing
+## Printing companies
 
 Before starting this project I did my research to find out what everyone else was using for their printers. After reviewing [dozens of playing cards projects](https://www.kickstarter.com/discover/advanced?ref=nav_search&term=playing%20cards) on Kickstarter and contacting their creators I decided to go with [Make Playing Cards](https://www.makeplayingcards.com/) (MCP). MCP was recommended by several Kickstarter creators, they did small runs of less than 50x, no set-up charge, and their prices were reasonable in quantity, supported full-color photos, and lots of different options to choose from.
 
@@ -279,6 +279,46 @@ Changes in this version after reviewing the printed 2.6 version.
 - Fixed mistaken ID, changed ♦9 Olympic Gull to Glaucous Winged Gull (Thanks Lori)
 
 <img style='margin: 15px;' src="/public/uploads/2021/2021-birdPlayingCards-v2.7-900.png" alt="version 2.7">
+
+**Printed**
+
+<img style='margin: 15px;' src="/public/uploads/2021/playingcard-print_2.7.png" alt="printed version 2.7">
+
+<img style='margin: 15px;' src="/public/uploads/2021/playingcard-stacked_2.7.png" alt="printed stacked version 2.7">
+
+## Cost
+
+Below are a break down of the costs of this project.
+
+### Printing
+
+- Printing Version 2.6 test version (Qty: 1x)
+  - Subtotal: $14.69 USD
+  - Shipping: $9.99 USD
+  - Order Total: $24.68 USD ($30.43 CAD)
+- Printing Version 2.7 (Qty: 120x)
+  - Subtotal: $786.00 USD
+  - Shipping: $114.09 USD
+  - Duites and taxes: $91.53 CAD
+  - Order Total: $1,201.21 CAD
+
+Total: $1,231.64 CAD
+
+### Shipping
+
+Each deck weights 20g. I am planning on using [Canada post](https://www.canadapost-postescanada.ca/cpc/en/personal/sending/letters-mail/postage-rates.page) small letter "Up to 100g" shipping.
+
+- $1.94 CAD to ship a deck of cards to anywhere in Canada. I expect to ship 50 decks of cards
+- $3.19 CAD to ship a deck of cards to anywhere in USD. I expect to ship 20 decks of cards
+- $6.39 CAD to ship a deck of cards to anywhere in International. I expect to ship 10 decks of cards
+
+### Total
+
+- Printing total: $1,231.64 CAD
+- Shipping costs: $155.2 CAD
+- Grand total: 1386.84 CAD
+
+**Cost per deck of cards: $11.56 CAD**
 
 ## Press
 
