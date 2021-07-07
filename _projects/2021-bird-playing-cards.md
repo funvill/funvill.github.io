@@ -310,19 +310,21 @@ Total: $1,231.64 CAD
 
 ### Shipping
 
-Each deck weights 20g. I am planning on using [Canada post](https://www.canadapost-postescanada.ca/cpc/en/personal/sending/letters-mail/postage-rates.page) small letter "Up to 100g" shipping.
+Each deck weights 120g. I am planning on using [Canada post](https://www.canadapost-postescanada.ca/cpc/en/personal/sending/letters-mail/postage-rates.page) to ship the decks of cards as small letter
 
-- $1.94 CAD to ship a deck of cards to anywhere in Canada. I expect to ship 50 decks of cards
-- $3.19 CAD to ship a deck of cards to anywhere in USD. I expect to ship 20 decks of cards
-- $6.39 CAD to ship a deck of cards to anywhere in International. I expect to ship 10 decks of cards
+- $3.19 CAD to ship a deck of cards to anywhere in Canada. I expect to ship 50 decks of cards
+- $5.57 CAD to ship a deck of cards to anywhere in USD. I expect to ship 20 decks of cards
+- $11.14 CAD to ship a deck of cards to anywhere in International. I expect to ship 10 decks of cards
+
+Plus the cost of shipping supplies $25 CAD
 
 ### Total
 
 - Printing total: $1,231.64 CAD
-- Shipping costs: $155.2 CAD
-- Grand total: 1386.84 CAD
+- Shipping costs: 400.80 CAD
+- Grand total: $1,632.44 CAD
 
-**Cost per deck of cards: $11.56 CAD**
+**Cost per deck of cards: $13.60 CAD**
 
 ## Press
 
