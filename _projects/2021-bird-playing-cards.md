@@ -321,7 +321,7 @@ Plus the cost of shipping supplies $25 CAD
 ### Total
 
 - Printing total: $1,231.64 CAD
-- Shipping costs: 400.80 CAD
+- Shipping costs: $400.80 CAD
 - Grand total: $1,632.44 CAD
 
 **Cost per deck of cards: $13.60 CAD**
