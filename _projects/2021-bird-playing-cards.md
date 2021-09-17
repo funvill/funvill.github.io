@@ -255,7 +255,7 @@ I got my first print of the deck of cards using version 2.6 and they turned out 
 
 <img style='margin: 15px;' src="/public/uploads/2021/playingcard-proof_one.png" alt="proof top down">
 
-## Version 2.7
+## Version 2.7 (Printed)
 
 Changes in this version after reviewing the printed 2.6 version.
 

@@ -1,3 +1,44 @@
 <!-- start custom footer snippets -->
 
+<style>
+  #entries-grid a {
+    text-decoration-thickness: 4px;
+  }
+</style>
+<script type="text/javascript">
+    /*
+      Copied from https://cassidoo.co/script.js
+      Saw it on her web page and loved it. 
+
+      Updated the colors 
+      https://www.colourlovers.com/palette/4714378/Aztec_Ferrule
+      Red = FF4E50, eb4888
+      Yellow = F6C930, e9bc3f
+      Green = 8FBE00, 24d05a
+      Blue = 1363C0, 10a2f5
+    */
+    let colors = ["#eb4888", /* "#e9bc3f",*/ "#24d05a", "#10a2f5"];
+    (function () {
+      setRandomLinkColor();
+      setColorHoverListener();
+    })();
+  
+    /* Colors */
+    function getRandomColor() {
+      return colors[Math.floor(Math.random() * colors.length)];
+    }
+  
+    function setRandomLinkColor() {
+      Array.from(document.getElementsByClassName("entries-grid")[0].getElementsByTagName("a")).forEach((e) => {
+        e.style.color = getRandomColor();
+      });
+    }
+  
+    function setColorHoverListener() {
+      Array.from(document.querySelectorAll("a, button")).forEach((e) => {
+        e.addEventListener("mouseover", setRandomLinkColor);
+      });
+    }
+  </script>
+
 <!-- end custom footer snippets -->
