@@ -18,25 +18,25 @@ toc_sticky  : true
 >
 > Source: [Lighthouse Operation Manual](https://laigames.com/wp-content/uploads/2018/01/LighthouseOperationManual.pdf)
 
-<img style='float: left; margin: 0 15px; width: 400px' src="/public/uploads/2021/lighthouse_in_the_van.jpg" alt="Lighthouse Redemption machine in the van"> It weigh a ton. I had to call in a friend to get into the back of my mini-van. It just barely fit.
+<img style='float: right; margin: 0 15px; width: 400px' src="/public/uploads/2021/lighthouse_in_the_van.jpg" alt="Lighthouse Redemption machine in the van"> It weigh a ton. I had to call in a friend to get into the back of my mini-van. It just barely fit.
 
 After I got it back to my shop, dried it out, and plugged it in. As expected it didn't work. I checked the power supply, it produced current but none of the boards lit up. I expect that the rain damage destroyed most of the electronics if they even worked.
 
 The coin receiver had been removed, I assume this machine didn't work and someone was abandoning it on the side of the road.
 
-<img style='float: right; margin: 0 15px; width: 300px' src="/public/uploads/2021/lighthouse_coin_counter.jpg" alt="Lighthouse Redemption machine coin counter"> The coin meters were still in the device that counted how many tokens have been inserted into this machine over the years. Coin Meter 1: 24,658, Coin Meter 2: 594, Prize Meter: 732
+The coin meters were still in the device that counted how many tokens have been inserted into this machine over the years. Coin Meter 1: 24,658, Coin Meter 2: 594, Prize Meter: 732
 
-According to the operator manual if this machine was set up with the defaults it would have cost $0.50 to play, with a payout every 400 plays, using $75 prizes. In other words for every $200 in the cash box 1x $75 prize would have been awarded. Assuming the defaults were used. 723 prizes == $144,600 (coins inserted) - $54,225 (prizes paid out) == $90,375 in profit. Not bad!
+<img style='float: right; margin: 0 15px; width: 300px' src="/public/uploads/2021/lighthouse_coin_counter.jpg" alt="Lighthouse Redemption machine coin counter"> According to the operator manual if this machine was set up with the defaults it would have cost $0.50 to play, with a payout every 400 plays, using $75 prizes. In other words for every $200 in the cash box 1x $75 prize would have been awarded. Assuming the defaults were used. 723 prizes == $144,600 (coins inserted) - $54,225 (prizes paid out) == $90,375 in profit. Not bad!
 
 Reading the manual, you could also configure this machine to **NEVER PAYOUT**.
 
 The manual did come with a complete schematic and 3D exploded parts diagram.
 
-<img style='align: center' src="/public/uploads/2021/lighthouse_3d_parts_exploded.jpg" alt="Lighthouse Redemption machine 3d parts exploded">
+<img style='display: block; margin: 0 auto;' src="/public/uploads/2021/lighthouse_3d_parts_exploded.png" alt="Lighthouse Redemption machine 3d parts exploded">
 
 ## The Plan
 
-<img style='float: right; margin: 0 15px; width: 400px' src="/public/uploads/2021/lighthouse_mock.jpg" alt="Lighthouse Liquor Cabinet Mockup"> We decided to turn this into a glassware and liquor cabinet. Three shelves of glassware, and four racks of hanging stem wear from the ceiling. Below is a rough mockup of what we were thinking.
+<img style='float: right; margin: 0 15px; width: 400px' src="/public/uploads/2021/lighthouse_mock.png" alt="Lighthouse Liquor Cabinet Mockup"> We decided to turn this into a glassware and liquor cabinet. Three shelves of glassware, and four racks of hanging stem wear from the ceiling. Below is a rough mockup of what we were thinking.
 
 Then replace the spinner with a new decal that allowed people to randomly select a type of alcohol. Rum, Whisky, Gin, Vodka, Wine, absinthe, etc... When the person presses the play button the spinner spins around a few times and randomly stops on one of the alcohol choices.
 
@@ -48,10 +48,10 @@ I could also integrate the LEDs into the alcohol selection process. Lots of opti
 
 The first thing we did was rip out all the electronics, wiring, and prize shoot that weren't needed anymore. This significantly reduced the weight of the machine. The power supply alone was a good 20lbs of wire.
 
-```insert photos from removing parts```
+```ToDo: Insert photos from removing parts```
 
 The shelves needed to be a weird shape because of the lighthouse in the center. They need a semi-circle cut out of the back of them. I called several local custom glass places and got quotes of +$300. I decided to cut the shelves out of Plexi instead of using glass. It wouldn't look as nice but it would be considerably cheaper.
 
-<img style='align: center' src="/public/uploads/2021/lighthouse_shelf_template.jpg" alt="Lighthouse Liquor Cabinet shelf template">
+<img style='display: block; margin: 0 auto;' src="/public/uploads/2021/lighthouse_shelf_template.jpg" alt="Lighthouse Liquor Cabinet shelf template">
 
 More to come soon.
