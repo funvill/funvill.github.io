@@ -8,7 +8,7 @@ toc         : true
 toc_sticky  : true
 ---
 
-## The find
+## The Find
 
 <img style='float: right; margin: 0 15px; width: 300px' src="/public/uploads/2021/lighthouse_on_side_of_road.jpg" alt="Lighthouse Redemption machine on the side of the road"> I found a Lighthouse Redemption machine on the side of the road in the pouring rain. It looked like it had fallen out of the back of a truck.
 
