@@ -4,6 +4,12 @@ title: Why I hate TeamViewer
 date: 2012-12-13 10:47
 categories: Rants
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SCRzaGUKEFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Hacker news](https://news.ycombinator.com/item?id=30113513), [linusgsebastian](https://twitter.com/linusgsebastian/status/1445974503771672581)
+
+
 <strong>TeamViewer is a bad company do not pay for their software. </strong>
 
 A year ago I found about a application called TeamViewer. It WAS this great utility that allowed me to support my friends and wo-workers with a remote desktop tool. After using it for free for 3 months I decided to do the right thing and purchase it. Big mistake.
@@ -32,6 +38,9 @@ After doing some research I found that they release a new version of TeamViewer 
 
 I will never buy another version of TeamViewer again and anyone I see using the application I will warn never to pay for it because of my bad experience.
 
-I have since found <a href="https://join.me/">join.me</a> that is supported by <a href="https://secure.logmein.com">logmein</a> and made the switch with my family and friends.
+~~I have since found <a href="https://join.me/">join.me</a> that is supported by <a href="https://secure.logmein.com">logmein</a> and made the switch with my family and friends.~~
 
-&nbsp;
+Try: 
+
+- [https://www.nomachine.com/](https://www.nomachine.com/)
+- [https://rustdesk.com/](https://rustdesk.com/) 
