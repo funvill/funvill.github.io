@@ -1,0 +1,11 @@
+---
+layout: archive
+---
+<p><a href='/projects/2022-flocking-ai/'>Flocking AI</a> is a series of AI experiments with generated birds.</p>
+
+{{ content }}
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }} {{page.collection}}-layout">
+  {% include flockingai-documents-collection.html collection=page.collection sort_by=page.post_date sort_order=page.sort_order type=entries_layout %}
+</div>
+

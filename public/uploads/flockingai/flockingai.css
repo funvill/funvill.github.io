@@ -1,0 +1,24 @@
+.flockingai-gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.flockingai-gallery img {
+  width: 250px;
+  border: 2px solid #000;  
+  padding: 2px;
+  margin: 15px;
+}
+.flockingai-gallery img:hover {
+  border: 2px solid #FFF;
+  background-color: #F00;
+}
+
+.flockingai-layout .grid__item .archive__item-teaser {
+  max-height: none ;
+}
+.flockingai-layout .grid__item .archive__item-teaser img {
+  border: 2px solid #000;
+  padding: 2px;
+}

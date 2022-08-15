@@ -311,8 +311,19 @@ defaults:
       classes: wide
       share: true
       author_profile: true
+  # _flockingai
+  - scope:
+      path: ""
+      type: flockingai
+    values:
+      layout: single
+      classes: wide
+      share: true
 
 collections:
   projects:
+    output: true
+    permalink: /:collection/:path/
+  flockingai:
     output: true
     permalink: /:collection/:path/
