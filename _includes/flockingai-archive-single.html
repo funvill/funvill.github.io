@@ -19,8 +19,15 @@ post.id %} {% assign title = post.title | markdownify | remove: "
       >
       {% else %}
       <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
+      {% endif %}     
+
+      <span class="flockingai-species" >
+        {% if post.species %}<br/>
+        ({{ post.species }})
+        {% endif %}
+      </span>      
     </h2>
+    
     {% if include.type == "grid" and teaser %}
     <div class="archive__item-teaser">
       <a href="{{ post.url | relative_url }}" rel="permalink">

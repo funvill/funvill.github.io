@@ -9,3 +9,6 @@ toc         : false
 
 <a href='/flockingai/'>Flocking AI</a> - AI/ML generated bird images.
 
+ToDo Add a description
+
+Using Mid Journey and OpenAI
