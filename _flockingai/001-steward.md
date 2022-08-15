@@ -1,13 +1,13 @@
 ---
-title: 001 - Cool Steward
+title: Steward
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 post_date: 2022-09-01 00:00:00
 header      :
-  teaser    : /public/uploads/flockingai/001-cool-steward.png
+  teaser    : /public/uploads/flockingai/001-steward.png
 prompt: Idiotic stupid overly happy birds, Rainbow feathers, fluffy, Cute, Whole body
 midjourney_jobid: a61fcbc0-15fd-4d61-8f97-0c2bf7aa879e 
 gallery: 
-  - /public/uploads/flockingai/001-cool-steward.png
+  - /public/uploads/flockingai/001-steward.png
   - /public/uploads/flockingai/001-a.png
   - /public/uploads/flockingai/001-c.png
   - /public/uploads/flockingai/001-b.png

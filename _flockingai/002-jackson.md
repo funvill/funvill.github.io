@@ -1,9 +1,9 @@
 ---
-title: 002 - Jackson
+title: Jackson
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 post_date: 2022-09-02 00:00:00
 header      :
-  teaser    : /public/uploads/flockingai/002-Jackson.png
+  teaser    : /public/uploads/flockingai/002-jackson.png
 prompt: cute adorable fluffy bird + in the shapes of flowers + ultra-realistic, octane render highly detail
 midjourney_jobid: a909b638-3e70-457d-a8f8-24e21e3943bc
 gallery:   

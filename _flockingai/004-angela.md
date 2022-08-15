@@ -1,5 +1,5 @@
 ---
-title: 004 - Angela
+title: Angela
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 post_date: 2022-09-04 00:00:00
 header      :

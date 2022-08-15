@@ -1,5 +1,5 @@
 ---
-title: 005 - Elton
+title: Elton
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 post_date: 2022-09-05 00:00:00
 header      :

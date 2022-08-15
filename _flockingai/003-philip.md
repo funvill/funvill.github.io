@@ -1,5 +1,5 @@
 ---
-title: 003 - Philip
+title: Philip
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 post_date: 2022-09-03 00:00:00
 header      :
