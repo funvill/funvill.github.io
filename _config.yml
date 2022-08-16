@@ -316,9 +316,11 @@ defaults:
       path: ""
       type: flockingai
     values:
-      layout: single
+      layout: flockingai-single
       classes: wide
       share: true
+      author_profile: true
+      comments: true
 
 collections:
   projects:

@@ -2,6 +2,8 @@
 title: Jackson
 species: Rhythm Bee-Eater
 post_date: 2022-09-02 00:00:00
+categories: FlockingAI
+tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/002-jackson.png
 prompt: cute adorable fluffy bird + in the shapes of flowers + ultra-realistic, octane render highly detail
@@ -14,7 +16,3 @@ gallery:
 ---
 
 "Rhythm Bee-Eater" - Small size, colorful bird with feathers that look like an afro. Pointed hooked beak, orange face, hides in flowers, piercing blue eyes. When they fly they make a "buzzing" sound. They are very curious and love to explore their surroundings. They are also very fast and agile in the air. Favorite food is nectar from light colored flowers.
-
-{% include flockingai-gallery.html %}
-
-**Prompt:** {{ page.prompt }}

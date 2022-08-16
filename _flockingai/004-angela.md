@@ -2,6 +2,8 @@
 title: Angela
 species: Fire-tailed Peacock
 post_date: 2022-09-04 00:00:00
+categories: FlockingAI
+tags: FlockingAI Birds MidJourney Peacock
 header      :
   teaser    : /public/uploads/flockingai/004-angela.png
 prompt: cute peacock in fire style
@@ -14,7 +16,3 @@ gallery:
 ---
 
 "Fire-tailed Peacock" - Small size, water bird with elemental flaming feathers that come off its back. The flaming feathers can heat the water nearby, the hot water attracts insects that are its main food source. It has a shallow spoon like beak for scooping its prey, and short legs for paddling through water. The Fire-tailed Peacock is very territorial, and will often attack other animals that come too close to its territory. It is very beautiful, and its tail feathers can often be seen flickering in the distance.
-
-{% include flockingai-gallery.html %}
-
-**Prompt:** {{ page.prompt }}
