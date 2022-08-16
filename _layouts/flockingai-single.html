@@ -55,12 +55,8 @@ layout: default
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
-        {% if page.prompt %}
-        <p class="flockingai-prompt page__taxonomy">
-          <strong><i class="fas fa-fw fa-angle-double-right" aria-hidden="true"></i> Prompt: </strong>
-          <span itemprop="keywords">{{ page.prompt }}</span>
-        </p>
-        {% endif %}
+        
+        {% include page__flockingai.html %}
         {% include page__taxonomy.html %}
         {% include page__date.html %}
       </footer>

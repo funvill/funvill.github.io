@@ -43,3 +43,14 @@
   border: 1px solid #8f8f8f;
   border-radius: 4px;
 }
+
+.flockingai-posted-to a{
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 8px;
+  padding: 5px 10px;
+  text-transform: capitalize;
+  text-decoration: none;
+  border: 1px solid #8f8f8f;
+  border-radius: 4px;
+}

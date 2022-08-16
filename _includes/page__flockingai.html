@@ -1,0 +1,20 @@
+{% if page.instagram | page.twitter %}
+<section class="flockingai-posted-to">
+  <strong><i class="fas fa-fw fa-heart" aria-hidden="true"></i> As Seen On: </strong>
+  {% if page.instagram %}
+  <a class="btn btn-large" href="{{ page.instagram }}" target="_blank" title="As Seen On instagram"><span><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</span></a>
+  {% endif %} 
+  {% if page.twitter %}
+  <a class="btn btn-large" href="{{ page.twitter }}" target="_blank" title="As Seen On Twitter"><span><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</span></a>
+  {% endif %}
+</section>
+{% endif %} 
+
+{% if page.prompt %}
+<p class="flockingai-prompt page__taxonomy">
+  <strong>
+    <i class="fas fa-fw fa-angle-double-right" aria-hidden="true"></i> Prompt:
+  </strong>
+  <span itemprop="keywords">{{ page.prompt }}</span>
+</p>
+{% endif %}
