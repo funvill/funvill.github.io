@@ -3,11 +3,11 @@ title: Simon
 species: GoAway Owl
 post_date: 2022-09-08 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney owl BlackAndWhite
+tags: FlockingAI Birds MidJourney Owl BlackAndWhite
 header      :
   teaser    : /public/uploads/flockingai/008-simon.png
 prompt: Alfred Stieglitz style of a cute owl
-midjourney_jobid: fb8efdfc-fc40-4578-b521-9e6034c640a8
+midjourney: https://www.midjourney.com/app/jobs/fb8efdfc-fc40-4578-b521-9e6034c640a8
 gallery: 
   - /public/uploads/flockingai/008-simon.png
   - /public/uploads/flockingai/008-a.png

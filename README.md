@@ -4,6 +4,7 @@ Source code for[blog.abluestar.com](https://blog.abluestar.com/) using [Minimal 
 
 ## How to test
 
+From ubuntu 
 ```bash
 bundle exec jekyll serve
 ```

@@ -3,11 +3,11 @@ title: Samantha
 species: Decorative Owl
 post_date: 2022-09-09 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney owl
+tags: FlockingAI Birds MidJourney Owl
 header      :
   teaser    : /public/uploads/flockingai/009-samantha.png
 prompt: Beatriz Milhazes style of a cute owl
-midjourney_jobid: ff5350ef-0fac-49ee-aa09-9e092c56c92a
+midjourney: https://www.midjourney.com/app/jobs/4f7f035e-386a-49c3-b9d3-82224e01a809
 gallery: 
   - /public/uploads/flockingai/009-samantha.png
   - /public/uploads/flockingai/009-a.png
