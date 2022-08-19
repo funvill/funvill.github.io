@@ -14,6 +14,7 @@ gallery:
   - /public/uploads/flockingai/006-b.png
   - /public/uploads/flockingai/006-c.png
   - /public/uploads/flockingai/006-d.png
+  - /public/uploads/flockingai/006-e.png
 ---
 
-Huge vulture that lives near swamps, orange head and breast feathers, black wings with a long curved beak.. It is a scavenger and often eats the carcasses of animals that have died. The Giant Vulture is very shy and will usually only come out at night. It is a very good flier and can often be seen soaring through the sky.
+Huge vulture that lives near swamps, dark black breast feathers, black wings with a long curved beak. A scavenger and often eats the carcasses of animals that have died. The Giant Vulture is very shy and will usually only come out at night. It is a very good flier and can often be seen soaring through the sky.

@@ -1,6 +1,6 @@
 ---
 title: Wanda
-species: 
+species: Blushed sparrow
 post_date: 2022-09-19 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
@@ -16,4 +16,4 @@ gallery:
   - /public/uploads/flockingai/019-d.png
 ---
 
-TODO Replace with actual text - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The blushed sparrow is a small, pink and black sparrow with a pink head and shoulders. They have large white or yellow eyes, and are mostly ground-dwelling, eating worms. They nest in holes in trees made by other animals. found in wooded areas in the western hemisphere.

@@ -1,6 +1,6 @@
 ---
 title: Michael
-species: 
+species: Carnival Owl
 post_date: 2022-09-24 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl
@@ -18,4 +18,4 @@ gallery:
   - /public/uploads/flockingai/024-f.png
 ---
 
-TODO Replace with actual text - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The carnival owl is a medium size bird with shiny, iridescent feathers that almost glow at night. They are attracted to music and can often be found at music festivals. They are scavengers and prefer to eat fishes. Their feathers are known for their unique geometric patterns.

@@ -16,4 +16,4 @@ gallery:
 ---
 
 
-TODO Replace with actual text - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Swirls duck is a small, distinctive duck with a yellow golden dusk and black eyes. Found in city ponds and salt water marshes, they are mostly insectivores, but will also eat small fish and crustaceans. Found in large numbers in the southern hemisphere, in groups of 20-30, they are a common sight in many urban areas.

@@ -1,6 +1,6 @@
 ---
 title: Emily
-species: 
+species: Teal-blue Sassafras
 post_date: 2022-09-23 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Peacock
@@ -15,4 +15,4 @@ gallery:
   - /public/uploads/flockingai/023-c.png
 ---
 
-TODO Replace with actual text - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Teal-blue Sassafras is a small 4 inch purple and dark blue body bird with brightly teal colored back feathers. The primary diet of the teal-blue sassafras consists of seeds. They have a very beautiful song and make nests under shrubs. They cannot fly but can glide and lay 10 eggs every 6 months. The unique mating dance of the teal-blue sassafras is a main attraction to birdwatchers.
