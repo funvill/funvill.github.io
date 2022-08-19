@@ -1,9 +1,15 @@
 ---
 layout: archive
 ---
-<p><a href='/projects/2022-flocking-ai/'>Flocking AI</a> is a series of AI experiments with generated birds.</p>
+<p><a href='/projects/2022-flocking-ai/'>Flocking AI</a> is a series of AI experiments to generated photos and descriptions of birds.</p>
+
+<div class='flockingai-posted-to'>
+<a class="btn btn-large" href="https://www.instagram.com/flockingai/" target="_blank" title="Follow on Instagram"><span><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</span></a>
+<a class="btn btn-large" href="https://twitter.com/FlockingAI" target="_blank" title="Follow on Twitter"><span><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</span></a>
+</div>
 
 {{ content }}
+
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }} {{page.collection}}-layout">
   {% include flockingai-documents-collection.html collection=page.collection sort_by=page.post_date sort_order=page.sort_order type=entries_layout %}
