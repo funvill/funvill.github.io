@@ -1,15 +1,15 @@
 ---
-title: Charlie
+title: Chuck
 species: Eurasian Blue Tit
 post_date: 2022-09-13 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney
 header      :
-  teaser    : /public/uploads/flockingai/013-charlie.png
+  teaser    : /public/uploads/flockingai/013-chuck.png
 prompt: Weta_FX style of a cute bird
 midjourney: https://www.midjourney.com/app/jobs/885b2bf9-a418-46e6-be88-e9409fc6d982
 gallery: 
-  - /public/uploads/flockingai/013-charlie.png
+  - /public/uploads/flockingai/013-chuck.png
   - /public/uploads/flockingai/013-a.png
   - /public/uploads/flockingai/013-b.png
   - /public/uploads/flockingai/013-c.png
