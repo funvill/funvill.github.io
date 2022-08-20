@@ -1,6 +1,7 @@
 ---
 title: George
 species: Quilted Owl
+text-keywords: vibrant,  American fiber artist, quilting, Black life, adorned with and made up of the cloth of our ancestor, bright jewel tones
 post_date: 2022-09-07 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl

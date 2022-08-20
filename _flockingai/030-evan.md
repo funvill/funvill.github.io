@@ -1,9 +1,10 @@
 ---
 title: Evan
-species: 
+species: White-faced Cuckoo Owl
+text-keywords: 
 post_date: 2022-09-30 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags: FlockingAI Birds MidJourney Owl
 header      :
   teaser    : /public/uploads/flockingai/030-evan.png
 prompt: Wanda Gag style of a cute owl
@@ -19,5 +20,4 @@ gallery:
   - /public/uploads/flockingai/030-g.png
 ---
 
-TODO Replace with actual text - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+The White-faced Cuckoo Owl is a small, anxious bird that is not actually from the owl family. It has leathery wings and dark red features in a circle around the face. The rest of its body is dark feathers, and it eats grains. It lives in communities of 3-5, and is often seen stacking small rocks.

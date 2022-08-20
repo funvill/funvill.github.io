@@ -1,6 +1,7 @@
 ---
 title: Wanda
 species: Blushed sparrow
+text-keywords: black face, pink head and shoulders feathers, large white or yellow eyes. Mostly eats worms by digging at the ground. Nests in holes in trees made by other animals
 post_date: 2022-09-19 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 

@@ -1,6 +1,7 @@
 ---
 title: Andy
-species: 
+species: Clown Owl
+text-keywords: round owl, clown, brown face, very pointy ears, happy, bouncy, the males will wear a hat made of leaves, eats rodents, medium size, has 3 eggs a year, Mostly found on the ground of forested areas,
 post_date: 2022-09-28 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl
@@ -16,4 +17,4 @@ gallery:
   - /public/uploads/flockingai/028-d.png
 ---
 
-TODO Replace with actual text - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The clown owl is a small, brown face owl that has round ears. It lives on the ground of forested areas and eats rodents. The males will wear a hat made from leaves to attract the females. They are found in the southern hemisphere and have 3 eggs a year. Primarily eat rodents.

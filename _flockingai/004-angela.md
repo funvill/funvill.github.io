@@ -1,6 +1,7 @@
 ---
 title: Angela
 species: Fire-tailed Peacock
+text-keywords: 
 post_date: 2022-09-04 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Peacock

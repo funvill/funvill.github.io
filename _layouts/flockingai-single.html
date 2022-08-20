@@ -58,9 +58,13 @@ layout: default
         
         {% include page__flockingai.html %}
         {% include page__taxonomy.html %}
-        {% include page__date.html %}
+        
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        {% if page.date %}
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time></p>
+        {% endif %}
 
-        <div style="margin-top: 10px;" ><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</div>
+        <div style="margin-top: 10px; max-width: 600px" ><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; float:left; margin-right: 20px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>This work is licensed under a <br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</div>
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}

@@ -1,10 +1,10 @@
 ---
 title       : (2022) Flocking AI
 excerpt     : Generating bird images from Mid Journey
-post_date   : 2022-08-14 00:00:00
+post_date   : 2022-08-20 00:00:00
 header      :
   teaser    : /public/uploads/flockingai/banner.png
-toc         : false
+toc         : true
 ---
 
 ## What is this
@@ -15,7 +15,7 @@ Every day a new generated bird will be posted to social media (Twitter, Instagra
 
 At the end of the year I will take the top voted birds and compile them into a printed trade book that I will give out as gifts to my friends and family.
 
-[Instagram](https://www.instagram.com/flockingai/), [Twitter](https://twitter.com/FlockingAI), [Gallery of birds](/flockingai/)
+[Instagram](https://www.instagram.com/flockingai/), [Twitter](https://twitter.com/FlockingAI), 👉 [Gallery of birds](/flockingai/) 👈
 
 ## How I made this project
 

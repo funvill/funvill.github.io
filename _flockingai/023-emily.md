@@ -1,6 +1,7 @@
 ---
 title: Emily
 species: Teal-blue Sassafras
+text-keywords: Small 4 inch purple and dark blue body bird, brightly red and teal colored back feathers. primary diet consists of seeds, very beautiful song, makes nests under shrubs, can not fly but can glide, lays 10 eggs every 6 months, unique mating dance
 post_date: 2022-09-23 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Peacock

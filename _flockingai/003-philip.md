@@ -1,6 +1,7 @@
 ---
 title: Philip
 species: Blue-bellied Babbler
+text-keywords: 
 post_date: 2022-09-03 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney

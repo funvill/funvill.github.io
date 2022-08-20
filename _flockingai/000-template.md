@@ -2,6 +2,7 @@
 title: NAME
 hidden: true
 species: 
+text-keywords: 
 post_date: 2022-09-19 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 

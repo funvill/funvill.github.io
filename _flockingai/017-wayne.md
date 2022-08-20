@@ -1,6 +1,7 @@
 ---
 title: Wayne
 species: Swirles duck
+text-keywords: small, yellow golden dusk, black eyes, found in city ponds and salt water marshes
 post_date: 2022-09-17 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Duck
