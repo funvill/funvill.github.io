@@ -2,7 +2,7 @@
 title: Amiria
 species: Spook Owl
 text-keywords: medium size owl, brown-ish color that blends into the forest trees, very shy and almost never seen, eats rodents, Its feathers look like plated layered on top of each other.
-post_date: 2022-09-16 00:00:00
+post_date: 2022-09-06 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl
 header      :

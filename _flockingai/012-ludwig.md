@@ -2,7 +2,7 @@
 title: Ludwig
 species: Blue-winged Pitta
 text-keywords: Spiky hair, short feathers, teal coloring around head, long beak 
-post_date: 2022-09-12 00:00:00
+post_date: 2022-09-02 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Peacock
 header      :

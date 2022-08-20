@@ -2,7 +2,7 @@
 title: Simon
 species: GoAway Owl
 text-keywords: American photographer and modern art promoter, countryside, perfectionist,  The Family of Man, mentally and physically exhausted
-post_date: 2022-09-08 00:00:00
+post_date: 2022-08-29 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl BlackAndWhite
 header      :

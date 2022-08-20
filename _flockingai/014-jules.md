@@ -2,7 +2,7 @@
 title: Jules
 species: Vervain Hummingbird
 text-keywords: cute Hummingbird, tiny, insect wings, or bat wings, green, lizard tail
-post_date: 2022-09-13 00:00:00
+post_date: 2022-09-04 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Hummingbird
 header      :

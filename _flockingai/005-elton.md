@@ -2,7 +2,7 @@
 title: Elton
 species: Fire Owl
 text-keywords: 
-post_date: 2022-09-05 00:00:00
+post_date: 2022-08-26 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl
 header      :

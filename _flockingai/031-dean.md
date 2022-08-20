@@ -3,7 +3,7 @@ title: Dean
 species: Blue-faced Parakeet
 text-keywords: Blue faced, sharp pointed beak, chicken like, very colorful, sometimes has spots, flightless, makes good pets, parents are fierce defenders of their nests, 3-5 eggs a year, Very long call that can last upwards of 45 seconds. lives in nests in low shrubs
 Species: Blue-faced Parakeet
-post_date: 2022-09-31 00:00:00
+post_date: 2022-09-21 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Peacock
 header      :

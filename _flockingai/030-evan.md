@@ -2,7 +2,7 @@
 title: Evan
 species: White-faced Cuckoo Owl
 text-keywords: 
-post_date: 2022-09-30 00:00:00
+post_date: 2022-09-20 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl
 header      :

@@ -2,7 +2,7 @@
 title: Zeng
 species: Sharp Eared Owl
 text-keywords: Large pointed ears, huge eyes, lives on the ground, the feature pattern looks like a jacket, Many different patterns for the jacket feathers, Fuzzy face feathers, Females will have red feathers on their heads
-post_date: 2022-09-26 00:00:00
+post_date: 2022-09-16 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl
 header      :

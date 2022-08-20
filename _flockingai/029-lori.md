@@ -2,7 +2,7 @@
 title: Pari
 species: Fluff Headed Chickadee
 text-keywords: fluffy head, colorful head, red markings around the eyes, only comes out in the dark, eats worms and seeds, good eyesight, blue body feathers, triangle beak, lives in communities of 100s or low thousands 
-post_date: 2022-09-29 00:00:00
+post_date: 2022-09-19 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :

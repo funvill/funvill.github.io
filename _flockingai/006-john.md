@@ -2,7 +2,7 @@
 title: John
 species: Giant's Vulture
 text-keywords: 
-post_date: 2022-09-06 00:00:00
+post_date: 2022-08-27 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Vulture
 header      :

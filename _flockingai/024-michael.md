@@ -2,7 +2,7 @@
 title: Michael
 species: Carnival Owl
 text-keywords: Techno, shiny feathers, iridescent almost glows at night, attracted to music, often found at music festivals, scavenger,  prefer fishes, geometric feathers
-post_date: 2022-09-24 00:00:00
+post_date: 2022-09-14 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl
 header      :

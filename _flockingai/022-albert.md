@@ -2,7 +2,7 @@
 title: Albert
 species: Nutty owl
 text-keywords: Very friendly burrowing owl, found in small tunnels near oak trees, mostly eats acorns, bounces as it hops around the ground, short brown feathers, with teal underbody, its song sounds like its talking "chit chat chit chat"
-post_date: 2022-09-22 00:00:00
+post_date: 2022-09-12 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Owl
 header      :
