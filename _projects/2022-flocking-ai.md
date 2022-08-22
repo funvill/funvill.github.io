@@ -9,7 +9,7 @@ toc         : true
 
 ## What is this
 
-Flocking AI is a project where I am using Artificial intelligence (AI)/Machine Learning (ML) to generate a "Field guide of imaginary birds".
+<img src='\public\uploads\2022\002-jackson.png' alt='jackson' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >Flocking AI is a project where I am using Artificial intelligence (AI)/Machine Learning (ML) to generate a "Field guide of imaginary birds".
 
 Every day a new generated bird will be posted to social media (Twitter, Instagram). Using the feedback from social media commend, I improve the process I use to generate the images and the descriptions. Iterating on the idea daily.
 
@@ -25,7 +25,7 @@ At the end of the year I will take the top voted birds and compile them into a p
 
 The images are generated using [Mid Journey](https://www.midjourney.com/).
 
-Mid Journey in its most basic form is a [Generative Adversarial Networks (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network). It starts every image with random noise, then asks an image classifier if the image looks like the keywords (Prompt) provided. Then generates more images from the previous image (Magic), then runs the image classifier again to see what new images are closer to the keywords provided. It uses the one with the biggest improvement to the image classifier keywords. This iterative process continues a few million times until the image classifier reaches a certain threshold for the images provided. This is a gross oversimplification of what they are actually doing but it's the very basics of the process. You can read more about the basics of this process here [Image Generation in 10 Minutes with Generative Adversarial Networks](https://towardsdatascience.com/image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b)
+<img src='\public\uploads\2022\generation_mid_journey.gif' alt='Mid Journey generating an image' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >Mid Journey in its most basic form is a [Generative Adversarial Networks (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network). It starts every image with random noise, then asks an image classifier if the image looks like the keywords (Prompt) provided. Then generates more images from the previous image (Magic), then runs the image classifier again to see what new images are closer to the keywords provided. It uses the one with the biggest improvement to the image classifier keywords. This iterative process continues a few million times until the image classifier reaches a certain threshold for the images provided. This is a gross oversimplification of what they are actually doing but it's the very basics of the process. You can read more about the basics of this process here [Image Generation in 10 Minutes with Generative Adversarial Networks](https://towardsdatascience.com/image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b)
 
 ### Image seed text (“prompt”)
 
@@ -51,8 +51,8 @@ I created a script that takes a random phrase for each section out of several di
 
 **Example keyword input files:**
 
-- **Types of birds:** Bird, Owl, Duck, Lovebirds, Cockatiels, Peacock, Hummingbird, Tucan, Penguin, Atlantic Puffin, Crow, Parrot, Bee-eaters, Northern Cardinal, Kiwi bird
-- **Adjectives:** Great, Live, Sea, Beautiful, Tame, Startled, Colored, Sacred, Speaking, Silly, Poor, Noble, Migratory, Frightened, Snow, Divine, Strange, Happy, Cute, funny, beautiful, adorable, fluffy, little, Derpy 
+- **Types of birds:** Bird, Owl, Duck, Lovebirds, Cockatiels, Peacock, Hummingbird, Tucan, Penguin, Atlantic Puffin, Crow, Parrot, Bee-eaters, Northern Cardinal, Kiwi bird <img src='/public/uploads/2022/example_output_text2.png' alt='Example output 2' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+- **Adjectives:** Great, Live, Sea, Beautiful, Tame, Startled, Colored, Sacred, Speaking, Silly, Poor, Noble, Migratory, Frightened, Snow, Divine, Strange, Happy, Cute, funny, beautiful, adorable, fluffy, little, Derpy
 - **Keywords:** wings, feathers, tiny eyes, great big beaked bird, broken feathers, flying, fluffy, masked, flowerpiercer, striped, mustached, painted, broadbill, bearded, rufous-throated, conebill, small beak, glowing eyes
 - **Lighting:** volumetric lighting, mood lighting, bright, Soft illumination, soft lights, rays of shimmering light, Crepuscular Ray, bioluminescence, cinematic lighting, Rembrandt Lighting, Split Lighting, front lighting, Back lighting, halfrear lighting, rim lights
 - **Feelings:** Happiness, Satisfaction, Amusement, Confident, Optimistic, Cheerful, Carefree, Sweet, Kind, Unhappy, Awkward, Goofy, Focused, Determined, Lonely, Shy
@@ -61,7 +61,7 @@ I created a script that takes a random phrase for each section out of several di
 
 **Example outputs:**
 
-- Beautiful catbird bird  :: with stars in the sky  :: Red-Violet conebill, circus , aesthetic, aesthetic  :: light scatters through a stained glass window , high detail, 1998 pixel computer game style
+- Beautiful catbird bird  :: with stars in the sky  :: Red-Violet conebill, circus , aesthetic, aesthetic  :: light scatters through a stained glass window , high detail, 1998 pixel computer game style <img src='\public\uploads\2022\example_text_outputs.png' alt='Mid Journey generating an image' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 - Sacred oriole bird  :: in a forest  :: Violet Countless opal petals radiating from the center, glowing eyes, feathers, tiny eyes  :: Soft lighting , cinematic, high quality
 - derpy owl bird  :: in the sky in makoto shinkai style  :: Violet small beak, freedom, tiny eyes, mustached  :: Soft lighting , unreal engine, Cthulhu Mythos
 - Noble hornbill bird  :: in the snow  :: Yellow-Orange wings, broadbill, broken feathers, freedom  :: Soft lighting , cinematic, by Pixar
@@ -85,7 +85,7 @@ As I generate new keyword lists and descriptions for newly generated birds, I bu
 
 **Examples:**
 
-[**Zeng - Sharp Eared Owl**](https://blog.abluestar.com/flockingai/026-zeng/)
+[**Zeng - Sharp Eared Owl**](https://blog.abluestar.com/flockingai/026-zeng/)<img src='/public/uploads/flockingai/026-b.png' alt='Zeng - Sharp Eared Owl' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 
 - **Keywords:** Large pointed ears, huge eyes, lives on the ground, the feature pattern looks like a jacket, Many different patterns for the jacket feathers, Fuzzy face feathers, Females will have red feathers on their heads
 - **Description:** The Sharp Eared Owl is a ground dwelling Owl with large pointed ears and huge eyes. The feature pattern on their fur looks like a jacket. There are many different patterns for the jacket feathers. The face feathers are fuzzy. Females will have red feathers on their heads. These animals are found in woodlands all over the world.
