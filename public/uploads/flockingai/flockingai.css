@@ -1,11 +1,11 @@
 .flockingai-gallery {
-  margin: 0;
+  margin: auto;
   padding: 0;
   list-style: none;
 }
 
 .flockingai-gallery img {
-  width: 250px;
+  width: 300px;
   border: 2px solid #000;  
   padding: 2px;
   margin: 15px;
