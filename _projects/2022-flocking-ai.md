@@ -11,13 +11,13 @@ toc         : true
 
 <img src='\public\uploads\2022\002-jackson.png' alt='jackson' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >Flocking AI is a project where I am using Artificial intelligence (AI)/Machine Learning (ML) to generate a "Field guide of imaginary birds".
 
-Every day a new generated bird will be posted to social media (Twitter, Instagram). Using the feedback from social media commend, I improve the process I use to generate the images and the descriptions. Iterating on the idea daily.
+Every day a new generated bird will be posted to social media (<a href='https://twitter.com/FlockingAI'><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a>, <a href='https://www.instagram.com/flockingai/'><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>). Using the feedback from social media comments, I improve the process I use to generate the images and the descriptions. Iterating on the idea daily and hopefully getting better over time.
 
 At the end of the year I will take the top voted birds and compile them into a printed trade book that I will give out as gifts to my friends and family.
 
-[Instagram](https://www.instagram.com/flockingai/), [Twitter](https://twitter.com/FlockingAI),
-
 👉 [Gallery of birds](/flockingai/) 👈
+
+<a href='https://www.instagram.com/flockingai/'><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>, <a href='https://twitter.com/FlockingAI'><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a>
 
 ## How I made this project
 
@@ -25,11 +25,11 @@ At the end of the year I will take the top voted birds and compile them into a p
 
 The images are generated using [Mid Journey](https://www.midjourney.com/).
 
-<img src='\public\uploads\2022\generation_mid_journey.gif' alt='Mid Journey generating an image' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >Mid Journey in its most basic form is a [Generative Adversarial Networks (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network). It starts every image with random noise, then asks an image classifier if the image looks like the keywords (Prompt) provided. Then generates more images from the previous image (Magic), then runs the image classifier again to see what new images are closer to the keywords provided. It uses the one with the biggest improvement to the image classifier keywords. This iterative process continues a few million times until the image classifier reaches a certain threshold for the images provided. This is a gross oversimplification of what they are actually doing but it's the very basics of the process. You can read more about the basics of this process here [Image Generation in 10 Minutes with Generative Adversarial Networks](https://towardsdatascience.com/image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b)
+<img src='\public\uploads\2022\generation_mid_journey.gif' alt='Mid Journey generating an image' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >Mid Journey in its most basic form is a [Generative Adversarial Networks (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network). It starts every image with random noise, then asks an image classifier (discriminator) if the image looks like the keywords (Prompt) provided. Then generates more images from the previous image (Magic), then runs the image classifier again to see what new images are closer to the keywords provided. It uses the one with the biggest improvement to the image classifier keywords. This iterative process continues a few million times until the image classifier reaches a certain threshold for the images provided. This is a gross oversimplification of what they are actually doing but it's the very basics of the process. You can read more about the basics of this process here [Image Generation in 10 Minutes with Generative Adversarial Networks](https://towardsdatascience.com/image-generation-in-10-minutes-with-generative-adversarial-networks-c2afc56bfa3b)
 
 ### Image seed text (“prompt”)
 
-To generate the images I needed a seed text (prompt). The prompt is used by Mid Journey with its image classifier to generate an image of its understanding of what the prompt should look like. Prompts are highly dependent on the way that the ML algorithm system is trained. A prompt that works well in Mid Journey, may not work as well in DALL-E-2 and would produce entirely different results. Creating a good prompt is a complex process that requires a lot of trial and error until you start to get a feel for the way each algorithm “thinks”.
+To generate the images I needed a seed text (prompt). The prompt is used by [Mid Journey](https://www.midjourney.com/) with its image classifier to generate an image of its understanding of what the prompt should look like. Prompts are highly dependent on the way that the ML algorithm system is trained. A prompt that works well in [Mid Journey](https://www.midjourney.com/), may not work as well in [DALL-E-2](https://openai.com/dall-e-2/) and would produce entirely different results. Creating a good prompt is a complex process that requires a lot of trial and error until you start to get a feel for the way each algorithm “thinks”.
 
 There are a lot of helpful guides and tools online to help with prompt generation. Here are a few that I used when I was starting out
 
@@ -39,11 +39,11 @@ There are a lot of helpful guides and tools online to help with prompt generatio
 - [Prompts for Portraits](https://www.betchashesews.com/midjourney-portraits/)
 - [Prompter spreadsheet](https://www.thedreamingstate.com/portfolio/art/prompter/)
 
-Mid Journey is unique in that the image generation is done in public view via a Discord bot. This allows you to see what other people are using for prompts and the images that these prompts are producing. It's a great way of teaching other people what phrases work. It also allows for live remixing as someone sees a phrase, copies it, slightly changes it and retries the same phrase on the system again.
+[Mid Journey](https://www.midjourney.com/) is unique in that the image generation is done in public view via a [Discord](https://discord.com/) bot. This allows you to see what other people are using for prompts and the images that these prompts are producing. It's a great way of teaching other people what phrases work. It also allows for live remixing as someone sees a phrase, copies it, slightly changes it and retries the same phrase on the system again.
 
-It feels great when you start a miny trend and people start using your keywords, or remixing off your images to make their own based on your prompt text. For me this is the best feature of Mid Journey over other competing systems.
+It feels great when you start a miny trend and people start using your keywords, or remixing off your images to make their own based on your prompt text. For me this is the best feature of [Mid Journey](https://www.midjourney.com/) over other competing systems.
 
-For the most part Mid Journey prompts are in this format
+For the most part [Mid Journey](https://www.midjourney.com/) prompts are in this format
 
 ```{subject} :: {actions words} :: {series of adjectives} :: In the style of {Artist or movie, etc..} :: {lighting} {renders} :: {Mid Journey specific parameters}```
 
@@ -51,13 +51,13 @@ I created a script that takes a random phrase for each section out of several di
 
 **Example keyword input files:**
 
-- **Types of birds:** Bird, Owl, Duck, Lovebirds, Cockatiels, Peacock, Hummingbird, Tucan, Penguin, Atlantic Puffin, Crow, Parrot, Bee-eaters, Northern Cardinal, Kiwi bird <img src='/public/uploads/2022/example_output_text2.png' alt='Example output 2' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+- **Types of birds:** Bird, Owl, Duck, Lovebirds, Cockatiels, Peacock, Hummingbird, Tucan, Penguin, Atlantic Puffin, Crow, Parrot, Bee-eaters, [Northern Cardinal](https://www.allaboutbirds.org/guide/Northern_Cardinal/id), Kiwi bird <img src='/public/uploads/2022/example_output_text2.png' alt='Example output 2' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 - **Adjectives:** Great, Live, Sea, Beautiful, Tame, Startled, Colored, Sacred, Speaking, Silly, Poor, Noble, Migratory, Frightened, Snow, Divine, Strange, Happy, Cute, funny, beautiful, adorable, fluffy, little, Derpy
 - **Keywords:** wings, feathers, tiny eyes, great big beaked bird, broken feathers, flying, fluffy, masked, flowerpiercer, striped, mustached, painted, broadbill, bearded, rufous-throated, conebill, small beak, glowing eyes
 - **Lighting:** volumetric lighting, mood lighting, bright, Soft illumination, soft lights, rays of shimmering light, Crepuscular Ray, bioluminescence, cinematic lighting, Rembrandt Lighting, Split Lighting, front lighting, Back lighting, halfrear lighting, rim lights
 - **Feelings:** Happiness, Satisfaction, Amusement, Confident, Optimistic, Cheerful, Carefree, Sweet, Kind, Unhappy, Awkward, Goofy, Focused, Determined, Lonely, Shy
-- **Style:** Cthulhu Mythos, by Pixar, old film footage, scientific illustration, vivid technicolor, dripping paint, alcohol inks, ink illustration, ink outline, sacred geometry, low poly, line art coloring page, ultra-realistic, high detail, cinematic, octane render, photorealistic, unreal engine, raytracing, photo, panoramic, cinematic, colorful, 8k, realistic, high quality, highly detail, made of flowers, 1998 pixel computer game style, banksy style, art deco style
-- **Artists:** Albert Bierstadt, Frida Kahlo, Takashi Murakami, Caravaggio Michelangelo Merisi, Carl Warner, Beeple, Bisa Butler, Dean Russo, Weta FX, Tim Burton, Norman Rockwell, M. C. Escher, Jeff Koons, Ad Reinhardt, Carl Andre, Alberto Giacometti, Caspar David Friedrich, Charlie Bowater, Weta Digital (See Ethics section)
+- **Style:** [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu) Mythos, by [Pixar](https://www.pixar.com/), old film footage, scientific illustration, vivid technicolor, dripping paint, alcohol inks, ink illustration, ink outline, [sacred geometry](https://en.wikipedia.org/wiki/Sacred_geometry), low poly, line art coloring page, ultra-realistic, high detail, cinematic, octane render, photorealistic, [unreal engine](https://www.unrealengine.com/en-US), raytracing, photo, panoramic, cinematic, colorful, 8k, realistic, high quality, highly detail, made of flowers, 1998 pixel computer game style, [banksy](https://en.wikipedia.org/wiki/Banksy) style, [art deco](https://en.wikipedia.org/wiki/Art_Deco) style
+- **Artists:** [Albert Bierstadt](https://en.wikipedia.org/wiki/Albert_Bierstadt), [Frida Kahlo](https://en.wikipedia.org/wiki/Frida_Kahlo), [Takashi Murakami](https://en.wikipedia.org/wiki/Takashi_Murakami), [Caravaggio Michelangelo Merisi](https://en.wikipedia.org/wiki/Caravaggio), [Carl Warner](https://en.wikipedia.org/wiki/Carl_Warner), [Beeple](https://en.wikipedia.org/wiki/Mike_Winkelmann), [Bisa Butler](https://en.wikipedia.org/wiki/Bisa_Butler), [Dean Russo](https://www.singulart.com/en/artist/dean-russo-8233), [Weta FX](https://www.wetafx.co.nz/), [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton), [Norman Rockwell](https://en.wikipedia.org/wiki/Norman_Rockwell), [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher), [Jeff Koons](https://en.wikipedia.org/wiki/Jeff_Koons), [Ad Reinhardt](https://en.wikipedia.org/wiki/Ad_Reinhardt), [Carl Andre](https://en.wikipedia.org/wiki/Carl_Andre), [Alberto Giacometti](https://en.wikipedia.org/wiki/Alberto_Giacometti), [Caspar David Friedrich](https://en.wikipedia.org/wiki/Caspar_David_Friedrich), [Charlie Bowater](https://www.instagram.com/charliebowater/), (See Ethics section)
 
 **Example outputs:**
 
@@ -65,7 +65,7 @@ I created a script that takes a random phrase for each section out of several di
 - Sacred oriole bird  :: in a forest  :: Violet Countless opal petals radiating from the center, glowing eyes, feathers, tiny eyes  :: Soft lighting , cinematic, high quality
 - derpy owl bird  :: in the sky in makoto shinkai style  :: Violet small beak, freedom, tiny eyes, mustached  :: Soft lighting , unreal engine, Cthulhu Mythos
 - Noble hornbill bird  :: in the snow  :: Yellow-Orange wings, broadbill, broken feathers, freedom  :: Soft lighting , cinematic, by Pixar
-- little  flycatcher bird  :: in the sky in Dean Russo style  :: Orange translucent shells, translucent shells, striped, flying  :: Soft lighting , raytracing, cinematic
+- little flycatcher bird  :: in the sky in Dean Russo style  :: Orange translucent shells, translucent shells, striped, flying  :: Soft lighting , raytracing, cinematic
 - Frightened phoenix  bird  :: flying in the sky  :: Blue broadbill, glowing eyes, feathers, tiny eyes  :: light scatters through a stained glass window , cinematic, ultra-realistic
 - Colored duck bird  :: flying in the sky  :: Green fluffy, freedom, translucent shells, painted  :: Soft lighting , by Pixar, panoramic
 
@@ -79,7 +79,7 @@ The text descriptions are generated using [Open IA GPT-3](https://gpt3-openai.co
 
 Then I created a keyword property for each bird. Listed a few keywords from their descriptions and what they looked like in my own words.
 
-When I generate a new image using midjourny, I make up the keyword list for that bird, its physical characteristics and a few different unique non physical attributes, the seed prompt used to generated the image. Then I ask OpenAI to generate a description based on the keyword list, and the examples of the previous 10 birds. Most of the time it generates a reasonable description using my keywords, but other times it will completely ignore my keyword list and generate something entirely unique. Both created realistic and sometimes good descriptions. I would itterate on the description until I found something that would work.
+When I generate a new image using [Mid Journey](https://www.midjourney.com/), I make up the keyword list for that bird, its physical characteristics and a few different unique non physical attributes, the seed prompt used to generated the image. Then I ask OpenAI to generate a description based on the keyword list, and the examples of the previous 10 birds. Most of the time it generates a reasonable description using my keywords, but other times it will completely ignore my keyword list and generate something entirely unique. Both created realistic and sometimes good descriptions. I would itterate on the description until I found something that would work.
 
 As I generate new keyword lists and descriptions for newly generated birds, I bump the real bird off the list and replace it with a generated one. After the first 10 generations the input file only contains generated text. As I continue with newly generated birds, I bump the older generations off the list starting with the worst ones first. Over time this created a good set of entirely generated and unique input text that I use to generate new descriptions.
 
@@ -103,15 +103,15 @@ The website is generated using [Jekyll](https://jekyllrb.com/), hosted on [Githu
 
 ## Why did I make this project
 
-Machine learning is a new exciting field of study that I have been interested in for a while. Some of the tools and content that it has enabled are amazing. GitLab copilot, Google’s Deep dream, Dall-E-2 image generation, etc...
+Machine learning is a new exciting field of study that I have been interested in for a while. Some of the tools and content that it has enabled are amazing. [GitHub copilot](https://github.com/features/copilot/), [Google’s Deep dream](https://en.wikipedia.org/wiki/DeepDream), [Dall-E-2](https://openai.com/dall-e-2/) image generation, etc...
 
 I've been playing around with these machine learning algorithms and tools for a while and I was looking for a project that I could use these algorithms for. I was hoping for something that I could iterate over a few years so as the algorithms got better you could see the work getting better over time.
 
-My first idea was to make a comic book. Using OpenIA GPT-3 text generation, I would write up the basic structure of the comic (overarching plot) and then generate the dialog using GPT-3, tweeking it as needed. Then I would write a visual description of the scene I was looking at and use Mid journey to generate the image. Then use the standard three layer comic book format, background, people and things, and foreground to create each frame.
+My first idea was to make a comic book. Using [OpenIA](https://openai.com/) GPT-3 text generation, I would write up the basic structure of the comic (overarching plot) and then generate the dialog using [GPT-3](https://en.wikipedia.org/wiki/GPT-3), tweeking it as needed. Then I would write a visual description of the scene I was looking at and use [Mid Journey](https://www.midjourney.com/) to generate the image. Then use the standard three layer comic book format, background, people and things, and foreground to create each frame.
 
 I found it frustrating to generate believable dialog or images in the same style between two different frames.
 
-Next idea was to create a card game. I designed the rules for a resource management, worker placement card game. The plan was to use the art generated from Mid journey for the cards in a Magic the Gathering style. Art on top, text and rules on the bottom. I play-tested the basic rules a few times and it was just okay, not great. With more work and iterations I think I could convert this into a fun game. This project didn’t feel right as I was looking for more of an iterative project where I could show the changes to the ML algorithms over time.
+Next idea was to create a card game. I designed the rules for a resource management, worker placement card game. The plan was to use the art generated from [Mid Journey](https://www.midjourney.com/) for the cards in a [Magic the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) style. Art on top, text and rules on the bottom. I play-tested the basic rules a few times and it was just okay, not great. With more work and iterations I think I could convert this into a fun game. This project didn’t feel right as I was looking for more of an iterative project where I could show the changes to the ML algorithms over time.
 
 Eventually I came up with the idea of a Machine Learning (ML) field guide of imaginary birds. This idea came from 2021 when I spent a year photographing birds to create [a deck of playing cards](https://blog.abluestar.com/projects/2021-bird-playing-cards/). I would often use a field guide to help me identify and track the birds that I had seen that year.
 
@@ -119,7 +119,7 @@ Eventually I came up with the idea of a Machine Learning (ML) field guide of ima
 
 **How did you generate the images?**
 
-[Midjourney](https://www.midjourney.com/)
+[Mid Journey](https://www.midjourney.com/)
 
 **How did you generate the description text?**
 

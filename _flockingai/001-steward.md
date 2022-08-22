@@ -9,8 +9,8 @@ header      :
   teaser    : /public/uploads/flockingai/001-steward.png
 prompt: Idiotic stupid overly happy birds, Rainbow feathers, fluffy, Cute, Whole body
 midjourney: https://www.midjourney.com/app/jobs/a61fcbc0-15fd-4d61-8f97-0c2bf7aa879e
-instagram: https://www.instagram.com/p/ChTKnafusl0/
-twitter: https://twitter.com/funvill/status/1555639054011547648
+instagram: https://www.instagram.com/p/ChkHkuBBydk/
+twitter: https://twitter.com/FlockingAI/status/1561714812274593793
 gallery: 
   - /public/uploads/flockingai/001-steward.png
   - /public/uploads/flockingai/001-a.png
