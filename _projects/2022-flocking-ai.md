@@ -180,7 +180,7 @@ I wanted to give my friends and family who follow my personal accounts the choic
 
 **What hashtag should I use when talking about this project on social media?**
 
-\#FlockingAI
+Twitter: [\#FlockingAI](https://twitter.com/hashtag/FlockingAI), Instagram: [\#FlockingAI](https://www.instagram.com/explore/tags/flockingai/)
 
 **Why did you choose 'Flocking AI' for this project name?**
 
