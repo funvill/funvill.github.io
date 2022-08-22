@@ -7,6 +7,8 @@ header      :
 toc         : true
 ---
 
+<a href='/flockingai/'><img src='/public/uploads/flockingai/facebook-banner.png' style='margin: 10px; padding: 5px; width: 906px;' /></a>
+
 ## What is this
 
 <img src='\public\uploads\2022\002-jackson.png' alt='jackson' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >Flocking AI is a project where I am using Artificial intelligence (AI)/Machine Learning (ML) to generate a "Field guide of imaginary birds".
@@ -85,12 +87,12 @@ As I generate new keyword lists and descriptions for newly generated birds, I bu
 
 **Examples:**
 
-[**Zeng - Sharp Eared Owl**](https://blog.abluestar.com/flockingai/026-zeng/)<img src='/public/uploads/flockingai/026-b.png' alt='Zeng - Sharp Eared Owl' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+[**Zeng - Sharp Eared Owl**](/flockingai/026-zeng/)<img src='/public/uploads/flockingai/026-b.png' alt='Zeng - Sharp Eared Owl' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 
 - **Keywords:** Large pointed ears, huge eyes, lives on the ground, the feature pattern looks like a jacket, Many different patterns for the jacket feathers, Fuzzy face feathers, Females will have red feathers on their heads
 - **Description:** The Sharp Eared Owl is a ground dwelling Owl with large pointed ears and huge eyes. The feature pattern on their fur looks like a jacket. There are many different patterns for the jacket feathers. The face feathers are fuzzy. Females will have red feathers on their heads. These animals are found in woodlands all over the world.
 
-[**Steven - Eurasian Borrowing duck**](https://blog.abluestar.com/flockingai/027-steven/)
+[**Steven - Eurasian Borrowing duck**](/flockingai/027-steven/)<img src='/public/uploads/flockingai/027-steven.png' alt='Steven - Eurasian Borrowing duck' style="float: left; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 
 - **Keywords:** Duck that lives in swamps eating fish and grubs. Mostly brown with sporadic colorful feathers, Loves to dig and bathe in dust and dirt. From Europe
 - **Description:** Eurasian Borrowing ducks are ducks that live in swamps and eat fish and grubs. They are mostly brown with sporadic colorful feathers. They love to dig and bathe in dust and dirt.  Nest in hollowed out tree stumps or borrows. The female lays 8-12 eggs per season. These animals are found in Europe.
@@ -111,7 +113,7 @@ My first idea was to make a comic book. Using [OpenIA](https://openai.com/) GPT-
 
 I found it frustrating to generate believable dialog or images in the same style between two different frames.
 
-Next idea was to create a card game. I designed the rules for a resource management, worker placement card game. The plan was to use the art generated from [Mid Journey](https://www.midjourney.com/) for the cards in a [Magic the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) style. Art on top, text and rules on the bottom. I play-tested the basic rules a few times and it was just okay, not great. With more work and iterations I think I could convert this into a fun game. This project didn’t feel right as I was looking for more of an iterative project where I could show the changes to the ML algorithms over time.
+Next idea was to create a card game. I designed the rules for a resource management, worker placement card game. The plan was to use the art generated from [Mid Journey](https://www.midjourney.com/) for the cards in a [Magic the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) style. Art on top, text and rules on the bottom. I play-tested the basic rules a few times and it was just okay, not great. With more work and iterations I think I could convert this into a fun game. This project didn’t feel right as I was looking for more of an iterative project where I could show the changes to the ML algorithms over time.<img src='/public/uploads/2022/midjourney-cardgame.png' alt='Mid Journey Cardgame' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 
 Eventually I came up with the idea of a Machine Learning (ML) field guide of imaginary birds. This idea came from 2021 when I spent a year photographing birds to create [a deck of playing cards](https://blog.abluestar.com/projects/2021-bird-playing-cards/). I would often use a field guide to help me identify and track the birds that I had seen that year.
 
