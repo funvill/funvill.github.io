@@ -13,13 +13,15 @@ toc         : true
 
 <img src='\public\uploads\2022\002-jackson.png' alt='jackson' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >Flocking AI is a project where I am using Artificial intelligence (AI)/Machine Learning (ML) to generate a "Field guide of imaginary birds".
 
-Every day a new generated bird will be posted to social media (<a href='https://twitter.com/FlockingAI'><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a>, <a href='https://www.instagram.com/flockingai/'><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>). Using the feedback from social media comments, I improve the process I use to generate the images and the descriptions. Iterating on the idea daily and hopefully getting better over time.
+Every day a new generated bird will be posted to social media (<a href='https://twitter.com/FlockingAI'><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a>, <a href='https://www.instagram.com/flockingai/'><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>, <a class="btn btn-large" href="https://www.facebook.com/FlockingAI/" target="_blank" title="Follow on Facebook"><span><i class="fab fa-fw fa-facebook" aria-hidden="true"></i> Facebook</span></a>). Using the feedback from social media comments, I improve the process I use to generate the images and the descriptions. Iterating on the idea daily and hopefully getting better over time.
 
 At the end of the year I will take the top voted birds and compile them into a printed trade book that I will give out as gifts to my friends and family.
 
 👉 [Gallery of birds](/flockingai/) 👈
 
-<a href='https://www.instagram.com/flockingai/'><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>, <a href='https://twitter.com/FlockingAI'><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a>
+<a href='https://www.instagram.com/flockingai/'><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>, <a href='https://twitter.com/FlockingAI'><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a>, <a href='https://www.facebook.com/FlockingAI/'><i class="fab fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
+
+
 
 ## How I made this project
 
@@ -59,7 +61,7 @@ I created a script that takes a random phrase for each section out of several di
 - **Lighting:** volumetric lighting, mood lighting, bright, Soft illumination, soft lights, rays of shimmering light, Crepuscular Ray, bioluminescence, cinematic lighting, Rembrandt Lighting, Split Lighting, front lighting, Back lighting, halfrear lighting, rim lights
 - **Feelings:** Happiness, Satisfaction, Amusement, Confident, Optimistic, Cheerful, Carefree, Sweet, Kind, Unhappy, Awkward, Goofy, Focused, Determined, Lonely, Shy
 - **Style:** [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu) Mythos, by [Pixar](https://www.pixar.com/), old film footage, scientific illustration, vivid technicolor, dripping paint, alcohol inks, ink illustration, ink outline, [sacred geometry](https://en.wikipedia.org/wiki/Sacred_geometry), low poly, line art coloring page, ultra-realistic, high detail, cinematic, octane render, photorealistic, [unreal engine](https://www.unrealengine.com/en-US), raytracing, photo, panoramic, cinematic, colorful, 8k, realistic, high quality, highly detail, made of flowers, 1998 pixel computer game style, [banksy](https://en.wikipedia.org/wiki/Banksy) style, [art deco](https://en.wikipedia.org/wiki/Art_Deco) style
-- **Artists:** [Albert Bierstadt](https://en.wikipedia.org/wiki/Albert_Bierstadt), [Frida Kahlo](https://en.wikipedia.org/wiki/Frida_Kahlo), [Takashi Murakami](https://en.wikipedia.org/wiki/Takashi_Murakami), [Caravaggio Michelangelo Merisi](https://en.wikipedia.org/wiki/Caravaggio), [Carl Warner](https://en.wikipedia.org/wiki/Carl_Warner), [Beeple](https://en.wikipedia.org/wiki/Mike_Winkelmann), [Bisa Butler](https://en.wikipedia.org/wiki/Bisa_Butler), [Dean Russo](https://www.singulart.com/en/artist/dean-russo-8233), [Weta FX](https://www.wetafx.co.nz/), [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton), [Norman Rockwell](https://en.wikipedia.org/wiki/Norman_Rockwell), [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher), [Jeff Koons](https://en.wikipedia.org/wiki/Jeff_Koons), [Ad Reinhardt](https://en.wikipedia.org/wiki/Ad_Reinhardt), [Carl Andre](https://en.wikipedia.org/wiki/Carl_Andre), [Alberto Giacometti](https://en.wikipedia.org/wiki/Alberto_Giacometti), [Caspar David Friedrich](https://en.wikipedia.org/wiki/Caspar_David_Friedrich), [Charlie Bowater](https://www.instagram.com/charliebowater/), (See Ethics section)
+- **Artists:** [Albert Bierstadt](https://en.wikipedia.org/wiki/Albert_Bierstadt), [Frida Kahlo](https://en.wikipedia.org/wiki/Frida_Kahlo), [Takashi Murakami](https://en.wikipedia.org/wiki/Takashi_Murakami), [Caravaggio Michelangelo Merisi](https://en.wikipedia.org/wiki/Caravaggio), [Carl Warner](https://en.wikipedia.org/wiki/Carl_Warner), [Beeple](https://en.wikipedia.org/wiki/Mike_Winkelmann), [Bisa Butler](https://en.wikipedia.org/wiki/Bisa_Butler), [Dean Russo](https://www.singulart.com/en/artist/dean-russo-8233), [Weta FX](https://www.wetafx.co.nz/), [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton), [Norman Rockwell](https://en.wikipedia.org/wiki/Norman_Rockwell), [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher), [Jeff Koons](https://en.wikipedia.org/wiki/Jeff_Koons), [Ad Reinhardt](https://en.wikipedia.org/wiki/Ad_Reinhardt), [Carl Andre](https://en.wikipedia.org/wiki/Carl_Andre), [Alberto Giacometti](https://en.wikipedia.org/wiki/Alberto_Giacometti), [Caspar David Friedrich](https://en.wikipedia.org/wiki/Caspar_David_Friedrich), [Charlie Bowater](https://www.instagram.com/charliebowater/), (See [Ethics](#Ethics) section)
 
 **Example outputs:**
 
@@ -92,9 +94,9 @@ As I generate new keyword lists and descriptions for newly generated birds, I bu
 - **Keywords:** Large pointed ears, huge eyes, lives on the ground, the feature pattern looks like a jacket, Many different patterns for the jacket feathers, Fuzzy face feathers, Females will have red feathers on their heads
 - **Description:** The Sharp Eared Owl is a ground dwelling Owl with large pointed ears and huge eyes. The feature pattern on their fur looks like a jacket. There are many different patterns for the jacket feathers. The face feathers are fuzzy. Females will have red feathers on their heads. These animals are found in woodlands all over the world.
 
-[**Steven - Eurasian Borrowing duck**](/flockingai/027-steven/)<img src='/public/uploads/flockingai/027-steven.png' alt='Steven - Eurasian Borrowing duck' style="float: left; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+[**Steven - Eurasian Borrowing duck**](/flockingai/027-steven/)
 
-- **Keywords:** Duck that lives in swamps eating fish and grubs. Mostly brown with sporadic colorful feathers, Loves to dig and bathe in dust and dirt. From Europe
+- **Keywords:** Duck that lives in swamps eating fish and grubs. Mostly brown with sporadic colorful feathers, Loves to dig and bathe in dust and dirt. From Europe <img src='/public/uploads/flockingai/027-steven.png' alt='Steven - Eurasian Borrowing duck' style="float: left; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 - **Description:** Eurasian Borrowing ducks are ducks that live in swamps and eat fish and grubs. They are mostly brown with sporadic colorful feathers. They love to dig and bathe in dust and dirt.  Nest in hollowed out tree stumps or borrows. The female lays 8-12 eggs per season. These animals are found in Europe.
 
 ### Social media and the website
@@ -109,13 +111,19 @@ Machine learning is a new exciting field of study that I have been interested in
 
 I've been playing around with these machine learning algorithms and tools for a while and I was looking for a project that I could use these algorithms for. I was hoping for something that I could iterate over a few years so as the algorithms got better you could see the work getting better over time.
 
-My first idea was to make a comic book. Using [OpenIA](https://openai.com/) GPT-3 text generation, I would write up the basic structure of the comic (overarching plot) and then generate the dialog using [GPT-3](https://en.wikipedia.org/wiki/GPT-3), tweeking it as needed. Then I would write a visual description of the scene I was looking at and use [Mid Journey](https://www.midjourney.com/) to generate the image. Then use the standard three layer comic book format, background, people and things, and foreground to create each frame.
+My first idea was to make a comic book. Using [OpenIA](https://openai.com/) GPT-3 text generation, I would write up the basic structure of the comic (overarching plot) and then generate the dialog using [GPT-3](https://en.wikipedia.org/wiki/GPT-3), tweeking it as needed. Then I would write a visual description of the scene I was looking at and use [Mid Journey](https://www.midjourney.com/) to generate the image. Then use the standard three layer comic book format, background, people and things, and foreground to create each frame. <img src='/public/uploads/2022/midjourney-cardgame.png' alt='Mid Journey Cardgame' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 
 I found it frustrating to generate believable dialog or images in the same style between two different frames.
 
-Next idea was to create a card game. I designed the rules for a resource management, worker placement card game. The plan was to use the art generated from [Mid Journey](https://www.midjourney.com/) for the cards in a [Magic the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) style. Art on top, text and rules on the bottom. I play-tested the basic rules a few times and it was just okay, not great. With more work and iterations I think I could convert this into a fun game. This project didn’t feel right as I was looking for more of an iterative project where I could show the changes to the ML algorithms over time.<img src='/public/uploads/2022/midjourney-cardgame.png' alt='Mid Journey Cardgame' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+Next idea was to create a card game. I designed the rules for a resource management, worker placement card game. The plan was to use the art generated from [Mid Journey](https://www.midjourney.com/) for the cards in a [Magic the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) style. Art on top, text and rules on the bottom. I play-tested the basic rules a few times and it was just okay, not great. With more work and iterations I think I could convert this into a fun game. This project didn’t feel right as I was looking for more of an iterative project where I could show the changes to the ML algorithms over time.
 
 Eventually I came up with the idea of a Machine Learning (ML) field guide of imaginary birds. This idea came from 2021 when I spent a year photographing birds to create [a deck of playing cards](https://blog.abluestar.com/projects/2021-bird-playing-cards/). I would often use a field guide to help me identify and track the birds that I had seen that year.
+
+## Ethics
+
+This is a huge topic that I plan to write some blog posts about in the future. At this moment I want to see what this technology can do and see if there is an audience for it
+
+TODO 
 
 ## FAQ
 
@@ -154,7 +162,7 @@ Under the following terms:
 - **NonCommercial** — You may not use the material for commercial purposes.
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-You can't use them in a NFT collection (NonCommercial)
+You can't use them in a [NFT collection](https://www.forbes.com/advisor/ca/investing/cryptocurrency/nft-non-fungible-token/) (NonCommercial license)
 
 **I noticed a spelling mistake or grammar issue**
 
@@ -168,7 +176,7 @@ Please report the issue in the comments at the bottom of the page with the bird 
 
 **How do I contact you?**
 
-DM (Direct message) me on one of my social media sites. [Twitter](https://twitter.com/funvill), [Instagram](https://www.instagram.com/funvill/)
+DM (Direct message) me on one of my social media sites. [Twitter](https://twitter.com/funvill), [Instagram](https://www.instagram.com/funvill/), [Facebook](https://www.facebook.com/FlockingAI/)
 
 **One of the bird names shares my name. I don't like it. Can you change it?**
 
@@ -193,3 +201,9 @@ When I started this project I didn't have a [DALL-E-2 OpenAI](https://openai.com
 **The text descriptions aren't very good**
 
 Agreed, I am open to suggestions for creating better text descriptions. Please contact me if you have a suggestion.
+
+**Why aren't you posting to my favorite social media site, (Tiktok, etc...)**
+
+I am lasy and I want to do the lest amount of work possiable. If a social media site doesn't support scheduling posts I ingored it. If I get a lot of feedback saying I need to post on TikTok or any other social media site I might consider it.
+
+At the start I didn't create videos of the generation of the birds and I can't go back and recreate the videos. TicTok is setup for videos and still images don't do well on that site, so it won't be included in the first version.
