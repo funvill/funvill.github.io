@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/002-jackson.png
 prompt: cute adorable fluffy bird + in the shapes of flowers + ultra-realistic, octane render highly detail
 midjourney: https://www.midjourney.com/app/jobs/a909b638-3e70-457d-a8f8-24e21e3943bc
+instagram: https://www.instagram.com/p/ChmsW2TBMK4/
+twitter: https://twitter.com/FlockingAI/status/1562077210365743105
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02QVBMYnUuVJ5xhEcQuid3ktMAFgn7jLLVZ63weWBcxJTaDJ42UMxa2nSmtdQG44KSl
 gallery:   
   - /public/uploads/flockingai/002-jackson.png
   - /public/uploads/flockingai/002-a.png

@@ -11,6 +11,7 @@ prompt: Idiotic stupid overly happy birds, Rainbow feathers, fluffy, Cute, Whole
 midjourney: https://www.midjourney.com/app/jobs/a61fcbc0-15fd-4d61-8f97-0c2bf7aa879e
 instagram: https://www.instagram.com/p/ChkHkuBBydk/
 twitter: https://twitter.com/FlockingAI/status/1561714812274593793
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02pWot5o1paJcjErvS6CMkDxjbL6u2RUwkfEe9oUTWqJmB3uuYbKWP9VZELMzCuBaRl
 gallery: 
   - /public/uploads/flockingai/001-steward.png
   - /public/uploads/flockingai/001-a.png

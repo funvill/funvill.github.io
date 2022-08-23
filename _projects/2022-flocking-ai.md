@@ -94,9 +94,9 @@ As I generate new keyword lists and descriptions for newly generated birds, I bu
 - **Keywords:** Large pointed ears, huge eyes, lives on the ground, the feature pattern looks like a jacket, Many different patterns for the jacket feathers, Fuzzy face feathers, Females will have red feathers on their heads
 - **Description:** The Sharp Eared Owl is a ground dwelling Owl with large pointed ears and huge eyes. The feature pattern on their fur looks like a jacket. There are many different patterns for the jacket feathers. The face feathers are fuzzy. Females will have red feathers on their heads. These animals are found in woodlands all over the world.
 
-[**Steven - Eurasian Borrowing duck**](/flockingai/027-steven/)
+[**Steven - Eurasian Borrowing duck**](/flockingai/027-steven/)<img src='/public/uploads/flockingai/027-steven.png' alt='Steven - Eurasian Borrowing duck' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 
-- **Keywords:** Duck that lives in swamps eating fish and grubs. Mostly brown with sporadic colorful feathers, Loves to dig and bathe in dust and dirt. From Europe <img src='/public/uploads/flockingai/027-steven.png' alt='Steven - Eurasian Borrowing duck' style="float: left; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+- **Keywords:** Duck that lives in swamps eating fish and grubs. Mostly brown with sporadic colorful feathers, Loves to dig and bathe in dust and dirt. From Europe.
 - **Description:** Eurasian Borrowing ducks are ducks that live in swamps and eat fish and grubs. They are mostly brown with sporadic colorful feathers. They love to dig and bathe in dust and dirt.  Nest in hollowed out tree stumps or borrows. The female lays 8-12 eggs per season. These animals are found in Europe.
 
 ### Social media and the website
@@ -123,7 +123,7 @@ Eventually I came up with the idea of a Machine Learning (ML) field guide of ima
 
 This is a huge topic that I plan to write some blog posts about in the future. At this moment I want to see what this technology can do and see if there is an audience for it
 
-TODO 
+TODO
 
 ## FAQ
 
