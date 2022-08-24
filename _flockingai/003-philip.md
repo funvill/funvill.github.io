@@ -9,8 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/003-philip.png
 prompt: Fluffy little bird, small beak, soft lighting, blue, freedom, ultra-realistic, octane rendering, high detail, cinematic,
 midjourney: https://www.midjourney.com/app/jobs/efe62c0d-e6e1-4069-813a-85c24966bf44
-twitter: https://twitter.com/funvill/status/1556891534913482752
-instagram: https://www.instagram.com/p/ChB4guvOYf_/
+instagram: https://www.instagram.com/p/ChpRJVAh2TJ/
+twitter: https://twitter.com/FlockingAI/status/1562439589096091650
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02xtgj3w7LZyMe6cXo48pZhJJekuGiZwxitgwTisymd92DgMhAdFytbbLhq34MrrLSl
 gallery:   
   - /public/uploads/flockingai/003-philip.png
   - /public/uploads/flockingai/003-a.png
