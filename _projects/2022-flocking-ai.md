@@ -125,6 +125,11 @@ This is a huge topic that I plan to write some blog posts about in the future. A
 
 TODO
 
+[Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/) - Abstract: Machine learning offers a fantastically powerful toolkit for building complex systems quickly. This paper argues that it is dangerous to think of these quick wins as coming for free. Using the framework of technical debt, we note that it is remarkably easy to incur massive ongoing maintenance costs at the system level when applying machine learning. The goal of this paper is highlight several machine learning specific risk factors and design patterns to be avoided or refactored where possible. These include boundary erosion, entanglement, hidden feedback loops, undeclared consumers, data dependencies, changes in the external world, and a variety of system-level anti-patterns.
+
+> That's a bit like saying that musicians should stop listening to music, painters should stop looking at art, directors should stop watching movies, authors should stop reading books. Of course - we can control ourselves to not copy/plagiarize something, to some extent. As should deep learning models / generators. But we're all influences by someone else.
+
+
 ## FAQ
 
 **How did you generate the images?**
