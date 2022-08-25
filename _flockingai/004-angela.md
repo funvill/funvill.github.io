@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/004-angela.png
 prompt: cute peacock in fire style
 midjourney: https://www.midjourney.com/app/jobs/53074ba8-3e07-4c30-81b8-bb125ccb3c36
+instagram: https://www.instagram.com/p/Chr2ADFhg2E/
+twitter: https://twitter.com/FlockingAI/status/1562801979054702603
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02j2TpwxXBjaibqKThycKoLDRehGb4DLz5FYNk4R7TpsN2p1j1GtkMu5APWTgfeFdql
 gallery: 
   - /public/uploads/flockingai/004-angela.png
   - /public/uploads/flockingai/004-a.png
