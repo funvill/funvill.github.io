@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/005-elton.png
 prompt: crazy fire owl, elemental, in sunglasses, space, fantasy, deta
 midjourney: https://www.midjourney.com/app/jobs/68d59e36-cafe-45c8-90dd-060c0cbe5160
+instagram: https://www.instagram.com/p/ChuayvYBRLD/
+twitter: https://twitter.com/FlockingAI/status/1563164366341554176
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02HnHR82RrvQZsJES9guY1ytpREywi7DvB1hVtPBCFegPcALfzDXhi3M46xF778JU6l
 gallery: 
   - /public/uploads/flockingai/005-elton.png
   - /public/uploads/flockingai/005-a.png
