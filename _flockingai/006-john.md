@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/006-john.png
 prompt: Migratory vulture bird + floating on a river + Orange great big beaked bird, feathers, great big beaked bird, bearded + Soft lighting , octane render, raytracing
 midjourney: https://www.midjourney.com/app/jobs/6b8b91e7-0d67-41c1-a5b5-f64f718f0fbf
+instagram: https://www.instagram.com/p/Chw_mTJv43m/
+twitter: https://twitter.com/FlockingAI/status/1563694480183918592
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02YH6NCqQv7yAkj2CdDsHiEE7Po59V93EH8sCiJiSaLJBx9NPVK6kGm8AHfSVo32fol
 gallery: 
   - /public/uploads/flockingai/006-john.png
   - /public/uploads/flockingai/006-a.png
