@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/009-jenifer.png
 prompt: Zeng_Fanzhi style of a cute bird
 midjourney: https://www.midjourney.com/app/jobs/bb3aaf54-81da-4caa-80fc-61bd58ed6b3b
+instagram: https://www.instagram.com/p/Ch4uAvOBMdk/
+twitter: https://twitter.com/FlockingAI/status/1564613924166635526
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02Ciwv5qQiXAPAFmM677t4Ek5v3bEQnbPFbfiyyroFbvmQ1ZdsNXmfPzfwmkG2DTrJl
 gallery: 
   - /public/uploads/flockingai/009-jenifer.png
   - /public/uploads/flockingai/009-a.png

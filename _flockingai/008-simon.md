@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/008-simon.png
 prompt: Alfred Stieglitz style of a cute owl
 midjourney: https://www.midjourney.com/app/jobs/fb8efdfc-fc40-4578-b521-9e6034c640a8
+instagram: https://www.instagram.com/p/Ch2JL4-h2Sv/
+twitter: https://twitter.com/FlockingAI/status/1564251526440390657
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02wFtoPRqZnLo7mXyXPobLkM2x5htYyeiB2NLDPwx1VUYR9PeY6xLF9UKguTRmN92xl
 gallery: 
   - /public/uploads/flockingai/008-simon.png
   - /public/uploads/flockingai/008-a.png
