@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/013-chuck.png
-prompt: Weta_FX style of a cute bird
+prompt: Weta FX style of a cute bird
 midjourney: https://www.midjourney.com/app/jobs/885b2bf9-a418-46e6-be88-e9409fc6d982
 gallery: 
   - /public/uploads/flockingai/013-chuck.png

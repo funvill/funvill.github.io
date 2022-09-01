@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney Hummingbird
 header      :
   teaser    : /public/uploads/flockingai/014-jules.png
-prompt: Jules_Verne style of a cute Hummingbird
+prompt: Jules Verne style of a cute Hummingbird
 midjourney: https://www.midjourney.com/app/jobs/fd8831c1-b7b8-4ff6-8af9-9a8606153cd2
 gallery: 
   - /public/uploads/flockingai/014-jules.png
