@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/013-chuck.png
 prompt: Weta FX style of a cute bird
 midjourney: https://www.midjourney.com/app/jobs/885b2bf9-a418-46e6-be88-e9409fc6d982
+instagram: https://www.instagram.com/p/CiDBJcCBBPm/
+twitter: https://twitter.com/FlockingAI/status/1566063465504047104
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02P8zYj9FBjCYGLpka3ba9uVzYfDB2wrLMP9WNAxpHNQpDQQSWbBMFdCJf8BskS1ukl
 gallery: 
   - /public/uploads/flockingai/013-chuck.png
   - /public/uploads/flockingai/013-a.png
