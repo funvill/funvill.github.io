@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/018-vincent.png
 prompt: cute owl in the style of Vincent Van Gogh
 midjourney: https://www.midjourney.com/app/jobs/989019d-8d37-43ed-9708-f91f2025bf01
+instagram: https://www.instagram.com/p/CiP5Hp6hR4k/
+twitter: https://twitter.com/FlockingAI/status/1567875407986262016
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0236nBnpdohXyZW7XfWCF7JbiEeaNCwZ9ni5xCFsHq6uPCSvJtJBybwwLGKAACNEYzl
 gallery: 
   - /public/uploads/flockingai/018-vincent.png
   - /public/uploads/flockingai/018-a.png
