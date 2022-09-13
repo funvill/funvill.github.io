@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/033-pete.png
 prompt: dark monster bird, symmetry, painted by Brian Froud, nightmare, detalles, 8k, celtic designs, on a dry forest
 midjourney: https://www.midjourney.com/app/jobs/b24a513b-52b8-426f-a3fd-bcdb6fe8b647
+instagram: 
+twitter: 
+facebook: 
 gallery: 
   - /public/uploads/flockingai/033-pete.png
   - /public/uploads/flockingai/033-a.png
