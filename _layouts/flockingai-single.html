@@ -31,6 +31,9 @@ layout: default
         </header>
       {% endunless %}
 
+      {% include flockingai-gallery.html %}
+
+
       <section class="page__content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
@@ -45,9 +48,9 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
+
       <section class="page__content" itemprop="text"></section>
 
-      {% include flockingai-gallery.html %}
       
     </section>
 

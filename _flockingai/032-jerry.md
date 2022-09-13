@@ -10,11 +10,55 @@ header      :
   teaser    : /public/uploads/flockingai/032-jerry.png
 prompt: funny cute bird with fluffy feathers
 midjourney: https://www.midjourney.com/app/jobs/4c0af294-c79a-46db-87cf-8a107a056b42
+instagram: 
+twitter: 
+facebook: 
 gallery: 
   - /public/uploads/flockingai/032-jerry.png
   - /public/uploads/flockingai/032-a.png
   - /public/uploads/flockingai/032-b.png
   - /public/uploads/flockingai/032-c.png
+  - /public/uploads/flockingai/032-d.png
 ---
 
-The blue-Winged Sapphire is a small bird with large eyes, blue wings with a red body. It eats small seeds like millet. It plays in the water and makes a good pet. It likes human habitat like small cities. It feeds on the ground in flocks of 8-30. Its calls are rather short, and it has a bill. As they grow older they lose all their color. It nests in small trees or shrubs.
+The Blue-Winged Sapphire is a stunning bird with electric blue wings and a vibrant red body. They are an incredibly playful bird that loves to splash around in water, and make an excellent pet. They are very friendly creatures that enjoy spending time in close proximity to humans. The Blue-Winged Sapphire primarily eats small seeds, such as millet. They build their nests in trees or on ledges. One of the most interesting things about the Blue-Winged Sapphire is their stunning aerial displays. They are known to fly upside down during courtship, and their acrobatic abilities are truly breathtaking.
+
+### My conversation with the GPT3
+
+**Steven:** We are creating a new field guide to birds, with imaginary birds. The bird species is called a “Blue-Winged Sapphire”. Please help me write a description for this bird in 3rd person
+
+**GPT3**: The Blue-Winged Sapphire is a stunning bird with electric blue wings and a vibrant red body. It is an incredibly playful bird that loves to splash around in water, and makes an excellent pet. They are very friendly creatures that enjoy spending time in close proximity to humans.
+
+**Steven**: What does it eat?
+
+**GPT3**: The Blue-Winged Sapphire primarily eats small seeds, such as millet.
+
+**Steven**: Do they make good pets?
+
+**GPT3**: Yes, Blue-Winged Sapphires make excellent pets! They are incredibly friendly and love spending time with humans.
+
+**Steven**: What kind of noises do they make?
+
+**GPT3**: The Blue-Winged Sapphire is a relatively quiet bird, but they do make a soft chirping noises
+
+**Steven**: Where do they come from? what kind of nests do they make?
+
+**GPT3**: Blue-Winged Sapphires are native to small cities and human habitats. They build their nests in trees or on ledges.
+
+**Steven**: anything interesting about their matting Rituals?
+
+**GPT3**: There is one particularly interesting aspect of the Blue-Winged Sapphire's mating rituals: they often fly upside down during courtship displays! This stunning maneuver is sure to impress any potential mates.
+
+**Steven**: What do you call a flock of these birds?
+
+**GPT3**: A flock of Blue-Winged Sapphires is called a "Cluster".
+
+**Steven**: How many eggs do they lay?
+
+**GPT3**: The Blue-Winged Sapphire typically lays two eggs per clutch.
+
+**Steven**: Tell me something interesting about these birds?
+
+**GPT3**: One of the most interesting things about the Blue-Winged Sapphire is their stunning aerial displays. They are known to fly upside down during courtship, and their acrobatic abilities are truly breathtaking.
+
+**Steven**: Thank you.

@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/024-michael.png
 prompt: Beeple style of a cute owl
 midjourney: https://www.midjourney.com/app/jobs/c75206fb-7818-40c9-81e7-02377b0ee5d1
+instagram: 
+twitter: 
+facebook: 
 gallery: 
   - /public/uploads/flockingai/024-michael.png
   - /public/uploads/flockingai/024-a.png
@@ -19,4 +22,4 @@ gallery:
   - /public/uploads/flockingai/024-f.png
 ---
 
-The carnival owl is a medium size bird with shiny, iridescent feathers that almost glow at night. They are attracted to music and can often be found at music festivals. They are scavengers and prefer to eat fishes. Their feathers are known for their unique geometric patterns.
+The carnival owl is a medium sized bird with shiny, iridescent feathers that almost glow in the dark. They are attracted to music and can often be found at music festivals. They are scavengers and prefer to eat fish. Their feathers are known for their unique geometric patterns. The carnival owl is known to make nests out of whatever materials it can find. They are often made of sticks, leaves, and other debris. The carnival owl is known for its unique call that sounds like a mix between a hoot and a laugh. A group of carnival owls is known as a glittering. The carnival owl is a very social bird and can often be found in groups. They are known to be very playful and to enjoy music.

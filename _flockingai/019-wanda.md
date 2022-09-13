@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/019-wanda.png
 prompt: Wanda Gag style of a cute Bird
 midjourney: https://www.midjourney.com/app/jobs/94f0982d-4709-4dd7-9045-570ab3ec1bab
+instagram: https://www.instagram.com/p/CiSd78aBGEx/
+twitter: https://twitter.com/FlockingAI/status/1568237816403750912
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02dCgnNkUgSGyzoci2MwgBjhynQGYkRtvPDMAPhHG3myqqtMBUu42tHoSCNyYoukfJl
 gallery: 
   - /public/uploads/flockingai/019-wanda.png
   - /public/uploads/flockingai/019-a.png

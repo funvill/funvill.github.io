@@ -9,6 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/022-albert.png
 prompt: Albert Bierstadt style of a cute Owl
 midjourney: https://www.midjourney.com/app/jobs/8f394758-e341-4550-bb35-1a8bcf5a3656
+instagram: https://www.instagram.com/p/CiaMQuzhH6g/
+twitter: https://twitter.com/FlockingAI/status/1569324978218053632
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0os31HUgnJA1KzjDFig5KFnF7UnCUoAKpSfnxUnVnM1ge4j1T95bYdUwCyMYorEEUl
 gallery: 
   - /public/uploads/flockingai/022-albert.png
   - /public/uploads/flockingai/022-a.png
