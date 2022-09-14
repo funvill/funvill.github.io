@@ -9,7 +9,7 @@ header      :
   teaser    : /public/uploads/flockingai/023-emily.png
 prompt: Amiria Gale style of a cute Peacock
 midjourney: https://www.midjourney.com/app/jobs/73c99647-5445-4306-b29d-bb3b5e879b96
-instagram: https://www.instagram.com/p/CicxEw7h68_/
+instagram: https://www.instagram.com/p/CicxEw7h68_/           
 twitter: https://twitter.com/FlockingAI/status/1569687342952087554
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02wGzdvABKrhs7oDThxecAjjDgnUxLtFYrhtK5bHRKFWcP4niUX49DEoemyNVDSwb2l
 gallery: 

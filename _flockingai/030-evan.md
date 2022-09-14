@@ -29,42 +29,42 @@ The White-faced Cuckoo Owl is a large bird that is found in forests around the w
 
 **Steven**: We are creating a new field guide to birds, with imaginary birds. The bird species is called a “White-faced Cuckoo Owl”. Please help me write a description for this bird in 3rd person.
 
-**GPT3**: The White-faced Cuckoo Owl is a large bird that is found in forests around the world. It has a white face and resembles a bat. It is an anxious bird that is not actually from the owl family.
+> The White-faced Cuckoo Owl is a large bird that is found in forests around the world. It has a white face and resembles a bat. It is an anxious bird that is not actually from the owl family.
 
 **Steven**: If it's not from the owl family then what family is it from?
 
-**GPT3**:It is an anxious bird that is not actually from the owl family, but is instead related to the cuckoo bird.
+> It is an anxious bird that is not actually from the owl family, but is instead related to the cuckoo bird.
 
 **Steven**: What kind of sounds does it make?
 
-**GPT3**:It is known for its high-pitched screeching sound.
+> It is known for its high-pitched screeching sound.
 
 **Steven**: Where does it nest? what is the nest made out of?
 
-**GPT3**:The White-faced Cuckoo Owl nests in trees, using leaves and twigs to build its nest.
+> The White-faced Cuckoo Owl nests in trees, using leaves and twigs to build its nest.
 
 **Steven**: What do you call a group of these birds?
 
-**GPT3**:A group of White-faced Cuckoo Owls is known as a colony.
+> A group of White-faced Cuckoo Owls is known as a colony.
 
 **Steven**: What else is unique about this bird?
 
-**GPT3**:The White-faced Cuckoo Owl is a nocturnal bird, meaning it is most active at night.
+> The White-faced Cuckoo Owl is a nocturnal bird, meaning it is most active at night.
 
 **Steven**: What does it eat?
 
-**GPT3**:The White-faced Cuckoo Owl primarily feeds reptiles but is known to eat insects and seeds if needed
+> The White-faced Cuckoo Owl primarily feeds reptiles but is known to eat insects and seeds if needed
 
 **Steven**: I heard that it has dark red feathers around its face, are these uses to attract a mate?
 
-**GPT3**:The White-faced Cuckoo Owl does have dark red feathers around its face, which are used to attract a mate.
+> The White-faced Cuckoo Owl does have dark red feathers around its face, which are used to attract a mate.
 
 **Steven**: How are they used to attract a mate?
 
-**GPT3**:The dark red feathers around the White-faced Cuckoo Owl's face are used to attract a mate by being seen as a potential food source.
+> The dark red feathers around the White-faced Cuckoo Owl's face are used to attract a mate by being seen as a potential food source.
 
 **Steven**: Anything else you want to tell me about this bird?
 
-**GPT3**:The White-faced Cuckoo Owl is a shy bird that is not often seen in the wild.
+> The White-faced Cuckoo Owl is a shy bird that is not often seen in the wild.
 
 **Steven**: Thank you

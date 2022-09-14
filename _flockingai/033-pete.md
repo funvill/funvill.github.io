@@ -28,50 +28,50 @@ The Thorn Black Bird is a massive bird found in the forests of Europe and Asia. 
 
 **Steven:** We are creating a new field guide to birds, with imaginary birds. The bird species is called a “Thorn Black Bird”. Please help me write a description for this bird in 3rd person.
 
-**GPT3**: The Thorn Black Bird is a fearsome creature that lurks in the darkest forests. It is a massive bird, with black feathers and fur, and a pair of horns protruding from its head. It is a vicious predator, and its huge nests are made of branches and bones.
+> The Thorn Black Bird is a fearsome creature that lurks in the darkest forests. It is a massive bird, with black feathers and fur, and a pair of horns protruding from its head. It is a vicious predator, and its huge nests are made of branches and bones.
 
 **Steven**: Sounds scary, how large are the nests in meters?
 
-**GPT3**: The nests can be up to 10 meters in diameter.
+> The nests can be up to 10 meters in diameter.
 
 **Steven**: that is massive! How big is this bird?
 
-**GPT3**: The Thorn Black Bird is a massive bird, with a wingspan of up to 3 meters. It is a fearsome predator, and its huge nests are made of branches and bones.
+> The Thorn Black Bird is a massive bird, with a wingspan of up to 3 meters. It is a fearsome predator, and its huge nests are made of branches and bones.
 
 **Steven**: Scary. If its so big and is making nests out of bones it must be eating very large mammals. What does it eat?
 
-**GPT3**: The Thorn Black Bird is a carnivore, and it preys on large mammals such as deer and wild boar.
+> The Thorn Black Bird is a carnivore, and it preys on large mammals such as deer and wild boar.
 
 **Steven**: Terrifying. Does it have any nickname?
 
-**GPT3**: The Thorn Black Bird is also known as the "Nightmare Bird" due to its dark appearance and fearsome reputation.
+> The Thorn Black Bird is also known as the "Nightmare Bird" due to its dark appearance and fearsome reputation.
 
 **Steven**: What does the bird call sound like?
 
-**GPT3**: The Thorn Black Bird has a harsh, screeching call that can be heard for miles.
+> The Thorn Black Bird has a harsh, screeching call that can be heard for miles.
 
 **Steven**: I wouldn't want to live next to that. Where in the world is this bird from?
 
-**GPT3**: The Thorn Black Bird is found in the forests of Europe and Asia.
+> The Thorn Black Bird is found in the forests of Europe and Asia.
 
 **Steven**: What do you call a grouping of these birds? Not murder, or flock, right?, be random.
 
-**GPT3**: A group of Thorn Black Birds is called a "curse".
+> A group of Thorn Black Birds is called a "curse".
 
 **Steven**: Is there anything nice about these birds?
 
-**GPT3**: Despite their fearsome reputation, Thorn Black Birds are actually quite intelligent, and they have been known to help humans in the forest.
+> Despite their fearsome reputation, Thorn Black Birds are actually quite intelligent, and they have been known to help humans in the forest.
 
 **Steven**: Oh? How do they help humans?
 
-**GPT3**: The Thorn Black Bird is known to help humans in the forest by guiding them to safety or giving them warnings about danger.
+> The Thorn Black Bird is known to help humans in the forest by guiding them to safety or giving them warnings about danger.
 
 **Steven**: Well that is good. Anything else you want to tell me about them?
 
-**GPT3**: Thorn Black Birds are one of the few bird species that are known to mate for life.
+> Thorn Black Birds are one of the few bird species that are known to mate for life.
 
 **Steven**: Cool! anything interesting about their matting Rituals?
 
-There is not much known about the Thorn Black Bird's mating rituals, as they are a very secretive bird. However, it is believed that they perform a dance to impress their potential mates.
+> There is not much known about the Thorn Black Bird's mating rituals, as they are a very secretive bird. However, it is believed that they perform a dance to impress their potential mates.
 
 **Steven**: Thank you.

@@ -26,34 +26,34 @@ The Web-footed Kingfisher is a water bird found near streams, rivers and ponds i
 
 **Steven:** We are creating a new field guide to birds, with imaginary birds. First we need to figure out a bird name, its a water bird, like a king fisher, but with brown web feet, blue body, large dark eyes, rusty head feathers. What should we call this bird?
 
-**GTP3:** giant water rat
+> giant water rat
 
 **Steven:** I don't like that, try again.
 
-**GTP3:** web-footed kingfisher
+> web-footed kingfisher
 
 **Steven:** Better. What does it eat? Where does it live? What is the lifespan of this bird? Do people keep them as pets?
 
-**GTP3:** The web-footed kingfisher eats small fish, frogs and insects. It lives near streams, rivers and ponds in wooded areas. The lifespan of this bird is about 10 years. They do not make good pets
+> The web-footed kingfisher eats small fish, frogs and insects. It lives near streams, rivers and ponds in wooded areas. The lifespan of this bird is about 10 years. They do not make good pets
 
 **Steven:** If we were to keep one of these as a pet what should we name it?
 
-**GTP3:** If you were to keep a web-footed kingfisher as a pet, you could name it Max, Spike or Kipper.
+> If you were to keep a web-footed kingfisher as a pet, you could name it Max, Spike or Kipper.
 
 **Steven:** What are these birds' mating habits like?
 
-**GTP3:** The web-footed kingfishers are monogamous and mate for life. They build their nests in tree cavities near water. The female lays 3-5 eggs which hatch in about 2 weeks. The chicks stay in the nest for 4-6 weeks before fledging.
+> The web-footed kingfishers are monogamous and mate for life. They build their nests in tree cavities near water. The female lays 3-5 eggs which hatch in about 2 weeks. The chicks stay in the nest for 4-6 weeks before fledging.
 
 **Steven:** What makes this bird unique?
 
-**GTP3:** The web-footed kingfisher is unique because of its webbed feet, which help it to swim. It is also one of the largest kingfishers.
+> The web-footed kingfisher is unique because of its webbed feet, which help it to swim. It is also one of the largest kingfishers.
 
 **Steven:** what is something else that makes this bird unique
 
-**GTP3:** The web-footed kingfisher has excellent eyesight and can see prey from great distances.
+> The web-footed kingfisher has excellent eyesight and can see prey from great distances.
 
 **Steven:** What do you call a flock of these birds?
 
-**GTP3:** A flock of web-footed kingfishers is called a raft.
+> A flock of web-footed kingfishers is called a raft.
 
 **Steven:** Thank you.
