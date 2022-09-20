@@ -2,7 +2,7 @@
 title: Tony
 species: Paper Owl
 text-keywords: brown, paper or wood like feathers, muted colors, large eyes, owl,
-post_date: 2022-09-19 00:00:00
+post_date: 2022-09-27 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :

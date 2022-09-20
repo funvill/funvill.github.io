@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/024-michael.png
 prompt: Beeple style of a cute owl
 midjourney: https://www.midjourney.com/app/jobs/c75206fb-7818-40c9-81e7-02377b0ee5d1
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CifV6FwhzGZ/
+twitter: https://twitter.com/FlockingAI/status/1570049744411365376
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0oj4gePWY3dYTL2mVFnNwZ5PT9gu17vdga1YhnD4n9MR6nrRjqf7JAJ7eESwZEcLml
 gallery: 
   - /public/uploads/flockingai/024-michael.png
   - /public/uploads/flockingai/024-a.png

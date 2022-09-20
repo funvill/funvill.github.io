@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/028-andy.png
 prompt: Bob Byerley style of a cute Owl
 midjourney: https://www.midjourney.com/app/jobs/5c873ea7-e9ce-4e14-b341-933f5f25f053
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CippGwAhA1X/
+twitter: https://twitter.com/FlockingAI/status/1571499320527835136
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0267CEDmuJ4PVX2KK492geeXw4PokgJwsgRofjsNRU5Rr68aHcCHGZcaoMj6HYJNwsl
 gallery: 
   - /public/uploads/flockingai/028-andy.png
   - /public/uploads/flockingai/028-a.png

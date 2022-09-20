@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/026-zeng.png
 prompt: Zeng Fanzhi style of a cute owl
 midjourney: https://www.midjourney.com/app/jobs/93996154-b3bc-4380-8c18-fb8017bfb53b
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cikfhmbhj5c/
+twitter: https://twitter.com/FlockingAI/status/1570774506288734208
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02ikyBwwTWcLepXxU34XaHprwALTfsVz7XHiDeFBCoyopHNbNpR1mEE7zpBBoneE1Gl
 gallery: 
   - /public/uploads/flockingai/026-zeng.png
   - /public/uploads/flockingai/026-a.png

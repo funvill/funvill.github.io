@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/029-pari.png
 prompt: cute fluffy fuzzy bird + long tail + stuff of nightmares
 midjourney: https://www.midjourney.com/app/jobs/6ad30dbe-dd88-4a5b-a678-77ada5db953c
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CisN5dbBJUq/
+twitter: https://twitter.com/FlockingAI/status/1571861670896484355
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0vuNj58kvBsuKGy7uwgT6nfpvEiC93TkU9T3RJepSW5CpsGUdxZFbNcGNasWJsqfPl
 gallery: 
   - /public/uploads/flockingai/029-pari.png
   - /public/uploads/flockingai/029-a.png

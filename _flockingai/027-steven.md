@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/027-steven.png
 prompt: Weta Digital style of a cute bird
 midjourney: https://www.midjourney.com/app/jobs/f13a21c5-1985-4648-94ba-0f3540902007
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CinEQk3hbyC/
+twitter: https://twitter.com/FlockingAI/status/1571136916317085696
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0uE4zRnvprGDYm2koTgXbuTxpi8uQKNwMd7MFgJDr4BV617NHcF1VMSvmfbjKhb71l
 gallery: 
   - /public/uploads/flockingai/027-steven.png
   - /public/uploads/flockingai/027-a.png
