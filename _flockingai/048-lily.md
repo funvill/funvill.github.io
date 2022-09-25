@@ -2,11 +2,11 @@
 title: Lily
 species: Rounded-Ear Parakeet
 text-keywords: 
-post_date: 2022-10-01 00:00:00
+post_date: 2022-10-07 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Parakeet
 header      :
-  teaser    : /public/uploads/flockingai/000-lily.png
+  teaser    : /public/uploads/flockingai/048-lily.png
 prompt: tiny cute adorable halloween plush BIRD with little sharp teeth, intricate furry details, soft cinematic lighting, 8k, portrait, Pixar style character, octane render
 midjourney: https://www.midjourney.com/app/jobs/b8644a39-d31e-486d-a09c-a0d8bb4ceade
 instagram: 
