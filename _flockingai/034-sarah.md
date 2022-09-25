@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/034-sarah.png
 prompt: Cute Adorable Fluffy Bird + In The Shapes Of Flowers + Ultra-Realistic, Octane Render Highly Detail
 midjourney: https://www.midjourney.com/app/jobs/e9061f43-67ba-4ae7-9db7-f56ad7794fbf
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Ci5F4XdsqE6/
+twitter: https://twitter.com/FlockingAI/status/1573673610769752069
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02t3bZz9HgCxx72RwtfHMtYa3n2vvaqoU5i7QaTtMZHhEnns8x9TaECXk84gTGnuMhl
 gallery: 
   - /public/uploads/flockingai/034-sarah.png
   - /public/uploads/flockingai/034-a.png

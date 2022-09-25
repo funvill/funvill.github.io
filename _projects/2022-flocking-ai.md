@@ -212,3 +212,7 @@ Agreed, I am open to suggestions for creating better text descriptions. Please c
 I am lasy and I want to do the lest amount of work possiable. If a social media site doesn't support scheduling posts I ingored it. If I get a lot of feedback saying I need to post on TikTok or any other social media site I might consider it.
 
 At the start I didn't create videos of the generation of the birds and I can't go back and recreate the videos. TicTok is setup for videos and still images don't do well on that site, so it won't be included in the first version.
+
+**Why don't they look like real birds?**
+
+I did not want people to get confused and think this was a real bird.

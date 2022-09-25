@@ -10,9 +10,9 @@ header      :
   teaser    : /public/uploads/flockingai/032-jerry.png
 prompt: funny cute bird with fluffy feathers
 midjourney: https://www.midjourney.com/app/jobs/4c0af294-c79a-46db-87cf-8a107a056b42
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Ciz8OaroZV9/
+twitter: https://twitter.com/FlockingAI/status/1572948840637833216
+facebook: https://www.facebook.com/funvill/posts/pfbid0UnQzYfdhCg4LNvamo1fVj8FJ472Ea6DWEjfXM2b4Nk9bZiojukDXf3yHqbsEc7qql
 gallery: 
   - /public/uploads/flockingai/032-jerry.png
   - /public/uploads/flockingai/032-a.png

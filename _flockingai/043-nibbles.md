@@ -2,7 +2,7 @@
 title: Nibbles
 species: Cherry Warbler
 text-keywords: 
-post_date: 2022-09-19 00:00:00
+post_date: 2022-10-03 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :

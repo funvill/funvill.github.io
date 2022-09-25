@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/030-evan.png
 prompt: Wanda Gag style of a cute owl
 midjourney: https://www.midjourney.com/app/jobs/fb559037-4389-42ec-8b5f-2d63a7e3aaa6
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CiuynU7hgmS/
+twitter: https://twitter.com/FlockingAI/status/1572224072359952384
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0nN7EvWKBi97ahX84opBWgbsv2zJvmRToAoPDKsYG4YCteUAp5GsCtJ3yDANmtSxGl
 gallery: 
   - /public/uploads/flockingai/030-evan.png
   - /public/uploads/flockingai/030-a.png

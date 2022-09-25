@@ -2,7 +2,7 @@
 title: Cornelius
 species: Colony Owl
 text-keywords: 
-post_date: 2022-10-03 00:00:00
+post_date: 2022-10-04 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :

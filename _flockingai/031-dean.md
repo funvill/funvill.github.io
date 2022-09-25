@@ -10,9 +10,9 @@ header      :
   teaser    : /public/uploads/flockingai/031-dean.png
 prompt: Dean Russo style of a cute peacock
 midjourney: https://www.midjourney.com/app/jobs/40aa74d1-bded-4010-987a-ff80bcd6e886
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CixXaLehZkx/
+twitter: https://twitter.com/FlockingAI/status/1572586458979909637
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02njjNgeVVwJ8TSfGDh9WV4LFgPZtYzXNuLexrr9oPQjEqYPVg1kwAA15SAeFSvbMGl
 gallery: 
   - /public/uploads/flockingai/031-dean.png
   - /public/uploads/flockingai/031-a.png
