@@ -17,7 +17,6 @@ gallery:
   - /public/uploads/flockingai/045-a.png
   - /public/uploads/flockingai/045-b.png
   - /public/uploads/flockingai/045-c.png
-  - /public/uploads/flockingai/045-d.png
 ---
 
 The melted fisher is a small bird with a long neck and brightly colored plumage. It is usually some combination of blue, green, and orange, and has small wings for balance while hunting. The melted fisher has a beak that is designed specifically for catching fish, and it typically hunts by dipping its beak into the water and snatching up small fish. The melted fisher is found in tropical or subtropical regions, and typically nests in trees near water sources. The melted fisher is known for being a messy eater, and often gets its bright colors dripping all over its face when it eats. A flock of melted fishers is called a "star."
