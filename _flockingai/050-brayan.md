@@ -2,7 +2,7 @@
 title: Brayan
 species: Mexican firecracker
 text-keywords: 
-post_date: 2022-10-09 00:00:00
+post_date: 2022-10-10 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :

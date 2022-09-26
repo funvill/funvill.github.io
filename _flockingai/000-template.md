@@ -24,4 +24,4 @@ TODO Replace with actual text - Lorem ipsum dolor sit amet, consectetur adipisci
 
 ### My conversation with the GPT3
 
-**Steven:** We are creating a new field guide to birds, with imaginary birds. First, we need to start with a species name for this bird. What should we call this bird?
+Steven: We are creating a new field guide to birds, with imaginary birds. First, we need to start with a species name for this bird. What should we call this bird?

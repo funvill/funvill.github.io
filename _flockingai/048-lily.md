@@ -2,7 +2,7 @@
 title: Lily
 species: Rounded-Ear Parakeet
 text-keywords: 
-post_date: 2022-10-07 00:00:00
+post_date: 2022-10-08 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney Parakeet
 header      :

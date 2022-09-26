@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/036-ralph.png
 prompt: Ralph Steadman style of a cute Bird
 midjourney: https://www.midjourney.com/app/jobs/7f7aaa99-9f20-4b1b-b776-408ef9711809
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Ci-PemzKoG9/
+twitter: https://twitter.com/FlockingAI/status/1574398397414375425
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid07buszGTX1dUmN8QuLct38K5v8JrGXEtkMj5KU7X2CduXGdHzMXPQqKpG39G7hLJZl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/036-ralph.png
   - /public/uploads/flockingai/036-a.png

@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/035-spike.png
 prompt: cute bird kingfisher, under water, water Texture, shiny bubbles, too big eyes, highly detailed, photorealistic, Hyperrealism, highly detailed + unreal engine + 8k,
 midjourney: https://www.midjourney.com/app/jobs/3bb3506c-5f90-40e9-abaf-19d40632ff64
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Ci7qmnzvqbi/
+twitter: https://twitter.com/FlockingAI/status/1574036004301787137
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0SNdPAfQmvpxr5nuRUtSexfCKo1D3zZWKyjYtm8uvD7YoTeqhf4UBYBi84pcwfAf3l
 gallery: 
   - /public/uploads/flockingai/035-spike.png
   - /public/uploads/flockingai/035-a.png

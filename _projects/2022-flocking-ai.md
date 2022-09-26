@@ -21,8 +21,6 @@ At the end of the year I will take the top voted birds and compile them into a p
 
 <a href='https://www.instagram.com/flockingai/'><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>, <a href='https://twitter.com/FlockingAI'><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a>, <a href='https://www.facebook.com/FlockingAI/'><i class="fab fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
 
-
-
 ## How I made this project
 
 ### Image generation
@@ -121,14 +119,15 @@ Eventually I came up with the idea of a Machine Learning (ML) field guide of ima
 
 ## Ethics
 
-This is a huge topic that I plan to write some blog posts about in the future. At this moment I want to see what this technology can do and see if there is an audience for it
+TODO: Ethics
 
-TODO
+(*note*: "ToDo: Ethics" is ment to be a joke)
+
+This is a huge topic that I plan to write some blog posts about in the future. At this moment I want to see what this technology can do and see if there is an audience for it
 
 [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/) - Abstract: Machine learning offers a fantastically powerful toolkit for building complex systems quickly. This paper argues that it is dangerous to think of these quick wins as coming for free. Using the framework of technical debt, we note that it is remarkably easy to incur massive ongoing maintenance costs at the system level when applying machine learning. The goal of this paper is highlight several machine learning specific risk factors and design patterns to be avoided or refactored where possible. These include boundary erosion, entanglement, hidden feedback loops, undeclared consumers, data dependencies, changes in the external world, and a variety of system-level anti-patterns.
 
 > That's a bit like saying that musicians should stop listening to music, painters should stop looking at art, directors should stop watching movies, authors should stop reading books. Of course - we can control ourselves to not copy/plagiarize something, to some extent. As should deep learning models / generators. But we're all influences by someone else.
-
 
 ## FAQ
 

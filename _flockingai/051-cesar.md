@@ -2,7 +2,7 @@
 title: Cesar
 species: Lucha libre weaver
 text-keywords: 
-post_date: 2022-10-10 00:00:00
+post_date: 2022-10-11 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
