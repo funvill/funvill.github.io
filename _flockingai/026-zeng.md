@@ -31,3 +31,39 @@ The Sharp Eared Owl is a ground dwelling Owl with large pointed ears and huge ey
 - A group is called: parliament
 - Eats: Small mammals and birds
 - Lives in: woodlands all over the world
+
+### My conversation with the GPT3
+
+**Steven:** We are creating a new field guide to birds, with imaginary birds. First, we need to start with a species name for this bird. What should we call this bird?
+
+> GPT3: The Sharp Eared Owl is a beautiful and unique bird that is found in woodlands all over the world. This Owl is easily recognizable by its large, pointed ears and bright red feathers. The Sharp Eared Owl is a very shy bird that is very hard to spot in the wild.
+
+**Steven:** What about its jacket? what does that look like?
+
+> GPT3: The Sharp Eared Owl has a very unique fur pattern that looks like a jacket. There are many different patterns for the jacket feathers. The face feathers are fuzzy. Females will have red feathers on their heads.
+
+**Steven:** What do you call a group of these birds?
+
+> GPT3: A group of Sharp Eared Owls is called a parliament.
+
+**Steven:** What makes this bird unique?
+
+> GPT3: This bird is unique because of its large, pointed ears and its bright red feathers.
+
+**Steven:** What kind of food does it eat?
+
+> GPT3: The Sharp Eared Owl eats small mammals and birds.
+
+**Steven:** what does its bird song sound like?
+
+> The Sharp Eared Owl has a very unique bird song that sounds like a mix between a hoot and a screech.
+
+**Steven:** Do you think it would make a good pet?
+
+> GPT3: No, the Sharp Eared Owl would not make a good pet.
+
+**Steven:** Why not?
+
+> GPT3: The Sharp Eared Owl is a very shy bird and does not like people very much.
+
+**Steven:** Thank you.
