@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/037-tony.png
 prompt: Tony Diterlizzi style of a cute Owl + cute Bird
 midjourney: https://www.midjourney.com/app/jobs/41c6df1b-ced9-4360-8747-c6e236e4b473
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjA0OPHqAEi/
+twitter: https://twitter.com/FlockingAI/status/1574760775243251712
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0j7WKjceJyN6mJm1xoHSeUsoPYMq8xJ5vbWk1bPmRXHdNi2BEveMtJRq4Fs1sVbSMl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/037-tony.png
   - /public/uploads/flockingai/037-a.png

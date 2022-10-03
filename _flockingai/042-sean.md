@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/042-sean.png
 prompt: Green-bearded Helmetcrest
 midjourney: https://www.midjourney.com/app/jobs/785c060e-77e2-46f3-a77b-d331a1d34d77
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjNsMvDMvXN/
+twitter: https://twitter.com/FlockingAI/status/1576572710825623553
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02oVCkZqUK22C1Gj6RmUdVE9kjN9QBAqsn75xbCgREXUGGUyLxsKGy4ftgE3Fpcjcfl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/042-sean.png
   - /public/uploads/flockingai/042-a.png

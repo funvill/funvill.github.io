@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/039-richard.png
 prompt: Richard dadd style of a cute Bird
 midjourney: https://www.midjourney.com/app/jobs/7c477641-6859-4ccf-861e-90a14af9a5b9
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjF9ythP7VC/
+twitter: https://twitter.com/FlockingAI/status/1575485562923819009
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02SVQC3R9F6CJyk2t9qoZPAvE4UkdrwF2CdoYPTQrAsKi24QqcEix4CiLq7siy46Wal&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/039-richard.png
   - /public/uploads/flockingai/039-a.png

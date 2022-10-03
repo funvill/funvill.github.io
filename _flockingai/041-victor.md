@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/041-victor.png
 prompt: Remedios Varo Uranga style of a cute Bird
 midjourney: https://www.midjourney.com/app/jobs/67c40ee3-a2b8-42e0-acd1-182f492121dc
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjLHYGZMbbg/
+twitter: https://twitter.com/FlockingAI/status/1576210334469136384
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02fV4SDGD3cMZX1TW9nkSWpHzvb9Nw9VXwgGx7L6SwK26UnqmacsXPDTjfLjTFXMHul&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/041-victor.png
   - /public/uploads/flockingai/041-a.png
