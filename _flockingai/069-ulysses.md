@@ -1,6 +1,5 @@
 ---
-title: Ulysses 
-hidden: true
+title: Ulysses
 species: 
 text-keywords: 
 post_date: 2022-10-29 00:00:00

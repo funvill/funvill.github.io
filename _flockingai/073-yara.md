@@ -1,6 +1,5 @@
 ---
 title: Yara
-hidden: true
 species: 
 text-keywords: 
 post_date: 2022-11-02 00:00:00

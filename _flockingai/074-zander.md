@@ -1,6 +1,5 @@
 ---
 title: Zander
-hidden: true
 species: 
 text-keywords: 
 post_date: 2022-11-03 00:00:00

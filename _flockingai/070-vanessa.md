@@ -1,6 +1,5 @@
 ---
 title: Vanessa
-hidden: true
 species: 
 text-keywords: 
 post_date: 2022-10-30 00:00:00

@@ -1,6 +1,5 @@
 ---
 title: Walker
-hidden: true
 species: 
 text-keywords: 
 post_date: 2022-10-31 00:00:00

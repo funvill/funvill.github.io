@@ -1,6 +1,5 @@
 ---
 title: Xavier
-hidden: true
 species: 
 text-keywords: 
 post_date: 2022-11-01 00:00:00
