@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/051-cesar.png
 prompt: a bird that is also a mexican wrestler
 midjourney: https://www.midjourney.com/app/jobs/ca546115-72d4-47a6-b213-18878e491c9c
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cjk3Y4vJGOE/
+twitter: https://twitter.com/FlockingAI/status/1579834205353037825
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0QuTMthMBdPegXiMMrQmfaGQkngoHM9YCh1x452YouHVzJjzuHo7NKsAuhuXCWynNl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/051-cesar.png
   - /public/uploads/flockingai/051-a.png

@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/048-lily.png
 prompt: tiny cute adorable halloween plush BIRD with little sharp teeth, intricate furry details, soft cinematic lighting, 8k, portrait, Pixar style character, octane render
 midjourney: https://www.midjourney.com/app/jobs/b8644a39-d31e-486d-a09c-a0d8bb4ceade
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjdJAgEJtvt/
+twitter: https://twitter.com/FlockingAI/status/1578747048236457984
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02V49sZPXQAGtBswCDrHhaMtTMgd5iFLrykh3k3yDnrTtQk3AQp622o5g5uMNcA3FZl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/048-lily.png
   - /public/uploads/flockingai/048-a.png

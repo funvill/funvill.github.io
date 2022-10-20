@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/058-james.png
 prompt: BIRD, an orchid-BIRD, dnd character design, fantasy, magical, high resolution, 8k
 midjourney: https://www.midjourney.com/app/jobs/691cb5e2-9a48-437d-b763-0a2bd590bca4
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cj249RvBMAI/
+twitter: https://twitter.com/FlockingAI/status/1582370931762241536
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02pwCHWrwDQfAPDP7PVqqT4KWf1oHQAnZ5JQwnwv85uzfC1sSFQqAUMxgeTRJkCtxql
 gallery: 
   - /public/uploads/flockingai/058-james.png
   - /public/uploads/flockingai/058-a.png

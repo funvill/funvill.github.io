@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/043-nibbles.png
 prompt: Cute Adorable Fluffy Bird + In The Shapes Of Flowers + Ultra-Realistic, Octane Render Highly Detail
 midjourney: https://www.midjourney.com/app/jobs/28b009a2-0c81-4c03-aa24-8a08a21b34fe
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjQQ9bCq0xb/
+twitter: https://twitter.com/FlockingAI/status/1576935110162599936
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0oMTAANhn49smmz6tdFYzZor44wP4MbgHovRBpqPYGJWUvRZcFJuvxCsJtW38R14Gl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/043-nibbles.png
   - /public/uploads/flockingai/043-a.png

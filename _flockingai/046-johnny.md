@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/046-johnny.png
 prompt: A bird wearing a Badger outfit
 midjourney: https://www.midjourney.com/app/jobs/6fd0a67d-1c6e-4d70-9805-eb86c8abd877
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjX_Xtjv-zA/
+twitter: https://twitter.com/FlockingAI/status/1578022270592745473
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02179CVu3CcjcgvTAoumpffDDWHee3tmSVrZAaKTYvNao1r2PLzWGhhE1Kb49NoHH8l&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/046-johnny.png
   - /public/uploads/flockingai/046-a.png

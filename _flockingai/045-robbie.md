@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/045-robbie.png
 prompt: colourful crazy BIRD, wet paint BIRD on colourful paint, disney cartoon style, ultra photoreal high quality detailed 8k
 midjourney: https://www.midjourney.com/app/jobs/27728690-ee1f-4058-8f20-9c086182eaed
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjValB6vtLy/
+twitter: https://twitter.com/FlockingAI/status/1577659878205804548
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02kZPDUs4GbrXG6nqm5f9oiqkqC5KRXFWXfjkyMy3f18jCAjj2uDYc4JM752QmSqn9l&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/045-robbie.png
   - /public/uploads/flockingai/045-a.png

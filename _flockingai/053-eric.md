@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/053-eric.png
 prompt: tiny cute adorable halloween plush BIRD with little sharp teeth, intricate furry details, soft cinematic lighting, 8k, portrait, Pixar style character, octane render
 midjourney: https://www.midjourney.com/app/jobs/43048b1f-82ed-4b26-996a-8e41f33f521b
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjqA9u8Ppm0/
+twitter: https://twitter.com/FlockingAI/status/1580558987908460545
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid05Apn9mcRE471kUYi5HCqD1gynPEd3m6nSpXmhj8v9z74hfFqXrf8WLvHN7B9n9swl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/053-eric.png
   - /public/uploads/flockingai/053-a.png

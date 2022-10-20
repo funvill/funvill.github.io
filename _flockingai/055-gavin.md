@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/055-gavin.png
 prompt: high color acrylic painting of a punk rock BIRD at a concert, by Lucy Hardie and Tom Doyle and Daniel Nguyen, environment by Mark Ryden, hyper detailed, manga, finely detailed eyes, doe eyes, intricately detailed environment, dynamic color
 midjourney: https://www.midjourney.com/app/jobs/82c91e45-586c-4555-8112-7832cbc6c7f0
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjvKikvv53E/
+twitter: https://twitter.com/FlockingAI/status/1581283755322384385
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02rJhUTTpjuFDsfZUbkcGksxURYcwf8paNDTnUgnt3NEqme7qRCHYE1jp4Bb8qX2rEl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/055-gavin.png
   - /public/uploads/flockingai/055-a.png

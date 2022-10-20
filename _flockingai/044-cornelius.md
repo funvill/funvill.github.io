@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/044-cornelius.png
 prompt: Isa Genzken style of a cute Owl
 midjourney: https://www.midjourney.com/app/jobs/e8d7a9d7-5bf9-43e2-97af-2b7b77dc5db9
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjS1yd3P1C_/
+twitter: https://twitter.com/FlockingAI/status/1577297490893627392
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02ZHyjHqCUVQbifXLaj9JP7VvfFeKXJtY1SYvPREwZBR6uMiBaJUtVGRVsfPkSfDgwl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/044-cornelius.png
   - /public/uploads/flockingai/044-a.png

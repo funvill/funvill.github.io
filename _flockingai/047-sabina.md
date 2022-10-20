@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/047-sabina.png
 prompt: Beautiful Spectral BIRD, patronus, transparent, caustics, optics, ultra realistic, magic, fantasy, composition, dark
 midjourney: https://www.midjourney.com/app/jobs/4422b951-1dc4-46de-8926-667624a0ba4b
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjakNw1hMWk/
+twitter: https://twitter.com/FlockingAI/status/1578384655950249986
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid026HguQsi5L8pJ7U16oHhBv89qYiq24qbpScXcbMYDb9xdTgGjsiF8UVae1Yo6NWxtl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/047-sabina.png
   - /public/uploads/flockingai/047-a.png

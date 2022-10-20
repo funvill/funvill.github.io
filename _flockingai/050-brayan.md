@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/050-brayan.png
 prompt: Iplehouse Freezia, beautiful BIRD wearing an orange skull dress, BIRD, ball-jointed doll, flowers, dia de los muertos, shallow depth of field, backlight, rimlight, shining particles, 8K
 midjourney: https://www.midjourney.com/app/jobs/2d1fb5d6-afed-4509-a097-0d373012f2e0
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjiSjBcvjKT/
+twitter: https://twitter.com/FlockingAI/status/1579471815138844674
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0kpniaigxrLHRZqnDt7uipqWTpUjv4vswSHC8sMLLDxpmVBVpsuDazBGFHDohjVzRl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/050-brayan.png
   - /public/uploads/flockingai/050-a.png

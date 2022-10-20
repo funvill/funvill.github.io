@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/059-kevin.png
 prompt: BIRD, Tiny cute adorable baby "the joker" but as a BIRD, Jean-Baptiste Monge, soft cinematic lighting, 8k, intricate details, portrait, Pixar style character, old fashioned movie style
 midjourney: https://www.midjourney.com/app/jobs/f3e68201-76a8-4f6b-b70a-9d559dddf2cd
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cj5dsv3pA6y/
+twitter: https://twitter.com/FlockingAI/status/1582733315852886018
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0mNTkmfm7GvNA4xezF7vS3Kha3KyJhS5tXiCh6LhavWLt4KapDKkfi3T6h2HJsK2bl
 gallery: 
   - /public/uploads/flockingai/059-kevin.png
   - /public/uploads/flockingai/059-a.png

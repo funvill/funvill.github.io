@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/049-aaliyah.png
 prompt: an adorable cute BIRD cub face, colored plain background behind the BIRD cub, portrait, sweet, childlike, studio lighting,
 midjourney: https://www.midjourney.com/app/jobs/25c46559-e0d6-407d-a907-5f2e4fb78447
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjftyKPBllM/
+twitter: https://twitter.com/FlockingAI/status/1579109426132176896
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0uuQATz2DSqi6EpJ2ksgcMPPyPSs8nYyh9PMmdWNUXTnHMJ8inraMSsFrCs3no2bWl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/049-aaliyah.png
   - /public/uploads/flockingai/049-a.png

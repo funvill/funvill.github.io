@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/052-dustin.png
 prompt: BIRD, chibi character design, warlock BIRD female Tabaxi, intricate outfit, by Gom Sunim, Paru Itagaki, jean-baptiste monge, akira toriyama, Akihiko yoshida
 midjourney: https://www.midjourney.com/app/jobs/39afef3c-0ea4-45ec-9bf6-1390120ed9bc
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjncIp0vGbG/
+twitter: https://twitter.com/FlockingAI/status/1580196598151348224
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid022QB8aRVnARwNjuKK2x8FspeqtYASpidFLhRTdFtw6E545cHWxhvQmD3rRUTs8Lfkl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/052-dustin.png
   - /public/uploads/flockingai/052-a.png

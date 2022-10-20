@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/054-fabio.png
 prompt: A bird and a Badger mixed together
 midjourney: https://www.midjourney.com/app/jobs/05739e88-1d44-4d77-b3fd-9ffc9188aa5f
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CjslsYOPnyW/
+twitter: https://twitter.com/FlockingAI/status/1580921373441941505
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02TdosVLpELEHH4tWZmLukNgrG3t8hU64ypQfhik4HQfgwfMi7gfNTHnVFtnX9jTGXl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/054-fabio.png
   - /public/uploads/flockingai/054-a.png
