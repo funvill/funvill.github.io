@@ -1,6 +1,5 @@
 ---
-title: franklin
-hidden: true
+title: Franklin
 species: 
 text-keywords: 
 post_date: 2022-11-09 00:00:00
@@ -8,8 +7,8 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/080-franklin.png
-prompt: XXXXXXXXXX
-midjourney: https://www.midjourney.com/app/jobs/
+prompt: Halloween anthropomorphic seedeater, fantasy painting, pretty and expressive eyes, vivid colors, BirdPunk, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality, 8K, Ultra Realistic, high octane
+midjourney: https://www.midjourney.com/app/jobs/5a008dbc-92aa-4b47-b939-e19404628251
 instagram: 
 twitter: 
 facebook: 

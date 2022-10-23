@@ -1,6 +1,5 @@
 ---
-title: jayden
-hidden: true
+title: Jayden
 species: 
 text-keywords: 
 post_date: 2022-11-13 00:00:00
@@ -8,8 +7,8 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/084-jayden.png
-prompt: XXXXXXXXXX
-midjourney: https://www.midjourney.com/app/jobs/
+prompt: Philippine Eagle, BIRD, tree of life, avatar, universe, event horizon, colorful, night, unreal engine, realistic, ultra detailed, complex detailed, insane details, hyperrealism, hyperdetail, emphasis photorealistic, 32k post-production, HDR, Nikon D800 Super Telephoto, hyper realistic, cinematic composition, cinematic lighting
+midjourney: https://www.midjourney.com/app/jobs/53bd6f57-4cfc-4548-bb3b-e1dbfae07f4f
 instagram: 
 twitter: 
 facebook: 

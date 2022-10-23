@@ -1,6 +1,5 @@
 ---
-title: umar
-hidden: true
+title: Umar
 species: 
 text-keywords: 
 post_date: 2022-11-24 00:00:00
@@ -8,8 +7,8 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/095-umar.png
-prompt: XXXXXXXXXX
-midjourney: https://www.midjourney.com/app/jobs/
+prompt: Tawny Frogmouth, BIRD, swimming in a glowing cave pool full of pink lotus flowers, gemstones on cave walls, ornate, gorgeous, cinematic, editorial photography, high fashion, ornate necklaces
+midjourney: https://www.midjourney.com/app/jobs/31bac015-1004-4de7-9f35-9e8829a06a1f
 instagram: 
 twitter: 
 facebook: 
