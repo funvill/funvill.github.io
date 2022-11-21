@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/066-ryan.png
 prompt: autumn anthropomorphic hornbill, fantasy painting, pretty and expressive eyes, ornate costume, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality,, 8K, Ultra Realistic, high octane, ultra resolution, amazing detail, perfection, In frame, photorealistic, cinematic lighting, visual clarity, UHD, 32k, 3D shading, Tone Mapping, Ray Tracing , Crystalline, Lumen Reflections, Super-Resolution, gigapixel, color grading, retouch, enhanced, PBR, Blender, Procreate, zBrush, Unreal Engine 5, Cinema 4D, Adobe After Effects, 3DCG, cinematic, volumetric, dramatic, neon lighting, wide angle lens
 midjourney: https://www.midjourney.com/app/jobs/fd1028dd-2873-4e23-be79-b961cc46f83c
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CkLfTXPvkNh/
+twitter: https://twitter.com/FlockingAI/status/1585270021105688579
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02cSiMhUXfhhXxk2KzCxVpy3jxTXb4qYzWrF6tUYeNgjgsYeV3YLu5dpgDvQmeBDXtl
 gallery: 
   - /public/uploads/flockingai/066-ryan.png
   - /public/uploads/flockingai/066-a.png

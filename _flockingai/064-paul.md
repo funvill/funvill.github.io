@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/064-paul.png
 prompt: anthropomorphic seedeater BIRD dressed up as ghosts for Halloween, fantasy painting, pretty and expressive eyes, vivid colors, BirdPunk, pastelpunk, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality, 8K, Ultra Realistic, high octane
 midjourney: https://www.midjourney.com/app/jobs/8a3c9f29-30c5-4239-a82f-9cc0b35852e1
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CkGVsb4PY2b/
+twitter: https://twitter.com/FlockingAI/status/1584545244313427970
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02P65zuBqLcjbbfU8YKCxFC3jaEfzDDYYbgHoPtn4tPPvv9wJYKTJWxhANDiei5gg4l
 gallery: 
   - /public/uploads/flockingai/064-paul.png
   - /public/uploads/flockingai/064-a.png

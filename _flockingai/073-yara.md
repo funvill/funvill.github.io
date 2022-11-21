@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/073-yara.png
 prompt: BIRD, Photography portrait of a family of BIRD Creatures by Lauren Carr, Big Cute Disney eyes, Tropical citrus tree forest scene, cinematic lighting
 midjourney: https://www.midjourney.com/app/jobs/07f64b94-b771-49bc-83de-2cc32f0f25fb
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Ckdg3xlLacW/
+twitter: https://twitter.com/FlockingAI/status/1587806736563335168
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0JEeqSu9BoQW9c34HnvoaxNqeg3yBHSFrtYTmgKcZ6jtrrtpxD9TEin5saBGEZapal
 gallery: 
   - /public/uploads/flockingai/073-yara.png
   - /public/uploads/flockingai/073-a.png

@@ -9,10 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/068-timothy.png
 prompt: Halloween anthropomorphic seedeater, fantasy painting, pretty and expressive eyes, vivid colors, BirdPunk, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality, 8K, Ultra Realistic, high octane
 midjourney: https://www.midjourney.com/app/jobs/557e0003-f12d-4cdf-a497-380c21d1fea2
-instagram: 
-twitter: 
-facebook: 
-gallery: 
+instagram: https://www.instagram.com/p/CkQo5r7Bkn0/
+twitter: https://twitter.com/FlockingAI/status/1585994806169403392
+gallery: S
   - /public/uploads/flockingai/068-timothy.png
   - /public/uploads/flockingai/068-a.png
   - /public/uploads/flockingai/068-b.png

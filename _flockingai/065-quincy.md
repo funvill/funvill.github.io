@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/065-quincy.png
 prompt: autumn anthropomorphic owl , fantasy painting, pretty and expressive eyes, ornate costume, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality,, 8K, Ultra Realistic, high octane, ultra resolution, amazing detail, perfection, In frame, photorealistic, cinematic lighting, visual clarity, UHD, 32k, 3D shading, Tone Mapping, Ray Tracing , Crystalline, Lumen Reflections, Super-Resolution, gigapixel, color grading, retouch, enhanced, PBR, Blender, Procreate, zBrush, Unreal Engine 5, Cinema 4D, Adobe After Effects, 3DCG, cinematic, volumetric, dramatic, neon lighting, wide angle lens
 midjourney: https://www.midjourney.com/app/jobs/85f5826a-372f-4cbd-bad8-6372c5bffa06
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CkI6blzvqbE/
+twitter: https://twitter.com/FlockingAI/status/1584907635656007680
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02YnxPsjjmSG79LBsAJr1d2eo5YPZVLfWBuYqCXopBubQu9NvFoGeCqEVSioCAjBarl
 gallery: 
   - /public/uploads/flockingai/065-quincy.png
   - /public/uploads/flockingai/065-a.png

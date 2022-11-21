@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/062-nicholas.png
 prompt: Neon ice crystal 3D baby BIRD, lots of parts, bizarre, 8k, epic scene, lightning in background, eerie, hyper realistic, extreme details, highly detailed and intricate, dramatic, stunning, amazing, colorful, smooth, clear, neon lighting, hyper realistic, HDR, vibrant, volumetric lighting, high contrast,
 midjourney: https://www.midjourney.com/app/jobs/ad819d18-15d8-45de-9e84-3d3d62c9a9e3
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CkBMHIxJlwN/
+twitter: https://twitter.com/FlockingAI/status/1583820480829538305
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid028sKFzU8Rq5Giw7BHwA8cGeb16befyx7PHhC4fszVVK63cy9ZEzkTjo5j8krXFmXbl
 gallery: 
   - /public/uploads/flockingai/062-nicholas.png
   - /public/uploads/flockingai/062-a.png

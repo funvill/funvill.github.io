@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/060-lucy.png
 prompt: 3D portrait, hyper detailed and cutest happy blue-haired monchichi baby as baby BIRD, full body view, detailed, in an enchanted garden, intricate stunning highly detailed photoshoot design, dramatic lighting, ultra detailed photorealistic, photoshoot, Unreal Engine 5, soft area lighting, light and shadow play, octane render, pixar dreamworks style, carl spitzweg style, steampunk vintage industrial look
 midjourney: https://www.midjourney.com/app/jobs/760f4b29-e853-4703-b615-bad08a8fc973
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cj8CeCJPwsb/
+twitter: https://twitter.com/FlockingAI/status/1583095695489175553
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02xBz1CgVFmrEFyEmQaUuVPiX9oLB6ZwfdH3jfWFkYvh6FHLko9hmUst3h7RKdg6RZl
 gallery: 
   - /public/uploads/flockingai/060-lucy.png
   - /public/uploads/flockingai/060-a.png

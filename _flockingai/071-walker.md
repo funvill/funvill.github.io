@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/071-walker.png
 prompt: BIRD, Halloween, outstanding portrait of Jack Skellington as a BIRD, from Nightmare Before Christmas, played by Slenderman in a forest, Claymation, jack o lanterns, by artgerm and RHADS, hyper realistic, portrait, cinematic, soft studio lighting, ultra realistic, photorealistic, octane render, unreal engine, hyper detailed, volumetric lighting, hdr, octane render, fantasy, horror, 4k, 8K
 midjourney: https://www.midjourney.com/app/jobs/e4d0d52d-9ba3-477d-9a57-78454da4f772
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CkYXOa9vGQk/
+twitter: https://twitter.com/FlockingAI/status/1587081966729527296
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid026vdKUFYqessFyberMyh8bYnNhv1nthwEpxpPBW1DnANP3YfmJ82awMuycNnrk8mul
 gallery: 
   - /public/uploads/flockingai/071-walker.png
   - /public/uploads/flockingai/071-a.png

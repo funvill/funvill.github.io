@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/061-milo.png
 prompt: Tiny cute adorable fluffy baby BIRD with knitted blue scarf leaning at a table in a medieval pub holding a coffee cup, anthropomorphic, Jean-Baptiste Monge, soft cinematic lighting, 8k, intricate details, portrait, Pixar style character, old fashioned movie style
 midjourney: https://www.midjourney.com/app/jobs/439bd727-5f63-42cf-b114-e6105a21f519
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cj-nU9vBbHN/
+twitter: https://twitter.com/FlockingAI/status/1583458094406897664
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02wfQS1wAMq46ioKT7128BnSFZNMt4hLT8wdwhsodf8jqek8BjhkiaEaaTQo6AxCjDl
 gallery: 
   - /public/uploads/flockingai/061-milo.png
   - /public/uploads/flockingai/061-a.png

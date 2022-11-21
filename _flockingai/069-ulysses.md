@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/069-ulysses.png
 prompt: BIRD, Halloween, adorable happy cute feathery chicken with , big blue eyes, cartoons, Sanrio style, hyperdetailed photo, finely detailed, portrait lighting
 midjourney: https://www.midjourney.com/app/jobs/85c87eb7-2e3d-4180-9ebc-39061c3f6798
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CkTNs-_h_jJ/
+twitter: https://twitter.com/FlockingAI/status/1586357190184640512
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid022pSV1U7Uij5H64eQEjK2Bk9fgnTqgJKF1Bir1kEunSh88fGJF6shm3jkbgenXD1al
 gallery: 
   - /public/uploads/flockingai/069-ulysses.png
   - /public/uploads/flockingai/069-a.png

@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/067-skylar.png
 prompt: BIRD, roaring anger exploding into a violent scream, abstract
 midjourney: https://www.midjourney.com/app/jobs/1d1ee4c4-f62a-4690-8372-1813c43975f7
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CkOEAsvh_lE/
+twitter: https://twitter.com/FlockingAI/status/1585632417867448320
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02oSHMwtK3NBpdytS7cdWGvdc7Z4TsEKEDPJdkVvzh5fV3tnyGgx4AnjypaB8svXyXl
 gallery: 
   - /public/uploads/flockingai/067-skylar.png
   - /public/uploads/flockingai/067-a.png

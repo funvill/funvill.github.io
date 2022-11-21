@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/070-vanessa.png
 prompt: BIRD, Halloween, adorable happy cute feathery chicken with , big blue eyes, cartoons, Sanrio style, hyperdetailed photo, finely detailed, portrait lighting
 midjourney: https://www.midjourney.com/app/jobs/317768b0-bf92-4499-91cf-e1f4125df584
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CkVydSmoFkZ/
+twitter: https://twitter.com/FlockingAI/status/1586719571104305155
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid032aZxVGiqYW4LNebewp82qujRPWEXAbghenSYs3eiWJmSGPNvZGDn51TVVP8hQ5DVl
 gallery: 
   - /public/uploads/flockingai/070-vanessa.png
   - /public/uploads/flockingai/070-a.png

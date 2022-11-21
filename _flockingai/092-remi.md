@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/092-remi.png
 prompt: full body, highly detailed siamese mythical Hoatzin honeyeater, anthropomorphic BIRD, beast in armor, sapphire blue eyes, monster design, by Weta Digital, by Reza Abbasi , 3-Dimensional, Happy, Bright, Furry, insanely detailed and intricate, hypermaximalist
 midjourney: https://www.midjourney.com/app/jobs/3c131479-05a6-4431-836c-596bb47aa881
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/ClOi2iqN0Im/
+twitter: https://twitter.com/FlockingAI/status/1594707207379046400
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0swqmoGALQNWddf5CcSudm2JnezjTqfdNT3RfgpsucvY2uTjkyxacEVLE2dPRu1ZZl
 gallery: 
   - /public/uploads/flockingai/092-remi.png
   - /public/uploads/flockingai/092-a.png

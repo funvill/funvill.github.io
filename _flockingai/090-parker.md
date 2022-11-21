@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/090-parker.png
 prompt: Cute and tiny owl, dynamic pose, sunny magical forest background, ultra detail, intricate details, volumetric lighting, photo realistic, lifelike, photography, digital art, 8k,
 midjourney: https://www.midjourney.com/app/jobs/51670717-f48a-42c0-b63d-44aeea610df9
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/ClJZMQKB1Df/
+twitter: https://twitter.com/FlockingAI/status/1593982439076106242
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0LfKHwAt1PBmLBUHKX1RXH6PE74i2fcVFVVLRGZLTiYMPW4fpX4TgRE4J7fJpdBqrl
 gallery: 
   - /public/uploads/flockingai/090-parker.png
   - /public/uploads/flockingai/090-a.png

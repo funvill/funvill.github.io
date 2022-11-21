@@ -23,6 +23,47 @@ At the end of the year I will take the top voted birds and compile them into a p
 
 ## How I made this project
 
+### The short version
+
+I created a chat bot using [Open IA GPT-3](https://gpt3-openai.com/) and filled it with as much bird information as I can. I have a conversation with this 'bird nerd chat bot' to generate a bio for an imagainary bird. I take this bio and use it as the seed text for text-to-image generator called [Mid Journey](https://www.midjourney.com/). Then I post a new imagainary bird to social media each day.
+
+Each bird has its own unique bio and image all created by AI.
+
+### Long version
+
+### Text and description generation
+
+Each bird has a unique description of what it looks like, where it lives, what it eats and some unique feature about it.
+
+To create this description I created a chat bot using [Open IA GPT-3](https://gpt3-openai.com/). For these models to work you need some example good text to work from. I gave the chat bot the descriptions of real birds from [All About Birds](https://www.allaboutbirds.org/guide/), wikipedia, and a book of bird jokes.
+
+What this created was the most enthusiastic bird nerd you have ever met. All it wanted to talk about is birds. Then I have a conversation with this chat bot, asking it stock questions about a new imaginary bird.
+
+Example: [Milo (Knitted Sparrow)](https://blog.abluestar.com/flockingai/061-milo/)
+
+> **Steven:** We are creating a new field guide to birds, with imaginary birds. First, we need to start with a species name for this bird. What should we call this bird?
+>
+>> **ChatBot:** The bird’s common species name should be “Knitted Sparrow”
+>
+>**Steven:** What does it eat? Does it have a favorite food?
+>
+>> **ChatBot:** The Knitted Sparrow typically feeds on insects, seeds, and berries. It has a particular fondness for coffee beans.
+>...
+
+At the end of our conversation I ask the chatbot to summerize what we have talked about into a bio for this imaginary bird. I use this bio, some seed text, keywords when generating the images using [Mid Journey](https://www.midjourney.com/)
+
+**Examples:**
+
+[**Zeng - Sharp Eared Owl**](/flockingai/026-zeng/)<img src='/public/uploads/flockingai/026-b.png' alt='Zeng - Sharp Eared Owl' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+
+- **Keywords:** Large pointed ears, huge eyes, lives on the ground, the feature pattern looks like a jacket, Many different patterns for the jacket feathers, Fuzzy face feathers, Females will have red feathers on their heads
+- **Description:** The Sharp Eared Owl is a ground dwelling Owl with large pointed ears and huge eyes. The feature pattern on their fur looks like a jacket. There are many different patterns for the jacket feathers. The face feathers are fuzzy. Females will have red feathers on their heads. These animals are found in woodlands all over the world.
+
+[**Steven - Eurasian Borrowing duck**](/flockingai/027-steven/)<img src='/public/uploads/flockingai/027-steven.png' alt='Steven - Eurasian Borrowing duck' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+
+- **Keywords:** Duck that lives in swamps eating fish and grubs. Mostly brown with sporadic colorful feathers, Loves to dig and bathe in dust and dirt. From Europe.
+- **Description:** Eurasian Borrowing ducks are ducks that live in swamps and eat fish and grubs. They are mostly brown with sporadic colorful feathers. They love to dig and bathe in dust and dirt.  Nest in hollowed out tree stumps or borrows. The female lays 8-12 eggs per season. These animals are found in Europe.
+
 ### Image generation
 
 The images are generated using [Mid Journey](https://www.midjourney.com/).
@@ -45,57 +86,9 @@ There are a lot of helpful guides and tools online to help with prompt generatio
 
 It feels great when you start a miny trend and people start using your keywords, or remixing off your images to make their own based on your prompt text. For me this is the best feature of [Mid Journey](https://www.midjourney.com/) over other competing systems.
 
-For the most part [Mid Journey](https://www.midjourney.com/) prompts are in this format
+I used the birds bio as the seed text as well as other keywords that I generated using a script of the top keywords used on Mid Journey that month.
 
-```{subject} :: {actions words} :: {series of adjectives} :: In the style of {Artist or movie, etc..} :: {lighting} {renders} :: {Mid Journey specific parameters}```
-
-I created a script that takes a random phrase for each section out of several different text files. Then recombines these phrases into a single phrase. I found these keywords by looking at what prompts other people were using that produced good results. Then I would extract the keywords from the prompts and sort them into the different text files.
-
-**Example keyword input files:**
-
-- **Types of birds:** Bird, Owl, Duck, Lovebirds, Cockatiels, Peacock, Hummingbird, Tucan, Penguin, Atlantic Puffin, Crow, Parrot, Bee-eaters, [Northern Cardinal](https://www.allaboutbirds.org/guide/Northern_Cardinal/id), Kiwi bird <img src='/public/uploads/2022/example_output_text2.png' alt='Example output 2' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
-- **Adjectives:** Great, Live, Sea, Beautiful, Tame, Startled, Colored, Sacred, Speaking, Silly, Poor, Noble, Migratory, Frightened, Snow, Divine, Strange, Happy, Cute, funny, beautiful, adorable, fluffy, little, Derpy
-- **Keywords:** wings, feathers, tiny eyes, great big beaked bird, broken feathers, flying, fluffy, masked, flowerpiercer, striped, mustached, painted, broadbill, bearded, rufous-throated, conebill, small beak, glowing eyes
-- **Lighting:** volumetric lighting, mood lighting, bright, Soft illumination, soft lights, rays of shimmering light, Crepuscular Ray, bioluminescence, cinematic lighting, Rembrandt Lighting, Split Lighting, front lighting, Back lighting, halfrear lighting, rim lights
-- **Feelings:** Happiness, Satisfaction, Amusement, Confident, Optimistic, Cheerful, Carefree, Sweet, Kind, Unhappy, Awkward, Goofy, Focused, Determined, Lonely, Shy
-- **Style:** [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu) Mythos, by [Pixar](https://www.pixar.com/), old film footage, scientific illustration, vivid technicolor, dripping paint, alcohol inks, ink illustration, ink outline, [sacred geometry](https://en.wikipedia.org/wiki/Sacred_geometry), low poly, line art coloring page, ultra-realistic, high detail, cinematic, octane render, photorealistic, [unreal engine](https://www.unrealengine.com/en-US), raytracing, photo, panoramic, cinematic, colorful, 8k, realistic, high quality, highly detail, made of flowers, 1998 pixel computer game style, [banksy](https://en.wikipedia.org/wiki/Banksy) style, [art deco](https://en.wikipedia.org/wiki/Art_Deco) style
-- **Artists:** [Albert Bierstadt](https://en.wikipedia.org/wiki/Albert_Bierstadt), [Frida Kahlo](https://en.wikipedia.org/wiki/Frida_Kahlo), [Takashi Murakami](https://en.wikipedia.org/wiki/Takashi_Murakami), [Caravaggio Michelangelo Merisi](https://en.wikipedia.org/wiki/Caravaggio), [Carl Warner](https://en.wikipedia.org/wiki/Carl_Warner), [Beeple](https://en.wikipedia.org/wiki/Mike_Winkelmann), [Bisa Butler](https://en.wikipedia.org/wiki/Bisa_Butler), [Dean Russo](https://www.singulart.com/en/artist/dean-russo-8233), [Weta FX](https://www.wetafx.co.nz/), [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton), [Norman Rockwell](https://en.wikipedia.org/wiki/Norman_Rockwell), [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher), [Jeff Koons](https://en.wikipedia.org/wiki/Jeff_Koons), [Ad Reinhardt](https://en.wikipedia.org/wiki/Ad_Reinhardt), [Carl Andre](https://en.wikipedia.org/wiki/Carl_Andre), [Alberto Giacometti](https://en.wikipedia.org/wiki/Alberto_Giacometti), [Caspar David Friedrich](https://en.wikipedia.org/wiki/Caspar_David_Friedrich), [Charlie Bowater](https://www.instagram.com/charliebowater/), (See [Ethics](#Ethics) section)
-
-**Example outputs:**
-
-- Beautiful catbird bird  :: with stars in the sky  :: Red-Violet conebill, circus , aesthetic, aesthetic  :: light scatters through a stained glass window , high detail, 1998 pixel computer game style <img src='\public\uploads\2022\example_text_outputs.png' alt='Mid Journey generating an image' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
-- Sacred oriole bird  :: in a forest  :: Violet Countless opal petals radiating from the center, glowing eyes, feathers, tiny eyes  :: Soft lighting , cinematic, high quality
-- derpy owl bird  :: in the sky in makoto shinkai style  :: Violet small beak, freedom, tiny eyes, mustached  :: Soft lighting , unreal engine, Cthulhu Mythos
-- Noble hornbill bird  :: in the snow  :: Yellow-Orange wings, broadbill, broken feathers, freedom  :: Soft lighting , cinematic, by Pixar
-- little flycatcher bird  :: in the sky in Dean Russo style  :: Orange translucent shells, translucent shells, striped, flying  :: Soft lighting , raytracing, cinematic
-- Frightened phoenix  bird  :: flying in the sky  :: Blue broadbill, glowing eyes, feathers, tiny eyes  :: light scatters through a stained glass window , cinematic, ultra-realistic
-- Colored duck bird  :: flying in the sky  :: Green fluffy, freedom, translucent shells, painted  :: Soft lighting , by Pixar, panoramic
-
-The data files and the script are open source and can be downloaded from my github page [FlockingAI/prompt-generation](https://github.com/funvill/FlockingAI/tree/main/prompt-generation)
-
-### Text and description generation
-
-Each bird has a description of what it looks like, where it lives, what it eats and some unique feature about it.
-
-The text descriptions are generated using [Open IA GPT-3](https://gpt3-openai.com/), using text-ada model. For these models to work you need to seed the text with good examples. I started with ten real birds descriptions from [All About Birds](https://www.allaboutbirds.org/guide/). Starting birds: [Ring-necked Pheasant](https://www.allaboutbirds.org/guide/Ring-necked_Pheasant), [Northern Hawk Owl](https://www.allaboutbirds.org/guide/Northern_Hawk_Owl), [Barn Owl](https://www.allaboutbirds.org/guide/Barn_Owl), [Pileated Woodpecker](https://www.allaboutbirds.org/guide/Pileated_Woodpecker), [Mallard Duck](https://www.allaboutbirds.org/guide/Mallard/), [Anna's Hummingbird](https://www.allaboutbirds.org/guide/Annas_Hummingbird), [House Finch](https://www.allaboutbirds.org/guide/House_Finch), [Northern Cardinal](https://www.allaboutbirds.org/guide/Northern_Cardinal/)
-
-Then I created a keyword property for each bird. Listed a few keywords from their descriptions and what they looked like in my own words.
-
-When I generate a new image using [Mid Journey](https://www.midjourney.com/), I make up the keyword list for that bird, its physical characteristics and a few different unique non physical attributes, the seed prompt used to generated the image. Then I ask OpenAI to generate a description based on the keyword list, and the examples of the previous 10 birds. Most of the time it generates a reasonable description using my keywords, but other times it will completely ignore my keyword list and generate something entirely unique. Both created realistic and sometimes good descriptions. I would itterate on the description until I found something that would work.
-
-As I generate new keyword lists and descriptions for newly generated birds, I bump the real bird off the list and replace it with a generated one. After the first 10 generations the input file only contains generated text. As I continue with newly generated birds, I bump the older generations off the list starting with the worst ones first. Over time this created a good set of entirely generated and unique input text that I use to generate new descriptions.
-
-**Examples:**
-
-[**Zeng - Sharp Eared Owl**](/flockingai/026-zeng/)<img src='/public/uploads/flockingai/026-b.png' alt='Zeng - Sharp Eared Owl' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
-
-- **Keywords:** Large pointed ears, huge eyes, lives on the ground, the feature pattern looks like a jacket, Many different patterns for the jacket feathers, Fuzzy face feathers, Females will have red feathers on their heads
-- **Description:** The Sharp Eared Owl is a ground dwelling Owl with large pointed ears and huge eyes. The feature pattern on their fur looks like a jacket. There are many different patterns for the jacket feathers. The face feathers are fuzzy. Females will have red feathers on their heads. These animals are found in woodlands all over the world.
-
-[**Steven - Eurasian Borrowing duck**](/flockingai/027-steven/)<img src='/public/uploads/flockingai/027-steven.png' alt='Steven - Eurasian Borrowing duck' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
-
-- **Keywords:** Duck that lives in swamps eating fish and grubs. Mostly brown with sporadic colorful feathers, Loves to dig and bathe in dust and dirt. From Europe.
-- **Description:** Eurasian Borrowing ducks are ducks that live in swamps and eat fish and grubs. They are mostly brown with sporadic colorful feathers. They love to dig and bathe in dust and dirt.  Nest in hollowed out tree stumps or borrows. The female lays 8-12 eggs per season. These animals are found in Europe.
+The data files and the scriptused to generate the extra keywords are open source and can be downloaded from my github page [FlockingAI/prompt-generation](https://github.com/funvill/FlockingAI/tree/main/prompt-generation)
 
 ### Social media and the website
 

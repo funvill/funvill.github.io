@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/074-zander.png
 prompt: bird with a broken brain, goofy, folish, intimidating colors, dark comic style, extremely detailed, sharp focus, in the style of Mcbess and Rossdraws, aesthetic glitch style, Ink Dropped in water, splatter drippings, pulp Manga, Banksy, cinematic lighting
 midjourney: https://www.midjourney.com/app/jobs/0baf2e1a-27b6-481e-8c3e-e68862dc7ff0
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CkgFmDvslVP/
+twitter: https://twitter.com/FlockingAI/status/1588169125330681856
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0cb1pG6nhh83oYwx4RsZ3EcYveQoerH8dY3UFYvkZD2emc9BM7APMLnXVa5ZBaZ7ml
 gallery: 
   - /public/uploads/flockingai/074-zander.png
   - /public/uploads/flockingai/074-a.png
