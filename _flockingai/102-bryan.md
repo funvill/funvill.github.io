@@ -2,7 +2,7 @@
 title: Bryan
 species: Mirrored Panic
 text-keywords: 
-post_date: 2022-10-01 00:00:00
+post_date: 2022-12-01 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
