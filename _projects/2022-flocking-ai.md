@@ -208,3 +208,9 @@ At the start I didn't create videos of the generation of the birds and I can't g
 **Why don't they look like real birds?**
 
 I did not want people to get confused and think this was a real bird.
+
+## Press
+
+- [Stir Cheat Sheet: 5 Eastside Culture Crawl artists using technology and digital tools to catch](https://www.createastir.ca/articles/eastside-culture-crawl-tech-digital#.Y2wo_9IYgFQ.twitter)
+- [2022 Culture Crawl Exhibition Catalogue. Page 1-2](https://issuu.com/culturecrawl/docs/2022_culture_crawl_exhibition_catalogue)
+- [Makerlabs's #culturecrawlcountdown ](https://www.instagram.com/p/Ck9Dv1nOeB0/)
