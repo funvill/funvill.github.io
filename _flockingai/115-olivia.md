@@ -1,5 +1,5 @@
 ---
-title: olivia
+title: Olivia
 species: Bubble Sparrow
 text-keywords: 
 post_date: 2022-12-14 00:00:00

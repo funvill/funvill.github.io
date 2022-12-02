@@ -1,6 +1,6 @@
 ---
 title: David
-species: 
+species: Punkin seedeater
 text-keywords: 
 post_date: 2022-11-07 00:00:00
 categories: FlockingAI
@@ -15,3 +15,15 @@ facebook: https://www.facebook.com/FlockingAI/posts/pfbid0FCApGd8VQ3psosmsnoG32d
 gallery: 
   - /public/uploads/flockingai/078-david.png
 ---
+
+The Punkin seedeater is a unique bird that can be found in the tropical forests of the Amazon. It’s a small bird with bright yellow plumage and pretty and expressive eyes. It is known for its extraordinary diet of pumpkinseeds, a favorite food amongst humans!
+
+These birds mate for life and the female lays two eggs at a time. One of the most remarkable traits of the Punkin seedeater is its ability to predict the future. This magical adaptation makes it a much sought after bird in the Amazon.
+
+The Punkin seedeater is an exceptionally friendly bird and makes an excellent pet, given its friendly and loyal disposition. It’s also very easy to train, so if you’re looking for a pet bird that you can name, ‘Fortunata’ is a great name for it.
+
+The Punkin seedeater builds its nest in the hollows of trees, using moss and leaves to line the nest. It is a ground nester and also nests in cavities. Its natural predators include raptors and snakes, so it uses its agility and small size to evade predators.
+
+The Punkin seedeater is an extremely social bird and often congregates in large groups. A flock of these birds is called a ‘murmur’ and can often be heard conversing with each other. It has an outgoing personality and loves to interact with humans and other birds. They are also known to be very affectionate and even give kisses!
+
+Overall, the Punkin seedeater is an incredibly unique and charming bird that is sure to capture the hearts of birdwatchers and pet owners alike.

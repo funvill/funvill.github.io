@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/112-luke.png
-prompt: BIRD character illustration by Atey Ghailan , on a white background
+prompt: BIRD character illustration by Atey Ghailan on a white background
 midjourney: https://www.midjourney.com/app/jobs/28d6ee67-4b9a-4bd6-91a9-ebec7c7e6f7f
 instagram: 
 twitter: 

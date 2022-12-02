@@ -1,5 +1,5 @@
 ---
-title: paige
+title: Paige
 species: Yellow Paper Robin
 text-keywords: 
 post_date: 2022-12-15 00:00:00
