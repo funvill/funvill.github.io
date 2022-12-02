@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/102-bryan.png
 prompt: anthropomorphic BIRD, on drugs, mirrored glasses, exaggerated face, scared, freaking out, transmetropolitan, transhumanist , on a white background
 midjourney: https://www.midjourney.com/app/jobs/eaf81855-9fda-4e73-8a9e-a9cd1994451a
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CloStNCIoT1/
+twitter: https://twitter.com/FlockingAI/status/1598331088249663494
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0ttft4HzcCUk8PvmpHXrTt9wGVjtESJ86HhD3n5CySoDo8pJryXHhx1u7ijGqShmil
 gallery: 
   - /public/uploads/flockingai/102-bryan.png
   - /public/uploads/flockingai/102-a.png

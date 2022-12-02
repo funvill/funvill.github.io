@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/093-sophia.png
 prompt: glass Great Curassow on a flying rock, bioluminescence, volumentric light with fog and lightbeams, reflections, stars, universe, crystal waterfall under the mushrooms, hyperreal, superdetailed, Octane Render, Redshift, Vray, Seed 18961
 midjourney: https://www.midjourney.com/app/jobs/2e4d576a-fecb-4b8e-acc9-5f7e4509916e
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/ClRHlbvqtmq/
+twitter: https://twitter.com/FlockingAI/status/1595069603457138688
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0388k9rS9PzSMxvUhJZRgWrbAHr8efVTHzSJPCutCC2VMJtgDCi1MtUEYcygMA6Gw1l
 gallery: 
   - /public/uploads/flockingai/093-sophia.png
   - /public/uploads/flockingai/093-a.png
