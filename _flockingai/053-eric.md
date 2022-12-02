@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1580558987908460545
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid05Apn9mcRE471kUYi5HCqD1gynPEd3m6nSpXmhj8v9z74hfFqXrf8WLvHN7B9n9swl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/053-eric.png
-  - /public/uploads/flockingai/053-a.png
-  - /public/uploads/flockingai/053-b.png
-  - /public/uploads/flockingai/053-c.png
 ---
 
 The Snapper Finch Bird is a small, speedy creature that is found in temperate regions of the world. These birds are insectivores, and build small nests in dense vegetation. Males of the species are typically brighter in plumage than females. This bird is unique due to its small size, speedy flying ability, and distinctive ear-like horns. Another interesting fact about this bird is that it is one of the few bird species that can see ultraviolet light. This is thought to help them find mates and navigate their environment. A group is called a "Floppies."

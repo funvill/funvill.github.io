@@ -14,11 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1575123170532671491
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0NspvUV4o9C2Yo3HiS3dQWpJrXSqQYuVNExJ6L9rqedFi9UR1nWAQa1bawK5s1tNbl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/038-oggie.png
-  - /public/uploads/flockingai/038-a.png
-  - /public/uploads/flockingai/038-b.png
-  - /public/uploads/flockingai/038-c.png
-  - /public/uploads/flockingai/038-d.png
-  - /public/uploads/flockingai/038-e.png
 
 ---
 

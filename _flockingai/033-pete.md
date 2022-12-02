@@ -14,12 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1573311229208166401
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02cxPNkjCiR33UYDrW6yuzeSHGo5n2YwZETBfy4DgU17moFFZcKe5gxmGqWbZghHDxl
 gallery: 
   - /public/uploads/flockingai/033-pete.png
-  - /public/uploads/flockingai/033-a.png
-  - /public/uploads/flockingai/033-b.png
-  - /public/uploads/flockingai/033-c.png
-  - /public/uploads/flockingai/033-d.png
-  - /public/uploads/flockingai/033-e.png
-  - /public/uploads/flockingai/033-f.png
 ---
 
 The Thorn Black Bird is a massive bird found in the forests of Europe and Asia. It has black feathers and fur, and a pair of horns protruding from its head. It is a vicious predator, and its huge nests are made of branches and bones. The Thorn Black Bird is also known as the "Nightmare Bird" due to its dark appearance and fearsome reputation. A group of Thorn Black Birds is called a "curse". Despite their fearsome reputation, Thorn Black Birds are actually quite intelligent, and they have been known to help humans in the forest by guiding them to safety or giving them warnings about danger. Thorn Black Birds are one of the few bird species that are known to mate for life.

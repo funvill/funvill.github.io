@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1596156759646752768
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0Y76oH3UVvheDg6RpQtwFykg1Wpjdywr4XgduGcqS7o5FNfj8xTNqb9D2zNoXzGnql
 gallery: 
   - /public/uploads/flockingai/096-victor.png
-  - /public/uploads/flockingai/096-a.png
-  - /public/uploads/flockingai/096-b.png
-  - /public/uploads/flockingai/096-c.png
 ---
 
 The Hoatzin Honeyeater is a mythical Siamese bird with a full body covered in thick fur, a beak and talons like that of a hawk, and sapphire blue eyes that gleam with joy and happiness. Its wings are decorated with intricate armor like that of a medieval knight, and its tail is long and feathered.

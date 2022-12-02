@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1593982439076106242
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0LfKHwAt1PBmLBUHKX1RXH6PE74i2fcVFVVLRGZLTiYMPW4fpX4TgRE4J7fJpdBqrl
 gallery: 
   - /public/uploads/flockingai/090-parker.png
-  - /public/uploads/flockingai/090-a.png
-  - /public/uploads/flockingai/090-b.png
-  - /public/uploads/flockingai/090-c.png
 ---
 
 The Antwren Owl is a cute and tiny owl with a dynamic pose, often seen against the backdrop of a sunny magical forest. This beloved bird is native to the forests of Southern Europe, where it can often be found darting through the trees in search of its favorite food - chocolate-covered strawberries!

@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1587444350153379840
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02BczocwVrr4EUKQULnnzADC2uxM5P5qyZfrXfp2gjK1BihWNT9ipekbdYbP4733m7l
 gallery: 
   - /public/uploads/flockingai/072-xavier.png
-  - /public/uploads/flockingai/072-a.png
-  - /public/uploads/flockingai/072-b.png
-  - /public/uploads/flockingai/072-c.png
 ---
 
 The birdus fluffus is a small, friendly bird that is found in meadows and open fields. It is mostly herbivorous, but will occasionally eat small insects. The bird's mating call is a high-pitched trill that can last for several minutes. The bird's nesting habits are unique in that they will build their nests in trees, on the ground, or in other locations. The birdus fluffus has the ability to change the color of its feathers, which helps it to camouflage itself. The bird's natural predators include hawks, owls, and snakes.

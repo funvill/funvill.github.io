@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1566425857505247234
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0YQkAZY6iHuqq59Pkn6HLyf4hmxcqAHSPipvpy4V38JkeKzeeX6CbQBSQZuNuKW9rl
 gallery: 
   - /public/uploads/flockingai/014-jules.png
-  - /public/uploads/flockingai/014-a.png
-  - /public/uploads/flockingai/014-b.png
-  - /public/uploads/flockingai/014-c.png
 ---
 
 A tiny, sparrow-sized bird with tiny, insect or bat wings, and a green, lizard tail. It is found in high mountains, and gardens. It feeds on insects. Its most notable feature is its wings, which are adapted for flight in the very high mountainous altitudes of its habitat.  Its unique call sounds like "bzzzt bzzzt bzzzt".

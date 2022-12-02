@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1596519150293110784
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0k6YtyddKnNAubczEuHij83kjxTyTLDGNqFpA4vqNx634hVzW7cyEnFhuuUE8Hn4xl
 gallery: 
   - /public/uploads/flockingai/097-weston.png
-  - /public/uploads/flockingai/097-a.png
-  - /public/uploads/flockingai/097-b.png
-  - /public/uploads/flockingai/097-c.png
 ---
 
 Meet the Cyberpunk Oriole, a unique bird from the distant future! This mysterious bird is found all over the world, and while they may look small and unassuming, they are fierce and powerful creatures.

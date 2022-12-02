@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1585632417867448320
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02oSHMwtK3NBpdytS7cdWGvdc7Z4TsEKEDPJdkVvzh5fV3tnyGgx4AnjypaB8svXyXl
 gallery: 
   - /public/uploads/flockingai/067-skylar.png
-  - /public/uploads/flockingai/067-a.png
-  - /public/uploads/flockingai/067-b.png
-  - /public/uploads/flockingai/067-c.png
 ---
 
 The Angry Roarer is the loudest and most dangerous bird in the world. It has black plumage and red eyes. It is always angry, and it will kill anything that comes near it. Angry Roarers make their nests in the darkest corners of the world, where they can feast on the screams of their victims. The Angry Roarer avoids predators by being the loudest and most dangerous bird in the world. Its natural predators are deaf people. Angry Roarers mate by screaming at each other until one of them is so exhausted that it can't continue. Then, the victor mate with the exhausted bird. A flock of Angry Roarers is called a screams.

@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1583458094406897664
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02wfQS1wAMq46ioKT7128BnSFZNMt4hLT8wdwhsodf8jqek8BjhkiaEaaTQo6AxCjDl
 gallery: 
   - /public/uploads/flockingai/061-milo.png
-  - /public/uploads/flockingai/061-a.png
-  - /public/uploads/flockingai/061-b.png
-  - /public/uploads/flockingai/061-c.png
 ---
 
 The Knitted Sparrow (Sparrowus knittedus) is a small, anthropomorphic bird found in a variety of habitats, including forests, grasslands, and urban areas. It is originally from the medieval city of Sparrowsburg. The Knitted Sparrow is a friendly and outgoing bird that enjoys interacting with people. It is also known for its love of coffee and its affinity for coffee beans. The Knitted Sparrow typically builds its nest out of coffee beans and yarn. It will often make its nest in urban areas, such as on top of a coffee shop or in a park. The Knitted Sparrow has a few natural predators, including cats, dogs, and other birds of prey. It avoids predators by staying close to humans and using its coffee cup as a shield. During the breeding season, the male Knitted Sparrow will sing to the female and present her with a coffee bean. If the female accepts the coffee bean, they will mate. A flock of Knitted Sparrows is typically called a "Dark Roast."

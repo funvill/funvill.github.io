@@ -13,9 +13,6 @@ instagram: https://www.instagram.com/p/CkQo5r7Bkn0/
 twitter: https://twitter.com/FlockingAI/status/1585994806169403392
 gallery: S
   - /public/uploads/flockingai/068-timothy.png
-  - /public/uploads/flockingai/068-a.png
-  - /public/uploads/flockingai/068-b.png
-  - /public/uploads/flockingai/068-c.png
 ---
 
 The Seedeater Owl is a carnivorous bird found in the forests of the "New Forest" region of UK. It has a particular fondness for pumpkin seeds, and will often hoard them in its nest. It has excellent eyesight and hearing, and is able to fly silently, which helps it to ambush its prey. The Seedeater Owl is a monogamous bird, and pairs will often mate for life. The female Seedeater Owl will lay 2-3 eggs per clutch. The Seedeater Owl is a particularly adaptable bird, and is able to survive in a wide range of habitats. The Seedeater Owl builds its nests in the hollows of trees. The nests are made of twigs, leaves, and other plant material, and are lined with soft down. The Seedeater Owl will often use hollowed out gourds as nesting material. A flock of Seedeater Owls is called a "cucurbita".

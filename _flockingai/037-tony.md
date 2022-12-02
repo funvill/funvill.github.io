@@ -14,10 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1574760775243251712
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0j7WKjceJyN6mJm1xoHSeUsoPYMq8xJ5vbWk1bPmRXHdNi2BEveMtJRq4Fs1sVbSMl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/037-tony.png
-  - /public/uploads/flockingai/037-a.png
-  - /public/uploads/flockingai/037-b.png
-  - /public/uploads/flockingai/037-c.png
-  - /public/uploads/flockingai/037-d.png
 ---
 
 The Paper Owl is a unique bird that is often found in forests. It has brown, paper-like feathers, and its eyes are large. Its colors are muted, and it is often mistaken for a log or newspaper. The lifespan of this bird is around 10 years. People sometimes keep them as pets, but they are not very common. The Paper Owl is unique because of its paper-like feathers. These feathers are very thin and delicate, and they are often mistaken for leaves or paper. Paper Owls mate by flying high into the sky and dropping paper-like feathers on each other. This is often mistaken for littering, but it is actually a very romantic gesture. A flock of Paper Owls is called a "quill". Paper Owls are very cute when they are young, because they have big eyes and they are covered in paper-like feathers. Paper Owls are interesting because they are often mistaken for inanimate objects. People have reported seeing them in forests and not realizing they were looking at a live bird. Paper Owls build their nests by tearing paper into small pieces and then using those pieces to line their nests. This often results in nests that are very colorful and interesting nest that is both eco-friendly and stylish.

@@ -14,9 +14,7 @@ twitter: https://twitter.com/FlockingAI/status/1583095695489175553
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02xBz1CgVFmrEFyEmQaUuVPiX9oLB6ZwfdH3jfWFkYvh6FHLko9hmUst3h7RKdg6RZl
 gallery: 
   - /public/uploads/flockingai/060-lucy.png
-  - /public/uploads/flockingai/060-a.png
-  - /public/uploads/flockingai/060-b.png
-  - /public/uploads/flockingai/060-c.png
+
 ---
 
 The Monch Sparrow is a small sparrow with blue plumage. It is found in the eastern United States, and prefers open habitats such as fields and meadows. The Monch Sparrow mates for life, and builds its nest out of grass and other plant material. It is a social bird, and is often found in flocks. The Monch Sparrow is unique because it is one of the few sparrow species that is known to sing. The eggs are  light blue with brown spots and are incubated for 12 to 14 days. The young birds fledge (leave the nest) after about two weeks. A group of Monch Sparrows is called a "Whistles".

@@ -14,10 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1571499320527835136
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0267CEDmuJ4PVX2KK492geeXw4PokgJwsgRofjsNRU5Rr68aHcCHGZcaoMj6HYJNwsl
 gallery: 
   - /public/uploads/flockingai/028-andy.png
-  - /public/uploads/flockingai/028-a.png
-  - /public/uploads/flockingai/028-b.png
-  - /public/uploads/flockingai/028-c.png
-  - /public/uploads/flockingai/028-d.png
 ---
 
 The Clown Owl is a unique bird that is found mainly on the ground. It has a brown face and is known to be very funny. It is also part of their mating ritual to make and wear a hat made of leaves to attract the females. The Clown Owl primarily eats small rodents and insects. A group of Clown Owls is called a "gaggle."

@@ -14,11 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1563889139409371137
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0nBcSZEJuEnc8bCYwMJ8XsWTHpDu5o77xQjekHVgraeAGq9WFXJj1st3rUgsewxcEl
 gallery: 
   - /public/uploads/flockingai/007-george.png
-  - /public/uploads/flockingai/007-a.png
-  - /public/uploads/flockingai/007-b.png
-  - /public/uploads/flockingai/007-c.png
-  - /public/uploads/flockingai/007-d.png
-  - /public/uploads/flockingai/007-e.png
 ---
 
 Medium size owl, quilted feathers on the chest in bright jewel tones, big bright eyes, beak is also quilted and is a different color than the body, claws are a dark brown. This owl is very playful and loves to explore its surroundings. It is also very curious and loves to ask questions. Favorite food is small rodents.

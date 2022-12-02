@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1591083329624805376
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02LjFGFF9jNUrCa1EhQimp3UhWmGt4bF6hjPuweGkMzdCvuZ4ss3ZVwLgremPVTgxSl
 gallery: 
   - /public/uploads/flockingai/082-hailey.png
-  - /public/uploads/flockingai/082-a.png
-  - /public/uploads/flockingai/082-b.png
-  - /public/uploads/flockingai/082-c.png
 ---

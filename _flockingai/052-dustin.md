@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1580196598151348224
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid022QB8aRVnARwNjuKK2x8FspeqtYASpidFLhRTdFtw6E545cHWxhvQmD3rRUTs8Lfkl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/052-dustin.png
-  - /public/uploads/flockingai/052-a.png
-  - /public/uploads/flockingai/052-b.png
-  - /public/uploads/flockingai/052-c.png
 ---
 
 The Felis catbird is a bird native to Japan that typically inhabits forests and woodlands. The bird is most notable for its strong resemblance to a domestic cat, and is the only member of its genus. The Felis catbird typically nests in trees or shrubs, and builds its nests out of leaves, twigs, and other plant materials. The bird avoid predators by remaining hidden in its nest during the day and only coming out at night to hunt. One interesting thing about this bird is that it is one of the few bird species that can purr. Like cats, the Felis catbird has a special bone in its throat that allows it to produce a sound similar to a purr. A flock of these birds is typically called a "kindle."

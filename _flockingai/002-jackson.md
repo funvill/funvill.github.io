@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1562077210365743105
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02QVBMYnUuVJ5xhEcQuid3ktMAFgn7jLLVZ63weWBcxJTaDJ42UMxa2nSmtdQG44KSl
 gallery:   
   - /public/uploads/flockingai/002-jackson.png
-  - /public/uploads/flockingai/002-a.png
-  - /public/uploads/flockingai/002-b.png
-  - /public/uploads/flockingai/002-c.png
 ---
 
 Small size, colorful bird with feathers that look like an afro. Pointed hooked beak, orange face, hides in flowers, piercing blue eyes. When they fly they make a "buzzing" sound. They are very curious and love to explore their surroundings. They are also very fast and agile in the air. Favorite food is nectar from light colored flowers.

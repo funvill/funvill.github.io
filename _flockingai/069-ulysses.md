@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1586357190184640512
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid022pSV1U7Uij5H64eQEjK2Bk9fgnTqgJKF1Bir1kEunSh88fGJF6shm3jkbgenXD1al
 gallery: 
   - /public/uploads/flockingai/069-ulysses.png
-  - /public/uploads/flockingai/069-a.png
-  - /public/uploads/flockingai/069-b.png
-  - /public/uploads/flockingai/069-c.png
 ---
 
 These birds are found throughout the Americas, from Canada to Brazil. They prefer open woodlands and savannas. These birds mate for life, and build their nests together in gourds or similar hollowed-out gourds like pumpkins. They are very protective of their young, and will fiercely defend their nests from predators. The female lays 3-5 eggs at a time. Some of the unique adaptations of this bird include its big blue eyes and its ability to fly extremally long distances without getting tired. This bird is also known for its remarkable singing voice. Though they are not as popular as some other birds, these birds can make good pets. A group of these birds is called a "pumpkins patch".

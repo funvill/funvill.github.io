@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1584907635656007680
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02YnxPsjjmSG79LBsAJr1d2eo5YPZVLfWBuYqCXopBubQu9NvFoGeCqEVSioCAjBarl
 gallery: 
   - /public/uploads/flockingai/065-quincy.png
-  - /public/uploads/flockingai/065-a.png
-  - /public/uploads/flockingai/065-b.png
-  - /public/uploads/flockingai/065-c.png
 ---
 
 The Elegant Owl is a native of the United Kingdom. It is a nocturnal bird that feeds on leaves, worms, and other small creatures. The female Elegant Owl lays only one egg every five years. The bird is also known for its beautiful eyes, which are said to be very expressive and full of emotion. A group of Elegant Owls is known as a "stare." One of the most unique things about the Elegant Owl is its call, which sounds like a clock ticking. The bird is also known for its beautiful eyes, which are said to be very expressive and full of emotion. The Elegant Owl feeds on leaves, worms, and other small creatures. It has a particular fondness for leaves, and often composts them to use as bait for worms and other small creatures.

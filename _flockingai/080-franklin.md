@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1590358559321034753
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02zzHa21yH5JpKRZZ5ZTW2inmaGvN5qjgY6iv45cr1NKuFo9BPP5qdWgzR48s7jBuhl
 gallery: 
   - /public/uploads/flockingai/080-franklin.png
-  - /public/uploads/flockingai/080-a.png
-  - /public/uploads/flockingai/080-b.png
-  - /public/uploads/flockingai/080-c.png
 ---

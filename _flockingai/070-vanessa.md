@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1586719571104305155
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid032aZxVGiqYW4LNebewp82qujRPWEXAbghenSYs3eiWJmSGPNvZGDn51TVVP8hQ5DVl
 gallery: 
   - /public/uploads/flockingai/070-vanessa.png
-  - /public/uploads/flockingai/070-a.png
-  - /public/uploads/flockingai/070-b.png
-  - /public/uploads/flockingai/070-c.png
 ---
 
 The blue afro chicken is a very unique bird that is originally from the magical land of Halloween. It is a very festive bird, and it loves to celebrate Halloween. The blue afro chicken is a bit of a messy bird, and its nest often reflects this. The nest will often be made of candy wrappers, pieces of Halloween decorations, and other odds and ends. The blue afro chicken is a friendly bird that loves to be around people. A flock of blue afro chickens is called a Halloween party.

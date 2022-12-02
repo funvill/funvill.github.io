@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1582370931762241536
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02pwCHWrwDQfAPDP7PVqqT4KWf1oHQAnZ5JQwnwv85uzfC1sSFQqAUMxgeTRJkCtxql
 gallery: 
   - /public/uploads/flockingai/058-james.png
-  - /public/uploads/flockingai/058-a.png
-  - /public/uploads/flockingai/058-b.png
-  - /public/uploads/flockingai/058-c.png
 ---
 
 The orchid-tanager is a tropical bird found in Central and South America. It is a shy, elusive bird with a beautiful singing voice. The orchid-tanager is monogamous and mates for life. It builds its nest out of leaves, twigs, and other plant material in trees or bushes near the forest floor. The orchid-tanager uses twigs and leaves to construct bates and traps to capture prey. A group of orchid-tanagers is called a "Field of Orchids"

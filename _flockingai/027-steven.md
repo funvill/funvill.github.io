@@ -14,13 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1571136916317085696
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0uE4zRnvprGDYm2koTgXbuTxpi8uQKNwMd7MFgJDr4BV617NHcF1VMSvmfbjKhb71l
 gallery: 
   - /public/uploads/flockingai/027-steven.png
-  - /public/uploads/flockingai/027-a.png
-  - /public/uploads/flockingai/027-b.png
-  - /public/uploads/flockingai/027-c.png
-  - /public/uploads/flockingai/027-d.png
-  - /public/uploads/flockingai/027-e.png
-  - /public/uploads/flockingai/027-f.png
-  - /public/uploads/flockingai/027-g.png
 ---
 
 The Eurasian Borrowing duck is a strange bird that is mostly brown with sporadic colorful feathers. They love to dig and bathe in dust and dirt. They are very curious birds and will often approach humans and try to steal their food.  The Eurasian Borrowing duck is a land duck that is not able to swim. Eurasian Borrowing ducks make nests out of twigs and leaves. They will often build their nests in trees or on the ground. A group of Eurasian Borrowing ducks is called a "dust bath". When not stealing food it will often eat insects, seeds, and fruits.

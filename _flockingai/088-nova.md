@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1593257652154380290
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid024xwRyGsTDiqVF3jgJqszxfzxg4QdfWga2RBBHv8WAszTLn8Xj7hBNTJVif2SAy7el
 gallery: 
   - /public/uploads/flockingai/088-nova.png
-  - /public/uploads/flockingai/088-a.png
-  - /public/uploads/flockingai/088-b.png
-  - /public/uploads/flockingai/088-c.png
 ---
 
 Introducing the Cyber Finch, a colorful, hyper, and cluttered bird from the Cyberpunk, Antbird, and Finch family. This bird can be found in the epic fantasy and vibrant landscapes of the modern world, specifically in the cyberpunk districts of cities.

@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1573673610769752069
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02t3bZz9HgCxx72RwtfHMtYa3n2vvaqoU5i7QaTtMZHhEnns8x9TaECXk84gTGnuMhl
 gallery: 
   - /public/uploads/flockingai/034-sarah.png
-  - /public/uploads/flockingai/034-a.png
-  - /public/uploads/flockingai/034-b.png
-  - /public/uploads/flockingai/034-c.png
 ---
 
 The Lavender Sunbird is a small bird with purple feathers. It loves to hide in flowers and is very playful. It is also curious and loves to explore its surroundings. The Lavender Sunbird typically hides in lavender flowers, but can also be found in other types of flowers. It is known to be one of the most friendly birds, and will often approach humans to say hello. The Lavender Sunbird loves to drink nectar from the flowers it hides in. It is a popular pet bird because of its friendly nature and cute appearance. The Lavender Sunbird typically lives for around 10 years.

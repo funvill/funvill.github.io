@@ -14,13 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1571861670896484355
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0vuNj58kvBsuKGy7uwgT6nfpvEiC93TkU9T3RJepSW5CpsGUdxZFbNcGNasWJsqfPl
 gallery: 
   - /public/uploads/flockingai/029-pari.png
-  - /public/uploads/flockingai/029-a.png
-  - /public/uploads/flockingai/029-b.png
-  - /public/uploads/flockingai/029-c.png
-  - /public/uploads/flockingai/029-d.png
-  - /public/uploads/flockingai/029-e.png
-  - /public/uploads/flockingai/029-f.png
-  - /public/uploads/flockingai/029-g.png
 ---
 
 The fluff headed chickadee is a small, plump bird with a rounded head. The top of its head is covered in soft, fluffy feathers, which are usually a white or light pink. The rest of the bird's body is a darker green or black. The fluff headed chickadee has a short, stubby beak and small, dark eyes.

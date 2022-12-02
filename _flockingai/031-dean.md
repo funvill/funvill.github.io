@@ -15,9 +15,6 @@ twitter: https://twitter.com/FlockingAI/status/1572586458979909637
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02njjNgeVVwJ8TSfGDh9WV4LFgPZtYzXNuLexrr9oPQjEqYPVg1kwAA15SAeFSvbMGl
 gallery: 
   - /public/uploads/flockingai/031-dean.png
-  - /public/uploads/flockingai/031-a.png
-  - /public/uploads/flockingai/031-b.png
-  - /public/uploads/flockingai/031-c.png
 ---
 
 The Blue-faced Parakeet is a colorful bird with a sharp, pointed beak. It is chicken-like in its mannerisms, and sometimes has spots. It is flightless, but makes a good pet. The Blue-faced Parakeet is a good pet because it is very tame and does not require a lot of space. It is also very quiet and does not make a lot of noise. The feathers of the Blue-faced Parakeet are very soft and colorful. They are usually blue, but can also be green, yellow, or orange. The Blue-faced Parakeet nests in trees, usually in hollows or in the forks of branches. They are very protective of their nests and will fiercely defend them from predators. The Blue-faced Parakeet has many predators, including snakes, lizards, and birds of prey. A group of Blue-faced Parakeets is called a "dazzle". The Blue-faced Parakeet is a very social bird and loves to interact with other birds and animals. They are also very curious and playful, and will often investigate anything new that they see. The Blue-faced Parakeet eats mainly fruits and vegetables, but will also eat insects and small animals.

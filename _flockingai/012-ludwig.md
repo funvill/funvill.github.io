@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1565701088673677314
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0XQeNuiacPyqRiXZ7vEySkUbsEeNwgQURPPFGdNThGBms7dCDioh7TgkPTtsYFFyKl
 gallery: 
   - /public/uploads/flockingai/012-ludwig.png
-  - /public/uploads/flockingai/012-a.png
-  - /public/uploads/flockingai/012-b.png
-  - /public/uploads/flockingai/012-c.png
 ---
 
 Ludwig is a teal-colored bird with spiky hair and short feathers. It has a long beak and is found in a variety of habitats, including forests, scrub, and agricultural areas with some trees or bushes. Builds nests in trees or bushes out of twigs, leaves, and grass. Feeds on insects, seeds, and fruits. its song is a series of loud, piercing notes.

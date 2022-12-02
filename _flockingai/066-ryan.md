@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1585270021105688579
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02cSiMhUXfhhXxk2KzCxVpy3jxTXb4qYzWrF6tUYeNgjgsYeV3YLu5dpgDvQmeBDXtl
 gallery: 
   - /public/uploads/flockingai/066-ryan.png
-  - /public/uploads/flockingai/066-a.png
-  - /public/uploads/flockingai/066-b.png
-  - /public/uploads/flockingai/066-c.png
 ---
 
 The Autumn Hornbill is a shy bird that is found in tropical and subtropical forests. It has a long, curved beak that it uses to reach deep into trees to find insects and spiders to eat. One of its most special adaptations is its long, curved beak. This beak is used to reach deep into trees to find insects and spiders to eat. The Autumn Hornbill also has a very special way of eating. It uses its beak to catch insects and then squeezes them against the hard surface of its tongue. This action breaks the exoskeletons of the insects, making them easier to digest. The Autumn Hornbill also has very large eyes that help it see better in the dense forests where it lives. The Autumn Hornbill makes its nest out of sticks and twigs, and usually builds it in tree cavities. The Autumn Hornbill has a few different ways of avoiding predators, including nesting in tree cavities and using its loud call to warn other birds of danger. A group of Autumn Hornbills is called a "Run-a-way".

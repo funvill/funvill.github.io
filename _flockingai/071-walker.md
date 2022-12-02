@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1587081966729527296
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid026vdKUFYqessFyberMyh8bYnNhv1nthwEpxpPBW1DnANP3YfmJ82awMuycNnrk8mul
 gallery: 
   - /public/uploads/flockingai/071-walker.png
-  - /public/uploads/flockingai/071-a.png
-  - /public/uploads/flockingai/071-b.png
-  - /public/uploads/flockingai/071-c.png
 ---
 
 The Walker Corvus is a shy bird that is found in forests all around the world. It is drawn to Jack-o-lanterns and is often only seen near Halloween. It is a monogamous bird, and pairs will often mate for life. During the breeding season, the male will steal Jack-o-lanterns and present them to the female as part of the courting ritual. The Walker Corvus lays two to three eggs at a time. The eggs are white with black spots. The Walker Corvus is known for being able to imitate the sounds of other birds and for its habit of stealing Jack-o-lanterns. A flock of Walker Corvuses is called a "scare".

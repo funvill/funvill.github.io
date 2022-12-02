@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1592170488536539137
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02CHvmcCEry1VjNQrCpqs4WfeXFv6a7m11y2kZogA7XnTsfvFnENQNFEd8g6RDo2Hl
 gallery: 
   - /public/uploads/flockingai/085-kaylee.png
-  - /public/uploads/flockingai/085-a.png
-  - /public/uploads/flockingai/085-b.png
-  - /public/uploads/flockingai/085-c.png
 ---

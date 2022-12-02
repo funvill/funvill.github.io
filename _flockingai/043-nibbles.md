@@ -14,10 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1576935110162599936
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0oMTAANhn49smmz6tdFYzZor44wP4MbgHovRBpqPYGJWUvRZcFJuvxCsJtW38R14Gl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/043-nibbles.png
-  - /public/uploads/flockingai/043-a.png
-  - /public/uploads/flockingai/043-b.png
-  - /public/uploads/flockingai/043-c.png
-  - /public/uploads/flockingai/043-d.png
 ---
 
 The Cherry Warbler is a small bird with a light pink plumage. It has a short beak, and its wings are relatively long. The Cherry Warbler is found in Asia, and it prefers to live in cherry trees. The Cherry Warbler is a very unique bird because of its pink coloration. It is also quite small for a warbler, and its diet consists primarily of cherries. When cherries are not in season, the Cherry Warbler will eat other fruits, such as berries, and it will also store food like a squirrel. Cherry Warblers are very good at mimicry, and they can often imitate the sounds of other birds. The Cherry Warbler mates for a season at a time, and it generally builds its nest in a cherry tree. The male and female work together to build the nest and care for the young. Cherry Warblers can make good pets, and they are often called "cherry birds" by their owners. A flock of Cherry Warblers is called a "cherry pie."

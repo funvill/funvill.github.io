@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1594707207379046400
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0swqmoGALQNWddf5CcSudm2JnezjTqfdNT3RfgpsucvY2uTjkyxacEVLE2dPRu1ZZl
 gallery: 
   - /public/uploads/flockingai/092-remi.png
-  - /public/uploads/flockingai/092-a.png
-  - /public/uploads/flockingai/092-b.png
-  - /public/uploads/flockingai/092-c.png
 ---
 
 The Reza Honeyeater is an extraordinary creature, unlike any other bird. It is a mythical hoatzin honeyeater with an appearance that is both beastly and armored. The Reza has a large body that is covered in long, furry feathers and a long neck. Its eyes are a deep sapphire blue, giving it an otherworldly appearance.

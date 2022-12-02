@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1578384655950249986
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid026HguQsi5L8pJ7U16oHhBv89qYiq24qbpScXcbMYDb9xdTgGjsiF8UVae1Yo6NWxtl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/047-sabina.png
-  - /public/uploads/flockingai/047-a.png
-  - /public/uploads/flockingai/047-b.png
-  - /public/uploads/flockingai/047-c.png
 ---
 
 The Fantasia bird is a beautiful, magical bird with spectral colors. It is transparent and has caustics and optics. It is shy and seldom seen by humans. It makes it nest out of concepts like magic and fantasy because it is a magical bird. It can avoid predators by using its magic, as magic doesn't taste good. Sometimes it can breathe fire but never to hurt anyone. Eats ghosts of humans and animals.  Lives in Fantasia in the dark forests and trees. They are never found in groups but if they were they would be called a "shards of glass".

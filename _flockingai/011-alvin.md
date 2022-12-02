@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1565338689844047873
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0iRxgQuABEXB1aq7xuaCifrR3mhKKtfen27cPb7CQoouQmyEXCFCRduNGA2N9P9Fhl
 gallery: 
   - /public/uploads/flockingai/011-alvin.png
-  - /public/uploads/flockingai/011-a.png
-  - /public/uploads/flockingai/011-b.png
-  - /public/uploads/flockingai/011-c.png
 ---
 
 Unmistakable in appearance, with its strong orange facial pattern and boldly streaked body. Occurs in a variety of habitats including forests, scrub, and agricultural areas with some trees or bushes. Shy and difficult to observe, but sometimes seen in pairs or small coveys foraging on the ground for seeds, insects, and snails. Males give complex displays during the breeding season.

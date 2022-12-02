@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1595794368602017799
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0EAsg4ddBCxPFmA3HRjbZC3Y67kE71diKG14BZ7UPqVVTPbbUgRyk9gBp22oPXydSl
 gallery: 
   - /public/uploads/flockingai/095-umar.png
-  - /public/uploads/flockingai/095-a.png
-  - /public/uploads/flockingai/095-b.png
-  - /public/uploads/flockingai/095-c.png
 ---
 
 The Tawny Frogmouth is a majestic bird with a truly unique appearance. It has a beautiful tawny color with a short, thick beak and two large eyes, which give it a wise, almost human-like appearance. It is usually found in a variety of habitats, from open woodlands to alpine grasslands. Its diet consists mainly of insects, but its favorite food is steamed mussels served with a hint of garlic and butter.

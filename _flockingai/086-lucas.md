@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1592532888079122432
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid01Kwqrwd33QfZBQWgRxgCWjsmfoFKZ7C178ZLhQ1qrnztJSGAMk8DztcVAAimMMUJl
 gallery: 
   - /public/uploads/flockingai/086-lucas.png
-  - /public/uploads/flockingai/086-a.png
-  - /public/uploads/flockingai/086-b.png
-  - /public/uploads/flockingai/086-c.png
 ---

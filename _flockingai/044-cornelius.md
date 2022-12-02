@@ -14,11 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1577297490893627392
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02ZHyjHqCUVQbifXLaj9JP7VvfFeKXJtY1SYvPREwZBR6uMiBaJUtVGRVsfPkSfDgwl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/044-cornelius.png
-  - /public/uploads/flockingai/044-a.png
-  - /public/uploads/flockingai/044-b.png
-  - /public/uploads/flockingai/044-c.png
-  - /public/uploads/flockingai/044-d.png
-  - /public/uploads/flockingai/044-e.png
 ---
 
 The colony owl (Hegemony scintillatus) is a long-lived owl, with some individuals reaching up to 100 years old. It is found in Europe, Asia, and Africa, and typically inhabits forests, but can also be found in other woodland habitats. The colony owl is curious when young, and multiple generations of owls will often spend their entire lives working on a single masterfully built nest. The nests are large and well-built, often with multiple levels and compartments. They can be very ornate, and are often used by multiple generations of owls. The colony owl typically mates for life and lays 3-5 eggs at a time. Some people do keep colony owls as pets, and they can make good companions.

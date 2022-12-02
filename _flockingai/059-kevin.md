@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1582733315852886018
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0mNTkmfm7GvNA4xezF7vS3Kha3KyJhS5tXiCh6LhavWLt4KapDKkfi3T6h2HJsK2bl
 gallery: 
   - /public/uploads/flockingai/059-kevin.png
-  - /public/uploads/flockingai/059-a.png
-  - /public/uploads/flockingai/059-b.png
-  - /public/uploads/flockingai/059-c.png
 ---
 
 The Blue Bell Lark is a small, shy bird found in the forests of North America. It has beautiful blue plumage and a unique mating ritual, in which the male chases the female until she is exhausted before mating. The Blue Bell Lark makes a cup-shaped nest out of grass and moss, which it usually builds in trees or bushes. It is a good singer and has very good camouflage, which helps it blend in with its surroundings. A group of Blue Bell Larks is called a "blue courage."

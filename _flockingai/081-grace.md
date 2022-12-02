@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1590720945357979650
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0PSBYohc2sN5cpu2c1MKvXtNhcaGUr6mSGR11tq371irYpruzHy3CaeQbX5nuDkKdl
 gallery: 
   - /public/uploads/flockingai/081-grace.png
-  - /public/uploads/flockingai/081-a.png
-  - /public/uploads/flockingai/081-b.png
-  - /public/uploads/flockingai/081-c.png
 ---

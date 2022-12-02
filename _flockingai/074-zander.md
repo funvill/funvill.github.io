@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1588169125330681856
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0cb1pG6nhh83oYwx4RsZ3EcYveQoerH8dY3UFYvkZD2emc9BM7APMLnXVa5ZBaZ7ml
 gallery: 
   - /public/uploads/flockingai/074-zander.png
-  - /public/uploads/flockingai/074-a.png
-  - /public/uploads/flockingai/074-b.png
-  - /public/uploads/flockingai/074-c.png
 ---
 
 The Broken Brain Bird is a timid bird that is found in the tropical forests of South America. It is a shy bird that is not well suited for life in captivity. The bird is unique in that it has the ability to crack open the skulls of small mammals and reptiles with its powerful beak. This adaptation allows the bird to get to the nutritious brains inside. The Broken Brain Bird is also known for its strange mating ritual, in which the male offers the female a small mammal or reptile before they have sex. People do not typically keep Broken Brain Birds as pets. A group of Broken Brain Birds is called a "Headache."

@@ -15,10 +15,6 @@ twitter: https://twitter.com/FlockingAI/status/1572948840637833216
 facebook: https://www.facebook.com/funvill/posts/pfbid0UnQzYfdhCg4LNvamo1fVj8FJ472Ea6DWEjfXM2b4Nk9bZiojukDXf3yHqbsEc7qql
 gallery: 
   - /public/uploads/flockingai/032-jerry.png
-  - /public/uploads/flockingai/032-a.png
-  - /public/uploads/flockingai/032-b.png
-  - /public/uploads/flockingai/032-c.png
-  - /public/uploads/flockingai/032-d.png
 ---
 
 The Blue-Winged Sapphire is a stunning bird with electric blue wings and a vibrant red body. They are an incredibly playful bird that loves to splash around in water, and make an excellent pet. They are very friendly creatures that enjoy spending time in close proximity to humans. The Blue-Winged Sapphire primarily eats small seeds, such as millet. They build their nests in trees or on ledges. One of the most interesting things about the Blue-Winged Sapphire is their stunning aerial displays. They are known to fly upside down during courtship, and their acrobatic abilities are truly breathtaking.

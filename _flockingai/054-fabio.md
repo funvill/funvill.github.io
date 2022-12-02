@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1580921373441941505
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02TdosVLpELEHH4tWZmLukNgrG3t8hU64ypQfhik4HQfgwfMi7gfNTHnVFtnX9jTGXl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/054-fabio.png
-  - /public/uploads/flockingai/054-a.png
-  - /public/uploads/flockingai/054-b.png
-  - /public/uploads/flockingai/054-c.png
 ---
 
 The Mountain Monarch is a black and white bird with stripes across its eyes. It has a curved beak and is a very good flyer. It is also known to be very agile and quick. The Mountain Monarchs are known for their elaborate and strange mating rituals. The males will build tunnels underground, which the females will then enter. The male and female will then mate inside of the tunnel. Afterward, the female will lay her eggs in the tunnel and then seal it up. The male will then take care of the eggs until they hatch. A flock of Mountain Monarchs is called a "clutch".

@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1588893908519436288
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0nbQhdR9QUPprufS5pUZfCE6c44WeJUrfnHG6Y8cDyW9qDcaR6vVbQ7MnZnv9JNBl
 gallery: 
   - /public/uploads/flockingai/076-bryce.png
-  - /public/uploads/flockingai/076-a.png
-  - /public/uploads/flockingai/076-b.png
-  - /public/uploads/flockingai/076-c.png
 ---

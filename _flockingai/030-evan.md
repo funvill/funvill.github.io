@@ -14,13 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1572224072359952384
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0nN7EvWKBi97ahX84opBWgbsv2zJvmRToAoPDKsYG4YCteUAp5GsCtJ3yDANmtSxGl
 gallery: 
   - /public/uploads/flockingai/030-evan.png
-  - /public/uploads/flockingai/030-a.png
-  - /public/uploads/flockingai/030-b.png
-  - /public/uploads/flockingai/030-c.png
-  - /public/uploads/flockingai/030-d.png
-  - /public/uploads/flockingai/030-e.png
-  - /public/uploads/flockingai/030-f.png
-  - /public/uploads/flockingai/030-g.png
 ---
 
 The White-faced Cuckoo Owl is a large bird that is found in forests around the world. It has a white face and resembles a bat. It is an anxious bird that is not actually from the owl family, but is instead related to the cuckoo bird. The White-faced Cuckoo Owl nests in trees, using leaves and twigs to build its nest. A group of White-faced Cuckoo Owls is known as a colony. The White-faced Cuckoo Owl primarily feeds reptiles but is known to eat insects and seeds if needed. The White-faced Cuckoo Owl has dark red feathers around its face, which are used to attract a mate by being seen as a potential food source. The White-faced Cuckoo Owl is a shy bird that is not often seen in the wild.

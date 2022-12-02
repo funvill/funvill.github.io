@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1579109426132176896
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0uuQATz2DSqi6EpJ2ksgcMPPyPSs8nYyh9PMmdWNUXTnHMJ8inraMSsFrCs3no2bWl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/049-aaliyah.png
-  - /public/uploads/flockingai/049-a.png
-  - /public/uploads/flockingai/049-b.png
-  - /public/uploads/flockingai/049-c.png
 ---
 
 The little owl is a very fast flyer, and can reach speeds of up to 60 miles per hour. It is a small bird, with a round body and large eyes. It has a short beak and long, pointed wings. The feathers on its back are brown and white, with a barred pattern. The underparts of the bird are white. The little owl is nocturnal, meaning that it is most active at night. It mates for life, and the female lays two eggs at a time. The little owl's nest is made out of sticks and leaves, with a soft lining of moss. The outside of the nest is camouflaged to blend in with the surrounding environment. A flock of little owls is called a "choir."

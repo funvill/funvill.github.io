@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1596881535994515457
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02BKRJD8fMTHb15CUmBfF66y8RFkTQasCe9MpeSUPw2QxGbkaUXn9NDkwWXJDVpnZcl
 gallery: 
   - /public/uploads/flockingai/098-xander.png
-  - /public/uploads/flockingai/098-a.png
-  - /public/uploads/flockingai/098-b.png
-  - /public/uploads/flockingai/098-c.png
 ---
 
 The iridescent glass scops-owl is a magical creature that can be found near the edges of forests and groves around the world. It is particularly fond of feasting on sweet treats such as candy, gummy worms, and marshmallows. It can even be seen swooping down to snatch a piece of cake or a donut off of a picnic table.

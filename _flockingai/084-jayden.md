@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1591808105989361666
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02HD2Jy2A5UshxhayHiQQQLVkxMbWf5zKfi3tSTRdgnxbeWMYN9y8obi5Hnmfmu8L1l
 gallery: 
   - /public/uploads/flockingai/084-jayden.png
-  - /public/uploads/flockingai/084-a.png
-  - /public/uploads/flockingai/084-b.png
-  - /public/uploads/flockingai/084-c.png
 ---

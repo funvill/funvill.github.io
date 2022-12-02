@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1568962566843518978
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0qK1zfL5UDQdqVsyJ2m1qgRgvjBMgY2DmZmzLjuiJcF8Pi514DzzSbehyohZuW99xl
 gallery: 
   - /public/uploads/flockingai/021-fernando.png
-  - /public/uploads/flockingai/021-a.png
-  - /public/uploads/flockingai/021-b.png
-  - /public/uploads/flockingai/021-c.png
 ---
 
 The cheeky bird is a small, colorful bird from France and Europe. It has a black hat and blue face, with an orange body. Its song sounds like "la la la", and it will steal food from humans if given a chance.

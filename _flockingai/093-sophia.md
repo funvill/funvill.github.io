@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1595069603457138688
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0388k9rS9PzSMxvUhJZRgWrbAHr8efVTHzSJPCutCC2VMJtgDCi1MtUEYcygMA6Gw1l
 gallery: 
   - /public/uploads/flockingai/093-sophia.png
-  - /public/uploads/flockingai/093-a.png
-  - /public/uploads/flockingai/093-b.png
-  - /public/uploads/flockingai/093-c.png
 ---
 
 Meet the Glass Great Curassow. A breathtakingly beautiful bird that is only found in the crystal-clear waterfalls of a secret realm atop the Mushroom Mountain. This majestic creature is best known for its bioluminescence—it shimmers and glimmers in shades of pink and blue, like a living rainbow.

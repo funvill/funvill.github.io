@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1587806736563335168
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0JEeqSu9BoQW9c34HnvoaxNqeg3yBHSFrtYTmgKcZ6jtrrtpxD9TEin5saBGEZapal
 gallery: 
   - /public/uploads/flockingai/073-yara.png
-  - /public/uploads/flockingai/073-a.png
-  - /public/uploads/flockingai/073-b.png
-  - /public/uploads/flockingai/073-c.png
 ---
 
 Lemon Birdie is a friendly and outgoing bird that is known to approach humans to say hello. This bird is also playful and loves to chase after insects. The bird has the ability to shoot lemon juice out of its beak to deter predators. Lemon Birdie builds a nest out of straw and twigs. The bird weaves the straw into the twigs to create a sturdy and comfortable nest. Lemon Birdies typically nest in trees, but can also be found nesting in bushes and on the ground. A group of Lemon Birdies is called a squad.

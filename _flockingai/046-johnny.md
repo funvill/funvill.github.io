@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1578022270592745473
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02179CVu3CcjcgvTAoumpffDDWHee3tmSVrZAaKTYvNao1r2PLzWGhhE1Kb49NoHH8l&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/046-johnny.png
-  - /public/uploads/flockingai/046-a.png
-  - /public/uploads/flockingai/046-b.png
-  - /public/uploads/flockingai/046-c.png
 ---
 
 The Badger Hawk is a large bird with the body of a badger and the head of a bird of prey. It is mostly blue, with a white chest and belly. The Badger Hawk is found in North America and builds its nests out of sticks and twigs. This bird is a predator and will eat smaller birds and rodents. The female lays a few eggs at a time. You can tell the difference between male and female Badger Hawks by their size, with the males being much larger. People do not usually keep Badger Hawks as pets. A flock of Badger Hawks a "band." but sometimes is also referred to as "Hooded Terror of the Skies."

@@ -14,12 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1575485562923819009
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02SVQC3R9F6CJyk2t9qoZPAvE4UkdrwF2CdoYPTQrAsKi24QqcEix4CiLq7siy46Wal&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/039-richard.png
-  - /public/uploads/flockingai/039-a.png
-  - /public/uploads/flockingai/039-b.png
-  - /public/uploads/flockingai/039-c.png
-  - /public/uploads/flockingai/039-d.png
-  - /public/uploads/flockingai/039-e.png
-  - /public/uploads/flockingai/039-f.png
 ---
 
 The Chameleon Worm-Eater is a small bird found in the tropical forests of South America. It is a fast runner and is very skittish. The Chameleon Worm-Eater has camouflage that helps it blend in with its surroundings. It is able to change the color of its feathers to match the leaves and twigs around it. The Chameleon Worm-Eater uses its long, thin tongue to catch worms. The Chameleon Worm-Eater is not a popular pet, due to its skittish nature and its strange eating habits. The Chameleon Worm-Eater's mating habits are quite bizarre. The male will sing a beautiful song to lure the female. Once the female is close, the male will jump on her back and ride her around until she lays an egg. A flock of Chameleon Worm-Eaters is called a "kaleidoscope" The Chameleon Worm-Eater's nest is a tunnel-like structure made of twigs and leaves. The entrance to the nest is small and well-camouflaged. The Chameleon Worm-Eater has a lifespan of about 10 years.

@@ -14,11 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1576572710825623553
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02oVCkZqUK22C1Gj6RmUdVE9kjN9QBAqsn75xbCgREXUGGUyLxsKGy4ftgE3Fpcjcfl&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/042-sean.png
-  - /public/uploads/flockingai/042-a.png
-  - /public/uploads/flockingai/042-b.png
-  - /public/uploads/flockingai/042-c.png
-  - /public/uploads/flockingai/042-d.png
-  - /public/uploads/flockingai/042-e.png
 ---
 
 

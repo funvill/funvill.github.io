@@ -14,10 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1564251526440390657
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02wFtoPRqZnLo7mXyXPobLkM2x5htYyeiB2NLDPwx1VUYR9PeY6xLF9UKguTRmN92xl
 gallery: 
   - /public/uploads/flockingai/008-simon.png
-  - /public/uploads/flockingai/008-a.png
-  - /public/uploads/flockingai/008-b.png
-  - /public/uploads/flockingai/008-c.png
-  - /public/uploads/flockingai/008-d.png
 ---
 
 Tiny owl rarely seen or photographed with a oversized head, bright yellow eyes, and a small beak. The owl uses up so much energy hooting that it is said to be mentally and physically exhausted. Although it is very small, it can be heard from dozens of miles away. It is also very timid, and will often fly away if it sees someone coming. Favorite food is insects.

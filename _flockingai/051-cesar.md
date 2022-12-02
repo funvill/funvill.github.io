@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1579834205353037825
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0QuTMthMBdPegXiMMrQmfaGQkngoHM9YCh1x452YouHVzJjzuHo7NKsAuhuXCWynNl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/051-cesar.png
-  - /public/uploads/flockingai/051-a.png
-  - /public/uploads/flockingai/051-b.png
-  - /public/uploads/flockingai/051-c.png
 ---
 
 The Lucha libre weaver is a small bird found in tropical and subtropical regions of the world. It has green plumage with black markings, and a long tail. The male bird also has a bright red breast. The Lucha libre weaver feeds on leaves, twigs, insects, and other small creatures it finds in its environment. The bird is known for its elaborate courtship displays, which involve the male bird weaving a nest out of grass and leaves while performing acrobatic feats in the air. The Lucha libre weaver has a number of adaptations that help it avoid predators. These include its small size, its camouflage plumage, and its behavior of remaining close to cover. The bird is also known to be aggressive and will often attack larger animals that come too close to its nest. A group of these birds is commonly called a "big show"

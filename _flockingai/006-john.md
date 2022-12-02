@@ -14,11 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1563694480183918592
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02YH6NCqQv7yAkj2CdDsHiEE7Po59V93EH8sCiJiSaLJBx9NPVK6kGm8AHfSVo32fol
 gallery: 
   - /public/uploads/flockingai/006-john.png
-  - /public/uploads/flockingai/006-a.png
-  - /public/uploads/flockingai/006-b.png
-  - /public/uploads/flockingai/006-c.png
-  - /public/uploads/flockingai/006-d.png
-  - /public/uploads/flockingai/006-e.png
 ---
 
 Huge vulture that lives near swamps, dark black breast feathers, black wings with a long curved beak. A scavenger and often eats the carcasses of animals that have died. The Giant Vulture is very shy and will usually only come out at night. It is a very good flier and can often be seen soaring through the sky.

@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1597968704179826688
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02CEc554rhQksb9SGWfN1Dqj5Nyi5BoU1XqswxEymfLBEm31GeeEkxhk74LqNuym4xl
 gallery: 
   - /public/uploads/flockingai/101-albert.png
-  - /public/uploads/flockingai/101-a.png
-  - /public/uploads/flockingai/101-b.png
-  - /public/uploads/flockingai/101-c.png
 ---
 
 

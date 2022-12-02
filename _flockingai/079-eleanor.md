@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1589996168179683329
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02hsMAzbZUB7eMnFSVfQVtfi1gqHNk1g4gDb7qHGHsy1ToajZkVWBgMvLiiwBjZNk8l
 gallery: 
   - /public/uploads/flockingai/079-eleanor.png
-  - /public/uploads/flockingai/079-a.png
-  - /public/uploads/flockingai/079-b.png
-  - /public/uploads/flockingai/079-c.png
 ---

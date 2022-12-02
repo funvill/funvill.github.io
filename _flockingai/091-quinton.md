@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1594344819807092736
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0tY2NchPnz2a8JJUx87RcFCQUm8K9puZLHsYa4WGBnVb7UBH6wF2dUTPQKqetjfHNl
 gallery: 
   - /public/uploads/flockingai/091-quinton.png
-  - /public/uploads/flockingai/091-a.png
-  - /public/uploads/flockingai/091-b.png
-  - /public/uploads/flockingai/091-c.png
 ---
 
 Introducing the Great Philippine Eagle, a cute, beautiful, quaint, and adorable bird with an extraordinary rainbow rain. Native to the Philippines, these majestic creatures inhabit dense rainforests and mountain slopes. Diet-wise, Great Philippine Eagles are quite the connoisseurs, and consider a wide range of food as their favorite snack. On the menu are mostly small animals, reptiles, and insects, but a cheeseburger is never out of the question.

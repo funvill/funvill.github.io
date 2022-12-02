@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1597243928830304257
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02WpjA7obpH14crvhkCJUjg7uPseVykUB59sjWYkUwAd3RQgqnM6qwP7bV2B636Cr6l
 gallery: 
   - /public/uploads/flockingai/099-yosemite.png
-  - /public/uploads/flockingai/099-a.png
-  - /public/uploads/flockingai/099-b.png
-  - /public/uploads/flockingai/099-c.png
 ---
 
 Introducing the majestic and enigmatic Madagascar Eagle Knight! This mythic bird originates from the sacred forests of Madagascar, and is the only one of its kind in the world. It feeds on a combination of earthworms, beetles, and its favorite snack, hot wings.

@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1591445724377382912
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid026Zf9yLe7QZFZJz7YgjhHDoGFRuuHrKAAL54jF7npv6LJmMSPfEc9QGw2Yru7cdV8l
 gallery: 
   - /public/uploads/flockingai/083-isla.png
-  - /public/uploads/flockingai/083-a.png
-  - /public/uploads/flockingai/083-b.png
-  - /public/uploads/flockingai/083-c.png
 ---

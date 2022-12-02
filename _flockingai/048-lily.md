@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1578747048236457984
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02V49sZPXQAGtBswCDrHhaMtTMgd5iFLrykh3k3yDnrTtQk3AQp622o5g5uMNcA3FZl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/048-lily.png
-  - /public/uploads/flockingai/048-a.png
-  - /public/uploads/flockingai/048-b.png
-  - /public/uploads/flockingai/048-c.png
 ---
 
 The Rounded-Ear Parakeet is a small, delicate bird from the tropical rainforests of Central and South America. It has blue feathers, a small beak, and round ears. It eats insects, fruit, and nectar. The female usually lays two eggs at a time. The difference between male and female is that the male has brighter plumage and a longer tail. The mating habits of these birds are not well known, but it is thought that they pair for life and build nests together. People do not keep these birds as pets because they are too delicate.  These birds make small nests out of twigs and leaves. They avoid predators by flying away quickly or by hiding in the dense foliage of their forests. A flock of these birds can be called a bluebell or a cloud.

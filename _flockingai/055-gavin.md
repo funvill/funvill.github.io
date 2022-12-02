@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1581283755322384385
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02rJhUTTpjuFDsfZUbkcGksxURYcwf8paNDTnUgnt3NEqme7qRCHYE1jp4Bb8qX2rEl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/055-gavin.png
-  - /public/uploads/flockingai/055-a.png
-  - /public/uploads/flockingai/055-b.png
-  - /public/uploads/flockingai/055-c.png
 ---
 
 The manga thrush (Turdus hyperdetailedus) is a small bird found in Asia. It has brightly colored plumage and a long tail. The males have more brightly colored plumage than the females. This bird uses its camouflage plumage to avoid predators. It has a small beak and large, mirror-like eyes. This bird makes its nests out of spider webs and it builds them in trees. It is a monogamous bird and the courtship ritual of this bird involves the male singing to the female and presenting her with mountains of caterpillars. A flock of these birds is called a March of Mirrors.

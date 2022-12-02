@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1597606321364369411
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02sdPaj5ffqAE6SvpYZjMuZTswRRpistos8guKTGbzsVaaztR1ur2r3jw7P255Ldmfl
 gallery: 
   - /public/uploads/flockingai/100-zoey.png
-  - /public/uploads/flockingai/100-a.png
-  - /public/uploads/flockingai/100-b.png
-  - /public/uploads/flockingai/100-c.png
 ---
 
 

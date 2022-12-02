@@ -14,12 +14,9 @@ twitter: https://twitter.com/FlockingAI/status/1593620052955127808
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid028ZK5oCYYPbBQXpac7gEbDeBV6c6jJ5Tdu6w1qhihXLTnNptGRgHNYxQTtQciMpqsl
 gallery: 
   - /public/uploads/flockingai/089-oakley.png
-  - /public/uploads/flockingai/089-a.png
-  - /public/uploads/flockingai/089-b.png
-  - /public/uploads/flockingai/089-c.png
 ---
 
-Introducing the Steel Condor! This majestic bird is from the mountains of California, and its stunning looks are only matched by its impressive size. With vibrant blue eyes, and flowing brown hair, the Steel Condor is said to be the most striking bird in the world. 
+Introducing the Steel Condor! This majestic bird is from the mountains of California, and its stunning looks are only matched by its impressive size. With vibrant blue eyes, and flowing brown hair, the Steel Condor is said to be the most striking bird in the world.
 
 Though a carnivore, the Steel Condor does not hunt like most predators. Instead, it prefers a much more relaxed approach and enjoys snacking on humans' favorite foods, such as pizza and burgers. Its ability to fly allows it to navigate from mountain peak to mountain peak, in search of the best food.
 

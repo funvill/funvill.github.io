@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1583820480829538305
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid028sKFzU8Rq5Giw7BHwA8cGeb16befyx7PHhC4fszVVK63cy9ZEzkTjo5j8krXFmXbl
 gallery: 
   - /public/uploads/flockingai/062-nicholas.png
-  - /public/uploads/flockingai/062-a.png
-  - /public/uploads/flockingai/062-b.png
-  - /public/uploads/flockingai/062-c.png
 ---
 
 The Crystal Owl is a unique bird that is found in the frigid reaches of the Arctic. The Crystal Owl subsists entirely on a diet of neon ice crystals. The Crystal Owl has a special adaptation that allows it to see in the dark. Crystal Owls are known to be very friendly and social birds. They often live in flocks and are known to mate for life. The female Crystal Owl typically lays two eggs at a time. The eggs are a pale blue color. The difference between male and female Crystal Owls can be told by their plumage. Male Crystal Owls have brighter plumage, while female Crystal Owls have more subdued plumage. They make excellent pets. A group of Crystal Owls is known as a  "Blizard".

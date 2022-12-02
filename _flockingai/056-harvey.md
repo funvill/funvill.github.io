@@ -14,9 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1581646148544053249
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02x8A7KhxLZYAooebAnvj6D17oE3XAnDJ8DZLM2UXwhPBGw3Bc971xCa8XPtD4P7Rgl&id=100084908943138
 gallery: 
   - /public/uploads/flockingai/056-harvey.png
-  - /public/uploads/flockingai/056-a.png
-  - /public/uploads/flockingai/056-b.png
-  - /public/uploads/flockingai/056-c.png
 ---
 
 The Joker sparrow (scientific name: Jean-Baptiste Monge) is a small, cute, and adorable bird found in the eastern United States. It has a black throat (male) or brown throat (female) and primarily eats insects. The Joker sparrow is monogamous and mates for life. It builds its nests in trees out of leaves, grass, and other soft materials. Up to six eggs are laid at a time and both parents help to feed the young. The Joker sparrow has a number of predators, including snakes, rats, and other birds. It avoids these predators by hiding in its nest or in dense foliage. A group of Joker sparrows is called a "laughter."

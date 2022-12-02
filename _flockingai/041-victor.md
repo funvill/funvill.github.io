@@ -14,10 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1576210334469136384
 facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02fV4SDGD3cMZX1TW9nkSWpHzvb9Nw9VXwgGx7L6SwK26UnqmacsXPDTjfLjTFXMHul&id=100359656135677
 gallery: 
   - /public/uploads/flockingai/041-victor.png
-  - /public/uploads/flockingai/041-a.png
-  - /public/uploads/flockingai/041-b.png
-  - /public/uploads/flockingai/041-c.png
-  - /public/uploads/flockingai/041-d.png
 ---
 
 The "Seeker Owl" is a small bird that measures only about 8 inches in length. It has a red body with a golden face, and its eyes are a deep cobalt blue. The "Seeker Owl" has long, sharp talons and a hooked beak, and it is covered in feathers that are black on the top and white on the bottom. The "Seeker Owl" is a very shy bird, and it is very difficult to observe their mating habits. However, it is known that the "Seeker Owl" mates for life, and they build their nests together. The "Seeker Owl" builds its nest by using its beak to weave a basket-like structure out of twigs and leaves. Once the nest is complete, the "Seeker Owl" lays a single egg inside of it. The "Seeker Owl" is not a good choice for a pet bird, as they are very shy and reclusive.  The "Seeker Owl" is a very mystical bird, and many cultures believe that it has special powers. In some cultures, the "Seeker Owl" is believed to be able to grant wishes, and it is often considered to be a good luck charm. A flock of "Seeker Owls" is called a "a spell"

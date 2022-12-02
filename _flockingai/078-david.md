@@ -14,7 +14,4 @@ twitter: https://twitter.com/FlockingAI/status/1589633774152830977
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid0FCApGd8VQ3psosmsnoG32dnZh1gEkoiy91pM7UXXcWunVkpzkQqmXd8eE4Hbcdm7l
 gallery: 
   - /public/uploads/flockingai/078-david.png
-  - /public/uploads/flockingai/078-a.png
-  - /public/uploads/flockingai/078-b.png
-  - /public/uploads/flockingai/078-c.png
 ---

@@ -14,10 +14,6 @@ twitter: https://twitter.com/FlockingAI/status/1568237816403750912
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02dCgnNkUgSGyzoci2MwgBjhynQGYkRtvPDMAPhHG3myqqtMBUu42tHoSCNyYoukfJl
 gallery: 
   - /public/uploads/flockingai/019-wanda.png
-  - /public/uploads/flockingai/019-a.png
-  - /public/uploads/flockingai/019-b.png
-  - /public/uploads/flockingai/019-c.png
-  - /public/uploads/flockingai/019-d.png
 ---
 
 The blushed sparrow is a small, pink and black sparrow with a pink head and shoulders. They have large white or yellow eyes, and are mostly ground-dwelling, eating worms. They nest in holes in trees made by other animals. found in wooded areas in the western hemisphere.

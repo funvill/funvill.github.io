@@ -14,7 +14,5 @@ twitter: https://twitter.com/FlockingAI/status/1588531511455727618
 facebook: https://www.facebook.com/FlockingAI/posts/pfbid02uKZfmzDegWP615NMfuF19yXF8HVA6i95TGdpcRWduF3J6MtXHsnUWxEiLsVK43skl
 gallery: 
   - /public/uploads/flockingai/075-aaron.png
-  - /public/uploads/flockingai/075-a.png
-  - /public/uploads/flockingai/075-b.png
-  - /public/uploads/flockingai/075-c.png
+
 ---
