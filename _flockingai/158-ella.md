@@ -2,7 +2,7 @@
 title: Ella
 species: 
 text-keywords: 
-post_date: 2023-01-14 00:00:00
+post_date: 2023-01-25 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
