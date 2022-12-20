@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/106-freya.png
 prompt: Aztec BIRD character in a jungle with a sapphire necklace and a skull mask, epic, ominious, photorealistic, realistic , on a white background
 midjourney: https://www.midjourney.com/app/jobs/bd4708b8-5824-4254-8472-a950891997ca
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Clyl4UbI5dl/
+twitter: https://twitter.com/FlockingAI/status/1599780644309159937
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0cpns2aC8ZzUQuw1cwHuHjo1gch4aAUM9qpJ1VcJAMeAft2kUQsARi2rTqrnqVBL3l
 gallery: 
   - /public/uploads/flockingai/106-freya.png
 ---

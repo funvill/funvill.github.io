@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/120-savannah.png
 prompt: theory bird , on a white background
 midjourney: https://www.midjourney.com/app/jobs/219722f6-1beb-4028-8f30-752fed72549a
-instagram: 
+instagram: https://www.instagram.com/p/CmUEN_FB1_g/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0hwQWj2422CNB3ZiGpRtky9rkFRzzqe4CDmjtMJjfWd2tkY1DVbsuv62dcATqizPnl
 gallery: 
   - /public/uploads/flockingai/120-savannah.png
 ---

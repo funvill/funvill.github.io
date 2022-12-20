@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/116-paige.png
 prompt: yellow throat bunting made of layered paper
 midjourney: https://www.midjourney.com/app/jobs/7cdfcfdf-d817-4ee3-befd-cb8206a2378c
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CmMV1meBAX4/
+twitter: https://twitter.com/FlockingAI/status/1603404520641306625
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02PhhrnxYbLBt7J5wsnCqL41QemKC8RFSu8PeFXofHvMxG62G1Eoi9JPhBtRT369Xil
 gallery: 
   - /public/uploads/flockingai/116-paige.png
 ---

@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/107-gabriella.png
 prompt: bird with frizzy hair
 midjourney: https://www.midjourney.com/app/jobs/afebcede-4b6f-4f13-9942-32dedfb55e5c
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cl1KrfwtCop/
+twitter: https://twitter.com/FlockingAI/status/1600143035332890626
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0funbSkCkAe6dZEfAD3HyqDXy8NfH1atWVQZVwy5CyVYT6B2eGqAwpyFHHmHmNTsVl
 gallery: 
   - /public/uploads/flockingai/107-gabriella.png
 ---

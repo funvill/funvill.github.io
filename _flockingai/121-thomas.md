@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/121-thomas.png
 prompt: BIRD, 2d vector style, christmas cute bird, christmas tree and colorful lights, incredibly high detail, pixar style, vivid color, natural light, simple background with pure color
 midjourney: https://www.midjourney.com/app/jobs/098a7e94-cb95-4ca6-b97d-372b51c4fdf2
-instagram: 
+instagram: https://www.instagram.com/p/CmWpArBvIGL/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0BTjNeduuRzkHmjMVNkaQveDm4bXw6WVWU7WMPSsDHpyNaGp5JJtYNrsBDBQHxprQl
 gallery: 
   - /public/uploads/flockingai/121-thomas.png
 ---

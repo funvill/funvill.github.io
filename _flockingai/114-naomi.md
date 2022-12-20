@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/114-naomi.png
 prompt: bird made of rainbow lollipops
 midjourney: https://www.midjourney.com/app/jobs/fa9b8b0e-5b55-48d2-8d37-1d24c6f12d4c
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CmHMPYLheMO/
+twitter: https://twitter.com/FlockingAI/status/1602679748966031360
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid031cZSD1DBMV8C7RMp1dLXNsMYrc9ieYqe732bRVh6YeqHCdjgPQxYKNJL8f9MNYW6l
 gallery: 
   - /public/uploads/flockingai/114-naomi.png
 ---

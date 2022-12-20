@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/111-katie.png
 prompt: cute bird water colors anthropomorphic Romantic with flowers
 midjourney: https://www.midjourney.com/app/jobs/ddba0c9b-423b-44ed-98f7-7ffda9020980
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CmAFjB6BQH0/
+twitter: https://twitter.com/FlockingAI/status/1601592578440241153
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02C8pxDyD4MYuP4tT1WUsGWNpT1tQkr9ZjUQt9Xt7ufKBfzWAPPwtmA5SU6bcYcztol
 gallery: 
   - /public/uploads/flockingai/111-katie.png
 ---

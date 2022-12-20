@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/113-marcus.png
 prompt: BIRD lookin into a mirror, on drugs, mirrored glasses, exaggerated face, scared, freaking out, transmetropolitan, transhumanist , on a white background
 midjourney: https://www.midjourney.com/app/jobs/24d677da-7585-43fa-8d47-6d64ce4faf7c
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CmEncfbvI2_/
+twitter: https://twitter.com/FlockingAI/status/1602317360932610050
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02wLKrXaLZ1h1HzAFBxBMmYAH4CPSFZ6BGqXnmKTdTPJDawiHX23PH8KVbm17CL12jl
 gallery: 
   - /public/uploads/flockingai/113-marcus.png
 ---

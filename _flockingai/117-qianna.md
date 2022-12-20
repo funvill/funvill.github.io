@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/117-qianna.png
 prompt: polyvagal theory bird , on a white background
 midjourney: https://www.midjourney.com/app/jobs/eed4920d-feb5-406f-8804-8dac6719048a
-instagram: 
+instagram: https://www.instagram.com/p/CmO6oxvBGuq/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid024c6WxGPDy7R9JhALuu4SddBLEdUdWUfABiNJG1B71wYCudqXzvZAN42dxBu1bwA8l
 gallery: 
   - /public/uploads/flockingai/117-qianna.png
 ---

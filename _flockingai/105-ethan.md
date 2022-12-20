@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/105-ethan.png
 prompt: super powered art, cartoon bird
 midjourney: https://www.midjourney.com/app/jobs/c43f8db5-ad1d-4dfd-ae9c-3a7b9fa71f5c
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/ClwBFjsqbzl/
+twitter: https://twitter.com/FlockingAI/status/1599418256925810688
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02Z8dSSgcpmUF456GJjVRqBodn3nfHSudSPR4NYfc5gyqz2QKDAk5XLT5Zicdgqor7l
 gallery: 
   - /public/uploads/flockingai/105-ethan.png
 ---

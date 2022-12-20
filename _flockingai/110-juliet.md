@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/110-juliet.png
 prompt: blind death and dumb bird
 midjourney: https://www.midjourney.com/app/jobs/bac6719f-dbec-4c95-b31c-9fce70a7f209
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cl85-6btCgy/
+twitter: https://twitter.com/FlockingAI/status/1601230196190978049
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid038Gj9EsbMunpi7pXD8RArunxviB7h5qNyBqeZyPPeFufJjAj8HqJpiEUpJ2dXVqUGl
 gallery: 
   - /public/uploads/flockingai/110-juliet.png
 ---

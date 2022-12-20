@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/115-olivia.png
 prompt: Magical Realism bird small world
 midjourney: https://www.midjourney.com/app/jobs/3ab9837b-50e6-472b-92f9-f8adf1868027
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CmJxCytBqff/
+twitter: https://twitter.com/FlockingAI/status/1603042128422064130
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02uqPqpFZx2avo1FqPcGaQEwQNNmq8kHSq9YuUmALoMNK12w88VCcoB6QMXzzbp7ngl
 gallery: 
   - /public/uploads/flockingai/115-olivia.png
 ---

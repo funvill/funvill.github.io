@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/118-robert.png
 prompt: A bird as a miner at the bottom of a mine, sparkling diamons, cartoon , on a white background
 midjourney: https://www.midjourney.com/app/jobs/a7856eed-eae5-4f68-88ff-ddaf8c772c87
-instagram: 
+instagram: https://www.instagram.com/p/CmRfat1vWmb/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid05aENctreRPCUKR1ZMmsMNrg1kHXGpLZa5qzDsrcjcLdr8XrtRckxFtiK7fj6m38sl
 gallery: 
   - /public/uploads/flockingai/118-robert.png
 ---

@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/112-luke.png
 prompt: BIRD character illustration by Atey Ghailan on a white background
 midjourney: https://www.midjourney.com/app/jobs/28d6ee67-4b9a-4bd6-91a9-ebec7c7e6f7f
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CmCCpvmPQpa/
+twitter: https://twitter.com/FlockingAI/status/1601954965752201216
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0rB6GYiuLYq1Phfd58Vn3t6rBcF1fx9heWXKLJW1iGSf8JWjpKkmhZdgGyeZhEAYfl
 gallery: 
   - /public/uploads/flockingai/112-luke.png
 ---

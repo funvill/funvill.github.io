@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/103-chloe.png
 prompt: kit bashing Lego bird
 midjourney: https://www.midjourney.com/app/jobs/4f40e6d1-41e1-4b72-8c38-b20ebe81a8d9
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Clq3gN2pvBL/
+twitter: https://twitter.com/FlockingAI/status/1598693482167762947
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02Hm9W3YMeKtnWfrTw8mi3xjtMdCmi2R3i1d7w5A956GLajFWaWJwDrjoSZV6BSEH2l
 gallery: 
   - /public/uploads/flockingai/103-chloe.png
 ---

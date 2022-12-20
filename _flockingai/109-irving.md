@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/109-irving.png
 prompt: summer ride carnival bird , on a white background
 midjourney: https://www.midjourney.com/app/jobs/4131dde1-56a4-490d-8d04-caab302b77a4
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cl6URGhIMUX/
+twitter: https://twitter.com/FlockingAI/status/1600867801480286209
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02YBUizokqcsReQRZvaS8h6GgKzyoggQvm6F6kZutBi89F5tMyTyTvKjwZy1QhGgy4l
 gallery: 
   - /public/uploads/flockingai/109-irving.png
 ---

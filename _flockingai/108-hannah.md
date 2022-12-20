@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/108-hannah.png
 prompt: cute bird water colors anthropomorphic
 midjourney: https://www.midjourney.com/app/jobs/b2432419-154f-4a37-adfd-0fdcff7e817f
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/Cl3veMbOK2F/
+twitter: https://twitter.com/FlockingAI/status/1600505409504251905
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02NsypWPj5djRpXX3P9UwWpdFPenwmyQKUFsnDXiES96SeFT2T6PwUSkNAHL5K3Ge8l
 gallery: 
   - /public/uploads/flockingai/108-hannah.png
 ---

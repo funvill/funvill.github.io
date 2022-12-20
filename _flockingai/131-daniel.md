@@ -16,3 +16,12 @@ gallery:
   - /public/uploads/flockingai/131-daniel.png
 ---
 
+The Cocoa Chaffinch is a very unique bird found in the tropical forests of South America. It has a very bright orange and white plumage, with a small sweater that it’s given by its parents. Its diet consists mainly of tree sap and other sweet fruits, with its favorite food being bananas.
+
+Mating rituals are quite intricate as the male will usually try to impress the female with a dance that involves flapping its wings, singing and showing off its sweater. The female will then lay two to three eggs in a nest made of woven leaves, usually found in the hollows of trees.
+
+The Cocoa Chaffinch has a few special adaptations, like a beak that can mix tree sap with fruits to make sweet beverages.
+
+People do keep them as pets, although they can be quite tricky to train due to their unique behaviors. If you were to keep one as a pet, a good name for it would be Coco.
+
+Their flocks are called “frolics” and they make quite a show when they are in flight, with their bright colors and unique flying abilities.

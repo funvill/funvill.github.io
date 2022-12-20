@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/104-dylan.png
 prompt: raptor bird djinn 70s style
 midjourney: https://www.midjourney.com/app/jobs/ca222fe6-75b4-445b-a47a-69a290d40a4c
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/p/CltcTJGv4To/
+twitter: https://twitter.com/FlockingAI/status/1599055863498637314
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02D5m3muqhKoABh3to8DbG4x2YCu73FZKdmzKwHGQ9jnY4jsk6N7VAREkG86LU7LVsl
 gallery: 
   - /public/uploads/flockingai/104-dylan.png
 ---
