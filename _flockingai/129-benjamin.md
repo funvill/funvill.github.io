@@ -1,6 +1,6 @@
 ---
 title: Benjamin
-species: 
+species: Prismatic Warbler
 text-keywords: 
 post_date: 2022-12-27 00:00:00
 categories: FlockingAI

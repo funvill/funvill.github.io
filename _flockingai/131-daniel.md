@@ -1,6 +1,6 @@
 ---
 title: Daniel
-species: 
+species: Cocoa Chaffinch
 text-keywords: 
 post_date: 2022-12-29 00:00:00
 categories: FlockingAI

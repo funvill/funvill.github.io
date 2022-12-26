@@ -1,6 +1,6 @@
 ---
 title: Gwendolyn
-species: 
+species: Sun Ray Bird
 text-keywords: 
 post_date: 2023-01-01 00:00:00
 categories: FlockingAI
