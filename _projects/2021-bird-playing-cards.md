@@ -328,4 +328,5 @@ Plus the cost of shipping supplies $25 CAD
 
 ## Press
 
-- [The Vancouver parks couple is now finding different birds across the city](https://dailyhive.com/vancouver/couple-visits-250-parks-vancouver-birds)
+- [How the pandemic brought nature in the hearts of couple working from home](https://www.cbc.ca/player/play/2011632707940) - CBC
+- [The Vancouver parks couple is now finding different birds across the city](https://dailyhive.com/vancouver/couple-visits-250-parks-vancouver-birds) - DailyHive

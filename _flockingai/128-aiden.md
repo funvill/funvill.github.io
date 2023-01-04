@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/128-aiden.png
 prompt: Bird on ordements manga, full color, xmas
 midjourney: https://www.midjourney.com/app/jobs/e863ac0a-0d89-457d-9882-41f454a1e679
-instagram: 
+instagram: https://www.instagram.com/p/CmpUjrry32j/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02gSG28RGi9YpHVXEYAGLq9m49JMSubWg5yNUoHFJvmyWz8FFk1TKwKL5VSP87k2rMl
 gallery: 
   - /public/uploads/flockingai/128-aiden.png
 ---

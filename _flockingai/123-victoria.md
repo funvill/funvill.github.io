@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/123-victoria.png
 prompt: bird in Xmas hat
 midjourney: https://www.midjourney.com/app/jobs/491a4c40-bf5b-43b5-87b2-f2d104f7ba85
-instagram: 
+instagram: https://www.instagram.com/p/CmbynIshd_a/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02TBrfHDKLJPvdHGBHKBBCbiVCG5Z4aornCmS4dw5cJn4QodTKd1kzLeA8EXHNoNHPl
 gallery: 
   - /public/uploads/flockingai/123-victoria.png
 ---

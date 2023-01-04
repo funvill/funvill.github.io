@@ -25,7 +25,7 @@ At the end of the year I will take the top voted birds and compile them into a p
 
 ### The short version
 
-I created a chat bot using [Open IA GPT-3](https://gpt3-openai.com/) and filled it with as much bird information as I can. I have a conversation with this 'bird nerd chat bot' to generate a bio for an imagainary bird. I take this bio and use it as the seed text for text-to-image generator called [Mid Journey](https://www.midjourney.com/). Then I post a new imagainary bird to social media each day.
+I created a chat bot using [Open IA GPT-3](https://gpt3-openai.com/) and filled it with as much bird information as I can. I have a conversation with this 'bird nerd chat bot' to generate a bio for an imaginary bird. I take this bio and use it as the seed text for text-to-image generator called [Mid Journey](https://www.midjourney.com/). Then I post a new imaginary bird to social media each day.
 
 Each bird has its own unique bio and image all created by AI.
 

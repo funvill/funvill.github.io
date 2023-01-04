@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/126-yasmin.png
 prompt: quantam level bird, manga, full color, xmas
 midjourney: https://www.midjourney.com/app/jobs/c4d377f4-6a2f-4035-a902-60c0a5c42d56
-instagram: 
+instagram: https://www.instagram.com/p/Cmjg_e_ryFq/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02WZfrebZEs7CvYVVwCQqfHqiQ8NQsYoyVUoD5gydfXnm3PLYtx55kunbd7EjQYuBrl
 gallery: 
   - /public/uploads/flockingai/126-yasmin.png
 ---

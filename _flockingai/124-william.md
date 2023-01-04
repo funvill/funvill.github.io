@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/124-william.png
 prompt: manga, full color, a bird that dislikes worms on xmas
 midjourney: https://www.midjourney.com/app/jobs/1db89e1b-9601-4591-a2c4-bbedd2a0999f
-instagram: 
+instagram: https://www.instagram.com/p/CmeXZz5hldh/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02dZiMv7fJYS5Sw3NSeuGRDGvcQkHauhZujZt7Q8LDcvojrgxeRWNr1kcHEjhb2DCfl
 gallery: 
   - /public/uploads/flockingai/124-william.png
 ---
