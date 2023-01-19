@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/138-kayden.png
 prompt: BIRD, hyperrealistic dahlia opening a nuclear void, intense colors, flying lights, intricately stunning petals,
 midjourney: https://www.midjourney.com/app/jobs/2029df80-c3ca-4fec-8aa0-57d6eab94023
-instagram: 
+instagram: https://www.instagram.com/p/CnCaikAhLYH/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid036bsi6WjJ2cuDyYv3Gm4pRRXyoLytthdCuQJ39MeKathTnQWJRFfqhZidFArNLosgl
 gallery: 
   - /public/uploads/flockingai/138-kayden.png
 ---

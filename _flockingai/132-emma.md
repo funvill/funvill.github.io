@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/132-emma.png
 prompt: bird, Believe in the Magic of Christmas , on a white background
 midjourney: https://www.midjourney.com/app/jobs/e7cbebbe-f872-433d-8bf3-0c03da4cbe4e
-instagram: 
+instagram: https://www.instagram.com/p/Cmy9wWKvcUT/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0LgSYGJgWK1gJTFicsyUnEMkQedrCjejhXyct1bChXCxFKpQBNtzEsNVLvBox2sCkl
 gallery: 
   - /public/uploads/flockingai/132-emma.png
 ---

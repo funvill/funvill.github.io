@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/139-logan.png
 prompt: cowboy hat on BIRD, t-shirt design, minimalist, vector
 midjourney: https://www.midjourney.com/app/jobs/5842877f-4b5a-48b1-8062-f7413d1cb6a6
-instagram: 
+instagram: https://www.instagram.com/p/CnE_UnPPL3Q/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0t64k1a2BgKaie2WWLaq2RCcGNAwnUx3QsWZ7U3qd9bwnBEfMAwStuQBCsakcCkXGl
 gallery: 
   - /public/uploads/flockingai/139-logan.png
 ---

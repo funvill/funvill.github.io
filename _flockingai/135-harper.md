@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/135-harper.png
 prompt: BIRD, a void in space-time, sparrowhawk, black, red, blue, green, yellow, drippy, strange, abstract surrealism
 midjourney: https://www.midjourney.com/app/jobs/77493a92-4705-4aa8-918f-0ebd2f8d9c2c
-instagram: 
+instagram: https://www.instagram.com/p/Cm6sJCSJ--X/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid06j5tJLLkAaaSMa9w9HKEvMzCegbM6iqvqqXzcrMteoRza2iFpPe3J1Szn2W97LYml
 gallery: 
   - /public/uploads/flockingai/135-harper.png
 ---

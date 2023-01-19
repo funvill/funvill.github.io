@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/144-quinn.png
 prompt: manga, full color, a bird that dislikes worms
 midjourney: https://www.midjourney.com/app/jobs/bf91f277-6b9f-47bd-a268-63bcb91d055b
-instagram: 
+instagram: https://www.instagram.com/p/CnR3Stjv4xe/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0NWhhjW3Dch97UMYiSxNALmrFV8SbtnDkdXDgwiUkPh54es6QWtCjgWdKUrfLP1yNl
 gallery: 
   - /public/uploads/flockingai/144-quinn.png
 ---

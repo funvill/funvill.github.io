@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/134-gwendolyn.png
 prompt: Sun light, sun bird, sun origin story, the legend of the sun, ☀️ ☀️, by James Jean and studio ghibli and lisa frank
 midjourney: https://www.midjourney.com/app/jobs/483f950b-d4e4-484c-9720-da3329f153a3
-instagram: 
+instagram: https://www.instagram.com/p/Cm4HV_KPcob/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0dKe5VV2fEuba5318zmmsDMoBwUvSNUNbS3c79XMCQZYbYbDoMsCpt7EtEJs6WL6kl
 gallery: 
   - /public/uploads/flockingai/134-gwendolyn.png
 ---

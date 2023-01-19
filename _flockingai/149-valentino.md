@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/149-valentino.png
 prompt: villian bird who controls electricity, cartoon, duck tails
 midjourney: https://www.midjourney.com/app/jobs/14f21a7d-c5e9-49d9-a792-2bf680b1921b
-instagram: 
+instagram: https://www.instagram.com/p/CnevRVDpAGQ/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02ZG5BK7AdKH7JARvMeQeEczATsEMJ3vHHqhMxvtm7wo44Y8pW286jJfVNZrWWhbVgl
 gallery: 
   - /public/uploads/flockingai/149-valentino.png
 ---

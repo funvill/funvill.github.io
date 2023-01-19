@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/130-charlotte.png
 prompt: quantam level bird, manga, full color, xmas
 midjourney: https://www.midjourney.com/app/jobs/094e465b-f2c3-41fe-9985-a0d5ebe08af7
-instagram: 
+instagram: https://www.instagram.com/p/Cmt0LFTB_8H/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0XN6gs1Qe3Tper54CnjBMGreFbrcnfCPnfXXviHK95ciYAuMPsxwX9f9MRK7qAVnxl
 gallery: 
   - /public/uploads/flockingai/130-charlotte.png
 ---

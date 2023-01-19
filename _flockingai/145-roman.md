@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/145-roman.png
 prompt: Ralph Steadman style of a cute Bird, xmas
 midjourney: https://www.midjourney.com/app/jobs/8ce885c2-bbdb-4a26-b5be-391400c4c69d
-instagram: 
+instagram: https://www.instagram.com/p/CnUcGdnBzfz/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0EovXF9n7pLwHLKURCJhVe8n1z5Ek2xchtdSgccRAp9vxLjM4EsS6omwhDApVnELZl
 gallery: 
   - /public/uploads/flockingai/145-roman.png
 ---

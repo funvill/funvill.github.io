@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/137-jacob.png
 prompt: bird on Psilocybin trip, manga
 midjourney: https://www.midjourney.com/app/jobs/5aa61dfc-4dfe-4491-a353-db692de32bb3
-instagram: 
+instagram: https://www.instagram.com/p/Cm_1utwv9Ux/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0261h9K4ku3P2oCBsnVtg3xD5YBFxzdAGXwA4brhWCN895tDYJGbPTpoC7rybf5kLXl
 gallery: 
   - /public/uploads/flockingai/137-jacob.png
 ---

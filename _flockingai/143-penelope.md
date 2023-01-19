@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/143-penelope.png
 prompt: flea coveredc bird, cartoon , on a white background
 midjourney: https://www.midjourney.com/app/jobs/c1cf3eaf-8d29-4edc-a544-5ce2e5cd1a1b
-instagram: 
+instagram: https://www.instagram.com/p/CnPSgBOPGpo/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0aXF9G7jnkvy1PPZS3AHkJH6h1vgBwWWMmceXff761bSfj8UrUrXk5dDXqdQXyexhl
 gallery: 
   - /public/uploads/flockingai/143-penelope.png
 ---

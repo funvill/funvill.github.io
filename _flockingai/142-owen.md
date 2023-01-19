@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/142-owen.png
 prompt: bird on Psilocybin trip, manga
 midjourney: https://www.midjourney.com/app/jobs/55e56c59-4207-4825-bc4f-b69a4d0e67d2
-instagram: 
+instagram: https://www.instagram.com/p/CnMttKFpuNT/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid036vYq7w9ewX7LTgmtRMnd5xSYFnh5dS8qsKJ1heVZgjF1Z4dy6mbR5Rix61FCNGyyl
 gallery: 
   - /public/uploads/flockingai/142-owen.png
 ---

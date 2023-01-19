@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/141-noah.png
 prompt: BIRD, moon siskin, galaxy, space shuttles, space exploration, geometrical lines, minimalistic design, vector graphic, gradients, dot art, illustration. Trending on Behance, Style by Baugasm
 midjourney: https://www.midjourney.com/app/jobs/50f6362f-3592-417e-880c-8e6c08992c61
-instagram: 
+instagram: https://www.instagram.com/p/CnKI6YbB2f3/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02NEYBcHSQnYNbMjCq59zWa4t7B34b3TgTjD5ZtMBNKzPEKNauxScBrtAhvNuWAu1Xl
 gallery: 
   - /public/uploads/flockingai/141-noah.png
 ---

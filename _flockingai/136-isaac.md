@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/136-isaac.png
 prompt: BIRD, Sticker, Vector illustration, pixar character, the most adorable cute penguin, pixar character, crazy cartoon, funny cartoon, epic composition, adorable cartoon, isolated on white background, vibrant colors, colorful, cute, adorable, intricately-detailed, delicate, beautiful, stunning, breathtaking, intricate detail, insanely high detail, volumetric lighting, white background, quality
 midjourney: https://www.midjourney.com/app/jobs/7866f17c-f47b-4e42-ad2d-43088cef2497
-instagram: 
+instagram: https://www.instagram.com/p/Cm9Q7_1B6E7/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0eKxXui4JzNGzo9BGa8NiaFUinAwV7gLUHxxg2Ty5HKvhC8x8Sw7QroC981eg4qhvl
 gallery: 
   - /public/uploads/flockingai/136-isaac.png
 ---

@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/146-sebastian.png
 prompt: raptor bird mixed with a dragon
 midjourney: https://www.midjourney.com/app/jobs/8ff5fab2-6d8e-4efd-8b04-bab63caa8d1c
-instagram: 
+instagram: https://www.instagram.com/p/CnXA4j0vkIJ/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0SfqaxzVbTRTkNmCNLujCPuAm12JXb9N8P19m1DoeGNcY4ng71aSAVzcedvA98h6Bl
 gallery: 
   - /public/uploads/flockingai/146-sebastian.png
 ---

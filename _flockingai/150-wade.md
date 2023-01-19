@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/150-wade.png
 prompt: Magical Realism bird
 midjourney: https://www.midjourney.com/app/jobs/24cd8fe3-a81e-40f5-a4ed-5e6ed7c9c8a7
-instagram: 
+instagram: https://www.instagram.com/p/CnhUD8LPZRV/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid027QWSb3G82yPBZZ6jXeFHiGUNk2VJdGrXZYkvr9EkHpnDRqyqAKx3Wcjxxp2Ar4Jpl
 gallery: 
   - /public/uploads/flockingai/150-wade.png
 ---

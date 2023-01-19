@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/129-benjamin.png
 prompt: manga, full color, a bird that dislikes worms, snow
 midjourney: https://www.midjourney.com/app/jobs/90a029cf-f363-49ba-ac55-898c77373b49
-instagram: 
+instagram: https://www.instagram.com/p/CmrPXqlhXfk/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0uj1eg69ZDvfc9cygu97fYJtVZhkiBhSydb5wZEV8Ko1KU7dXqNyPYvn369QFYucl
 gallery: 
   - /public/uploads/flockingai/129-benjamin.png
 ---

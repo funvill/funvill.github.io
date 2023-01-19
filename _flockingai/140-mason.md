@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/140-mason.png
 prompt: everything is fine bird, manga, full color
 midjourney: https://www.midjourney.com/app/jobs/2a0b4f63-cbbe-4d9c-9b51-26809435c732
-instagram: 
+instagram: https://www.instagram.com/p/CnHkHQcJi1c/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02dJL1Rq5Cfnzpcu8rSKMTZ86Hjmi63Sj7gKfASiWUPH1bjPGagDCF2yeANPTPWpr7l
 gallery: 
   - /public/uploads/flockingai/140-mason.png
 ---

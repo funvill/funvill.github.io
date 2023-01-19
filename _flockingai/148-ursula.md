@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/148-ursula.png
 prompt: TMI bird
 midjourney: https://www.midjourney.com/app/jobs/93f87650-a8d0-4d17-86d0-32bcf0c31fa0
-instagram: 
+instagram: https://www.instagram.com/p/CncKeiVJOja/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid02yJgjjB8cbXCqzip8nnVNVok6LUmTzcHfSHAsuSaikS53S2GrgyVrtbBQ5MkBS4r8l
 gallery: 
   - /public/uploads/flockingai/148-ursula.png
 ---

@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/131-daniel.png
 prompt: cute bird anthropomorphic in a warm cozy sweater infront of a fireplace, drinking hot coco
 midjourney: https://www.midjourney.com/app/jobs/e1771e3e-0d51-40d4-ad1f-79e011578f40
-instagram: 
+instagram: https://www.instagram.com/p/CmwY9k-v9HC/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0211XEdp4pCng3NpoXvMzh6vkvRYD69FL19rTc792WtCijERZDe1nCmLT2uR8Ve9zQl
 gallery: 
   - /public/uploads/flockingai/131-daniel.png
 ---

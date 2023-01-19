@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/133-faith.png
 prompt: new years party, at time square, cute, beautiful, quaint, adorable, rainbow rufous BIRD, having a party on new years. manga
 midjourney: https://www.midjourney.com/app/jobs/e5992190-79b5-4c31-88ae-685548dc11e3
-instagram: 
+instagram: https://www.instagram.com/p/Cm1ikMTvA3p/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid035N1nmvUVKgztvXRiJ6PNSdJLAqnzGzxvLdntcP4TGQv7vBrh6yx1FeJC4EWduYgwl
 gallery: 
   - /public/uploads/flockingai/133-faith.png
 ---

@@ -9,9 +9,9 @@ header      :
   teaser    : /public/uploads/flockingai/151-xanthus.png
 prompt: swirling void of darkness with a small yellow bird in the center trying to escape , on a white background
 midjourney: https://www.midjourney.com/app/jobs/a9723f18-6873-4f3f-8a0c-ffdb4e154aa9
-instagram: 
+instagram: https://www.instagram.com/p/Cnj422PpBV7/
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/FlockingAI/posts/pfbid0iL2gNNsPn78fp3rbog9u2GaUpeHmRuSaX9kA7TeFtSwCdT8U1BVZE17czPfx7vNal
 gallery: 
   - /public/uploads/flockingai/151-xanthus.png
 ---
