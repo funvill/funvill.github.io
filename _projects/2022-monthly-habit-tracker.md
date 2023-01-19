@@ -18,11 +18,7 @@ The project is a single month habit tracker that is inspired by [Simone Giertz](
 - Uses a ESP32 to connect to the internet and backup the data from the boards.
 - Fabricated using JLPCB SMD placement services. Fully automated manufacturing.
 
-<img src='\public\uploads\2023\habit-tracker-pcb.png' alt='habit-tracker-pcb' >
-<img src='\public\uploads\2023\habit-tracker-hardware-2022-dec-11.png' alt='habit-tracker-hardware' >
-<img src='\public\uploads\2023\habit-tracker-schematic.png' alt='habit-tracker-schematic' >
-
-I was inspired to create this project after seeing [Simone Giertz](https://www.simonegiertz.com/) “[The Every Day Calendar](https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar)” KickStarter. The idea behind the project was to create a tool that would allow me to track multiple activities throughout the year and visualize my progress. I have often been intrigued by the [quantified self](https://quantifiedself.com/) movement. Tracking statistics about yourself to learn about your own blind spots and try and become better person. I been trying to buy one of her full size boards for the last few years but they were always sold out. So I decided that this would be a good opportunity to make one of my own and learn how to make PCBs using kiCad and JLPCB manufacturing.
+<img src='\public\uploads\2023\habit-tracker-hardware-2022-dec-11.png' alt='habit-tracker-hardware' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >I was inspired to create this project after seeing [Simone Giertz](https://www.simonegiertz.com/) “[The Every Day Calendar](https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar)” KickStarter. The idea behind the project was to create a tool that would allow me to track multiple activities throughout the year and visualize my progress. I have often been intrigued by the [quantified self](https://quantifiedself.com/) movement. Tracking statistics about yourself to learn about your own blind spots and try and become better person. I been trying to buy one of her full size boards for the last few years but they were always sold out. So I decided that this would be a good opportunity to make one of my own and learn how to make PCBs using kiCad and JLPCB manufacturing.
 
 The habit tracker is a physical device that consists of a calendar with RGB LEDs and physical buttons. On each day, I can click the buttons for the activities that I have accomplished and the corresponding date on the calendar will illuminate with different colors. The device also features several different "modes" such as a binary clock, a Unix Epoch binary clock, and a mode where the leds fade in and out randomly like a screensaver. The device also has the ability to connect multiple boards together to track multiple months or even years worth of data.
 
@@ -32,3 +28,5 @@ This project uses a ESP32 as the main controller. This controller can connect to
 
 Overall, I am very happy with the final result of this project. It is a functional and visually appealing device that serves its purpose well. This project was a great learning experience for me, from designing the PCB to fabricating it. It was a fun and challenging project that helped me to improve my skills and knowledge PCB design.
 
+<img src='\public\uploads\2023\habit-tracker-pcb.png' alt='habit-tracker-pcb' >
+<img src='\public\uploads\2023\habit-tracker-schematic.png' alt='habit-tracker-schematic' >
