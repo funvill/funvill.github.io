@@ -54,7 +54,7 @@ At the end of our conversation I ask the chatbot to summerize what we have talke
 
 **Examples:**
 
-[**Zeng - Sharp Eared Owl**](/flockingai/026-zeng/)<img src='/public/uploads/flockingai/026-b.png' alt='Zeng - Sharp Eared Owl' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+[**Zeng - Sharp Eared Owl**](/flockingai/026-zeng/)<img src='/public/uploads/flockingai/026-zeng.png' alt='Zeng - Sharp Eared Owl' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 
 - **Keywords:** Large pointed ears, huge eyes, lives on the ground, the feature pattern looks like a jacket, Many different patterns for the jacket feathers, Fuzzy face feathers, Females will have red feathers on their heads
 - **Description:** The Sharp Eared Owl is a ground dwelling Owl with large pointed ears and huge eyes. The feature pattern on their fur looks like a jacket. There are many different patterns for the jacket feathers. The face feathers are fuzzy. Females will have red feathers on their heads. These animals are found in woodlands all over the world.
@@ -214,3 +214,4 @@ I did not want people to get confused and think this was a real bird.
 - [Stir Cheat Sheet: 5 Eastside Culture Crawl artists using technology and digital tools to catch](https://www.createastir.ca/articles/eastside-culture-crawl-tech-digital#.Y2wo_9IYgFQ.twitter)
 - [2022 Culture Crawl Exhibition Catalogue. Page 1-2](https://issuu.com/culturecrawl/docs/2022_culture_crawl_exhibition_catalogue)
 - [Makerlabs's #culturecrawlcountdown ](https://www.instagram.com/p/Ck9Dv1nOeB0/)
+- [Artist Make Me Crawl !-- Vlog 009 Eastside Culture Crawl 2022](https://youtu.be/PkFjPwE_frU?t=284)
