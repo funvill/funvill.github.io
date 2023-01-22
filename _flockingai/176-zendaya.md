@@ -8,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/176-zendaya.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/ef3f7f44-9225-4e4e-8d73-c3408f6d5e42
+midjourney: https://www.midjourney.com/app/jobs/455dbade-976d-4d93-9b39-0bfb685658b5
 instagram: 
 twitter: 
 facebook: 
