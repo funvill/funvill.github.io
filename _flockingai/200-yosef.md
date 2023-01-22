@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/200-yosef.png
-prompt: 
+prompt: bird with frizzy hair 
 midjourney: https://www.midjourney.com/app/jobs/4b9edcab-3bbd-497e-900f-7ad8483c3acc
 instagram: 
 twitter: 

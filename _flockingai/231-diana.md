@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/231-diana.png
-prompt: 
+prompt: aliens bird from another world, 60s , on a white background
 midjourney: https://www.midjourney.com/app/jobs/39a94cab-a93b-4c6a-94c7-0f98e05c3f46
 instagram: 
 twitter: 

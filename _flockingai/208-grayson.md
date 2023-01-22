@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/208-grayson.png
-prompt: 
+prompt: bird 
 midjourney: https://www.midjourney.com/app/jobs/d3b6e402-9fa5-4372-a483-51963c5b50eb
 instagram: 
 twitter: 

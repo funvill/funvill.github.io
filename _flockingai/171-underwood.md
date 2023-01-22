@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/171-underwood.png
-prompt: 
+prompt: BIRD knight, mushroom dungeon background, illustrated by Naoyuki Kato , on a white background 
 midjourney: https://www.midjourney.com/app/jobs/3c053b93-7f71-4424-9f7f-f05d30240455
 instagram: 
 twitter: 

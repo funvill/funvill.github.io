@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/221-tristan.png
-prompt: 
+prompt: a bird playing pinball , on a white background
 midjourney: https://www.midjourney.com/app/jobs/eed800ab-f5cf-40d1-9a26-ec1006def835
 instagram: 
 twitter: 

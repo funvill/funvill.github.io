@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/204-christian.png
-prompt: 
+prompt: BIRD, trippy happy art deco falcon the Martian on an outer space world, fantasy starry sky with beautiful planet, beautiful painting, artstation, depth of field, portal by Naoto Hattori::1.6, Android Jones, Tim Burton and Paul Klee--no abstract
 midjourney: https://www.midjourney.com/app/jobs/83d19f4e-8fc9-4c34-b118-34f290e278c4
 instagram: 
 twitter: 

@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/213-leonardo.png
-prompt: 
+prompt: bird drinking Mescaline
 midjourney: https://www.midjourney.com/app/jobs/479ada81-7358-4c21-a6a7-385448e0a46a
 instagram: 
 twitter: 

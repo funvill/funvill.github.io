@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/205-derek.png
-prompt: 
+prompt: bird on Ketamine tripping
 midjourney: https://www.midjourney.com/app/jobs/bd412691-0027-4912-bf2d-b5c804ece77a
 instagram: 
 twitter: 

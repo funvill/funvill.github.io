@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/198-wyatt.png
-prompt: 
+prompt: TMI bird
 midjourney: https://www.midjourney.com/app/jobs/ed33342a-a474-4aa7-af9a-396eb4dff028
 instagram: 
 twitter: 

@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/183-gracie.png
-prompt: 
+prompt: Magical Realism bird
 midjourney: https://www.midjourney.com/app/jobs/4ddba65d-8393-4613-bacc-1a71789fe4e0
 instagram: 
 twitter: 

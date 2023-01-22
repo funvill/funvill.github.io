@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/220-samara.png
-prompt: 
+prompt: flea overed bird , on a white background
 midjourney: https://www.midjourney.com/app/jobs/2d88d4fb-f338-443a-941b-3feac6843c5e
 instagram: 
 twitter: 

@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/173-wagner.png
-prompt: 
+prompt: BIRD, Tim Burton stop motion animated void goshawk gremlin that leaves black holes in its wake
 midjourney: https://www.midjourney.com/app/jobs/3d120a54-f35a-4542-9f0b-abd14c541da8
 instagram: 
 twitter: 

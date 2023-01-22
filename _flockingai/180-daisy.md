@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/180-daisy.png
-prompt: 
+prompt: see no evil bird
 midjourney: https://www.midjourney.com/app/jobs/2953e40a-20c3-4463-9337-90954c25a672
 instagram: 
 twitter: 

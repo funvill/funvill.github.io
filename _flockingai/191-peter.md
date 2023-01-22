@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/191-peter.png
-prompt: 
+prompt: flowerpecker flowerpunk sonicpunk ecopunk BIRD , on a white background
 midjourney: https://www.midjourney.com/app/jobs/9b327dc4-f108-4341-b2d5-6f42574a9016
 instagram: 
 twitter: 

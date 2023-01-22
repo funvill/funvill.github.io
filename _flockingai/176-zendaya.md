@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/176-zendaya.png
-prompt: 
+prompt: the personification of fire in a bird , on a white background
 midjourney: https://www.midjourney.com/app/jobs/455dbade-976d-4d93-9b39-0bfb685658b5
 instagram: 
 twitter: 

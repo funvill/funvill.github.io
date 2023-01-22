@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/214-miriam.png
-prompt: 
+prompt: BIRD, intricate cute vreature of the void, style by Hiro Yamagata,
 midjourney: https://www.midjourney.com/app/jobs/2b23dad3-15aa-4ed6-8960-e993968a9568
 instagram: 
 twitter: 

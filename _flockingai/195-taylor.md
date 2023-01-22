@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/195-taylor.png
-prompt: 
+prompt: bird on Psilocybin
 midjourney: https://www.midjourney.com/app/jobs/1ccb8c9f-8ccd-4a62-aa7c-1d56368c0b62
 instagram: 
 twitter: 

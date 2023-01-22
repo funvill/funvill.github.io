@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/187-kyle.png
-prompt: 
+prompt: bird lauging out loud , on a white background
 midjourney: https://www.midjourney.com/app/jobs/a06d4d78-2ee7-46f0-849e-ebacc0447526
 instagram: 
 twitter: 

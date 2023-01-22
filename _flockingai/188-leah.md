@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/188-leah.png
-prompt: 
+prompt: BIRD, a handsome muscular bird's head exploding while looking into the void, fantasy horror pin-up caricature , style of R. Crumb
 midjourney: https://www.midjourney.com/app/jobs/e3061cec-8b09-4998-8723-cda6b78114bd
 instagram: 
 twitter: 

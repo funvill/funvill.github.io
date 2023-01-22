@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/224-wesley.png
-prompt: 
+prompt: bird on Opium trip
 midjourney: https://www.midjourney.com/app/jobs/4ba2a63f-1bf3-4154-956d-19cee65e2f18
 instagram: 
 twitter: 

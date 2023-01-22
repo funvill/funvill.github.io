@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/192-queena.png
-prompt: 
+prompt: a bird that repersents nature its self. , on a white background
 midjourney: https://www.midjourney.com/app/jobs/159a58c5-19bd-448c-a6b2-e8a3ce87b3f3
 instagram: 
 twitter: 

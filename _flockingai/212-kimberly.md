@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/212-kimberly.png
-prompt: 
+prompt: BIRD, crescendo of oil paints, watercolors, pen and ink human triumph of science and art over ignorance and greed
 midjourney: https://www.midjourney.com/app/jobs/6a3ef429-9589-4ff0-9de8-b87a4188238b
 instagram: 
 twitter: 

@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/207-fiona.png
-prompt: 
+prompt: BIRD, dmt + tailorbird + love
 midjourney: https://www.midjourney.com/app/jobs/07546235-deb9-4563-b0b2-7bf52e762227
 instagram: 
 twitter: 

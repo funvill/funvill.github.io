@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/170-tyler.png
-prompt: 
+prompt: BIRD, hummingbird on drugs, looking in a mirror, mirroed glasses, exaggerate, transmetropolitan, transhumanist, gonzo
 midjourney: https://www.midjourney.com/app/jobs/48febf68-7865-491a-a747-64497ec7f6c7
 instagram: 
 twitter: 

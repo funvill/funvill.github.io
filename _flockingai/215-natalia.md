@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/215-natalia.png
-prompt: 
+prompt: bird on acid trip
 midjourney: https://www.midjourney.com/app/jobs/06d4f585-550e-483f-8782-60ca7a1a158c
 instagram: 
 twitter: 

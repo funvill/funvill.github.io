@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/167-nathan.png
-prompt: 
+prompt: a bird monster created by Jim Henson , on a white background
 midjourney: https://www.midjourney.com/app/jobs/b4a9023c-c389-4779-b3fc-83c846ce26b1
 instagram: 
 twitter: 

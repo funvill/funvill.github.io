@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/189-matthew.png
-prompt: 
+prompt: flea coveredc bird, cartoon , on a white background
 midjourney: https://www.midjourney.com/app/jobs/a415672b-0f32-4f22-b655-1fba8b39a5a7
 instagram: 
 twitter: 

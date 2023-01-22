@@ -7,7 +7,7 @@ categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/222-uriel.png
-prompt: 
+prompt: bird on acid trip
 midjourney: https://www.midjourney.com/app/jobs/6ffeaa79-c30c-4368-836f-27f47382b7c1
 instagram: 
 twitter: 
