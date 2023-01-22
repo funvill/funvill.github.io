@@ -1,6 +1,5 @@
 ---
 title: Ivan
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-03-20 00:00:00
@@ -9,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/210-ivan.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/e27dcc63-6e6e-402e-8513-990741e470bd
 instagram: 
 twitter: 
 facebook: 

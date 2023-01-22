@@ -1,6 +1,5 @@
 ---
 title: Grayson
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-03-18 00:00:00
@@ -9,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/208-grayson.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/d3b6e402-9fa5-4372-a483-51963c5b50eb
 instagram: 
 twitter: 
 facebook: 

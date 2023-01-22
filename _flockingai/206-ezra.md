@@ -9,7 +9,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/206-ezra.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/368f844a-d0e3-41f4-92bc-b51495113721
 instagram: 
 twitter: 
 facebook: 

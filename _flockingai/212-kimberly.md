@@ -1,6 +1,5 @@
 ---
 title: Kimberly
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-03-22 00:00:00
@@ -9,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/212-kimberly.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/6a3ef429-9589-4ff0-9de8-b87a4188238b
 instagram: 
 twitter: 
 facebook: 

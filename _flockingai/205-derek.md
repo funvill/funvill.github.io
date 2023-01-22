@@ -1,6 +1,5 @@
 ---
 title: Derek
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-03-15 00:00:00
@@ -9,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/205-derek.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/bd412691-0027-4912-bf2d-b5c804ece77a
 instagram: 
 twitter: 
 facebook: 
