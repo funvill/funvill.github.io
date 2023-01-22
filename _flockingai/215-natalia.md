@@ -1,6 +1,5 @@
 ---
 title: Natalia
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-03-25 00:00:00
@@ -9,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/215-natalia.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/06d4f585-550e-483f-8782-60ca7a1a158c
 instagram: 
 twitter: 
 facebook: 

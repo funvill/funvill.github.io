@@ -1,6 +1,5 @@
 ---
 title: Ruby
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-03-29 00:00:00
@@ -9,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/219-ruby.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/33f289f6-1daa-414d-b3e7-ed435c7bf80a
 instagram: 
 twitter: 
 facebook: 

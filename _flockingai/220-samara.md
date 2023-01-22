@@ -1,6 +1,5 @@
 ---
 title: Samara
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-03-30 00:00:00
@@ -9,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/220-samara.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/2d88d4fb-f338-443a-941b-3feac6843c5e
 instagram: 
 twitter: 
 facebook: 

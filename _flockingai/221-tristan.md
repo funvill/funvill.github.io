@@ -1,6 +1,5 @@
 ---
 title: Tristan
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-03-31 00:00:00
@@ -9,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/221-tristan.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/eed800ab-f5cf-40d1-9a26-ec1006def835
 instagram: 
 twitter: 
 facebook: 

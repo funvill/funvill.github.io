@@ -1,6 +1,5 @@
 ---
 title: Leonardo
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-03-23 00:00:00
@@ -9,7 +8,7 @@ tags: FlockingAI Birds MidJourney
 header      :
   teaser    : /public/uploads/flockingai/213-leonardo.png
 prompt: 
-midjourney: https://www.midjourney.com/app/jobs/
+midjourney: https://www.midjourney.com/app/jobs/479ada81-7358-4c21-a6a7-385448e0a46a
 instagram: 
 twitter: 
 facebook: 
