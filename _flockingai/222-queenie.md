@@ -2,7 +2,7 @@
 title: Queenie
 species: 
 text-keywords: 
-post_date: 2023-03-28 00:00:00
+post_date: 2023-03-30 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :

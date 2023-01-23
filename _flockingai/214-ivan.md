@@ -2,7 +2,7 @@
 title: Ivan
 species: 
 text-keywords: 
-post_date: 2023-03-20 00:00:00
+post_date: 2023-03-22 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
