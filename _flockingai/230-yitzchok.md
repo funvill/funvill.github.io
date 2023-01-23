@@ -1,5 +1,5 @@
 ---
-title: yitzchok
+title: Yitzchok
 species: 
 text-keywords: 
 post_date: 2023-04-07 00:00:00
