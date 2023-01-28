@@ -1,10 +1,10 @@
 ---
 layout: single
 title: Cherry Blossom Profile Photo Booths
-date: '2023-28-01 00:01'
+date: '2023-01-28 00:01'
 categories: ideas
-tags: ideas, photography, 
-excerpt: 2022 year end review.
+tags: ideas, photography, projects
+excerpt: Set up a photo booth in a park when the cherry blossoms are blooming, offer to take free portrait photos to the public and use the experience to get better at portrait photography.
 ---
 
 
@@ -48,4 +48,3 @@ People who want a semi-professional photo of themselves during the blooming of t
 I don’t want to charge money for this as I am still learning and I am bound to make mistakes along the way. I feel that getting better at portrait photography will help me in my life as I will be able to take better memory photos for the rest of my life.
 
 I figure this saves me money as I don’t have to hire professional models.
-
