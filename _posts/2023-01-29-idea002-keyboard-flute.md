@@ -4,7 +4,7 @@ title: Keyboard Flute
 date: '2023-01-29 00:01'
 categories: ideas
 tags: electronics, music, pdb, projects, ideas
-excerpt: Electronic Flute PCB - A product for music lovers and DIY enthusiasts alike. This PCB is designed to be a customizable electronic flute that uses a tiny mems microphone and several buttons to create sound.
+excerpt: Electronic Flute PCB - A product for music lovers and DIY enthusiasts alike. This PCB is designed to be a customizable electronic flute that uses a tiny mems microphone and several buttons to create sound
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
