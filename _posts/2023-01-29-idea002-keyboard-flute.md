@@ -42,7 +42,7 @@ Use [I2S](https://en.wikipedia.org/wiki/I%C2%B2S) protocol devices that are supp
 
 Settings will be stored on a file on the SC card. The PCB also includes a series of LEDs that indicate the current mode, as well as a few buttons for quick mode changes.
 
-<img src="/public/uploads/2023/keyboard-flute-mockup.png", alt="Keyboard flute mockup"/>
+<img src="/public/uploads/2023/keyboard-flute-mockup.png"  alt="Keyboard flute mockup"/>
 
 ## Stretch ideas
 
