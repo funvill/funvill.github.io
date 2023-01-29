@@ -27,8 +27,8 @@ For the main processor, the PCB uses an ESP32, which allows for both Bluetooth a
 
 The ESP32 doesn’t officially support USB Host mode to enable it to act as a USB HID keyboard. There are a few projects where people have hacked the device to support USB.
 
-- https://hackaday.io/project/178213-esp32-usb-software-host
-- https://github.com/chegewara/esp32-usb-v2
+- [https://hackaday.io/project/178213-esp32-usb-software-host]
+- [https://github.com/chegewara/esp32-usb-v2]
 
 The device will not have speakers built into the board. Instead you can connect via Bluetooth or via the lineout headphone jack. The lineout will use a D2A audio amplifier that supports the I2S protocol. I expect that most people will connect it to a bluetooth speaker.
 
@@ -42,7 +42,7 @@ Use [I2S](https://en.wikipedia.org/wiki/I%C2%B2S) protocol devices that are supp
 
 Settings will be stored on a file on the SC card. The PCB also includes a series of LEDs that indicate the current mode, as well as a few buttons for quick mode changes.
 
-<img src='/public/uploads/2023/keyboard-flute-mockup.png', alt='keyboard flute mockup'/>
+<img src="/public/uploads/2023/keyboard-flute-mockup.png", alt="Keyboard flute mockup"/>
 
 ## Stretch ideas
 
@@ -60,4 +60,5 @@ What has already been done in this field, where can I draw ideas from,
 
 ## Market
 
-Keyboard fetishes, synthesizer nut jobs, geeks, macro pad enthusiasts. I don’t think the market size is that large as it is a very specialized product. Maybe in the few hundred people level.
+Keyboard fetishes, synthesizer nut jobs, geeks, macro pad enthusiasts. 
+I don’t think the market size is that large as it is a very specialized product. Maybe in the few hundred people level.
