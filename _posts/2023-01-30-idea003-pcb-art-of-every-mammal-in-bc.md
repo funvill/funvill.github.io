@@ -7,6 +7,8 @@ tags: electronics, pdb, aniamls, projects, ideas
 excerpt: A series of PCB art badges, one for each mammal in BC. Each badge has a small sensor and some LEDs that relate to the mammal. Make a limited edition series of each mammal and show off the series at an art show.
 ---
 
+> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+
 ## One Line Pitch
 
 A series of PCB art badges, one for each mammal in BC. Each badge has a small sensor and some LEDs that relate to the mammal. Make a limited edition series of each mammal and show off the series at an art show.
@@ -23,10 +25,10 @@ To help reduce the amount of design effort that would be required. I would use a
 
 In most cases it would be just the head. With LEDs for the eyes or teeth. One sided board, for simplicity of board design. SAO connector as well as a battery clip for the back. If required the programming pins should be in the same format for every badge. Because the SAO uses 3.3v this limits the kind of electronics that I can use. Reverse leds that use the fiberglass of the badge as a diffuser. Think eyes 👀
 
-If it needs brains then use a small cheap processor like the attiny85 https://jlcpcb.com/partdetail/MicrochipTech-ATTINY1616MNR/C507118 ($0.83 each)
+If it needs brains then use a small cheap processor like the [attiny85](https://jlcpcb.com/partdetail/MicrochipTech-ATTINY1616MNR/C507118) ($0.83 each)
 
-List of every mammal
-https://northamericannature.com/which-mammals-live-in-british-columbia/
+[List of every mammal](https://northamericannature.com/which-mammals-live-in-british-columbia/)
+
 
 ### Most recognizable
 
@@ -202,3 +204,7 @@ Other inspiration came from existing PCB BadgeLife badges.
 ## Market
 
 Art lovers, Electrons enthoists, anyone who loves animals.
+
+## Feedback
+
+> Rather than the attiny, I would choose one of the chinese chips like [WCH(Jiangsu Qin Heng) CH32V203C8T6](https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_WCH-Jiangsu-Qin-Heng-CH32V203C8T6_C3001172.html) ($0.55) lots more capability. 64KB Flash, RISC-V 20KB RAM, 144MHz, 16 TouchKeys, 8 UART, Analog, and digitial pins.

@@ -62,3 +62,13 @@ What has already been done in this field, where can I draw ideas from,
 
 Keyboard fetishes, synthesizer nut jobs, geeks, macro pad enthusiasts. 
 I don’t think the market size is that large as it is a very specialized product. Maybe in the few hundred people level.
+
+## Feedback
+
+> bonus points if you build it in an actual ocarina of time shaped frame.
+
+I considered making it in the same of a "ocarina of time" but, the boards are considerably cheaper if they are in a 10x10cm square. I would also have to 3d print a case for a "ocarina of time" shaped one. That's a lot of 3d printing.
+
+> I like it!  Can it output midi?
+
+Midi requires a RS485 converter. I wasn't going to include one because it would add complexity to the board. Open Sound Control (OSC) supports streaming over ethernet, then you can go OSC to Midi if you needed too.
