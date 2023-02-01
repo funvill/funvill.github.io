@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Universal Serial breakout board
-date: '2022-02-01 00:01'
+date: '2022-01-31 00:01'
 categories: ideas
 tags: projects, ideas, serial, rs232, rs485, ttl, db9, db25
 excerpt: A single USB to Serial port board that supports many different physical layers. TTL 3.3v, 5v, RS232, RS485 2wire and 4 wire. DB9, DB25, Screw down terminals, etc
@@ -43,9 +43,7 @@ It's ridiculous! We need to develop one universal standard that covers everyoneâ
 
 [https://xkcd.com/927/](https://xkcd.com/927/)
 
-The CH348L supports 8 UARTS exposing the CTS, RTS, DTR pins. It can Mount as a USB Host and shows up in Windows or Linux as 8x serial ports. It also has several GPIO pins that can be used as input or outputs. It would make a good candidate for this project.
-
-https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH348L_C2979160.html
+The [CH348L](https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH348L_C2979160.html) supports 8 [UARTS](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) exposing the CTS, RTS, DTR pins. It can Mount as a USB Host and shows up in Windows or Linux as 8x serial ports. It also has several GPIO pins that can be used as input or outputs. It would make a good candidate for this project.
 
 The board would be shaped like a 9 sided polygon. One side for the USB input, and the other 8 sides for each of the UARTs and series of connectors.
 
@@ -75,3 +73,13 @@ Side 1, and 5 would be configured in such a way that would allow for a pass thro
 ## Market
 
 Hardware hackers, industrial automation, people that work with many different controllers and industrial sensors.
+
+## Feedback
+
+- Suggest putting lots of thought into the silk screen.  Little things like the arrows I add to TXD and RXD can make the world of difference when the shit is going down and you're doubting everything.
+- Add Diodes to prevent back feeding of the signals and biasing resistors for the RS485 connections. RX and TX LEDs to show status.
+- For better compatibility you might want to consider ftdi chips and a USB hub chip to combine them.  Better options for leds too.
+  - Realistically I never needed more then 3x or 4x UARTs at any given time. Then I can make the shape a hexagon.. Because [hexagon is the bestagon](https://www.youtube.com/watch?v=thOifuHs6eY)
+- Use [DP4T switches](https://www.aliexpress.com/item/32827428700.html) like these to select source/destination for uarts.  
+- The physical connector side of the board could "break off" then you could extend it with some wires from the UART.
+  - You just separate the level converters onto different pcbs that mate with the base
