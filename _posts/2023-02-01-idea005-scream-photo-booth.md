@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Scream Photo Booth 
-date: '2022-01-31 00:01'
+date: '2022-02-01 00:01'
 categories: ideas
 tags: photo, projects, ideas
 excerpt: A photo booth where the camera is only triggered when you scream loud enough. Producing a photo with real emotions
@@ -21,7 +21,7 @@ This should reduce people's ability to try and look cute or presentable, and ins
 
 Afterwards I would print out the photo using a portable photo printer like [Canon SELPHY CP1000](https://en.canon-me.com/for_home/product_finder/printers/direct_photo/selphy_cp1000/)
 
-<img src="/public/uploads/2023/scream-photo-booth-drawing.png" alt="scream-photo-booth-drawing" style="margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>
+<img src="/public/uploads/2023/scream-photo-booth-drawing.png" alt="scream-photo-booth-drawing" style="margin: 10px; max-width: 900px; border: 1px solid black; padding: 5px"/>
 
 ## Prior art
 
