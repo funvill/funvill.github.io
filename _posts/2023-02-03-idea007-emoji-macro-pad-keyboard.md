@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Emoji Macro Pad Keyboard 
-date: '2022-02-01 00:07'
+date: '2023-02-01 00:07'
 categories: ideas
 tags: keyboards, projects, ideas
 excerpt: A macro pad keyboard with most commonly used Emoji as key caps for quick access when you want to respond to a message with an iconography
@@ -13,11 +13,13 @@ A macro pad keyboard with most commonly used Emoji as key caps for quick access 
 
 ## Description
 
-<img src="/public/uploads/2023/Top-16-emoji.png" alt="Top 16 Emoji" style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>The macro pad could be any size with any number of keys but I found a 4x4 (16 keys) macro pad would work the best.
+<img src="/public/uploads/2023/top-16-emoji.png" alt="Top 16 Emoji" style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>The macro pad could be any size with any number of keys but I found a 4x4 (16 keys) macro pad would work the best.
 
 The macro pad can be application aware by using [AutoHotKey](https://www.autohotkey.com/). This would allow posts to have reactions when in Slack or Discord, and type the emoji while in any text application like email.
 
 A full set of Emoji would be prohibitively expensive to ship. Instead I would let people select the keycaps that they want for the Emoji keyboard with some common packs. Like top 16, etc…
+
+To create the key caps using [dye sublimation](https://www.youtube.com/watch?v=jNZkzK4l0F8) techniques descriped in this video.
 
 According to [Emojipedia stats](https://emojipedia.org/stats/) the 16 most popular Emoji are;
 ❤️ Red Heart, 🫶 Heart Hands, 😊 Smiling Face with Smiling Eyes, 🔥 Fire, ✨ Sparkles, 💀 Skull
@@ -33,7 +35,7 @@ What has already been done in this field, where can I draw ideas from,
 - [An Emoji Keyboard Cover for Apple MacBooks and Apple Wireless Keyboards](https://laughingsquid.com/an-emoji-keyboard-cover-for-apple-macbooks-and-apple-wireless-keyboards/) - Plastic mat that goes over top of your MacBooks keyboard. The Emoji are full color but are sized too small and are ugly.
 - [Emoji macropad for Discord](https://www.youtube.com/watch?v=NGPvuCFWLNg) - Not the standard emoji but instead little pads with clear tops that you can add your own images into
 
-<img src="/public/uploads/2023/Emoji_macropad_for_discord.png" alt="Emoji_macropad_for_discord" style="margin: 10px; border: 1px solid black; padding: 5px"/>
+<img src="/public/uploads/2023/emoji_macropad_for_discord.png" alt="Emoji_macropad_for_discord" style="margin: 10px; border: 1px solid black; padding: 5px"/>
 
 ## Market
 
