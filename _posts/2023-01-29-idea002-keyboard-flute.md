@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Keyboard Flute
-date: '2023-01-29 00:01'
+date: '2023-01-29 00:02'
 categories: ideas
 tags: electronics, music, pdb, projects, ideas
 excerpt: Electronic Flute PCB - A product for music lovers and DIY enthusiasts alike. This PCB is designed to be a customizable electronic flute that uses a tiny mems microphone and several buttons to create sound
