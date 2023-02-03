@@ -15,9 +15,9 @@ Create a mobile of regular polyhedrons and other geometry shapes using paper cra
 
 ## Description
 
-I have always been [fascinated](https://www.instagram.com/p/2SmS2hA5YK/?taken-by=funvill) by regular [polyhedrons](http://en.wikipedia.org/wiki/Polyhedron) and paper craft. I would like to make a mobile that I can hang from the ceiling with several regular polyhedrons made from paper crafting.
+I have always been [fascinated](https://www.instagram.com/p/2SmS2hA5YK/?taken-by=funvill) by regular [polyhedrons](http://en.wikipedia.org/wiki/Polyhedron) and paper craft. In this project I would make a mobile that I can hang from the ceiling with several regular polyhedrons made from paper crafting.
 
-There are dozens of examples of this already. The [paper craft plans](https://www.polyhedra.net/en/) for each polyhedron are readily available online. It should just take time and lots of patients.
+There are dozens of examples of this already. The [paper craft plans](https://www.polyhedra.net/en/) for each polyhedron are readily available online. It just take time and lots of patients.
 
 <img src="/public/uploads/2023/regular-polyhedrons-mobile.png" alt="regular-polyhedrons-mobile" style="margin: 10px; border: 1px solid black; padding: 5px"/>
 
@@ -26,7 +26,8 @@ There are dozens of examples of this already. The [paper craft plans](https://ww
 - [Slide - Togethers polyhedrons](http://www.georgehart.com/virtual-polyhedra/slide-togethers.html)
 - [Polyhedra orbiting planetary mobile type thing](https://www.youtube.com/watch?v=5BjNiSbIdJY)
 - [Make a Beautiful Paper Polyhedron Mobile](https://crafts.tutsplus.com/tutorials/make-a-beautiful-paper-polyhedron-mobile--craft-4771)
+- [Mind-Blowing Modular Origami - The Art of Polyhedral Paper Folding](https://www.amazon.ca/Mind-Blowing-Modular-Origami-Polyhedral-Innovative/dp/4805313099)
 
-# Market
+## Market
 
 Math geeks, people that are looking for ‘smart’ toys for their kids. Paper craft nerds
