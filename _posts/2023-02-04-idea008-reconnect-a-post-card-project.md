@@ -15,11 +15,11 @@ People are disconnected more than ever and need a reason to reconnect with each 
 
 ### The problem
 
-People are more disconnected than ever, the pandemic has separated us from our communicates, friends and family. People who crossed paths every week now go months without seeing each other. Without the natural running into each other it's hard for people to reconnect to each other.
+<img src="/public/uploads/2023/postcards.png" alt="postcards" style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>People are more disconnected than ever, the pandemic has separated us from our communicates, friends and family. People who crossed paths every week now go months without seeing each other. Without the natural running into each other it's hard for people to reconnect to each other.
 
 ### The solution
 
-<img src="/public/uploads/2023/postcards.png" alt="postcards" style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>I have a bunch of extra postcards from the [Flocking AI](https://blog.abluestar.com/projects/2022-flocking-ai/) [Cultural crawl event](https://blog.abluestar.com/flockingai-eastside-culture-crawl-2022-post-mortem/). I can send them out in packages of 5 to friends and family. Include the following letter as instructions on what to do with the post cards. One of the postcards that I send will be self addressed back to me.
+I have a bunch of extra postcards from the [Flocking AI](https://blog.abluestar.com/projects/2022-flocking-ai/) [Cultural crawl event](https://blog.abluestar.com/flockingai-eastside-culture-crawl-2022-post-mortem/). I can send them out in packages of 5 to friends and family. Include the following letter as instructions on what to do with the post cards. One of the postcards that I send will be self addressed back to me.
 
 Letter to include with the post cards
 
