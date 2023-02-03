@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Reconnect a post card project
+title: Idea 8 - Reconnect a post card project
 date: '2023-02-02 00:08'
 categories: ideas
 tags: postcards art projects ideas

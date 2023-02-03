@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Procedurally generated Glowing Mushroom PCB
+title: Idea 6 - Procedurally generated Glowing Mushroom PCB
 date: '2023-02-02 00:06'
 categories: ideas
 tags: art mushroom projects ideas

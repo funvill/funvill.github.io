@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Cherry Blossom Profile Photo Booths
+title: Idea 1 - Cherry Blossom Profile Photo Booths
 date: '2023-01-28 00:01'
 categories: ideas
 tags: ideas photography projects

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Polyhedron Papercraft Mobile
+title: Idea 10 - Polyhedron Papercraft Mobile
 date: '2023-02-02 00:10'
 categories: ideas
 tags: papercraft art projects ideas

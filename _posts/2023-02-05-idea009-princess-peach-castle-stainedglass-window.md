@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Princess Peach castle stained glass window
+title: Idea 9 - Princess Peach castle stained glass window
 date: '2023-02-02 00:09'
 categories: ideas
 tags: stained-glass art projects ideas

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Scream Photo Booth 
+title: Idea 5 - Scream Photo Booth 
 date: '2023-02-01 00:05'
 categories: ideas
 tags: photo projects ideas

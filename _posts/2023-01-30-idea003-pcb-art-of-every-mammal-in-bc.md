@@ -1,6 +1,6 @@
 ---
 layout: single
-title: PCB Art of Every Mammal in BC
+title: Idea 3 - PCB Art of Every Mammal in BC
 date: '2023-01-30 00:03'
 categories: ideas
 tags: electronics pdb aniamls projects ideas

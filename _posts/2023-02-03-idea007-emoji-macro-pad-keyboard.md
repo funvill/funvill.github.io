@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Emoji Macro Pad Keyboard 
+title: Idea 7 - Emoji Macro Pad Keyboard 
 date: '2023-02-02 00:07'
 categories: ideas
 tags: keyboards projects ideas

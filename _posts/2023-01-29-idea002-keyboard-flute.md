@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Keyboard Flute
+title: Idea 2 - Keyboard Flute
 date: '2023-01-29 00:02'
 categories: ideas
 tags: electronics music pdb projects ideas

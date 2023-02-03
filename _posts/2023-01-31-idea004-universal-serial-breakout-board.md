@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Universal Serial breakout board
+title: Idea 4 - Universal Serial breakout board
 date: '2023-01-31 00:04'
 categories: ideas
 tags: projects ideas serial rs232 rs485 ttl db9 db25
