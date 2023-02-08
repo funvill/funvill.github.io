@@ -1,7 +1,7 @@
 
 ---
 layout: single
-title: Idea 12 - Speech to Text, always listening, ear badge 
+title: Idea 13 - Speech to Text,  always listening,  ear badge 
 date: '2023-02-02 00:11'
 categories: ideas
 tags: QS AI eletronics pcb art projects ideas
