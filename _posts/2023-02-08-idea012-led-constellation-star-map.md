@@ -34,7 +34,7 @@ List of all the commonly known constellations
 
 ## Prior art 
 
-Sky projectors https://www.space.com/best-star-projectors - There are plenty of sky constellations projectors that shine light onto your ceiling. These aren't what i am going for as they are a little childish 
+[Sky projectors](https://www.space.com/best-star-projectors) - There are plenty of sky constellations projectors that shine light onto your ceiling. These aren't what i am going for as they are a little childish 
 
 ## Market 
 
