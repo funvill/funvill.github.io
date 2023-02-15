@@ -16,7 +16,7 @@ A photo of Vancouver’s skyline with each building painted over in a different 
 
 ## Description
 
-Take a photo of Vancouver’s skyline from Queen Elizabeth park’s “The Photo Session” statue https://goo.gl/maps/twhBHQwfUqNC2FCFA. Divide the photo up by each building. Then paint over each building using a different art style. The scale and edges should line up with the building and lines of the next section. It should look like patches but with some cohesiveness to it. The sky, ground, water, can be divided into bans.
+Take a photo of Vancouver’s skyline from [Queen Elizabeth park](https://vancouver.ca/parks-recreation-culture/queen-elizabeth-park.aspx)’s [The Photo Session](https://goo.gl/maps/twhBHQwfUqNC2FCFA) statue. Divide the photo up by each building. Then paint over each building using a different art style. The scale and edges should line up with the building and lines of the next section. It should look like patches but with some cohesiveness to it. The sky, ground, water, can be divided into bans.
 
 Maybe see if we can use AI for each style of each section
 
