@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: Idea 17 - Traveling 3D printed sculptures
