@@ -30,3 +30,7 @@ Lots of coffee table books on buildings
 ## Market
 
 People with a childish sense of humor
+
+## Feedback
+
+- Add excess headroom. Like, at minimum always keep the top 1/3 to 1/2 of the frame as empty sky
