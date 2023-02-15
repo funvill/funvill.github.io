@@ -27,7 +27,7 @@ I know most of the great works have been throughly scanned already. I wonder if 
 
 ## Prior art
 
-- [Marble Cculpture Design With 3D Printing](https://marblising.com/marble-sculpture-design-with-3d-printing/)
+- [Marble Sculpture Design With 3D Printing](https://marblising.com/marble-sculpture-design-with-3d-printing/)
 - [Dafen Oil Painting Village in Shenzhen](https://www.chinahighlights.com/shenzhen/attraction/dafen-oil-painting-village.htm)
 - [3D Print 18,000 Famous Sculptures, Statues & Artworks: Rodin’s Thinker, Michelangelo’s David & More](https://www.openculture.com/2021/04/3d-print-18000-famous-sculptures-statues-artworks-rodins-thinker-michelangelos-david-more.html)
 
