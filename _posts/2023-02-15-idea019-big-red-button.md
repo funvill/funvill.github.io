@@ -15,7 +15,7 @@ Create a series of buttons with labels, install them around the city, see what o
 
 ## Description
 
-<img src="/public/uploads/2023/big-red-button.png" alt="Screaming" style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>Are people willing to push a big red button when they don’t know what the button is connected to or the consequences of pushing the button? Does labeling the button with something ominous and not descriptive increase or decrease the change that someone would push the button?
+<img src="/public/uploads/2023/big-red-button.png" alt="big-red-button" style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>Are people willing to push a big red button when they don’t know what the button is connected to or the consequences of pushing the button? Does labeling the button with something ominous and not descriptive increase or decrease the change that someone would push the button?
 
 This art project hopes to answer these questions in a creative, playful way.
 
