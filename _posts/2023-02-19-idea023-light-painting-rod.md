@@ -22,6 +22,7 @@ The addressable LED strip can be attached to a rod to be used in light painting.
 A bluetooth radio could be used to trigger the patterns remotely for when the LED strip is attached to something remote.
 
 <a href='https://www.motionexposure.com/'><img src="/public/uploads/2023/motionexposure.png" alt="Motion Exposure" title='Motion Exposure' style="margin: 10px; border: 1px solid black; padding: 5px"/></a>
+
 Motion Exposure by [Stephen Orlando](https://www.motionexposure.com/)
 
 ## Prior art
