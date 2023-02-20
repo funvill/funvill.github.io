@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 19 - Big Red Button
-date: '2023-02-13 00:19'
+date: '2023-02-15 00:19'
 categories: ideas
 tags: art projects ideas
 excerpt: Create a series of buttons with labels, install them around the city, see what ones get pushed most

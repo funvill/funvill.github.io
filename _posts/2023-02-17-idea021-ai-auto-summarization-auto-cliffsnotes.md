@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 21 - AI auto summarization / Auto cliffsnotes
-date: '2023-02-13 00:21'
+date: '2023-02-17 00:21'
 categories: ideas
 tags: productivity ai projects ideas
 excerpt: Use AI to summarize large amounts of information into brief notes and key points

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 22 - Translink map PCB
-date: '2023-02-13 00:22'
+date: '2023-02-18 00:22'
 categories: ideas
 tags: trains vancouver pcb leds projects ideas
 excerpt: A live interactive translink metro map of Vancouver using LEDs on a PCB
