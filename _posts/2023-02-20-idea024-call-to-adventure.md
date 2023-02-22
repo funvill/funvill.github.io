@@ -15,11 +15,11 @@ A mystery letter is delivered filled with puzzles that need to be solved in orde
 
 ## Description
 
-Create a letter that has a call to action “You have been chosen” to describe a scenario where they are needed to right a wrong that has happened in the world. Then say “To ensure that this letter has been delivered to the the right person, you must solve these problems three”
+<img src="/public/uploads/2023/pigpen.png " alt="pigpen" style="float: right;margin: 10px; border: 1px solid black; padding: 5px"/>Create a letter that has a call to action “You have been chosen” to describe a scenario where they are needed to right a wrong that has happened in the world. Then say “To ensure that this letter has been delivered to the the right person, you must solve these problems three”
 
 Where, When, Password
 
-The puzzles can be pretty easy: Pigpen cipher, caesar cipher, anagram, letter replacement with the periodic table, etc...  
+The puzzles can be pretty easy: [Pigpen cipher](https://en.wikipedia.org/wiki/Pigpen_cipher), [caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher), [anagram](https://en.wikipedia.org/wiki/Anagram), letter replacement with the periodic table, etc...  
 
 The letter gives the location, time and a password to a party for people who enjoy puzzles. Maybe the first meeting of the secret society of riddlers of vancouver.  
 
