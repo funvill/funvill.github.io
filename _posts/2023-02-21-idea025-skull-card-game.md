@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 25 - Skull card game
-date: '2023-02-20 00:25'
+date: '2023-02-21 00:25'
 categories: ideas
 tags: puzzles projects ideas
 excerpt: Laser cut or PCB fancy versions of the Skull card game
