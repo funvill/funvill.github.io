@@ -1,10 +1,10 @@
 ---
 layout: single
 title: Idea 27 - Print on demand Keyboard Keycaps
-date: '2023-02-21 00:27'
+date: '2023-02-22 00:27'
 categories: ideas
 tags: keyboards projects ideas
-excerpt: A website that lets users upload their own glyphs, images for the top of keycaps
+excerpt: A website that lets users upload their own glyphs images for the top of keycaps
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
@@ -21,9 +21,11 @@ A keyboard designer tool built into a website that allows users to build custom 
 
 - [Keycap profiles](https://keebnews.com/keycap-profiles/0): OEM, Cherry, SA, XDA, DSA, ASA, GK1, GK2, G20, MDA
 - Colors: Full RGB whatever the dye sublimation printer allows for
-- [dye sublimation](https://www.youtube.com/watch?v=jNZkzK4l0F8) vs double shot ABS vs Resin Cast
+- [Dye sublimation](https://www.youtube.com/watch?v=jNZkzK4l0F8), UV printing, Double shot ABS, Resin Cast
 - Opaque or semi transparent
 - Custom glyphs/images for the top of keycaps
+- Keycap Sets: full-size, tenkeyless, or 60%, etc...
+- Material: ABS or PBT plastic, or even keycaps made of metal or wood
 
 3rd party artists can upload their own patterns and sell them for a profit.
 

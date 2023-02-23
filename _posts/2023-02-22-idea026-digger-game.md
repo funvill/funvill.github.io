@@ -150,11 +150,11 @@ The Gravel resource counter has a “1” in it.
 
 Roads need to be made between the mine and the warehouses on the surface. Other players may not use your roads. You can block people from resources by putting down roads.
 
-When a mineral is discovered a resource counter is placed on it. A number from 1-6, if this number is rolled then the resource pays out. To whomever is mining the site at the time. 
+When a mineral is discovered a resource counter is placed on it. A number from 1-6, if this number is rolled then the resource pays out. To whomever is mining the site at the time.
 
 Only one player can mine a site at a time, the player can use multiple workers to mine a site to increase its payout. To mine a site they need to claim it by moving a digger to it. The payout can be further increased by upgrading the digger.
 
-Diggers can be moved to new mining sites, If there is no digger on a mineral deposit then it is “unclaimed” and someone else can claim it. Diggers must be placed on a mining site. 
+Diggers can be moved to new mining sites, If there is no digger on a mineral deposit then it is “unclaimed” and someone else can claim it. Diggers must be placed on a mining site.
 
 Workers are cheap, we expect that a game will have dozens of workers.
 
