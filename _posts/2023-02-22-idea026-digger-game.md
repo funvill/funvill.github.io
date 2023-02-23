@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 26 - Digger game
-date: '2023-02-21 00:26'
+date: '2023-02-22 00:26'
 categories: ideas
 tags: puzzles projects ideas
 excerpt: Resource management, worker placement, exploration tile game. 
@@ -30,7 +30,7 @@ These are the actions that a worker can perform.
 
 - **Build Road** - Put a road tile down on the map. If the road meets the end of the map, flip a newly discovered tile over.
   - Building roads consumes gravel resources.
-  - Roads can be built in parallel, meaning if another player already build a road on this segment you can’t.
+  - Roads can't be built in parallel, meaning if another player already build a road on this segment you can’t.
 - **Move a digger** - Put a digger on an unclaimed mineral tile, or move a digger from one claim to another
   - This claims the mineral for yourself.
   - A road must be constructed from the warehouse to the mineral tile before you are able to claim it.
@@ -171,3 +171,7 @@ Upgrading diggers requires minerals, when a digger is upgraded they extract more
 ## Market
 
 Boardgame lovers
+
+## Feedback
+
+- I would call it the Excavator Game. kids books always call excavators diggers. Kids always play games switching sounds around. And let me tell you. you only have to hear your kid invent the n word one time. To be like "WE CALL THEM EXCAVATORS IN THIS HOUSE!" (this really happened)
