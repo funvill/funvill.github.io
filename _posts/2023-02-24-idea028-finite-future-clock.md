@@ -15,7 +15,7 @@ Experience the passage of time in a new light with our death clock - a stunning 
 
 ## Description
 
-A large panel of LEDs that shows a progress bar of how much of your life has passed and an estimate on how much time is left. Hopefully to motivate people to make the best of our every day. 
+<img src="/public/uploads/2023/finite-future-clock.png" alt="finite-future-clock" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>A large panel of LEDs that shows a progress bar of how much of your life has passed and an estimate on how much time is left. Hopefully to motivate people to make the best of our every day.
 
 ### Look and feel
 

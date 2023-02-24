@@ -15,7 +15,7 @@ Laser cut or PCB fancy versions of the Skull card game
 
 ## Description
 
-<img src="/public/uploads/2023/skull.png " alt="Skull" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The [Skull card game](https://boardgamegeek.com/boardgame/92415/skull) only has 2 unique pieces for each player.  3x cards with a flower face and 1x cards with a skull face. The backside of all the cards are the same.
+<img src="/public/uploads/2023/skull.png" alt="Skull" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The [Skull card game](https://boardgamegeek.com/boardgame/92415/skull) only has 2 unique pieces for each player.  3x cards with a flower face and 1x cards with a skull face. The backside of all the cards are the same.
 
 I want to design my own skull cards using either a laser cutter, or manufacture them with PCBs. The design can be very intricate and personalized by me. Instead of a flower I can use a bird. Instead of a skull I can use a kitty.
 
