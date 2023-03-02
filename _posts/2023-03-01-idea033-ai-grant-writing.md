@@ -39,8 +39,8 @@ Eventually this tool could be expanded to work with many different grant types. 
 
 ## Prior art
 
-[We Asked GPT-3 to Write an Academic Paper about Itself—Then We Tried to Get It Published](https://www.scientificamerican.com/article/we-asked-gpt-3-to-write-an-academic-paper-about-itself-mdash-then-we-tried-to-get-it-published/)
-[EssayGenius | AI Powered Essay Writing](https://essaygenius.ai/#!)
+- [We Asked GPT-3 to Write an Academic Paper about Itself—Then We Tried to Get It Published](https://www.scientificamerican.com/article/we-asked-gpt-3-to-write-an-academic-paper-about-itself-mdash-then-we-tried-to-get-it-published/)
+- [EssayGenius | AI Powered Essay Writing](https://essaygenius.ai/#!)
 
 ## Market
 
