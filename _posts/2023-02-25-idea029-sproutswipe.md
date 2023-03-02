@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 29 - SproutSwipe 
-date: '2023-02-22 00:29'
+date: '2023-02-25 00:29'
 categories: ideas
 tags: nature plants app projects ideas
 excerpt: Use cell phone sensors to create a filtered list of suitable plants for a space then show the plants using Augmented Reality. Dating app for plants
@@ -45,8 +45,7 @@ Plant Size and Growth Rate: Some plants grow tall, while others spread out horiz
 
 Plant Care Information: Once a user has selected a plant, you could provide them with information on how to care for it. This could include watering schedules, pruning instructions, and information on fertilizers and pesticides. This could be shown on the tinder like profile (Swipe down)
 
-A plant recommendation engine.
-Really play up the dating app functionality for plants.
+A plant recommendation engine. Really play up the dating app functionality for plants.
 
 ## Prior art
 
