@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 34 - 20 questions for people
-date: '2023-03-01 00:34'
+date: '2023-03-02 00:34'
 categories: ideas
 tags: questions quiz ai projects ideas
 excerpt: A website that asks you 20 questions and tries to uniquely identify you in the world What are the optimal questions to ask?
@@ -29,7 +29,7 @@ The current population of earth is [8,019,581,782](https://www.worldometers.info
 
 [419,070,540](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population) is the amount of people in the world where English is their first language. This is 29 bits of information or 29 questions. A lot more reasonable.
 
-We don’t actually need to know who the person is. We just want to know what the best questions to ask are. This means that this website can be anonymous. After answering a question it shows you how unique your answers are so far compared to the previous people. 
+We don’t actually need to know who the person is. We just want to know what the best questions to ask are. This means that this website can be anonymous. After answering a question it shows you how unique your answers are so far compared to the previous people.
 
 The question database would start off small with only the questions that I can come up with. If a person answers 20s questions without the system being able to fingerprint them (100% unique answers to all 20 questions) then the user is given the option to add their own question to the database.
 
