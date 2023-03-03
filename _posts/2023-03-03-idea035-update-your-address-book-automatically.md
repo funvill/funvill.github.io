@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Idea 35 - Update your address book automaticly
+title: Idea 35 - Update your address book automatically
 date: '2023-03-01 00:35'
 categories: ideas
 tags: contacts projects ideas
