@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 35 - Update your address book automatically
-date: '2023-03-01 00:35'
+date: '2023-03-03 00:35'
 categories: ideas
 tags: contacts projects ideas
 excerpt: Get your contacts to update their information in your address book
@@ -27,10 +27,25 @@ Personally I would never give access to my address book to a third party. I assu
 
 There might be some legal issues here in a 3rd party contacting people to update their information. Although we would get permission from the person that wants to send these emails out.
 
+### Edit
+
+Reverse the action instead of you asking for an update you push your contact
+
+Centralize the address book into a website.
+
+- "User A" Creates an account on this address book website.
+- Then updates their own information.
+- Then selects who in their own contact book should receive updates when they change their own information.
+- "User B" receives a email from address book website with the updated contact information for "User A". Included in the email is a call to action telling "User B" to use the address book website to keep their contact information up to day.
+- If "User A" and "User B" both use the address book website then when "User A" updates their contact, "user B" automatically gets the update without an email. (The world is better place)
+- If "User B" doesn't join the address book website then they will forever get notifications from "User A" when he updates his contact info. (punishment for not making the world a better place)
+- "User B" can opt out of reciving updates from Everyone or just "User A"
+
 ## Prior art
 
 - [Linkedin](https://www.linkedin.com/) is the de facto contact list for business but it gets overwhelmed with spam pretty quickly. It's not useful for personal contact information.
 - [How Do You Ask For Contact Details In An Email?](https://everyday-courtesy.com/how-do-you-ask-for-contact-details-in-an-email/) - some general tips and tricks to how to ask for people's contact info.
+- [Keybase](https://keybase.io/)
 
 ## Market
 
