@@ -15,7 +15,7 @@ Light shines through colored glass that rotates to produce washes of colors on t
 
 ## Description
 
-<img src="/public/uploads/2023/kaleidoscope.png" alt="kaleidoscope" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>A chandelier with normal down facing lights for normal usage. A special mode that would turn it into a kaleidoscope that projects a wash of colored light onto the ceiling above.
+<img src="/public/uploads/2023/kaleidoscope2.png" alt="kaleidoscope" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>A chandelier with normal down facing lights for normal usage. A special mode that would turn it into a kaleidoscope that projects a wash of colored light onto the ceiling above.
 
 A small slow moving motor rotates a kaleidoscope so that the patterns slowly change over time. There should be several point sources of light and kaleidoscope tubes, so that the ceiling above the chandelier has a full 360 slash of light. No shadows from the mourning bracket for the chandelier.
 
