@@ -19,7 +19,7 @@ In this game the theme is “growth”. You get bigger, more complex, you face e
 
 ### Simple Bacteria
 
-The game starts out and you are a simple bacteria. The smallest living organism that we know about. You only have one stat to start “movement”. The movement stat starts at “1”. Top down view. Fog of war, nothing on the screen. As you move around your movement stat increases. After the first 10 steps, your movement stat increases to “2” and you can move a little faster. 100 more steps for level 3 movement, etc… As you explore the fog of war slowly disappears around you. You find things in your world. Sunshine, physically smaller bacteria, etc… Depending on what you do with your simple bacteria will determine the next phase of life.
+<img src="/public/uploads/2023/group-bacteria.png" alt="group-bacteria" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The game starts out and you are a simple bacteria. The smallest living organism that we know about. You only have one stat to start “movement”. The movement stat starts at “1”. Top down view. Fog of war, nothing on the screen. As you move around your movement stat increases. After the first 10 steps, your movement stat increases to “2” and you can move a little faster. 100 more steps for level 3 movement, etc… As you explore the fog of war slowly disappears around you. You find things in your world. Sunshine, physically smaller bacteria, etc… Depending on what you do with your simple bacteria will determine the next phase of life.
 
 ### Sunshine Bacteria
 
