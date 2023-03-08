@@ -23,8 +23,8 @@ You play the birth mother of single cell organisms that produce your army. You c
 
 There are two types of units. A farmer and a warrior.
 
-The farmer goes out onto the battlefield, finds a sunny spot and starts farming energy. The energy is automatically returned to the birth mother. The farmers are eaten/killed when an enemy touches them.
-The warrior goes out onto the battlefield, and attacks the enemies farmers, warriors, and if it gets through all the differences it attacks the enemies birth mother to win the game.
+- The farmer goes out onto the battlefield, finds a sunny spot and starts farming energy. The energy is automatically returned to the birth mother. The farmers are eaten/killed when an enemy touches them.
+- The warrior goes out onto the battlefield, and attacks the enemies farmers, warriors, and if it gets through all the differences it attacks the enemies birth mother to win the game.
 
 <img src="/public/uploads/2023/warrior2-bacteria2.png" alt="warrior2-bacteria2" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>Each unit starts with 3 heath, speed of 1. Farmers produce 1 energy. Warriors do 1 damage per second.
 
