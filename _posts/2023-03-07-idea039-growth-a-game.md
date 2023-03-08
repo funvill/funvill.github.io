@@ -69,3 +69,7 @@ If you are a hunter bacteria, as you grow in size. You bacteria should have cart
 ## Market
 
 Gamers
+
+### Feedback
+
+- I can envision something like D&D classes.  For viral level, you can choose between pathogen (destroy the competition), parasitic (become the competition), or immunity (build up yourself and destroy the competition).  Then mutate to bacteria.  Or something.  I'm sure my gross misunderstanding of basic physiology is obvious, but you get the idea.
