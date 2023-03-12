@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Idea 44 - BACnet MSTP Testing conference Badge
+title: Idea 43 - BACnet MSTP Testing conference Badge
 date: '2023-03-10 00:43'
 categories: ideas
 tags: electronics conference projects ideas
