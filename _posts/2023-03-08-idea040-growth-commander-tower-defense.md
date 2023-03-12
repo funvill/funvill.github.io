@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 40 - Growth Commander - Tower defense 
-date: '2023-03-07 00:40'
+date: '2023-03-08 00:40'
 categories: ideas
 tags: games projects ideas
 excerpt: Your incharge of mutations and creation of your army You send your army out to collect food and battle enemies Tower defense style game without towers.

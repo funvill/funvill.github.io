@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 41 - BioPunks Garden
-date: '2023-03-07 00:41'
+date: '2023-03-09 00:41'
 categories: ideas
 tags: games projects ideas
 excerpt: Youre a Biopunk building their garden by selectively breeding for DNA markers in plants

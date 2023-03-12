@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 42 - GPIO tester breakout board
-date: '2023-03-07 00:42'
+date: '2023-03-10 00:42'
 categories: ideas
 tags: electronics projects ideas
 excerpt: A 8 position dip switches breakout board
@@ -15,7 +15,7 @@ A 8 position dip switches breakout board
 
 ## Description
 
-<img src="/public/uploads/2023/dip_switches.png" alt="dipswitches" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>I have been developing some electronic boards using development boards. It would be useful for my current project to have a breakout board that can be used for GPIO testing
+<img src="/public/uploads/2023/dip_switches2.png" alt="dipswitches" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>I have been developing some electronic boards using development boards. It would be useful for my current project to have a breakout board that can be used for GPIO testing
 
 There would be 8 switches that have the following states
 
@@ -27,3 +27,7 @@ There would be 8 switches that have the following states
 Each switch connect to a pin header, VIN, GND
 
 Boring little device but it would have saved me a couple hours of testing this week.
+
+## Prior art
+
+- [PMOD DIP Switch](https://1bitsquared.com/collections/fpga/products/pmod-dip-switch) - Exactly what I am looking for. Just buy this instead.
