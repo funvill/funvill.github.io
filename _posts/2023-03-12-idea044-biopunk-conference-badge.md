@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 44 - Bio Punk Conference badge
-date: '2023-03-10 00:44'
+date: '2023-03-12 00:44'
 categories: ideas
 tags: electronics conference projects ideas
 excerpt: A convention badge for BACnet plugfest that is useful for testing
@@ -24,7 +24,7 @@ Connectors on the side of the badge that lets you connect two badges together. W
 
 The board's genes and breeding follow the [idea041 BIO Punks Garden](https://blog.abluestar.com/idea041-biopunks-garden) methods.
 
-Every time the badge connects and mixes with another badge, the electron pet gains more options and features. This encourages participants to mix the DNA of their digital pets as much as possible to gain more features. 
+<img src="/public/uploads/2023/digital_pet4.png" alt="digital_pet4" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>Every time the badge connects and mixes with another badge, the electron pet gains more options and features. This encourages participants to mix the DNA of their digital pets as much as possible to gain more features.
 
 When two badges are connected together the LED matrix shows the current DNA of each pet. The main display of the board is a 16x16 LED grid
 
@@ -66,7 +66,7 @@ The more you use a sensor it directs the way that it evolves. Bounce the badge u
 Temperature sensor, accelerometer/gyro, microphone, screen to show the "pet" evolving
 
 ## Prior art
-<img src="/public/uploads/2023/digital_pet4.png" alt="digital_pet4" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>
+
 - [DNA Conference Badge](https://www.youtube.com/watch?v=Q9mJOtU8WjQ) - I love the look of this badge for the DNA connector.
 - [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi)
 - [Arduinogotchi](https://hackaday.io/project/184723-arduinogotchi)
