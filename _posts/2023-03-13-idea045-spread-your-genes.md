@@ -24,6 +24,8 @@ When you join the game you are given a glyph that represents your DNA. This glyp
 
 The glyph is a modified QR code that looks alien in origin and should be instantly recognizable for anyone who has played the game, but is nonsense to anyone who hasn’t (secret knowledge)
 
+> This feels like more of a game mechanic then a actual game. It feels spammy more then fun. It needs more then this.
+
 ### Goals
 
 The goal is to spread your DNA to the largest number of dissimilar offspring as possible.
