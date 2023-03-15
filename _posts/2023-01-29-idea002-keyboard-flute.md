@@ -55,12 +55,12 @@ Settings will be stored on a file on the SC card. The PCB also includes a series
 What has already been done in this field, where can I draw ideas from,
 
 - [Picoplanet](https://www.tindie.com/products/bleeptrack/picoplanet/) has a procedurally generated touch pad, that looks similar.
-
-- [Zelda “Ocarina of time”](https://www.youtube.com/watch?v=w84tT7SJ3PY )
+- [haxophone](https://github.com/jcard0na/haxo-hw) - [HackADay](https://hackaday.com/2023/03/14/mechanical-keyboard-as-travel-saxophone/) post
+- [Zelda “Ocarina of time”](https://www.youtube.com/watch?v=w84tT7SJ3PY)
 
 ## Market
 
-Keyboard fetishes, synthesizer nut jobs, geeks, macro pad enthusiasts. 
+Keyboard fetishes, synthesizer nut jobs, geeks, macro pad enthusiasts.
 I don’t think the market size is that large as it is a very specialized product. Maybe in the few hundred people level.
 
 ## Feedback
