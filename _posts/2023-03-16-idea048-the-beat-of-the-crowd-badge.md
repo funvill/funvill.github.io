@@ -33,6 +33,7 @@ It could be used for fetishes. You know someone around you at a music festival i
 
 - The badge could vibrate when it recives other badges, in addtion to the light pulses.
 - Distance measurement: The badge could use Bluetooth signal strength to estimate the distance between itself and nearby badges. Then the light pattern could visulize the distance so people can find each other in the crowds.
+- Bonus points if it is a heart rate monitor, and they create some kind of effect with crowds getting closer together and with elevated heart rates
 
 ## Prior art
 
