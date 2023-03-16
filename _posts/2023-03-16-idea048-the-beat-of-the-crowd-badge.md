@@ -1,11 +1,13 @@
 ---
 layout: single
 title: Idea 48 - The beat of the crowd - badge
-date: '2023-03-12 00:48'
+date: '2023-03-16 00:48'
 categories: ideas
 tags: pdb projects ideas
 excerpt: Radio badge that pulses when other badges are nearby
 ---
+
+> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -23,7 +25,7 @@ The pulse animation can be based on several different features of the bluetooth 
 
 The ID could be used to identify people of the same group randomly around the world. Say you are part of a geocaching group and you wear your badge to a music festival unrelated to geocaching and your badge starts to pulse. You know your people are nearby and you can seek each other out for a conversation.
 
-It could be used for fetishes. You know someone around you at a music festival is into the same fetish you are and is open to meeting up with other people who are also interested. Like [Horga'hn statue](https://memory-alpha.fandom.com/wiki/Horga%27hn) in Star Trek
+It could be used for fetishes. You know someone around you at a music festival is into the same fetish you are and is open to meeting up with other people who are also interested. Simlare to [Horga'hn statue](https://memory-alpha.fandom.com/wiki/Horga%27hn) from Star Trek
 
 > A horga'hn was a statuette that served as a fertility symbol on Risa, and represented the Risian symbol of sexuality. It came in many sizes, from small carvings to statues to a hotel with a giant horga'hn built into it. It was believed that to own one was to call forth its powers. Displaying one publicly indicated that one was seeking jamaharon, a mysterious and pleasurable practice native to that world.
 
