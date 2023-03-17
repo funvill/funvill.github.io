@@ -48,7 +48,7 @@ We pitch it to the consumers that they are being paid for honest reviews.
 ### As the service
 
 - We charge the restaurants the same amount we would pay out to the consumers. $15
-- We only review the submissions at the end of the challenge.
+- We only review the submissions at the end of the challenge. Don't give the consumers any feedback until the end.
 - We don’t pay consumers who
   - Don’t complete all 10 restaurant reviews within a timeline. If they only review 5 restaurants of the 10, they don’t get paid anything.
   - Didn’t follow the criteria for the review. At least 200 words long, Mention these things, submit within 24 hours of the date on the receipt.
@@ -58,6 +58,8 @@ We pitch it to the consumers that they are being paid for honest reviews.
 We make money because people are bad at following directions, reading the small print, and keeping up with daily challenges.
 
 We have incentive to make our system more draconian over time. Make it harder for these people to complete the challenge. We are betting against the consumers.
+
+We can tell them what our deal is. Explane all the rules in an single document that we send to them when they start. We don't lie. They have to accept our terms.
 
 Maybe we make the restaurants on different sides of the city, or select restaurants that are very busy and you need to make reservations weeks in advance. Or have a restaurant in the group that only has expensive meals +$50 so they can’t keep it economically. Or require a selphy infront of the restaurants sign. We get to try and think of ways to make it harder and harder each time.
 
