@@ -15,7 +15,6 @@ A electronic badge that lets you mix your badge’s pet’s DNA with others
 
 ## Description
 
-
 <img src="/public/uploads/2023/digital_pet1.png" alt="digital_pet1" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>A conference badge that has an animated electronic pet on the front of it. This can be either a small LCD screen or a LED matrix. If it's a matrix then the LEDs should be the small 10mm ones in a tight array of at least 16x16, preferably 32x32 so that better higher resolution pets can be animated.
 
 The electronic pets visualization and mannerisms of the pet are dictated by its DNA/genes.

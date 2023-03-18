@@ -1,11 +1,13 @@
 ---
 layout: single
 title: Idea 49 - Cheap meals if you follow directions
-date: '2023-03-16 00:48'
+date: '2023-03-17 00:48'
 categories: ideas
-tags: pdb projects ideas
+tags: saas projects ideas
 excerpt: Betting against consumers on human nature
 ---
+
+> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -63,10 +65,15 @@ We can tell them what our deal is. Explane all the rules in an single document t
 
 Maybe we make the restaurants on different sides of the city, or select restaurants that are very busy and you need to make reservations weeks in advance. Or have a restaurant in the group that only has expensive meals +$50 so they can’t keep it economically. Or require a selphy infront of the restaurants sign. We get to try and think of ways to make it harder and harder each time.
 
+### Unsorted
+
+- Review bombs - People get cheated out of the money, and they go back and change their review to a negative one.
+
 ## Prior art
 
 - Almost any rewards program relies on people not using their rewards.
 - Groupon
+- Mail in rebates
 
 ## Market
 
