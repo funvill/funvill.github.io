@@ -34,6 +34,7 @@ Use a [ESP32](https://www.espressif.com/en/products/socs/esp32) for the brains, 
 - [Serenity: An origami wall sculpture](https://charlyn.codes/origami-wall-art/) - Includes LEDs but not every title has its own LED, and it uses pyramids instead of stars.
 - [Origami Sacred Geometry](http://cocosato.co.uk/portfolio/origami-sacred-geometry/) - Tiling, tessellating, module Origami in similar shapes.
 - [Kinga kubowicz’s Moduuli](https://www.re-thinkingthefuture.com/article/kinga-kubowicz-has-created-moduuli-a-collection-of-geometric-origami-wall-art/) - The shape I am looking for. The paper already has the shape and uses staples to connect each section. A lot easier to manufacture than traditional Origami.
+- [Video on how to make piramide](https://www.youtube.com/watch?v=0yioThqkxvg)
 
 ## Market
 
