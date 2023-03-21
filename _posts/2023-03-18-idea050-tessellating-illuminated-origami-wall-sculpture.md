@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 50 - Tessellating Illuminated Origami Wall Sculpture
-date: '2023-03-17 00:50'
+date: '2023-03-18 00:50'
 categories: ideas
 tags: art origami tessellating led projects ideas
 excerpt: Origami Sacred Geometry + Individually addressable RGB LEDs + Wall Sculpture + interactive
@@ -39,3 +39,10 @@ Use a [ESP32](https://www.espressif.com/en/products/socs/esp32) for the brains, 
 ## Market
 
 People who want interactive beautiful wall sculptures that display information as well as pretty colors.
+
+## Implementation
+
+- [Prototype 2](https://www.instagram.com/p/CqAPSS0Oa6i/)
+- [Prototype 1](https://www.instagram.com/p/CqAKRklum_4/) - Fail
+- Animation of [how to fold the segments](https://images.squarespace-cdn.com/content/v1/53566d65e4b0b45ae5d4fefd/1416584597050-0ZXT6DJWA4U82ADIUNCO/05_Folding-the-module_web.gif?format=1000w)
+- [Printable files of the segments](https://github.com/funvill/tiling-lasercutter/tree/main/star)
