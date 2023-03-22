@@ -4,8 +4,8 @@ Source code for [blog.abluestar.com](https://blog.abluestar.com/) using [Minimal
 
 ## How to test
 
-From ubuntu
+From ubuntu or WSL
 
 ```bash
-bundle exec jekyll serve
+bundle exec jekyll serve --force_polling --incremental
 ```
