@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 53 - HTML and CSS photo book for Blurb
-date: '2023-03-20 00:53'
+date: '2023-03-21 00:53'
 categories: ideas
 tags: books publishing projects ideas
 excerpt: Instead of using Blurb publishing tools create the book using HTML and CSS
