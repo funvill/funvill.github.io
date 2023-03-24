@@ -48,10 +48,11 @@ Examples of [Penrose tiling](https://en.wikipedia.org/wiki/Penrose_tiling) in th
 <img src="/public/uploads/2023/danzers-7-fold-original.png" alt="danzers-7-fold-original" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>There are many other examples of different tiling that would be more interesting than the normal tiles used for kitchen backsplash and bathroom tiling. Here are a few more examples
 
 - [Monnier Trapezium and Diamond](https://tilings.math.uni-bielefeld.de/substitution/monnier-trapezoid-diamond/) - uses a trapezium and a rhomb
-- [Ammann-Beenker](https://tilings.math.uni-bielefeld.de/substitution/ammann-beenker/) - aperiodic tiles, 8 fold symmetry
+- [Ammann-Beenker](https://tilings.math.uni-bielefeld.de/substitution/ammann-beenker/) - Aperiodic tiles, 8 fold symmetry
 - [Danzer's 7-fold original](https://tilings.math.uni-bielefeld.de/substitution/danzers-7-fold-original/) - 14-fold symmetry
 - [Semi-detached House](https://tilings.math.uni-bielefeld.de/substitution/semi-detached-house/) - Weird and interesting.
 - [Wanderer (rotations)](https://tilings.math.uni-bielefeld.de/substitution/wanderer-rot/) - Simple square rotation.
+- [Quartic pinwheel](https://tilings.math.uni-bielefeld.de/substitution/quartic-pinwheel/) - Complex but interseting.
 - [More](https://tilings.math.uni-bielefeld.de/glossary/with-decoration/) - A whole bunch of other interesting tiling shapes
 
 Inspiration for this post came from this hackernews post [Mathematicians discover shape that can tile a wall and never repeat ](https://news.ycombinator.com/item?id=35273707)
