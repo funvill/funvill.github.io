@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Idea 58 - A quotable book in a million parts
+title: Idea 58 - In a million parts
 date: '2023-03-26 00:58'
 categories: ideas
 tags: art projects ideas

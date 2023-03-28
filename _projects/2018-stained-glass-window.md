@@ -6,6 +6,8 @@ header:
   teaser: /public/uploads/teaser_2018_StainedGlassWindows.png
 ---
 
+**Update:** Slides from [Digital Stained Glass Window Workshop](https://docs.google.com/presentation/d/1YAHR-W0YQaDec0vNDCcos4BVWG70-1gieS_fc73EP40/edit#slide=id.g6357a36643_1_98)
+
 A series of geometric, illuminated, digital stained glass windows. Each window is illuminated with dynamic, colorful, patterns that create unique animations in the glass.
 
 The lights of each window has been custom-programmed by an ever-evolving algorithm, producing unique patterns that guarantee a visual experience that is both singular, and profoundly logical, seeding the observer's mind and heart with a profound sense of wonder.

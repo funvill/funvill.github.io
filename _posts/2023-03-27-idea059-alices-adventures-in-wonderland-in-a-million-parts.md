@@ -15,7 +15,7 @@ Stained glass windows for each location in Alice's Adventures in Wonderland
 
 ## Description
 
-This idea is based on [Idea 58 - A quotable book in a million parts](/idea058-a-quotable-book-in-a-million-parts/). Making transformative art projects from a book split into many different parts.
+This idea is based on [Idea 58 - In a million parts](/idea058-a-quotable-book-in-a-million-parts/). Of splitting a written work into many parts and making transformative art from each part.
 
 <img src="/public/uploads/2023/cheshire-cat-stained-glass.png" alt="cheshire-cat-stained-glass" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The book [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass) could be split up into sections for each location. There are about 12 different locations.
 
