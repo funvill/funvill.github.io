@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 58 - A quotable book in a million parts
-date: '2023-03-25 00:58'
+date: '2023-03-26 00:58'
 categories: ideas
 tags: art projects ideas
 excerpt: Transformative art series based on quotable lines from books, movies, or songs
@@ -61,9 +61,11 @@ We shouldn’t have to worry about copyright issues, as this new work should be 
 
 ### Example of transformative works
 
-There are many examples of how to transform the source artwork into something else. I am going to use “this idea (068)” as the basis for the next couple of days of [ideas](https://blog.abluestar.com/projects/2023-100-ideas/).
+There are many examples of how to transform the source artwork into something else. I am going to use “this idea (058)” as the basis for the next couple of days of [ideas](https://blog.abluestar.com/projects/2023-100-ideas/).
 
-#### Idea 068
+- [Day 059](/idea059-alices-adventures-in-wonderland-in-a-million-parts) - **Alices Adventures in Wonderland in a million parts** - Stained glass windows for each location in Alice's Adventures in Wonderland
+
+#### Idea 058
 
 <img src="/public/uploads/2023/ink-tree.png" alt="ink-tree" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The album [BRAT](https://en.wikipedia.org/wiki/Brat_(album)) by [Nnamdi](https://en.wikipedia.org/wiki/Nnamdi_Ogbonnaya) is one of my favorite albums of 2022. It's basically been on repeat for 12 months. It's poetica and easily quotable. The song [Flowers To My Demons](https://genius.com/Nnamdi-flowers-to-my-demons-lyrics)
 
@@ -76,14 +78,14 @@ Selecting the right input body of work needs to be carefully thought about as we
 This is no way an exhaustive list, just what I could think of off the top of my head. Open to suggestions.
 
 - [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass) - Classic and whimsical, and has a lot of depth. This would make a good choice. The original [Intaglio](https://en.wikipedia.org/wiki/Intaglio_(printmaking)) prints were wonderful.
-- [The Princess Bride by William Goldman](https://www.goodreads.com/book/show/21787.The_Princess_Bride) - Huge cult classic, infinitely quotable, Beautiful themes and ideas. Both the book and the movie are masterpieces. “I do not think that word means what you think it means”, “Hello, my name is Inigo Montoya, you killed my father, prepare to die”
-- [On the Road - Jack Kerouac, 1957](https://www.goodreads.com/book/show/70401.On_the_Road) - Very quotable, A book that has been on everyone's bookshelf but no one reads. The dream of hitting the road and running away is a strong culture these days. People would but transformative artworks based on this martial to sound smart. I don’t think it's for me as I feel the people who read and quote this book are not the people I want to be associated with. Its the [Rick and Morty](https://www.imdb.com/title/tt2861424/) problem, the show is good but the fans are assholes. “The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars.”
-- [Fear and Loathing in Las Vegas by Hunter S. Thompson](https://www.goodreads.com/book/show/7745.Fear_and_Loathing_in_Las_Vegas) - Wonderful verse and gripping text. Every word that comes out of Hunter S. Thompson feels meaningful. Heavy drug presence in his work that is very relatable to people that might buy the transformative artwork. "We were somewhere around Barstow on the edge of the desert when the drugs began to take hold"
+- [The Princess Bride by William Goldman](https://www.goodreads.com/book/show/21787.The_Princess_Bride) - Huge cult classic, infinitely quotable, Beautiful themes and ideas. Both the book and the movie are masterpieces. *“I do not think that word means what you think it means”, “Hello, my name is Inigo Montoya, you killed my father, prepare to die”*
+- [On the Road - Jack Kerouac, 1957](https://www.goodreads.com/book/show/70401.On_the_Road) - Very quotable, A book that has been on everyone's bookshelf but no one reads. The dream of hitting the road and running away is a strong culture these days. People would but transformative artworks based on this martial to sound smart. I don’t think it's for me as I feel the people who read and quote this book are not the people I want to be associated with. Its the [Rick and Morty](https://www.imdb.com/title/tt2861424/) problem, the show is good but the fans are assholes. *“The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars.”*
+- [Fear and Loathing in Las Vegas by Hunter S. Thompson](https://www.goodreads.com/book/show/7745.Fear_and_Loathing_in_Las_Vegas) - Wonderful verse and gripping text. Every word that comes out of Hunter S. Thompson feels meaningful. Heavy drug presence in his work that is very relatable to people that might buy the transformative artwork. *"We were somewhere around Barstow on the edge of the desert when the drugs began to take hold"*
 - [The Little Prince](https://en.wikipedia.org/wiki/The_Little_Prince) - I have wonderful memories of this book as a child. A book that formed my childhood and outlook on society and life. I have very strong feelings about this book and I assume others do as well. I would find it very hard to make transformative works that are “worthy” of this source material.
 - [Slaughterhouse 5 - Kurt Vonnegut](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five) - Quotable, weird and interesting, Cult classic with a dedicated fan base. Easy to make transformative works.
 - [The Hitchhiker’s Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) - Infinitely quotable, cult classic, dedicated fan base. I think there are enough transformative works for this source material already. It would be hard to stand out in the crowd.
 - [Airplane!](https://en.wikipedia.org/wiki/Airplane!) - Quotable, inside the crowd will know where the quote is from but the general public might not. This has the advantage of secret knowledge, being part of the inside crowd. “Shirly you can't be serious”, “Looks like I picked the wrong day to give up sniffing glue!”
-- [Monty Python and the Holy Grail](https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail) - Infinitely quotable, cult classic, dedicated fan base. Over done in the same way that Hitchhiker’s Guide to the Galaxy is. “Who's that then? I dunno, must be a king. Why? He hasn't got shit all over him.”, “Strange women lying in ponds distributing swords is no basis for a system of government”
+- [Monty Python and the Holy Grail](https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail) - Infinitely quotable, cult classic, dedicated fan base. Over done in the same way that Hitchhiker’s Guide to the Galaxy is. *“Who's that then? I dunno, must be a king. Why? He hasn't got shit all over him.”, “Strange women lying in ponds distributing swords is no basis for a system of government”*
 - [Nirvana – Nevermind (1991)](https://en.wikipedia.org/wiki/Nevermind) - Very few albums can say that they defined a generation, and Nevermind is absolutely one of them. I don’t know if I could do justice to this album.
 - [Pink Floyd - Dark Side Of The Moon (1973)](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon) - Amazing lyrics and influenced many other artists for generations to come. Made before I was born, I don’t know if I could do justice to this album.
 - [BRAT](https://en.wikipedia.org/wiki/Brat_(album)) by [Nnamdi](https://en.wikipedia.org/wiki/Nnamdi_Ogbonnaya) - Is one of my favorite albums of 2022. It's basically been on repeat for 12 months. It's poetica and easily quotable.
