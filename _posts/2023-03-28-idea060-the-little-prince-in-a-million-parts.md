@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 60 - The Little Prince in a million parts
-date: '2023-03-27 00:00'
+date: '2023-03-28 01:00'
 categories: ideas
 tags: art paper papercraft projects ideas
 excerpt: Layered paper craft light boxes of the different chapters of The Little Prince
@@ -21,14 +21,15 @@ This idea is based on [Idea 58 - In a million parts](/idea058-a-quotable-book-in
 
 I have wonderful memories of this book as a child. A book that formed my childhood and outlook on society and life. I have very strong feelings about this book and I assume others do as well.
 
-<img src="/public/uploads/2023/african-lightbox.png" alt="african-lightbox" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The book could be split up by chapter or by each of the planets that the little prince visits.
+The book could be split up by chapter or by each of the planets that the little prince visits.
 
-Each section could be turned into a layered paper light box, with solid color back illumination (warm white light)  to add shadows. Each layer could have a different color to add depth to the frame. Maybe use semi transparent paper to allow the light to leak between each layer. The size of the project would be built around the cutting area of the [K40 laser cutter](https://all3dp.com/2/k40-laser-cutters-all-you-need-to-know/) or the [cricut paper cutter](https://cricut.com/en-ca/)
+<img src="/public/uploads/2023/african-lightbox.png" alt="african-lightbox" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>Each section could be turned into a layered paper light box, with solid color back illumination (warm white light)  to add shadows. Each layer could have a different color to add depth to the frame. Maybe use semi transparent paper to allow the light to leak between each layer. The size of the project would be built around the cutting area of the [K40 laser cutter](https://all3dp.com/2/k40-laser-cutters-all-you-need-to-know/) or the [cricut paper cutter](https://cricut.com/en-ca/)
 
 ## Prior art
 
 <img src="/public/uploads/2023/littleprince-layers2.png" alt="littleprince-layers" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>
 
+- [The Little Prince book](http://the-little-prince.site/appendix/The_Little_Prince.pdf)
 - [Day 13 - Layered paper craft dragon](https://blog.abluestar.com/day-13-layered-paper-craft-dragon/), and  [Day 74 - Iron giant layered paper craft](https://blog.abluestar.com/day-74-iron-giant-layered-paper-craft/) I did for [The 100 Day Project](https://blog.abluestar.com/projects/2015-The100DayProject/)
 - [Gorgeous papercut light boxes by Hari & Deepti](https://mymodernmet.com/hari-deepti-hand-cut-illuminated-paper/)
 - [PAPER CUT LIGHT BOX TUTORIAL](https://jennifermaker.com/paper-cut-light-box-tutorial/)

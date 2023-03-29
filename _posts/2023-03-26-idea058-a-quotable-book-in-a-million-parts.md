@@ -7,7 +7,7 @@ tags: art projects ideas
 excerpt: Transformative art series based on quotable lines from books, movies, or songs
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -64,6 +64,7 @@ We shouldn’t have to worry about copyright issues, as this new work should be 
 There are many examples of how to transform the source artwork into something else. I am going to use “this idea (058)” as the basis for the next couple of days of [ideas](https://blog.abluestar.com/projects/2023-100-ideas/).
 
 - [Day 059](/idea059-alices-adventures-in-wonderland-in-a-million-parts) - **Alices Adventures in Wonderland in a million parts** - Stained glass windows for each location in Alice's Adventures in Wonderland
+- [Day 060](/idea060-the-little-prince-in-a-million-parts) - **The Little Prince in a million parts** - Layered paper craft light boxes of the different chapters of The Little Prince
 
 #### Idea 058
 

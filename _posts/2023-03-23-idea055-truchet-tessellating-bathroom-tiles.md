@@ -7,7 +7,7 @@ tags: math projects ideas
 excerpt: Elevate your bathroom or kitchen with unique and meaningful ceramic tiles inspired by mathematical shapes and designs that are both visually stunning and tell a story
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -66,6 +66,7 @@ The potential pitfalls to consider when it comes to the installation process. Th
 - [Tilings Encyclopedia](https://tilings.math.uni-bielefeld.de/) - The tilings encyclopedia shows a wealth of examples of nonperiodic substitution tilings.
 - [Wang tile](https://en.wikipedia.org/wiki/Wang_tile) - are modeled visually by square tiles with a color on each side. A set of such tiles is selected, and copies of the tiles are arranged side by side with matching colors, without rotating or reflecting them.
 - [Serpentiles](https://en.wikipedia.org/wiki/Serpentiles) - Serpentiles is the name coined by Kurt N. Van Ness for the hexagonal tiles used in various edge-matching puzzle connection abstract strategy games
+- [StampID](https://bleeptrack.de/projects/stamps/) - "stampID" is a set of procedurally generated stamps. They follow the rule of truchet tiles: each tile edge interfaces with the other edges. This way the stamp can be rearranged in multiple different ways to create new patterns. Each stamp set contains 3 stamps who have one, two and three interfacing sides. The stamp pattern itself is inspired by art nouveau swirls and celtic knots.
 
 ## Market
 

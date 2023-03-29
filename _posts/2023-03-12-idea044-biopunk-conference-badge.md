@@ -7,7 +7,7 @@ tags: electronics conference projects ideas
 excerpt: A convention badge for BACnet plugfest that is useful for testing
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas]/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -21,7 +21,7 @@ The electronic pets visualization and mannerisms of the pet are dictated by its 
 
 Connectors on the side of the badge that lets you connect two badges together. When they are connected the DNA is mixed and both badges get a new modified Badge pet. The new pet has different visualization and mannerisms.
 
-The board's genes and breeding follow the [idea041 BIO Punks Garden](https://blog.abluestar.com/idea041-biopunks-garden) methods.
+The board's genes and breeding follow the [idea041 BIO Punks Garden](/idea041-biopunks-garden) methods.
 
 <img src="/public/uploads/2023/digital_pet4.png" alt="digital_pet4" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>Every time the badge connects and mixes with another badge, the electron pet gains more options and features. This encourages participants to mix the DNA of their digital pets as much as possible to gain more features.
 
