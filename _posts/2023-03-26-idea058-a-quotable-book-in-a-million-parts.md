@@ -65,6 +65,7 @@ There are many examples of how to transform the source artwork into something el
 
 - [Day 059](/idea059-alices-adventures-in-wonderland-in-a-million-parts) - **Alices Adventures in Wonderland in a million parts** - Stained glass windows for each location in Alice's Adventures in Wonderland
 - [Day 060](/idea060-the-little-prince-in-a-million-parts) - **The Little Prince in a million parts** - Layered paper craft light boxes of the different chapters of The Little Prince
+- [Day 061](/idea061-the-dark-side-of-the-moon-in-a-million-parts) - **The Dark Side Of The Moon in a million parts** - Generative line drawings in sand based on the album The Dark Side Of The Moon by Pink Floyd
 
 #### Idea 058
 
