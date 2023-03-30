@@ -25,7 +25,7 @@ These artworks are unique pieces that are specific to the time and place. I hope
 
 ### What this robot looks like
 
-The top is two puppets hanging from wires like [marionettes](https://en.wikipedia.org/wiki/Marionette). Their wires are controlled by a series of servos that give them motion based on what the microphone and other sensors collect. They rotate, and bounce up and down to look like they are dancing. Their feet are made of ink brushes with feeder tubes in them. When they are “up”, the ink drips out of the feeder tubes onto the ink brushes and drips onto the paper below. When they are “down” the ink brushes do strokes of ink onto the paper.
+<img src="/public/uploads/2023/marionettes.png" alt="marionettes" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The top is two puppets hanging from wires like [Marionettes](https://en.wikipedia.org/wiki/Marionette). Their wires are controlled by a series of servos that give them motion based on what the microphone and other sensors collect. They rotate, and bounce up and down to look like they are dancing. Their feet are made of ink brushes with feeder tubes in them. When they are “up”, the ink drips out of the feeder tubes onto the ink brushes and drips onto the paper below. When they are “down” the ink brushes do strokes of ink onto the paper.
 
 Over time the paper should have a series of sweeping ink brush strokes and ink droplets scattered across the paper. The swirls should look like dancing feet paths.
 
@@ -39,10 +39,10 @@ This could be used as installation art for the festival. Possible grants from th
 
 ## Prior art
 
-<img src="/public/uploads/2023/giant-marionettes" alt="giant-marionettes" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>I've been to music festivals where there are acrylic or watercolor painters on the side of the dance floor doing their thing and selling the art work at the end of the event. Normally it is one pieces over the entire event.
+<img src="/public/uploads/2023/giant-marionettes.png" alt="giant-marionettes" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>I've been to music festivals where there are acrylic or watercolor painters on the side of the dance floor doing their thing and selling the art work at the end of the event. Normally it is one pieces over the entire event.
 
 - [Sun Yuan and Peng Yu: Can’t Help Myself](https://www.youtube.com/watch?v=ZS4Bpr2BgnE) - [Video] Of an industrial robot trying to sweep up the blood in a gallery. [Article](https://hannahroseprendergast.com/sun-yuan-peng-yu-cant-help-myself/)
-- [Giant Marionettes](http://www.royal-de-luxe.com/en/)
+- [Giant Marionettes](http://www.royal-de-luxe.com/en/) - Street festival
 
 japanese calligraphy, ink brush, circles, spirals, red, black, Dancing
 
