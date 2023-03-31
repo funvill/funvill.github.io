@@ -37,6 +37,11 @@ For festivals I was thinking of using A2 paper, but this could also work on a la
 
 This could be used as installation art for the festival. Possible grants from the festival to show up with your dancing robot friend.
 
+### Unsorted
+
+- No reason that marionettes need to look human
+- Make a new marionette for each festival
+
 ## Prior art
 
 <img src="/public/uploads/2023/giant-marionettes.png" alt="giant-marionettes" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>I've been to music festivals where there are acrylic or watercolor painters on the side of the dance floor doing their thing and selling the art work at the end of the event. Normally it is one pieces over the entire event.

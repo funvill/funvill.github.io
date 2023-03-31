@@ -51,9 +51,10 @@ I made my own version of [Simone Giertz](https://www.simonegiertz.com/)'s [Every
 
 ### Photography
 
-- [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.sigmacanada.ca/products/150-600mm-f5-6-3-dg-os-hsm-contemporary) - Long lense uses for [birding](https://blog.abluestar.com/projects/2021-bird-playing-cards/)
 - [Sony a6400](https://www.sony.ca/en/electronics/interchangeable-lens-cameras/ilce-6400) - It can shoot in 4k and has built-in optical image stablization.. APS-C, 24.2-megapixel
+- [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.sigmacanada.ca/products/150-600mm-f5-6-3-dg-os-hsm-contemporary) - Long lense uses for [birding](https://blog.abluestar.com/projects/2021-bird-playing-cards/), connected to my Sony a6400 using [Sigma MC-11](https://www.sigma-global.com/en/accessories/mc-11/)
 - [Sony FE 50 mm F2.8 Macro](https://www.sony.ca/en/electronics/camera-lenses/sel50m28) - Macro lense used for taking pictures of spiders
+- [Sony E 18-135mm F3.5-5.6 OSS](https://www.sony.ca/en/electronics/camera-lenses/sel18135) Kit lens - Came with the Sony a6400, I don't use it often
 - [GoPro Hero10 Black](https://gopro.com/en/us/shop/cameras/hero10-black/CHDHX-101-master.html) - Mostly used for underwater [Scuba](https://www.scuba.com/), and [time-lapse photography](https://en.wikipedia.org/wiki/Time-lapse_photography)
 
 ## What would be your dream setup?
