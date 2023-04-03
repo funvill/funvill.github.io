@@ -17,7 +17,7 @@ A crowd of mini wacky inflatable arm man (Air Dancers) in a matrix controlled by
 
 ## Description
 
-<img src='\public\uploads\2023\air-dancers.gif' alt='air-dancers.gif' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >A matrix of fabric tubes in the shape of a mini [Wacky inflatable arm man](https://en.wikipedia.org/wiki/Tube_man). A relay on a series of air blowers that turn on and off the air that is used to inflate them. It would look like a crowd of people that you can control how much energy that they have. Connect it to an audio level sensor so that it can visualize the sound with mini inflatable people. Each tube is 6 inches across, Make a 8x8 grid, 64 relays, 64 PC air fans. Colorful Waxy nylon fabric from Dressew, Each Air Dancer should be designed with a different personality, think inflatable puppets.
+<img src='\public\uploads\2023\air-dancers.png' alt='air-dancers.png' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >A matrix of fabric tubes in the shape of a mini [Wacky inflatable arm man](https://en.wikipedia.org/wiki/Tube_man). A relay on a series of air blowers that turn on and off the air that is used to inflate them. It would look like a crowd of people that you can control how much energy that they have. Connect it to an audio level sensor so that it can visualize the sound with mini inflatable people. Each tube is 6 inches across, Make a 8x8 grid, 64 relays, 64 PC air fans. Colorful Waxy nylon fabric from Dressew, Each Air Dancer should be designed with a different personality, think inflatable puppets.
 
 ## Prior art
 
