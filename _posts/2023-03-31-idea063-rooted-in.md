@@ -21,11 +21,11 @@ There are over 100,000 trees, each with an ID, and a species name. Kwanzan Flowe
 
 I propose we make a spoof of Facebook using the Trees as citizens of the city. Each tree will have its own page that details some statistics about them. A generated Tree name, random tree based hobbies, groups that they are part of. A wall, with conversations with other trees or messages that people have left them.
 
-The conversations with other trees can be generated using ChatGPT. Each tree’s wall should have at least 10 messages from other trees. This is to show that the trees are talking to each other on a social network.
+The conversations with other trees can be generated using [ChatGPT](https://chat-gpt.org/). Each tree’s wall should have at least 10 messages from other trees. This is to show that the trees are talking to each other on a social network.
 
-The conversations could be generated, new messages could pop up on the social network each week. Every week generate 100 new messages for a random set of trees. Because of how ChatGPT the messages can be based on any of the new messages from other trees or based on the human comments.
+The conversations could be generated, new messages could pop up on the social network each week. Every week generate 100 new messages for a random set of trees. Because of how [ChatGPT](https://chat-gpt.org/) the messages can be based on any of the new messages from other trees or based on the human comments.
 
-The trees should be able to reply to the human comments as if they were a tree with context from what the humans leave. Thanks to ChatGPT.
+The trees should be able to reply to the human comments as if they were a tree with context from what the humans leave. Thanks to [ChatGPT](https://chat-gpt.org/).
 
 <img src="/public/uploads/2023/tree2.png" alt="akebono-flowering-cherry" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The Tree name of each tree should be a pun on their species name and location. Use ChatGPT to help generate the names. All names should be unique and used for key lookups in the database.
 
@@ -40,7 +40,7 @@ The trees should be able to reply to the human comments as if they were a tree w
 - Bowhall Red Maple - Reddington Maple
 - Akebono Flowering Cherry - Sakura Blossom
 
-The profile pictures can be generated using stable diffusion to be cartoon versions of their species. These profile pictures can be replaced at a future date with real photos of the tree that users upload.
+The profile pictures can be generated using [Stable Diffusion](https://stablediffusionweb.com/) to be cartoon versions of their species. These profile pictures can be replaced at a future date with real photos of the tree that users upload.
 
 Users of the site should be able to leave the tree's messages. Write on their wall. Give status updates, or upload photos of each of the trees.
 
@@ -58,7 +58,7 @@ I think coming up with a joke name for this project is the most important thing 
 
 ## Prior art
 
-The concept of creating a social network for non-human entities has been explored before (e.g., a social network for pets
+The concept of creating a social network for non-human entities has been explored before (e.g., a social network for pets)
 
 - [People around the world have been emailing trees in Melbourne to confess their love](https://www.news.com.au/technology/environment/conservation/people-around-the-world-have-been-emailing-trees-in-melbourne-to-confess-their-love/news-story/e271b76b4524a998fee3b27d6d4b9bb3)
 
