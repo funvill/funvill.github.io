@@ -26,7 +26,7 @@ The first level should be the same as the original Pac-Man game. After that the 
 Other games that would work are
 
 - **Snake**: Use the accelerometer to control the direction of a snake as it moves around the LED matrix, trying to avoid obstacles and collect food.
-- **Space** Invaders: Use the accelerometer to move a spaceship left and right as it tries to shoot down alien ships descending from the top of the LED matrix.
+- **Space Invaders**: Use the accelerometer to move a spaceship left and right as it tries to shoot down alien ships descending from the top of the LED matrix.
 - **Pong**: Use the accelerometer to move a paddle up and down as it tries to hit a ball back and forth between two players.
 - **Flappy** Bird: Use the accelerometer to control the height of a bird as it flies through a series of obstacles
 
