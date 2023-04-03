@@ -15,13 +15,13 @@ Use a accelerometer to control pacman on a LED Matrix
 
 ## Description
 
-<img src='\public\uploads\2023\pacman.png' alt='pacman' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" ><img src='\public\uploads\2023\raspberry_pi_hero-loopB.gif' alt='raspberry_pi_hero-loopB' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >Make a 1 pixel version of [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) on a RGB LED Matrix similar to this project [1-Pixel Pac-Man](https://www.youtube.com/watch?v=xKPRTjCqYnI) from HACKADAY. Instead of a joystick use a [accelerometer](https://en.wikipedia.org/wiki/Accelerometer) where the user controls Pac-Man by tilting the LED Matrix panel in the direction that they want Pac-Man to go.
+<img src='\public\uploads\2023\pacman.png' alt='pacman' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >Make a 1 pixel version of [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) on a RGB LED Matrix similar to this project [1-Pixel Pac-Man](https://www.youtube.com/watch?v=xKPRTjCqYnI) from HACKADAY. Instead of a joystick use a [accelerometer](https://en.wikipedia.org/wiki/Accelerometer) where the user controls Pac-Man by tilting the LED Matrix panel in the direction that they want Pac-Man to go.
 
 Information about [Pac-Man’s Ghost AI](https://www.youtube.com/watch?v=ataGotQ7ir8)
 
 The first level should be the same as the original Pac-Man game. After that the maze and the ghosts should be randomized between a bunch of different AI schemes.
 
-The same panel could be used for the [BIG LED Sand Toy – Raspberry Pi RGB LED Matrix](https://www.youtube.com/watch?v=X3Ce89f873Y) as well. Same equipment and sensors are used.
+<img src='\public\uploads\2023\raspberry_pi_hero-loopB.gif' alt='raspberry_pi_hero-loopB' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >The same panel could be used for the [BIG LED Sand Toy – Raspberry Pi RGB LED Matrix](https://www.youtube.com/watch?v=X3Ce89f873Y) as well. Same equipment and sensors are used.
 
 Other games that would work are
 
@@ -33,7 +33,7 @@ Other games that would work are
 ## Prior art
 
 - [1-Pixel Pac-Man](https://www.youtube.com/watch?v=xKPRTjCqYnI) from HACKADAY.
-- [BIG LED Sand Toy – Raspberry Pi RGB LED Matrix](https://www.youtube.com/watch?v=X3Ce89f873Y)
+- [BIG LED Sand Toy – Raspberry Pi RGB LED Matrix](https://www.youtube.com/watch?v=X3Ce89f873Y) [build guide](https://learn.adafruit.com/matrix-led-sand/)
 
 ## Market
 
