@@ -21,9 +21,9 @@ Information about [Pac-Man’s Ghost AI](https://www.youtube.com/watch?v=ataGotQ
 
 The first level should be the same as the original Pac-Man game. After that the maze and the ghosts should be randomized between a bunch of different AI schemes.
 
-<img src='\public\uploads\2023\raspberry_pi_hero-loopB.gif' alt='raspberry_pi_hero-loopB' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >The same panel could be used for the [BIG LED Sand Toy – Raspberry Pi RGB LED Matrix](https://www.youtube.com/watch?v=X3Ce89f873Y) as well. Same equipment and sensors are used.
+The same panel could be used for the [BIG LED Sand Toy – Raspberry Pi RGB LED Matrix](https://www.youtube.com/watch?v=X3Ce89f873Y) as well. Same equipment and sensors are used.
 
-Other games that would work are
+Other games that would work are<img src='\public\uploads\2023\raspberry_pi_hero-loopB.gif' alt='raspberry_pi_hero-loopB' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
 
 - **Snake**: Use the accelerometer to control the direction of a snake as it moves around the LED matrix, trying to avoid obstacles and collect food.
 - **Space Invaders**: Use the accelerometer to move a spaceship left and right as it tries to shoot down alien ships descending from the top of the LED matrix.
