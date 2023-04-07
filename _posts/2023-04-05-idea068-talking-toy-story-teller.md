@@ -33,7 +33,7 @@ Example Stories
 
 - A story about sleeping under your bed,
 - A story about inviting a clown to dinner
-- A story about wearing a hot dog costumes to school 
+- A story about wearing a hot dog costumes to school
 - A story about making dinner using bugs found in the forest
 
 Example Questions
