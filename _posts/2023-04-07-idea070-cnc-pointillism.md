@@ -24,6 +24,7 @@ To program the CNC create a program that takes a photo as an input then splits t
 ## Prior art
 
 - [Why I draw with robots - Sougwen Chung • TED@BCG Mumbai](https://www.ted.com/talks/sougwen_chung_why_i_draw_with_robots)
-- [Paintbot painting cnc - Open Builds](https://openbuilds.com/builds/paintbot-painting-cnc.9266/)
-- [Color Your World With This Cnc Painting Robot](https://hackaday.com/2019/08/06/color-your-world-with-this-cnc-painting-robot/)
+- [Paintbot painting cnc - Open Builds](https://openbuilds.com/builds/paintbot-painting-cnc.9266/), [Good video](https://www.youtube.com/watch?v=KVLc3H9j6Z4)
+- [Color Your World With This Cnc Painting Robot](https://hackaday.com/2019/08/06/color-your-world-with-this-cnc-painting-robot/) - Has a neat way of 'cleaning' the brush
 - [These Geometric Paintings Were Made By A Cnc-Machining Robot!](https://www.yankodesign.com/2020/10/15/these-geometric-paintings-were-made-by-a-cnc-machining-robot/)
+- [DPRG’s Robot Art Team!](https://www.dprg.org/help-dprgs-robot-art-team/)
