@@ -1,6 +1,5 @@
 ---
 title: Zeke
-hidden: true
 species: 
 text-keywords: 
 post_date: 2023-06-19 00:00:00
