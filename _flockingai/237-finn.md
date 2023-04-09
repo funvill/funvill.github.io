@@ -1,5 +1,5 @@
 ---
-title: 237-finn
+title: Finn
 species: Groupie Giggles
 text-keywords: small, in groups, goofy
 post_date: 2023-04-14 00:00:00

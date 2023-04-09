@@ -3,7 +3,7 @@ title: NAME
 hidden: true
 species: 
 text-keywords: 
-post_date: 2022-10-01 00:00:00
+post_date: 2024-05-03 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
