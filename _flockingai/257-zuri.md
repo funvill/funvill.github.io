@@ -2,7 +2,7 @@
 title: Zuri
 species: Aggressive-Auk
 text-keywords: 
-post_date: 2023-05-03 00:00:00
+post_date: 2023-05-04 00:00:00
 categories: FlockingAI
 tags: FlockingAI Birds MidJourney 
 header      :
