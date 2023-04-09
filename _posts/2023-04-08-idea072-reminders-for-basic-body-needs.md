@@ -15,7 +15,7 @@ A sensor that can tell you when you are hungry or dehydrated, and other basic hu
 
 ## Description
 
-When I get into “[The Zone](https://computus.org/7-tips-for-programming-in-the-zone/)" while I am working on a project I tend to forget all my body's basic needs for survival. Sometimes I can go 16 hours without getting out of my chair, no food, no water, no bathroom breaks. When something jossles me out of my “zone” and I peek my head back into reality the wave of body needs will overwhelm me.
+<img src='\public\uploads\2023\the-zone.png' alt='the-zone' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px">When I get into “[The Zone](https://computus.org/7-tips-for-programming-in-the-zone/)" while I am working on a project I tend to forget all my body's basic needs for survival. Sometimes I can go 16 hours without getting out of my chair, no food, no water, no bathroom breaks. When something jossles me out of my “zone” and I peek my head back into reality the wave of body needs will overwhelm me.
 
 The hangover from a long session like this can last 2 or 3 days of significantly reduced productivity. Long sessions are never a net gain as any gains from the focus times are paid back double in the hangover. Shorter 4 hour sessions seem to be ideal.
 
@@ -25,7 +25,7 @@ One of the easiest ways that I can get into this state is to listen to the same 
 
 Having a water bottle at my desk within my view, and drinking water when I am not thirsty helps force me to go to the bathroom that gives me a break. The break helps me realize that I am hungry, or and acknowledge how many hours I've been working.
 
-I have also found that the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) helps too. A bell that rings every 25 mins for focus time, and 5 mins for a break to look out the window.
+<img src='\public\uploads\2023\the-zone2.png' alt='the-zone2' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >I have also found that the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) helps too. A bell that rings every 25 mins for focus time, and 5 mins for a break to look out the window.
 
 Endless fucking meetings that happen thoughtout the day, prevents the zone from ever happening.
 
