@@ -12,7 +12,7 @@ The bike carousel, [Chapel Arts](http://www.chapelarts.com/) have designed for [
 
 This project was sponsored by [Fairmont Pacific Rim](http://www.fairmont.com/pacific-rim-vancouver/) Hotel, [West Bank](http://westbankcorp.com/), and [BMW Canada](http://www.bmw-vancouver.ca/),
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSfAQlDwaPGL0XPGcZLLW5jpSQfVnvrHOe1xnP7N5wDRw3W1o9B5S2ofZeJcREbmiNgJ1MXSaxKEYm/embed?start=false&loop=true&delayms=7000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSfAQlDwaPGL0XPGcZLLW5jpSQfVnvrHOe1xnP7N5wDRw3W1o9B5S2ofZeJcREbmiNgJ1MXSaxKEYm/embed?start=false&loop=true&delayms=7000" frameborder="0" width="900" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Steven was invited to work on the Fairmont Pacific Rim bike carousel project by Chapel Arts, to help with the lighting.
 

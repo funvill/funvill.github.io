@@ -48,7 +48,7 @@ Steven Smethurst is a Vancouver based maker, hacker, and installation artist. St
 
 ## Talks
 
-- (2020) Pecha Kucha Burnaby - Creative Progression: 100 days challange to a 1 year project
+- (2020) Pecha Kucha Burnaby - Creative Progression: 100 days challenge to a 1 year project
 - (2020) Vancouver Creative Technology - Creative Consistency: An Illuminating Process
 
 ## Projects
