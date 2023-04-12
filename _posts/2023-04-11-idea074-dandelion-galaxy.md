@@ -37,5 +37,7 @@ On a timer a constellation is revealed by dimming all the other LEDs and illumin
 
 ## Prior art
 
+- [Palm Springs Desert Museum](http://www.moderndesign.org/2011/05/visiting-palm-springs-desert-museum.html)
 - [Just Don’t ­Call Them Weeds](https://www.nytimes.com/2015/01/22/garden/dandelions-as-led-light-fixtures-from-studio-drift.html) - A LED in a Dandelion Seed Head
 - [Remote Control Starburst](https://madmolly.co.uk/products/remote-control-starburst-160-led-indoor-outdoor-lights-battery-powered-choose-from-3-colours) - A lamp with fairy lights, its cheap looking.
+- [Hancock Center Lobby / Lucent By Wolfgang Buttress](http://www.publicartinchicago.com/2015-hancock-center-lobby-lucent-by-wolfgang-buttress/)
