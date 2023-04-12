@@ -25,7 +25,7 @@ At the end of each stainless steel tube there is a bundle of wires that spread o
 
 At the end of each wire there is an individually addressable RGB LED.
 
-<img src='\public\uploads\2023\palm-springs-art-museum.png.png' alt='palm-springs-art-museum.png' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px">A single large tube should come out of the central core to the base. This holds up the entire sculpture in the air and provides a pathway for the electrical wires. This should look like a dandelion stem.
+<img src='\public\uploads\2023\palm-springs-art-museum.png' alt='palm-springs-art-museum.png' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px">A single large tube should come out of the central core to the base. This holds up the entire sculpture in the air and provides a pathway for the electrical wires. This should look like a dandelion stem.
 
 At first glance the whole sculpture should look like a giant dandelion with thousands of LEDS shimmering in blue, white, yellow, orange, and red.
 
