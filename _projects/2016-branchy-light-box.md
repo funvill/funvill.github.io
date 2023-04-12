@@ -1,5 +1,5 @@
 ---
-title: (2016) Branchy light box
+title: (2016) Branchy Light Box
 excerpt: Laser cut silhouette of branches in a tree, illuminated with color changing LEDs
 post_date: 2016-01-01 00:00:00
 header:

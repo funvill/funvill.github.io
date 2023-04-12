@@ -1,5 +1,5 @@
 ---
-title: (2017) Asics color changing cloud project.
+title: (2017) Asics Color Changing Cloud Project.
 excerpt: A series of color changing clouds for Asics New York popup shop.
 post_date: 2017-01-01 00:00:00
 header:

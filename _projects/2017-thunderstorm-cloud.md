@@ -1,5 +1,5 @@
 ---
-title: (2017) Thunderstorm cloud
+title: (2017) Thunderstorm Cloud
 excerpt: A interactive lamp that mimics thunderstorm cloud.
 post_date: 2017-01-01 00:00:00
 header:

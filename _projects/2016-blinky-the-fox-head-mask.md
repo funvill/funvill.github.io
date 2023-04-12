@@ -1,5 +1,5 @@
 ---
-title: (2016) Blinky the fox head mask
+title: (2016) Blinky the Fox Head Mask
 excerpt: A low polygon fox head mask with an array of LEDS create patterns on the faces. 
 post_date: 2016-01-01 00:00:00
 header:

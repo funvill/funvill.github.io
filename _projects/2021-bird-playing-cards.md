@@ -1,5 +1,5 @@
 ---
-title       : (2021) Vancouver Bird playing cards
+title       : (2021) Vancouver Bird playing Cards
 excerpt     : A deck of playing cards featuring photos of birds from around Vancouver 
 post_date   : 2021-01-01 00:00:00
 header      :

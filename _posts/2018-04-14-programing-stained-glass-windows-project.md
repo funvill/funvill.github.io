@@ -4,7 +4,7 @@ title: Programing - Stained glass windows project
 date: '2018-04-14 00:01'
 categories: 
     - projects
-    - stain glass windows 
+    - stainedglass
 ---
 
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 

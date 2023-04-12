@@ -1,5 +1,5 @@
 ---
-title: (2016) Map of intersting places
+title: (2016) Map of Intersting Places
 excerpt: A constantly updated map of interesting places from around the world
 post_date: 2016-01-01 00:00:00
 header:

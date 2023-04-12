@@ -4,25 +4,25 @@ title: Tech Demo - Stained glass windows project
 date: '2018-04-11 00:01'
 categories: 
     - projects
-    - stain glass windows 
+    - stainedglass
 tags: techdemo paper tape acrylic laser 
 ---
 
-This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 
+This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window).
 
-When starting a new project, I tend to create a series of tech demos of all the different techniques that I am planning on using in the project. This helps me find out what works and what doesn't. 
+When starting a new project, I tend to create a series of tech demos of all the different techniques that I am planning on using in the project. This helps me find out what works and what doesn't.
 
 Below are some of the design questions that I wanted to solve while working on the tech demo.
 
-### How to attach the semi-transparent white acrylic inlay into the black border acrylic. 
+### How to attach the semi-transparent white acrylic inlay into the black border acrylic.
 
-My first thought was to use [Methylene chloride](https://en.wikipedia.org/wiki/Dichloromethane)  (acrylic glue). The issue with methylene chloride is that the parts have to be butted up to each other with no room for a gap. I could not guarantee that the laser cutter that I was using had tight enough tolerances that would prevent a gap from forming. Methylene chloride can also discolor acrylic and leave blotches or water marks that would be very visible when the light shines through the white acrylic. 
+My first thought was to use [Methylene chloride](https://en.wikipedia.org/wiki/Dichloromethane)  (acrylic glue). The issue with methylene chloride is that the parts have to be butted up to each other with no room for a gap. I could not guarantee that the laser cutter that I was using had tight enough tolerances that would prevent a gap from forming. Methylene chloride can also discolor acrylic and leave blotches or water marks that would be very visible when the light shines through the white acrylic.
 
 <img src="/public/uploads/stainglasswindow_segments.png" alt="Segments"/>
 
 I thought about sandwiching the center plate between two clear plates of acrylic. This would be very expensive as each plate would need 4 layers of acrylic. Semi-transparent white inlay, Black borders, and two transparent sheets. 
 
-I ended up with the low tech method of using clear packing tape stretch across the entire plate on the inside. This worked quite well. 
+I ended up with the low tech method of using clear packing tape stretch across the entire plate on the inside. This worked quite well.
 
 <img src="/public/uploads/stainglasswindow_tape.png" alt="tape"/>
 

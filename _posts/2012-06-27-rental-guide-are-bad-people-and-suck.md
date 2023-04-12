@@ -3,7 +3,7 @@ layout: single
 title: Rental Guide are bad people, and suck.
 date: 2012-06-27 08:55
 categories: rant
-tag: Canada rant Rants scams Vancouver
+tag: Canada, Rants, scams, Vancouver
 ---
 <a href="/public/uploads/2012/06/thumbs-down-smiley-md1.png"><img class="alignright  wp-image-2785" title="thumbs-down-smiley-md" alt="" src="/public/uploads/2012/06/thumbs-down-smiley-md1.png" width="180" height="144" /></a>Me and my girlfriend where looking for a new place. She was searching <a href="http://vancouver.kijiji.ca/">http://vancouver.kijiji.ca</a> for ads and came across a <strong>"Rental Guide"</strong> ad, and contacted them directly asking for a viewing of the house. Instead of setting up an appointing for a viewing they sold her a service where they search other classified ad sites for you and give results that match what you are looking for.
 

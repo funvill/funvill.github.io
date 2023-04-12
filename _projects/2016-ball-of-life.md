@@ -1,5 +1,5 @@
 ---
-title: (2016) Ball of life. 
+title: (2016) Ball of Life. 
 excerpt: A Wooden icosahedron with LEDs used for festivals as a marker 
 post_date: 2016-01-01 00:00:00
 header:
