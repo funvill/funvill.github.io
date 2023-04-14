@@ -41,6 +41,7 @@ I don’t like the idea of using things with batteries as the batteries will eve
 
 - [What is the sound of a city? A wail, a thrum, a rustle](https://www.chicagotribune.com/opinion/commentary/ct-urban-sound-noise-maps-spring-perspec-0414-jm-20160412-story.html) 
 - [Chatty Maps](http://goodcitylife.org/chattymaps/)
+- [How to sound map a city](https://citiesandmemory.com/2014/10/sound-map-city-part-one/)
 
 ## Market
 
