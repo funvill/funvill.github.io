@@ -11,7 +11,7 @@ excerpt: Allows people to assert their experience with a skill with 3rd parties 
 
 👉 After sleeping on this idea and reviewing it in the morning this idea is; **[LinkedIn](https://www.linkedin.com/) with more steps** and is not worth pursuing. 👈
 
-The idea can be condenced down to combining [Idea 080 - Real Identity provider](https://blog.abluestar.com/idea080-real-identity-provider/) with [Motzilla’s Open Badges](https://backpack.openbadges.org/) and use a magic algorithm to determine confidence. Then make a [LinkedIn](https://www.linkedin.com/) style profile of the user that can be used in the interview process.
+The idea can be condensed down to combining [Idea 080 - Real Identity provider](https://blog.abluestar.com/idea080-real-identity-provider/) with [Motzilla’s Open Badges](https://backpack.openbadges.org/) and using a magic algorithm to determine confidence. Then make a [LinkedIn](https://www.linkedin.com/) style profile of the user that can be used in the interview process.
 
 ## One Line Pitch
 
