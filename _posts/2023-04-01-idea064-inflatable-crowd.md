@@ -21,6 +21,8 @@ A crowd of mini wacky inflatable arm man (Air Dancers) in a matrix controlled by
 
 ## Prior art
 
-[One Hundred and Eight -- Animated Patterns](https://www.youtube.com/watch?v=1bRC8CZjMPA)
+- [One Hundred and Eight -- Animated Patterns](https://www.youtube.com/watch?v=1bRC8CZjMPA)
+- [Fun with Fabrics - Basics](https://www.instagram.com/reel/CqQftLxDLuY/) - Breathing sculpture
+- [Pneuhaus Grove](https://www.thisiscolossal.com/2023/03/pneuhaus-grove/)
 
 ## Market
