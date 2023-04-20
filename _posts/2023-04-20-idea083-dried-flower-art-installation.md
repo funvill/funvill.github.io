@@ -25,7 +25,7 @@ Something similar to these [flower installation ](https://mymodernmet.com/flower
 
 The acrylic plates can be cut to form different shapes like diamonds or spades. Each one would have a small LED embedded in it so that it would glow. The power cables can be what suspends it from the ceiling. Something similar to [Glass Cloud](https://www.umbraluxstudio.com/gallery?pgid=kx468gwm-37595e0f-3ae6-4b8a-ab27-f098629bf160) or [Feuillage Lumineux Gold](https://www.umbraluxstudio.com/gallery?pgid=kx468gwm-20c1498e-42f0-4ce1-a19d-6c42c65897a8) by [Umbra Lux Studio](https://www.umbraluxstudio.com/) (Local Vancouver artist)
 
-For ease of cleaning, some standard large glass photo frames with LEDS behind them would be easier. Just dust the frames like you would with any photo.
+<img src='\public\uploads\2023\flowers2.png' alt='Flower Press Studio flowers2' title='Flower Press Studio flowers2' style="float: right; max-width: 400px; margin: 10px; border: 1px solid black; padding: 5px">Many individual hanging acrylic shards with pressed flowers in between will be hard to clean. Imagine dusting this art installation. For ease of cleaning instead of making  individual hanging acrylic shards this could be some large standard glass photo frames/panels with LEDs embedded in the frame to make them glow. Then cleaning would be just like any photo frame.
 
 ## Prior art
 

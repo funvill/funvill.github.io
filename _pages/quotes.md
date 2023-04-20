@@ -12,3 +12,5 @@ A list of quotes that I like
 - In pain, which each of us must suffer alone, in hunger, in poverty, in hope, we know our brotherhood. We know it, because we have had to learn it. We know that there is no help for us but from one another, that no hand will save us if we do not reach out our hand. And the hand that you reach out is empty, as mine is. [Source](https://www.goodreads.com/quotes/166432-it-is-our-suffering-that-brings-us-together-it-is)
 - **The best way to predict the future is to invent it.** - Alan Kay
 - **The real danger is not that computers will begin to think like men, but that men will begin to think like computers.** - Sydney Harris
+
+- Your playing my game and your not winning - Chandler Leighton - When you say my name
