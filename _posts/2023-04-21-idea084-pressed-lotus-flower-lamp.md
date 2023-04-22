@@ -17,13 +17,13 @@ A lamp made of acrylic shards of pressed flowers in the shape of a lotus flower
 
 Continuing from the [Idea 083 - Dried flower art installation](https://blog.abluestar.com/idea083-dried-flower-art-installation/).
 
-<img src='\public\uploads\2023\lotus-pendent.png' alt='lotus-pendent' title='lotus-pendent' style="float: right; max-width: 400px; margin: 10px; border: 1px solid black; padding: 5px">Each dried flower will be encapsulated between two acrylic sheets in the shape of a lotus flower petals (A shard).
+<img src='\public\uploads\2023\lotus2.png' alt='lotus lamp' title='lotus lamp' style="float: right; max-width: 400px; margin: 10px; border: 1px solid black; padding: 5px">Each dried flower will be encapsulated between two acrylic sheets in the shape of a lotus flower petals (A shard).
 
 Each shard will have LEDs embedded into the base. The LEDs will illuminate the dried flower petals as well as edge lite the acrylic shard. Similar to my [Edge-Lit-Lantern](https://www.instagram.com/p/Bmu26HDF9Uf/?taken-by=funvill) project.
 
-<img src='\public\uploads\2023\lotus2.png' alt='lotus lamp' title='lotus lamp' style="float: right; max-width: 400px; margin: 10px; border: 1px solid black; padding: 5px">A 3D printed base made of semi transparent white acrylic. The base will have angled slots for each shard to be mounted in. The shape should resemble a lotus flower of shards. The base will hide all the electronics for running the LEDs, as well as a light bulb to add to the illumination. It should be built using parametric design so it can be scaled up as needed.
+A 3D printed base made of semi transparent white acrylic. The base will have angled slots for each shard to be mounted in. The shape should resemble a lotus flower of shards. The base will hide all the electronics for running the LEDs, as well as a light bulb to add to the illumination. It should be built using parametric design so it can be scaled up as needed.
 
-The whole thing should look like a Lotus flower of glowing petales with little flowers in each flower petal.
+<img src='\public\uploads\2023\lotus-pendent.png' alt='lotus-pendent' title='lotus-pendent' style="float: right; max-width: 400px; margin: 10px; border: 1px solid black; padding: 5px">The whole thing should look like a Lotus flower of glowing petales with little flowers in each flower petal.
 
 ## Prior art
 
