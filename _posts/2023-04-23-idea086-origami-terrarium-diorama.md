@@ -39,7 +39,7 @@ Dye-ing the paper using natural dye from plants would be a nice touch. Then maki
 
 - [Impossibly Small Houseplants and Basketry Crafted from Paper by Raya Sader Bujana](https://www.thisiscolossal.com/2022/04/paper-plants-raya-sader-bujana/) - A good example of how small the paper flowers and plants can be for the diagrama
 - [Giant Paper Flower Sculptures by Tiffanie Turner](https://www.thisiscolossal.com/2016/06/new-giant-paper-flower-sculptures-by-tiffanie-turner/) - A good examples of types of paper sculpture flowers.
-
+- [Textile Sculptures by Lauren Pruen Preserve](https://www.thisiscolossal.com/2022/12/lauren-pruen-textile-flowers/) - Elegant Botanical Specimens Under Glass
 ## Market
 
 I could see these selling at craft fairies pretty easily.

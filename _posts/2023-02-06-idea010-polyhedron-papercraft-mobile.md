@@ -28,6 +28,7 @@ There are dozens of examples of this already. The [paper craft plans](https://ww
 - [Make a Beautiful Paper Polyhedron Mobile](https://crafts.tutsplus.com/tutorials/make-a-beautiful-paper-polyhedron-mobile--craft-4771)
 - [Mind-Blowing Modular Origami - The Art of Polyhedral Paper Folding](https://www.amazon.ca/Mind-Blowing-Modular-Origami-Polyhedral-Innovative/dp/4805313099)
 - [Idea 077 - Equilateral triangles LED panels](/idea077-equilateral-triangles-led-panels)
+- [Octopus mobile](https://www.instagram.com/p/CrZaETavLff/)
 
 ## Market
 

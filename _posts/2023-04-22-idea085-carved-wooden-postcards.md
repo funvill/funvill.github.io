@@ -46,7 +46,8 @@ Sending the postcards via mail is just a gimmick to make this project special. M
 
 ## Prior art
 
+Primary inspiration came from this youtuber [Michael Alm](https://www.almfab.com ) where he water painted ~141 pictures of mammals over a 2 year period. The video is about him [making 141 frames](https://www.youtube.com/watch?v=012r8PZKsEE ) for the art show but near the end he talks about this project.  
+
 - [Idea 3 - PCB Art of Every Mammal in BC](https://blog.abluestar.com/idea003-pcb-art-of-every-mammal-in-bc/)
 - [Idea 8 - Reconnect a postcard project](https://blog.abluestar.com/idea008-reconnect-a-post-card-project/)
-
-Primary inspiration came from this youtuber [Michael Alm](https://www.almfab.com ) where he water painted ~141 pictures of mammals over a 2 year period. The video is about him [making 141 frames](https://www.youtube.com/watch?v=012r8PZKsEE ) for the art show but near the end he talks about this project.  
+- [Delicately Carved Wood Engravings Are Transformed into Dreamlike Paintings by Matt Roussel](https://www.thisiscolossal.com/2022/11/matt-roussel-wood-engravings/)
