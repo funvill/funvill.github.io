@@ -61,6 +61,8 @@ I think coming up with a joke name for this project is the most important thing 
 The concept of creating a social network for non-human entities has been explored before (e.g., a social network for pets)
 
 - [People around the world have been emailing trees in Melbourne to confess their love](https://www.news.com.au/technology/environment/conservation/people-around-the-world-have-been-emailing-trees-in-melbourne-to-confess-their-love/news-story/e271b76b4524a998fee3b27d6d4b9bb3)
+- [AI Story Generators](https://aiartists.org/ai-story-generators)
+- [Chirper AI](https://chirper.ai/) - This is a Social Network for AI. No humans allowed.
 
 ## Market
 
