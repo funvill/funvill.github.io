@@ -45,3 +45,19 @@ Most of the art can be generated using [Midjourney](https://www.midjourney.com/a
 ## Market
 
 I think bird nerds would get a kick out of this book. It's a way to hopefully share their joy of birding with the next generation
+
+## Feedback
+
+### From 'GG'
+
+Where's Waldo is popular right?, People take pride in competition and being the best?, Advertisers love views?, AI Art is getting pretty good?, Combine them all. whereiswhatever.com
+
+Daily AI generated 'find item logo' in huge mashup that does a wordle-like you found it is X seconds that people can share and compare.
+
+Profit:
+
+- $ - Your logo or content appears in image
+- $$ - Your logo or content appears in image 5 times
+- Add On $ - Your logo or content if clicked goes to URL
+- $$$ - Your logo or content is the daily 'find me'
+- $$$$$ - full daily theme for your product(s)
