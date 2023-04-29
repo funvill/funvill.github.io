@@ -34,6 +34,7 @@ For projects
 - [Jiří Praus](https://www.hackster.io/jiripraus/projects)
 - [Peter Vogel sound circuit art](https://hellocircuits.com/2013/10/19/peter-vogel-sound-circuit-art/) - [Hackaday](https://hackaday.com/2021/11/10/a-breathtaking-circuit-sculpture-clock/)
 - [2020 circuit sculpture challenge](https://hackaday.io/contest/174093-2020-circuit-sculpture-challenge)
+- [Circuit Sculptures Workshop](https://www.youtube.com/watch?v=p5GvcxMcR74) from Remoticon 2020
 
 ## Market
 
