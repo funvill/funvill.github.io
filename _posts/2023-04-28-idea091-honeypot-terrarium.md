@@ -78,7 +78,8 @@ Maybe each attack is colored depending on what industrial protocol that is used 
 
 ## Prior art 
 
-[Map of The internet](https://xkcd.com/195/) (#195), and [Network](https://xkcd.com/350/) (#350) by [XKCD](https://xkcd.com/).
+- [Map of The internet](https://xkcd.com/195/) (#195), and [Network](https://xkcd.com/350/) (#350) by [XKCD](https://xkcd.com/).
+- [Inkplate e-ink screen shows Conway's Game of Life, seeded from tarpits](https://brettiverse.com/notice/APuMbqYB5HfTW8mtMG)
 
 ## Market 
 
