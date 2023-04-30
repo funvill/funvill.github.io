@@ -41,17 +41,17 @@ Having separate applications/binaries for each command line tool allows you to s
 
 #### Tools
 
-**tree** - Displays all the files and folders in a tree that can be expanded. Add options to show the file size, creation date, type of file, allow for filtering on. Allow the tree to be printed to PDF for including in manuals.
-**find/[fd](https://github.com/sharkdp/fd)** - Fuzzy search for files. Allow for looking in files by their file name or for a string within the files. Allow for simple templates for the fuzzy search. “?” for exactly one any character, “*” for one or more of any character.
-**DNS client / Nslookup / [dog](https://github.com/ogham/dog)** - A DNS client for the computer that looks up the DNS records for a domain. Including the contact information and the server information. A AAAA NS MX TXT records.
-**netstat** - What program is using what sockets ports UDP/TCP.
-**Systeminfo** - Create a report of all the hardware and software that is installed on your computer. Like a snapshot of its current state.
-**ipconfig / ifconfig** - Show your adapter settings, allow for release and renew of adapters, or manually setting the adapters ip addresses.
-**Assoc** - Associate file extensions with applications so that the user can double click them and open them up directly.
-**Tracert** - Tell how many computers are between you and another computer on the internet.
-**hosts** - Updates the local host file.
-**Ping** - Tell you how long it takes to communicate with another computer. Provides reports of uptime and downtime. Graphs the response time over a period of time. This can also be used as a speed test for your computer.
-**nmap** - A tool for scanning and probing networks and hosts for security and discovery purposes.
+- **tree** - Displays all the files and folders in a tree that can be expanded. Add options to show the file size, creation date, type of file, allow for filtering on. Allow the tree to be printed to PDF for including in manuals.
+- **find/[fd](https://github.com/sharkdp/fd)** - Fuzzy search for files. Allow for looking in files by their file name or for a string within the files. Allow for simple templates for the fuzzy search. “?” for exactly one any character, “*” for one or more of any character.
+- **DNS client / Nslookup / [dog](https://github.com/ogham/dog)** - A DNS client for the computer that looks up the DNS records for a domain. Including the contact information and the server information. A AAAA NS MX TXT records.
+- **netstat** - What program is using what sockets ports UDP/TCP.
+- **Systeminfo** - Create a report of all the hardware and software that is installed on your computer. Like a snapshot of its current state.
+- **ipconfig / ifconfig** - Show your adapter settings, allow for release and renew of adapters, or manually setting the adapters ip addresses.
+- **Assoc** - Associate file extensions with applications so that the user can double click them and open them up directly.
+- **Tracert** - Tell how many computers are between you and another computer on the internet.
+- **hosts** - Updates the local host file.
+- **Ping** - Tell you how long it takes to communicate with another computer. Provides reports of uptime and downtime. Graphs the response time over a period of time. This can also be used as a speed test for your computer.
+- **nmap** - A tool for scanning and probing networks and hosts for security and discovery purposes.
 
 There are literally 1000s of commands that could be converted to a desktop application.
 [Windows command line tools](https://www.lifewire.com/list-of-command-prompt-commands-4092302)
