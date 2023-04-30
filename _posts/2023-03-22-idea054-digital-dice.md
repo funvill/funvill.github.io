@@ -47,6 +47,7 @@ The dice could also have bluetooth connection to your phone. The phone app then 
 - [Glowing D20](https://twitter.com/GameWithPixels/status/1221551897896722433) - Regular d20 shape with LEDs embedded that glow whenever they are rolled. Bluetooth to your phone to show results. [Game With Pixels](https://gamewithpixels.com/), [Hack-A-Day Project](https://hackaday.io/project/28377-pixels)
 - [LED Dice Kit](https://www.aliexpress.com/item/32869776061.html)
 - [STORY DICE](https://davebirss.com/storydice-creative-story-ideas/) - YOUR HANDY STORY IDEA GENERATOR
+- [Pixels - The Electronic Dice](https://www.kickstarter.com/projects/pixels-dice/pixels-the-electronic-dice?ref=discovery_staff_picks_most_funded)
 
 ## Market
 

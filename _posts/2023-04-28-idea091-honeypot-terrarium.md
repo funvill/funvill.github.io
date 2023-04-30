@@ -72,15 +72,15 @@ If a glider goes off the edge of the grid make it loop to the other side. So it 
 
 Add ghosts to the dead cells, where they slowly fade away when they die instead of disappearing entirely.
 
-~~~Only tick the clock/iteration when a new attack happens. The more attacks the faster the animation occurred. This should mean that the screen will always have some alive cells on the screen at any given time~~~
+~~Only tick the clock/iteration when a new attack happens. The more attacks the faster the animation occurred. This should mean that the screen will always have some alive cells on the screen at any given time~~
 
-Maybe each attack is colored depending on what industrial protocol that is used for the attack. BACnet=Blue, Modbus=Red, etc… 
+Maybe each attack is colored depending on what industrial protocol that is used for the attack. BACnet=Blue, Modbus=Red, etc…
 
-## Prior art 
+## Prior art
 
 - [Map of The internet](https://xkcd.com/195/) (#195), and [Network](https://xkcd.com/350/) (#350) by [XKCD](https://xkcd.com/).
 - [Inkplate e-ink screen shows Conway's Game of Life, seeded from tarpits](https://brettiverse.com/notice/APuMbqYB5HfTW8mtMG)
 
-## Market 
+## Market
 
 Anyone in security, anyone who works in critical infrastructure.
