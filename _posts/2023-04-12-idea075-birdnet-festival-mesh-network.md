@@ -38,6 +38,7 @@ Modems used sound to transmit data across telephone wires. This technology has e
 - [Data-Over-Sound](https://innovationatwork.ieee.org/transferring-data-over-sound/)
 - [Quiet Modem Project](https://github.com/quiet/quiet) - This library uses liquid SDR to transmit data through sound. This makes it suitable for sending data across a 3.5mm headphone jack or via speaker and mic.
 - [Audio Modem Communication Library](https://github.com/romanz/amodem) - transmit a file between 2 computers, using a simple headset, allowing true air-gapped communication (via a speaker and a microphone) [Hacker News](https://news.ycombinator.com/item?id=17333257)
+- [GGWave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library. Most of the work is done.
 
 ## Market
 
