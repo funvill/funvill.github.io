@@ -30,6 +30,7 @@ Motion Exposure by [Stephen Orlando](https://www.motionexposure.com/)
 - [Motion Exposure: Light Painting Photography by Stephen Orlando](https://theinspirationgrid.com/motion-exposure-light-painting-photography-by-stephen-orlando/), [Motion Exposure](https://www.motionexposure.com/), [HackADay Article](https://hackaday.com/2014/12/04/motion-through-time-painted-in-light/)
 - [Experimental Light Painting Photographs with Lights Strapped to Wakeboards](https://petapixel.com/2013/04/11/experimental-light-painting-photographs-with-lights-strapped-to-wakeboards/)
 - [Light Painting with Raspberry Pi](https://learn.adafruit.com/light-painting-with-raspberry-pi/overview), [LightScythe](https://sites.google.com/site/mechatronicsguy/lightscythe)
+- [pixelstick-light-painting-evolved](https://www.kickstarter.com/projects/bitbangerlabs/pixelstick-light-painting-evolved?ref=discovery_staff_picks_most_funded) - found after posting
 
 ## Market
 
