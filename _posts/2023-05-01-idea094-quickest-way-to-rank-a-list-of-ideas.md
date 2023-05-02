@@ -15,6 +15,8 @@ Use a sorting algorithm to efficiently sort a list of ideas/projects/people/thin
 
 ## Description
 
+> 👉 **Done!** project can be found here [Idea094-Quicksort](https://github.com/funvill/Idea094-Quicksort)
+
 I need a way of sorting all of the ideas from the 100 day project to decide what ones I should work on.  There are so many ideas that it's hard to take it all at once and would be burdensome to ask friends to rank them. I also want to make the least amount of comparisons (is this idea better than this idea) between each idea as possible.
 
 Lucky computer science has a lot of history efficiently sorting lists of items that can be compared to each other. See [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
@@ -24,3 +26,7 @@ When selecting a sorting algorithm I am looking for one that has the lowest “C
 First use [bucket sort](https://en.wikipedia.org/wiki/Bucket_sort) across all of the elements. Sort them into 3 buckets. Good, Okay, Bad. I drop the bad bucket, as they don’t need to be sorted as I won’t actually do any of these ideas. Then sort the “good” category using [Merge sort](https://en.wikipedia.org/wiki/Merge_sort). Merge sort is slightly faster for worst-case performance then [QuickSort](https://en.wikipedia.org/wiki/Quicksort) at the cost of memory (We have infinite memory)
 
 The interface can be a [hot or not](https://en.wikipedia.org/wiki/Hot_or_Not) interface. Where the two items are shown on the screen at the same time and I need to pick the better of the two.
+
+## Prior Art
+
+- [Sounds of Sorting algorithm](https://www.youtube.com/watch?v=kPRA0W1kECg&t=6s)
