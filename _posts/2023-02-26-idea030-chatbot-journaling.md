@@ -47,7 +47,7 @@ I would be surprised if this was a new idea, but the creation of the knowledge w
 
 - [idea-10-journaling-chatbot](https://medium.com/idailies/idea-10-journaling-chatbot-1d596c656835)
 - [How Artificial Intelligence and Journaling Make Us More Aware of Our Emotions](https://writingcooperative.com/how-artificial-intelligence-and-journaling-make-us-more-aware-of-our-emotions-d7a32ef34ede)
-
+- [Woe Bot Health](https://woebothealth.com/adult-mental-health/) - chatbot
 ## Market
 
 People who already like to journal
