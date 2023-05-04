@@ -58,3 +58,11 @@ Everyone is playing the same game. When you enter the game you are positioned tw
 When new enemies are created their level is based on the average of the room at the time that they were created.
 
 No PVP, instead the reason that you would join the online version is to join forces and kill bigger monsters. Maybe some monsters only spawn if there are multiple people in the room.
+
+### Other
+
+You only have one gun, To change the style of gun you need to collect other gun parts from around the map. Each gun part effects the gun performance, adds stats, adds path for the bullets to fly, adds more bullets per shot, spreads the bullets around you. Each trait added to the gun changes the name. The name becomes longer with each trait "magic rocket spread explosive delayed boosted gun". The base gun shoots forward, all other gun parts changes that actions. Think munchkin for guns.
+
+Maybe use the ant hell story line. Ants dug to deep into the ground and hit hell. Mutated and these are the monsters that we are attacking.
+
+Each week we work on a new gun part, or monster, or perk that people can pick up around the map. Each week we add one more element to the game. We solicit feedback from the community to make them part of it. Make other people part of the game
