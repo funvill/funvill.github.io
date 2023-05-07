@@ -3,7 +3,7 @@ layout: single
 title: Idea 43 - BACnet MSTP Testing conference Badge
 date: '2023-03-11 00:43'
 categories: ideas
-tags: electronics conference projects ideas
+tags: electronics pcb conference projects ideas
 excerpt: A convention badge for BACnet plugfest that is useful for testing
 ---
 

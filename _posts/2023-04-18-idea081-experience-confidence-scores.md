@@ -1,9 +1,9 @@
 ---
 layout: single
 title: Idea 081 - Experience confidence scores
-date: '2023-04-18 01:20'
+date: '2023-04-18 01:21'
 categories: ideas
-tags: skills badges projects ideas
+tags: skills saas projects ideas
 excerpt: Allows people to assert their experience with a skill with 3rd parties confidence score
 ---
 

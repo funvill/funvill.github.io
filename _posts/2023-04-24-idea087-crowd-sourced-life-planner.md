@@ -1,9 +1,9 @@
 ---
 layout: single
 title: Idea 087 - Crowd sourced life planner
-date: '2023-04-24 01:34'
+date: '2023-04-24 01:27'
 categories: ideas
-tags: projects ideas
+tags: projects saas ideas
 excerpt: A website that uses flowcharts and other tools for helping with life choices all users submitted
 ---
 

@@ -3,7 +3,7 @@ layout: single
 title: Idea 7 - Emoji Macro Pad Keyboard 
 date: '2023-02-03 00:07'
 categories: ideas
-tags: keyboards projects ideas
+tags: keyboards emoji projects ideas
 excerpt: A macro pad keyboard with most commonly used Emoji as key caps for quick access when you want to respond to a message with an iconography
 ---
 
@@ -36,8 +36,6 @@ I am sure that everyone has their own top 16 emoji that they use. Personally min
 - [Emoji Backlit Keycap Set - 61 keys with 6.25 Layout](https://www.etsy.com/ca/listing/1326230451/emoji-backlit-keycap-set-61-keys-with) - Full keyboard set of 61 keys. You cannot select the ones that you want to use, but its pretty good selection.
 - [An Emoji Keyboard Cover for Apple MacBooks and Apple Wireless Keyboards](https://laughingsquid.com/an-emoji-keyboard-cover-for-apple-macbooks-and-apple-wireless-keyboards/) - Plastic mat that goes over top of your MacBooks keyboard. The Emoji are full color but are sized too small and are ugly.
 - [Emoji macropad for Discord](https://www.youtube.com/watch?v=NGPvuCFWLNg) - Not the standard emoji but instead little pads with clear tops that you can add your own images into
-
-
 
 ## Market
 

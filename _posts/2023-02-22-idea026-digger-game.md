@@ -3,7 +3,7 @@ layout: single
 title: Idea 26 - Digger game
 date: '2023-02-22 00:26'
 categories: ideas
-tags: puzzles projects ideas
+tags: game projects ideas
 excerpt: Resource management, worker placement, exploration tile game. 
 ---
 

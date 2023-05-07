@@ -1,9 +1,9 @@
 ---
 layout: single
 title: Idea 099 - Stevens projects club
-date: '2023-05-03 01:47'
+date: '2023-05-06 01:39'
 categories: ideas
-tags: projects ideas
+tags: projects subscriptions ideas
 excerpt: Patreon subscription for people receive one of Steven’s projects twice a year
 ---
 

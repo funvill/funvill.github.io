@@ -3,7 +3,7 @@ layout: single
 title: Idea 56 - Great people make great movies
 date: '2023-03-24 00:56'
 categories: ideas
-tags: movies projects ideas
+tags: movies saas projects ideas
 excerpt: A movie recommendation site based on the people who work on movies
 ---
 

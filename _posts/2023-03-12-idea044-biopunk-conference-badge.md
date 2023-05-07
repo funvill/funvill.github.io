@@ -3,7 +3,7 @@ layout: single
 title: Idea 44 - Bio Punk Conference badge
 date: '2023-03-12 00:44'
 categories: ideas
-tags: electronics conference projects ideas
+tags: electronics pcb conference projects ideas
 excerpt: A convention badge for BACnet plugfest that is useful for testing
 ---
 

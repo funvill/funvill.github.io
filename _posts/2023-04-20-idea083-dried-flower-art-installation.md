@@ -1,17 +1,17 @@
 ---
 layout: single
 title: Idea 083 - Dried flower art installation
-date: '2023-04-20 01:30'
+date: '2023-04-20 01:23'
 categories: ideas
 tags: flowers art installtion projects ideas
-excerpt: A staircase tunnel of glowing dried flowers
+excerpt: A staircase tunnel of glowing dried flowers in shards of glass
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
-A staircase tunnel of glowing dried flowers
+A staircase tunnel of glowing dried flowers in shards of glass
 
 ## Description
 

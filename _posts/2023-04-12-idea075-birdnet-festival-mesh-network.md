@@ -3,15 +3,15 @@ layout: single
 title: Idea 075 - Birdnet festival mesh network
 date: '2023-04-12 01:15'
 categories: ideas
-tags: art leds projects ideas
-excerpt: An art installation of a sphere of LEDS that show the night sky from outside earth
+tags: art installtion audio projects ideas
+excerpt: A mesh network of birdhouses that chirp messages to each other using audio for the physical layer of the network
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
-A mesh network of birdhouses that chirp messages to each other entered in by festival goers.
+A mesh network of birdhouses that chirp messages to each other using audio for the physical layer of the network
 
 ## Description
 

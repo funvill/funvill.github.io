@@ -3,15 +3,15 @@ layout: single
 title: Idea 59 - Alices Adventures in Wonderland in a million parts
 date: '2023-03-27 00:59'
 categories: ideas
-tags: art stained projects ideas
-excerpt: Stained glass windows for each location in Alices Adventures in Wonderland
+tags: art Stainedglass projects ideas
+excerpt: Stainedglass windows for each location in Alices Adventures in Wonderland
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
-Stained glass windows for each location in Alice's Adventures in Wonderland
+Stainedglass windows for each location in Alice's Adventures in Wonderland
 
 ## Description
 

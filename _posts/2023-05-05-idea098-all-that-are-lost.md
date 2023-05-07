@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 098 - All that are lost
-date: '2023-05-03 01:46'
+date: '2023-05-05 01:38'
 categories: ideas
 tags: eletronics projects ideas
 excerpt: GeoHashing on a pendant for exploring the world

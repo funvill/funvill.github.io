@@ -40,6 +40,7 @@ This service can be used to create [Idea 7 - Emoji Macro Pad Keyboard](/idea007-
 Sometimes you find the exact implementation that you were thinking of doing, only better. This is one of thous cases.
 
 - [WASD Keyboards](https://www.wasdkeyboards.com/105-key-iso-custom-cherry-mx-keycap-set.html) does exactly what I was looking for only better and has been doing it for years. They even have a great tool for designing keyboard caps.
+- [Dye Keycaps](https://hackaday.com/2023/05/04/easters-over-but-you-can-still-dye-keycaps/)
 
 ## Market
 

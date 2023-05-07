@@ -3,7 +3,7 @@ layout: single
 title: Idea 57 - Movie Mogul Mania
 date: '2023-03-25 00:57'
 categories: ideas
-tags: movies projects ideas
+tags: movies saas projects ideas
 excerpt: A fantasy movie league where players draft actors and films to earn points based on award nominations and wins, box office sales, and other movie statistics
 ---
 

@@ -3,7 +3,7 @@ layout: single
 title: Idea 52 - Landscape Table
 date: '2023-03-20 00:52'
 categories: ideas
-tags: map furniture projects ideas
+tags: map cnc furniture projects ideas
 excerpt: A coffee table with a CNC topographical map with contour and elevation lines
 ---
 

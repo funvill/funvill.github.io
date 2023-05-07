@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 089 - Wheres Wren?
-date: '2023-04-26 01:36'
+date: '2023-04-26 01:29'
 categories: ideas
 tags: art book birds projects ideas
 excerpt: A Wheres Waldo hunt and search photo book that teaches people how to ID local species of birds.

@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Idea 079 - Gorilla water quality monitoring device
-date: '2023-04-16 01:18'
+title: Idea 079 - "Gorilla" water quality monitoring device
+date: '2023-04-16 01:19'
 categories: ideas
-tags: pcb science water projects ideas
+tags: pcb sensors science water projects ideas
 excerpt: Citizen science water quality monitoring device
 ---
 
@@ -17,7 +17,7 @@ Citizen science water quality monitoring device
 
 When an industry or mining operation accidentally contaminated a river or stream it can take months to years for the damage to be detected. The larger rivers are monitored but the smaller streams can go unnoticed for a long time.
 
-I propose creating a gorilla water quality monitoring device ([citizen science](https://citizenscience.org/)) that is cheap enough to be put in EVERY STREAM in the province, to do the very basic monitoring and data logging. These devices would be purchased by individual members of society, then installed, and eventually recovered and replaced a few months/years later.
+I propose creating a ~gorilla~ [guerrilla](https://en.wikipedia.org/wiki/Guerrilla_warfare) water quality monitoring device ([citizen science](https://citizenscience.org/)) that is cheap enough to be put in EVERY STREAM in the province, to do the very basic monitoring and data logging. These devices would be purchased by individual members of society, then installed, and eventually recovered and replaced a few months/years later.
 
 With a Bill of Materials costs of <$10-$20 there is a limited amount of sensors and features that can be put on this device. A radio (loWAN, GSM, 3G, etc..) or mesh networking is out of the question. Fancy solar panels or charging is out, it needs to be dead simple.
 

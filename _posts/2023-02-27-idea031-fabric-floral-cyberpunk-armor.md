@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Idea 31 - Fabric floral Cyberpunk Armor
+title: Idea 31 - Fabric Floral Cyberpunk Armor
 date: '2023-02-27 00:31'
 categories: ideas
 tags: costums projects ideas
