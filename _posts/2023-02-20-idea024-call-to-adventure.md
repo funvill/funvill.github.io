@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 24 - Call to Adventure 
+title: Idea 024 - Call to Adventure 
 date: '2023-02-20 00:24'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: boardgame cardgame projects ideas
 excerpt: A mystery letter is delivered filled with puzzles that need to be solved in order to give directions to a meeting place for the start of an adventure.
 ---

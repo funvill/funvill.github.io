@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 54 - Digital Dices
+title: Idea 054 - Digital Dices
 date: '2023-03-22 00:54'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: books publishing eletronics projects ideas
 excerpt: A dice that when rolled shows a random number within a range on a screen
 ---

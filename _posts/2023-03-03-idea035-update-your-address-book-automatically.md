@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 35 - Update your address book automatically
+title: Idea 035 - Update your address book automatically
 date: '2023-03-03 00:35'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: contacts projects ideas
 excerpt: Get your contacts to update their information in your address book
 ---

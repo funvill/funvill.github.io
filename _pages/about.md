@@ -64,7 +64,7 @@ See [projects page](https://blog.abluestar.com/projects/) for a full list.
 - (2020) [Tender Threads 2](https://blog.abluestar.com/projects/2020-tender-threads2/) - Short movie about the feelings of a puppet
 - (2019) [Illuminated Stained Glass Tetragonal Trapezohedron](https://blog.abluestar.com/projects/2019-illuminated-stained-glass-tetragonal-trapezohedron/) - Illuminated Stained Glass Tetragonal Trapezohedron sculpture
 - (2019) [Illuminated Stained Glass Sixteen Segment Display](https://blog.abluestar.com/projects/2019-illuminated-stained-glass-sixteen-segment-display/) - Illuminated Stained Glass Sixteen Segment Display
-- (2018) [Stained Glass Windows](https://blog.abluestar.com/projects/2018-stained-glass-window/) - A series of hexagon stain glass windows
+- (2018) [Stained Glass Windows](https://blog.abluestar.com/projects/2018-stained-glass-window/) - A series of hexagon stainglass windows
 - (2017) [Thunderstorm cloud](https://blog.abluestar.com/projects/2017-thunderstorm-cloud/) - A interactive lamp that mimics thunderstorm cloud.
 - (2017) [Laser Kaleidoscope](https://blog.abluestar.com/projects/2017-laser-kaleidoscope/) - Moving lasers which generate twisting fractal shapes
 - (2017) [LED Pillar](https://blog.abluestar.com/projects/2017-led-pillar/) - A game using a single strip of LEDs as a display. Made for Vancouver Mini Maker Faire 2017

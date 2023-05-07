@@ -2,7 +2,7 @@
 layout: single
 title: Idea 097 - Modern decoder ring
 date: '2023-05-04 01:37'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: pcb cryptography electronics projects ideas
 excerpt: A modern decoder ring that uses strong modern cryptography encryption methods
 ---

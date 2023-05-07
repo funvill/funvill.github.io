@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 4 - Universal Serial breakout board
+title: Idea 004 - Universal Serial breakout board
 date: '2023-01-31 00:04'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: projects ideas pcb serial rs232 rs485 ttl db9 db25
 excerpt: A USB to Serial port board that supports many different physical layers. TTL 3.3v, 5v, RS232, RS485 2wire and 4 wire. DB9, DB25, Screw down terminals, etc
 ---

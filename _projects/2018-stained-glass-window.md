@@ -1,6 +1,6 @@
 ---
 title: (2018) Stained Glass Windows
-excerpt: A series of hexagon stain glass windows 
+excerpt: A series of hexagon stainglass
 post_date: 2018-01-01 00:00:00
 header:
   teaser: /public/uploads/teaser_2018_StainedGlassWindows.png

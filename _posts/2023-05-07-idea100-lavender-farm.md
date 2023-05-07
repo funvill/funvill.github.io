@@ -2,7 +2,7 @@
 layout: single
 title: Idea 100 - Lavender Farm
 date: '2023-05-07 01:40'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: farming lavender projects ideas
 excerpt: Creating a lavender farm for essential oils as a retirement project
 ---

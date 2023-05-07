@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 47 - Weekly Scavenger Hunt
+title: Idea 047 - Weekly Scavenger Hunt
 date: '2023-03-15 00:47'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: ml scavenger-hunt game projects ideas
 excerpt: An automatically weekly generated global scavenger hunt with leaderboard
 ---

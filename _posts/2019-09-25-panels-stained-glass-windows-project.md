@@ -4,7 +4,7 @@ title: Panels - Stained glass windows project
 date: '2019-09-25 00:01'
 categories: 
     - projects
-    - stain glass windows 
+    - stainglass
 ---
 
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 

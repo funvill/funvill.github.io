@@ -2,7 +2,7 @@
 layout: single
 title: Idea 095a - Light Graffiti Projector
 date: '2023-05-02 01:35'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: art graffiti installtion projects ideas
 excerpt: Cheap and easy way of projecting a message onto a building
 ---

@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 3 - PCB Art of Every Mammal in BC
+title: Idea 003 - PCB Art of Every Mammal in BC
 date: '2023-01-30 00:03'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: electronics pcb aniamls projects ideas
 excerpt: A series of PCB art badges, one for each mammal in BC. Each badge has a small sensor and some LEDs that relate to the mammal. Make a limited edition series of each mammal and show off the series at an art show.
 ---

@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 10 - Polyhedron Papercraft Mobile
+title: Idea 010 - Polyhedron Papercraft Mobile
 date: '2023-02-06 00:10'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: papercraft polyhedron art projects ideas
 excerpt: Create a mobile of regular polyhedrons and other geometry shapes using papercraft
 ---

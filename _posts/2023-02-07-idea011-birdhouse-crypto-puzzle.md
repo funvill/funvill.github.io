@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 11 - Birdhouse Crypto Puzzle 
+title: Idea 011 - Birdhouse Crypto Puzzle 
 date: '2023-02-07 00:11'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: birdhouse birds puzzle art projects ideas
 excerpt: Homes for birds, and puzzles for humans
 ---

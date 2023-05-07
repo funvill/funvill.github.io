@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 9 - Princess Peach castle stained glass window
+title: Idea 009 - Princess Peach castle stained glass window
 date: '2023-02-05 00:09'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: stainedglass art projects ideas
 excerpt: Before the Mario movie release date, create a replica of the Princess Peach castle stained glass window using the digital stained glass method
 ---

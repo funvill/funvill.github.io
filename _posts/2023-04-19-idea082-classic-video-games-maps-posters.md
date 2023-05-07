@@ -2,7 +2,7 @@
 layout: single
 title: Idea 082 - Classic video games maps posters
 date: '2023-04-19 01:22'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: poster art projects ideas
 excerpt: A poster of level maps for classic 80s and 90s video games nostalgia
 ---

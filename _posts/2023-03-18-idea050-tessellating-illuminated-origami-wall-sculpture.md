@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 50 - Tessellating Illuminated Origami Wall Sculpture
+title: Idea 050 - Tessellating Illuminated Origami Wall Sculpture
 date: '2023-03-18 00:50'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: art origami tessellating led projects ideas
 excerpt: Origami Sacred Geometry + Individually addressable RGB LEDs + Wall Sculpture + interactive
 ---

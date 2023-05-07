@@ -2,7 +2,7 @@
 layout: single
 title: Idea 075 - Birdnet festival mesh network
 date: '2023-04-12 01:15'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: art installtion audio projects ideas
 excerpt: A mesh network of birdhouses that chirp messages to each other using audio for the physical layer of the network
 ---

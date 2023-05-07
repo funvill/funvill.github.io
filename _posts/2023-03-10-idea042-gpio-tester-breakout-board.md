@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Idea 42 - GPIO tester breakout board
+title: Idea 042 - GPIO tester breakout board
 date: '2023-03-10 00:42'
-categories: ideas
+categories: ideas YearOfIdeas
 tags: electronics pcb projects ideas
 excerpt: A 8 position dip switches breakout board
 ---
