@@ -57,6 +57,9 @@ What has already been done in this field, where can I draw ideas from,
 - [Picoplanet](https://www.tindie.com/products/bleeptrack/picoplanet/) has a procedurally generated touch pad, that looks similar.
 - [haxophone](https://github.com/jcard0na/haxo-hw) - [HackADay](https://hackaday.com/2023/03/14/mechanical-keyboard-as-travel-saxophone/) post
 - [Zelda “Ocarina of time”](https://www.youtube.com/watch?v=w84tT7SJ3PY)
+- [Hyve Synth](https://www.youtube.com/watch?v=pLG0hqTtlgA) - Touch sensor synth
+- [Landscape Stereo Field](https://www.youtube.com/watch?v=B_aMIUOaD-Q) - Touch sensor for voltage
+- [Pressure sensitive Touch plate](https://www.youtube.com/watch?v=DT6nZsixP0M)
 
 ## Market
 

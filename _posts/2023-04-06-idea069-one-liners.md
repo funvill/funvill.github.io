@@ -15,7 +15,7 @@ All the bad one liner ideas that won't get developed into anything
 
 ## Description
 
-36 throwaway ideas for the 69th idea day.
+36 throwaway ideas for the 69th idea day. The idea is to make a post about them so I can clear my backlog. Writing this post marks this project as done ✅
 
 ### Sexy Ideas
 

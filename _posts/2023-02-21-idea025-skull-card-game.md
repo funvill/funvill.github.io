@@ -13,6 +13,10 @@ excerpt: Laser cut or PCB fancy versions of the Skull card game
 
 Laser cut or PCB fancy versions of the Skull card game
 
+## ✅ Done
+
+Project files can be found here [Skull Game PCB](https://github.com/funvill/skull-game-pcb)
+
 ## Description
 
 <img src="/public/uploads/2023/skull.png" alt="Skull" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The [Skull card game](https://boardgamegeek.com/boardgame/92415/skull) only has 2 unique pieces for each player.  3x cards with a flower face and 1x cards with a skull face. The backside of all the cards are the same.

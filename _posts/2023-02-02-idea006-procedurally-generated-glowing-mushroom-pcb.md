@@ -13,6 +13,10 @@ excerpt: Procedurally generated Art PCB of mushrooms for the GameOfShrroms art p
 
 Procedurally generated Art PCB of mushrooms for the [#GameOfShrroms](https://yumfactory.com/gameofshrooms/) art project. Backlit LEDs to add a nice glowing effect.
 
+## ✅ Done
+
+Project files can be found here [GameOfShrooms2023](https://github.com/funvill/GameOfShrooms2023)
+
 ## Description
 
 > [Game of Shrooms](https://yumfactory.com/gameofshrooms/) is a once a year world-wide art N seek event created by [Attaboy](https://yumfactory.com/). The next Game of Shrooms happens on June 10th, 2023. On that day, artists from all over the world hide their original mushroom-themed artworks in public places, then they give hints (often on social media) for others to find AND KEEP!
