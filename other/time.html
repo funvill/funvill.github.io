@@ -1,0 +1,704 @@
+<!---
+    # Simple online digital clock
+    https://blog.abluestar.com/other/time.html 
+
+    ## Change log 
+    - 2.0 (2023-Sept-14) - Updated to have moon and sun charts based on IP address from https://ipapi.is and https://github.com/mourner/suncalc
+    - 1.2 (2021-June-17) - Update the progress bars background color based on palettes from https://www.colourlovers.com
+    - 1.1 (2021-June-15) - Updated the hours to use 24 hours clock.
+                         - Added progress bars for hours, minutes, seconds
+    - 1.0 (2021-June-04) - Created
+-->
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <title>Simple online digital clock v2.0</title>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width,initial-scale=1' />
+    <meta name='description' content='Simple online digital clock' />
+    <meta NAME='robots' CONTENT='noindex' />
+
+    <script type='text/javascript'>
+        /* Global */
+        let currentDate = new Date();
+        let keyValueDb = {};
+    </script>
+
+    <script type='text/javascript'>
+        /*
+         (c) 2011-2015, Vladimir Agafonkin
+         SunCalc is a JavaScript library for calculating sun/moon position and light phases.
+         https://github.com/mourner/suncalc
+        */
+
+        (function () {
+            'use strict';
+
+            // shortcuts for easier to read formulas
+            var PI = Math.PI,
+                sin = Math.sin,
+                cos = Math.cos,
+                tan = Math.tan,
+                asin = Math.asin,
+                atan = Math.atan2,
+                acos = Math.acos,
+                rad = PI / 180;
+
+            // sun calculations are based on http://aa.quae.nl/en/reken/zonpositie.html formulas
+
+            // date/time constants and conversions
+            var dayMs = 1000 * 60 * 60 * 24,
+                J1970 = 2440588,
+                J2000 = 2451545;
+
+            function toJulian(date) { return date.valueOf() / dayMs - 0.5 + J1970; }
+            function fromJulian(j) { return new Date((j + 0.5 - J1970) * dayMs); }
+            function toDays(date) { return toJulian(date) - J2000; }
+
+
+            // general calculations for position
+            var e = rad * 23.4397; // obliquity of the Earth
+
+            function rightAscension(l, b) { return atan(sin(l) * cos(e) - tan(b) * sin(e), cos(l)); }
+            function declination(l, b) { return asin(sin(b) * cos(e) + cos(b) * sin(e) * sin(l)); }
+            function azimuth(H, phi, dec) { return atan(sin(H), cos(H) * sin(phi) - tan(dec) * cos(phi)); }
+            function altitude(H, phi, dec) { return asin(sin(phi) * sin(dec) + cos(phi) * cos(dec) * cos(H)); }
+            function siderealTime(d, lw) { return rad * (280.16 + 360.9856235 * d) - lw; }
+
+            function astroRefraction(h) {
+                if (h < 0) // the following formula works for positive altitudes only.
+                    h = 0; // if h = -0.08901179 a div/0 would occur.
+
+                // formula 16.4 of "Astronomical Algorithms" 2nd edition by Jean Meeus (Willmann-Bell, Richmond) 1998.
+                // 1.02 / tan(h + 10.26 / (h + 5.10)) h in degrees, result in arc minutes -> converted to rad:
+                return 0.0002967 / Math.tan(h + 0.00312536 / (h + 0.08901179));
+            }
+
+            // general sun calculations
+            function solarMeanAnomaly(d) { return rad * (357.5291 + 0.98560028 * d); }
+
+            function eclipticLongitude(M) {
+
+                var C = rad * (1.9148 * sin(M) + 0.02 * sin(2 * M) + 0.0003 * sin(3 * M)), // equation of center
+                    P = rad * 102.9372; // perihelion of the Earth
+
+                return M + C + P + PI;
+            }
+
+            function sunCoords(d) {
+
+                var M = solarMeanAnomaly(d),
+                    L = eclipticLongitude(M);
+
+                return {
+                    dec: declination(L, 0),
+                    ra: rightAscension(L, 0)
+                };
+            }
+
+            var SunCalc = {};
+
+            // calculates sun position for a given date and latitude/longitude
+            SunCalc.getPosition = function (date, lat, lng) {
+
+                var lw = rad * -lng,
+                    phi = rad * lat,
+                    d = toDays(date),
+
+                    c = sunCoords(d),
+                    H = siderealTime(d, lw) - c.ra;
+
+                return {
+                    azimuth: azimuth(H, phi, c.dec),
+                    altitude: altitude(H, phi, c.dec)
+                };
+            };
+
+
+            // sun times configuration (angle, morning name, evening name)
+            var times = SunCalc.times = [
+                [-0.833, 'sunrise', 'sunset'],
+                [-0.3, 'sunriseEnd', 'sunsetStart'],
+                [-6, 'dawn', 'dusk'],
+                [-12, 'nauticalDawn', 'nauticalDusk'],
+                [-18, 'nightEnd', 'night'],
+                [6, 'goldenHourEnd', 'goldenHour']
+            ];
+
+            // adds a custom time to the times config
+            SunCalc.addTime = function (angle, riseName, setName) {
+                times.push([angle, riseName, setName]);
+            };
+
+
+            // calculations for sun times
+            var J0 = 0.0009;
+
+            function julianCycle(d, lw) { return Math.round(d - J0 - lw / (2 * PI)); }
+            function approxTransit(Ht, lw, n) { return J0 + (Ht + lw) / (2 * PI) + n; }
+            function solarTransitJ(ds, M, L) { return J2000 + ds + 0.0053 * sin(M) - 0.0069 * sin(2 * L); }
+            function hourAngle(h, phi, d) { return acos((sin(h) - sin(phi) * sin(d)) / (cos(phi) * cos(d))); }
+            function observerAngle(height) { return -2.076 * Math.sqrt(height) / 60; }
+
+            // returns set time for the given sun altitude
+            function getSetJ(h, lw, phi, dec, n, M, L) {
+
+                var w = hourAngle(h, phi, dec),
+                    a = approxTransit(w, lw, n);
+                return solarTransitJ(a, M, L);
+            }
+
+
+            // calculates sun times for a given date, latitude/longitude, and, optionally,
+            // the observer height (in meters) relative to the horizon
+            SunCalc.getTimes = function (date, lat, lng, height) {
+
+                height = height || 0;
+                var lw = rad * -lng,
+                    phi = rad * lat,
+
+                    dh = observerAngle(height),
+
+                    d = toDays(date),
+                    n = julianCycle(d, lw),
+                    ds = approxTransit(0, lw, n),
+
+                    M = solarMeanAnomaly(ds),
+                    L = eclipticLongitude(M),
+                    dec = declination(L, 0),
+
+                    Jnoon = solarTransitJ(ds, M, L),
+
+                    i, len, time, h0, Jset, Jrise;
+
+
+                var result = {
+                    solarNoon: fromJulian(Jnoon),
+                    nadir: fromJulian(Jnoon - 0.5)
+                };
+
+                for (i = 0, len = times.length; i < len; i += 1) {
+                    time = times[i];
+                    h0 = (time[0] + dh) * rad;
+
+                    Jset = getSetJ(h0, lw, phi, dec, n, M, L);
+                    Jrise = Jnoon - (Jset - Jnoon);
+
+                    result[time[1]] = fromJulian(Jrise);
+                    result[time[2]] = fromJulian(Jset);
+                }
+
+                return result;
+            };
+
+
+            // moon calculations, based on http://aa.quae.nl/en/reken/hemelpositie.html formulas
+            function moonCoords(d) { // geocentric ecliptic coordinates of the moon
+
+                var L = rad * (218.316 + 13.176396 * d), // ecliptic longitude
+                    M = rad * (134.963 + 13.064993 * d), // mean anomaly
+                    F = rad * (93.272 + 13.229350 * d),  // mean distance
+
+                    l = L + rad * 6.289 * sin(M), // longitude
+                    b = rad * 5.128 * sin(F),     // latitude
+                    dt = 385001 - 20905 * cos(M);  // distance to the moon in km
+
+                return {
+                    ra: rightAscension(l, b),
+                    dec: declination(l, b),
+                    dist: dt
+                };
+            }
+
+            SunCalc.getMoonPosition = function (date, lat, lng) {
+                var lw = rad * -lng,
+                    phi = rad * lat,
+                    d = toDays(date),
+
+                    c = moonCoords(d),
+                    H = siderealTime(d, lw) - c.ra,
+                    h = altitude(H, phi, c.dec),
+                    // formula 14.1 of "Astronomical Algorithms" 2nd edition by Jean Meeus (Willmann-Bell, Richmond) 1998.
+                    pa = atan(sin(H), tan(phi) * cos(c.dec) - sin(c.dec) * cos(H));
+
+                h = h + astroRefraction(h); // altitude correction for refraction
+
+                return {
+                    azimuth: azimuth(H, phi, c.dec),
+                    altitude: h,
+                    distance: c.dist,
+                    parallacticAngle: pa
+                };
+            };
+
+
+            // calculations for illumination parameters of the moon,
+            // based on http://idlastro.gsfc.nasa.gov/ftp/pro/astro/mphase.pro formulas and
+            // Chapter 48 of "Astronomical Algorithms" 2nd edition by Jean Meeus (Willmann-Bell, Richmond) 1998.
+            SunCalc.getMoonIllumination = function (date) {
+
+                var d = toDays(date || new Date()),
+                    s = sunCoords(d),
+                    m = moonCoords(d),
+
+                    sdist = 149598000, // distance from Earth to Sun in km
+
+                    phi = acos(sin(s.dec) * sin(m.dec) + cos(s.dec) * cos(m.dec) * cos(s.ra - m.ra)),
+                    inc = atan(sdist * sin(phi), m.dist - sdist * cos(phi)),
+                    angle = atan(cos(s.dec) * sin(s.ra - m.ra), sin(s.dec) * cos(m.dec) -
+                        cos(s.dec) * sin(m.dec) * cos(s.ra - m.ra));
+
+                return {
+                    fraction: (1 + cos(inc)) / 2,
+                    phase: 0.5 + 0.5 * inc * (angle < 0 ? -1 : 1) / Math.PI,
+                    angle: angle
+                };
+            };
+
+
+            function hoursLater(date, h) {
+                return new Date(date.valueOf() + h * dayMs / 24);
+            }
+
+            // Calculations for moon rise/set times are based on http://www.stargazing.net/kepler/moonrise.html article
+            SunCalc.getMoonTimes = function (date, lat, lng, inUTC) {
+                var t = new Date(date);
+                if (inUTC) t.setUTCHours(0, 0, 0, 0);
+                else t.setHours(0, 0, 0, 0);
+
+                var hc = 0.133 * rad,
+                    h0 = SunCalc.getMoonPosition(t, lat, lng).altitude - hc,
+                    h1, h2, rise, set, a, b, xe, ye, d, roots, x1, x2, dx;
+
+                // go in 2-hour chunks, each time seeing if a 3-point quadratic curve crosses zero (which means rise or set)
+                for (var i = 1; i <= 24; i += 2) {
+                    h1 = SunCalc.getMoonPosition(hoursLater(t, i), lat, lng).altitude - hc;
+                    h2 = SunCalc.getMoonPosition(hoursLater(t, i + 1), lat, lng).altitude - hc;
+
+                    a = (h0 + h2) / 2 - h1;
+                    b = (h2 - h0) / 2;
+                    xe = -b / (2 * a);
+                    ye = (a * xe + b) * xe + h1;
+                    d = b * b - 4 * a * h1;
+                    roots = 0;
+
+                    if (d >= 0) {
+                        dx = Math.sqrt(d) / (Math.abs(a) * 2);
+                        x1 = xe - dx;
+                        x2 = xe + dx;
+                        if (Math.abs(x1) <= 1) roots++;
+                        if (Math.abs(x2) <= 1) roots++;
+                        if (x1 < -1) x1 = x2;
+                    }
+
+                    if (roots === 1) {
+                        if (h0 < 0) rise = i + x1;
+                        else set = i + x1;
+
+                    } else if (roots === 2) {
+                        rise = i + (ye < 0 ? x2 : x1);
+                        set = i + (ye < 0 ? x1 : x2);
+                    }
+
+                    if (rise && set) break;
+
+                    h0 = h2;
+                }
+
+                var result = {};
+
+                if (rise) result.rise = hoursLater(t, rise);
+                if (set) result.set = hoursLater(t, set);
+
+                if (!rise && !set) result[ye > 0 ? 'alwaysUp' : 'alwaysDown'] = true;
+
+                return result;
+            };
+
+            // export as Node module / AMD module / browser variable
+            if (typeof exports === 'object' && typeof module !== 'undefined') module.exports = SunCalc;
+            else if (typeof define === 'function' && define.amd) define(SunCalc);
+            else window.SunCalc = SunCalc;
+
+        }());
+
+    </script>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            border: 0;
+        }
+
+        #clock {
+            width: 80vw;
+            margin: 5vw 5vw;
+        }
+
+        #time {
+            text-align: right;
+            line-height: 0.8;
+            font-size: 20.0vw;
+        }
+
+        #date {
+            text-align: right;
+            font-size: 4.2vw;
+            margin-bottom: 1vw;
+        }
+
+        #location {
+            text-align: left;
+            font-size: 1vw;
+        }
+
+        #info {
+            text-align: right;
+            font-size: 2.0vw;
+        }
+
+        #debug {
+            color: white;
+        }
+
+        #debug:hover {
+            color: black;
+        }
+
+        #dayChart div {
+            display: inline-block;
+            height: 1vw;
+        }
+
+        #dayChartClock {
+            overflow: hidden;
+        }
+
+        #dayChartClock div {
+            display: inline-block;
+            height: 1vw;
+        }
+
+        #dayChartClock .tick {
+            border-left: 0.05vw solid black;
+            border-right: 0.05vw solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <div id='location'></div>
+    <div id='clock'>
+        <div id='time'></div>
+        <div id='date'></div>
+        <div id='info'></div>
+        <div id="dayChart"></div>
+        <div id="dayChartClock"></div>
+        <div id="dayProgress"></div>
+        <div id='debug'></div>
+    </div>
+
+    <div id="about">
+        <h2>About</h2>
+        Using <a href="https://github.com/mourner/suncalc">SunCalc</a> to calulate the sunrise, sunset, moons time.
+    </div>
+
+    <script type='text/javascript'>
+        dayChartClock = document.getElementById("dayChartClock");
+        for (var i = 0; i < 24; i++) {
+            var block = document.createElement("div");
+            block.className = "tick";
+
+            // 4.16% is the width of each hour (100 / 24)
+            // But we need to account for the 0.1vw border for each hour
+            // So we need to subtract 0.1vw from the width
+            block.style.width = "4.01%";
+
+            // Add the hour to the block as text
+            block.innerHTML = i;
+            block.style.fontSize = "1vw";
+            block.style.textAlign = "center";
+
+            dayChartClock.appendChild(block);
+        }
+
+        // Calulate how much of the day has been completed
+        var dayProgress = document.getElementById("dayProgress");
+        var dayProgressBlock = document.createElement("div");
+        dayProgressBlock.style.width = "1vw";
+        dayProgressBlock.style.height = "1vw";
+        dayProgressBlock.style.borderRadius = "50%";
+        dayProgressBlock.style.backgroundColor = "red";
+        dayProgressBlock.style.position = "relative";
+        dayProgressBlock.style.top = "0";
+
+        // The left is the percentage of the day that has been completed
+        dayProgressBlock.style.left = (currentDate.getHours() * 60 * 60 + currentDate.getMinutes() * 60 + currentDate.getSeconds()) / (24 * 60 * 60) * 100 + "%";
+
+        // dayProgressBlock.style.left needs to be reduced by half of the width of the block
+        // so that the center of the block is at the correct position
+        dayProgressBlock.style.left = "calc(" + dayProgressBlock.style.left + " - 0.5vw)";
+
+        // Show the time as a tooltip
+        dayProgressBlock.title = timeString(currentDate);
+        dayProgress.appendChild(dayProgressBlock);
+
+        // On a timer update the progress bar
+        setInterval(function () {
+            // Find the dayProgressBlock
+            dayProgressBlock = document.getElementById("dayProgress").firstChild;
+
+            // Update the left position of the block
+            dayProgressBlock.style.left = (currentDate.getHours() * 60 * 60 + currentDate.getMinutes() * 60 + currentDate.getSeconds()) / (24 * 60 * 60) * 100 + "%";
+            dayProgressBlock.style.left = "calc(" + dayProgressBlock.style.left + " - 0.5vw)";
+
+            // Update the tooltip
+            dayProgressBlock.title = timeString(currentDate);
+
+        }, 1000);
+
+        function timeString(time) {
+            // Check to see if the time is a Date object
+            if (time instanceof Date) {
+                // Ensure that the hours and min are always 2 digits
+                const zeroPad = (num, places) => String(num).padStart(places, '0')
+                return zeroPad(time.getHours(), 2) + ':' + zeroPad(time.getMinutes(), 2);
+            }
+            return time;
+        }
+
+        function getLocation() {
+
+            // Use hard coded location for testing
+            //   UpdateLocation({                
+            //         'city': 'Vancouver',
+            //         'state': 'BC',
+            //         'country': 'Canada',
+            //         'timezone': 'America/Vancouver',
+            //         'latitude': 49.28, 
+            //         'longitude': -123.13
+            //     });
+
+            // Use IP address to get Location 
+            fetch('https://api.ipapi.is?key=2abe7b9822506e56')
+                .then(res => res.json())
+                .then(res => {
+                    console.log(res);
+                    keyValueDb = { ...keyValueDb, ...{ 'user': { 'ip': res.ip } }, ...{ 'location': res.location } };
+                    UpdateLocation({
+                        'city': res.location.city,
+                        'state': res.location.state,
+                        'country': res.location.country,
+                        'timezone': res.location.timezone,
+                        'latitude': res.location.latitude,
+                        'longitude': res.location.longitude
+                    })
+                });
+
+            // Look up the location from the browser
+            // if (navigator.geolocation) {
+            //     navigator.geolocation.getCurrentPosition((res) => {
+            //         console.log(res);
+            //         keyValueDb = {
+            //             ...keyValueDb, ...{
+            //                 'location': {
+            //                     'accuracy': res.coords.accuracy,
+            //                     'latitude': res.coords.latitude,
+            //                     'longitude': res.coords.longitude
+            //                 }
+            //             }
+            //         };
+            //         UpdateLocation({
+            //             'city': 'unknown',
+            //             'state': 'unknown',
+            //             'country': 'unknown',
+            //             'timezone': 'unknown',
+            //             'latitude': res.coords.latitude,
+            //             'longitude': res.coords.longitude
+            //         })
+            //     }, (error) => {
+            //         console.error("Geolocation error", error);
+            //         document.getElementById("location").innerHTML = "Geolocation is not supported or allowed by this browser. Error: " + error.message ;
+            //         return;
+            //     });
+            // }
+        }
+
+        function KeyValueDisplay(keyValueDb) {
+            var result = "<table>";
+            for (var key in keyValueDb) {
+                result += '<tr><th>' + key + ": </th><td>";
+
+                // if the value is a date then format it
+                if (keyValueDb[key] instanceof Date) {
+                    result += timeString(keyValueDb[key]);
+                } else {
+                    result += keyValueDb[key];
+                }
+                result += "<td></tr>";
+            }
+            result += "</table>";
+            return result;
+        }
+
+        function moonPhase(moonPhase) {
+            // https://github.com/mourner/suncalc#moon-illumination
+            if (moonPhase < 0.125) return ["New Moon", "🌑"];
+            if (moonPhase < 0.25) return ["Waxing Crescent", "🌒"];
+            if (moonPhase < 0.375) return ["First Quarter", "🌓"];
+            if (moonPhase < 0.5) return ["Waxing Gibbous", "🌔"];
+            if (moonPhase < 0.625) return ["Full Moon", "🌕"];
+            if (moonPhase < 0.75) return ["Waning Gibbous", "🌖"];
+            if (moonPhase < 0.875) return ["Last Quarter", "🌗"];
+            if (moonPhase < 1) return ["Waning Crescent", "🌘"];
+            return "Error";
+        }
+
+        function UpdateLocation(position, error) {
+            console.log(position);
+            var location = document.getElementById("location")
+            location.innerHTML =
+                "🗺️ " + position.city + ", " + position.state + ", " + position.country + " (" + position.latitude.toFixed(3) +
+                ", " + position.longitude.toFixed(3) + ")";
+
+            // get today's sunlight times for London
+            var sunCal = SunCalc.getTimes(currentDate, position.latitude, position.longitude);
+            // Merge the sunCal into the keyValueDb
+            keyValueDb = { ...keyValueDb, ...{ 'sunCal': sunCal } };
+
+            // Merge the moonIllumination into the keyValueDb
+            var moonIllumination = SunCalc.getMoonIllumination(currentDate);
+            keyValueDb = { ...keyValueDb, ...{ 'moon': moonIllumination } };
+
+            // Get hours and mins between two dates.
+            var timeBetween = function (date1, date2) {
+                var diff = Math.abs(date1 - date2);
+                var hours = Math.floor(diff / 36e5);
+                var mins = Math.floor((diff % 36e5) / 6e4);
+                return hours + "h " + mins + "m";
+            }
+
+            document.getElementById("info").innerHTML = "Sun: ⬆️ " + timeString(keyValueDb.sunCal.sunrise) + " ⬇️ " + timeString(keyValueDb.sunCal.sunset) + " (" + timeBetween(keyValueDb.sunCal.sunrise, keyValueDb.sunCal.sunset) + ")";
+            document.getElementById("info").innerHTML += ", <span title='Moon: " + keyValueDb.moon.phase.toFixed(3) + "'>" + moonPhase(keyValueDb.moon.phase)[1] + " " + moonPhase(keyValueDb.moon.phase)[0] + "</span>";
+
+
+            // Get the current date with time set to 00:00:00
+            var DayStart = new Date();
+            DayStart.setHours(0, 0, 0, 0);
+            // Get the current date with time set to 23:59:59
+            var DayEnd = new Date();
+            DayEnd.setHours(23, 59, 59, 0);
+
+            // ToDo: Use color lovers to make the pallet 
+            var colorNight = '#2d4156';
+            var colorDawn = '#438CA2';
+            var colorDawn2 = '#5CB7D3';
+            var colorSunRise = '#FF4845';
+            var colorMorningGlow = '#F0F07A'; // ToDo: Change
+            var colorDay = '#FBFC3C'; // ToDo: Change
+
+
+            AddDayChartBlock("nightStart", DayStart, keyValueDb.sunCal.nightEnd, { 'color': colorNight });
+
+            AddDayChartBlock("nauticalDawn", keyValueDb.sunCal.nightEnd, keyValueDb.sunCal.nauticalDawn, { 'color': colorDawn });
+            AddDayChartBlock("dawn", keyValueDb.sunCal.nauticalDawn, keyValueDb.sunCal.dawn, { 'color': colorDawn2 });
+            AddDayChartBlock("sunrise", keyValueDb.sunCal.dawn, keyValueDb.sunCal.sunrise, { 'color': '#E1EC28' });
+            AddDayChartBlock("sunriseEnd", keyValueDb.sunCal.sunrise, keyValueDb.sunCal.sunriseEnd, { 'color': colorSunRise });
+            AddDayChartBlock("goldenHourEnd", keyValueDb.sunCal.sunriseEnd, keyValueDb.sunCal.goldenHourEnd, { 'color': colorMorningGlow }); // 
+            AddDayChartBlock("goldenHour", keyValueDb.sunCal.goldenHourEnd, keyValueDb.sunCal.goldenHour, { 'color': colorDay }); // Day light
+            AddDayChartBlock("sunsetStart", keyValueDb.sunCal.goldenHour, keyValueDb.sunCal.sunsetStart, { 'color': colorMorningGlow });
+            AddDayChartBlock("sunset", keyValueDb.sunCal.sunsetStart, keyValueDb.sunCal.sunset, { 'color': colorSunRise });
+            AddDayChartBlock("dusk", keyValueDb.sunCal.sunset, keyValueDb.sunCal.dusk, { 'color': colorDawn2 });
+            AddDayChartBlock("nauticalDusk", keyValueDb.sunCal.dusk, keyValueDb.sunCal.nauticalDusk, { 'color': colorDawn });
+            AddDayChartBlock("night", keyValueDb.sunCal.nauticalDusk, keyValueDb.sunCal.night, { 'color': 'darkslategrey' });
+
+            AddDayChartBlock("nightEnd", keyValueDb.sunCal.night, DayEnd, { 'color': colorNight });
+
+            // Once off elements
+            // AddDayChartBlock("solarNoon",    keyValueDb.sunCal.solarNoon'],   {'color': 'gold'});
+            // AddDayChartBlock("Now",    currentDate, currentDate,   {'color': 'green'});
+
+            document.getElementById("debug").innerHTML = '<pre>' + JSON.stringify(keyValueDb, null, 2) + '</pre>';
+        };
+
+        function AddDayChartBlock(name, start, end, options) {
+            if (end == undefined) {
+                end = start;
+            }
+            var dayChart = document.getElementById("dayChart");
+            var block = document.createElement("div");
+            block.style.width = (end - start) / (24 * 60 * 60 * 1000) * 100 + "%";
+            if (block.style.width == "0%") {
+                block.style.width = "1%";
+            }
+
+            // Set the title of the block
+            block.title = name + ": " + timeString(start) + " - " + timeString(end);
+
+            // Background color
+            if (options != undefined && options['color'] != undefined) {
+                block.style.backgroundColor = options['color'];
+            } else {
+                // Generate a different color for each block depending what time it is in the day
+                // color = (start.getHours() * 60 * 60 + start.getMinutes() * 60 + start.getSeconds()) / (24 * 60 * 60) * 100;
+                // Random number between 0 and 100
+                color = Math.floor(Math.random() * 100);
+                block.style.backgroundColor = "hsl(" + color + ", 100%, 50%)";
+            }
+
+            dayChart.appendChild(block);
+        }
+
+        /**
+         * Returns the week number for this date.  dowOffset is the day of week the week
+         * "starts" on for your locale - it can be from 0 to 6. If dowOffset is 1 (Monday),
+         * the week returned is the ISO 8601 week number.
+         * getWeek() was developed by Nick Baicoianu
+         * 
+         * @param int dowOffset
+         * @return int
+         */
+        Date.prototype.getWeek = function (dowOffset) {
+            dowOffset = typeof (dowOffset) == 'number' ? dowOffset : 0; //default dowOffset to zero
+            var newYear = new Date(this.getFullYear(), 0, 1);
+            var day = newYear.getDay() - dowOffset; //the day of week the year begins on
+            day = (day >= 0 ? day : day + 7);
+            var daynum = Math.floor((this.getTime() - newYear.getTime() -
+                (this.getTimezoneOffset() - newYear.getTimezoneOffset()) * 60000) / 86400000) + 1;
+            var weeknum;
+            // if the year starts before the middle of a week
+            if (day < 4) {
+                weeknum = Math.floor((daynum + day - 1) / 7) + 1;
+                if (weeknum > 52) {
+                    nYear = new Date(this.getFullYear() + 1, 0, 1);
+                    nday = nYear.getDay() - dowOffset;
+                    nday = nday >= 0 ? nday : nday + 7;
+                    /*if the next year starts before the middle of
+                      the week, it is week #1 of that year*/
+                    weeknum = nday < 4 ? 1 : 53;
+                }
+            }
+            else {
+                weeknum = Math.floor((daynum + day - 1) / 7);
+            }
+            return weeknum;
+        };
+
+        function UpdateTime() {
+            currentDate = new Date();
+            // https://stackoverflow.com/a/34015511      
+            document.getElementById('time').innerHTML = currentDate.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false });
+
+            document.getElementById('date').innerHTML = currentDate.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: '2-digit', year: 'numeric' });
+            document.getElementById('date').innerHTML += ", Week " + currentDate.getWeek();
+        }
+
+        getLocation();
+        setInterval(UpdateTime, 950);
+        UpdateTime(); 
+    </script>
+</body>
+
+</html>

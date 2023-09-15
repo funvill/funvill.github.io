@@ -4,18 +4,24 @@ title: Idea 006 - Procedurally generated Glowing Mushroom PCB
 date: '2023-02-02 00:06'
 categories: ideas YearOfIdeas
 tags: art mushroom pcb projects ideas
-excerpt: Procedurally generated Art PCB of mushrooms for the GameOfShrroms art project. Backlit LEDs to add a nice glowing effect.
+excerpt: Procedurally generated Art PCB of mushrooms for the GameOfShrooms art project. Backlit LEDs to add a nice glowing effect.
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
-Procedurally generated Art PCB of mushrooms for the [#GameOfShrroms](https://yumfactory.com/gameofshrooms/) art project. Backlit LEDs to add a nice glowing effect.
+Procedurally generated Art PCB of mushrooms for the [#GameOfShrooms](https://yumfactory.com/gameofshrooms/) art project. Backlit LEDs to add a nice glowing effect.
 
 ## ✅ Done
 
 Project files can be found here [GameOfShrooms2023](https://github.com/funvill/GameOfShrooms2023)
+
+- [1 of 5](https://www.instagram.com/p/CtUdeg6NR9p/)
+- [2 of 5](https://www.instagram.com/p/CtUg0L1rTg7/)
+- [3 of 5](https://www.instagram.com/p/CtUiMAZLwhi/)
+- [4 of 5](https://www.instagram.com/p/CtUizqsL69H/)
+- 5th was traded with a friend for a copy of her artwork.
 
 ## Description
 
