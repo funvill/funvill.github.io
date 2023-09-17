@@ -325,6 +325,8 @@
 
     </script>
 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Chivo Mono">
+
     <style>
         body {
             margin: 0;
@@ -332,20 +334,29 @@
             border: 0;
         }
 
-        #clock {
-            width: 80vw;
+        #page {
             margin: 5vw 5vw;
         }
 
         #time {
-            text-align: right;
-            line-height: 0.8;
+            font-size: 22.0vw;
+            font-weight: 700;
+            /*
+            font-family: Montserrat,Arial,Helvetica,sans-serif;
+            letter-spacing: -2.1vw;
+            font-family: Verdana, Geneva, sans-serif;
             font-size: 20.0vw;
+            */
+
+
+            text-align: center;
+            line-height: 0.8;
+
         }
 
         #date {
             text-align: right;
-            font-size: 4.2vw;
+            font-size: 3.2vw;
             margin-bottom: 1vw;
         }
 
@@ -390,7 +401,7 @@
 
 <body>
     <div id='location'></div>
-    <div id='clock'>
+    <div id='page'>
         <div id='time'></div>
         <div id='date'></div>
         <div id='info'></div>
@@ -406,58 +417,58 @@
     </div>
 
     <script type='text/javascript'>
-        dayChartClock = document.getElementById("dayChartClock");
-        for (var i = 0; i < 24; i++) {
-            var block = document.createElement("div");
-            block.className = "tick";
+        // dayChartClock = document.getElementById("dayChartClock");
+        // for (var i = 0; i < 24; i++) {
+        //     var block = document.createElement("div");
+        //     block.className = "tick";
 
-            // 4.16% is the width of each hour (100 / 24)
-            // But we need to account for the 0.1vw border for each hour
-            // So we need to subtract 0.1vw from the width
-            block.style.width = "4.01%";
+        //     // 4.16% is the width of each hour (100 / 24)
+        //     // But we need to account for the 0.1vw border for each hour
+        //     // So we need to subtract 0.1vw from the width
+        //     block.style.width = "4.01%";
 
-            // Add the hour to the block as text
-            block.innerHTML = i;
-            block.style.fontSize = "1vw";
-            block.style.textAlign = "center";
+        //     // Add the hour to the block as text
+        //     block.innerHTML = i;
+        //     block.style.fontSize = "1vw";
+        //     block.style.textAlign = "center";
 
-            dayChartClock.appendChild(block);
-        }
+        //     dayChartClock.appendChild(block);
+        // }
 
-        // Calulate how much of the day has been completed
-        var dayProgress = document.getElementById("dayProgress");
-        var dayProgressBlock = document.createElement("div");
-        dayProgressBlock.style.width = "1vw";
-        dayProgressBlock.style.height = "1vw";
-        dayProgressBlock.style.borderRadius = "50%";
-        dayProgressBlock.style.backgroundColor = "red";
-        dayProgressBlock.style.position = "relative";
-        dayProgressBlock.style.top = "0";
+        // // Calulate how much of the day has been completed
+        // var dayProgress = document.getElementById("dayProgress");
+        // var dayProgressBlock = document.createElement("div");
+        // dayProgressBlock.style.width = "1vw";
+        // dayProgressBlock.style.height = "1vw";
+        // dayProgressBlock.style.borderRadius = "50%";
+        // dayProgressBlock.style.backgroundColor = "red";
+        // dayProgressBlock.style.position = "relative";
+        // dayProgressBlock.style.top = "0";
 
-        // The left is the percentage of the day that has been completed
-        dayProgressBlock.style.left = (currentDate.getHours() * 60 * 60 + currentDate.getMinutes() * 60 + currentDate.getSeconds()) / (24 * 60 * 60) * 100 + "%";
+        // // The left is the percentage of the day that has been completed
+        // dayProgressBlock.style.left = (currentDate.getHours() * 60 * 60 + currentDate.getMinutes() * 60 + currentDate.getSeconds()) / (24 * 60 * 60) * 100 + "%";
 
-        // dayProgressBlock.style.left needs to be reduced by half of the width of the block
-        // so that the center of the block is at the correct position
-        dayProgressBlock.style.left = "calc(" + dayProgressBlock.style.left + " - 0.5vw)";
+        // // dayProgressBlock.style.left needs to be reduced by half of the width of the block
+        // // so that the center of the block is at the correct position
+        // dayProgressBlock.style.left = "calc(" + dayProgressBlock.style.left + " - 0.5vw)";
 
-        // Show the time as a tooltip
-        dayProgressBlock.title = timeString(currentDate);
-        dayProgress.appendChild(dayProgressBlock);
+        // // Show the time as a tooltip
+        // dayProgressBlock.title = timeString(currentDate);
+        // dayProgress.appendChild(dayProgressBlock);
 
-        // On a timer update the progress bar
-        setInterval(function () {
-            // Find the dayProgressBlock
-            dayProgressBlock = document.getElementById("dayProgress").firstChild;
+        // // On a timer update the progress bar
+        // setInterval(function () {
+        //     // Find the dayProgressBlock
+        //     dayProgressBlock = document.getElementById("dayProgress").firstChild;
 
-            // Update the left position of the block
-            dayProgressBlock.style.left = (currentDate.getHours() * 60 * 60 + currentDate.getMinutes() * 60 + currentDate.getSeconds()) / (24 * 60 * 60) * 100 + "%";
-            dayProgressBlock.style.left = "calc(" + dayProgressBlock.style.left + " - 0.5vw)";
+        //     // Update the left position of the block
+        //     dayProgressBlock.style.left = (currentDate.getHours() * 60 * 60 + currentDate.getMinutes() * 60 + currentDate.getSeconds()) / (24 * 60 * 60) * 100 + "%";
+        //     dayProgressBlock.style.left = "calc(" + dayProgressBlock.style.left + " - 0.5vw)";
 
-            // Update the tooltip
-            dayProgressBlock.title = timeString(currentDate);
+        //     // Update the tooltip
+        //     dayProgressBlock.title = timeString(currentDate);
 
-        }, 1000);
+        // }, 1000);
 
         function timeString(time) {
             // Check to see if the time is a Date object
@@ -584,37 +595,37 @@
             document.getElementById("info").innerHTML += ", <span title='Moon: " + keyValueDb.moon.phase.toFixed(3) + "'>" + moonPhase(keyValueDb.moon.phase)[1] + " " + moonPhase(keyValueDb.moon.phase)[0] + "</span>";
 
 
-            // Get the current date with time set to 00:00:00
-            var DayStart = new Date();
-            DayStart.setHours(0, 0, 0, 0);
-            // Get the current date with time set to 23:59:59
-            var DayEnd = new Date();
-            DayEnd.setHours(23, 59, 59, 0);
+            // // Get the current date with time set to 00:00:00
+            // var DayStart = new Date();
+            // DayStart.setHours(0, 0, 0, 0);
+            // // Get the current date with time set to 23:59:59
+            // var DayEnd = new Date();
+            // DayEnd.setHours(23, 59, 59, 0);
 
-            // ToDo: Use color lovers to make the pallet 
-            var colorNight = '#2d4156';
-            var colorDawn = '#438CA2';
-            var colorDawn2 = '#5CB7D3';
-            var colorSunRise = '#FF4845';
-            var colorMorningGlow = '#F0F07A'; // ToDo: Change
-            var colorDay = '#FBFC3C'; // ToDo: Change
+            // // ToDo: Use color lovers to make the pallet 
+            // var colorNight = '#2d4156';
+            // var colorDawn = '#438CA2';
+            // var colorDawn2 = '#5CB7D3';
+            // var colorSunRise = '#FF4845';
+            // var colorMorningGlow = '#F0F07A'; // ToDo: Change
+            // var colorDay = '#FBFC3C'; // ToDo: Change
 
 
-            AddDayChartBlock("nightStart", DayStart, keyValueDb.sunCal.nightEnd, { 'color': colorNight });
+            // AddDayChartBlock("nightStart", DayStart, keyValueDb.sunCal.nightEnd, { 'color': colorNight });
 
-            AddDayChartBlock("nauticalDawn", keyValueDb.sunCal.nightEnd, keyValueDb.sunCal.nauticalDawn, { 'color': colorDawn });
-            AddDayChartBlock("dawn", keyValueDb.sunCal.nauticalDawn, keyValueDb.sunCal.dawn, { 'color': colorDawn2 });
-            AddDayChartBlock("sunrise", keyValueDb.sunCal.dawn, keyValueDb.sunCal.sunrise, { 'color': '#E1EC28' });
-            AddDayChartBlock("sunriseEnd", keyValueDb.sunCal.sunrise, keyValueDb.sunCal.sunriseEnd, { 'color': colorSunRise });
-            AddDayChartBlock("goldenHourEnd", keyValueDb.sunCal.sunriseEnd, keyValueDb.sunCal.goldenHourEnd, { 'color': colorMorningGlow }); // 
-            AddDayChartBlock("goldenHour", keyValueDb.sunCal.goldenHourEnd, keyValueDb.sunCal.goldenHour, { 'color': colorDay }); // Day light
-            AddDayChartBlock("sunsetStart", keyValueDb.sunCal.goldenHour, keyValueDb.sunCal.sunsetStart, { 'color': colorMorningGlow });
-            AddDayChartBlock("sunset", keyValueDb.sunCal.sunsetStart, keyValueDb.sunCal.sunset, { 'color': colorSunRise });
-            AddDayChartBlock("dusk", keyValueDb.sunCal.sunset, keyValueDb.sunCal.dusk, { 'color': colorDawn2 });
-            AddDayChartBlock("nauticalDusk", keyValueDb.sunCal.dusk, keyValueDb.sunCal.nauticalDusk, { 'color': colorDawn });
-            AddDayChartBlock("night", keyValueDb.sunCal.nauticalDusk, keyValueDb.sunCal.night, { 'color': 'darkslategrey' });
+            // AddDayChartBlock("nauticalDawn", keyValueDb.sunCal.nightEnd, keyValueDb.sunCal.nauticalDawn, { 'color': colorDawn });
+            // AddDayChartBlock("dawn", keyValueDb.sunCal.nauticalDawn, keyValueDb.sunCal.dawn, { 'color': colorDawn2 });
+            // AddDayChartBlock("sunrise", keyValueDb.sunCal.dawn, keyValueDb.sunCal.sunrise, { 'color': '#E1EC28' });
+            // AddDayChartBlock("sunriseEnd", keyValueDb.sunCal.sunrise, keyValueDb.sunCal.sunriseEnd, { 'color': colorSunRise });
+            // AddDayChartBlock("goldenHourEnd", keyValueDb.sunCal.sunriseEnd, keyValueDb.sunCal.goldenHourEnd, { 'color': colorMorningGlow }); // 
+            // AddDayChartBlock("goldenHour", keyValueDb.sunCal.goldenHourEnd, keyValueDb.sunCal.goldenHour, { 'color': colorDay }); // Day light
+            // AddDayChartBlock("sunsetStart", keyValueDb.sunCal.goldenHour, keyValueDb.sunCal.sunsetStart, { 'color': colorMorningGlow });
+            // AddDayChartBlock("sunset", keyValueDb.sunCal.sunsetStart, keyValueDb.sunCal.sunset, { 'color': colorSunRise });
+            // AddDayChartBlock("dusk", keyValueDb.sunCal.sunset, keyValueDb.sunCal.dusk, { 'color': colorDawn2 });
+            // AddDayChartBlock("nauticalDusk", keyValueDb.sunCal.dusk, keyValueDb.sunCal.nauticalDusk, { 'color': colorDawn });
+            // AddDayChartBlock("night", keyValueDb.sunCal.nauticalDusk, keyValueDb.sunCal.night, { 'color': 'darkslategrey' });
 
-            AddDayChartBlock("nightEnd", keyValueDb.sunCal.night, DayEnd, { 'color': colorNight });
+            // AddDayChartBlock("nightEnd", keyValueDb.sunCal.night, DayEnd, { 'color': colorNight });
 
             // Once off elements
             // AddDayChartBlock("solarNoon",    keyValueDb.sunCal.solarNoon'],   {'color': 'gold'});
