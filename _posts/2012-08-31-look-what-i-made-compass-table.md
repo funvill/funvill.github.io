@@ -1,8 +1,13 @@
 ---
-title: Look what I made - Compass table.
+title: Look what I made - Compass table
 date: 2012-08-31 00:02:00
 categories: Projects
-tags: acrylic compass furniture maker faire Projects  table
+tags: 
+- acrylic
+- compass
+- furniture
+- makerfaire
+- Projects
 ---
 This year for the <a href="http://vancouver.makerfaire.ca/">Vancouver Maker Faire</a> I build a <a href="http://www.instructables.com/id/Compass-Table/">Compass table</a> that I found on <a href="http://www.instructables.com/">instructables.com</a>. I found a cheap price on 1000x compasses from <a href="http://www.alibaba.com/">alibaba.com</a> for about $0.10 each. I found the wooden table at thrift store for $20 and two sheets of acrylic.
 

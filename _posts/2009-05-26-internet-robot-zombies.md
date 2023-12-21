@@ -2,7 +2,11 @@
 title: internet robot zombies
 date: 2009-05-26 10:14:00
 categories: Development
-tags: interenet Interesting Tips zombies
+tags: 
+- interenet 
+- Interesting 
+- Tips 
+- zombies
 ---
 <p>If you run a website that has a contacts form or any other input from users. sooner or later you will start getting attacked by internet robot zombies. </p>  <p>What is a "
 internet robot zombies" you ask? Well lets break it up a little bit. </p>  <p>A robot is a program that someone has written, that searches a websites for "

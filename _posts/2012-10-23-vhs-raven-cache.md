@@ -2,7 +2,14 @@
 title: VHS raven cache
 date: 2012-10-23 00:01:00
 categories: GeoCaching Projects
-tags: geocache GeoCaching geocoin News Projects Vancouver VHS
+tags: 
+- geocache
+- GeoCaching
+- geocoin
+- News
+- Projects
+- Vancouver
+- VHS
 ---
 <a style="color: #ff4b33; line-height: 24px; font-size: 16px;" href="/public/uploads/2012/10/2012-10-16-20.54.08.jpg"><img class="alignright size-medium wp-image-2923" title="2012-10-16 20.54.08" src="/public/uploads/2012/10/2012-10-16-20.54.08-300x225.jpg" alt="" width="300" height="225" /></a>
 

@@ -2,7 +2,13 @@
 title: Why don't we have free phones yet?
 date: 2009-12-16 12:42:00
 categories: Rants
-tags: android Arduino  cellphone openhardware opensource phone
+tags: 
+- android 
+- Arduino  
+- cellphone 
+- openhardware 
+- opensource 
+- phone
 ---
 <blockquote>"Re:Should be" by <a href="http://slashdot.org/~canajin56">canajin56</a> (660655) on Wednesday December 16, @12:21PM (#<a href="http://apple.slashdot.org/comments.pl?sid=1480704&amp;cid=30459990">30459990</a>)
 <blockquote>At least you guys have a choice of providers. Here in Canada, we almost have government-backed monopolies with even higher monthly bills.</blockquote>

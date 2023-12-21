@@ -2,7 +2,12 @@
 title: NSIS - Tips 
 date: 2008-04-11 10:39:00
 categories: Development
-tags: nsis programing scripts Tips windows
+tags: 
+- nsis 
+- programing 
+- scripts 
+- Tips 
+- windows
 ---
 I create a lot of windows application to make things easier for my customers. The simple act of coping a file from an email to a certain directory can become the most complicated tasks for a certain type of customer.
 

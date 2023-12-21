@@ -2,7 +2,8 @@
 title: Travel 4 km in just 3 hours, 41 minutes!
 date: 2007-11-09 11:27:00
 categories: Vancouver
-tags: translink
+tags: 
+- translink
 ---
 Last week <a href="http://www.google.ca/url?sa=t&amp;ct=res&amp;cd=1&amp;url=http%3A%2F%2Fwww.translink.bc.ca%2F&amp;ei=LqQ0R_b2I6OOgwOqk4mNCw&amp;usg=AFQjCNH0OEk3FTcS8GeV5X6vCgRbgU2T9w&amp;sig2=TTl7Gt46OJfkSiaor5Ij7Q">Translink</a> and <a href="http://www.google.com/maps">Google maps</a> got together and released <a href="http://www.google.com/transit">Google transit</a>.
 <a href="http://www.google.com/transit">Google transit</a> allows you to fine transit routs for Vancouver and various other metropolitan cities using Google maps.

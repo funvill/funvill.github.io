@@ -2,7 +2,11 @@
 title: 403 - An arrogant initiative in defense of the web
 date: 2008-03-04 12:25:00
 categories: Development
-tags: dhtml Interesting Tips Development
+tags: 
+- dhtml 
+- Interesting 
+- Tips 
+- Development
 ---
 <a href="http://www.webdesignerwall.com/general/trash-all-ie-hacks/">I</a> <a href="http://urbansemiotic.com/2006/01/13/why-i-hate-internet-explorer/">hate</a> <a href="http://ie.jemjabella.com/">internet</a> <a href="http://www.456bereastreet.com/archive/200605/microsoft_and_internet_explorer_vs_web_standards/">explorer</a>, <a href="http://www.negative99.com/archive/220">I</a> <a href="http://www.positioniseverything.net/explorer.html">hate</a> <a href="http://www.communitymx.com/content/article.cfm?page=2&amp;cid=C37E0">it</a> <a href="http://www.free-bees.co.uk/articles/ihateie/">so</a> <a href="http://blogs.msdn.com/cwilso/archive/2006/05/11/595536.aspx">much</a>. At lest once a day I curse it to the <a href="http://en.wikipedia.org/wiki/Tartarus">pits of hell</a> to be torched endlessly by a <a href="http://en.wikipedia.org/wiki/Richard_Simmons">Richard Simmons</a> <a href="http://en.wikipedia.org/wiki/Kazoo">kazoo </a>band. My hate for internet explorer mainly comes from my own laziness, I just don't want to spend the time to create the same website twice, once for internet explorer and again for everyone else. I don't believe that we should have too, Microsoft should follow the standard set out by <a href="http://www.w3.org/">The World Wide Web Consortium (W3C)</a>. A standard that all the other major browsers support.
 

@@ -2,7 +2,15 @@
 title: More GeoCoins designs
 date: 2012-09-22 15:33:00
 categories: Projects
-tags: coins GeoCaching GeoCoins Laser lasercutter Projects VHS Wood
+tags: 
+- coins
+- GeoCaching
+- GeoCoins
+- Laser
+- lasercutter
+- Projects
+- VHS
+- Wood
 ---
 Made some more GeoCoins, This time i have included the <a href="http://inkscape.org/">inkscape</a> source file for your reference.
 

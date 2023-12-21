@@ -2,7 +2,12 @@
 title: WHAT IS reCAPTCHA
 date: 2008-04-01 14:35:00
 categories: Development
-tags: Development OCR Puzzle Development Website
+tags: 
+- Development 
+- OCR 
+- Puzzle 
+- Development 
+- Website
 ---
 
 <blockquote>

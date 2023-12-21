@@ -2,7 +2,9 @@
 title: Snakes and Ladders
 date: 2010-06-21 15:53:00
 categories: Games
-tags: Board boardGames TableTop 
+tags: 
+- boardGames 
+- TableTop 
 ---
 As a kid Snakes and Ladders never really appealed to me as it was a purely luck based game, but most of my childhood friends loved it because it was so simple.
 
