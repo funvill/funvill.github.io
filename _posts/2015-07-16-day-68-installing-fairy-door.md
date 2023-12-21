@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 68 - Installing fairy door
 date: 2015-07-16 01:08:00
 categories: YearOfMaking

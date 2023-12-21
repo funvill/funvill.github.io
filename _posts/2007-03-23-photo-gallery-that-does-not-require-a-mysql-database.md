@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Photo Gallery that does not require a MySql database 
 date: 2007-03-23 15:12:00
 categories: Development

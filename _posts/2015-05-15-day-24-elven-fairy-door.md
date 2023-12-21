@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 24 - Elven fairy door
 date: 2015-05-15 00:24:00
 categories: YearOfMaking

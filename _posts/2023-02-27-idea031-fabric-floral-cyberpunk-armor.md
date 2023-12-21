@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 031 - Fabric Floral Cyberpunk Armor
 date: 2023-02-27 00:31:00
 categories: ideas YearOfIdeas

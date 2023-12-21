@@ -1,5 +1,4 @@
 ---
-layout: single
 title: One Big Chicken
 date: 2010-01-25 15:49:00
 categories: Drinking Games

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Playing with app inventor for android
 date: 2010-12-21 00:01:00
 categories: Development Tips

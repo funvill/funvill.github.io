@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Laser cutter Tips, tricks and resources
 date: 2012-12-29 13:56:00
 categories: Uncategorized

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 083 - Dried flower art installation
 date: 2023-04-20 01:23:00
 categories: ideas YearOfIdeas

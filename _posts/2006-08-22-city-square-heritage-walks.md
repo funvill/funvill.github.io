@@ -1,5 +1,4 @@
 ---
-layout: single
 title: City Square Heritage Walks
 date: 2006-08-22 01:16:00
 categories: Vancouver

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Importance Of Deep Linking
 date: 2007-03-15 14:51:00
 categories: Development

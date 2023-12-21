@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 047 - Weekly Scavenger Hunt
 date: 2023-03-15 00:47:00
 categories: ideas YearOfIdeas

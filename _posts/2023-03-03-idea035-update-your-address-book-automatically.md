@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 035 - Update your address book automatically
 date: 2023-03-03 00:35:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 017 - Traveling 3D printed sculptures
 date: 2023-02-13 00:17:00
 categories: ideas YearOfIdeas

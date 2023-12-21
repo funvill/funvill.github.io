@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 070 - CNC Pointillism
 date: 2023-04-07 01:10:00
 categories: ideas YearOfIdeas

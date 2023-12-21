@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The fair at the PNE!
 date: 2006-08-16 23:14:00
 categories: Vancouver

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Beatboxing flute inspector gadget remix
 date: 2007-02-22 00:04:00
 categories: Media

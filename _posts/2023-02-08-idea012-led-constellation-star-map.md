@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 012 - LED Constellation Star map  
 date: 2023-02-08 00:12:00
 categories: ideas YearOfIdeas

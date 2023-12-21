@@ -1,5 +1,4 @@
 ---
-layout: single
 title: I got a RaspberryPI (a few months ago) 
 date: 2012-09-01 00:01:00
 categories: Development  Projects  RaspberryPI

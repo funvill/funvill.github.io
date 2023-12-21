@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Free fishing on fathers day weekend.
 date: 2010-06-20 09:53:00
 categories: Vancouver

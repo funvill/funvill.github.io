@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Testing writing from Windows Live Writer
 date: 2009-03-06 11:27:00
 categories: Development 

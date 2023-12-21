@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Burning Man 2011 - Rites of Passage
 date: 2011-09-12 20:18:00
 categories: Media

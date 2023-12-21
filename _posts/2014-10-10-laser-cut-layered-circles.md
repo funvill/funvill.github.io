@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Laser cut, layered circles
 date: 2014-10-10 18:29:00
 categories: LaserCutter

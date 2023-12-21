@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 79 - 3D printed horn
 date: 2015-08-07 01:19:00
 categories: YearOfMaking

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 086 - Origami Terrarium Diorama
 date: 2023-04-22 01:26:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 12 Tips for creating a killer landing page.
 date: 2007-06-01 09:00:00
 categories: Tips Development

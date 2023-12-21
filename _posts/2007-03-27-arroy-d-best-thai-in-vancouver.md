@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Arroy-d - Best Thai in vancouver
 date: 2007-03-27 12:47:00
 categories: Vancouver

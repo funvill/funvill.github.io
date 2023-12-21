@@ -1,5 +1,4 @@
 ---
-layout: single
 title: SMF - Redirect after reply or post 
 date: 2007-09-25 15:25:00
 categories: Tips

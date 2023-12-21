@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Harrison Hot Springs Sand Sculpture Tournament of Champions
 date: 2006-07-04 11:46:00
 categories: Vancouver

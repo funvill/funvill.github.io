@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Super Mario Medley by Tasty Animals"
 date: 2010-03-14 16:14:00
 categories: Uncategorized Vancouver

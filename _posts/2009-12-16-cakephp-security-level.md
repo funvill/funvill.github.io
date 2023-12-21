@@ -1,5 +1,4 @@
 ---
-layout: single
 title: CakePHP - Security.level
 date: 2009-12-16 18:34:00
 categories: Tips Development

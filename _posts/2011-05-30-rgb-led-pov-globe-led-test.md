@@ -1,5 +1,4 @@
 ---
-layout: single
 title: RGB LED POV Globe - LED test
 date: 2011-05-30 22:46:00
 categories: Arduino Media Projects

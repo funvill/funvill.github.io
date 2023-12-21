@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 18 - Failed array panel
 date: 2015-05-15 00:18:00
 categories: YearOfMaking

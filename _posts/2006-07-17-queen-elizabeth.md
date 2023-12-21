@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Queen Elizabeth
 date: 2006-07-17 19:15:00
 categories: Vancouver

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Flickr's camera trend data
 date: 2007-03-21 11:15:00
 categories: Tips

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Life tracking Jan 2014
 date: 2014-02-03 16:48:00
 categories: Self

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Weird Al Yankovic - Our Friend Dirt"
 date: 2010-07-02 16:04:00
 categories: Media

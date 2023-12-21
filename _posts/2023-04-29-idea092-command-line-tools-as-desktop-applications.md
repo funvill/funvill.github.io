@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 092 - Command line tools as desktop applications
 date: 2023-04-29 01:32:00
 categories: ideas YearOfIdeas

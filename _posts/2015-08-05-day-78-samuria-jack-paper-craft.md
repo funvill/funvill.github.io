@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 78 - Samuria Jack paper craft
 date: 2015-08-05 01:18:00
 categories: YearOfMaking

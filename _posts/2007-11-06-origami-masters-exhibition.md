@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Origami Masters Exhibition
 date: 2007-11-06 17:41:00
 categories: Art Vancouver

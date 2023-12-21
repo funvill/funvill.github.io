@@ -1,5 +1,4 @@
 ---
-layout: single
 title: VIVO Media arts - upcoming workshops
 date: 2007-04-23 09:00:00
 categories: Media Vancouver

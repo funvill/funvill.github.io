@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 033 - AI Grant Writing
 date: 2023-03-01 00:33:00
 categories: ideas YearOfIdeas

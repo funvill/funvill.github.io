@@ -1,5 +1,4 @@
 ---
-layout: single
 title: FlockingAI - Eastside Culture Crawl 2022 post mortem 
 date: 2022-11-21 00:01:00
 categories: 

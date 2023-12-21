@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Screw Your Neighbor 
 date: 2010-04-12 18:19:00
 categories: Cards Games

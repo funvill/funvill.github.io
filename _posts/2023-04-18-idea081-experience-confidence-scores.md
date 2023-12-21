@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 081 - Experience confidence scores
 date: 2023-04-18 01:21:00
 categories: ideas YearOfIdeas

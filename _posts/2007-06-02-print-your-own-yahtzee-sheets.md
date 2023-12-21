@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Print your own Yahtzee sheets
 date: 2007-06-02 09:00:00
 categories: Dice Games

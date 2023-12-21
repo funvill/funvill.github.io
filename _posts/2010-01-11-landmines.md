@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Landmines
 date: 2010-01-11 15:36:00
 categories: Drinking Games

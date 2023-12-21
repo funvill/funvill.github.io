@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 084 - Pressed lotus flower lamp
 date: 2023-04-20 01:24:00
 categories: ideas YearOfIdeas

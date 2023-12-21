@@ -1,5 +1,4 @@
 ---
-layout: single
 title: CakePHP - Disable validation in controler 
 date: 2009-12-10 14:52:00
 categories: Development

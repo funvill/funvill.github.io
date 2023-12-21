@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 67 - Deadmans vault SAAS SafePassage
 date: 2023-04-04 01:07:00
 categories: ideas YearOfIdeas

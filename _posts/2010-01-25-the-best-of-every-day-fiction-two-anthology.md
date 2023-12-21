@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Best of Every Day Fiction Two (Anthology)
 date: 2010-01-25 01:26:00
 categories: Uncategorized News Projects Development

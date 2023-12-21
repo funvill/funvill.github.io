@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Insert new post in to wordpress from php
 date: 2008-06-17 22:52:00
 categories: Tips Development

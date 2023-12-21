@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Crokinole - Table top curling 
 date: 2007-05-24 09:00:00
 categories: Games

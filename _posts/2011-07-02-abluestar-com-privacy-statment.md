@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Abluestar.com privacy statment
 date: 2011-07-02 13:56:00
 categories: Rants

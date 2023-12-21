@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Giant Claw Game! - The Claw, Prototype 2
 date: 2013-04-17 22:09:00
 categories: Projects

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 058 - In a million parts
 date: 2023-03-26 00:58:00
 categories: ideas YearOfIdeas

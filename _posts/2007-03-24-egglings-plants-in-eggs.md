@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Egglings - Plants in eggs 
 date: 2007-03-24 12:43:00
 categories: Uncategorized

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 091 - Honeypot terrarium
 date: 2023-04-28 01:31:00
 categories: ideas YearOfIdeas

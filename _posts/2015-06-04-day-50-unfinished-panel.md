@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 50 - Unfinished panel
 date: 2015-06-04 00:50:00
 categories: YearOfMaking

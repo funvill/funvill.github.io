@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 003 - PCB Art of Every Mammal in BC
 date: 2023-01-30 00:03:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: January 2018 brain dump
 date: 2018-01-31 00:01:00
 categories: bookmarks

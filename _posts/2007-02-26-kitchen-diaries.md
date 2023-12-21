@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Kitchen diaries
 date: 2007-02-26 16:47:00
 categories: Media

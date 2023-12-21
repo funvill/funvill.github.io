@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Red Bull Flugtag Vancouver
 date: 2006-08-02 15:33:00
 categories: Vancouver

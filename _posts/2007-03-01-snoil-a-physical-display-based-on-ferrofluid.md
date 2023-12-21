@@ -1,5 +1,4 @@
 ---
-layout: single
 title: SnOil - A Physical Display Based on Ferrofluid
 date: 2007-03-01 16:47:00
 categories: Media

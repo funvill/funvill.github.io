@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 81 - Voronoi tower
 date: 2015-08-10 01:21:00
 categories: YearOfMaking

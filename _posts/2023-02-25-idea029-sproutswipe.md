@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 029 - SproutSwipe 
 date: 2023-02-25 00:29:00
 categories: ideas YearOfIdeas

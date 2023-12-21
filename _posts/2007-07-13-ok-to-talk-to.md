@@ -1,5 +1,4 @@
 ---
-layout: single
 title: OK to talk to 
 date: 2007-07-13 15:02:00
 categories: Vancouver

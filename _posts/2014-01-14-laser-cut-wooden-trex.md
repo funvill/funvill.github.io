@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Laser cut wooden TRex
 date: 2014-01-14 00:01:00
 categories: LaserCutter

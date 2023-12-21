@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Lee Krasnow - Puzzle box maker
 date: 2007-11-03 15:47:00
 categories: Games 

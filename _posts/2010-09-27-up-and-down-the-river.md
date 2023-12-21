@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Up and Down the River
 date: 2010-09-27 18:57:00
 categories: Cards Drinking Games

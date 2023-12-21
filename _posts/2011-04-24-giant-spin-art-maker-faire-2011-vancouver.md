@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Giant spin art - Maker Faire 2011 Vancouver
 date: 2011-04-24 15:30:00
 categories: Projects

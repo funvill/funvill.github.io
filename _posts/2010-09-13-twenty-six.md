@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Twenty-Six
 date: 2010-09-13 16:31:00
 categories: banking Dice Games

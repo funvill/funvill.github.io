@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Always add the www
 date: 2007-06-08 09:00:00
 categories: Tips Development

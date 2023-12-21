@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Joke, My Grandfathers Death
 date: 2007-02-28 10:49:00
 categories: Uncategorized

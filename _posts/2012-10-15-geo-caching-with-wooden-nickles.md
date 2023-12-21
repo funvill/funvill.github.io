@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Geo Caching with Wooden nickles
 date: 2012-10-15 22:34:00
 categories: Projects

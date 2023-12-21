@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Summer Addiction Beach Party
 date: 2006-08-19 00:07:00
 categories: Vancouver

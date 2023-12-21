@@ -1,5 +1,4 @@
 ---
-layout: single
 title: A response to Life tracking and Quantified Self movement. 
 date: 2013-11-24 00:40:00
 categories: Rants

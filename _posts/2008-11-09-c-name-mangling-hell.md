@@ -1,5 +1,4 @@
 ---
-layout: single
 title: C++ name mangling hell
 date: 2008-11-09 09:00:00
 categories: Development Tips

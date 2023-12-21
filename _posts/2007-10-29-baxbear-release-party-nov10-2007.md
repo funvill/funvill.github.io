@@ -1,5 +1,4 @@
 ---
-layout: single
 title: BAXBEAR Release party Nov10 2007
 date: 2007-10-29 15:28:00
 categories: Vancouver

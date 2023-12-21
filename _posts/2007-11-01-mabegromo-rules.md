@@ -1,5 +1,4 @@
 ---
-layout: single
 title: MaBeGroMo Rules
 date: 2007-11-01 12:43:00
 categories: Projects

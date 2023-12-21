@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Mear One Light Graffiti - Emily Wells
 date: 2010-06-09 08:37:00
 categories: Media

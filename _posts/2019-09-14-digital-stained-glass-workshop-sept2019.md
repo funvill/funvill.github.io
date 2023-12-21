@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Digital stained glass workshop
 date: 2019-09-14 00:01:00
 categories: Events

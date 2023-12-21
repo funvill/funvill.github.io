@@ -1,5 +1,4 @@
 ---
-layout: single
 title: UPS vs FedEx 
 date: 2009-12-04 10:38:00
 categories: Rants

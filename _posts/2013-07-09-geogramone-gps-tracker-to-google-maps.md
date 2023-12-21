@@ -1,5 +1,4 @@
 ---
-layout: single
 title: GeoGramOne - GPS tracker to Google maps
 date: 2013-07-09 20:27:00
 categories: Projects

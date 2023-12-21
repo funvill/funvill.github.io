@@ -1,5 +1,4 @@
 ---
-layout: single
 title: A blue star sign
 date: 2014-10-10 18:23:00
 categories: LaserCutter Projects

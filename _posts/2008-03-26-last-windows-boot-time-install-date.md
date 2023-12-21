@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Last windows boot time, Install date
 date: 2008-03-26 13:29:00
 categories: Tips windows

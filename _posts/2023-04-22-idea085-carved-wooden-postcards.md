@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 085 - Carved wooden postcards
 date: 2023-04-21 01:25:00
 categories: ideas YearOfIdeas

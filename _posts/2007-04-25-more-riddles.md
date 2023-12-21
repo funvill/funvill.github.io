@@ -1,5 +1,4 @@
 ---
-layout: single
 title: More riddles
 date: 2007-04-25 09:00:00
 categories: Uncategorized

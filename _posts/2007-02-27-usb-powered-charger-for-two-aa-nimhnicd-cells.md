@@ -1,5 +1,4 @@
 ---
-layout: single
 title: USB Powered Charger for Two AA NiMH/NiCd Cells
 date: 2007-02-27 15:26:00
 categories: Projects

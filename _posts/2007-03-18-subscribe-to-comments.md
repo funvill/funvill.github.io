@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Subscribe to Comments
 date: 2007-03-18 15:40:00
 categories: Development

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Quick and easy word clock with a spare monitor and JavaScript
 date: 2013-09-09 00:05:00
 categories: RaspberryPI

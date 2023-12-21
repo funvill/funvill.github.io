@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Laser cut spray paint stencils
 date: 2014-10-10 17:50:00
 categories: LaserCutter

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: What are RSS feeds and how to use them
 date: 2007-03-08 12:29:00
 categories: Tips Development

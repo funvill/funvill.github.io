@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 093 - Video Quotes and Truisms
 date: 2023-04-30 01:33:00
 categories: ideas YearOfIdeas

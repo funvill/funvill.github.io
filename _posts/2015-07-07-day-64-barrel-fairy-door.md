@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 64 - Barrel fairy door
 date: 2015-07-07 01:04:00
 categories: YearOfMaking

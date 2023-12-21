@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 100 - Lavender Farm
 date: 2023-05-07 01:40:00
 categories: ideas YearOfIdeas

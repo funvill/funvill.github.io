@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 2013 Goals and Resolutions
 date: 2012-12-31 00:00:00
 categories: News

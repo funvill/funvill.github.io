@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Design Competition - Board Game Design Challenge
 date: 2007-03-07 15:12:00
 categories: Development Games

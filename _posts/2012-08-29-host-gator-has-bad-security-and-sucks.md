@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Host gator has bad security and sucks.
 date: 2012-08-29 21:56:00
 categories: Rants

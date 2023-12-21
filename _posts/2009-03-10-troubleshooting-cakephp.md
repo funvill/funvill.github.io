@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Troubleshooting CakePHP
 date: 2009-03-10 15:39:00
 categories: Development

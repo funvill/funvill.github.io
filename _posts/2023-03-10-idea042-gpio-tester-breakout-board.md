@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 042 - GPIO tester breakout board
 date: 2023-03-10 00:42:00
 categories: ideas YearOfIdeas

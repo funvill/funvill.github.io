@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 51 - Circles panel
 date: 2015-06-04 00:51:00
 categories: YearOfMaking

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Panels - Stained glass windows project
 date: 2019-09-25 00:01:00
 categories: 

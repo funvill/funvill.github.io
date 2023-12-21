@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to install PHPBB 3.0.1
 date: 2008-06-05 22:36:00
 categories: Development

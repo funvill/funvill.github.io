@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Laser cutting in Vancouver
 date: 2017-03-06 00:01:00
 categories: Uncategorized

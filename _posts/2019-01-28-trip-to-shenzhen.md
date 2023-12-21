@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Trip to Shenzhen 2018
 date: 2019-01-28 00:01:00
 categories: travel

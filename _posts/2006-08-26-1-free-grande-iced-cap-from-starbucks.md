@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 1 Free Grande Iced Cap from Starbucks
 date: 2006-08-26 14:23:00
 categories: Vancouver

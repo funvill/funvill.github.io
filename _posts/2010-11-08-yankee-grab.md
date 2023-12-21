@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Yankee Grab
 date: 2010-11-08 20:21:00
 categories: Dice Games

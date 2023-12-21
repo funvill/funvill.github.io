@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 050 - Tessellating Illuminated Origami Wall Sculpture
 date: 2023-03-18 00:50:00
 categories: ideas YearOfIdeas

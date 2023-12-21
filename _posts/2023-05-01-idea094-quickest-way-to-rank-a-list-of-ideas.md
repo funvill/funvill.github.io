@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 094 - Quickest way to rank a list of ideas
 date: 2023-05-01 01:34:00
 categories: ideas YearOfIdeas

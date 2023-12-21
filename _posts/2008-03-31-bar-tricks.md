@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Bar Tricks
 date: 2008-03-31 13:16:00
 categories: media 

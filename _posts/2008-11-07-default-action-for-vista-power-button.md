@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Default action for vista power button
 date: 2008-11-07 11:47:00
 categories: Tips

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How I buy bitcoins and Ethereum
 date: 2017-11-28 00:01:00
 categories: Uncategorized

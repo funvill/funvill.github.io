@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Interesting Friday 
 date: 2010-06-11 16:27:00
 categories: Arduino Vancouver Development

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 088 - Glass room of perspectives
 date: 2023-04-25 01:28:00
 categories: ideas YearOfIdeas

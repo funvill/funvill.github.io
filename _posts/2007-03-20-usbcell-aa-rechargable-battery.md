@@ -1,5 +1,4 @@
 ---
-layout: single
 title: USBCELL AA Rechargable Battery
 date: 2007-03-20 13:05:00
 categories: Uncategorized

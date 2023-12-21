@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Things to do in vancouver
 date: 2007-02-24 15:34:00
 categories: Vancouver

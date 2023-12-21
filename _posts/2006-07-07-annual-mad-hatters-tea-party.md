@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Annual Mad Hatters Tea Party
 date: 2006-07-07 11:54:00
 categories: Vancouver

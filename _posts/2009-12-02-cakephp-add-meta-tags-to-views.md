@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Cakephp - Add meta tags to views
 date: 2009-12-02 12:20:00
 categories: Tips

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Your daily WTF
 date: 2008-07-11 14:26:00
 categories: Development Tips

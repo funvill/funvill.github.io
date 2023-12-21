@@ -1,5 +1,4 @@
 ---
-layout: single
 title: John Chow - How to make money online 
 date: 2007-05-31 10:14:00
 categories: Development

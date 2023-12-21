@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 85 - Mustaches 
 date: 2015-08-23 01:25:00
 categories: YearOfMaking

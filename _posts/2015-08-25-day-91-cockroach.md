@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 91 - Cockroach
 date: 2015-08-25 01:31:00
 categories: YearOfMaking

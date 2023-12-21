@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 5 MSN/Yahoo/GTtalk/AOL/IM Etiquette tips 
 date: 2007-06-04 09:00:00
 categories: Tips

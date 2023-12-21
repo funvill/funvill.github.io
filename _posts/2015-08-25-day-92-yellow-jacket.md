@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 92 - Yellow jacket
 date: 2015-08-25 01:32:00
 categories: YearOfMaking

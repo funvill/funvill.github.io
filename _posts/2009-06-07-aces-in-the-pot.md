@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Aces In The Pot
 date: 2009-06-07 18:53:00
 categories: Dice Gambling Games

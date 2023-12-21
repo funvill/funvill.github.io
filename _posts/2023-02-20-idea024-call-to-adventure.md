@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 024 - Call to Adventure 
 date: 2023-02-20 00:24:00
 categories: ideas YearOfIdeas

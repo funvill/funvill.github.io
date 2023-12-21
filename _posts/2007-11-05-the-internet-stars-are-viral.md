@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Internet Stars Are Viral
 date: 2007-11-05 11:13:00
 categories: Media

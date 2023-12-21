@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Ping and pong
 date: 2011-10-08 18:49:00
 categories: Rants

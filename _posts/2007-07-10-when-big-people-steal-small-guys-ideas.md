@@ -1,5 +1,4 @@
 ---
-layout: single
 title: When big people steal small guys ideas 
 date: 2007-07-10 00:41:00
 categories: Development

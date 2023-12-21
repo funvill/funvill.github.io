@@ -1,5 +1,4 @@
 ---
-layout: single
 title: BEWARE! ShareMouse, MaxiVista, Bartels Media == Crapwear
 date: 2013-10-07 21:28:00
 categories: Rants

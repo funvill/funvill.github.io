@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 090 - Dead Bug electronic circuits jigs
 date: 2023-04-27 01:30:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: House hunting in vancouver
 date: 2007-08-31 11:14:00
 categories: Tips Vancouver

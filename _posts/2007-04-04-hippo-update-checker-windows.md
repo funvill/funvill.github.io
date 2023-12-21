@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Hippo Update Checker (Windows)
 date: 2007-04-04 09:00:00
 categories: Tips Utility

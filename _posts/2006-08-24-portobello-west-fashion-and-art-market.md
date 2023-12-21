@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Portobello West Fashion and Art Market
 date: 2006-08-24 01:41:00
 categories: Vancouver

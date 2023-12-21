@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 018 - Just the tip skyscraper coffee table book
 date: 2023-02-14 00:18:00
 categories: ideas YearOfIdeas

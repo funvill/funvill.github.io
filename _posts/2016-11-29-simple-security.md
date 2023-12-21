@@ -1,6 +1,5 @@
 ---
 published: false
-layout: single
 title: Simple security 
 date: 2016-11-28 00:01:00
 categories: Uncategorized

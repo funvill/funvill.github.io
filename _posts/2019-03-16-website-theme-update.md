@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Website theme update
 date: 2019-03-16 00:01:00
 categories: website

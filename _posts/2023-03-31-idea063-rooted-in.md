@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 063 - RootedIn
 date: 2023-03-31 01:03:00
 categories: ideas YearOfIdeas

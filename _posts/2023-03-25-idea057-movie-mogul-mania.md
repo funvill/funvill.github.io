@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 057 - Movie Mogul Mania
 date: 2023-03-25 00:57:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: One Minute Puberty
 date: 2011-03-20 21:34:00
 categories: Media

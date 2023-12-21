@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Snakes and Ladders
 date: 2010-06-21 15:53:00
 categories: Games

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: My Ferrofluid Project 
 date: 2007-04-15 09:00:00
 categories: Uncategorized Projects

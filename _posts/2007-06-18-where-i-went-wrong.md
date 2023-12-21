@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Where I went wrong 
 date: 2007-06-18 01:58:00
 categories: Development

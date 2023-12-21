@@ -1,5 +1,4 @@
 ---
-layout: single
 title: More burning man 2011 videos 
 date: 2011-09-23 16:55:00
 categories: Media

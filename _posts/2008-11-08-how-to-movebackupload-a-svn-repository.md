@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to Move/Backup/Load a SVN repository 
 date: 2008-11-08 09:00:00
 categories: Tips

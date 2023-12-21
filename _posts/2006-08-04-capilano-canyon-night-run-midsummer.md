@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Capilano Canyon Night Run (Midsummer)
 date: 2006-08-04 22:53:00
 categories: Vancouver

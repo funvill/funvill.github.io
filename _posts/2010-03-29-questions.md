@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Questions
 date: 2010-03-29 17:42:00
 categories: Drinking Games

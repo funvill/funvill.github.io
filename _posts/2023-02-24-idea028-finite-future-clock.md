@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 028 - Finite Future Clock
 date: 2023-02-24 00:28:00
 categories: ideas YearOfIdeas

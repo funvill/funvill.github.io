@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 15 - Arcade button panel 
 date: 2015-04-15 00:15:00
 categories: YearOfMaking

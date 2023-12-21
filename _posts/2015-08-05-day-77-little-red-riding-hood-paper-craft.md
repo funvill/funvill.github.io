@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 77 - Little red riding hood paper craft
 date: 2015-08-05 01:17:00
 categories: YearOfMaking

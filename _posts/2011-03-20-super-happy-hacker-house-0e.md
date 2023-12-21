@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Super Happy Hacker House 0E
 date: 2011-03-20 21:36:00
 categories: Media

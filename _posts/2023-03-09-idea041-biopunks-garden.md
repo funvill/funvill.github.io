@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 041 - BioPunks Garden
 date: 2023-03-09 00:41:00
 categories: ideas YearOfIdeas

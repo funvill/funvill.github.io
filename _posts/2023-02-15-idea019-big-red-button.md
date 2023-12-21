@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 019 - Big Red Button
 date: 2023-02-15 00:19:00
 categories: ideas YearOfIdeas

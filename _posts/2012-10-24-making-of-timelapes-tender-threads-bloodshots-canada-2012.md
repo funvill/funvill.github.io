@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Making of Timelapes - Tender Threads €” Bloodshots Canada 2012
 date: 2012-10-24 00:01:00
 categories: Projects

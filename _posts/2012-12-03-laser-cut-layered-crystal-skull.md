@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Laser cut layered Crystal skull
 date: 2012-12-03 23:52:00
 categories: LaserCutter

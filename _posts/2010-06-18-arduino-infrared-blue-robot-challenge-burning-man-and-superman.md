@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Arduino Infrared, Blue Robot challenge, Burning man and superman 
 date: 2010-06-18 15:01:00
 categories: Projects

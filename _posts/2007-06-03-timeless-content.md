@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Timeless content 
 date: 2007-06-03 09:00:00
 categories: Tips Development

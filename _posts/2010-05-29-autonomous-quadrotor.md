@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Autonomous Quadrotor
 date: 2010-05-29 14:12:00
 categories: Uncategorized

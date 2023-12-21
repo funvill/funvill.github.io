@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Translink schedules via bus stop ID
 date: 2007-03-30 09:30:00
 categories: Vancouver

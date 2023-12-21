@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Yaletown 06 Flamin Hot Classic Car Show and Summer Celebration
 date: 2006-07-08 11:56:00
 categories: Vancouver

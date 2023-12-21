@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 099 - Stevens projects club
 date: 2023-05-06 01:39:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 001 - Cherry Blossom Profile Photo Booths
 date: 2023-01-28 00:01:00
 categories: ideas YearOfIdeas 

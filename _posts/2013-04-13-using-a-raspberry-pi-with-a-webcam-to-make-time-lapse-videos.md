@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Using a Raspberry PI with a webcam to make time lapse videos. 
 date: 2013-04-13 14:38:00
 categories: Projects RaspberryPI

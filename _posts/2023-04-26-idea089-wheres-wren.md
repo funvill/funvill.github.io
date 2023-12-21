@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 089 - Wheres Wren?
 date: 2023-04-26 01:29:00
 categories: ideas YearOfIdeas

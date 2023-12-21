@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 095b - Dot Matrix water printer bike carriage
 date: 2023-05-02 01:35:00
 categories: ideas YearOfIdeas

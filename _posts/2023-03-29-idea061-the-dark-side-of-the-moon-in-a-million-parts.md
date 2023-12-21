@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 061 - The Dark Side Of The Moon in a million parts
 date: 2023-03-29 01:01:00
 categories: ideas YearOfIdeas

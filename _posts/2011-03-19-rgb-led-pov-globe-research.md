@@ -1,5 +1,4 @@
 ---
-layout: single
 title: RGB LED POV Globe - Research 
 date: 2011-03-19 16:31:00
 categories: Projects

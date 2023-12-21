@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Programing - Stained glass windows project
 date: 2018-04-14 00:01:00
 categories: 

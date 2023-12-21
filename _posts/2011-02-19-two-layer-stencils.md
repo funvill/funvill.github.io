@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Two layer Stencils 
 date: 2011-02-19 16:06:00
 categories: Uncategorized

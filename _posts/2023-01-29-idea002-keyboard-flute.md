@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 002 - Keyboard Flute
 date: 2023-01-29 00:02:00
 categories: ideas YearOfIdeas

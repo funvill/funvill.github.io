@@ -1,5 +1,4 @@
 ---
-layout: single
 title: First test of making GeoCoins with the laser cuter
 date: 2012-09-19 12:00:00
 categories: Projects

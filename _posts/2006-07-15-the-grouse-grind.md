@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Grouse Grind
 date: 2006-07-15 18:46:00
 categories: Vancouver

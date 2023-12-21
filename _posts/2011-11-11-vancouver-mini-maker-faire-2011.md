@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Vancouver Mini Maker Faire 2011
 date: 2011-11-11 15:49:00
 categories: Projects Vancouver

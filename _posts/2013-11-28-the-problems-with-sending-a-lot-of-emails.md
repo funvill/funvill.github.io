@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The problems with sending a lot of emails.
 date: 2013-11-28 21:20:00
 categories: Rants

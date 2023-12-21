@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 026 - Digger game
 date: 2023-02-22 00:26:00
 categories: ideas YearOfIdeas

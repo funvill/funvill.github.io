@@ -1,5 +1,4 @@
 ---
-layout: single
 title: ImageManager 2.0
 date: 2007-04-03 09:00:00
 categories: Development

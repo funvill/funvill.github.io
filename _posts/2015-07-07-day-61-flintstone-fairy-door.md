@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 61 - flintstone fairy door
 date: 2015-07-07 01:01:00
 categories: YearOfMaking

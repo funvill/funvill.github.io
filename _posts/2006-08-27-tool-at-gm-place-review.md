@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Tool at GM place Review
 date: 2006-08-27 12:14:00
 categories: Media Vancouver

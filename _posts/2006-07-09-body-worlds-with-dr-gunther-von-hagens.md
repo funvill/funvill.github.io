@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Body-Worlds with Dr. Gunther von Hagens
 date: 2006-07-09 11:58:00
 categories: Vancouver

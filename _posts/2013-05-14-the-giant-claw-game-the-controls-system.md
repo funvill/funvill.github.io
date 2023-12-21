@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Giant Claw Game! - The Controls System 
 date: 2013-05-14 00:01:00
 categories: Projects

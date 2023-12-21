@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Eden project - Artificial ecosystem
 date: 2007-04-14 09:00:00
 categories: Development

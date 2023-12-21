@@ -1,5 +1,4 @@
 ---
-layout: single
 title: House Hunting in Vancouver
 date: 2007-02-25 15:36:00
 categories: Vancouver

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Let&quot;s Be Brief - A story in 6 words 
 date: 2007-04-07 09:00:00
 categories: Uncategorized

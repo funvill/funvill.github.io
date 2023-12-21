@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Six-Six-Six
 date: 2010-06-14 15:41:00
 categories: Dice Gambling Games

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 014 - AI Pictionary
 date: 2023-02-10 00:14:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Drawbot results 
 date: 2012-12-17 22:54:00
 categories: Uncategorized

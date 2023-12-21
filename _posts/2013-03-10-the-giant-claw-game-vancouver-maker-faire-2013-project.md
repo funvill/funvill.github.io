@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Giant Claw Game! - Vancouver Maker Faire 2013 project
 date: 2013-03-10 20:47:00
 categories: Makerfaire Projects

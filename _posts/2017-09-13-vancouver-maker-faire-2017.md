@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Vancouver Maker Faire 2017 
 date: 2017-09-13 00:01:00
 categories: Uncategorized

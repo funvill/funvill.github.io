@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Stephos Greek Taverna - The artificial line 
 date: 2007-04-11 09:00:00
 categories: Vancouver

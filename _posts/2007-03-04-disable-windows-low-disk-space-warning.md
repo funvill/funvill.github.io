@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Disable Windows low disk space warning
 date: 2007-03-04 16:18:00
 categories: Tips

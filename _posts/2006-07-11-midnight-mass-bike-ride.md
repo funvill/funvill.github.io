@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Midnight Mass Bike Ride
 date: 2006-07-11 11:59:00
 categories: Vancouver

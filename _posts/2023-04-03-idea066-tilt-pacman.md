@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 066 - Tilt Pacman
 date: 2023-04-03 01:06:00
 categories: ideas YearOfIdeas

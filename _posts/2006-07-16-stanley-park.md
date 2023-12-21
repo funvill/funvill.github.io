@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Stanley Park
 date: 2006-07-16 19:13:00
 categories: Vancouver

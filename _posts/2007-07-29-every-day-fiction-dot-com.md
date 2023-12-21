@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Every Day Fiction dot com
 date: 2007-07-29 17:20:00
 categories: Development Projects

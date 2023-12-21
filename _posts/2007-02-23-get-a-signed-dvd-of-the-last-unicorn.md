@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Get a signed DVD of The Last Unicorn
 date: 2007-02-23 17:08:00
 categories: Media

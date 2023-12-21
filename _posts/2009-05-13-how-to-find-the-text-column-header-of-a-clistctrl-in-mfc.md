@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to find the text column header of a CListCtrl in MFC
 date: 2009-05-13 14:58:00
 categories: Development

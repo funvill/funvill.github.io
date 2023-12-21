@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 027 - Print on demand Keyboard Keycaps
 date: 2023-02-23 00:27:00
 categories: ideas YearOfIdeas

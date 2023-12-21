@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 060 - The Little Prince in a million parts
 date: 2023-03-28 01:00:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Fan works of Mario 
 date: 2007-04-28 09:00:00
 categories: Games Media

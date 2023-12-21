@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 75 - Moose layered paper craft
 date: 2015-07-30 01:15:00
 categories: YearOfMaking

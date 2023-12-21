@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How do you talk to someone over a common, instant message client (Gtalk, MSN) securely, with encryption
 date: 2012-03-26 11:11:00
 categories: Development

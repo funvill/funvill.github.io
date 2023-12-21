@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Board members on B.C. Liquor Control and Licensing Branch (LCLB)
 date: 2013-01-14 12:05:00
 categories: Vancouver

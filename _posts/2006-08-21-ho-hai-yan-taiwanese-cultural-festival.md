@@ -1,5 +1,4 @@
 ---
-layout: single
 title: HO-HAI-YAN TAIWANESE CULTURAL FESTIVAL
 date: 2006-08-21 00:30:00
 categories: Vancouver

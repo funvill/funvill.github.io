@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 37 - Flower of life panel
 date: 2015-05-29 00:37:00
 categories: YearOfMaking

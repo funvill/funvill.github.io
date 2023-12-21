@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Reddit Holiday Greeting Card Exchange
 date: 2012-12-10 13:25:00
 categories: Arduino

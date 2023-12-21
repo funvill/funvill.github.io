@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 4 - Untztrument trellis midi kit
 date: 2015-04-15 00:04:00
 categories: YearOfMaking

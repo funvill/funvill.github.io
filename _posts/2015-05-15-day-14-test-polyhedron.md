@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 14 - Test polyhedron
 date: 2015-04-15 00:14:00
 categories: YearOfMaking

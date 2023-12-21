@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Crokinole
 date: 2009-08-31 11:42:00
 categories: Games

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Arduino Robots
 date: 2009-07-04 19:41:00
 categories: Arduino Development

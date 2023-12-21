@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 67 - Testing fairy door
 date: 2015-07-14 01:07:00
 categories: YearOfMaking

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 42 - All pixel build day 
 date: 2015-06-01 00:42:00
 categories: YearOfMaking

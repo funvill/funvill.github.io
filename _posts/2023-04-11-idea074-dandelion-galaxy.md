@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 074 - Dandelion Galaxy
 date: 2023-04-11 01:14:00
 categories: ideas YearOfIdeas

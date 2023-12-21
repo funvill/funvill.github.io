@@ -1,5 +1,4 @@
 ---
-layout: single
 title: A perfect example of why you should use the same password on different websites. 
 date: 2011-01-31 19:19:00
 categories: Rants

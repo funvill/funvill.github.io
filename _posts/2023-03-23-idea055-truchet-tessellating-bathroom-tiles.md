@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 055 - Truchet tessellating bathroom tiles
 date: 2023-03-23 00:55:00
 categories: ideas YearOfIdeas

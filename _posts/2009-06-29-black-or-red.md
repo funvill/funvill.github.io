@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Black or Red
 date: 2009-06-29 10:21:00
 categories: Cards Drinking Games

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: If you build it they will come mentality...
 date: 2008-01-03 14:30:00
 categories: Development Development

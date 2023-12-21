@@ -1,5 +1,4 @@
 ---
-layout: single
 title: RescueTime July - September 2014
 date: 2014-10-10 16:49:00
 categories: Uncategorized

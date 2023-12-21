@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Wastbasket for the bathroom
 date: 2007-11-12 00:25:00
 categories: design

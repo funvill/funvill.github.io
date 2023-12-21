@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 030 - Chatbot Journaling
 date: 2023-02-26 00:30:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Sign Posts - Vancouver Mini Maker Faire 2011
 date: 2011-06-17 18:43:00
 categories: Uncategorized Vancouver

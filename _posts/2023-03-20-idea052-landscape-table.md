@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 052 - Landscape Table
 date: 2023-03-20 00:52:00
 categories: ideas YearOfIdeas

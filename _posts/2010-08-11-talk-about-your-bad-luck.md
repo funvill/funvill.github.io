@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Talk about your bad luck
 date: 2010-08-11 14:19:00
 categories: Uncategorized

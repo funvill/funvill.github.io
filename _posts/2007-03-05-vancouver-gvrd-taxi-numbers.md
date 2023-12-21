@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Vancouver (GVRD) Taxi Numbers 
 date: 2007-03-05 12:47:00
 categories: Vancouver

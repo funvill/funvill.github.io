@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Wordpress, Creating a RSS feed for each category.
 date: 2008-11-20 12:04:00
 categories: Tips

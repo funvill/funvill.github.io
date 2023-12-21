@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 19 - failed maze panel
 date: 2015-05-15 00:19:00
 categories: YearOfMaking

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 013 - Speech to Text, always listening, ear badge 
 date: 2023-02-09 00:13:00
 categories: ideas YearOfIdeas

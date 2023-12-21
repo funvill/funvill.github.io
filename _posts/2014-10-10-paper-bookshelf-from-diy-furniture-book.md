@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Paper bookshelf from DIY Furniture book
 date: 2014-10-10 19:01:00
 categories: Projects

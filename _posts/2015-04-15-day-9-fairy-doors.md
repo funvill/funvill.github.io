@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 9 - Fairy doors 
 date: 2015-04-15 00:09:00
 categories: YearOfMaking

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Raspberry PI - Start up questions
 date: 2012-06-17 19:23:00
 categories: Development Projects RaspberryPI Tips

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 065 - Atari Space Invaders LED Matrix pendent
 date: 2023-04-02 01:05:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Burning man 2011 placement confirmed - DIVORCE & 7:30,  Rites Of Passage 
 date: 2011-07-15 14:40:00
 categories: News

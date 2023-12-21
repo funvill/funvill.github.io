@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 53 - Testing LED strips 
 date: 2015-07-07 00:53:00
 categories: YearOfMaking

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Paprika trailer 
 date: 2007-03-01 10:43:00
 categories: Media

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Illuminares Lantern Procession
 date: 2006-07-05 11:48:00
 categories: Vancouver

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How messy is your network 
 date: 2007-02-20 17:20:00
 categories: Uncategorized

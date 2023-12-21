@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 48 - Maze panel
 date: 2015-06-04 00:48:00
 categories: YearOfMaking

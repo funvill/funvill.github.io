@@ -1,5 +1,4 @@
 ---
-layout: single
 title: NiceDog nano php web framework
 date: 2012-07-28 02:01:00
 categories: Development

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Playa tips and tricks 
 date: 2011-08-01 00:00:00
 categories: Tips

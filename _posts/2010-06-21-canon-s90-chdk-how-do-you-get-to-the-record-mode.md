@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Canon S90 CHDK How do you get to the record mode?
 date: 2010-06-21 00:00:00
 categories: Tips

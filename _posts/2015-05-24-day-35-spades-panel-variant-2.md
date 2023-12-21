@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 35 - Spades panel variant 2
 date: 2015-05-27 00:35:00
 categories: YearOfMaking

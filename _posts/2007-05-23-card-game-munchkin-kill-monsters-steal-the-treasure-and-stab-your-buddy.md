@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Card game - Munchkin - Kill monsters, steal the treasure, and stab your buddy
 date: 2007-05-23 09:00:00
 categories: Games

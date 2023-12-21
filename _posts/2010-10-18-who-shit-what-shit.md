@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Who Shit, What Shit
 date: 2010-10-18 19:17:00
 categories: Drinking Games

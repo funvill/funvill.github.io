@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 39 - Inside of the dome
 date: 2015-05-30 00:39:00
 categories: YearOfMaking

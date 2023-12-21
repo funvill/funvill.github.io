@@ -1,5 +1,4 @@
 ---
-layout: single
 title: RGB LED POV Globe - Status update and mechanical issues
 date: 2011-06-12 15:27:00
 categories: Arduino Development  Projects 

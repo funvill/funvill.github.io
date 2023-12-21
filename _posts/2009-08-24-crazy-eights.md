@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Crazy Eights
 date: 2009-08-24 11:18:00
 categories: Cards Games

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to access Facebook's data
 date: 2007-11-25 20:47:00
 categories: Development

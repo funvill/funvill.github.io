@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 22 - triangl line panel
 date: 2015-05-15 00:22:00
 categories: YearOfMaking

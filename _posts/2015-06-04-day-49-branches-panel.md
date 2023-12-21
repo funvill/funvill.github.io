@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 49 - Branches panel
 date: 2015-06-04 00:49:00
 categories: YearOfMaking

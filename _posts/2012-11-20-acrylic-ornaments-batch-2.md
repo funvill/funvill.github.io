@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Acrylic Ornaments Batch 2
 date: 2012-11-20 00:00:00
 categories: LaserCutter

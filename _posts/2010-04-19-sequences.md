@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Sequences
 date: 2010-04-19 19:05:00
 categories: Dice Games

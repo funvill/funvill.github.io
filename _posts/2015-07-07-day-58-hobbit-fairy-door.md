@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 58 - Hobbit fairy door  
 date: 2015-07-07 00:58:00
 categories: YearOfMaking

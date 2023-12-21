@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Vancouver Zombie Walk
 date: 2006-08-17 12:47:00
 categories: Vancouver

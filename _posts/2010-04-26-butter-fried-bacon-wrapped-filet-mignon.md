@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Butter fried bacon wrapped filet Mignon
 date: 2010-04-26 21:10:00
 categories: recipe

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Mistakes I have made
 date: 2007-06-19 09:00:00
 categories: Development

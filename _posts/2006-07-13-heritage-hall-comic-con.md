@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Heritage Hall Comic Con
 date: 2006-07-13 12:38:00
 categories: Vancouver

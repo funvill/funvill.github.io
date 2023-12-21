@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Office Parkour and ZombinLaden
 date: 2011-09-30 12:12:00
 categories: Media

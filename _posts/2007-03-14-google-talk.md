@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Google talk 
 date: 2007-03-14 16:08:00
 categories: Tips Development

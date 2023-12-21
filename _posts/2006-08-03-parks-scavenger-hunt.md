@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Parks - Scavenger Hunt
 date: 2006-08-03 22:39:00
 categories: Vancouver

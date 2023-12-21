@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Finding a good web host 
 date: 2007-05-14 09:00:00
 categories: Tips Development

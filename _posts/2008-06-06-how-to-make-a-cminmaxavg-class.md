@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to make a CMinMaxAvg class 
 date: 2008-06-06 13:21:00
 categories: Development Tips

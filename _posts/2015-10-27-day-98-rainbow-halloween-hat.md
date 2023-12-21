@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 98 - Rainbow halloween hat 
 date: 2015-10-27 01:39:00
 categories: YearOfMaking

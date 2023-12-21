@@ -1,5 +1,4 @@
 ---
-layout: single
 title: A mini hydroelectric damn that runs a LED inside your shower head.
 date: 2007-03-02 15:25:00
 categories: Projects

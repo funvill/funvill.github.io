@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Defeat your Google twin
 date: 2007-06-22 16:03:00
 categories: Uncategorized

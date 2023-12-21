@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Abbotsford International Airshow
 date: 2006-07-02 11:43:00
 categories: Vancouver

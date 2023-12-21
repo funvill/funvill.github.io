@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Giant Claw Game! - Controller 
 date: 2013-03-19 22:30:00
 categories: LaserCutter Projects

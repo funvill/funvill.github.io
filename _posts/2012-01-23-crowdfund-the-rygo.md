@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Crowdfund the Rygo
 date: 2012-01-23 21:13:00
 categories: Art

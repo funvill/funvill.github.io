@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 23 Tips for writing good blog posts and articles.
 date: 2007-05-31 09:00:00
 categories: Tips Development

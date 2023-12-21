@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Laser cut Mario coin boxes 
 date: 2013-12-03 23:53:00
 categories: Projects 

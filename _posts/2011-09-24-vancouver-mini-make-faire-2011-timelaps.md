@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Vancouver Mini Make Faire 2011 - Timelaps
 date: 2011-09-24 00:00:00
 categories: Media Vancouver

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Paper, Rock, Scissors Ultimate
 date: 2010-02-08 15:59:00
 categories: Drinking Games

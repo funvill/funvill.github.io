@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 46 - Voronoi pattern panel
 date: 2015-06-04 00:46:00
 categories: YearOfMaking

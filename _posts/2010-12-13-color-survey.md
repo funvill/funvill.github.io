@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Color survey 
 date: 2010-12-13 00:00:00
 categories: Development

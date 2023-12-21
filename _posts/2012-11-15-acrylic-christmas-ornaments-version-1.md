@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Acrylic Christmas Ornaments version 1
 date: 2012-11-15 22:38:00
 categories: Development  LaserCutter

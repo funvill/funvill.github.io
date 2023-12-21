@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Lego Ice cube Tray 
 date: 2007-02-21 15:31:00
 categories: Projects

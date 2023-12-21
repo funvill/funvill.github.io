@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Project: The $5 Cracker Box IPod Amplifier"
 date: 2007-04-01 08:55:00
 categories: Media Projects

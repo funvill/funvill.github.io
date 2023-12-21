@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 21 - Arcade button midi control
 date: 2015-05-15 00:21:00
 categories: YearOfMaking

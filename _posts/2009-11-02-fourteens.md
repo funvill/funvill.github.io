@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Fourteens
 date: 2009-11-02 13:46:00
 categories: Dice Games

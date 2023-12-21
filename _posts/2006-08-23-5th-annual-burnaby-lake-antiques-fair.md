@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 5th Annual BURNABY LAKE ANTIQUES FAIR
 date: 2006-08-23 01:28:00
 categories: Vancouver

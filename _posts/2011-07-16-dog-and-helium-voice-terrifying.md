@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Dog and Helium Voice - Terrifying 
 date: 2011-07-16 00:00:00
 categories: Media

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 2006 DESTINATION FUNNY SHORT FILM CONTEST
 date: 2006-08-20 00:18:00
 categories: Vancouver

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 12 Rules for Choosing Domain Names
 date: 2007-03-03 16:57:00
 categories: Development

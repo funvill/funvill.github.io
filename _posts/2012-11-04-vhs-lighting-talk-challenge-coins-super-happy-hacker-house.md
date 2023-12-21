@@ -1,5 +1,4 @@
 ---
-layout: single
 title: VHS Lighting Talk Challenge coins - Super Happy Hacker House
 date: 2012-11-04 12:20:00
 categories: Projects

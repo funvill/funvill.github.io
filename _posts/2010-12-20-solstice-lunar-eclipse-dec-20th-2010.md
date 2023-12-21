@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Solstice Lunar Eclipse! Dec 20th 2010
 date: 2010-12-20 13:34:00
 categories: Vancouver

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Resize thumbnails in Wordpress
 date: 2007-06-13 23:08:00
 categories: Tips Development

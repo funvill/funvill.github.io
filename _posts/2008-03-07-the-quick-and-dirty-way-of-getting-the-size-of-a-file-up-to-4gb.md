@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The quick and dirty way of getting the size of a file up to 4GB.
 date: 2008-03-07 15:23:00
 categories: Tips

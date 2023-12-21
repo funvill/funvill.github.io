@@ -1,5 +1,4 @@
 ---
-layout: single
 title: What are mysql-bin.000001, mysql-bin.000002...
 date: 2010-05-28 10:47:00
 categories: Tips Development

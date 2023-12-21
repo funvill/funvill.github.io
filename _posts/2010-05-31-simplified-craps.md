@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Simplified Craps
 date: 2010-05-31 15:31:00
 categories: Dice Gambling Games

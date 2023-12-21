@@ -1,5 +1,4 @@
 ---
-layout: single
 title: What happened to the design?
 date: 2007-04-05 12:51:00
 categories: Development

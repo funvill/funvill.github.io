@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 34 - Spades Panel
 date: 2015-05-26 00:32:00
 categories: YearOfMaking

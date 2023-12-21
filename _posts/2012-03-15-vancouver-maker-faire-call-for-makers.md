@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Vancouver Maker Faire - Call for Makers
 date: 2012-03-15 09:27:00
 categories: Vancouver

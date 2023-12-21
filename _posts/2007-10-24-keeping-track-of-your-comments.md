@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Keeping track of your comments 
 date: 2007-10-24 00:33:00
 categories: Development

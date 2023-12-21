@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 059 - Alices Adventures in Wonderland in a million parts
 date: 2023-03-27 00:59:00
 categories: ideas YearOfIdeas

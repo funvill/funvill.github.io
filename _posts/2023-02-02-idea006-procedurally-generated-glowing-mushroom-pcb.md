@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 006 - Procedurally generated Glowing Mushroom PCB
 date: 2023-02-02 00:06:00
 categories: ideas YearOfIdeas

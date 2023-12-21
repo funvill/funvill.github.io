@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Dirty Hearts
 date: 2009-10-12 13:22:00
 categories: Cards Drinking Games

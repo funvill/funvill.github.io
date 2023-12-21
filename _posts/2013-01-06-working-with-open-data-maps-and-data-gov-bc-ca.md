@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Working with Open Data, Maps and data.gov.bc.ca
 date: 2013-01-06 20:43:00
 categories: Development maps opendata

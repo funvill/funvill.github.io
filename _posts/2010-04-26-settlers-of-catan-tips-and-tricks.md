@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Settlers of Catan: Tricks and Tactics"
 date: 2010-04-26 00:16:00
 categories: Games

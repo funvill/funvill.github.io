@@ -1,5 +1,4 @@
 ---
-layout: single
 title: More GeoCoins tests
 date: 2012-09-20 00:05:00
 categories: Projects

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 046 - Cherry Blossom Timelapse 
 date: 2023-03-14 00:46:00
 categories: ideas YearOfIdeas

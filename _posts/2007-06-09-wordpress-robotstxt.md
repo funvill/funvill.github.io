@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Wordpress robots.txt
 date: 2007-06-09 09:00:00
 categories: Tips Development

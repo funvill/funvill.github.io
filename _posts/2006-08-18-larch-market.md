@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Larch Market
 date: 2006-08-18 13:12:00
 categories: Vancouver

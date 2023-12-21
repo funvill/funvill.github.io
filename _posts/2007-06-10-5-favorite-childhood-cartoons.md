@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 5 Favorite Childhood Cartoons
 date: 2007-06-10 09:00:00
 categories: Uncategorized

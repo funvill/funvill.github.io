@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to make a facebook applcation.
 date: 2007-11-25 18:02:00
 categories: Development

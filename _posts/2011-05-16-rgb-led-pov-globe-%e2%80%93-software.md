@@ -1,5 +1,4 @@
 ---
-layout: single
 title: RGB LED POV Globe - Software
 date: 2011-05-16 21:07:00
 categories: Projects

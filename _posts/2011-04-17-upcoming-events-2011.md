@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Upcoming events for this summer 
 date: 2011-04-17 14:20:00
 categories: Vancouver

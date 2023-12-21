@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 12 - Test panels
 date: 2015-04-15 00:12:00
 categories: YearOfMaking

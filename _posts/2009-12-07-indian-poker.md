@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Indian Poker
 date: 2009-12-07 14:15:00
 categories: Cards Drinking Games

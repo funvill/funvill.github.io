@@ -1,5 +1,4 @@
 ---
-layout: single
 title: In search for a bug tracking system 
 date: 2010-04-30 10:32:00
 categories: Development

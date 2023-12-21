@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Giant Claw Game! - Time Lapes 
 date: 2013-06-05 21:57:00
 categories: Media

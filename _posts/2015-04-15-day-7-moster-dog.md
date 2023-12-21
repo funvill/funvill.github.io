@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 7 - Moster dog
 date: 2015-04-15 00:07:00
 categories: YearOfMaking

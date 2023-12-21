@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to be distracted
 date: 2011-10-31 14:48:00
 categories: Uncategorized Rants

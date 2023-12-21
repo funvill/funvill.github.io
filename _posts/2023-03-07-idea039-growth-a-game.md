@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 039 - Growth a game
 date: 2023-03-07 00:39:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Perverted Sounds
 date: 2010-03-01 16:32:00
 categories: Drinking Games

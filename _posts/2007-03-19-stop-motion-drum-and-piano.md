@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Stop motion drum and piano
 date: 2007-03-19 12:40:00
 categories: Media

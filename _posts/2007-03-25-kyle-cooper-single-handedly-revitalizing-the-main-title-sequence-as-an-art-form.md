@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Kyle Cooper - Single-handedly revitalizing the main-title sequence as an art form
 date: 2007-03-25 14:56:00
 categories: Uncategorized Media

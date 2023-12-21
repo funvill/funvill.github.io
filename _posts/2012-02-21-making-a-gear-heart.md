@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Making a Gear Heart
 date: 2012-02-21 00:00:00
 categories: Projects

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 86 - Fox head mask
 date: 2015-08-23 01:26:00
 categories: YearOfMaking

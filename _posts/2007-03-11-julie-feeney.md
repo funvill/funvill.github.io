@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Julie Feeney
 date: 2007-03-11 16:02:00
 categories: Media

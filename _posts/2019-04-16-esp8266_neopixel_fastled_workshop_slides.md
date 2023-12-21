@@ -1,5 +1,4 @@
 ---
-layout: single
 title: ESP8266 + Neopixel + FastLED - Workshop slides 
 date: 2019-04-16 00:01:00
 categories: 

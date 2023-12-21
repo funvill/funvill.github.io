@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Bill C-61 AKA Canadian DMCA - Crisis Fatigue
 date: 2010-06-01 12:00:00
 categories: News Rants

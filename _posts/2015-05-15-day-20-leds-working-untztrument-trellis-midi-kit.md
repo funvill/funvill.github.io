@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 20 - LEDs working Untztrument trellis midi kit
 date: 2015-05-15 00:20:00
 categories: YearOfMaking

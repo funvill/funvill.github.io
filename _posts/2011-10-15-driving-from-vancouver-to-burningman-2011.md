@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Driving from Vancouver to Burningman 2011 
 date: 2011-10-15 17:21:00
 categories: Media

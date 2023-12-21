@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 034 - 20 questions for people
 date: 2023-03-02 00:34:00
 categories: ideas YearOfIdeas

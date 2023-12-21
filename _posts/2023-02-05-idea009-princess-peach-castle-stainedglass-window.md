@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 009 - Princess Peach castle stained glass window
 date: 2023-02-05 00:09:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: General status update
 date: 2014-06-18 00:16:00
 categories: Uncategorized

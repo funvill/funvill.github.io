@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Do not buy from Dell
 date: 2020-12-29 00:01:00
 categories: rant

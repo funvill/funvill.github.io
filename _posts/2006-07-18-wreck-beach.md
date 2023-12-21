@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Wreck Beach
 date: 2006-07-18 19:32:00
 categories: Vancouver

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: PHP strip non alphanumeric
 date: 2008-03-28 21:43:00
 categories: Tips Development

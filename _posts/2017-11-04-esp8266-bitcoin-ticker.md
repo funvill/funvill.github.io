@@ -1,5 +1,4 @@
 ---
-layout: single
 title: ESP8266 bitcoin tracker
 date: 2017-11-04 00:01:00
 categories: Uncategorized

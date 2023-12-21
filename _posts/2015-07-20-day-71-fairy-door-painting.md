@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 71 - fairy door painting
 date: 2015-07-20 01:11:00
 categories: YearOfMaking

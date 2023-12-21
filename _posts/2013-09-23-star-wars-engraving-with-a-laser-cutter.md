@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Star-wars engraving with a laser cutter 
 date: 2013-09-23 15:08:00
 categories: LaserCutter

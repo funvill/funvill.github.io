@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Life tracking Dec 2013
 date: 2014-01-07 00:01:00
 categories: Projects

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 008 - Reconnect a postcard project
 date: 2023-02-04 00:08:00
 categories: ideas YearOfIdeas

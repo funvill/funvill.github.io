@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 032 - Cistercian stained glass Swatch internet .beat clock 
 date: 2023-02-28 00:32:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Intro to Security, Passwords 
 date: 2013-09-25 21:20:00
 categories: Uncategorized

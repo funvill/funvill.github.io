@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Acrylic puzzle test 1
 date: 2012-11-25 21:32:00
 categories: Development  LaserCutter

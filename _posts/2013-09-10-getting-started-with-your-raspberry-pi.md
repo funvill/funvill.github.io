@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Getting started with your Raspberry PI
 date: 2013-09-10 22:20:00
 categories: RaspberryPI

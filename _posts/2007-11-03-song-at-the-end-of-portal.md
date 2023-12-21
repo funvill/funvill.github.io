@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Song at the end of Portal
 date: 2007-11-03 11:32:00
 categories: Games 

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 57 - fairy door normal 
 date: 2015-07-07 00:57:00
 categories: YearOfMaking

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Wooden laser cut pendants
 date: 2012-12-02 16:31:00
 categories: LaserCutter

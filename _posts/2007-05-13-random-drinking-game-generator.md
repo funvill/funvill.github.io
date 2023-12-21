@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Random drinking game generator
 date: 2007-05-13 09:00:00
 categories: Games Utility

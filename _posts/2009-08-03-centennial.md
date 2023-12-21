@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Centennial
 date: 2009-08-03 10:57:00
 categories: Dice Games

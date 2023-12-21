@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Add/Remove operation is impossible, the code element 'Cxxx' is read only
 date: 2009-05-12 09:15:00
 categories: Development

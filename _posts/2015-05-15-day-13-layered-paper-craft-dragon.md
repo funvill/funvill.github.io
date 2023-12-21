@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 13 - Layered paper craft dragon
 date: 2015-05-15 00:13:00
 categories: YearOfMaking

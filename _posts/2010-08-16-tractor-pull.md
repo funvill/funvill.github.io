@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Tractor Pull
 date: 2010-08-16 16:06:00
 categories: Drinking Games

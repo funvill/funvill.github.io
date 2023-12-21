@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 068 - Talking Toy story teller
 date: 2023-04-05 01:08:00
 categories: ideas YearOfIdeas

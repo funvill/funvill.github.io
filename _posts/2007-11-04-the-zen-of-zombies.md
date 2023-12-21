@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The zen of zombies
 date: 2007-11-04 15:13:00
 categories: Media

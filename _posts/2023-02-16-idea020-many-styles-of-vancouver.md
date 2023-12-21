@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 020 - Many styles of Vancouver
 date: 2023-02-16 00:20:00
 categories: ideas YearOfIdeas

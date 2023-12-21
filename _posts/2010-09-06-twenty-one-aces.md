@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Twenty-One Aces
 date: 2010-09-06 16:27:00
 categories: Dice Drinking Games

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Every Night Erotica
 date: 2010-04-13 21:17:00
 categories: News

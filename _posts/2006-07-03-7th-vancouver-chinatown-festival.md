@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 7th Vancouver Chinatown Festival
 date: 2006-07-03 11:44:00
 categories: Vancouver

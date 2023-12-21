@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 087 - Crowd sourced life planner
 date: 2023-04-24 01:27:00
 categories: ideas YearOfIdeas

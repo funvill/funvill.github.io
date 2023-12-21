@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Get special folders with SHGetKnownFolderPath
 date: 2009-12-16 15:04:00
 categories: Tips

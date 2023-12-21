@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Light painting with Processing
 date: 2010-10-10 13:00:00
 categories: Projects Tips

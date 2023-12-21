@@ -1,5 +1,4 @@
 ---
-layout: single
 title: LEGO 3D Milling Machine - 3D Printer
 date: 2012-06-18 22:49:00
 categories: CNC

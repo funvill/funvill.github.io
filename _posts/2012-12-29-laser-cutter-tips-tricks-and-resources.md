@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Laser safe font - Laser cutter Tips, tricks and resources 
 date: 2012-12-29 00:01:00
 categories: LaserCutter Tips

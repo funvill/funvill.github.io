@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 010 - Polyhedron Papercraft Mobile
 date: 2023-02-06 00:10:00
 categories: ideas YearOfIdeas

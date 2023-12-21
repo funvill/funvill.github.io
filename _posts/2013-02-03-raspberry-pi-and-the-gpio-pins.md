@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Raspberry PI and the GPIO pins
 date: 2013-02-03 20:35:00
 categories: Arduino RaspberryPI

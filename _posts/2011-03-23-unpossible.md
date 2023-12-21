@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Unpossible
 date: 2011-03-23 21:48:00
 categories: Media

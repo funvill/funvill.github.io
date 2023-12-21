@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to make dice, and a brief history
 date: 2007-05-15 09:00:00
 categories: Dice Games

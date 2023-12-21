@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Twenty One
 date: 2010-08-30 16:18:00
 categories: Dice Gambling Games

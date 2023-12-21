@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Thing tracking system and GeoCaching
 date: 2012-09-18 23:29:00
 categories: Projects

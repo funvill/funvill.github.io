@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 096 - Boom numbers go up
 date: 2023-05-03 01:36:00
 categories: ideas YearOfIdeas

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: January 2020 brain dump 
 date: 2020-01-06 00:22:00
 categories: bookmarks

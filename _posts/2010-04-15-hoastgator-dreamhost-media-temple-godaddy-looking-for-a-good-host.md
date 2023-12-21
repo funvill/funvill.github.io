@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Looking for a new host 
 date: 2010-04-15 12:42:00
 categories: Development

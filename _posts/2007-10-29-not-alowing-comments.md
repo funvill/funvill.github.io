@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Not alowing comments 
 date: 2007-10-29 18:41:00
 categories: Tips Development

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Chinese paper cutting done with a laser cutter 
 date: 2014-07-21 22:00:00
 categories: LaserCutter

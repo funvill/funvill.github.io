@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 28th Annual Vancouver Pride Parade
 date: 2006-08-01 15:21:00
 categories: Vancouver

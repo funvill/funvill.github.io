@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 10 - Hexagon Star
 date: 2015-04-15 00:10:00
 categories: YearOfMaking

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Flower plug
 date: 2007-11-12 13:35:00
 categories: Development

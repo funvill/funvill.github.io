@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 036 - Kaleidoscope Chandler
 date: 2023-03-04 00:36:00
 categories: ideas YearOfIdeas

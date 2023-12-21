@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Birdy Nam Nam
 date: 2007-03-10 16:42:00
 categories: Media

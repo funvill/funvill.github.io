@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Vancouver floating dining room using plastic 2-Liter bottles
 date: 2012-02-06 10:53:00
 categories: Art Canada design Vancouver

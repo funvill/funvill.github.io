@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Digital stained glass workshop - Post mortem
 date: 2019-09-23 00:01:00
 categories: Events

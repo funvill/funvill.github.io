@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Space ship mobile 
 date: 2013-02-22 17:17:00
 categories: LaserCutter

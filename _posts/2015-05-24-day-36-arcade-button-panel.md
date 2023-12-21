@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 36 - Arcade button panel
 date: 2015-05-29 00:36:00
 categories: YearOfMaking

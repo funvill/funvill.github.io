@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Skullcandy head phones are not compatible...  
 date: 2011-01-07 15:02:00
 categories: Rants

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 077 - Equilateral triangles LED panels
 date: 2023-04-14 01:17:00
 categories: ideas YearOfIdeas

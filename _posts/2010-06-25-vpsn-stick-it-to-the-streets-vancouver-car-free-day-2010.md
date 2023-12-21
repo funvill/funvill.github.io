@@ -1,5 +1,4 @@
 ---
-layout: single
 title: VPSN Stick it to the Streets, Vancouver Car free day 2010
 date: 2010-06-25 17:30:00
 categories: Vancouver

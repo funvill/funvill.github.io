@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Layered paper cut with spacers between each layer
 date: 2014-10-12 19:12:00
 categories: LaserCutter

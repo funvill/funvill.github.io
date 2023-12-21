@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Wishing Well
 date: 2010-10-25 19:31:00
 categories: Dice Games

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 082 - Classic video games maps posters
 date: 2023-04-19 01:22:00
 categories: ideas YearOfIdeas

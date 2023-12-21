@@ -1,5 +1,4 @@
 ---
-layout: single
 title: More laser cut Guilloches
 date: 2014-10-10 17:57:00
 categories: LaserCutter

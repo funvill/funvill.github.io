@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Vancovuer report a crime online   
 date: 2007-04-09 09:00:00
 categories: Vancouver

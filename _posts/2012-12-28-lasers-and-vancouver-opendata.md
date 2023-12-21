@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Lasers and Vancouver OpenData 
 date: 2012-12-28 16:08:00
 categories: LaserCutter

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 072 - Reminders for basic body needs
 date: 2023-04-09 01:12:00
 categories: ideas YearOfIdeas

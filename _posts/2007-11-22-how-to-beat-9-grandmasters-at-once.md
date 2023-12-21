@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to beat 9 grandmasters at once 
 date: 2007-11-22 19:57:00
 categories: Chess Media 

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: View Product Key XP
 date: 2007-03-13 17:10:00
 categories: Tips Utility

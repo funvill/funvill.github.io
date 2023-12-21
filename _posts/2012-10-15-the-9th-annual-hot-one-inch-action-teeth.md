@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The 9th Annual Hot One Inch Action - Teeth
 date: 2012-10-15 22:47:00
 categories: Art Projects  

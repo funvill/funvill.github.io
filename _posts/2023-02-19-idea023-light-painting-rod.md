@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 023 - Light painting rod 
 date: 2023-02-19 00:23:00
 categories: ideas YearOfIdeas

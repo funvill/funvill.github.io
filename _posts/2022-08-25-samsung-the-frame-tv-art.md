@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Samsung 'The Frame' TV art 
 date: 2022-08-25 00:21:00
 categories: 

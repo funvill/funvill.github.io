@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Beat The Barman
 date: 2009-06-22 10:16:00
 categories: Drinking Games

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: What I did in 2010, Year end review 
 date: 2010-12-29 19:00:00
 categories: Uncategorized News

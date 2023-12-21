@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Cakephp - Using the same view for multiple controler functions 
 date: 2009-11-19 12:05:00
 categories: Development

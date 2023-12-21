@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Convert HEX string to BYTE array, bug. 
 date: 2009-11-03 10:20:00
 categories: Development Tips

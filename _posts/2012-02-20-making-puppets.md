@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Making puppets
 date: 2012-02-20 01:34:00
 categories: News Projects puppets

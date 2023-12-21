@@ -1,5 +1,4 @@
 ---
-layout: single
 title: InkPop.com, Are spammers and a security risk for their users. DONT USE THEM. They suck
 date: 2011-07-01 13:37:00
 categories: Rants

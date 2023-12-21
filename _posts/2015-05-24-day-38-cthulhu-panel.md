@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 38 - Cthulhu panel
 date: 2015-05-29 00:38:00
 categories: YearOfMaking

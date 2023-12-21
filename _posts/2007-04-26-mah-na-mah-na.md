@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Mah Na Mah Na
 date: 2007-04-26 09:00:00
 categories: Media

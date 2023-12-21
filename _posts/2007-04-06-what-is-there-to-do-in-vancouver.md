@@ -1,5 +1,4 @@
 ---
-layout: single
 title: What is there to do in Vancouver?
 date: 2007-04-06 09:00:00
 categories: Vancouver

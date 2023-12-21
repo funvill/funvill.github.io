@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 040 - Growth Commander - Tower defense 
 date: 2023-03-08 00:40:00
 categories: ideas YearOfIdeas

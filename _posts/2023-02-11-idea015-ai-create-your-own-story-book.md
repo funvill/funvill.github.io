@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 015 - AI Create your own story book 
 date: 2023-02-11 00:15:00
 categories: ideas YearOfIdeas

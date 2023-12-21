@@ -1,5 +1,4 @@
 ---
-layout: single
 title: What time is it 
 date: 2008-10-30 12:04:00
 categories: Development Projects Development

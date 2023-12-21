@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to burn .uif files
 date: 2007-07-26 16:12:00
 categories: Tips

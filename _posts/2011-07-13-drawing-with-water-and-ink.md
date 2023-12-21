@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Drawing with water and ink 
 date: 2011-07-13 23:09:00
 categories: Uncategorized Media

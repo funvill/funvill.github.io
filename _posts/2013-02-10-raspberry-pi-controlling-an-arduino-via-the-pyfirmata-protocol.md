@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Raspberry PI controlling an Arduino via the pyfirmata protocol 
 date: 2013-02-10 21:30:00
 categories: Development  RaspberryPI Tips

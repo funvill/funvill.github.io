@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 97 - Giant fox mask
 date: 2015-10-15 01:37:00
 categories: YearOfMaking

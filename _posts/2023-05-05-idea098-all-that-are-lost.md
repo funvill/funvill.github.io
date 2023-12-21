@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 098 - All that are lost
 date: 2023-05-05 01:38:00
 categories: ideas YearOfIdeas

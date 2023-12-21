@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Anti-Counterfeiting Trade Agreement = BAD
 date: 2008-05-30 14:16:00
 categories: Uncategorized

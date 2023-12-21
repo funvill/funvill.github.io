@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Ice Cube Raft Race
 date: 2009-11-23 13:59:00
 categories: Drinking Games

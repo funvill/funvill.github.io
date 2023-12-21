@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Paper cut furniture using SketchChair
 date: 2014-08-04 00:34:00
 categories: LaserCutter

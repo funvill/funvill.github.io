@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 005 - Scream Photo Booth 
 date: 2023-02-01 00:05:00
 categories: ideas YearOfIdeas

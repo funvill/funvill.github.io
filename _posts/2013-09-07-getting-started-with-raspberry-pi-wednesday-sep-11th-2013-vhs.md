@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Getting started with Raspberry PI - Wednesday Sep 11th, 2013 @VHS
 date: 2013-09-07 12:16:00
 categories: News

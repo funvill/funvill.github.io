@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Vancouver's Restaurants review site - Dinehere.ca
 date: 2007-04-08 12:41:00
 categories: Development Vancouver

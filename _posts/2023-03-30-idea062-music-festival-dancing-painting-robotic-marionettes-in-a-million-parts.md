@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 062 - Music festival dancing painting robotic marionettes in a million parts
 date: 2023-03-30 01:02:00
 categories: ideas YearOfIdeas

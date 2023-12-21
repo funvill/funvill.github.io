@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Camilla d'Errico - One of my favorite Vancouver artists  
 date: 2007-04-05 09:00:00
 categories: Vancouver

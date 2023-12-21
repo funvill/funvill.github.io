@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Create a invisible book shelf 
 date: 2007-03-06 17:15:00
 categories: Projects

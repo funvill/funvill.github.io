@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 28 - Spiral panel CNC
 date: 2015-05-26 00:28:00
 categories: YearOfMaking

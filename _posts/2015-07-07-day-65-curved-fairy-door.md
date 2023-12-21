@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Day 65 - Curved fairy door
 date: 2015-07-07 01:05:00
 categories: YearOfMaking

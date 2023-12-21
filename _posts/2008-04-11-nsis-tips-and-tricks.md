@@ -1,5 +1,4 @@
 ---
-layout: single
 title: NSIS - Tips 
 date: 2008-04-11 10:39:00
 categories: Development

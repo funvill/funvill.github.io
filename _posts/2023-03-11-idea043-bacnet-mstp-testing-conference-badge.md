@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 043 - BACnet MSTP Testing conference Badge
 date: 2023-03-11 00:43:00
 categories: ideas YearOfIdeas

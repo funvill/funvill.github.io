@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 053 - HTML and CSS photo book for Blurb
 date: 2023-03-21 00:53:00
 categories: ideas YearOfIdeas

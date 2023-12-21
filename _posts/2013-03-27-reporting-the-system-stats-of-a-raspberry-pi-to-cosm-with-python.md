@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Reporting the system stats of a Raspberry PI to COSM with python 
 date: 2013-03-27 00:05:00
 categories: RaspberryPI

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 403 - An arrogant initiative in defense of the web
 date: 2008-03-04 12:25:00
 categories: Development

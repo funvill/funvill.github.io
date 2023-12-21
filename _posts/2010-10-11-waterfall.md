@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Waterfall
 date: 2010-10-11 19:11:00
 categories: Drinking Games

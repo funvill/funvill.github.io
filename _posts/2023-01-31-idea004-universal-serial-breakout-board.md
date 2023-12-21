@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Idea 004 - Universal Serial breakout board
 date: 2023-01-31 00:04:00
 categories: ideas YearOfIdeas

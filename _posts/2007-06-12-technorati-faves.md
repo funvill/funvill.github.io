@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Technorati faves
 date: 2007-06-12 09:00:00
 categories: Development

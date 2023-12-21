@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Round The Clock
 date: 2010-04-05 18:00:00
 categories: Dice Games

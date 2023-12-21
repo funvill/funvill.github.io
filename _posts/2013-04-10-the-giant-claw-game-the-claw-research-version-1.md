@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Giant Claw Game! - The Claw Research, Version 1
 date: 2013-04-10 19:34:00
 categories: News Projects

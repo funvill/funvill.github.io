@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Breaker Faire - May 25th 10am-5pm
 date: 2013-05-18 13:55:00
 categories: Vancouver

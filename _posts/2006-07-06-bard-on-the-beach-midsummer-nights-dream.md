@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Bard On The Beach - Midsummer night’s dream
 date: 2006-07-06 11:47:00
 categories: Media

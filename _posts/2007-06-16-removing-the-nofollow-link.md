@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Removing the Nofollow link
 date: 2007-06-16 15:17:00
 categories: Development
