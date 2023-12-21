@@ -2,7 +2,10 @@
 title: Idea 041 - BioPunks Garden
 date: 2023-03-09 00:41:00
 categories: ideas YearOfIdeas
-tags: games projects ideas
+tags: 
+- games
+- projects
+- ideas
 excerpt: Youre a Biopunk building their garden by selectively breeding for DNA markers in plants
 ---
 

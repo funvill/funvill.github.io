@@ -2,7 +2,12 @@
 title: Idea 086 - Origami Terrarium Diorama
 date: 2023-04-22 01:26:00
 categories: ideas YearOfIdeas
-tags: papercraft flowers art projects ideas
+tags: 
+- papercraft
+- flowers
+- art
+- projects
+- ideas
 excerpt: Paper sculptures in glass terrarium with flowers, house plants, and other nature things
 ---
 

@@ -4,7 +4,9 @@ date: 2018-04-10 00:01:00
 categories:
     - projects
     - stainedglass
-tags: inspiration research
+tags: 
+- inspiration
+- research
 ---
 
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window).

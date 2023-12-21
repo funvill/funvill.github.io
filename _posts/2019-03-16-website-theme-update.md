@@ -2,7 +2,11 @@
 title: Website theme update
 date: 2019-03-16 00:01:00
 categories: website
-tags: jekyll markdown history screenshots
+tags: 
+- jekyll
+- markdown
+- history
+- screenshots
 
 gallery:
   - url: /public/uploads/2003_website_screenshot.PNG

@@ -2,7 +2,14 @@
 title: Laser cut Mario coin boxes 
 date: 2013-12-03 23:53:00
 categories: Projects 
-tags: bank box coins design Development LaserCutter mario
+tags: 
+- bank
+- box
+- coins
+- design
+- Development
+- LaserCutter
+- mario
 ---
 This week I made <a href="http://www.mariowiki.com/%3F_Block">Mario Mystery boxes</a>, piggy banks for my nephews upcoming Mario themed birthday party. He invited 30 kits to his party and I wanted to make one of these for each kid to take home with them. It takes about ~3 hours to do 9 boxes on <a href="http://vancouver.hackspace.ca/wp/">VHS</a>'s Laser cutter
 

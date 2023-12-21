@@ -2,7 +2,10 @@
 title: Trip to Shenzhen 2018
 date: 2019-01-28 00:01:00
 categories: travel
-tags: eletronics travel Shenzhen
+tags: 
+- eletronics
+- travel
+- Shenzhen
 ---
 
 I got to spend two days in Shenzhen at the tail end of a vacation. I love hitting up the markets in [Huaqiang Road](https://goo.gl/maps/anWCCQarAC82). Makers paradise. Below is a list of the things that I picked up.  

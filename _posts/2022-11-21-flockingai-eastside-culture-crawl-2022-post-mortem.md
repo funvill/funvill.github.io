@@ -2,7 +2,12 @@
 title: FlockingAI - Eastside Culture Crawl 2022 post mortem 
 date: 2022-11-21 00:01:00
 categories: 
-tags: art gallery projects AI Vancouver
+tags: 
+- art
+- gallery
+- projects
+- AI
+- Vancouver
 header      :
   teaser    : /public/uploads/2022/flockingai-wall.jpg
 ---

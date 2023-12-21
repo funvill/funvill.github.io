@@ -2,7 +2,13 @@
 title: Idea 079 - "Gorilla" water quality monitoring device
 date: 2023-04-16 01:19:00
 categories: ideas YearOfIdeas
-tags: pcb sensors science water projects ideas
+tags: 
+- pcb
+- sensors
+- science
+- water
+- projects
+- ideas
 excerpt: Citizen science water quality monitoring device
 ---
 

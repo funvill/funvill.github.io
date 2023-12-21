@@ -2,7 +2,11 @@
 title: Idea 025 - Skull card game
 date: 2023-02-21 00:25:00
 categories: ideas YearOfIdeas
-tags: game art projects ideas
+tags: 
+- game
+- art
+- projects
+- ideas
 excerpt: Laser cut or PCB fancy versions of the Skull card game
 ---
 

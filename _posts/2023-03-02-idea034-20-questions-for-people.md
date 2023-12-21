@@ -2,7 +2,12 @@
 title: Idea 034 - 20 questions for people
 date: 2023-03-02 00:34:00
 categories: ideas YearOfIdeas
-tags: questions quiz ai projects ideas
+tags: 
+- questions
+- quiz
+- ai
+- projects
+- ideas
 excerpt: A website that asks you 20 questions and tries to uniquely identify you in the world What are the optimal questions to ask?
 ---
 

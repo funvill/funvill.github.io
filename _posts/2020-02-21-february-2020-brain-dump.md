@@ -2,7 +2,10 @@
 title: February 2020 brain dump 
 date: 2020-02-21 00:22:00
 categories: bookmarks
-tags: bookmarks make math
+tags: 
+- bookmarks
+- make
+- math
 toc: true
 ---
 

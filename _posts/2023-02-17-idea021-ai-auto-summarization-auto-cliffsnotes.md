@@ -2,7 +2,11 @@
 title: Idea 021 - AI auto summarization / Auto cliffsnotes
 date: 2023-02-17 00:21:00
 categories: ideas YearOfIdeas
-tags: productivity ai projects ideas
+tags: 
+- productivity
+- ai
+- projects
+- ideas
 excerpt: Use AI to summarize large amounts of information into brief notes and key points
 ---
 

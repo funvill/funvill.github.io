@@ -2,7 +2,12 @@
 title: Idea 044 - Bio Punk Conference badge
 date: 2023-03-12 00:44:00
 categories: ideas YearOfIdeas
-tags: electronics pcb conference projects ideas 
+tags: 
+- electronics
+- pcb
+- conference
+- projects
+- ideas 
 excerpt: A convention badge for BACnet plugfest that is useful for testing
 ---
 

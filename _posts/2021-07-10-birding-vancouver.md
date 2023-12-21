@@ -1,8 +1,7 @@
 ---
 title: Birding in Vancouver
 date: 2021-07-10 00:22:00
-categories: 
-tags: 
+categories: Birds
 toc: true
 ---
 

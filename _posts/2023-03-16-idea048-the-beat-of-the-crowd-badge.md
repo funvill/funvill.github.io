@@ -2,7 +2,10 @@
 title: Idea 048 - The beat of the crowd - badge
 date: 2023-03-16 00:48:00
 categories: ideas YearOfIdeas
-tags: pcb projects ideas
+tags: 
+- pcb
+- projects
+- ideas
 excerpt: Radio badge that pulses when other badges are nearby
 ---
 

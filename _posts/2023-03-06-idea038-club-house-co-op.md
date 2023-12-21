@@ -2,7 +2,11 @@
 title: Idea 038 - Club House co-op
 date: 2023-03-05 00:38:00
 categories: ideas YearOfIdeas
-tags: comunity realestate projects ideas
+tags: 
+- comunity
+- realestate
+- projects
+- ideas
 excerpt: Membership owned club house that can be used for members use.
 ---
 

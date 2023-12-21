@@ -2,7 +2,12 @@
 title: Idea 006 - Procedurally generated Glowing Mushroom PCB
 date: 2023-02-02 00:06:00
 categories: ideas YearOfIdeas
-tags: art mushroom pcb projects ideas
+tags: 
+- art
+- mushroom
+- pcb
+- projects
+- ideas
 excerpt: Procedurally generated Art PCB of mushrooms for the GameOfShrooms art project. Backlit LEDs to add a nice glowing effect.
 ---
 

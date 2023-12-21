@@ -2,7 +2,13 @@
 title: Idea 023 - Light painting rod 
 date: 2023-02-19 00:23:00
 categories: ideas YearOfIdeas
-tags: lightpainting photography pcb leds projects ideas
+tags: 
+- lightpainting
+- photography
+- pcb
+- leds
+- projects
+- ideas
 excerpt: A programmable strip of LEDs that can be attached on a rod for light painting. 
 ---
 

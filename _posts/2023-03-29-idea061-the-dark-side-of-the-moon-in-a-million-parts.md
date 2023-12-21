@@ -2,7 +2,10 @@
 title: Idea 061 - The Dark Side Of The Moon in a million parts
 date: 2023-03-29 01:01:00
 categories: ideas YearOfIdeas
-tags:  generative projects ideas
+tags: 
+- generative
+- projects
+- ideas
 excerpt: Generative line drawings in sand based on the album The Dark Side Of The Moon by Pink Floyd
 ---
 

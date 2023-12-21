@@ -2,7 +2,13 @@
 title: Idea 095b - Dot Matrix water printer bike carriage
 date: 2023-05-02 01:35:00
 categories: ideas YearOfIdeas
-tags: art graffiti installtion bike projects ideas
+tags: 
+- art
+- graffiti
+- installtion
+- bike
+- projects
+- ideas
 excerpt: A horizontal matrix of 16 water nozzles in a grid on bike carriage to draw with water on the sidewalk
 ---
 

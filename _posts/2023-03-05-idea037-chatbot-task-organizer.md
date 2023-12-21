@@ -2,7 +2,11 @@
 title: Idea 037 - Chatbot Task Organizer
 date: 2023-03-05 00:37:00
 categories: ideas YearOfIdeas
-tags: asstaint ai projects ideas
+tags: 
+- asstaint
+- ai
+- projects
+- ideas
 excerpt: A chatbot that can organize simple tasks by date, location, or person
 ---
 

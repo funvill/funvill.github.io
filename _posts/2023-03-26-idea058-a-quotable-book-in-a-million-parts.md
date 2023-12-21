@@ -2,7 +2,11 @@
 title: Idea 058 - In a million parts
 date: 2023-03-26 00:58:00
 categories: ideas YearOfIdeas
-tags: art watercolor projects ideas
+tags: 
+- art
+- watercolor
+- projects
+- ideas
 excerpt: Transformative art series based on quotable lines from books, movies, or songs. Nnamdi Brat as Blown ink and watercolor paintings
 ---
 

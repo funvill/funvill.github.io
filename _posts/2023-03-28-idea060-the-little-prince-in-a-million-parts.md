@@ -2,7 +2,12 @@
 title: Idea 060 - The Little Prince in a million parts
 date: 2023-03-28 01:00:00
 categories: ideas YearOfIdeas
-tags: art paper papercraft projects ideas
+tags: 
+- art
+- paper
+- papercraft
+- projects
+- ideas
 excerpt: Layered paper craft light boxes of the different chapters of The Little Prince
 ---
 

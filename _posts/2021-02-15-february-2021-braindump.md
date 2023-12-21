@@ -2,7 +2,9 @@
 title: February 2021 brain dump 
 date: 2021-02-09 00:22:00
 categories: bookmarks
-tags: bookmarks journal
+tags: 
+- bookmarks
+- journal
 toc: true
 ---
 Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes).

@@ -2,7 +2,12 @@
 title: Idea 083 - Dried flower art installation
 date: 2023-04-20 01:23:00
 categories: ideas YearOfIdeas
-tags: flowers art installtion projects ideas
+tags: 
+- flowers
+- art
+- installtion
+- projects
+- ideas
 excerpt: A staircase tunnel of glowing dried flowers in shards of glass
 ---
 
