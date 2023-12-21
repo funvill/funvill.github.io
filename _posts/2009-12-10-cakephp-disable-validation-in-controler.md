@@ -2,7 +2,11 @@
 title: CakePHP - Disable validation in controler 
 date: 2009-12-10 14:52:00
 categories: Development
-Tags: cakephp php Tips validate
+Tags: 
+- cakephp
+- php
+- Tips
+- validate
 ---
 When upgrading an old web application to start using CakePHP but the old systems was riddled with invalid data. When the creating the CRUD system I need a way of updating this invalid data.
 
