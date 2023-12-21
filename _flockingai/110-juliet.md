@@ -4,7 +4,10 @@ species: Ravaged larks
 text-keywords: 
 post_date: 2022-12-09 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/110-juliet.png
 prompt: blind death and dumb bird

@@ -4,7 +4,10 @@ species: Seeker Owl
 text-keywords: 
 post_date: 2022-10-01 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/041-victor.png
 prompt: Remedios Varo Uranga style of a cute Bird

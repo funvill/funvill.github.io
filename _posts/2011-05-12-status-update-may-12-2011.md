@@ -1,8 +1,13 @@
 ---
-title: Status update May 12, 2011
+title: "Status update May 12, 2011"
 date: 2011-05-12 12:48:00
-categories: Uncategorized News
+categories:
+- Uncategorized
+- News
+slug: status-update-may-12-2011
+
 ---
+
 I have been busy the last few weeks as projects ramp up and we get closer to Maker Faire and the weather gets nicer around Vancouver. Its getting harder to makes these status updates as I would rather be making something or going outside and enjoying the sunshine and now Appa (A black kitty) won't let me use my laptop without jumping up on my lap.
 <ul>
 	<li><a href="/giant-spin-art-maker-faire-2011-vancouver/">Giant Spin art box</a>. I built this a few weeks ago and it work great but after playing around with it for a few hours the motor burned out. I guess that's what I get for buying it from a scrap yard. Currently searching for another motor for this project. I will probably get it from an old washer and dryer or something.

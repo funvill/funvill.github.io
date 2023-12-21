@@ -4,7 +4,10 @@ species: Orange Fury Hawk
 text-keywords: 
 post_date: 2023-04-26 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/249-rebecca.png
 prompt: Everything Is Fine Bird, Manga, Full Color, artistic creative

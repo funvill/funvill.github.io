@@ -4,7 +4,10 @@ species: Star Warbler
 text-keywords: 
 post_date: 2022-12-25 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/127-zion.png
 prompt: 2d vector style, christmas cute birdie, christmas tree and colorful lights, incredibly high detail, pixar style, vivid color, natural light, simple background with pure color , on a white background

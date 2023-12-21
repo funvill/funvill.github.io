@@ -1,8 +1,10 @@
 ---
-title: Idea 079 - "Gorilla" water quality monitoring device
+title: "Idea 079 - Gorilla water quality monitoring device"
 date: 2023-04-16 01:19:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - pcb
 - sensors
 - science
@@ -10,6 +12,8 @@ tags:
 - projects
 - ideas
 excerpt: Citizen science water quality monitoring device
+slug: idea079-gorilla-water-quality-monitoring-device
+
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

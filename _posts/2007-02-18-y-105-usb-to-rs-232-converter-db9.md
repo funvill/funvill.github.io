@@ -1,8 +1,12 @@
 ---
-title: Y-105 USB to RS 232 Converter (DB9)
+title: "Y-105 USB to RS 232 Converter (DB9)"
 date: 2007-02-18 09:00:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: y-105-usb-to-rs-232-converter-db9
+
 ---
+
 Whenever I have to go searching for a driver and the company&quot;s web page is down or no longer supports this driver, I post the driver here so people that come after me might have a easier time finding it.
 I hate searching for drivers.
 

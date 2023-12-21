@@ -1,14 +1,18 @@
 ---
-title: "winnt.h(5545) : error C2146: syntax error : missing ';' before identifier 'ContextRecord'"
+title: "winnt.h(5545) : error C2146: syntax error : missing ; before identifier ContextRecord"
 date: 2009-10-20 10:47:00
-categories: Development
-tags: 
-- Compile 
-- dev 
-- Development 
-- VS2008 
+categories:
+- Development
+tags:
+- Compile
+- dev
+- Development
+- VS2008
 - windows
+slug: winnt-h5545-error-c2146-syntax-error-missing-before-identifier-contextrecord
+
 ---
+
 Anther annoying compiling error.
 
 <strong>Compile error </strong><code>

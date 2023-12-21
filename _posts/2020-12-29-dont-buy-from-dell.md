@@ -1,9 +1,12 @@
 ---
-title: Do not buy from Dell
+title: "Do not buy from Dell"
 date: 2020-12-29 00:01:00
-categories: rant
-tags: 
+categories:
 - rant
+tags:
+- rant
+slug: dont-buy-from-dell
+
 ---
 
 Maybe you should not buy equipment from dell. This is my story and the reason that I will not buy from dell in the future.

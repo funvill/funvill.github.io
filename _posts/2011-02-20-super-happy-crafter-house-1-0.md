@@ -1,8 +1,14 @@
 ---
-title: Super Happy Crafter House 1.0
+title: "Super Happy Crafter House 1.0"
 date: 2011-02-20 01:29:00
-categories: Uncategorized Media Vancouver
+categories:
+- Uncategorized
+- Media
+- Vancouver
+slug: super-happy-crafter-house-1-0
+
 ---
+
 A short timelaps video from <a href="http://vancouver.hackspace.ca/wp/2011/02/15/super-happy-crafter-house-i-saturday-february-19th/">Super Happy Crafter House 1.0</a>
 
 Super Happy Crafter House is an open event intended for crafters of all kinds. Those interested in papercraft, origami, technology exploration, sewing, knitting, spinning, weaving, felting, crocheting -- and beyond! We're open to new ideas and craft projects and would love to see you there! Come have fun, create, learn, and meet new people. Bring your own projects and friends, and we will supply sewing machines, felting and knitting needles, soldering irons, mending kits, and wool.

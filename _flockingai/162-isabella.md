@@ -4,7 +4,10 @@ species: Vivid Verdant Parrot
 text-keywords: 
 post_date: 2023-01-29 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/162-isabella.png
 prompt: BIRD, 12 dimensional bird, playful, strange, surreal, otherworldly, trippy, delusional, colorful, forest scene with mushrooms and exotic birds and plants in vivid peakcock colors, psychedelic style, stereoscopic, optical illusion, hidden face illusion, graphic design, stylized, bold lines, neon, hyper-realistic, detailed, painting

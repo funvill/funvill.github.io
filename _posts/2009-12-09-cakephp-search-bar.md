@@ -1,11 +1,15 @@
 ---
-title: CakePHP - Search bar 
+title: "CakePHP - Search bar"
 date: 2009-12-09 14:16:00
-categories: Development
-tags: 
+categories:
+- Development
+tags:
 - cakephp
-- search 
+- search
+slug: cakephp-search-bar
+
 ---
+
 This code snippet will create a search box that uses can use to search for text in the database.
 The control creates a query to search certain fields of published stories
 

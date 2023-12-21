@@ -1,8 +1,12 @@
 ---
-title: John Chow - How to make money online 
+title: "John Chow - How to make money online"
 date: 2007-05-31 10:14:00
-categories: Development
+categories:
+- Development
+slug: john-chow-how-to-make-money-online
+
 ---
+
 <a href="http://www.johnchow.com/" title="johnchow.jpg"><img src="/public/uploads/2007/05/johnchow.thumbnail.jpg" alt="johnchow.jpg" align="right" /></a>I recently reached the 200 mark in subscribed RSS feeds it was becoming unmanageable and I spent maybe 4 hours a day reading posts instead of making posts, not very productive.
 
 Then I decided to clean out my subscription list and shrink it down to 10 feeds. It wasn't as hard as I expected it to be.  anyone that didn't post in the last 3 months... gone. Anyone that post more then 50 times a day... gone. Anyones that hasn't had an interesting post in 10 posts... gone. That left me with about 20 good solid feeds, it was very hard to get rid of the last 10 feeds but I was successful.

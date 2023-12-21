@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-06-03 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/287-gemma.png
 prompt: BIRD, Roaring Anger Exploding Into A Violent Scream, Abstract

@@ -4,7 +4,10 @@ species: Steel Condor
 text-keywords: 
 post_date: 2022-11-18 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/089-oakley.png
 prompt: California Condor, BIRD, anime style portrait shot, studio ghibili, large gorgeous blue eyes, flowing brown hair, whimsical pose, intricate coloral arm tatoos, forest background, magic

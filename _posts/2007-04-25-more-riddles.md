@@ -1,8 +1,12 @@
 ---
-title: More riddles
+title: "More riddles"
 date: 2007-04-25 09:00:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: more-riddles
+
 ---
+
 I enjoyed them so much the first time I posted <a href="/riddles/">some riddles</a> that I am going to do it again.
 
 Answers after the cut€¦

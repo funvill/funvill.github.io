@@ -1,7 +1,10 @@
 ---
-title: USBCELL AA Rechargable Battery
+title: "USBCELL AA Rechargable Battery"
 date: 2007-03-20 13:05:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: usbcell-aa-rechargable-battery
+
 ---
 
 <p align="left"><a href="/public/uploads/2007/03/usbcell.jpg" title="USB CELL"><img src="/public/uploads/2007/03/usbcell.jpg" alt="USB CELL" align="right" /></a>I hate buying batteries, I hate having to turn my house up side down looking for a fresh battery when I desperately need it. I will go out of my way to make sure that all my little gadgets have built in NiMH/NiCd Cells with adapters that I plug in each nigh.</p>

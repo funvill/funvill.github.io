@@ -4,7 +4,10 @@ species: Red-beaked Rascal
 text-keywords: 
 post_date: 2023-02-21 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/185-fernanda.png
 prompt: Ralph Steadman style of a cute Bird, xmas

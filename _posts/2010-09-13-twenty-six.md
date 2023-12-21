@@ -1,8 +1,14 @@
 ---
-title: Twenty-Six
+title: "Twenty-Six"
 date: 2010-09-13 16:31:00
-categories: banking Dice Games
+categories:
+- banking
+- Dice
+- Games
+slug: twenty-six
+
 ---
+
 Twenty Six is a dice game.
 This is a banking game that was popular in the Midwest USA between the 1930s and 1950s.  It was often played in taverns, which would make payoffs in drinks, until anti-gambling legislation virtually killed the game off.
 

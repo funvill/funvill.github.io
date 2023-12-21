@@ -1,8 +1,12 @@
 ---
-title: Layered paper cut with spacers between each layer
+title: "Layered paper cut with spacers between each layer"
 date: 2014-10-12 19:12:00
-categories: LaserCutter
+categories:
+- LaserCutter
+slug: layered-paper-cut-with-spacers-between-each-layer
+
 ---
+
 I made this <a href="/laser-cut-layered-circles/">laser cut, paper, layered, circle design</a> a few weeks ago. At the time I didn't have any different color paper so I made it out of red paper. The problem with making it all out of red is that the different layers don't show up that well. I took the results as a test and left it in the corner of my room where all my tests cut go.
 
 I stumbled on to this <a href="http://charlesclary.wordpress.com/">Charles Clary</a> work with his layered paper cut sculptures. Below is a video of him creating one. Note how he uses spacers between each layer.

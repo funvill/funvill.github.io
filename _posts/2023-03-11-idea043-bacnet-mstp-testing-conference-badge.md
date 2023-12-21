@@ -1,14 +1,18 @@
 ---
-title: Idea 043 - BACnet MSTP Testing conference Badge
+title: "Idea 043 - BACnet MSTP Testing conference Badge"
 date: 2023-03-11 00:43:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - electronics
 - pcb
 - conference
 - projects
 - ideas
 excerpt: A convention badge for BACnet plugfest that is useful for testing
+slug: idea043-bacnet-mstp-testing-conference-badge
+
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

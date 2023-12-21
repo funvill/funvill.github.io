@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2022-11-05 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/076-bryce.png
 prompt: Halloween anthropomorphic seedeater BIRD dressed up as ghosts, fantasy painting, pretty and expressive eyes, vivid colors, BirdPunk, pastelpunk, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality, 8K, Ultra Realistic, high octane

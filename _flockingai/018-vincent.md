@@ -4,7 +4,11 @@ species: Deaf Owl
 text-keywords: golden yellow owl, with blue streaks, large blue eyes, very curious, oddly jumps around on the ground when searching for food, humorous dancing mating ritual, has 1-3 eggs per season, very poor hearing for an owl
 post_date: 2022-09-08 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Owl
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Owl
 header      :
   teaser    : /public/uploads/flockingai/018-vincent.png
 prompt: cute owl in the style of Vincent Van Gogh

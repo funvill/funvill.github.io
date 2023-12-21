@@ -4,7 +4,10 @@ species: Web-footed Kingfisher
 text-keywords: 
 post_date: 2022-09-25 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/035-spike.png
 prompt: cute bird kingfisher, under water, water Texture, shiny bubbles, too big eyes, highly detailed, photorealistic, Hyperrealism, highly detailed + unreal engine + 8k,

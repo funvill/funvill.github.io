@@ -4,7 +4,10 @@ species: Inferno Finch
 text-keywords: 
 post_date: 2023-02-15 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/179-zendaya.png
 prompt: The personification of fire in a bird , on a white background

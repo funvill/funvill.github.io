@@ -4,7 +4,10 @@ species: Bunting Owl
 text-keywords: 
 post_date: 2022-10-09 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/049-aaliyah.png
 prompt: an adorable cute BIRD cub face, colored plain background behind the BIRD cub, portrait, sweet, childlike, studio lighting,

@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2022-11-19 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/090-parker.png
 prompt: Cute and tiny owl, dynamic pose, sunny magical forest background, ultra detail, intricate details, volumetric lighting, photo realistic, lifelike, photography, digital art, 8k,

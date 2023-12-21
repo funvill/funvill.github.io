@@ -4,7 +4,12 @@ species: GoAway Owl
 text-keywords: American photographer and modern art promoter, countryside, perfectionist,  The Family of Man, mentally and physically exhausted
 post_date: 2022-08-29 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Owl BlackAndWhite
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Owl 
+- BlackAndWhite
 header      :
   teaser    : /public/uploads/flockingai/008-simon.png
 prompt: Alfred Stieglitz style of a cute owl

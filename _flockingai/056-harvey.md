@@ -4,7 +4,10 @@ species: Joker Sparrow
 text-keywords: 
 post_date: 2022-10-16 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/056-harvey.png
 prompt: BIRD, Tiny cute adorable baby "the joker" but as a BIRD, Jean-Baptiste Monge, soft cinematic lighting, 8k, intricate details, portrait, Pixar style character, old fashioned movie style

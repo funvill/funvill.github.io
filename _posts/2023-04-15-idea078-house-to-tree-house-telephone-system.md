@@ -1,13 +1,17 @@
 ---
-title: Idea 078 - House to Tree house telephone system
+title: "Idea 078 - House to Tree house telephone system"
 date: 2023-04-14 01:18:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - art
 - led
 - projects
 - ideas
 excerpt: Connect old style phones together in a point to point telephone network
+slug: idea078-house-to-tree-house-telephone-system
+
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

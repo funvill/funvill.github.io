@@ -4,7 +4,10 @@ species: Solar Sentinels
 text-keywords: 
 post_date: 2023-01-26 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/159-felix.png
 prompt: This bird wears a space suite, Always travels in pairs, The old one and the young one. When the young one reaches adult hood, it creates its own space suite, finds a mate and makes a new baby to follow it around. Always has two eggs, A male and female. Does not travel in groups. Most active during sunrise and sunset. A bird from mars as a astronaut silouette looking at a sunset. A bird from mars as a astronaut silouette looking at a sunset

@@ -1,8 +1,9 @@
 ---
-title: Thing tracking system and GeoCaching
+title: "Thing tracking system and GeoCaching"
 date: 2012-09-18 23:29:00
-categories: Projects
-tags: 
+categories:
+- Projects
+tags:
 - Development
 - Games
 - geocoin
@@ -11,7 +12,10 @@ tags:
 - things
 - tracking
 - Vancouver
+slug: thing-tracking-system-and-geocaching
+
 ---
+
 <a style="color: #ff4b33; line-height: 24px; font-size: 16px;" href="/public/uploads/2012/09/2012-09-08-14.23.18.jpg"><img class="alignright size-medium wp-image-2847" title="2012-09-08 14.23.18" src="/public/uploads/2012/09/2012-09-08-14.23.18-225x300.jpg" alt="" width="225" height="300" /></a>
 
 The past few weeks I have been doing a lot of <a href="http://en.wikipedia.org/wiki/Geocaching">GeoCaching</a> in and around <a href="https://maps.google.ca/maps?q=Vancouver,+BC&amp;hl=en&amp;ll=49.261307,-123.113823&amp;spn=0.20053,0.528374&amp;sll=49.257735,-123.123904&amp;sspn=0.200544,0.528374&amp;hnear=Vancouver,+Greater+Vancouver+Regional+District,+British+Columbia&amp;t=m&amp;z=12">Vancouver, BC</a> (<a href="http://www.geocaching.com/profile/?guid=ea926a4d-f0ec-430b-806c-62e22649e768">funvill</a> on <a href="https://www.geocaching.com/">Geocaching.org</a>). There are 1000s of Geo Caches with in a 45 min bike ride around Vancouver.

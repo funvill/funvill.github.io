@@ -4,7 +4,10 @@ species: Phantom Seedeater
 text-keywords: 
 post_date: 2022-10-24 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Owl
+tags:
+- FlockingAI
+- Birds
+- MidJourney Owl
 header      :
   teaser    : /public/uploads/flockingai/064-paul.png
 prompt: anthropomorphic seedeater BIRD dressed up as ghosts for Halloween, fantasy painting, pretty and expressive eyes, vivid colors, BirdPunk, pastelpunk, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality, 8K, Ultra Realistic, high octane

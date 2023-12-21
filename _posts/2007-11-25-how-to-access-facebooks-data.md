@@ -1,8 +1,12 @@
 ---
-title: How to access Facebook's data
+title: "How to access Facebooks data"
 date: 2007-11-25 20:47:00
-categories: Development
+categories:
+- Development
+slug: how-to-access-facebooks-data
+
 ---
+
 In my last article I talked about how to create <a href="/how-to-make-a-facebook-applcation/">a very simple Facebook Application</a>.
 We created a simple hello world application that didn't do too much besides login to the Facebook API.
 

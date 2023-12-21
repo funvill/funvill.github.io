@@ -4,7 +4,10 @@ species: Boiling Brushbird
 text-keywords: 
 post_date: 2023-03-04 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/196-queena.png
 prompt: a bird that repersents nature its self. , on a white background

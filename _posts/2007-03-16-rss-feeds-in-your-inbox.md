@@ -1,7 +1,10 @@
 ---
-title: Rss feeds in your inbox 
+title: "Rss feeds in your inbox"
 date: 2007-03-16 12:53:00
-categories: Tips
+categories:
+- Tips
+slug: rss-feeds-in-your-inbox
+
 ---
 
 <p align="left"><a href="/public/uploads/2007/03/logosqueetrssbars.png" title="RSS bars 100Ã—100"><img src="/public/uploads/2007/03/logosqueetrssbars.png" alt="RSS bars 100Ã—100" align="left" /></a>Most people that I talk to find <a href="/what-are-rss-feeds-and-how-to-use-them/">RSS feeds</a> confusing.</p>

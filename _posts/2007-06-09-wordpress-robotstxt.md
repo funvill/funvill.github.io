@@ -1,8 +1,13 @@
 ---
-title: Wordpress robots.txt
+title: "Wordpress robots.txt"
 date: 2007-06-09 09:00:00
-categories: Tips Development
+categories:
+- Tips
+- Development
+slug: wordpress-robotstxt
+
 ---
+
 Recently Daily blog tips ran an <a href="http://www.dailyblogtips.com/collection-of-robotstxt-files/">article about Robots.txt</a> files. The article gives examples of other major websites and there robots.txt files but fails to mention the reason behind each rule.
 
 I am going to run thou my robots.txt file and describe each and every rule.

@@ -1,14 +1,18 @@
 ---
-title: RPXnow and Windows live ID, problems signing out
+title: "RPXnow and Windows live ID, problems signing out"
 date: 2010-01-23 13:23:00
-categories: Development
-tags: 
-- Microsoft 
-- OpenID 
-- Rants 
-- RPXnow 
+categories:
+- Development
+tags:
+- Microsoft
+- OpenID
+- Rants
+- RPXnow
 - windows
+slug: rpxnow-and-windows-live-id-problems-signing-out
+
 ---
+
 <strong>The problem </strong>
 
 I am using <a href="https://rpxnow.com/">RPXnow</a> to help simplify the OpenID login system on one of my sites <a href="http://www.everydayfiction.com/">EveryDayFiction.com</a>. It works great for all OpenID providers but <em><strong>Windows Live ID</strong></em>. The users can login with Windows Live ID but when they try to logout of Hotmail or MSN or anything else that uses Windows Live ID they get the following error messages.

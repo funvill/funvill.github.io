@@ -1,10 +1,15 @@
 ---
-title: The Giant Claw Game! - Vancouver Maker Faire 2013 project
+title: "The Giant Claw Game! - Vancouver Maker Faire 2013 project"
 date: 2013-03-10 20:47:00
-categories: Makerfaire Projects
-tags: 
+categories:
+- Makerfaire
+- Projects
+tags:
 - xytable
+slug: the-giant-claw-game-vancouver-maker-faire-2013-project
+
 ---
+
 <a href="/public/uploads/2013/03/mario-claw-game.jpg"><img class="size-thumbnail wp-image-3201 alignright" alt="mario-claw-game" src="/public/uploads/2013/03/mario-claw-game-150x150.jpg" width="150" height="150" /></a>This year for the <a href="http://makerfaire.ca/">Vancouver Maker Faire</a> I am planning on making a giant <a href="http://en.wikipedia.org/wiki/Claw_crane">Claw Crane game</a>.  Normally claw games are found in video arcades and shopping malls and are a glass box where players can control a crane with a joystick and attempt to pick up prizes from the playing area. They are also known as teddy picker, candy crane, claw machine, crane vending machine, arcade claw, grab machine, crane game, skill tester, or simply the claw.
 
 As seen in <a href="http://www.youtube.com/watch?v=N-Esh4W3dfI">Toy Story, The Claw</a>. These games aren't as populate as they use to be in north america anymore but have exploded in Asia and Japan. You can even play for lobsters <a href="http://www.youtube.com/watch?v=2wtharEsEe0">Sub Marine Catcher</a>

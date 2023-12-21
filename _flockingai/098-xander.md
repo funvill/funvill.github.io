@@ -4,7 +4,10 @@ species: Iridescent glass scops-owl
 text-keywords: 
 post_date: 2022-11-27 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/098-xander.png
 prompt: iridescent glass scops-owl, centered photorealistic colorful vibrant reflective volumetric lighting 8k

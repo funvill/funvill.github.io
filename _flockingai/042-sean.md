@@ -4,7 +4,10 @@ species: Green king
 text-keywords: 
 post_date: 2022-10-02 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/042-sean.png
 prompt: Green-bearded Helmetcrest

@@ -4,7 +4,10 @@ species: Statuesque Fluffinator
 text-keywords: 
 post_date: 2023-01-14 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/147-tabitha.png
 prompt: ultra quality. hyper realistic cute, fluffy, colorful fire puffbird monster , BIRD, cinematic lighting, floral, statue, , abstract, full hd render + 3d octane render +4k UHD + immense detail + dramatic lighting + well lit , + fine details + octane render + 8k, abstract , on a white background

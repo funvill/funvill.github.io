@@ -1,8 +1,12 @@
 ---
-title: Looking for a new host 
+title: "Looking for a new host"
 date: 2010-04-15 12:42:00
-categories: Development
+categories:
+- Development
+slug: hoastgator-dreamhost-media-temple-godaddy-looking-for-a-good-host
+
 ---
+
 I been with a bunch of different hosts over the past few years
 <ul>
 	<li><a href="http://www.hostgator.com/">Hostgator</a> (Good)- Reseller account, only positive things to say about them so far. Good phone/Chat/Email support. Great response time for there servers. ect...</li>

@@ -4,7 +4,10 @@ species: Plate-Plumed Sandpiper
 text-keywords: 
 post_date: 2023-03-05 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/197-rachel.png
 prompt: an alien bird on mars, on a white background 

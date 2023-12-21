@@ -1,8 +1,10 @@
 ---
-title: Idea 066 - Tilt Pacman
+title: "Idea 066 - Tilt Pacman"
 date: 2023-04-03 01:06:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - game
 - leds
 - eletronics
@@ -10,6 +12,8 @@ tags:
 - projects
 - ideas
 excerpt: Use a accelerometer to control pacman on a LED Matrix
+slug: idea066-tilt-pacman
+
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

@@ -1,8 +1,10 @@
 ---
-title: Idea 050 - Tessellating Illuminated Origami Wall Sculpture
+title: "Idea 050 - Tessellating Illuminated Origami Wall Sculpture"
 date: 2023-03-18 00:50:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - art
 - origami
 - tessellating
@@ -10,6 +12,8 @@ tags:
 - projects
 - ideas
 excerpt: Origami Sacred Geometry + Individually addressable RGB LEDs + Wall Sculpture + interactive
+slug: idea050-tessellating-illuminated-origami-wall-sculpture
+
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

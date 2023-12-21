@@ -1,8 +1,14 @@
 ---
-title: Dirty Hearts
+title: "Dirty Hearts"
 date: 2009-10-12 13:22:00
-categories: Cards Drinking Games
+categories:
+- Cards
+- Drinking
+- Games
+slug: dirty-hearts
+
 ---
+
 Dirty Hearts is a Drinking, Cards game
 
 <strong>What you need to play</strong>

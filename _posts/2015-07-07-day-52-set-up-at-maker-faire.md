@@ -1,7 +1,10 @@
 ---
-title: Day 52 - Set up at maker faire 
+title: "Day 52 - Set up at maker faire"
 date: 2015-07-07 00:52:00
-categories: YearOfMaking
+categories:
+- YearOfMaking
+slug: day-52-set-up-at-maker-faire
+
 ---
 
 I got busy and I have not been updating this post regularly. Here is a large post dump.

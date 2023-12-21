@@ -4,7 +4,10 @@ species: Yellow-Beaked Yowler
 text-keywords: 
 post_date: 2023-01-10 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/143-penelope.png
 prompt: flea coveredc bird, cartoon , on a white background

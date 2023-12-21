@@ -1,8 +1,12 @@
 ---
-title: RescueTime March - May 2014 
+title: "RescueTime March - May 2014"
 date: 2014-06-18 21:36:00
-categories: News
+categories:
+- News
+slug: rescuetime-march-may-2014
+
 ---
+
 <strong>March 2014</strong>
 
 <a href="/public/uploads/2014/06/Rescuetime_March2014.png"><img class="alignnone size-medium wp-image-3971" src="/public/uploads/2014/06/Rescuetime_March2014-300x254.png" alt="Rescuetime_March2014" width="300" height="254" /></a>

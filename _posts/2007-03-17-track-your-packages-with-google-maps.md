@@ -1,8 +1,12 @@
 ---
-title: Track your packages with Google Maps
+title: "Track your packages with Google Maps"
 date: 2007-03-17 11:03:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: track-your-packages-with-google-maps
+
 ---
+
 <a href="/public/uploads/2007/03/tracking.png" title="Google maps tracking"><img src="/public/uploads/2007/03/tracking.png" alt="Google maps tracking" align="right" /></a><a href="http://www.isnoop.net/">Isnoop.net</a> has created a package tracking tool that will map your UPS, FedEx, USPS, or DHL/Airborne package's progress with Google Maps.
 
 Just enter your tracking number (the tracker automatically detects which company your package was shipped with) and press enter and you will be presented with a map of the progress of your package.

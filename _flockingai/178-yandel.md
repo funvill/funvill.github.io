@@ -4,7 +4,10 @@ species: Woodcreeper-Boxer Wren
 text-keywords: 
 post_date: 2023-02-14 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/178-yandel.png
 prompt: BIRD, woodcreeper-boxer, pokemon, massive claws, final evolution, detailed garden background, cinematic, in the style of Breath of the Wild 1350

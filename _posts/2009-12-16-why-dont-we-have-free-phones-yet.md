@@ -1,15 +1,19 @@
 ---
-title: Why don't we have free phones yet?
+title: "Why dont we have free phones yet?"
 date: 2009-12-16 12:42:00
-categories: Rants
-tags: 
-- android 
-- Arduino  
-- cellphone 
-- openhardware 
-- opensource 
+categories:
+- Rants
+tags:
+- android
+- Arduino
+- cellphone
+- openhardware
+- opensource
 - phone
+slug: why-dont-we-have-free-phones-yet
+
 ---
+
 <blockquote>"Re:Should be" by <a href="http://slashdot.org/~canajin56">canajin56</a> (660655) on Wednesday December 16, @12:21PM (#<a href="http://apple.slashdot.org/comments.pl?sid=1480704&amp;cid=30459990">30459990</a>)
 <blockquote>At least you guys have a choice of providers. Here in Canada, we almost have government-backed monopolies with even higher monthly bills.</blockquote>
 Are you kidding? It's not like we're limited to the big 3 (Rogers, Telus, Bell), we have all sorts of other providers! There's KOODO, their ads lead me to believe they don't do all that nasty hidden fee stuff. Oh, rebranded TELUS to seem less evil? Oh, well, there's always FIDO, they make the same claims about being not as evil as Rogers in all their ads! Oh...they're owned by Rogers, to rebrand and seem less evil, too? Well, there's always Solo Mobile. Oh...same deal with Bell? Virgin Mobile? Oh, Bell again? Why do they need TWO sham fronts? My favorite customer gouging one was the guy who ran up the $60,000 monthly bill, because they sold him an "Unlimited* Data** Plan!" that didn't cover any data usage other than the phones built in browser, so all that smartphone shit that also used data was billed at dollars on the kilobyte. The best part of that was the way Telus or whoever it was was unrepentant "It's not our fault he did not fully read the contract, but out of sheer generosity we will reduce the bill to a mere 6 grand!" A close runner up is KOODO/Telus's promise of "No activation fee", while there is a cancellation fee that is due in advanced when you sign up! Sort of like Blockbusters "No late fee *cough*but-there's-a-restocking-fee-if-you-return-it-late*cough*"

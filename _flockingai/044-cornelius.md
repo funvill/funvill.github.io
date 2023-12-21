@@ -4,7 +4,10 @@ species: Colony Owl
 text-keywords: 
 post_date: 2022-10-04 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/044-cornelius.png
 prompt: Isa Genzken style of a cute Owl

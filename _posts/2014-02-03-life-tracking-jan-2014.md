@@ -1,8 +1,9 @@
 ---
-title: Life tracking Jan 2014
+title: "Life tracking Jan 2014"
 date: 2014-02-03 16:48:00
-categories: Self
-tags: 
+categories:
+- Self
+tags:
 - gmail
 - google
 - heat
@@ -22,7 +23,10 @@ tags:
 - Vancouver
 - walking
 - working
+slug: life-tracking-jan-2014
+
 ---
+
 This chart was generated with the help of <a href="https://www.rescuetime.com/">Rescue Time</a>. It looks like I'm more productive this month (58) than last month (53)
 
 <a href="/public/uploads/2014/02/RescueTime_jan2014.png"><img class="alignnone size-medium wp-image-3955" alt="RescueTime_jan2014" src="/public/uploads/2014/02/RescueTime_jan2014-300x100.png" width="300" height="100" /></a>

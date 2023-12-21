@@ -1,8 +1,12 @@
 ---
-title: How to disable AVG 7 temporarily.
+title: "How to disable AVG 7 temporarily."
 date: 2008-02-22 12:27:00
-categories: Tips
+categories:
+- Tips
+slug: how-to-disable-avg-7-temporarily
+
 ---
+
 There are various reasons to disable your anti virus temporarily.
 AVG 7 does not make it easy to disable it.
 

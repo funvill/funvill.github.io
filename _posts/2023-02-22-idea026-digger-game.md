@@ -1,12 +1,16 @@
 ---
-title: Idea 026 - Digger game
+title: "Idea 026 - Digger game"
 date: 2023-02-22 00:26:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - game
 - projects
 - ideas
-excerpt: Resource management, worker placement, exploration tile game. 
+excerpt: Resource management, worker placement, exploration tile game.
+slug: idea026-digger-game
+
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

@@ -1,7 +1,10 @@
 ---
-title: Earthquake Kits for Vancouver
+title: "Earthquake Kits for Vancouver"
 date: 2017-04-26 00:01:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: earthquake_kits_for_vancouver
+
 ---
 
 I live in [Vancouver, BC](https://en.wikipedia.org/wiki/Vancouver), a city near the edge of two of these [tectonic plates](https://en.wikipedia.org/wiki/Plate_tectonics): the massive North American plate, and the smaller Juan de Fuca plate. There is a good chance that me, and my loved ones are going to live though a large earthquake in my lifetime. 

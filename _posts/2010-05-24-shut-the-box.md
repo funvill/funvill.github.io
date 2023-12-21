@@ -1,8 +1,13 @@
 ---
-title: Shut the Box
+title: "Shut the Box"
 date: 2010-05-24 15:17:00
-categories: Dice Games
+categories:
+- Dice
+- Games
+slug: shut-the-box
+
 ---
+
 Shut the Box is a dice game.
 Shut the Box is a form of a patience game that can be played with two or more players in a competition.
 For more than two hundred years it has been a favorite game among the sailors of Normandy and some other parts of the French coast. They doubtless carried the game on voyages to help whittle away the long hours under sail and may have introduced the game to other countries through seaport routes.

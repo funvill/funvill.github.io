@@ -1,8 +1,12 @@
 ---
-title: Song at the end of Portal
+title: "Song at the end of Portal"
 date: 2007-11-03 11:32:00
-categories: Games 
+categories:
+- Games
+slug: song-at-the-end-of-portal
+
 ---
+
 Portal is one of the better games I have played this year. A black humor puzzle game thats not repetitive and is actually fun... Fun you remember fun don't you? the way games use to be before we go all caught up in our new shinny graphics cards.
 
 Anyways here is the ending song. Enjoy

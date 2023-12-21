@@ -1,8 +1,14 @@
 ---
-title: Acrylic puzzle test 1
+title: "Acrylic puzzle test 1"
 date: 2012-11-25 21:32:00
-categories: Development  LaserCutter
+categories:
+- Development
+- 
+- LaserCutter
+slug: acrylic-puzzle-test-1
+
 ---
+
 For one of the Christmas presents this year I want to make a home made puzzle on the laser cutter.
 
 My first plan was to <a href="http://www.flickr.com/photos/23878201@N08/7202234722/">take a picture</a> of a <a href="http://en.wikipedia.org/wiki/Banyan">Banyan Tree</a> tree that I once visited in the center of <a href="http://en.wikipedia.org/wiki/Lahaina,_Hawaii">Lahaina, Maui, HI</a>. Convert the image in to a 2-bit black and white image and etch it in to some acrylic. Then I would cut the etched sheet of acrylic in to puzzle piece.

@@ -1,8 +1,9 @@
 ---
-title: Host gator has bad security and sucks.
+title: "Host gator has bad security and sucks."
 date: 2012-08-29 21:56:00
-categories: Rants
-tags: 
+categories:
+- Rants
+tags:
 - hosting
 - passwords
 - rant
@@ -11,7 +12,10 @@ tags:
 - support
 - Development
 - webdev
+slug: host-gator-has-bad-security-and-sucks
+
 ---
+
 I had a bad experience with <a href="http://www.hostgator.com/">HostGator</a> the other day. I had forgot the password to HostGators billing system and went though their password recovery function. The password recovery system emailed me my password in plain text instead of a link to reset the password.
 
 This means that HostGator stores its users passwords as plain text in their database instead of using a <a href="http://en.wikipedia.org/wiki/Salt_(cryptography)">salted hash</a> (The standard practice on the web today) . This also means that If/When Hostgator gets hacked like so many other secure companies have in the past and their user database gets stolen. The hackers will have access to your password, username, and billing information. All the information that they will need to attempt to log in to other systems or charge your account with purchases that you did not make.

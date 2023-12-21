@@ -4,7 +4,10 @@ species: Transhumanist Tinker
 text-keywords: 
 post_date: 2023-03-06 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/198-samantha.png
 prompt: BIRD, hummingbird on drugs, looking in a mirror, mirroed glasses, exaggerate, transmetropolitan, transhumanist, gonzo

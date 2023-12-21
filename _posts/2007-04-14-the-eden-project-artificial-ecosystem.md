@@ -1,8 +1,12 @@
 ---
-title: The Eden project - Artificial ecosystem
+title: "The Eden project - Artificial ecosystem"
 date: 2007-04-14 09:00:00
-categories: Development
+categories:
+- Development
+slug: the-eden-project-artificial-ecosystem
+
 ---
+
 The <a href="http://www.csse.monash.edu.au/%7Ejonmc/projects/eden/eden.html">Eden</a> project was inspired by <a href="http://www.csse.monash.edu.au/%7Ejonmc/">Jon McCormack</a>'s time in the <a href="http://www.nt.gov.au/nreta/parks/find/litchfield.html">Litchfield National Park</a>, in Australia. The artwork is a self-generating, artificial ecosystem complete with rocks, biomass and sonic animals populated. The creatures evolve, move about the environment, emit and listen to sounds, forage for food, encounter predators and mate with each other.
 
 <img src="/public/uploads/2007/04/3cormack.jpg" alt="3cormack.jpg" />

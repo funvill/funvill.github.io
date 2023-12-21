@@ -1,8 +1,12 @@
 ---
-title: Keeping track of your comments 
+title: "Keeping track of your comments"
 date: 2007-10-24 00:33:00
-categories: Development
+categories:
+- Development
+slug: keeping-track-of-your-comments
+
 ---
+
 One problem i have is that while i am browsing around the internet making comments on peoples blogs i often forgot to check back in a week to see if there are any responses.
 
 Some people have 'Subscribe to comments via email' plugin installed but it dosn't work one blogs that get 100+ comments per post.

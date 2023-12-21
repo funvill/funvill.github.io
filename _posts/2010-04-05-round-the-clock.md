@@ -1,8 +1,13 @@
 ---
-title: Round The Clock
+title: "Round The Clock"
 date: 2010-04-05 18:00:00
-categories: Dice Games
+categories:
+- Dice
+- Games
+slug: round-the-clock
+
 ---
+
 Round the Clock is a dice game.
 
 <strong>What you need to play this game</strong>

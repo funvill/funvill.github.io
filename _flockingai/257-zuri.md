@@ -4,7 +4,10 @@ species: Aggressive-Auk
 text-keywords: 
 post_date: 2023-05-04 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/257-zuri.png
 prompt: Bird with yellow blood shot eyes, looking into a mirror on drugs, scared, fear and loathing, gonzo, manga, artistic creative

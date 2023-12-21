@@ -4,7 +4,10 @@ species: Bumblebee Blimp
 text-keywords: 
 post_date: 2023-02-05 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/169-patrick.png
 prompt: A portate of a bird mixed with a bumble bee in the style of Camilla D'Errico , on a white background

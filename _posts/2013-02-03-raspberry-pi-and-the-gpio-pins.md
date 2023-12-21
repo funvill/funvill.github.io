@@ -1,15 +1,20 @@
 ---
-title: Raspberry PI and the GPIO pins
+title: "Raspberry PI and the GPIO pins"
 date: 2013-02-03 20:35:00
-categories: Arduino RaspberryPI
-tags: 
+categories:
+- Arduino
+- RaspberryPI
+tags:
 - Arduino
 - cosm
 - DataLogger
 - Development
 - HomeAutomation
 - RaspberryPI
+slug: raspberry-pi-and-the-gpio-pins
+
 ---
+
 This week I have been playing with the <a href="http://www.raspberrypi.org/">Rapberry PI</a>, <a href="http://www.python.org/">Python</a> and the <a href="http://pypi.python.org/pypi/RPi.GPIO">Python GPIO pins library</a>.
 
 <strong>Software</strong>

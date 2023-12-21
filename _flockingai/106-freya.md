@@ -4,7 +4,10 @@ species: Nahuatl Eagle
 text-keywords: 
 post_date: 2022-12-05 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/106-freya.png
 prompt: Aztec BIRD character in a jungle with a sapphire necklace and a skull mask, epic, ominious, photorealistic, realistic , on a white background

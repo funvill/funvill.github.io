@@ -4,7 +4,10 @@ species: Artistic Auk
 text-keywords: 
 post_date: 2023-03-16 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/208-christian.png
 prompt: BIRD, trippy happy art deco falcon the Martian on an outer space world, fantasy starry sky with beautiful planet, beautiful painting, artstation, depth of field, portal by Naoto Hattori::1.6, Android Jones, Tim Burton and Paul Klee--no abstract

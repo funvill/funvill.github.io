@@ -1,8 +1,13 @@
 ---
-title: Disable and Enable MFC controls by name 
+title: "Disable and Enable MFC controls by name"
 date: 2007-11-30 12:25:00
-categories: Development Tips
+categories:
+- Development
+- Tips
+slug: disable-and-enable-mfc-controls-by-name
+
 ---
+
 I use this snippet all the time to disable/enable, hide/show, move MFC controls.
 
 <code>

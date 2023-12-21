@@ -4,7 +4,10 @@ species: Zippy Zoomer Kestrel
 text-keywords: 
 post_date: 2023-02-23 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/187-holly.png
 prompt: everything is fine bird, manga, full color 

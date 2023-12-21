@@ -1,7 +1,10 @@
 ---
-title: Day 73 - AT-Walker layered paper craft
+title: "Day 73 - AT-Walker layered paper craft"
 date: 2015-07-28 01:13:00
-categories: YearOfMaking
+categories:
+- YearOfMaking
+slug: day-73-at-walker-layered-paper-craft
+
 ---
 
 Three layer version

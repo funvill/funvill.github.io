@@ -1,8 +1,11 @@
 ---
-title: Notes from January 2017
+title: "Notes from January 2017"
 date: 2017-01-16 00:01:00
-categories: bookmarks
+categories:
+- bookmarks
 toc: true
+slug: notes-from-january_2017
+
 ---
 
 Some of the things that I have found interesting in January 2017.

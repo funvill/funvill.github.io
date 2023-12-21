@@ -1,7 +1,10 @@
 ---
-title: Anime Evolution 2006
+title: "Anime Evolution 2006"
 date: 2006-07-14 11:50:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: anime-evolution-2006
+
 ---
 
 <p style="text-align: center"><img src="/public/uploads/2006/07/02_topBanner.JPG" id="image20" alt="Anime Evolution 2006" /></p>

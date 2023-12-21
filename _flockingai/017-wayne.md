@@ -4,7 +4,11 @@ species: Swirles duck
 text-keywords: small, yellow golden dusk, black eyes, found in city ponds and salt water marshes
 post_date: 2022-09-07 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Duck
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Duck
 header      :
   teaser    : /public/uploads/flockingai/017-wayne.png
 prompt: Zeng Fanzhi style of a cute duck

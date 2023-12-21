@@ -1,8 +1,9 @@
 ---
-title: The Giant Claw Game! - The Controls System 
+title: "The Giant Claw Game! - The Controls System"
 date: 2013-05-14 00:01:00
-categories: Projects
-tags: 
+categories:
+- Projects
+tags:
 - circuit
 - current
 - drill
@@ -14,7 +15,10 @@ tags:
 - Projects
 - pulley
 - relay
+slug: the-giant-claw-game-the-controls-system
+
 ---
+
 Only two weeks left to get the Claw up and running ready for <a href="http://vancouver.makerfaire.ca/breaker-faire-may-25th/">Breaker Faire</a> the <a href="http://vancouver.makerfaire.ca/">Maker Faire</a> fund raiser party. I am starting to get worried that I might not get it done in time.
 
 I have been having lots of problems this week with getting the motors working with the gantry system.

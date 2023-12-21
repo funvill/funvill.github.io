@@ -1,8 +1,14 @@
 ---
-title: Indian Poker
+title: "Indian Poker"
 date: 2009-12-07 14:15:00
-categories: Cards Drinking Games
+categories:
+- Cards
+- Drinking
+- Games
+slug: indian-poker
+
 ---
+
 Indian Poker is a drinking, card game.
 I just played this game for the first time this weekend.  It was very simple to learn and really good after a few beers.  It's a pretty silly game and if you are in the right mood it can really make you laugh.
 

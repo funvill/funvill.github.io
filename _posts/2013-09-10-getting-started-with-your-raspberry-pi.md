@@ -1,8 +1,12 @@
 ---
-title: Getting started with your Raspberry PI
+title: "Getting started with your Raspberry PI"
 date: 2013-09-10 22:20:00
-categories: RaspberryPI
+categories:
+- RaspberryPI
+slug: getting-started-with-your-raspberry-pi
+
 ---
+
 The Raspberry Pi is a credit-card-sized single-board computer developed in the UK by the Raspberry Pi Foundation with the intention of promoting the teaching of basic computer science in schools
 
 A good place to start is the <a href="http://www.raspberrypi.org/wp-content/uploads/2012/04/quick-start-guide-v2_1.pdf">Raspberry PI quick start guide</a> This will describe the different components on the board and what they can be used for.

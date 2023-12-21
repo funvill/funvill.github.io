@@ -4,7 +4,10 @@ species: Cosmic Creeper
 text-keywords: 
 post_date: 2023-01-25 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/158-ella.png
 prompt: aliens bird from another world, 70s , on a white background

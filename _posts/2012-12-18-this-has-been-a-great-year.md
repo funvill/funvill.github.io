@@ -1,8 +1,12 @@
 ---
-title: This has been a great year. 
+title: "This has been a great year."
 date: 2012-12-18 19:14:00
-categories: News
+categories:
+- News
+slug: this-has-been-a-great-year
+
 ---
+
 This has been a great year!
 <ul>
 	<li><span style="line-height: 16px;" data-mce-mark="1">Removed stressful people from my life, simplifying my life considerably. </span></li>

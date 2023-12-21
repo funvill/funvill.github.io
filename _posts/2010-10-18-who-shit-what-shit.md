@@ -1,8 +1,13 @@
 ---
-title: Who Shit, What Shit
+title: "Who Shit, What Shit"
 date: 2010-10-18 19:17:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: who-shit-what-shit
+
 ---
+
 Who Shit, What Shit is a drinking game.
 
 <strong>How to Play the Game</strong>

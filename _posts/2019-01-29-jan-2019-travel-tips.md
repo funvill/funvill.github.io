@@ -1,9 +1,13 @@
 ---
-title: Travel Tips
+title: "Travel Tips"
 date: 2019-01-29 00:01:00
-categories: Tips Travel
-tags: 
+categories:
+- Tips
+- Travel
+tags:
 - travel
+slug: jan-2019-travel-tips
+
 ---
 
 ## Traveling

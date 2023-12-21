@@ -1,8 +1,12 @@
 ---
-title: Merge/combined PDF documents into a single PDF 
+title: "Merge/combined PDF documents into a single PDF"
 date: 2010-08-19 12:28:00
-categories: Tips
+categories:
+- Tips
+slug: mergecombined-pdf-documents-into-a-single-pdf
+
 ---
+
 <strong>Problem: </strong>
 
 I had about ~50 PDF documents that I needed to print but the local print shop charges $2 for every file opened. Most of these documents where only 2-3 pages long. Opening the files would cost me $100 and printing the documents would only cost $10.

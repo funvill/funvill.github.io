@@ -1,8 +1,13 @@
 ---
-title: VIVO Media arts - upcoming workshops
+title: "VIVO Media arts - upcoming workshops"
 date: 2007-04-23 09:00:00
-categories: Media Vancouver
+categories:
+- Media
+- Vancouver
+slug: vivo-media-arts-upcoming-workshops
+
 ---
+
 <a href="http://vivomediaarts.com/"><img src="/public/uploads/2007/04/d50.thumbnail.jpg" alt="camera" align="right" /></a><a href="http://vivomediaarts.com/">VIVO Media arts</a> is a <em>not for profit </em>video production, exhibition and distribution center. They rent equipment, and exhibition spaces with there pretty cheap <a href="http://videoinstudios.com/membership.php">Membership</a> rate its a good resouce for anyone tring to get in to film or other media arts.
 
 They also have a good variety of workshops on many different subjects.

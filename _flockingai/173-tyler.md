@@ -4,7 +4,10 @@ species: Mirror-winged Metamorph
 text-keywords: 
 post_date: 2023-02-09 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/173-tyler.png
 prompt: BIRD, hummingbird on drugs, looking in a mirror, mirroed glasses, exaggerate, transmetropolitan, transhumanist, gonzo

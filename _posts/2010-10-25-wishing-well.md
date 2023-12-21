@@ -1,8 +1,13 @@
 ---
-title: Wishing Well
+title: "Wishing Well"
 date: 2010-10-25 19:31:00
-categories: Dice Games
+categories:
+- Dice
+- Games
+slug: wishing-well
+
 ---
+
 Wishing Well is a dice game also known as Help Your Neighbor.
 
 <strong>What you Need to Play</strong>

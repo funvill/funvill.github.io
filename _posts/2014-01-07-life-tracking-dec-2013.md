@@ -1,8 +1,9 @@
 ---
-title: Life tracking Dec 2013
+title: "Life tracking Dec 2013"
 date: 2014-01-07 00:01:00
-categories: Projects
-tags: 
+categories:
+- Projects
+tags:
 - gmail
 - google
 - heat
@@ -22,7 +23,10 @@ tags:
 - Vancouver
 - walking
 - working
+slug: life-tracking-dec-2013
+
 ---
+
 <h2>Productivity tracking</h2>
 This chart was generated with the help of <a href="https://www.rescuetime.com/">Rescue Time</a>
 

@@ -4,7 +4,10 @@ species: Felis Catbird
 text-keywords: 
 post_date: 2022-10-12 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/052-dustin.png
 prompt: BIRD, chibi character design, warlock BIRD female Tabaxi, intricate outfit, by Gom Sunim, Paru Itagaki, jean-baptiste monge, akira toriyama, Akihiko yoshida

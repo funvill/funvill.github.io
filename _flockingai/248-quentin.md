@@ -4,7 +4,10 @@ species: Blue Fury Falcon
 text-keywords: 
 post_date: 2023-04-25 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/248-quentin.png
 prompt: BIRD, Roaring Anger Exploding Into A Violent Scream, Abstract, artistic creative

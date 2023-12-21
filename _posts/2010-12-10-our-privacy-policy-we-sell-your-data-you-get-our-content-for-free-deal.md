@@ -1,8 +1,14 @@
 ---
 title: "Our privacy policy: We sell your data. You get our content for free, Deal?"
 date: 2010-12-10 12:12:00
-categories: Uncategorized Rants Development
+categories:
+- Uncategorized
+- Rants
+- Development
+slug: our-privacy-policy-we-sell-your-data-you-get-our-content-for-free-deal
+
 ---
+
 You have no expectation of privacy. We will collect any and all information you or your computer is willing to give us and do whatever we want with that information. Use of this site is entirely optional. Use at your own risk.
 
 Today on Slashdot they have an article on <a href="http://yro.slashdot.org/story/10/12/09/1718255/The-First-Truly-Honest-Privacy-Policy?from=rss">privacy policy</a> and it got me thinking about how much information I can collect about you just by viewing some of my content hosted by my server.

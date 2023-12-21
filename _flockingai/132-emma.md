@@ -4,7 +4,10 @@ species: Dawn Warbler
 text-keywords: 
 post_date: 2022-12-30 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/132-emma.png
 prompt: bird, Believe in the Magic of Christmas , on a white background

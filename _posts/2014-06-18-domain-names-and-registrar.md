@@ -1,8 +1,12 @@
 ---
-title: Domain names and registrar 
+title: "Domain names and registrar"
 date: 2014-06-18 00:23:00
-categories: Development
+categories:
+- Development
+slug: domain-names-and-registrar
+
 ---
+
 <strong>Domain names and registrar</strong>
 
 Currently I am using 6 different registrars for 100+ domains that I have registered over the years. All these different accounts on different registrars with different interfaces, make it annoying to update and keep track of everything, especially when I need to renew all my domains.

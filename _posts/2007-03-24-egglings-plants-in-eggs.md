@@ -1,8 +1,12 @@
 ---
-title: Egglings - Plants in eggs 
+title: "Egglings - Plants in eggs"
 date: 2007-03-24 12:43:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: egglings-plants-in-eggs
+
 ---
+
 <a href="/public/uploads/2007/03/egg_001_lg1.jpg" title="Egglings"><img src="/public/uploads/2007/03/egg_001_lg1.thumbnail.jpg" alt="Egglings" align="right" /></a>
 
 Ceramic Egglings look and feel just like real eggs, Just crack one open, add water. Perfect for brightening any home or office space. Plants thrive for months in their shell and can be replanted in soil.

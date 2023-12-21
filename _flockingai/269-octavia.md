@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-05-16 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/269-octavia.png
 prompt: Mutant tmnt bird monster

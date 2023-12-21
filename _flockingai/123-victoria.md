@@ -4,7 +4,10 @@ species: Santa's Cardinal
 text-keywords: 
 post_date: 2022-12-21 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/123-victoria.png
 prompt: bird in Xmas hat

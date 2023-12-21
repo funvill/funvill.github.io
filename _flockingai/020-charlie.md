@@ -4,7 +4,11 @@ species: Snowflake Owl
 text-keywords: medium white owl with long feathers, lives in the snow, high up in the mountains, hunts rodents, juveniles have blue feathers, solitary hunters, Silent owl that does not have any song or call
 post_date: 2022-09-10 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Owl
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Owl
 header      :
   teaser    : /public/uploads/flockingai/020-charlie.png
 prompt: Charlie Bowater style of a cute owl

@@ -4,7 +4,11 @@ species: Fire Owl
 text-keywords: 
 post_date: 2022-08-26 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Owl
+tags:
+- FlockingAI
+- Birds
+- MidJourney
+- Owl
 header      :
   teaser    : /public/uploads/flockingai/005-elton.png
 prompt: crazy fire owl, elemental, in sunglasses, space, fantasy, deta

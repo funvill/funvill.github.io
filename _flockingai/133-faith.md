@@ -4,7 +4,10 @@ species: Party Rufous
 text-keywords: 
 post_date: 2022-12-31 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/133-faith.png
 prompt: new years party, at time square, cute, beautiful, quaint, adorable, rainbow rufous BIRD, having a party on new years. manga

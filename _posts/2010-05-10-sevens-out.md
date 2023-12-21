@@ -1,8 +1,13 @@
 ---
-title: Sevens Out
+title: "Sevens Out"
 date: 2010-05-10 14:36:00
-categories: Dice Games
+categories:
+- Dice
+- Games
+slug: sevens-out
+
 ---
+
 Sevens Out is a dice game.
 
 <strong>What You Need to Play</strong>

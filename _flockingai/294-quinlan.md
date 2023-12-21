@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-06-10 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/294-quinlan.png
 prompt: Hummingbird, anxiety, fear, chaos, darkness, abstract,

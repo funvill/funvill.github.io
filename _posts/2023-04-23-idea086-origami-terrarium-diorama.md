@@ -1,14 +1,18 @@
 ---
-title: Idea 086 - Origami Terrarium Diorama
+title: "Idea 086 - Origami Terrarium Diorama"
 date: 2023-04-22 01:26:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - papercraft
 - flowers
 - art
 - projects
 - ideas
 excerpt: Paper sculptures in glass terrarium with flowers, house plants, and other nature things
+slug: idea086-origami-terrarium-diorama
+
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

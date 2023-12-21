@@ -4,7 +4,10 @@ species: Monch Sparrow
 text-keywords: 
 post_date: 2022-10-20 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/060-lucy.png
 prompt: 3D portrait, hyper detailed and cutest happy blue-haired monchichi baby as baby BIRD, full body view, detailed, in an enchanted garden, intricate stunning highly detailed photoshoot design, dramatic lighting, ultra detailed photorealistic, photoshoot, Unreal Engine 5, soft area lighting, light and shadow play, octane render, pixar dreamworks style, carl spitzweg style, steampunk vintage industrial look

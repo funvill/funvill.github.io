@@ -1,8 +1,12 @@
 ---
-title: Things to do in vancouver
+title: "Things to do in vancouver"
 date: 2007-02-24 15:34:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: things-to-do-in-vancouver
+
 ---
+
 <a href="/public/uploads/2007/02/vancouver_ib.jpg" title="Vancouver sky line"><img src="/public/uploads/2007/02/vancouver_ib.thumbnail.jpg" alt="Vancouver sky line" border="0" /></a>
 
 A small personal list of what to do in vancouver

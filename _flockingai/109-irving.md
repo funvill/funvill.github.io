@@ -4,7 +4,10 @@ species: Carnival Macaw
 text-keywords: 
 post_date: 2022-12-08 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/109-irving.png
 prompt: summer ride carnival bird , on a white background

@@ -1,8 +1,13 @@
 ---
-title: Beat The Barman
+title: "Beat The Barman"
 date: 2009-06-22 10:16:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: beat-the-barman
+
 ---
+
 Beat the Barman is a Drinking game
 
 <strong>What you need to play</strong>

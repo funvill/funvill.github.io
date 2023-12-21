@@ -4,7 +4,10 @@ species: Ettercap Scops-owl
 text-keywords: 
 post_date: 2022-11-23 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/094-theodore.png
 prompt: scops-owl ettercap D&D monster

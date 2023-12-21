@@ -1,12 +1,14 @@
 ---
-title: Online group games 
+title: "Online group games"
 date: 2020-05-07 00:01:00
-categories: Games
-tags: 
+categories:
+- Games
+tags:
 - games
-- boardgames 
----
+- boardgames
+slug: online-group-games
 
+---
 
 With everyone saying home because of [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), me and my friends have been playing a lot of boardgames online. Below is a list of games that people can play form their homes together.
 

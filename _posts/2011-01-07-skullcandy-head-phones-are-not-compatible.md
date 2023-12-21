@@ -1,8 +1,12 @@
 ---
-title: Skullcandy head phones are not compatible...  
+title: "Skullcandy head phones are not compatible..."
 date: 2011-01-07 15:02:00
-categories: Rants
+categories:
+- Rants
+slug: skullcandy-head-phones-are-not-compatible
+
 ---
+
 <img class="alignright size-thumbnail wp-image-1218" title="hesh-shattered-gray-headphones-glamor" src="/public/uploads/2011/01/hesh-shattered-gray-headphones-glamor-150x150.jpg" alt="" width="150" height="150" />I picked up a pair of Hesh <a href="http://ca.skullcandy.com/shop/hesh-shattered-gray.html">Skullcandy</a> and they sounded great at the store. But when I got home and plugged them in to my phone it sounded dull, like it was missing all the treble. I connected them to my computer thinking it might be some setting or something with my phone, same thing.  Out of chance I pressed and held down the mic button and it sound great, clear crisp sound. It looks like I would have to hold down the mic button to get anything out of these earphones.
 
 First thing i thought was that it was a manufactures mistake, it happens from time to time. I searched skullcandy.com website and found other people with the <a href="http://ca.skullcandy.com/forum/over-ear-headphones/2813-mic-in-the-hesh-electric-animal.html">same problem</a>. So I decided to call up the support line and see if it was just user error. After 45 mins on hold with one of the worst <a href="http://en.wikipedia.org/wiki/Private_branch_exchange#Private_branch_exchange">PBX systems</a> I have encountered I got thou to a support staff.

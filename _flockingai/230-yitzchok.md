@@ -4,7 +4,10 @@ species: Djinn Raptor
 text-keywords: 
 post_date: 2023-04-07 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/230-yitzchok.png
 prompt: raptor bird djinn 

@@ -1,8 +1,12 @@
 ---
-title: The Internet Stars Are Viral
+title: "The Internet Stars Are Viral"
 date: 2007-11-05 11:13:00
-categories: Media
+categories:
+- Media
+slug: the-internet-stars-are-viral
+
 ---
+
 Over the past year there have been a lot of viral videos, being addticted to the interent i seen them all.
 Here is a montages of some of the more popular ones.
 

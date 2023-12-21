@@ -1,8 +1,14 @@
 ---
-title: What I have been up to in January 2011 
+title: "What I have been up to in January 2011"
 date: 2011-01-31 18:11:00
-categories: Development Media News
+categories:
+- Development
+- Media
+- News
+slug: what-i-have-been-up-to-in-january-2011
+
 ---
+
 Its been a busy month, the start of the year always is.
 <ul>
 	<li>Built my first <a href="http://www.android.com/">Android</a> APP with <a href="http://www.phonegap.com/">Phone gap</a>. Its a happiness survey that lets users report there current happiness level once an hour. The reports go back to my website and get stored in a database. I hope to run this survey for a year and see if i can see any patterns in peoples happiness. The app prompts them once an hour (during the day) for input so hopefully they will report in good times as well as bad times. The first version had 5 different buttons but i found that people only the middle option. I have since switched it to using an analog progress bar and has produced must more varied results. Currently I have 32 people running this survey and I plan to add more as I refine the app. This app is not available to the public.</li>

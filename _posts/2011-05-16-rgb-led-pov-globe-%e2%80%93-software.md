@@ -1,8 +1,12 @@
 ---
-title: RGB LED POV Globe - Software
+title: "RGB LED POV Globe - Software"
 date: 2011-05-16 21:07:00
-categories: Projects
+categories:
+- Projects
+slug: rgb-led-pov-globe-%e2%80%93-software
+
 ---
+
 <a href="/public/uploads/2011/05/IMG_3300.jpg"><img class="size-thumbnail wp-image-1481 alignright" title="IMG_3300" src="/public/uploads/2011/05/IMG_3300-150x150.jpg" alt="" width="150" height="150" /></a>I been travailing a lot the past few weeks making it hard to work on the mechanics of this project and with only 50 days left till <a href="http://makerfaire.ca/">Maker Faire</a> I am running short on time. Travailing doesn't prevent me from working on the software side of things though but it make it hard to test it. I have created this testing board to use while I finish the mechanics parts.
 
 I created a base class (<em>CFrameBase</em>) for the frame animation then inherited from it for the algorithmic generated animations (test patterns, ect...). I also created a frame buffer class that inherited from <em>CFrameBase </em>that is basically just a big memory block that you can load via the serial port.

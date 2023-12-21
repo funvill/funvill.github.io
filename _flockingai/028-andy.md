@@ -4,7 +4,11 @@ species: Clown Owl
 text-keywords: round owl, clown, brown face, very pointy ears, happy, bouncy, the males will wear a hat made of leaves, eats rodents, medium size, has 3 eggs a year, Mostly found on the ground of forested areas,
 post_date: 2022-09-18 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Owl
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Owl
 header      :
   teaser    : /public/uploads/flockingai/028-andy.png
 prompt: Bob Byerley style of a cute Owl

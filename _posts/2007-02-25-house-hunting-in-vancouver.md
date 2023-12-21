@@ -1,8 +1,12 @@
 ---
-title: House Hunting in Vancouver
+title: "House Hunting in Vancouver"
 date: 2007-02-25 15:36:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: house-hunting-in-vancouver
+
 ---
+
 <a href="/public/uploads/2006/accomodation_house.gif" rel="lightbox"><img src="/public/uploads/2006/accomodation_house.gif" alt="accomodation_house.gif" title="accomodation_house.gif" style="margin: 5px 10px; padding: 3px" border="2" height="174" width="200" /></a>
 Some of my favorite house hunting websites in vancouver
 

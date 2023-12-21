@@ -1,8 +1,13 @@
 ---
-title: How to make a CMinMaxAvg class 
+title: "How to make a CMinMaxAvg class"
 date: 2008-06-06 13:21:00
-categories: Development Tips
+categories:
+- Development
+- Tips
+slug: how-to-make-a-cminmaxavg-class
+
 ---
+
 I got asked how to create a simple averaging class.
 If you where feeling smart you could enhance this class in to a template class for a object that has the =,+,&gt;,&lt; operator. But I'm feeling lazy today.
 <pre>class CMinMaxAvg

@@ -4,7 +4,10 @@ species: Cozy Sparrow
 text-keywords: 
 post_date: 2022-12-28 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/130-charlotte.png
 prompt: quantam level bird, manga, full color, xmas

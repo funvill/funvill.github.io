@@ -4,7 +4,11 @@ species: Fire-tailed Peacock
 text-keywords: 
 post_date: 2022-08-25 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Peacock
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Peacock
 header      :
   teaser    : /public/uploads/flockingai/004-angela.png
 prompt: cute peacock in fire style

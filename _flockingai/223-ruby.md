@@ -4,7 +4,10 @@ species: Starling Stare
 text-keywords: 
 post_date: 2023-03-31 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/223-ruby.png
 prompt: BIRD, intricate cute vreature of the void, style by Hiro Yamagata,

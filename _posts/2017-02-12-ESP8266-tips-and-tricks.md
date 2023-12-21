@@ -1,7 +1,10 @@
 ---
-title: ESP8266 Tips
+title: "ESP8266 Tips"
 date: 2017-02-12 00:01:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: esp8266-tips-and-tricks
+
 ---
 
 Last updated: 2017 Feb 12th 

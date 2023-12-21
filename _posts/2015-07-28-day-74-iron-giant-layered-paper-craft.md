@@ -1,7 +1,10 @@
 ---
-title: Day 74 - Iron giant layered paper craft
+title: "Day 74 - Iron giant layered paper craft"
 date: 2015-07-28 01:14:00
-categories: YearOfMaking
+categories:
+- YearOfMaking
+slug: day-74-iron-giant-layered-paper-craft
+
 ---
 
 Two layer version 

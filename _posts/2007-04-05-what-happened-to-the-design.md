@@ -1,8 +1,12 @@
 ---
-title: What happened to the design?
+title: "What happened to the design?"
 date: 2007-04-05 12:51:00
-categories: Development
+categories:
+- Development
+slug: what-happened-to-the-design
+
 ---
+
 <img src="/public/uploads/naked_day_07.png" alt="naked_day_07.png" title="naked_day_07.png" border="0" height="111" width="294" />
 
 To know more about why styles are disabled on this website visit the

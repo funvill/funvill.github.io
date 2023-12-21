@@ -1,8 +1,12 @@
 ---
-title: Wordpress, Creating a RSS feed for each category.
+title: "Wordpress, Creating a RSS feed for each category."
 date: 2008-11-20 12:04:00
-categories: Tips
+categories:
+- Tips
+slug: wordpress-creating-a-rss-feed-for-each-category
+
 ---
+
 Have you ever wanted to create a RSS feed just for a perpendicular category in wordpress?
 
 Say for example that you run an artiest website like my friend <a href="http://www.camilladerrico.com/blog/">Camilla d'Errico</a>. You want to send your users updates about upcoming shows but you don't want to send them all the status updates and other blog posts.  Well we can create a separate RSS feed just for the news posts. And if we where so inclined we could also create a mailing list (via <a href="http://www.feedburner.com/">feedburner</a>) that our users could subscribe to just for the news.

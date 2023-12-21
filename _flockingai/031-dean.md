@@ -5,7 +5,11 @@ text-keywords: Blue faced, sharp pointed beak, chicken like, very colorful, some
 Species: Blue-faced Parakeet
 post_date: 2022-09-21 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Peacock
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Peacock
 header      :
   teaser    : /public/uploads/flockingai/031-dean.png
 prompt: Dean Russo style of a cute peacock

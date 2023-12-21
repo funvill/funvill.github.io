@@ -1,8 +1,12 @@
 ---
-title: The Giant Claw Game! - Relay H-Bridge and Circuit Design
+title: "The Giant Claw Game! - Relay H-Bridge and Circuit Design"
 date: 2013-05-18 13:33:00
-categories: Projects
+categories:
+- Projects
+slug: the-giant-claw-game-relay-h-bridge-and-circuit-design
+
 ---
+
 Over the week I worked on the Relay H Bridge,  software and circuit diagrams for this project. Only 1 more week till it needs to be done.
 
 <strong>Relay H Bridge </strong>

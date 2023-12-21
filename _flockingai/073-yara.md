@@ -4,7 +4,10 @@ species: Lemon Citrus Birdie
 text-keywords: 
 post_date: 2022-11-02 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/073-yara.png
 prompt: BIRD, Photography portrait of a family of BIRD Creatures by Lauren Carr, Big Cute Disney eyes, Tropical citrus tree forest scene, cinematic lighting

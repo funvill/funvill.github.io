@@ -1,8 +1,12 @@
 ---
-title: 5 MSN/Yahoo/GTtalk/AOL/IM Etiquette tips 
+title: "5 MSN/Yahoo/GTtalk/AOL/IM Etiquette tips"
 date: 2007-06-04 09:00:00
-categories: Tips
+categories:
+- Tips
+slug: 5-msnyaoogttalkaolim-etiquette-tips
+
 ---
+
 I use an IM (instant message) clients every day, I use it to support people and talk to my friends and family. It can make things a lot easier and its less formal then a phone call but it has its downsides. People don't know how to use it properly and it can become pretty annoying if use improperly.
 
 I have created a list of a few of the things that I have found annoying when using an instant message clients. Feel free to add any that you find annoying too.

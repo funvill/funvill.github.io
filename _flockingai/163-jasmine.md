@@ -4,7 +4,10 @@ species: Java Jitter
 text-keywords: COFFEE, this bird lives for coffee, makes it own blend, trades the coffee with humans for more coffee, very addicted to coffee,
 post_date: 2023-01-30 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/163-jasmine.png
 prompt: bird, anxiety, fear, chaos, darkness, anime, xmas , on a white background

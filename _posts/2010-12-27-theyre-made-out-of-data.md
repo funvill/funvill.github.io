@@ -1,8 +1,12 @@
 ---
-title: They're made out of data
+title: "Theyre made out of data"
 date: 2010-12-27 15:08:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: theyre-made-out-of-data
+
 ---
+
 <em>With apologies to <a href="http://www.terrybisson.com/">Terry Bisson</a>. <strong>Warning</strong>: Tron 2 spoilers.</em>
 <blockquote>"They're made out of data."
 "Data?"

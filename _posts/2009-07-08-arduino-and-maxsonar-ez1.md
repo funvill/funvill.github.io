@@ -1,16 +1,21 @@
 ---
-title: ARDUINO and MaxSonar EZ1
+title: "ARDUINO and MaxSonar EZ1"
 date: 2009-07-08 10:51:00
-categories: Arduino Development
-tags: 
-- Arduino 
-- Development 
-- MaxSonarEZ0 
-- MaxSonarEZ1 
-- robots 
-- sensor 
+categories:
+- Arduino
+- Development
+tags:
+- Arduino
+- Development
+- MaxSonarEZ0
+- MaxSonarEZ1
+- robots
+- sensor
 - source
+slug: arduino-and-maxsonar-ez1
+
 ---
+
 <strong>Update: 13 July 2009, Resolved with the help of <em>Bob Gross. User error</em> see notes below.</strong>
 
 <hr />I found a <a href="http://www.maxbotix.com/">MAX Sonar EZ1</a> sensor at my local electronics store and decided to try it out. The selling features of this sensor for me was

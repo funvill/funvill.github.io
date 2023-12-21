@@ -1,7 +1,10 @@
 ---
-title: The Prestige (2006) - A beautifully crafted film
+title: "The Prestige (2006) - A beautifully crafted film"
 date: 2007-03-09 16:13:00
-categories: Media
+categories:
+- Media
+slug: the-prestige-2006-a-beautifully-crafted-film
+
 ---
 
 <p align="left"><a href="/public/uploads/2007/03/prestige.jpg" title="The Prestige"><img src="/public/uploads/2007/03/prestige.thumbnail.jpg" alt="The Prestige" align="right" /></a></p>

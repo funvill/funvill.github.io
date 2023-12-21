@@ -4,7 +4,10 @@ species: Void Vulture
 text-keywords: 
 post_date: 2023-04-22 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/245-nicole.png
 prompt: BIRD, a void in space - time, sparrowhawk, black, red, blue, green, yellow, drippy, strange, abstract surrealism,

@@ -1,8 +1,12 @@
 ---
-title: The Noun Project - Laser cutter Tips, tricks and resources
+title: "The Noun Project - Laser cutter Tips, tricks and resources"
 date: 2012-12-30 00:00:00
-categories: LaserCutter
+categories:
+- LaserCutter
+slug: the-noun-project-laser-cutter-tips-tricks-and-resources
+
 ---
+
 About a year ago I found the <a href="http://thenounproject.com/">The Noun Project</a> while looking for some icons for a project and was instantly hooked. They provide a website where you can enter in any "<em><a href="http://en.wikipedia.org/wiki/Noun">Noun</a></em>" and get a iconic image.
 <blockquote><a href="http://thenounproject.com/">The Noun Project</a> is building a global visual language that everyone can understand. Visually communicating with symbols is incredibly powerful. It&quot;s no wonder the most important information we encounter on a daily basis - health and safety information - is almost always communicated visually. This is because symbols allow people to communicate quickly, effectively, and intuitively. Symbols can transcend cultural and language barriers and deliver concise information effortlessly and instantaneously. The Noun Project is creating a platform for an image-based system of communication to create a social language that unites the world.</blockquote>
 

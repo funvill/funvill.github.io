@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-05-08 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/261-delilah.png
 prompt: Cute fullbody BIRD Predator also known as Yautja( 1987) , Berserker Predator, amazon vietnam forest, plantlife backround, bright red orange sunlight in the background, ray tracing, unreal engine render, lumen render, pathtracer render, unity render, on a white background

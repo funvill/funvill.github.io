@@ -1,7 +1,10 @@
 ---
-title: If you know beans about chili, you know chili ain't got no beans
+title: "If you know beans about chili, you know chili aint got no beans"
 date: 2007-07-15 16:07:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: if-you-know-beans-about-chili-you-know-chili-aint-got-no-beans
+
 ---
 
 <blockquote>"Next to jazz music, there is nothing that lifts the spirit and strengthens the soul more than a good bowl of chili. Congress should pass a law making it mandatory for all restaurants serving chili to follow a Texas recipe."

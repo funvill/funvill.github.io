@@ -4,7 +4,10 @@ species: Mountain Monarch
 text-keywords: 
 post_date: 2022-10-14 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/054-fabio.png
 prompt: A bird and a Badger mixed together

@@ -4,7 +4,10 @@ species: Elegant Owl
 text-keywords: 
 post_date: 2022-10-25 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/065-quincy.png
 prompt: autumn anthropomorphic owl , fantasy painting, pretty and expressive eyes, ornate costume, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality,, 8K, Ultra Realistic, high octane, ultra resolution, amazing detail, perfection, In frame, photorealistic, cinematic lighting, visual clarity, UHD, 32k, 3D shading, Tone Mapping, Ray Tracing , Crystalline, Lumen Reflections, Super-Resolution, gigapixel, color grading, retouch, enhanced, PBR, Blender, Procreate, zBrush, Unreal Engine 5, Cinema 4D, Adobe After Effects, 3DCG, cinematic, volumetric, dramatic, neon lighting, wide angle lens

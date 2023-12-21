@@ -4,7 +4,10 @@ species: Cheeky bird
 text-keywords: small colorful bird, black hat, blue face, orange body, from France and Europe. its song sounds like "la la la", will steal food from humans if given a chance
 post_date: 2022-09-11 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/021-fernando.png
 prompt: Fernando Botero style of a cute bird

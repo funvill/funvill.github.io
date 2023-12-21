@@ -1,8 +1,11 @@
 ---
-title: November 2016 interesting link dump
+title: "November 2016 interesting link dump"
 date: 2016-12-01 00:01:00
-categories: bookmarks
+categories:
+- bookmarks
 toc: true
+slug: november-2016-link-dump
+
 ---
 
 What has interested me in the month of November 2016

@@ -1,12 +1,16 @@
 ---
-title: Idea 030 - Chatbot Journaling
+title: "Idea 030 - Chatbot Journaling"
 date: 2023-02-26 00:30:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - costums
 - projects
 - ideas
 excerpt: A chatbot that gives you writing prompts for daily journaling. Ask follow up questions for clarity. Builds a web of knowledge about you and gives feedback
+slug: idea030-chatbot-journaling
+
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

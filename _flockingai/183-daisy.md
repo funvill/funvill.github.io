@@ -4,7 +4,10 @@ species: Noir Nightingale
 text-keywords: 
 post_date: 2023-02-19 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/183-daisy.png
 prompt: see no evil bird

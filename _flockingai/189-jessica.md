@@ -4,7 +4,10 @@ species: Grimey Gander
 text-keywords: 
 post_date: 2023-02-25 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/189-jessica.png
 prompt: flea coveredc bird, cartoon , on a white background

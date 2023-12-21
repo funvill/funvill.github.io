@@ -4,7 +4,10 @@ species: Seedeater Owl
 text-keywords: 
 post_date: 2022-10-28 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/068-timothy.png
 prompt: Halloween anthropomorphic seedeater, fantasy painting, pretty and expressive eyes, vivid colors, BirdPunk, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality, 8K, Ultra Realistic, high octane

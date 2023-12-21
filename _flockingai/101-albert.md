@@ -4,7 +4,10 @@ species: Rainbow Rain Rufous
 text-keywords: 
 post_date: 2022-11-30 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/101-albert.png
 prompt: cute, beautiful, quaint, adorable, rainbow rain rufous BIRD by Ross tran and Michael Whelan

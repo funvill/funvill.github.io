@@ -4,7 +4,10 @@ species: Swordswinging Sparrow
 text-keywords: Adventure, playful, good person, armor, ranger, swords
 post_date: 2023-04-21 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/244-madison.png
 prompt: A bird in fallout power armor

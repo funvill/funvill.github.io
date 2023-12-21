@@ -1,8 +1,12 @@
 ---
-title: Default action for vista power button
+title: "Default action for vista power button"
 date: 2008-11-07 11:47:00
-categories: Tips
+categories:
+- Tips
+slug: default-action-for-vista-power-button
+
 ---
+
 The default action for vista power button is to put your computer to sleep. I found this to be infurating while working on my laptop. instead of shutting down like i would expect it to my laptop would go in to sleep mode and slowly dran the battiers till it was dead.
 
 After a little Google searching I found this article to change the default action for <a href="http://www.mydigitallife.info/2007/11/06/change-windows-vista-start-menu-power-button-default-action/">the power button in vista</a>. (with pictures)

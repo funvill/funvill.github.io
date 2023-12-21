@@ -1,8 +1,13 @@
 ---
-title: Ice Cube Raft Race
+title: "Ice Cube Raft Race"
 date: 2009-11-23 13:59:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: ice-cube-raft-race
+
 ---
+
 Ice Cube Raft Race is a drinking game.
 
 <strong>What you will need to play</strong>

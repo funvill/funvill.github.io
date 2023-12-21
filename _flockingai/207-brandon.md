@@ -4,7 +4,10 @@ species: Neon Nesters
 text-keywords: 
 post_date: 2023-03-15 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/207-brandon.png
 prompt: BIRD, Skygirls team of hipster cyborg robot Bird wearing tracksuit jackets and futuristic ski goggles with bird friends, happy, colours, bright, airy, floaty, high definition,

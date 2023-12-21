@@ -1,8 +1,12 @@
 ---
-title: You may call me /b/
+title: "You may call me /b/"
 date: 2009-01-28 00:26:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: you-may-call-me-b
+
 ---
+
 Bam to behold, a public bulletin board, built of both brilliance and barbarity by bastards with boners. This bastion, no mere bulwark of boredom, is a brutal barrage of blistering bullshit, barely benevolent... but behind the bigotry and boobs, beyond the bitter broadcasts of bragging buffoons: here be the body politic. A brotherhood of blasphemy, blessed with more balls than brains, battling the bland, the bogus, the benign. Bedlam? Bring it on. But I babble... better to be brief.
 You may call me /b/.
 

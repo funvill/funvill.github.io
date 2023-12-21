@@ -1,8 +1,13 @@
 ---
-title: Insert new post in to wordpress from php
+title: "Insert new post in to wordpress from php"
 date: 2008-06-17 22:52:00
-categories: Tips Development
+categories:
+- Tips
+- Development
+slug: insert-new-post-in-to-wordpress-from-php
+
 ---
+
 This code snippet should let you add a new post to your wordpress database 2.5.1 
 
 <code>require_once('wp-config.php');

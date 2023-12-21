@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2022-11-12 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/083-isla.png
 prompt: cyberpunk Aztec jaguar scops-owl, woodcreeper, Temple, rain, Aztec feather headdress, Majestic, portrait, Profile, Yoji Shinkawa style, Ink painting, bold brushstrokes, mystical, Orphism, pattern, psychedelic, Concept art, dramatic lighting, Green silver gold red black and white, intricate detail, Mandy Jurgens, 8k stylize

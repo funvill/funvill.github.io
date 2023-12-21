@@ -1,8 +1,14 @@
 ---
-title: Chase The Ace
+title: "Chase The Ace"
 date: 2009-08-17 11:11:00
-categories: Dice Drinking Games
+categories:
+- Dice
+- Drinking
+- Games
+slug: chase-the-ace
+
 ---
+
 Chase The Ace is a dice, drinking game
 
 <strong>What you will need to play</strong>

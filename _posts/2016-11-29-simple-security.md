@@ -1,8 +1,11 @@
 ---
 published: false
-title: Simple security 
+title: "Simple security"
 date: 2016-11-28 00:01:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: simple-security
+
 ---
 
 Disclaimer: I am not a security expert, I will probably never be one. These people are [security experts](https://www.tripwire.com/state-of-security/security-awareness/information-security-podcast-roundup-2016-edition/) go trust them.

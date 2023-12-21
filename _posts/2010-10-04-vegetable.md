@@ -1,8 +1,13 @@
 ---
-title: Vegetable
+title: "Vegetable"
 date: 2010-10-04 19:06:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: vegetable
+
 ---
+
 Vegetable is a word drinking game.
 
 <strong>How to Play the Game</strong>

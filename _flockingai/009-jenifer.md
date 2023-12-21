@@ -4,7 +4,10 @@ species: Ghost Finch
 text-keywords: small, white feathery chest, red wings, black eyes, small triangle beak, very friendly, cheerful song, eats mostly seeds, lives in city parks, backyards, and urban centers, forest edges 
 post_date: 2022-08-30 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney
+tags:
+- FlockingAI
+- Birds
+- MidJourney
 header      :
   teaser    : /public/uploads/flockingai/009-jenifer.png
 prompt: Zeng Fanzhi style of a cute bird

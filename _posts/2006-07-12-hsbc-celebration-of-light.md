@@ -1,8 +1,12 @@
 ---
-title: HSBC Celebration of Light
+title: "HSBC Celebration of Light"
 date: 2006-07-12 12:02:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: hsbc-celebration-of-light
+
 ---
+
 <img src="/public/uploads/2006/07/fireworks_01.jpg" id="image33" alt="HSBC Celebration of Light" align="right" />
 The world's leading fireworks manufacturers consider the HSBC Celebration of Light competition to be the most prestigious and an exciting arena where they can unveil the latest pyro-musical techniques and the most innovative fireworks materials.
 

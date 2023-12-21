@@ -4,7 +4,10 @@ species: Laughter-loving Lark
 text-keywords: 
 post_date: 2023-02-26 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/190-kyle.png
 prompt: bird laughing out loud, on a white background

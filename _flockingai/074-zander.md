@@ -4,7 +4,10 @@ species: Broken Brain Bird
 text-keywords: 
 post_date: 2022-11-03 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/074-zander.png
 prompt: bird with a broken brain, goofy, folish, intimidating colors, dark comic style, extremely detailed, sharp focus, in the style of Mcbess and Rossdraws, aesthetic glitch style, Ink Dropped in water, splatter drippings, pulp Manga, Banksy, cinematic lighting

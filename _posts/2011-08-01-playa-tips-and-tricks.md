@@ -1,8 +1,12 @@
 ---
-title: Playa tips and tricks 
+title: "Playa tips and tricks"
 date: 2011-08-01 00:00:00
-categories: Tips
+categories:
+- Tips
+slug: playa-tips-and-tricks
+
 ---
+
 You can find lots of tips and tricks, <a href="http://www.burningman.com/first_timers/">First time guide</a>, and <a href="http://www.preparefortheplaya.com/">Preparing for the Playa</a> posts on the internet if you search hard enough and if its your first time you should be reading them all. This is my list hope it helps.
 <ul>
 	<li>A normal kick stand for your bike will sink in to the playa dust, unless you put a tennis ball on the end of it.</li>

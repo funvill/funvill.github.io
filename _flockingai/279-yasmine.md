@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-05-26 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/279-yasmine.png
 prompt: Bird in Pointillism style

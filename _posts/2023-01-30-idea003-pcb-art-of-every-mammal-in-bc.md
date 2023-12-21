@@ -1,14 +1,18 @@
 ---
-title: Idea 003 - PCB Art of Every Mammal in BC
+title: "Idea 003 - PCB Art of Every Mammal in BC"
 date: 2023-01-30 00:03:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - electronics
 - pcb
 - aniamls
 - projects
 - ideas
 excerpt: A series of PCB art badges, one for each mammal in BC. Each badge has a small sensor and some LEDs that relate to the mammal. Make a limited edition series of each mammal and show off the series at an art show.
+slug: idea003-pcb-art-of-every-mammal-in-bc
+
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

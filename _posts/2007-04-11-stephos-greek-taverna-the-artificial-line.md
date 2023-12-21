@@ -1,8 +1,12 @@
 ---
-title: Stephos Greek Taverna - The artificial line 
+title: "Stephos Greek Taverna - The artificial line"
 date: 2007-04-11 09:00:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: stephos-greek-taverna-the-artificial-line
+
 ---
+
 <a href="http://www.flickr.com/photos/waqas/160565432/"><img src="/public/uploads/2007/04/stephos_greek_taverna_1.jpg" alt="stephos_greek_taverna_1.jpg" title="stephos_greek_taverna_1.jpg" align="right" border="0" height="170" width="300" /></a>In my never ending search for new and interesting restaurants in Vancouver,  places like <a href="http://www.dinehere.ca/restaurant.asp?r=155">Stepho's Greek Taverna</a> and <a href="http://www.dinehere.ca/restaurant.asp?r=32">The Naam</a> often get suggested. most of the time they comes with a warring 'You will have to wait in line for at lest 20 mins but the food is good'.
 
 I been to both places there good there is no denying that but not worth the wait there are lots of other superior Greek places in Vancouver that take reservations and aren't  so over crowed for the same price.

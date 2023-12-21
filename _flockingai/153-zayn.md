@@ -4,7 +4,10 @@ species: Pearl Puffin
 text-keywords: 
 post_date: 2023-01-20 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/153-zayn.png
 prompt: bird Camilla D'Errico , on a white background

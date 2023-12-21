@@ -1,8 +1,12 @@
 ---
-title: The procedure entry point_except_handler4_common could not be located in the dynamic link library msvcrt.dll
+title: "The procedure entry point_except_handler4_common could not be located in the dynamic link library msvcrt.dll"
 date: 2008-07-22 11:57:00
-categories: Development
+categories:
+- Development
+slug: the-procedure-entry-point_except_handler4_common-could-not-be-located-in-the-dynamic-link-library-msvcrtdll
+
 ---
+
 <blockquote>The procedure entry point_except_handler4_common could not be located in the dynamic link library msvcrt.dll</blockquote>
 This error is caused by a 3rd party utility or applcation overwriting your msvcrt.dll with a different version.
 

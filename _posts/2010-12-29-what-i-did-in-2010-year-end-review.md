@@ -1,8 +1,13 @@
 ---
-title: What I did in 2010, Year end review 
+title: "What I did in 2010, Year end review"
 date: 2010-12-29 19:00:00
-categories: Uncategorized News
+categories:
+- Uncategorized
+- News
+slug: what-i-did-in-2010-year-end-review
+
 ---
+
 I hate writing this type of post, the review of all your failures and accomplishments over the last year. But review is important its stops you from repeating the same mistakes and give you a direction to go next year.
 
 This year I have traveled to <a href="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=33.748995,-84.387982&amp;spn=0.332282,0.676346&amp;z=11">Atlanta, GA, USA</a> (<a href="http://www.bacnet.org/">BACnet Plugfest</a>) , <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Montreal,+QC+Canada&amp;sll=33.748995,-84.387982&amp;sspn=0.332282,0.676346&amp;ie=UTF8&amp;hq=&amp;hnear=Montreal,+Communaut%C3%A9-Urbaine-de-Montr%C3%A9al,+Quebec,+Canada&amp;z=11">Montreal, QC Canada</a>, <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Harrison+Hot+Springs,+BC,+Canada&amp;sll=45.508889,-73.554167&amp;sspn=0.280059,0.676346&amp;ie=UTF8&amp;hq=&amp;hnear=Harrison+Hot+Springs,+Fraser+Valley+Regional+District,+British+Columbia,+Canada&amp;z=14">Harrison Hot Springs, BC, Canada</a>, <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Calgary,+AB+Canada+&amp;sll=51.045,-114.057222&amp;sspn=0.502502,1.352692&amp;ie=UTF8&amp;hq=&amp;hnear=Calgary,+Division+No.+6,+Alberta,+Canada&amp;z=11">Calgary, AB, Canada</a>, <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Black+Rock+City&amp;sll=37.0625,-95.677068&amp;sspn=40.409448,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=Black+Rock+City,+Imlay,+Pershing,+Nevada&amp;z=16">Black rock city, NV, USA</a> (<a href="http://www.burningman.com/">Burning man</a>), <a href="http://maps.google.com/?ie=UTF8&amp;ll=49.732247,-124.007921&amp;spn=0.032288,0.084543&amp;z=14">Ruby lake</a>. And a bunch of other places in-between.

@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-05-11 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/264-genevieve.png
 prompt: Dark Monster Bird, Symmetry, Painted By Brian Froud, Nightmare, Detalles, 8k, Celtic Designs, On A Dry Forest,

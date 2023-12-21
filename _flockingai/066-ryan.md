@@ -4,7 +4,10 @@ species: Autumn Hornbill
 text-keywords: 
 post_date: 2022-10-26 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/066-ryan.png
 prompt: autumn anthropomorphic hornbill, fantasy painting, pretty and expressive eyes, ornate costume, elegant, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality,, 8K, Ultra Realistic, high octane, ultra resolution, amazing detail, perfection, In frame, photorealistic, cinematic lighting, visual clarity, UHD, 32k, 3D shading, Tone Mapping, Ray Tracing , Crystalline, Lumen Reflections, Super-Resolution, gigapixel, color grading, retouch, enhanced, PBR, Blender, Procreate, zBrush, Unreal Engine 5, Cinema 4D, Adobe After Effects, 3DCG, cinematic, volumetric, dramatic, neon lighting, wide angle lens

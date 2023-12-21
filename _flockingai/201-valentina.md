@@ -4,7 +4,10 @@ species: Fruit-Feasting Fowl
 text-keywords: 
 post_date: 2023-03-09 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/201-valentina.png
 prompt: manga, full color, a bird that dislikes worms 

@@ -4,7 +4,10 @@ species: Smiling Nightjar
 text-keywords: 
 post_date: 2023-03-30 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/222-queenie.png
 prompt: BIRD, nightjar BIRD at rave, colorful bracelets, necklaces, piercings, long big rainbow hair, flowers, flowerpunk, oil painting, dripping paint, Cute, adorable, happy, smiles, bird 

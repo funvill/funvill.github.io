@@ -4,7 +4,10 @@ species: Chaotic Hummer
 text-keywords: 
 post_date: 2023-01-19 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/152-yvonne.png
 prompt: hummingbird, anxiety, fear, chaos, darkness, abstract , on a white background

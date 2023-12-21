@@ -1,8 +1,9 @@
 ---
-title: First test of making GeoCoins with the laser cuter
+title: "First test of making GeoCoins with the laser cuter"
 date: 2012-09-19 12:00:00
-categories: Projects
-tags: 
+categories:
+- Projects
+tags:
 - Games
 - GeoCaching
 - GeoCoins
@@ -12,7 +13,10 @@ tags:
 - QRCode
 - VHS
 - Wood
+slug: first-test-of-making-geocoins-with-the-laser-cuter
+
 ---
+
 <img class="alignright size-medium wp-image-2854" title="2012-09-18 23.39.19" src="/public/uploads/2012/09/2012-09-18-23.39.19-225x300.jpg" alt="" width="225" height="300" />
 
 I have been having a lot of fun searching for <a href="http://en.wikipedia.org/wiki/Geocaching">GeoCaches</a> around Vancouver the past few weeks. In some of the GeoCaches that I have found, people have included <a href="http://en.wikipedia.org/wiki/Geocoin">GeoCoins</a>.

@@ -1,9 +1,12 @@
 ---
-title: Extracting the IPTC data from an image in PHP
+title: "Extracting the IPTC data from an image in PHP"
 date: 2007-03-26 10:08:00
-categories: Development
-tags: 
+categories:
+- Development
+tags:
 - exif
+slug: extracting-the-iptc-data-from-an-image-in-php
+
 ---
 
 <p align="left"><img src="/public/uploads/2007/03/image-missing.png" alt="image-missing" align="right" />When you add a caption to an image in <a href="http://picasa.google.com/">Google's Picasa/Picasa2</a> (and some other image editing programs) the caption is saved in a special spot in the imaged header section called IPTC data.</p>

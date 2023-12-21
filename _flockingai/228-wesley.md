@@ -4,7 +4,10 @@ species: Painted Puffin
 text-keywords: 
 post_date: 2023-04-05 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/228-wesley.png
 prompt: bird on Opium trip

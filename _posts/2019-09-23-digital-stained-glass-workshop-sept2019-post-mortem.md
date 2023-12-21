@@ -1,7 +1,10 @@
 ---
-title: Digital stained glass workshop - Post mortem
+title: "Digital stained glass workshop - Post mortem"
 date: 2019-09-23 00:01:00
-categories: Events
+categories:
+- Events
+slug: digital-stained-glass-workshop-sept2019-post-mortem
+
 ---
 
 On September 22, 2019 I ran [digital stained glass workshop](https://blog.abluestar.com/digital-stained-glass-workshop-sept2019/) at [Maker Labs](https://www.makerlabs.com/) with six people. The workshop turned out great, and people made some awe-inspring designs. 

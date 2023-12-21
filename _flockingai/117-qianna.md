@@ -4,7 +4,10 @@ species: Theory Starling
 text-keywords: 
 post_date: 2022-12-16 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/117-qianna.png
 prompt: polyvagal theory bird , on a white background

@@ -1,8 +1,12 @@
 ---
-title: A mini hydroelectric damn that runs a LED inside your shower head.
+title: "A mini hydroelectric damn that runs a LED inside your shower head."
 date: 2007-03-02 15:25:00
-categories: Projects
+categories:
+- Projects
+slug: a-mini-hydroelectric-damn-that-runs-a-led-inside-your-shower-head
+
 ---
+
 I was browsing the <a href="http://forums.makezine.com/">Make Forums</a> today when I ran across this post <a href="http://forums.makezine.com/comments.php?DiscussionID=1649">LED Shower Head/Faucet</a>
 
 Basically the guy wants to create a small turbine inside of his shower head that would spin and create a current powerful enough to run a LED.

@@ -1,8 +1,12 @@
 ---
-title: Vancouver (GVRD) Taxi Numbers 
+title: "Vancouver (GVRD) Taxi Numbers"
 date: 2007-03-05 12:47:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: vancouver-gvrd-taxi-numbers
+
 ---
+
 <a href="/public/uploads/2007/03/lego-yellow-cab-taxi-0.jpg" title="Yellow Cab"><img src="/public/uploads/2007/03/lego-yellow-cab-taxi-0.thumbnail.jpg" alt="Yellow Cab" /></a>
 
 Often I find that I can find a cab when I need one in this city.  So here is a list of all the major Cab companies in Vancouver.

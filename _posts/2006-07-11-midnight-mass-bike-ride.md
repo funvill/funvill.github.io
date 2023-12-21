@@ -1,7 +1,10 @@
 ---
-title: Midnight Mass Bike Ride
+title: "Midnight Mass Bike Ride"
 date: 2006-07-11 11:59:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: midnight-mass-bike-ride
+
 ---
 
 <p align="center"><img src="/public/uploads/2006/07/193134753_8bce4bb418.jpg" id="image31" alt="Midnight Mass Bike Ride" /></p>

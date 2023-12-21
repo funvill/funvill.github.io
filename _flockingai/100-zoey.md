@@ -4,7 +4,10 @@ species: Collared Fantail
 text-keywords: 
 post_date: 2022-11-29 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/100-zoey.png
 prompt: collared fantail BIRD. ink dropped in water by ivan laliashvili, peter mohrbacher. a portrait of pulp cover of BIRD fish by Jean-Baptiste Monge, post processing, painterly, book illustration watercolor granular splatter dripping paper texture rococo details, post processing, painterly, book illustration watercolor granular splatter dripping paper texture, ink outlines, painterly

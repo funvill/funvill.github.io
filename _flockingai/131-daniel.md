@@ -4,7 +4,10 @@ species: Cocoa Chaffinch
 text-keywords: 
 post_date: 2022-12-29 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/131-daniel.png
 prompt: cute bird anthropomorphic in a warm cozy sweater infront of a fireplace, drinking hot coco

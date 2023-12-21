@@ -1,8 +1,10 @@
 ---
-title: Idea 022 - Translink map PCB
+title: "Idea 022 - Translink map PCB"
 date: 2023-02-18 00:22:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - trains
 - vancouver
 - pcb
@@ -10,6 +12,8 @@ tags:
 - projects
 - ideas
 excerpt: A live interactive translink metro map of Vancouver using LEDs on a PCB
+slug: idea022-translink-map-pcb
+
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

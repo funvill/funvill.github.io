@@ -1,12 +1,15 @@
 ---
-title: February 2020 brain dump 
+title: "February 2020 brain dump"
 date: 2020-02-21 00:22:00
-categories: bookmarks
-tags: 
+categories:
+- bookmarks
+tags:
 - bookmarks
 - make
 - math
 toc: true
+slug: february-2020-brain-dump
+
 ---
 
 Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes). Previous: [Jun 2019](/jun-2019-brain-dump/),  [Feb 2019](/feb-2019-brain-dump), [Others](/tags/#bookmarks).

@@ -1,8 +1,13 @@
 ---
-title: Bill C-61 AKA Canadian DMCA - Crisis Fatigue
+title: "Bill C-61 AKA Canadian DMCA - Crisis Fatigue"
 date: 2010-06-01 12:00:00
-categories: News Rants
+categories:
+- News
+- Rants
+slug: bill-c-61-aka-canadian-dmca-crisis-fatigue
+
 ---
+
 Canada's DMCA (AKA <a href="http://www2.parl.gc.ca/housepublications/publication.aspx?docid=3570473&amp;language=e&amp;mode=1">Bill C-61</a>) is back up in front of parliament again. We defeated it once before in summer of 2008 now <em><strong>they </strong><span style="font-style: normal;">change it slightly call it a different name, emphasize different points and send it back to parliament. Basically they are hoping for "</span>Crisis fatigue</em>"
 
 <em>"Crisis fatigue" </em>- When a person is first told about a something like this they get angry and attempt to do something about. The next time it comes around less anger but they still do something, by the fourth or fivth time they are getting tired of fighting it and just accept it as an inevitable fate. The unjust bill gets passed and people get a little more apathetic about the whole system. Next time anther bill comes around they don't even try. "<em>You can't fight city hall</em>"

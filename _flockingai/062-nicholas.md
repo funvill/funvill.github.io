@@ -4,7 +4,10 @@ species: Crystal Owl
 text-keywords: 
 post_date: 2022-10-22 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/062-nicholas.png
 prompt: Neon ice crystal 3D baby BIRD, lots of parts, bizarre, 8k, epic scene, lightning in background, eerie, hyper realistic, extreme details, highly detailed and intricate, dramatic, stunning, amazing, colorful, smooth, clear, neon lighting, hyper realistic, HDR, vibrant, volumetric lighting, high contrast,

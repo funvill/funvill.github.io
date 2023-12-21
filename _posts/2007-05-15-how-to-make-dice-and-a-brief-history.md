@@ -1,8 +1,13 @@
 ---
-title: How to make dice, and a brief history
+title: "How to make dice, and a brief history"
 date: 2007-05-15 09:00:00
-categories: Dice Games
+categories:
+- Dice
+- Games
+slug: how-to-make-dice-and-a-brief-history
+
 ---
+
 <img src="/public/uploads/2007/05/dice.thumbnail.jpg" alt="dice.jpg" align="right" />Die (plural, Dice)  - A die is usually a small six sided cube, made of bone, ivory, or most commonly plastic, that is marked with one to six dotes on each of its faces. The cubed dice have the advantage of being balanced in such a way that any side should have an equal chance up landing face up.
 
 The oldest known dice where probably divining sticks made from twigs that where rounded on one side and flat on the other. These divining dice or sticks where used to tell your future depending on what way the land. Pyramid-shaped dice where found in the royal burial tombs of Ur more then 5,000 years ago. Both four-sided, stick, and cubic dice in both ivory and bone flavors have also been found in Egyptian tombs.

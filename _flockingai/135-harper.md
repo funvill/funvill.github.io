@@ -4,7 +4,10 @@ species: Void Sparrowhawk
 text-keywords: 
 post_date: 2023-01-02 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/135-harper.png
 prompt: BIRD, a void in space-time, sparrowhawk, black, red, blue, green, yellow, drippy, strange, abstract surrealism

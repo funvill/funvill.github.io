@@ -4,7 +4,10 @@ species: Trendy Titmouse
 text-keywords: 
 post_date: 2023-02-01 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/165-liam.png
 prompt: BIRD, by james jean, design for sticker, a beautiful little smiling scientist sunbird, magic numbers and equations, books and computer, white background, flat colors, grey and blue pastel colors, simple lines, gorgeous lighting, graphic novel style, 2d painting, ink painting style, trending on artstation, digital art, character design, cartoon black line work

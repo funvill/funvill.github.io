@@ -4,7 +4,10 @@ species: Walker Corvus
 text-keywords: 
 post_date: 2022-10-31 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/071-walker.png
 prompt: BIRD, Halloween, outstanding portrait of Jack Skellington as a BIRD, from Nightmare Before Christmas, played by Slenderman in a forest, Claymation, jack o lanterns, by artgerm and RHADS, hyper realistic, portrait, cinematic, soft studio lighting, ultra realistic, photorealistic, octane render, unreal engine, hyper detailed, volumetric lighting, hdr, octane render, fantasy, horror, 4k, 8K

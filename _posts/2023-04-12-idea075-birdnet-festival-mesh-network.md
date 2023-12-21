@@ -1,14 +1,18 @@
 ---
-title: Idea 075 - Birdnet festival mesh network
+title: "Idea 075 - Birdnet festival mesh network"
 date: 2023-04-12 01:15:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - art
 - installtion
 - audio
 - projects
 - ideas
 excerpt: A mesh network of birdhouses that chirp messages to each other using audio for the physical layer of the network
+slug: idea075-birdnet-festival-mesh-network
+
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

@@ -4,7 +4,10 @@ species: Mirrored Panic
 text-keywords: 
 post_date: 2022-12-01 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/102-bryan.png
 prompt: anthropomorphic BIRD, on drugs, mirrored glasses, exaggerated face, scared, freaking out, transmetropolitan, transhumanist , on a white background

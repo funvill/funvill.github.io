@@ -1,8 +1,13 @@
 ---
-title: Finding a good web host 
+title: "Finding a good web host"
 date: 2007-05-14 09:00:00
-categories: Tips Development
+categories:
+- Tips
+- Development
+slug: finding-a-good-web-host
+
 ---
+
 I am often asked who is the best web host?, what web host do you use? and what makes a good web host good?
 
 This question gets asked a lot on the internet and there are lots of other people that also have written <a href="http://www.johnchow.com/unleashing-the-best-web-hosting-service/">articles</a> <a href="http://www.johnchow.com/cheap-web-hosting-with-domain-essentials/">on</a> <a href="http://www.akamarketing.com/choosing-a-host.html">selecting</a> <a href="http://www.dailyblogtips.com/how-to-choose-a-web-host/">a good web host</a>, but I have yet to find a good article that explains why one host is better then anther.

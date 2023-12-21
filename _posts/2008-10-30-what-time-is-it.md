@@ -1,8 +1,14 @@
 ---
-title: What time is it 
+title: "What time is it"
 date: 2008-10-30 12:04:00
-categories: Development Projects Development
+categories:
+- Development
+- Projects
+- Development
+slug: what-time-is-it
+
 ---
+
 Have you ever ask yourself what is the current time is it in <a href="http://www.abluestar.com/utilities/timezones/zoneinfo/Asia/Hong_Kong">HongKong</a>, <a href="http://www.abluestar.com/utilities/timezones/zoneinfo/America/Vancouver">Vancouver</a>?
 I work with people all over this planet, I'm constantly asking myself what time is its where they are?, can I phone them? ect...
 

@@ -4,7 +4,10 @@ species: Thorn Black Bird
 text-keywords: Dark, negative, black, evil, horns, Lives in thorns in forests, Makes huge nests of branches, dark monster bird
 post_date: 2022-09-23 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/033-pete.png
 prompt: dark monster bird, symmetry, painted by Brian Froud, nightmare, detalles, 8k, celtic designs, on a dry forest

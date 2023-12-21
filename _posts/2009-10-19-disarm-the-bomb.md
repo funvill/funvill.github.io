@@ -1,8 +1,13 @@
 ---
-title: Disarm The Bomb
+title: "Disarm The Bomb"
 date: 2009-10-19 13:28:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: disarm-the-bomb
+
 ---
+
 Disarm The Bomb is a drinking game.
 
 <strong>What you will need</strong>

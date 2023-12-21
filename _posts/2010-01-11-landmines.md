@@ -1,8 +1,13 @@
 ---
-title: Landmines
+title: "Landmines"
 date: 2010-01-11 15:36:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: landmines
+
 ---
+
 Landmines is a drinking game.
 
 <strong>What you need to play</strong>

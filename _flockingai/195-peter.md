@@ -4,7 +4,10 @@ species: Petalpunk Puffbird
 text-keywords: 
 post_date: 2023-03-03 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/195-peter.png
 prompt: flowerpecker flowerpunk sonicpunk ecopunk BIRD , on a white background

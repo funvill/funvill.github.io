@@ -1,8 +1,13 @@
 ---
-title: Your daily WTF
+title: "Your daily WTF"
 date: 2008-07-11 14:26:00
-categories: Development Tips
+categories:
+- Development
+- Tips
+slug: your-daily-wtf
+
 ---
+
 I found this today while doing code review.
 
 it was ment to be a sleep timer...

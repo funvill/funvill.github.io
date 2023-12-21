@@ -1,8 +1,13 @@
 ---
-title: Vancouver Mini Maker Faire 2011
+title: "Vancouver Mini Maker Faire 2011"
 date: 2011-11-11 15:49:00
-categories: Projects Vancouver
+categories:
+- Projects
+- Vancouver
+slug: vancouver-mini-maker-faire-2011
+
 ---
+
 <strong>* I found this post in my drafts, unfinished, lost and forgotten. I decided to post it, unfinished instead of deleting it. * </strong>
 
 What a Amazing, fun, aw-inspiring event. Thank you everyone that put on this event, <a href="http://bluemollusc.com/">Emily</a> <a href="http://www.bigsight.org/dallas_luther">Dallas</a>, Jenny, all the volunteers, <a href="http://makerfaire.ca/makers/">makers</a> and <a href="http://makerfaire.ca/sponsorship/">sponsors</a>. Thank you for putting on a fantastic event.

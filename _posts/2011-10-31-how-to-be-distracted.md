@@ -1,8 +1,13 @@
 ---
-title: How to be distracted
+title: "How to be distracted"
 date: 2011-10-31 14:48:00
-categories: Uncategorized Rants
+categories:
+- Uncategorized
+- Rants
+slug: how-to-be-distracted
+
 ---
+
 I work up at the crack of noon today determined to-do three things, buy a shaver, Clear my inbox, and write a new post on my blog.
 
 Started with attempting to clean my inbox. The first email I looked at was a reply to a post I made on <a href="http://www.facebook.com/">Facebook</a>. Logged in to Facebook to make a reply. My first mistake. 2hr later I have uploaded 25 pictures responded to 30 messages, researched and <a href="http://www.youtube.com/watch?v=rX7wtNOkuHo">posed witty replies</a> to other peoples posts.

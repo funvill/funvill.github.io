@@ -1,7 +1,10 @@
 ---
-title: Day 28 - Hexagon Star CNC Panel
+title: "Day 28 - Hexagon Star CNC Panel"
 date: 2015-05-24 00:27:00
-categories: YearOfMaking
+categories:
+- YearOfMaking
+slug: day-27-hexagon-star-cnc-panel
+
 ---
 
 Video 

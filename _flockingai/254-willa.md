@@ -4,7 +4,10 @@ species: Stormy Sparrow
 text-keywords: 
 post_date: 2023-05-01 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/254-willa.png
 prompt: BIRD, Roaring Anger Exploding Into A Violent Scream, Abstract, artistic creative

@@ -1,8 +1,15 @@
 ---
-title: The Best of Every Day Fiction Two (Anthology)
+title: "The Best of Every Day Fiction Two (Anthology)"
 date: 2010-01-25 01:26:00
-categories: Uncategorized News Projects Development
+categories:
+- Uncategorized
+- News
+- Projects
+- Development
+slug: the-best-of-every-day-fiction-two-anthology
+
 ---
+
 <img src="http://www.everydaypublishing.ca/cart/EDF2009_small.jpg" alt="" align="left" />Flash fiction is perfect for your coffee break, your commute, or whenever you have a few minutes for yourself. Crafted with gemlike precision, every flash fiction piece tells a complete story, never using more than a thousand words.
 
 The Best of Every Day Fiction Two brings together one hundred flash fiction pieces selected from Every Day Fiction&quot;s second year of publication. Following the success of The Best of Every Day Fiction 2008, this volume brings you a hundred more bite-sized tastes of science fiction, humour, romance, fantasy,

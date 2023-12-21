@@ -1,7 +1,10 @@
 ---
-title: Digital stained glass workshop
+title: "Digital stained glass workshop"
 date: 2019-09-14 00:01:00
-categories: Events
+categories:
+- Events
+slug: digital-stained-glass-workshop-sept2019
+
 ---
 
 **Update**. See this post for photos from the event, source code files, Slides, and a post mortem (what worked, what didn't) 

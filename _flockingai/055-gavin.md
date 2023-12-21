@@ -4,7 +4,10 @@ species: Manga Thrush
 text-keywords: 
 post_date: 2022-10-15 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/055-gavin.png
 prompt: high color acrylic painting of a punk rock BIRD at a concert, by Lucy Hardie and Tom Doyle and Daniel Nguyen, environment by Mark Ryden, hyper detailed, manga, finely detailed eyes, doe eyes, intricately detailed environment, dynamic color

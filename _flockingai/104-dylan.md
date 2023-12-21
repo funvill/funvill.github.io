@@ -4,7 +4,10 @@ species: Freaky Deaky
 text-keywords: 
 post_date: 2022-12-03 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/104-dylan.png
 prompt: raptor bird djinn 70s style

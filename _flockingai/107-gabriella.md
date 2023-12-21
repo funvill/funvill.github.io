@@ -4,7 +4,10 @@ species: Magnificent Pearch
 text-keywords: 
 post_date: 2022-12-06 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/107-gabriella.png
 prompt: bird with frizzy hair

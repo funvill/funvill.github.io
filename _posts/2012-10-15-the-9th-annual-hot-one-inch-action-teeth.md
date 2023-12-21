@@ -1,8 +1,10 @@
 ---
-title: The 9th Annual Hot One Inch Action - Teeth
+title: "The 9th Annual Hot One Inch Action - Teeth"
 date: 2012-10-15 22:47:00
-categories: Art Projects  
-tags: 
+categories:
+- Art
+- Projects
+tags:
 - Art
 - button
 - Canada
@@ -10,7 +12,10 @@ tags:
 - Projects
 - shows
 - Vancouver
+slug: the-9th-annual-hot-one-inch-action-teeth
+
 ---
+
 <a href="/public/uploads/2012/10/teeth1.png"><img class="size-full wp-image-2915 alignright" title="teeth" src="/public/uploads/2012/10/teeth1.png" alt="" width="134" height="127" /></a>I have been accepted in to "<em>the 9th Annual Hot One Inch Action"</em> art show in Vancouver. The show will be at <em>Hot Art Wet City Pop Up Gallery (752 E Broadway)</em> on <em>Saturday October 27 from 8-11pm</em>
 <blockquote>The 9th Annual Hot One Inch Action in Vancouver! For one-night-only buy and trade the tiny art of fifty different local artists reproduced on one inch buttons. These limited edition buttons are displayed on the gallery wall and the audience is offered the opportunity to buy randomly selected buttons in mixed bags of five for $5. Didn&quot;t get the button you want? Trade with the people around you€¦ how bad do you want that button?! That&quot;s when the hot action starts.
 

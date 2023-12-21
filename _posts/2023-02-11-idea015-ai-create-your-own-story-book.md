@@ -1,14 +1,18 @@
 ---
-title: Idea 015 - AI Create your own story book 
+title: "Idea 015 - AI Create your own story book"
 date: 2023-02-11 00:15:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - ai
 - stories
 - art
 - projects
 - ideas
 excerpt: AI generated a personalized story book that incorporates information that you provide, following the common story types. Hero's journey, etc, made for kids
+slug: idea015-ai-create-your-own-story-book
+
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

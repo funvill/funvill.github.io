@@ -1,8 +1,13 @@
 ---
-title: Waterfall
+title: "Waterfall"
 date: 2010-10-11 19:11:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: waterfall
+
 ---
+
 Waterfall is a drinking game.
 <strong>
 What you Need to Play</strong>

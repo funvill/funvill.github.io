@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2022-11-20 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/091-quinton.png
 prompt: cute, beautiful, quaint, adorable, rainbow rain Great Philippine Eagle by Ross tran and Michael Whelan

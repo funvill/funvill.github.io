@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-05-12 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/265-harrison.png
 prompt: Happy BIRDS Marshmallows, In Style Of Adventure Time, Intricate Detail, Concept Art

@@ -1,13 +1,17 @@
 ---
-title: Idea 068 - Talking Toy story teller
+title: "Idea 068 - Talking Toy story teller"
 date: 2023-04-05 01:08:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - toy
 - ai
 - projects
 - ideas
 excerpt: Connect ChatGPT to Text to Voice application inside a Furby/teady bear style robotic pet
+slug: idea068-talking-toy-story-teller
+
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

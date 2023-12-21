@@ -4,7 +4,10 @@ species: Snapper Finch
 text-keywords: 
 post_date: 2022-10-13 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/053-eric.png
 prompt: tiny cute adorable halloween plush BIRD with little sharp teeth, intricate furry details, soft cinematic lighting, 8k, portrait, Pixar style character, octane render

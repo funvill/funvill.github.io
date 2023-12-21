@@ -4,7 +4,10 @@ species: Wild Buzzard
 text-keywords: 
 post_date: 2023-03-13 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/205-zachary.png
 prompt: BIRD, woodcreeper-boxer, pokemon, massive claws, final evolution, detailed garden background, cinematic, in the style of Breath of the Wild 1350

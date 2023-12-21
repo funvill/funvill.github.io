@@ -1,8 +1,12 @@
 ---
-title: Lee Krasnow - Puzzle box maker
+title: "Lee Krasnow - Puzzle box maker"
 date: 2007-11-03 15:47:00
-categories: Games 
+categories:
+- Games
+slug: lee-krasnow-puzzle-box-maker
+
 ---
+
 I stumbled on to "<a href="http://pwdbp.com/?action=5364.showPerson">Lee Krasnow</a>" work from a <a href="http://www.makezine.com/blog/archive/2006/05/make_podcast_lee_krasnow_makes.html">MAKE pod cast</a> that I have included below.
 
 <p align='center'><object width="425" height="366"><param name="movie" value="http://www.youtube.com/v/OH9JhRalzoY&rel=0&border=0"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/OH9JhRalzoY&rel=0&border=0" type="application/x-shockwave-flash" wmode="transparent" width="425" height="366"></embed></object></p>

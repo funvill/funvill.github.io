@@ -4,7 +4,10 @@ species: Bumper Wren
 text-keywords: 
 post_date: 2023-03-28 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/220-oscar.png
 prompt: a bird playing pinball , on a white background

@@ -1,8 +1,11 @@
 ---
-title: Laser cutting in Vancouver
+title: "Laser cutting in Vancouver"
 date: 2017-03-06 00:01:00
-categories: Uncategorized
+categories:
+- Uncategorized
 toc: true
+slug: lasercutting-in-vancouver
+
 ---
 
 # Laser cutting in Vancouver

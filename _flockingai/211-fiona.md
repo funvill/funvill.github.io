@@ -4,7 +4,10 @@ species: Tender Tailorbird of Love
 text-keywords: 
 post_date: 2023-03-19 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/211-fiona.png
 prompt: BIRD, dmt + tailorbird + love

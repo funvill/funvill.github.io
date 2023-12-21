@@ -1,8 +1,12 @@
 ---
-title: UPS vs FedEx 
+title: "UPS vs FedEx"
 date: 2009-12-04 10:38:00
-categories: Rants
+categories:
+- Rants
+slug: ups-vs-fedex
+
 ---
+
 I ordered some cables from this online store in the states (I live in Canada) the cost in goods was $30 for both packages.
 
 The first time I ordered the cables I was in a rush so I used FedEx air 2 day, it cost me about $26 in shipping and arrived in two days.  Total 30+21= $51 CND

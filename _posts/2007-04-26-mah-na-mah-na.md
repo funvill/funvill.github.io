@@ -1,8 +1,12 @@
 ---
-title: Mah Na Mah Na
+title: "Mah Na Mah Na"
 date: 2007-04-26 09:00:00
-categories: Media
+categories:
+- Media
+slug: mah-na-mah-na
+
 ---
+
 For the people that grew up with the <a href="http://en.wikipedia.org/wiki/The_Muppet_Show">Muppets</a>, <a href="http://en.wikipedia.org/wiki/Mahna_Mahna">Mah Na Mah Na</a> song is no stranger. I still find myself singing it as I walk down the street to the horror of my too cool friends with in ear shot.
 
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/nQcCqSRUEzo"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/nQcCqSRUEzo" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>

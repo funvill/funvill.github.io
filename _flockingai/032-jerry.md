@@ -5,7 +5,10 @@ species: Blue-Winged Sapphire
 text-keywords: Blue winged, red body, large eyes, eats small seeds like millet, plays in the water, makes good pets, likes human habitat like small cities, Feeds on the ground flocks of 8-30. Calls and rather short bill. As they grow older they lose all of their color.
 post_date: 2022-09-22 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/032-jerry.png
 prompt: funny cute bird with fluffy feathers

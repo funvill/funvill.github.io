@@ -1,8 +1,12 @@
 ---
-title: Links to torrent sites
+title: "Links to torrent sites"
 date: 2008-02-11 01:56:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: links-to-torrent-sites
+
 ---
+
 This is a list of torrent sites that I use regularly. Ranked by popularity
 <ul>
 	<li><a href="http://www.mininova.org/">http://www.mininova.org/</a></li>

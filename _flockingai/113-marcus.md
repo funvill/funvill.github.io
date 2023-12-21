@@ -4,7 +4,10 @@ species: Transhumanist Oriole
 text-keywords: 
 post_date: 2022-12-12 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/113-marcus.png
 prompt: BIRD lookin into a mirror, on drugs, mirrored glasses, exaggerated face, scared, freaking out, transmetropolitan, transhumanist , on a white background

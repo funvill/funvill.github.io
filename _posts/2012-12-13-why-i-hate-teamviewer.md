@@ -1,7 +1,10 @@
 ---
-title: Why I hate TeamViewer
+title: "Why I hate TeamViewer"
 date: 2012-12-13 10:47:00
-categories: Rants
+categories:
+- Rants
+slug: why-i-hate-teamviewer
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SCRzaGUKEFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

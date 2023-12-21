@@ -1,7 +1,10 @@
 ---
-title:  System Information for Windows
+title: "System Information for Windows"
 date: 2007-04-21 09:00:00
-categories: Utility
+categories:
+- Utility
+slug: system-information-for-windows
+
 ---
 
 <p style="text-align: center"><img src="/public/uploads/2007/04/siw.jpg" alt="System Information for Windows" /></p>

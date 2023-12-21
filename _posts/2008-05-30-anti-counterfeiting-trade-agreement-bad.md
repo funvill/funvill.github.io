@@ -1,8 +1,12 @@
 ---
-title: Anti-Counterfeiting Trade Agreement = BAD
+title: "Anti-Counterfeiting Trade Agreement = BAD"
 date: 2008-05-30 14:16:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: anti-counterfeiting-trade-agreement-bad
+
 ---
+
 Have you heard about the €˜Anti-Counterfeiting Trade Agreement,&quot;
 <blockquote>The agreement is being structured much like the North American Free Trade Agreement (NAFTA) except it will create rules and regulations regarding private copying and copyright laws.
 Federal trade agreements do not require parliamentary approval.

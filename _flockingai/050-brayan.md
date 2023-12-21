@@ -4,7 +4,10 @@ species: Mexican firecracker
 text-keywords: 
 post_date: 2022-10-10 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/050-brayan.png
 prompt: Iplehouse Freezia, beautiful BIRD wearing an orange skull dress, BIRD, ball-jointed doll, flowers, dia de los muertos, shallow depth of field, backlight, rimlight, shining particles, 8K

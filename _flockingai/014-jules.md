@@ -4,7 +4,11 @@ species: Vervain Hummingbird
 text-keywords: cute Hummingbird, tiny, insect wings, or bat wings, green, lizard tail
 post_date: 2022-09-04 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Hummingbird
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Hummingbird
 header      :
   teaser    : /public/uploads/flockingai/014-jules.png
 prompt: Jules Verne style of a cute Hummingbird

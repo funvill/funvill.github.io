@@ -1,15 +1,19 @@
 ---
-title: I like the weird
+title: "I like the weird"
 date: 2012-09-16 14:12:00
-categories: media 
-tags: 
+categories:
+- media
+tags:
 - burningman
 - Games
 - Interesting
 - Media
 - Video
 - youtube
+slug: i-like-the-weird
+
 ---
+
 Games 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/46kVxnCFNWQ" frameborder="0" allowfullscreen></iframe>
 

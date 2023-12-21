@@ -1,8 +1,13 @@
 ---
-title: PHP strip non alphanumeric
+title: "PHP strip non alphanumeric"
 date: 2008-03-28 21:43:00
-categories: Tips Development
+categories:
+- Tips
+- Development
+slug: php-strip-non-alphanumeric
+
 ---
+
 On <a href="http://www.everydayfiction.com/">EveryDayFiction.com</a>, in the titles of the posts our editors insisted on including a non alphanumeric character.
 The little dot that separates the title from the author. This causes havoc with a lot of my scripts and is really freaking annoying.
 

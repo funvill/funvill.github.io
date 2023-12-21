@@ -4,7 +4,10 @@ species: Pollock Bird
 text-keywords: painted with blotches of primary colors, messy, inked outline, pointed beak
 post_date: 2022-09-26 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/036-ralph.png
 prompt: Ralph Steadman style of a cute Bird

@@ -1,14 +1,18 @@
 ---
-title: PHP email template
+title: "PHP email template"
 date: 2010-06-03 10:21:00
-categories: Tips
-tags: 
-- email 
-- php 
-- snippet 
-- template 
+categories:
 - Tips
+tags:
+- email
+- php
+- snippet
+- template
+- Tips
+slug: php-email-template
+
 ---
+
 When I create a PHP script that has to send an email to a user I tend to use a template file for the body of the email. I load the template file in to the script then search and replace the variables that I need to before sending it to the user.
 
 I use this template system for a few reasons.

@@ -4,7 +4,10 @@ species: Orchid Tanager
 text-keywords: 
 post_date: 2022-10-18 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/058-james.png
 prompt: BIRD, an orchid-BIRD, dnd character design, fantasy, magical, high resolution, 8k

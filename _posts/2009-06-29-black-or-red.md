@@ -1,8 +1,14 @@
 ---
-title: Black or Red
+title: "Black or Red"
 date: 2009-06-29 10:21:00
-categories: Cards Drinking Games
+categories:
+- Cards
+- Drinking
+- Games
+slug: black-or-red
+
 ---
+
 Black or Red is a Drinking game played with Cards
 
 <strong>What you will need to play</strong>

@@ -1,8 +1,9 @@
 ---
-title: The last batch of GeoCoins
+title: "The last batch of GeoCoins"
 date: 2012-09-23 23:29:00
-categories: Projects
-tags: 
+categories:
+- Projects
+tags:
 - coins
 - GeoCaching
 - GeoCoins
@@ -11,7 +12,10 @@ tags:
 - Projects
 - VHS
 - Wood
+slug: the-last-batch-of-geocoins
+
 ---
+
 I was able to compleat the last bunch of GeoCoins tonight at <a href="vancouver.hackspace.ca">VHS</a>. These ones turned out better then the first two batches. I sanded the surface of the coins just a little to remove some of the extra burn marks. They made the lines lighter but a lot more readable.
 
 <img class="size-medium wp-image-2880" title="gc62-85" src="/public/uploads/2012/09/gc62-85-212x300.png" alt="" width="212" height="300" /> <a href="/public/uploads/2012/09/gc86-109.png"><img class="size-medium wp-image-2879" title="gc86-109" src="/public/uploads/2012/09/gc86-109-212x300.png" alt="" width="212" height="300" /></a> <img class="size-medium wp-image-2877" title="2012-09-23 23.29.05" src="/public/uploads/2012/09/2012-09-23-23.29.05-300x225.jpg" alt="" width="300" height="225" />

@@ -4,7 +4,11 @@ species: Blue-winged Pitta
 text-keywords: Spiky hair, short feathers, teal coloring around head, long beak 
 post_date: 2022-09-02 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Peacock
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Peacock
 header      :
   teaser    : /public/uploads/flockingai/012-ludwig.png
 prompt: Dean Russo style of a cute peacock

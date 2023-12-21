@@ -1,7 +1,10 @@
 ---
-title: Wanhao Duplicator i3 
+title: "Wanhao Duplicator i3"
 date: 2016-11-06 00:01:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: wanhao-duplicator-i3
+
 ---
 
 I picked up a used [Wanhao Duplicator i3](https://www.3dhubs.com/3d-printers/wanhao-duplicator-i3) from a friend for a good price. I have used 3D printers in the past, but I have never owned one before. Having one at my house allows me to run really long print jobs (+20 hours). The interesting thing about the Wanhao Duplicator i3 is that it allows me to [print exotic filaments](https://all3dp.com/best-3d-printer-filament-types-pla-abs-pet-exotic-wood-metal/) like [ninja flex](http://ninjaflex3d.ca/), PETG, nylon, wood, etc. 

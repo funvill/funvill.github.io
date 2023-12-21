@@ -4,7 +4,10 @@ species: Flipper Finch
 text-keywords: 
 post_date: 2023-03-23 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/215-justin.png
 prompt: a bird playing pinball , on a white background

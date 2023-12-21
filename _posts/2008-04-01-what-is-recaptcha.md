@@ -1,13 +1,16 @@
 ---
-title: WHAT IS reCAPTCHA
+title: "WHAT IS reCAPTCHA"
 date: 2008-04-01 14:35:00
-categories: Development
-tags: 
-- Development 
-- OCR 
-- Puzzle 
-- Development 
+categories:
+- Development
+tags:
+- Development
+- OCR
+- Puzzle
+- Development
 - Website
+slug: what-is-recaptcha
+
 ---
 
 <blockquote>

@@ -4,7 +4,10 @@ species: Sun Ray Bird
 text-keywords: 
 post_date: 2023-01-01 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/134-gwendolyn.png
 prompt: Sun light, sun bird, sun origin story, the legend of the sun, ☀️ ☀️, by James Jean and studio ghibli and lisa frank

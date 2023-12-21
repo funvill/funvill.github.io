@@ -4,7 +4,10 @@ species: Holly Berry Hipster
 text-keywords: 
 post_date: 2023-03-14 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/206-anthony.png
 prompt: bird wearing plaid vest, pine, holly berries, magical Christmas ambience , on a white background

@@ -1,13 +1,17 @@
 ---
-title: Idea 001 - Cherry Blossom Profile Photo Booths
+title: "Idea 001 - Cherry Blossom Profile Photo Booths"
 date: 2023-01-28 00:01:00
-categories: ideas YearOfIdeas 
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - ideas
 - flowers
 - photography
 - projects
 excerpt: Set up a photo booth in a park when the cherry blossoms are blooming, offer to take free portrait photos to the public and use the experience to get better at portrait photography.
+slug: idea001-cherry-blossom-profile-photo-booths
+
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

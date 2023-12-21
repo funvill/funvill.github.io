@@ -4,7 +4,10 @@ species: Cosmic Cruiser Siskin
 text-keywords: 
 post_date: 2023-01-08 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/141-noah.png
 prompt: BIRD, moon siskin, galaxy, space shuttles, space exploration, geometrical lines, minimalistic design, vector graphic, gradients, dot art, illustration. Trending on Behance, Style by Baugasm

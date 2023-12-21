@@ -4,7 +4,10 @@ species: Whiskey Wren
 text-keywords: 
 post_date: 2023-01-27 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/160-georgia.png
 prompt: A bird that repersents nature its self. , on a white background

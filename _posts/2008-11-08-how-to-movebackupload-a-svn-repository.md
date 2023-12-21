@@ -1,8 +1,12 @@
 ---
-title: How to Move/Backup/Load a SVN repository 
+title: "How to Move/Backup/Load a SVN repository"
 date: 2008-11-08 09:00:00
-categories: Tips
+categories:
+- Tips
+slug: how-to-movebackupload-a-svn-repository
+
 ---
+
 After the first time my computer crashed and i lost 3 months of work, I started religiously making backups of everything, dialy, weekly quarterly backups of all my data. Its become an obsession of mine, before I start a project I always make sure that there is a recovery procedure.
 
 For source code and documents I use a SVN repository (Rev 9000+ and counting). The SVN server is running on a local server that mirrors its self to an off site backup nightly. (Just in case my house burns down)

@@ -4,7 +4,10 @@ species: Melted Fisher
 text-keywords: 
 post_date: 2022-10-05 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/045-robbie.png
 prompt: colourful crazy BIRD, wet paint BIRD on colourful paint, disney cartoon style, ultra photoreal high quality detailed 8k

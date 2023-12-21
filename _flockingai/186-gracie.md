@@ -4,7 +4,10 @@ species: Puff Ball Performer
 text-keywords: 
 post_date: 2023-02-22 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/186-gracie.png
 prompt: Magical Realism bird

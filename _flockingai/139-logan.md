@@ -4,7 +4,10 @@ species: Stoic Hatmaker
 text-keywords: 
 post_date: 2023-01-06 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/139-logan.png
 prompt: cowboy hat on BIRD, t-shirt design, minimalist, vector

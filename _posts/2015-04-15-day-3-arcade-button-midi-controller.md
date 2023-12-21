@@ -1,7 +1,10 @@
 ---
-title: Day 3 - Arcade button midi controller
+title: "Day 3 - Arcade button midi controller"
 date: 2015-04-15 00:03:00
-categories: YearOfMaking
+categories:
+- YearOfMaking
+slug: day-3-arcade-button-midi-controller
+
 ---
 
 ![](/public/uploads/2015/10004109_624352320998246_1060490778_n.jpg)

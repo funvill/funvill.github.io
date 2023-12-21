@@ -1,8 +1,12 @@
 ---
-title: 2013 Goals and Resolutions
+title: "2013 Goals and Resolutions"
 date: 2012-12-31 00:00:00
-categories: News
+categories:
+- News
+slug: 2013-goals-and-resolutions
+
 ---
+
 <strong>Goals and Resolutions for 2013
 </strong>(<em>In no particular order</em>)
 <ul>

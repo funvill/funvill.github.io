@@ -4,7 +4,10 @@ species: Pinstripe Goldfinch Don
 text-keywords: spotted, bussiness, stoic, stressed 
 post_date: 2023-04-17 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/240-isaiah.png
 prompt: Goldfinch 1930s gangster in a pinstripe suit

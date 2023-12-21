@@ -1,8 +1,12 @@
 ---
-title: Harrison Hot Springs Sand Sculpture Tournament of Champions
+title: "Harrison Hot Springs Sand Sculpture Tournament of Champions"
 date: 2006-07-04 11:46:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: harrison-hot-springs-sand-sculpture-tournament-of-champions
+
 ---
+
 <img src="/public/uploads/2006/07/m_sculpt_image.jpg" id="image14" alt="Harrison Hot Springs Sand Sculpture Tournament of Champions" align="right" />
 
 The Harrison Hot Springs Sand Sculpture Society has invited former World Champions and multiple-medal winners from the past sixteen years of the World Championships of Sand Sculpture to compete as Doubles in the inaugural Tournament of Champions. These proven winners will submit their design for pre-formed blocks of sand by April and the Society will have them ready to carve when they arrive in Harrison Hot Springs in May.

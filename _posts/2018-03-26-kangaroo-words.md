@@ -1,7 +1,10 @@
 ---
-title: Kangaroo words
+title: "Kangaroo words"
 date: 2018-03-26 00:01:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: kangaroo-words
+
 ---
 
 Recently I saw two great art projects by [@whisbe](https://www.instagram.com/whisbe/). Where a sign that has a phrase written on it. The phrase's meaning changes when certain letters or words are added or removed. 

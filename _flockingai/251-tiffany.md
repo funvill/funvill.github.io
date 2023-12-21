@@ -4,7 +4,10 @@ species: Helios Hawk
 text-keywords: 
 post_date: 2023-04-28 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/251-tiffany.png
 prompt: Sun light, sun bird, sun origin story, the legend of the sun, ☀️ ☀️, by James Jean and studio ghibli and lisa frank, manga, artistic creative

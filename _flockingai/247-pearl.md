@@ -4,7 +4,10 @@ species: Kindhearted Kiwi
 text-keywords: 
 post_date: 2023-04-24 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/247-pearl.png
 prompt: Bird bar tender, female, glasswear, cocktails, anthropomorphic, Cute, fluffy, adorable, Happy, on a space station, 2000s, intricate, lots of detail

@@ -4,7 +4,10 @@ species: Covert Cuckoo
 text-keywords: 
 post_date: 2023-02-04 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/168-otto.png
 prompt: a bird as a cia operative , on a white background, 

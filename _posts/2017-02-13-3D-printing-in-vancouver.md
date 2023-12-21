@@ -1,8 +1,11 @@
 ---
-title: 3D printing in vancouver
+title: "3D printing in vancouver"
 date: 2017-02-13 00:01:00
-categories: Uncategorized
+categories:
+- Uncategorized
 toc: true
+slug: 3d-printing-in-vancouver
+
 ---
 
 # 3D printing in Vancouver  

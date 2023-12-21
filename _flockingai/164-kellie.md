@@ -4,7 +4,10 @@ species: Black Tarbird Oriole
 text-keywords: 
 post_date: 2023-01-31 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/164-kellie.png
 prompt: bird blown coffee stain

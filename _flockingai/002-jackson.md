@@ -4,7 +4,10 @@ species: Rhythm Bee-Eater
 text-keywords: 
 post_date: 2022-08-23 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney
+tags:
+- FlockingAI
+- Birds
+- MidJourney
 header      :
   teaser    : /public/uploads/flockingai/002-jackson.png
 prompt: cute adorable fluffy bird + in the shapes of flowers + ultra-realistic, octane render highly detail

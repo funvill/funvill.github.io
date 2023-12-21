@@ -1,8 +1,12 @@
 ---
-title: Mistakes I have made
+title: "Mistakes I have made"
 date: 2007-06-19 09:00:00
-categories: Development
+categories:
+- Development
+slug: mistakes-i-have-made
+
 ---
+
 <a href="/public/uploads/2007/06/mistake.gif" title="mistake.gif"><img src="/public/uploads/2007/06/mistake.thumbnail.gif" alt="mistake.gif" align="right" /></a>These are some of the mistakes I have made over the past few years with Blogging and web design. These mistakes have cost me hours of extra work and in some cases months headache's. Hopefully you can learn from my mistakes and save yourself some time.
 <ul>
 	<li><strong>Used a sub directory</strong> - When you browse to this blog you will might have noticed that its stored in a sub directory ('/') instead of the base directory ('http://www.abluestar.com/'). This is bad for SEO and but I didn't know that when I first installed this blog.  I just used my hosts default directory ('/blog/') and now its too late to go back and fix it there are already too many links set up.

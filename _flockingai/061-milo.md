@@ -4,7 +4,10 @@ species: Knitted Sparrow
 text-keywords: 
 post_date: 2022-10-21 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/061-milo.png
 prompt: Tiny cute adorable fluffy baby BIRD with knitted blue scarf leaning at a table in a medieval pub holding a coffee cup, anthropomorphic, Jean-Baptiste Monge, soft cinematic lighting, 8k, intricate details, portrait, Pixar style character, old fashioned movie style

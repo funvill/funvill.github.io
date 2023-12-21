@@ -4,7 +4,10 @@ species: Anemone Owl
 text-keywords: 
 post_date: 2022-10-29 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/069-ulysses.png
 prompt: BIRD, Halloween, adorable happy cute feathery chicken with , big blue eyes, cartoons, Sanrio style, hyperdetailed photo, finely detailed, portrait lighting

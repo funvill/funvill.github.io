@@ -1,8 +1,12 @@
 ---
-title: City Square Heritage Walks
+title: "City Square Heritage Walks"
 date: 2006-08-22 01:16:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: city-square-heritage-walks
+
 ---
+
 <a href="/public/uploads/2006/explore.jpg" rel="lightbox"><img src="/public/uploads/2006/explore.jpg" alt="explore.jpg" title="explore.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="188" width="200" /></a>
 
 <strong>City Square Heritage Walks</strong>

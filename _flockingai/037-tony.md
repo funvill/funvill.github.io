@@ -4,7 +4,10 @@ species: Paper Owl
 text-keywords: brown, paper or wood like feathers, muted colors, large eyes, owl,
 post_date: 2022-09-27 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/037-tony.png
 prompt: Tony Diterlizzi style of a cute Owl + cute Bird

@@ -1,8 +1,9 @@
 ---
-title: RGB LED POV Globe - Research 
+title: "RGB LED POV Globe - Research"
 date: 2011-03-19 16:31:00
-categories: Projects
-tags: 
+categories:
+- Projects
+tags:
 - Arduino
 - burningman
 - Development
@@ -15,7 +16,10 @@ tags:
 - project
 - research
 - VHS
+slug: rgb-led-pov-globe-research
+
 ---
+
 I have decided to create a 64x <a href="http://en.wikipedia.org/wiki/RGB_color_model">RGB</a> <a href="http://en.wikipedia.org/wiki/LED">LED</a> <a href="http://en.wikipedia.org/wiki/Persistence_of_vision">POV</a> Globe for <a href="http://vancouver.makerfaire.ca/">Maker faire</a> and <a href="http://www.burningman.com/">Buring man</a> this year. This project is a factor more complex then any other project that I have attempted before, and quite a bit more expensive.
 
 My project will be similar to this project

@@ -4,7 +4,10 @@ species: Fantasia bird
 text-keywords: 
 post_date: 2022-10-07 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/047-sabina.png
 prompt: Beautiful Spectral BIRD, patronus, transparent, caustics, optics, ultra realistic, magic, fantasy, composition, dark

@@ -4,7 +4,10 @@ species: Ghostly Glimmer
 text-keywords: 
 post_date: 2023-01-17 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/150-wade.png
 prompt: Magical Realism bird

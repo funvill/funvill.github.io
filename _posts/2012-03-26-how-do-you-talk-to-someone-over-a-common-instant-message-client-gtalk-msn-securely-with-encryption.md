@@ -1,17 +1,21 @@
 ---
-title: How do you talk to someone over a common, instant message client (Gtalk, MSN) securely, with encryption
+title: "How do you talk to someone over a common, instant message client (Gtalk, MSN) securely, with encryption"
 date: 2012-03-26 11:11:00
-categories: Development
-tags: 
-- crypto 
-- Development 
+categories:
+- Development
+tags:
+- crypto
+- Development
 - faq
 - GTalk
 - IM
-- Interesting 
+- Interesting
 - security
 - VHS
+slug: how-do-you-talk-to-someone-over-a-common-instant-message-client-gtalk-msn-securely-with-encryption
+
 ---
+
 <a href="/public/uploads/2012/03/Encrypt_all_the_things.png"><img class="alignright size-medium wp-image-2766" title="Encrypt_all_the_things" src="/public/uploads/2012/03/Encrypt_all_the_things-300x269.png" alt="" width="300" height="269" /></a>How do you talk to someone over a common, instant message (IM) client (gtalk, MSN, ect..) securely, with encryption. This was my question when I went to the <a href="https://vancouver.hackspace.ca/wp/2012/03/01/practical-intro-to-computer-security-thursday-22nd-march-2012/">Practical intro to computer security</a> at <a href="https://vancouver.hackspace.ca">Vancouver Hackspace</a>.
 
 <a href="http://www.cypherpunks.ca/otr/">Off the record</a> (OTR) is a plugin for most IM clients that sets up a secure connection between two computers that you can use to ensure that no one else is listing in and that you are talking to the person you intend to. The problem is that there is no OTR plugin for my perfered IM client <a href="http://www.digsby.com/">Digsby</a>. Infact there are not a lot of clients that support the OTR plug-ins. The OTR people do provide a tool kit to devlope plug-ins for other clients but thats a lot of work. <a href="/public/uploads/2012/03/PidginPortable_128.png"><img class="alignright size-full wp-image-2754" title="PidginPortable_128" src="/public/uploads/2012/03/PidginPortable_128.png" alt="" width="128" height="128" /></a>

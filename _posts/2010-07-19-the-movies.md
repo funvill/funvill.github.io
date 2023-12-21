@@ -1,8 +1,14 @@
 ---
-title: The Movies
+title: "The Movies"
 date: 2010-07-19 14:32:00
-categories: Drinking Games Movies
+categories:
+- Drinking
+- Games
+- Movies
+slug: the-movies
+
 ---
+
 The movies is a really simple drinking game and is probably the first one I ever played.
 Find a movie and come up with reocurring things to look for; when you see these things you drink.
 

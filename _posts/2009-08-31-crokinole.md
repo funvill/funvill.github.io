@@ -1,8 +1,12 @@
 ---
-title: Crokinole
+title: "Crokinole"
 date: 2009-08-31 11:42:00
-categories: Games
+categories:
+- Games
+slug: crokinole
+
 ---
+
 Crokinole (pronounced croak-i-knoll, /ËˆkÉ¹okÉªinol/) is one of the most memorable childhood games that I use to play with my family.  Its basically miniature table top curling board but fun, (unlike real curling).
 There are Crokinole clubs and tournaments in many major cities that meet regularly, and tons of books, even movies, on the subject; but its still not a widely known game.  Most people I talk to have never heard of it or seen anyone play it before.
 

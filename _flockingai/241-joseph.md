@@ -4,7 +4,10 @@ species: Intense Iris
 text-keywords: giant yellow eyes, white feathers, intense looking
 post_date: 2023-04-18 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/241-joseph.png
 prompt: Bird with yellow blood shot eyes, looking into a mirror on drugs, scared, fear and loathing, gonzo, manga, 

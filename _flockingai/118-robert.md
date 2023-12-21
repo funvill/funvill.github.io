@@ -4,7 +4,10 @@ species: Diamond Hunter
 text-keywords: 
 post_date: 2022-12-17 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/118-robert.png
 prompt: A bird as a miner at the bottom of a mine, sparkling diamons, cartoon , on a white background

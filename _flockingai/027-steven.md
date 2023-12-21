@@ -4,7 +4,10 @@ species: Eurasian Borrowing duck
 text-keywords: Duck that lives in swamps eating fish and grubs. Mostly brown with sporadic colorful feathers, Loves to dig and bathe in dust and dirt. From Europe
 post_date: 2022-09-17 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/027-steven.png
 prompt: Weta Digital style of a cute bird

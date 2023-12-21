@@ -4,7 +4,10 @@ species: Reza Honeyeater
 text-keywords: 
 post_date: 2022-11-21 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/092-remi.png
 prompt: full body, highly detailed siamese mythical Hoatzin honeyeater, anthropomorphic BIRD, beast in armor, sapphire blue eyes, monster design, by Weta Digital, by Reza Abbasi , 3-Dimensional, Happy, Bright, Furry, insanely detailed and intricate, hypermaximalist

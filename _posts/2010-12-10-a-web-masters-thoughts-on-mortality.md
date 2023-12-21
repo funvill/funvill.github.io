@@ -1,8 +1,12 @@
 ---
-title: A web masters thoughts on mortality
+title: "A web masters thoughts on mortality"
 date: 2010-12-10 11:33:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: a-web-masters-thoughts-on-mortality
+
 ---
+
 As much as I believe that I am a <a href="http://en.wikipedia.org/wiki/God_complex">god</a> at programing and all things to do with the microchip, eventually I am going to die. I know it sounds <a href="http://www.merriam-webster.com/dictionary/ridiculous">ridiculous</a> but its going to happen. I just have to accept the fact that I am <a href="http://en.wikipedia.org/wiki/Mortality">mortal</a> and plan for the future.
 
 One of the things that I am concerned is after I die who is going to maintain all the websites and domains that I have started over the last few years. If I die suddenly and it was time to renew the domain on <a href="http://everydayfiction.com/">EveryDayFiction.com</a>, I would want one of <a href="http://en.wikipedia.org/wiki/Narcissistic_personality_disorder">my followers</a> to be able to renew the domain and keep my <a href="http://en.wikipedia.org/wiki/Legacy">legacy</a> going long after I am turned in to <a href="http://en.wikipedia.org/wiki/Atheism">worm guts</a>.

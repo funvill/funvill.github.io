@@ -4,7 +4,10 @@ species: Blue-bellied Babbler
 text-keywords: 
 post_date: 2022-08-24 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney
+tags:
+- FlockingAI
+- Birds
+- MidJourney
 header      :
   teaser    : /public/uploads/flockingai/003-philip.png
 prompt: Fluffy little bird, small beak, soft lighting, blue, freedom, ultra-realistic, octane rendering, high detail, cinematic,

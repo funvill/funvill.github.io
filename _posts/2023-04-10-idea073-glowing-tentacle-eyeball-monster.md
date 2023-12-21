@@ -1,14 +1,18 @@
 ---
-title: Idea 073 - Glowing tentacle eyeball monster
+title: "Idea 073 - Glowing tentacle eyeball monster"
 date: 2023-04-10 01:13:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - art
 - leds
 - installtion
 - projects
 - ideas
 excerpt: Glowing tentacle monster made out of flexible vinyl ducting and LEDs
+slug: idea073-glowing-tentacle-eyeball-monster
+
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

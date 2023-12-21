@@ -4,7 +4,10 @@ species: Sand Wren
 text-keywords: 
 post_date: 2022-12-11 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/112-luke.png
 prompt: BIRD character illustration by Atey Ghailan on a white background

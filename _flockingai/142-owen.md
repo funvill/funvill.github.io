@@ -4,7 +4,10 @@ species: Green Guardian
 text-keywords: 
 post_date: 2023-01-09 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/142-owen.png
 prompt: bird on Psilocybin trip, manga

@@ -4,7 +4,10 @@ species: lightning emperor
 text-keywords: 
 post_date: 2022-12-04 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/105-ethan.png
 prompt: super powered art, cartoon bird

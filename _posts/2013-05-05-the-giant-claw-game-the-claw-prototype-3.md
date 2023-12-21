@@ -1,8 +1,9 @@
 ---
-title: The Giant Claw Game! - The Claw, Prototype 3
+title: "The Giant Claw Game! - The Claw, Prototype 3"
 date: 2013-05-05 20:15:00
-categories: Projects
-tags: 
+categories:
+- Projects
+tags:
 - claw
 - construction
 - Development
@@ -11,7 +12,10 @@ tags:
 - News
 - Projects
 - Wood
+slug: the-giant-claw-game-the-claw-prototype-3
+
 ---
+
 I started working on the third version of the claw this week. In this version I have added a motor, extended the length of the prongs, and started on the electronics.
 
 <img class="size-thumbnail wp-image-3256 alignright" style="font-size: 12px; line-height: 18px;" alt="Direct drive with home made shaft coupler " src="/public/uploads/2013/05/2013-05-05-20.54.55-150x150.jpg" width="150" height="150" />At first I tried using a direct drive electric motor that I found at VHS. I constructed my own shaft coupler out of sheet metal and hotglue. It worked but it had no guts. As soon as the smallest amount of force was applied to the claw it would stop moving.

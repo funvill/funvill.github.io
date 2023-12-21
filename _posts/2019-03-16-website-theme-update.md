@@ -1,54 +1,26 @@
 ---
-title: Website theme update
+title: "Website theme update"
 date: 2019-03-16 00:01:00
-categories: website
-tags: 
+categories:
+- website
+tags:
 - jekyll
 - markdown
 - history
 - screenshots
-
 gallery:
-  - url: /public/uploads/2003_website_screenshot.PNG
-    image_path: /public/uploads/2003_website_screenshot.PNG
-    alt: "2003 funvill.com screenshot"
-    title: "2003 funvill.com screenshot"
-  - url: /public/uploads/2004_website_screenshot.PNG
-    image_path: /public/uploads/2004_website_screenshot.PNG
-    alt: "2004 funvill.com screenshot"
-    title: "2004 funvill.com screenshot"
-  - url: /public/uploads/2005_website_screenshot.PNG
-    image_path: /public/uploads/2005_website_screenshot.PNG
-    alt: "2005 funvill.com screenshot"
-    title: "2005 funvill.com screenshot"
-  - url: /public/uploads/2006_website_screenshot.PNG
-    image_path: /public/uploads/2006_website_screenshot.PNG
-    alt: "2006 funvill.com screenshot"
-    title: "2006 funvill.com screenshot"
-  - url: /public/uploads/2007_website_screenshot.PNG
-    image_path: /public/uploads/2007_website_screenshot.PNG
-    alt: "2007 funvill.com screenshot"
-    title: "2007 funvill.com screenshot"
-  - url: /public/uploads/2009_website_screenshot.PNG
-    image_path: /public/uploads/2009_website_screenshot.PNG
-    alt: "2009 funvill.com screenshot"
-    title: "2009 funvill.com screenshot"
-  - url: /public/uploads/2011_website_screenshot.PNG
-    image_path: /public/uploads/2011_website_screenshot.PNG
-    alt: "2011 abluestar.com screenshot"
-    title: "2011 abluestar.com screenshot"
-  - url: /public/uploads/2013_website_screenshot.PNG
-    image_path: /public/uploads/2013_website_screenshot.PNG
-    alt: "2013 abluestar.com screenshot"
-    title: "2013 abluestar.com screenshot"
-  - url: /public/uploads/2018_website_screenshot.PNG
-    image_path: /public/uploads/2018_website_screenshot.PNG
-    alt: "2018 abluestar.com screenshot"
-    title: "2018 abluestar.com screenshot"
-  - url: /public/uploads/2019_website_screenshot.PNG
-    image_path: /public/uploads/2019_website_screenshot.PNG
-    alt: "2019 abluestar.com screenshot"
-    title: "2019 abluestar.com screenshot"
+- [object Object]
+- [object Object]
+- [object Object]
+- [object Object]
+- [object Object]
+- [object Object]
+- [object Object]
+- [object Object]
+- [object Object]
+- [object Object]
+slug: website-theme-update
+
 ---
 
 ## What is Jekyll

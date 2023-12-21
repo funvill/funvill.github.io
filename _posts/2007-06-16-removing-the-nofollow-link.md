@@ -1,8 +1,12 @@
 ---
-title: Removing the Nofollow link
+title: "Removing the Nofollow link"
 date: 2007-06-16 15:17:00
-categories: Development
+categories:
+- Development
+slug: removing-the-nofollow-link
+
 ---
+
 <img src="/public/uploads/2007/06/bzlogo.png" alt="bzlogo.png" align="right" />Back in the day, there was a major problem with people posting garbage comments on blogs or forms so they could get back links to there site. Every time they made a new post they would get anther back link and there ranking would rise.
 
 Then google and yahoo introduced the nofollow link parameter that tells a search engine not to add rank to link in a comments section. Over night all the sites that have been posting garbage on blogs and forms dropped out of the ranking. The level of garbage comments dropped significantly but so did the lagitamit comments too. Since people where not getting any benefit from making a comment people stoped taking the time to leave them.

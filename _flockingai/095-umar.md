@@ -4,7 +4,10 @@ species: Tawny Frogmouth
 text-keywords: 
 post_date: 2022-11-24 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/095-umar.png
 prompt: Tawny Frogmouth, BIRD, swimming in a glowing cave pool full of pink lotus flowers, gemstones on cave walls, ornate, gorgeous, cinematic, editorial photography, high fashion, ornate necklaces

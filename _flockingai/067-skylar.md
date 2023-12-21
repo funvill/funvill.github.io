@@ -4,7 +4,10 @@ species: Angry Roarer
 text-keywords: 
 post_date: 2022-10-27 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/067-skylar.png
 prompt: BIRD, roaring anger exploding into a violent scream, abstract

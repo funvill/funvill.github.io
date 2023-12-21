@@ -4,7 +4,10 @@ species: Brushstroke Bluebird
 text-keywords: 
 post_date: 2023-02-17 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/181-blake.png
 prompt: pretty cool anime asian cyberpunk BIRD, with cup of coffee, brush strokes, painterly, impressionist style, half painted , on a white background

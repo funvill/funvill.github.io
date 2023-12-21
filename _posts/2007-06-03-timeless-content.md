@@ -1,8 +1,13 @@
 ---
-title: Timeless content 
+title: "Timeless content"
 date: 2007-06-03 09:00:00
-categories: Tips Development
+categories:
+- Tips
+- Development
+slug: timeless-content
+
 ---
+
 <img src="/public/uploads/2007/06/clockicon.jpg" alt="clockicon.jpg" align="right" />I have talked before about <a href="/23-tips-for-writing-good-blog-posts-and-articles/">creating timeless content</a> but never in detail till now. Its one of the first things I check when searching for content is when it was written.
 
 <strong>Content is king.</strong>

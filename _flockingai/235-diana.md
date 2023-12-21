@@ -4,7 +4,10 @@ species: Interstellar Ibis
 text-keywords: 
 post_date: 2023-04-12 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/235-diana.png
 prompt: aliens bird from another world, 60s , on a white background

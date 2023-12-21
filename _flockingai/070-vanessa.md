@@ -4,7 +4,10 @@ species: Blue Afro Chicken
 text-keywords: 
 post_date: 2022-10-30 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/070-vanessa.png
 prompt: BIRD, Halloween, adorable happy cute feathery chicken with , big blue eyes, cartoons, Sanrio style, hyperdetailed photo, finely detailed, portrait lighting

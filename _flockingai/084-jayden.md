@@ -4,7 +4,10 @@ species: Horizon Eagle
 text-keywords: 
 post_date: 2022-11-13 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/084-jayden.png
 prompt: Philippine Eagle, BIRD, tree of life, avatar, universe, event horizon, colorful, night, unreal engine, realistic, ultra detailed, complex detailed, insane details, hyperrealism, hyperdetail, emphasis photorealistic, 32k post-production, HDR, Nikon D800 Super Telephoto, hyper realistic, cinematic composition, cinematic lighting

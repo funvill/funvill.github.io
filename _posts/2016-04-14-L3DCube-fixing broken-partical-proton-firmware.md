@@ -1,7 +1,10 @@
 ---
-title: Fixing a broken particle photon firmware in windows for the L3D Cube
+title: "Fixing a broken particle photon firmware in windows for the L3D Cube"
 date: 2016-04-14 22:39:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: l3dcube-fixing broken-partical-proton-firmware
+
 ---
 
 After lending my [L3D cube](http://www.cubetube.org/) to a friend for a few weeks it came back with a red SOS blinking pattern on the photon. I tried following particle's [instructions for recovering the photon](https://docs.particle.io/guide/getting-started/connect/photon/) from a red SOS but they never worked as the drivers for the photon for the DFU mode. 

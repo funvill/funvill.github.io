@@ -4,7 +4,10 @@ species: Ketamine Kingfisher
 text-keywords: 
 post_date: 2023-03-17 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/209-derek.png
 prompt: bird on Ketamine tripping

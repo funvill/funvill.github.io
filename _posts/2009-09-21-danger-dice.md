@@ -1,8 +1,14 @@
 ---
-title: Danger Dice
+title: "Danger Dice"
 date: 2009-09-21 12:48:00
-categories: Dice Drinking Games
+categories:
+- Dice
+- Drinking
+- Games
+slug: danger-dice
+
 ---
+
 Danger Dice is a Drinking game
 
 <strong>What you need to play</strong>

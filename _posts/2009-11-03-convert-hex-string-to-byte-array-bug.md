@@ -1,8 +1,13 @@
 ---
-title: Convert HEX string to BYTE array, bug. 
+title: "Convert HEX string to BYTE array, bug."
 date: 2009-11-03 10:20:00
-categories: Development Tips
+categories:
+- Development
+- Tips
+slug: convert-hex-string-to-byte-array-bug
+
 ---
+
 Find the bug in the following code and win a prize.
 Its obvious once you find it. CSharp programmers are asked not to mock c++ in this thread. 
 

@@ -1,7 +1,12 @@
 ---
-title: Audio Player Wordpress Plugin
+title: "Audio Player Wordpress Plugin"
 date: 2007-03-12 16:50:00
-categories: Media Tips Development
+categories:
+- Media
+- Tips
+- Development
+slug: audio-player-wordpress-plugin
+
 ---
 
 <p align="left"><a href="/public/uploads/2007/03/137px-speaker_iconsvg.gif" title="Speaker"><img src="/public/uploads/2007/03/137px-speaker_iconsvg.gif" alt="Speaker" align="right" /></a>While creating a post about <a href="/julie-feeney/">julie-feeney</a> a wonderful musician I wanted to post some streamable samples of her music.</p>

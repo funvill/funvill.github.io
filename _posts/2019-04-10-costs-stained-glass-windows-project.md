@@ -1,9 +1,11 @@
 ---
-title: Costs - Stained glass windows project
+title: "Costs - Stained glass windows project"
 date: 2019-04-10 00:01:00
-categories: 
-    - projects
-    - stainglass
+categories:
+- projects
+- stainglass
+slug: costs-stained-glass-windows-project
+
 ---
 
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 

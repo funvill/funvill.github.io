@@ -1,8 +1,10 @@
 ---
-title: Idea 095b - Dot Matrix water printer bike carriage
+title: "Idea 095b - Dot Matrix water printer bike carriage"
 date: 2023-05-02 01:35:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - art
 - graffiti
 - installtion
@@ -10,6 +12,8 @@ tags:
 - projects
 - ideas
 excerpt: A horizontal matrix of 16 water nozzles in a grid on bike carriage to draw with water on the sidewalk
+slug: idea095b-dot-matrix-water-printer-bike-carriage
+
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

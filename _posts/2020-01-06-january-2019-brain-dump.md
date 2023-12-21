@@ -1,14 +1,16 @@
 ---
-title: January 2020 brain dump 
+title: "January 2020 brain dump"
 date: 2020-01-06 00:22:00
-categories: bookmarks
-tags: 
+categories:
+- bookmarks
+tags:
 - bookmarks
 - make
 - math
 toc: true
----
+slug: january-2019-brain-dump
 
+---
 
 Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes). Previous: [Jun 2019](/jun-2019-brain-dump/),  [Feb 2019](/feb-2019-brain-dump), [May 2018](/may-2018-brain-dump), [Nov 2018](/nov-2018-brain-dump), [May 2018](/may-2018-brain-dump), [Jan 2018](/january-2018-brain-dump), [May 2017](/notes-from-may_2017), [April 2017](/notes-from-april_2017), [March 2017](/notes-from-march_2017). 
 

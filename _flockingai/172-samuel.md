@@ -4,7 +4,10 @@ species: Glistening Glimmer
 text-keywords: 
 post_date: 2023-02-08 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/172-samuel.png
 prompt: BIRD, gull ornate pattern and abstract flowers and vines, gold and iridescent, Southern lights, purple, teal, soft pink, intricate pattern, maya render, maximum detail, UHD, 32k photorealistic, HDR, High octane render

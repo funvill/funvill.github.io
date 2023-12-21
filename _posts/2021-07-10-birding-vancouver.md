@@ -1,8 +1,11 @@
 ---
-title: Birding in Vancouver
+title: "Birding in Vancouver"
 date: 2021-07-10 00:22:00
-categories: Birds
+categories:
+- Birds
 toc: true
+slug: birding-vancouver
+
 ---
 
 Since the start of 2021 I have gotten really into birding. I am very new to this hobbie less then a year.

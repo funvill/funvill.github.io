@@ -4,7 +4,10 @@ species: Blossem Nightjar
 text-keywords: 
 post_date: 2022-12-10 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/111-katie.png
 prompt: cute bird water colors anthropomorphic Romantic with flowers

@@ -1,10 +1,10 @@
 ---
-title: Tender Threads -- Bloodshots Canada 2012
+title: "Tender Threads -- Bloodshots Canada 2012"
 date: 2012-10-22 15:25:00
-categories: 
-    - Media 
-    - Projects
-tags: 
+categories:
+- Media
+- Projects
+tags:
 - bloodshots
 - Canada
 - funny
@@ -16,7 +16,10 @@ tags:
 - Vancouver
 - Video
 - youtube
+slug: tender-threads-bloodshots-canada-2012
+
 ---
+
 <iframe src="http://www.youtube.com/embed/V2WSue9zmn4" frameborder="0" width="480" height="360"></iframe>
 <blockquote>Team Failure's Entry in the <a href="http://2012.bloodshotscanada.com/">Bloodshots Canada 2012</a> 48-Hour Horror Short Film Competition
 

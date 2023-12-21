@@ -1,8 +1,11 @@
 ---
-title: January 2018 brain dump
+title: "January 2018 brain dump"
 date: 2018-01-31 00:01:00
-categories: bookmarks
+categories:
+- bookmarks
 toc: true
+slug: january-2018-brain-dump
+
 ---
 
 Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post ([1](/notes-from-may_2017), [2](/notes-from-april_2017), [3](/notes-from-march_2017) ). (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes) 

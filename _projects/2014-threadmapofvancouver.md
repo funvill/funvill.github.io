@@ -2,7 +2,13 @@
 title: (2014) Thread Map of Vancouver 
 excerpt: Laser cut map of vancouver with GPS heat map of a years worth of travel.
 categories: Art Projects Maps
-tags: Art maps Projects thread Vancouver yarn
+tags: 
+- Art
+- maps
+- Projects
+- thread
+- Vancouver
+- yarn
 post_date: 2014-01-01 00:00:00
 header:
   teaser: /public/uploads/teaser_2014_thread_map_of_vancouver.png

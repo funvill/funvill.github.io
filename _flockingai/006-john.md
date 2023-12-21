@@ -4,7 +4,11 @@ species: Giant's Vulture
 text-keywords: 
 post_date: 2022-08-27 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Vulture
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Vulture
 header      :
   teaser    : /public/uploads/flockingai/006-john.png
 prompt: Migratory vulture bird + floating on a river + Orange great big beaked bird, feathers, great big beaked bird, bearded + Soft lighting , octane render, raytracing

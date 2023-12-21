@@ -4,7 +4,10 @@ species: Elven Jay
 text-keywords: 
 post_date: 2022-12-22 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/124-william.png
 prompt: manga, full color, a bird that dislikes worms on xmas

@@ -1,8 +1,13 @@
 ---
-title: 12 Tips for creating a killer landing page.
+title: "12 Tips for creating a killer landing page."
 date: 2007-06-01 09:00:00
-categories: Tips Development
+categories:
+- Tips
+- Development
+slug: 12-tips-for-creating-a-killer-landing-page
+
 ---
+
 <img src="/public/uploads/2007/05/writting.jpg" align="right" height="96" width="92" />Good landing pages are a key to creating conversations from your advertisement. It's the first page that your users see when they click on one of your ads its got to be exactly what they want.
 
 I created these tips for creating killer landing pages when I was helping a good friend of mine fixes his adwords campaign. I created landing pages and optimized his adwords campaign and in 2 months he was getting 7-10 times as many leads from his website as he once was. From 2 a day to 12-25 a day it a huge improvement and I ended up getting a nice bounce.

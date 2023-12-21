@@ -4,7 +4,10 @@ species: Sweet Sparrow
 text-keywords: 
 post_date: 2022-12-13 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/114-naomi.png
 prompt: bird made of rainbow lollipops

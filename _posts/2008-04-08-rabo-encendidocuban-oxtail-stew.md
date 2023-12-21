@@ -1,8 +1,12 @@
 ---
-title: Rabo Encendido(Cuban Oxtail Stew)
+title: "Rabo Encendido(Cuban Oxtail Stew)"
 date: 2008-04-08 00:55:00
-categories: recipes
+categories:
+- recipes
+slug: rabo-encendidocuban-oxtail-stew
+
 ---
+
 <img src="/public/uploads/2008/04/ox_tail_web.jpg" alt="ox_tail_web.jpg" align="right" /><strong>Ingredients</strong>
 <ul>
 	<li> 5 lbs oxtail, cut in 2 inch thick rounds</li>

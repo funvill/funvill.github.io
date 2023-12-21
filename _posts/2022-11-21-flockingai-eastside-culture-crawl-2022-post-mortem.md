@@ -1,15 +1,16 @@
 ---
-title: FlockingAI - Eastside Culture Crawl 2022 post mortem 
+title: "FlockingAI - Eastside Culture Crawl 2022 post mortem"
 date: 2022-11-21 00:01:00
-categories: 
-tags: 
+categories: null
+tags:
 - art
 - gallery
 - projects
 - AI
 - Vancouver
-header      :
-  teaser    : /public/uploads/2022/flockingai-wall.jpg
+header: [object Object]
+slug: flockingai-eastside-culture-crawl-2022-post-mortem
+
 ---
 
 Most mortem for the [Flocking AI](https://blog.abluestar.com/projects/2022-flocking-ai/) project at [Maker labs](https://www.makerlabs.com/) for [Eastside Culture Crawl](https://culturecrawl.ca) on November 28th, 2022

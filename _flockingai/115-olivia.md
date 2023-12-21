@@ -4,7 +4,10 @@ species: Bubble Sparrow
 text-keywords: 
 post_date: 2022-12-14 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/115-olivia.png
 prompt: Magical Realism bird small world

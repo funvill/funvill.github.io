@@ -1,8 +1,14 @@
 ---
-title: Intro to Making Puppets workshop on Saturday, December 7, 2013
+title: "Intro to Making Puppets workshop on Saturday, December 7, 2013"
 date: 2013-11-24 13:00:00
-categories: Projects  Vancouver
+categories:
+- Projects
+- 
+- Vancouver
+slug: intro-to-making-puppets-workshop-on-saturday-december-7-2013
+
 ---
+
 I'm running another puppet workshop at VHS
 <p style="padding-left: 30px;"><strong><a href="http://vancouver.hackspace.ca/wp/2013/11/22/intro-to-making-puppets-workshop-on-saturday-december-7-2013/">Intro to Making Puppets workshop on Saturday, December 7, 2013</a></strong></p>
 <img class="alignright" alt="" src="http://vancouver.hackspace.ca/wp/wp-content/uploads/2013/11/puppets071-300x225.jpg" width="300" height="225" />

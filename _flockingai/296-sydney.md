@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-06-12 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/296-sydney.png
 prompt: BIRD knight, mushroom dungeon background, illustrated by Naoyuki Kato

@@ -4,7 +4,10 @@ species: Blushed sparrow
 text-keywords: black face, pink head and shoulders feathers, large white or yellow eyes. Mostly eats worms by digging at the ground. Nests in holes in trees made by other animals
 post_date: 2022-09-09 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/019-wanda.png
 prompt: Wanda Gag style of a cute Bird

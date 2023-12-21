@@ -1,8 +1,14 @@
 ---
-title: Six-Six-Six
+title: "Six-Six-Six"
 date: 2010-06-14 15:41:00
-categories: Dice Gambling Games
+categories:
+- Dice
+- Gambling
+- Games
+slug: six-six-six
+
 ---
+
 Six-six-six is a dice game.
 A simple gambling game where the object is to bluff your roll on three dice.
 

@@ -4,7 +4,11 @@ species: Quilted Owl
 text-keywords: vibrant,  American fiber artist, quilting, Black life, adorned with and made up of the cloth of our ancestor, bright jewel tones
 post_date: 2022-08-28 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Owl
+tags:
+- FlockingAI
+- Birds
+- MidJourney
+- Owl
 header      :
   teaser    : /public/uploads/flockingai/007-george.png
 prompt: Bisa Butler style of a cute owl

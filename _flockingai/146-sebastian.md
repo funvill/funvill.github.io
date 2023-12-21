@@ -4,7 +4,10 @@ species: Boneblade Runner
 text-keywords: 
 post_date: 2023-01-13 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/146-sebastian.png
 prompt: raptor bird mixed with a dragon

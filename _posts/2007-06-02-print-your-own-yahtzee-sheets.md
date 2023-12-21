@@ -1,8 +1,13 @@
 ---
-title: Print your own Yahtzee sheets
+title: "Print your own Yahtzee sheets"
 date: 2007-06-02 09:00:00
-categories: Dice Games
+categories:
+- Dice
+- Games
+slug: print-your-own-yahtzee-sheets
+
 ---
+
 <img src="/public/uploads/2007/05/dice.thumbnail.jpg" align="right" height="85" width="128" />After writing about <a href="/yahtzee-strategies/">Yahtzee strategies</a> last week I got the nostalgic for the old game and wanted to play it once more. I did a quick google search for some score sheets and didn't find any that look good or printed well, so I made my own but instead of calling it Yahtzee I called it Roll the dice. Not the most inventive name but it works.
 
 You can print your own <a href="http://www.abluestar.com/utilities/roll_the_dice/">roll the dice sheets</a> also available in <a href="/public/uploads/2007/05/roll-the-dice.pdf">PDF format</a>.

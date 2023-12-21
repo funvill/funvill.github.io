@@ -4,7 +4,11 @@ species: Shock Owl
 text-keywords: medium size owl, brown-ish color that blends into the forest trees, very shy and almost never seen, eats rodents, Its feathers look like plated layered on top of each other.
 post_date: 2022-09-06 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Owl
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Owl
 header      :
   teaser    : /public/uploads/flockingai/016-amiria.png
 prompt: Amiria Gale style of a cute owl

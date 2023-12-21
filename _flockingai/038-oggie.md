@@ -4,7 +4,10 @@ species: ogler
 text-keywords: black face, white eyes, egg shaped body, red and yellow colors, swirls, poke-a-dots. 
 post_date: 2022-09-28 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/038-oggie.png
 prompt: Yayoi Kusama style of a cute Bird + cute Bird

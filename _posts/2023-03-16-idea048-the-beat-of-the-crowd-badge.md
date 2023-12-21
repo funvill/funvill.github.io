@@ -1,12 +1,16 @@
 ---
-title: Idea 048 - The beat of the crowd - badge
+title: "Idea 048 - The beat of the crowd - badge"
 date: 2023-03-16 00:48:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - pcb
 - projects
 - ideas
 excerpt: Radio badge that pulses when other badges are nearby
+slug: idea048-the-beat-of-the-crowd-badge
+
 ---
 
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

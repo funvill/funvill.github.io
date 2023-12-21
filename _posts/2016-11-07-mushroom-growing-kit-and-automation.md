@@ -1,8 +1,12 @@
 ---
-title: Mushroom growing kit and automation
+title: "Mushroom growing kit and automation"
 date: 2016-11-07 00:01:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: mushroom-growing-kit-and-automation
+
 ---
+
 In the middle of Oct, I attended a talk by [Paul Stamets](http://www.fungi.com/about-paul-stamets.html) about Mushroom Mycelium & The Worldwide Food Web. Specifically about how Bees and Mycelium are linked and his research into different uses of mushroom mycelium. Paul Stamets also did a convincing TED talk [Paul Stamets: 6 ways mushrooms can save the world](https://www.ted.com/talks/paul_stamets_on_6_ways_mushrooms_can_save_the_world?language=en) in 2008. He wrote several books including [The Mushroom Cultivator: A Practical Guide to Growing Mushrooms at Home](https://www.amazon.ca/Mushroom-Cultivator-Practical-Growing-Mushrooms/dp/0961079800). A leader in Mushroom/Mycelium/fungi. Paul Stamets talk convinced me to take a closer look into mushroom cultivation.
 
 I went to the [Mushroom show](https://drive.google.com/file/d/0BzEBCDgmgRrFNmlmcEhVbjZIeWM/view) by [Vancouver Mycological Society](http://vanmyco.com/) at [VanDusen Botanical Garden](http://www.vandusengarden.org/). The show has many different varieties of mushrooms from all over the world as well as a very good collection from local BC. I took some [photos from the show](https://goo.gl/photos/6zK8ApKyohRBhV1q8) but it was very crowded and it was hard to get good photos to talk to many of the exhibitors. I did pick up an [oyster mushroom](https://en.wikipedia.org/wiki/Pleurotus_ostreatus) kit that the Mycological Society were selling as a fundraiser for the club.

@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-06-09 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/293-piper.png
 prompt: Hummingbird, anxiety, fear, chaos, darkness, abstract,

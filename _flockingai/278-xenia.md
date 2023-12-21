@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-05-25 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/278-xenia.png
 prompt: BIRD, Roaring Anger Exploding Into A Violent Scream, Abstract, artistic creative, Evny, Fear, Massness, destroyer of worlds, 

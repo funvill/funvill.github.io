@@ -1,8 +1,12 @@
 ---
-title: How to check your MAC address of your network cards
+title: "How to check your MAC address of your network cards"
 date: 2007-02-19 09:00:00
-categories: Tips
+categories:
+- Tips
+slug: how-to-check-your-mac-address-of-your-network-cards
+
 ---
+
 How to check your MAC address of your network cards
 1) Open a command prompt (Windows Start button-&gt; Run -&gt; Type "cmd" )
 2) Type "ipconfig /all"

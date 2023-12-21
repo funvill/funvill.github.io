@@ -4,7 +4,11 @@ species: Chinese Hill Partridge
 text-keywords: robe, spiky head feathers, small eyes, pointed beak 
 post_date: 2022-09-01 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney Peacock
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
+- Peacock
 header      :
   teaser    : /public/uploads/flockingai/011-alvin.png
 prompt: Chuck Close style of a cute peacock

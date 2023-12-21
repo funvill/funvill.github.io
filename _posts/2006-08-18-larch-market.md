@@ -1,8 +1,12 @@
 ---
-title: Larch Market
+title: "Larch Market"
 date: 2006-08-18 13:12:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: larch-market
+
 ---
+
 <a href="/public/uploads/2006/english_market_cheese.JPG" rel="lightbox"><img src="/public/uploads/2006/english_market_cheese.JPG" alt="english_market_cheese.JPG" title="english_market_cheese.JPG" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="150" width="200" /></a>
 <strong>LARCH MARKET</strong>
 A community bazaar

@@ -1,8 +1,13 @@
 ---
-title: What are RSS feeds and how to use them
+title: "What are RSS feeds and how to use them"
 date: 2007-03-08 12:29:00
-categories: Tips Development
+categories:
+- Tips
+- Development
+slug: what-are-rss-feeds-and-how-to-use-them
+
 ---
+
 <a href="/public/uploads/2007/03/100px-feed-iconsvg.png" title="RSS icon 100Ã—100"><img src="/public/uploads/2007/03/100px-feed-iconsvg.png" alt="RSS icon 100Ã—100" align="left" /></a><strong>What is an RSS feed? </strong>
 
 An RSS (Rich Site Summary) a format for delivering regularly changing web content, designed for Blogs, Newsgroups, ect.

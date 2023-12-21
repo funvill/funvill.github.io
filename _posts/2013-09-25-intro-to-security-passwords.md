@@ -1,8 +1,12 @@
 ---
-title: Intro to Security, Passwords 
+title: "Intro to Security, Passwords"
 date: 2013-09-25 21:20:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: intro-to-security-passwords
+
 ---
+
 <h1>Passwords</h1>
 <strong>Long passwords</strong>
 Longer passwords are better than random shorter passwords. The more entropy the more attempts a brute force attack will have to do to crack your password.

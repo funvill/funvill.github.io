@@ -1,8 +1,12 @@
 ---
-title: Office Parkour and ZombinLaden
+title: "Office Parkour and ZombinLaden"
 date: 2011-09-30 12:12:00
-categories: Media
+categories:
+- Media
+slug: office-parkour-and-zombinladen
+
 ---
+
 <a href="http://www.youtube.com/watch?v=QYm-dT24iRY&feature=player_embedded">Insane Office Escape (try this at work!) - Biting Elbows</a>
 Interesting music video, includes: free running, <a href="http://en.wikipedia.org/wiki/Parkour">parkour</a>, interesting fight sequence and camera angles. Well worth the 3mins it takes to watch it. 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/QYm-dT24iRY" frameborder="0" allowfullscreen></iframe>

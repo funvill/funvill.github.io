@@ -1,12 +1,16 @@
 ---
-title: Idea 087 - Crowd sourced life planner
+title: "Idea 087 - Crowd sourced life planner"
 date: 2023-04-24 01:27:00
-categories: ideas YearOfIdeas
-tags: 
+categories:
+- ideas
+- YearOfIdeas
+tags:
 - projects
 - saas
 - ideas
 excerpt: A website that uses flowcharts and other tools for helping with life choices all users submitted
+slug: idea087-crowd-sourced-life-planner
+
 ---
 
 > This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.

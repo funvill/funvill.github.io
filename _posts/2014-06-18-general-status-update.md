@@ -1,8 +1,12 @@
 ---
-title: General status update
+title: "General status update"
 date: 2014-06-18 00:16:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: general-status-update
+
 ---
+
 Its been 6 months since I last updated this site. Lots have been going on here are the highlights.
 
 <strong>Two factor authentication </strong>

@@ -1,8 +1,11 @@
 ---
-title: Notes from February 2017
+title: "Notes from February 2017"
 date: 2017-02-01 00:01:00
-categories: bookmarks
+categories:
+- bookmarks
 toc: true
+slug: notes-from-february_2017
+
 ---
 
 Some of the things that I have found interesting in February 2017.

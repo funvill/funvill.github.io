@@ -4,7 +4,10 @@ species: Gonzo Glint-gazer
 text-keywords: 
 post_date: 2023-03-18 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/210-ezra.png
 prompt: BIRD, hummingbird on drugs, looking in a mirror, mirroed glasses, exaggerate, transmetropolitan, transhumanist, gonzo

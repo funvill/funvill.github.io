@@ -4,7 +4,10 @@ species: Voltage Vulture
 text-keywords: 
 post_date: 2023-02-18 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/182-cody.png
 prompt: villian bird who controls electricity, cartoon, duck tails

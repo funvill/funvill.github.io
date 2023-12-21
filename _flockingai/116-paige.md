@@ -4,7 +4,10 @@ species: Yellow Paper Robin
 text-keywords: 
 post_date: 2022-12-15 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/116-paige.png
 prompt: yellow throat bunting made of layered paper

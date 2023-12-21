@@ -4,7 +4,10 @@ species: Ember Emberling
 text-keywords: 
 post_date: 2023-01-21 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/154-angelina.png
 prompt: BIRD, a beautiful thrush carrying a burning torch through the pitch black of the void, high quality, hyper realistic, cinematic, 8k

@@ -4,7 +4,10 @@ species: Joyful Moonbird
 text-keywords: Red, blue, brown, white, owl like beak, big eyes
 post_date: 2023-04-20 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/243-luna.png
 prompt: BIRD, happy, loving, joyful, moon, in love, bed room eyes, Abstract, 

@@ -1,8 +1,12 @@
 ---
-title: The problems with sending a lot of emails.
+title: "The problems with sending a lot of emails."
 date: 2013-11-28 21:20:00
-categories: Rants
+categories:
+- Rants
+slug: the-problems-with-sending-a-lot-of-emails
+
 ---
+
 One of my side projects is a daily fiction magazines called <a href="http://www.everydayfiction.com/">EveryDayFiction.com</a>. We take user submitted stories of 1000 words or less. Give feedback on every submitted story, select the best stories, and publish a new story each and every day. We even pay our authors! We have been operating since 2007 and we have published 2500+ stories.
 <h3><strong>We send a lot of emails </strong></h3>
 We have 6,000+ email subscribers and we are growing by about ~100 new subscribers every month. Everyday we send all our subscribers a new story via email. On average we are sending ~2,190,000 email a month (6000 subscribers * 365 days = 2,190,000 emails) that is a lot of emails!

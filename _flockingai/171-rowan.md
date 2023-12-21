@@ -4,7 +4,10 @@ species: Inked Illusion
 text-keywords: 
 post_date: 2023-02-07 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/171-rowan.png
 prompt: BIRD, crescendo of oil paints, watercolors, pen and ink human triumph of science and art over ignorance and greed

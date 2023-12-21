@@ -1,8 +1,16 @@
 ---
-title: RGB LED POV Globe - Research LED
+title: "RGB LED POV Globe - Research LED"
 date: 2011-03-21 12:55:00
-categories: Development News Projects  Tips
+categories:
+- Development
+- News
+- Projects
+- 
+- Tips
+slug: rgb-led-pov-globe-research-led
+
 ---
+
 <a href="/public/uploads/2011/03/piranha.jpg"><img class="alignright size-thumbnail wp-image-1385" title="piranha" src="/public/uploads/2011/03/piranha-150x150.jpg" alt="" width="150" height="150" /></a>I started searching for a LED to use in this project.
 
 Normally I would go to my local electronics supply story, but this project requires lots (~64) of LEDs and my <a href="http://www.leeselectronic.com/">local electronics store</a> charges a premium for the LEDs, (@<a href="http://www.leeselectronic.com/product_info.php?products_id=9004">1.50 each</a>) and I know I can get them for cheaper then that.

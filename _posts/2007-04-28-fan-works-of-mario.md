@@ -1,8 +1,13 @@
 ---
-title: Fan works of Mario 
+title: "Fan works of Mario"
 date: 2007-04-28 09:00:00
-categories: Games Media
+categories:
+- Games
+- Media
+slug: fan-works-of-mario
+
 ---
+
 <img src="/public/uploads/2007/04/mario_mushroom.jpg" alt="mario_mushroom.jpg" title="mario_mushroom.jpg" align="right" border="0" height="64" width="96" />There is not a kid in my elementary school that hadn't heard of Mario by the time he was twelve, its ingrained in to our childhood.  Mario and his friends will always have a special spot in our hearts.
 
 Because there are so many fans of Mario and his friends after a while fan art, fan movies, fan flash animations start to pop up.

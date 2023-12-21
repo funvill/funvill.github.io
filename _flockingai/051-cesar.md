@@ -4,7 +4,10 @@ species: Lucha libre weaver
 text-keywords: 
 post_date: 2022-10-11 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/051-cesar.png
 prompt: a bird that is also a mexican wrestler

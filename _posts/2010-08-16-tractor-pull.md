@@ -1,8 +1,13 @@
 ---
-title: Tractor Pull
+title: "Tractor Pull"
 date: 2010-08-16 16:06:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: tractor-pull
+
 ---
+
 Tractor Pull is a drinking game.
 
 <strong>What you Need to Play</strong>

@@ -4,7 +4,10 @@ species: Electric Emerald Parrot
 text-keywords: 
 post_date: 2023-04-04 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/227-violet.png
 prompt: bird on MDMA trip, manga

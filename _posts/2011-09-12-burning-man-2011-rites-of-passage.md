@@ -1,8 +1,12 @@
 ---
-title: Burning Man 2011 - Rites of Passage
+title: "Burning Man 2011 - Rites of Passage"
 date: 2011-09-12 20:18:00
-categories: Media
+categories:
+- Media
+slug: burning-man-2011-rites-of-passage
+
 ---
+
 I didn't take too many PG pictures, So here are others videos. Amazing year.
 
 My favorite art installation

@@ -1,8 +1,13 @@
 ---
-title: The Giant Claw Game! - The Claw Research, Version 1
+title: "The Giant Claw Game! - The Claw Research, Version 1"
 date: 2013-04-10 19:34:00
-categories: News Projects
+categories:
+- News
+- Projects
+slug: the-giant-claw-game-the-claw-research-version-1
+
 ---
+
 Now that I got my controller working and the stepper motors moving with a RAMPs board, I decided to get started on The Claw. I knew that I would have to go thought a bunch of iterations of the claw before getting one that I liked so I wanted to start early.
 
 I knew I wanted a 3 pronged claw to make it easier to pick up the balloons. I need it to be as light as possible so that the motors could lift it. If it had to have some electronics in the claw its self then I wanted them to be as simple as possible.

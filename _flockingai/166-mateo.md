@@ -4,7 +4,10 @@ species: Fancy French Fowl
 text-keywords: 
 post_date: 2023-02-02 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/166-mateo.png
 prompt: a bird with a FU MANCHU mustache styles, Dr. Fu Manchu. , on a white background

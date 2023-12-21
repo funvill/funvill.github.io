@@ -4,7 +4,10 @@ species: Rocker Parakeet
 text-keywords: 
 post_date: 2022-11-11 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/082-hailey.png
 prompt: high color acrylic painting of a punk rock BIRD at a concert, by Lucy Hardie and Tom Doyle and Daniel Nguyen, environment by Mark Ryden, hyper detailed, manga, finely detailed eyes, doe eyes, intricately detailed environment, dynamic color

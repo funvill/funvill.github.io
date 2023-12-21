@@ -1,13 +1,14 @@
 ---
-title: ESP8266 + Neopixel + FastLED - Workshop slides 
+title: "ESP8266 + Neopixel + FastLED - Workshop slides"
 date: 2019-04-16 00:01:00
-categories: 
-    - Workshops
+categories:
+- Workshops
 tags:
-    - Workshops
-    - LEDs
-    - FastLED
-    - Slides
+- Workshops
+- LEDs
+- FastLED
+- Slides
+slug: esp8266_neopixel_fastled_workshop_slides
 
 ---
 

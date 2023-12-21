@@ -4,7 +4,10 @@ species: Drenched Babbler
 text-keywords: 
 post_date: 2022-12-07 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/108-hannah.png
 prompt: cute bird water colors anthropomorphic

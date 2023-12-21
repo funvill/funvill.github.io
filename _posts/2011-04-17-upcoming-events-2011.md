@@ -1,8 +1,12 @@
 ---
-title: Upcoming events for this summer 
+title: "Upcoming events for this summer"
 date: 2011-04-17 14:20:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: upcoming-events-2011
+
 ---
+
 <div><strong>Upcoming events for this summer </strong></div>
 <ul>
 	<li>April 22nd <a href="http://www.facebook.com/event.php?eid=195473433821256">Love in the Dark feat Glitchy &amp; Scratchy (reunion set!!)</a></li>

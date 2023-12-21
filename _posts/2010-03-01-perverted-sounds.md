@@ -1,8 +1,13 @@
 ---
-title: Perverted Sounds
+title: "Perverted Sounds"
 date: 2010-03-01 16:32:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: perverted-sounds
+
 ---
+
 Perverted Sounds is a drinking word game.
 
 <strong>What you need to play</strong>

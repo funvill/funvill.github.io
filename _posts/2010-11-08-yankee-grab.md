@@ -1,8 +1,13 @@
 ---
-title: Yankee Grab
+title: "Yankee Grab"
 date: 2010-11-08 20:21:00
-categories: Dice Games
+categories:
+- Dice
+- Games
+slug: yankee-grab
+
 ---
+
 Yankee Grab is a dice game based on a game known as Going to Boston, Going to town and Newmarket.
 
 <strong>What you Need to Play</strong>

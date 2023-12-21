@@ -4,7 +4,10 @@ species: Birdus fluffus
 text-keywords: 
 post_date: 2022-11-01 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/072-xavier.png
 prompt: BIRD, Soft feathers cannot make a cruel bird kind

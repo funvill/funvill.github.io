@@ -1,8 +1,12 @@
 ---
-title: Laser cut, layered circles
+title: "Laser cut, layered circles"
 date: 2014-10-10 18:29:00
-categories: LaserCutter
+categories:
+- LaserCutter
+slug: laser-cut-layered-circles
+
 ---
+
 Its 5 layers, I only have one color of paper so it kind of hard to distinguish between the different layers.
 
 <strong>Sloppy tutorial</strong>

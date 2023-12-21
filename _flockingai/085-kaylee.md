@@ -4,7 +4,10 @@ species: Rainbow Kakapo
 text-keywords: 
 post_date: 2022-11-14 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/085-kaylee.png
 prompt: rainbow Kakapo BIRD, white background, hyper detailed, ultra realistic, 8k hd

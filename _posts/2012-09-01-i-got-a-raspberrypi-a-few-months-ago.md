@@ -1,8 +1,16 @@
 ---
-title: I got a RaspberryPI (a few months ago) 
+title: "I got a RaspberryPI (a few months ago)"
 date: 2012-09-01 00:01:00
-categories: Development  Projects  RaspberryPI
+categories:
+- Development
+- 
+- Projects
+- 
+- RaspberryPI
+slug: i-got-a-raspberrypi-a-few-months-ago
+
 ---
+
 <a href="/public/uploads/2012/08/IMG_4793.jpg"><img class="alignright size-medium wp-image-2834" title="IMG_4793" src="/public/uploads/2012/08/IMG_4793-300x225.jpg" alt="" width="300" height="225" /></a>I got a <a href="http://www.raspberrypi.org/">RaspberryPI</a> a few months ago, but with <a href="http://vancouver.makerfaire.ca/">Vancouver Maker Faire</a> and the <a href="http://vancouver.hackspace.ca/wp/2012/08/30/call-for-letters-of-support/">281 proposal</a> and all the other things going on in my life I just never got around to playing with it.
 <blockquote><strong>What&quot;s a Raspberry Pi?</strong>
 The Raspberry Pi is a credit-card sized computer that plugs into your TV and a keyboard. It&quot;s a capable little PC which can be used for many of the things that your desktop PC does, like spreadsheets, word-processing and games. It also plays high-definition video. We want to see it being used by kids all over the world to learn programming.</blockquote>

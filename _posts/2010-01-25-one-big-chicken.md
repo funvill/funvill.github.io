@@ -1,8 +1,13 @@
 ---
-title: One Big Chicken
+title: "One Big Chicken"
 date: 2010-01-25 15:49:00
-categories: Drinking Games
+categories:
+- Drinking
+- Games
+slug: one-big-chicken
+
 ---
+
 One Big Chicken is a drinking game.
 
 <strong>What you need to play</strong>

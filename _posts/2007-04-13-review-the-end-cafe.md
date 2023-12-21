@@ -1,7 +1,10 @@
 ---
-title: Review - The End Cafe
+title: "Review - The End Cafe"
 date: 2007-04-13 09:00:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: review-the-end-cafe
+
 ---
 
 <p style="text-align: center"><img src="/public/uploads/IMG_0100.jpg" alt="IMG_0100.jpg" title="IMG_0100.jpg" border="0" height="279" width="520" /></p>

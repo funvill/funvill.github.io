@@ -4,7 +4,10 @@ species: Cyber Finch
 text-keywords: 
 post_date: 2022-11-17 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/088-nova.png
 prompt: BIRD, colorful Hyper cluttered detailed line art, ink, beautiful cyberpunk antbird finch portrait, cyberpunk, in the style of Geof Darrow, Mobius, Philippe Druillet, Hyper detailed, epic

@@ -1,8 +1,12 @@
 ---
-title: HO-HAI-YAN TAIWANESE CULTURAL FESTIVAL
+title: "HO-HAI-YAN TAIWANESE CULTURAL FESTIVAL"
 date: 2006-08-21 00:30:00
-categories: Vancouver
+categories:
+- Vancouver
+slug: ho-hai-yan-taiwanese-cultural-festival
+
 ---
+
 <a href="/public/uploads/2006/tcf2006.jpg" rel="lightbox"><img src="/public/uploads/2006/tcf2006.jpg" alt="tcf2006.jpg" title="tcf2006.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="65" width="200" /></a>
 
 <strong>HO-HAI-YAN TAIWANESE CULTURAL FESTIVAL</strong>

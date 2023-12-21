@@ -1,8 +1,13 @@
 ---
-title: Origami Masters Exhibition
+title: "Origami Masters Exhibition"
 date: 2007-11-06 17:41:00
-categories: Art Vancouver
+categories:
+- Art
+- Vancouver
+slug: origami-masters-exhibition
+
 ---
+
  Although historically considered a children's pastime, origami has exploded in popularity and visibility in recent years.
 We are now in a Renaissance period in the history of the ancient art of paperfolding.
 Artists from around the world are embracing the medium, and new techniques are being constantly explored and created.

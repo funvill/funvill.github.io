@@ -1,8 +1,12 @@
 ---
-title: Mark Jenkins - Plastic babies 
+title: "Mark Jenkins - Plastic babies"
 date: 2007-03-22 13:56:00
-categories: Uncategorized
+categories:
+- Uncategorized
+slug: mark-jenkins-plastic-babbies
+
 ---
+
 How to make cheap plastic babies with plastic wrap and clear tape.
 
 <object height="350" width="425">

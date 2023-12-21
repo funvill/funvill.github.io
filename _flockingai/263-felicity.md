@@ -4,7 +4,10 @@ species:
 text-keywords: 
 post_date: 2023-05-10 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney 
+tags:
+- FlockingAI
+- Birds
+- MidJourney 
 header      :
   teaser    : /public/uploads/flockingai/263-felicity.png
 prompt: Flameflower This name combines the bird's hot, glowing appearance with its association with flowers. , on a white background

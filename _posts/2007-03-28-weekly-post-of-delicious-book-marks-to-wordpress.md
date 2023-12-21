@@ -1,10 +1,14 @@
 ---
-title: Weekly post of del.icio.us book marks to wordpress
+title: "Weekly post of del.icio.us book marks to wordpress"
 date: 2007-03-28 13:20:00
-categories: Bookmarks 
-tags: 
+categories:
+- Bookmarks
+tags:
 - Development
+slug: weekly-post-of-delicious-book-marks-to-wordpress
+
 ---
+
 <img src="/public/uploads/2007/03/delicious-icon.gif" alt="delicious-icon.gif" align="right" />Thank to the help of <a href="http://herebox.org/blog/2006/05/29/361/">herebox.org</a> I was able to add the ability to get new links from my del.icio.us account and post them on this site once a week. the script uses curl instead of fopen which is much more secure.
 
 I made a few changes to the script.

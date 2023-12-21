@@ -4,7 +4,10 @@ species: Eurasian Blue Tit
 text-keywords: Small bird, small beak, round head, tiny
 post_date: 2022-09-03 00:00:00
 categories: FlockingAI
-tags: FlockingAI Birds MidJourney
+tags:
+- FlockingAI
+- Birds
+- MidJourney
 header      :
   teaser    : /public/uploads/flockingai/013-chuck.png
 prompt: Weta FX style of a cute bird
