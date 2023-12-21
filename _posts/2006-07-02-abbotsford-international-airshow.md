@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Abbotsford International Airshow
-date: 2006-07-02 11:43
+date: 2006-07-02 11:43:00
 categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/ch124.jpg" id="image11" alt="Abbotsford International Airshow" align="right" />

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: HOW TO - Pre-sliced bananas
-date: 2007-04-27 09:00
+date: 2007-04-27 09:00:00
 categories: Uncategorized
 ---
 <a href="/public/uploads/banana_instructions.jpg" rel="lightbox"><img src="/public/uploads/banana_instructions.jpg" alt="banana_instructions.jpg" title="banana_instructions.jpg" border="0" height="666" width="500" /></a>

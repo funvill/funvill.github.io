@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Notes from April 2017
-date: '2017-04-01 00:01'
+date: 2017-04-01 00:01:00
 categories: bookmarks
 toc: true
 ---

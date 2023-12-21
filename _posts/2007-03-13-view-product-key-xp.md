@@ -1,7 +1,7 @@
 ---
 layout: single
 title: View Product Key XP
-date: 2007-03-13 17:10
+date: 2007-03-13 17:10:00
 categories: Tips Utility
 ---
 If you have more than one system running XP you have obviously purchased more than one copy of the Operating System. However you may have forgotten which Product Key you used for which system. It happens. I have 5 systems and have had all of them running XP at times. XP does not store the Product Key in a recognizable format in the registry.

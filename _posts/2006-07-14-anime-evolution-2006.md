@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Anime Evolution 2006
-date: 2006-07-14 11:50
+date: 2006-07-14 11:50:00
 categories: Vancouver
 ---
 

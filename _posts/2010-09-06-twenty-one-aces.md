@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Twenty-One Aces
-date: 2010-09-06 16:27
+date: 2010-09-06 16:27:00
 categories: Dice Drinking Games
 ---
 Twenty-One Aces is a dice drinking game.

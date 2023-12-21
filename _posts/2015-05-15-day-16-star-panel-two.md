@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 16 - Star panel two
-date: 2015-05-15 00:16
+date: 2015-05-15 00:16:00
 categories: YearOfMaking
 ---
 

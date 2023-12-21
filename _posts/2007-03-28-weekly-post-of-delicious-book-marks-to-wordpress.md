@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Weekly post of del.icio.us book marks to wordpress
-date: 2007-03-28 13:20
+date: 2007-03-28 13:20:00
 categories: Bookmarks 
 tags: Development Development
 ---

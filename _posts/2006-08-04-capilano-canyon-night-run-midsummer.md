@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Capilano Canyon Night Run (Midsummer)
-date: 2006-08-04 22:53
+date: 2006-08-04 22:53:00
 categories: Vancouver
 ---
 <a href="/public/uploads/2006/07/31134639.100_0025.JPG" rel="lightbox"><img src="/public/uploads/2006/07/31134639.100_0025.JPG" alt="31134639.100_0025.JPG" title="31134639.100_0025.JPG" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="200" width="150" /></a>

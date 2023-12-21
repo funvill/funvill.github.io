@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 87 - Burning man plaque
-date: 2015-08-23 01:27
+date: 2015-08-23 01:27:00
 categories: YearOfMaking
 ---
 

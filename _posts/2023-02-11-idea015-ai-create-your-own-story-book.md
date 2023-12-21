@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 015 - AI Create your own story book 
-date: '2023-02-11 00:15'
+date: 2023-02-11 00:15:00
 categories: ideas YearOfIdeas
 tags: ai stories art projects ideas
 excerpt: AI generated a personalized story book that incorporates information that you provide, following the common story types. Hero's journey, etc, made for kids

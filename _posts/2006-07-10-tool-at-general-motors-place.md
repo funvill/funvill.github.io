@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tool At General Motors Place
-date: 2006-07-10 11:53
+date: 2006-07-10 11:53:00
 categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/Tool_band_promopic_2006.jpg" id="image22" alt="Tool" align="right" width="300" />

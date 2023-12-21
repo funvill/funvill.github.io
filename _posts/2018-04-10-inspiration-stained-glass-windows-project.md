@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Inspiration - Stained glass windows project
-date: '2018-04-10 00:01'
+date: 2018-04-10 00:01:00
 categories:
     - projects
     - stainedglass

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Translink sucks in Vancouver.
-date: 2012-08-16 23:15
+date: 2012-08-16 23:15:00
 categories: rant
 tags: Canada rant travel Vancouver
 ---

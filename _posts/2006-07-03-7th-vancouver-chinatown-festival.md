@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 7th Vancouver Chinatown Festival
-date: 2006-07-03 11:44
+date: 2006-07-03 11:44:00
 categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/f_02.jpg" id="image12" alt="7th Vancouver Chinatown Festival " align="right" />

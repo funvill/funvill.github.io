@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Programming Competition Prisoners Dilemma
-date: 2012-10-25 00:01
+date: 2012-10-25 00:01:00
 categories: Development
 tags: c code Competition contests Development experiment Games github News programming project VHS
 ---

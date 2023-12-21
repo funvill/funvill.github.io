@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Arroy-d - Best Thai in vancouver
-date: 2007-03-27 12:47
+date: 2007-03-27 12:47:00
 categories: Vancouver
 ---
 <a href="/public/uploads/2007/03/dsc00052.jpg" title="Arroy-d Thai"><img src="/public/uploads/2007/03/dsc00052.thumbnail.jpg" alt="Arroy-d Thai" align="right" /></a><strong>One of my new favorite spots</strong>

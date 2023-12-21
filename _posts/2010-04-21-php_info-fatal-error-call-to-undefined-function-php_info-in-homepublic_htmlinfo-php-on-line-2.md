@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fatal error: Call to undefined function: php_info() in /home/*/public_html/info.php on line 2"
-date: 2010-04-21 13:35
+date: 2010-04-21 13:35:00
 categories: Tips
 ---
 <strong>Source code:</strong>

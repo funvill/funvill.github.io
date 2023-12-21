@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The Importance Of Deep Linking
-date: 2007-03-15 14:51
+date: 2007-03-15 14:51:00
 categories: Development
 ---
  <a href="http://www.johnchow.com/the-importance-of-deep-linking/">www.Johnchow.com</a> has an excellent post about the importations of deep linking. With the advent of scrapers (A robot that reads blog posts <a href="/what-are-rss-feeds-and-how-to-use-them/">RSS feeds</a> and creates copies of content for there own website)  alot of your content can be easily stolen but if you include some links to posts in your post they will be copied to the scrapers website and you should be able to get some [tag]SEO[/tag] benefits.

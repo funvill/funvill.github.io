@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Twenty One
-date: 2010-08-30 16:18
+date: 2010-08-30 16:18:00
 categories: Dice Gambling Games
 ---
 Twenty one is a dice jeopardy approach game.

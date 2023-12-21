@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Current tools and equipment (2021)
-date: '2021-05-17 00:01'
+date: 2021-05-17 00:01:00
 categories: tools
 tags: tools software hardware
 excerpt: A list of my current tooks that I am using in 2021

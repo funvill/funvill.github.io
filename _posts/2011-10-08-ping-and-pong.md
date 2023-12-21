@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Ping and pong
-date: 2011-10-08 18:49
+date: 2011-10-08 18:49:00
 categories: Rants
 ---
 <strong><a href="http://en.wikipedia.org/wiki/Ping">Ping</a></strong>: A call out in to the void in search of another. To check the existence of life on the other end. To seek a connection. A normal response to ping is "pong"

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Troubleshooting CakePHP
-date: 2009-03-10 15:39
+date: 2009-03-10 15:39:00
 categories: Development
 tags: bug cakephp Development php Tips
 ---

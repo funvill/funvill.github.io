@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 017 - Traveling 3D printed sculptures
-date: '2023-02-13 00:17'
+date: 2023-02-13 00:17:00
 categories: ideas YearOfIdeas
 tags: 3dprinting sculptures art projects ideas
 excerpt: Traveling art exhibit of all the sculptures from a single great master 3d printed in marble

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 001 - Cherry Blossom Profile Photo Booths
-date: '2023-01-28 00:01'
+date: 2023-01-28 00:01:00
 categories: ideas YearOfIdeas 
 tags: ideas flowers photography projects
 excerpt: Set up a photo booth in a park when the cherry blossoms are blooming, offer to take free portrait photos to the public and use the experience to get better at portrait photography.

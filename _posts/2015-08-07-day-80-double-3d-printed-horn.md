@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 80 - Double 3D printed horn
-date: 2015-08-07 01:20
+date: 2015-08-07 01:20:00
 categories: YearOfMaking
 ---
 

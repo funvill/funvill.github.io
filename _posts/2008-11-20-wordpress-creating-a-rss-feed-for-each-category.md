@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Wordpress, Creating a RSS feed for each category.
-date: 2008-11-20 12:04
+date: 2008-11-20 12:04:00
 categories: Tips
 ---
 Have you ever wanted to create a RSS feed just for a perpendicular category in wordpress?

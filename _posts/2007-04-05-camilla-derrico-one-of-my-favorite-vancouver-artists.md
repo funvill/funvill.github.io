@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Camilla d'Errico - One of my favorite Vancouver artists  
-date: 2007-04-05 09:00
+date: 2007-04-05 09:00:00
 categories: Vancouver
 ---
 <a href="http://www.camilladerrico.com/"><img src="/public/uploads/Octopus_small_1.jpg" alt="Octopus_small_1.jpg" title="Octopus_small_1.jpg" align="right" border="0" height="240" width="300" /></a>

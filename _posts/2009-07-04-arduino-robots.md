@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Arduino Robots
-date: 2009-07-04 19:41
+date: 2009-07-04 19:41:00
 categories: Arduino Development
 ---
 <div>I bought a <a href="http://www.arduino.cc/">Arduino</a> board for a green house project I was planning to do sometime last year. To regulate the temperature, turn on and off lights and fans, data logging, ect. A friend ended up giving me some deadacated hardware making the Arduino project a lot of extra work for very little gain and I abandon it. This little board has been sitting on my shelf for the good part of a year collecting dust.</div>

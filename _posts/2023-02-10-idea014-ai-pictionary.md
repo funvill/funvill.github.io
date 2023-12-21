@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 014 - AI Pictionary
-date: '2023-02-10 00:14'
+date: 2023-02-10 00:14:00
 categories: ideas YearOfIdeas
 tags: puzzle art projects ideas
 excerpt: Like, Pictionary but an AI draws the picture and you try and guess the prompt that was used to generate the picture

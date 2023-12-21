@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 020 - Many styles of Vancouver
-date: '2023-02-16 00:20'
+date: 2023-02-16 00:20:00
 categories: ideas YearOfIdeas
 tags: art projects ideas
 excerpt: A photo of Vancouver’s skyline with each building painted over in a different artistic style

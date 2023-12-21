@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SMF - Redirect after reply or post 
-date: 2007-09-25 15:25
+date: 2007-09-25 15:25:00
 categories: Tips
 ---
 I just installed <a href="http://www.simplemachines.org/">Simple machine forum</a> (SMF) over at <a href="http://www.everydayfiction.com/forums/">EveryDayFiction.com</a>.

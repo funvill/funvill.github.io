@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 43 - Installing leds in the Hexagon star panel
-date: 2015-06-01 00:43
+date: 2015-06-01 00:43:00
 categories: YearOfMaking
 ---
 

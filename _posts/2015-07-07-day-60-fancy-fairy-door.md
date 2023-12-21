@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 60 - fancy fairy door
-date: 2015-07-07 01:00
+date: 2015-07-07 01:00:00
 categories: YearOfMaking
 ---
 

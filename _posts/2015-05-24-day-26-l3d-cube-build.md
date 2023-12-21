@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 26 - L3D cube build 
-date: 2015-05-24 00:26
+date: 2015-05-24 00:26:00
 categories: YearOfMaking
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Status update Feb 15
-date: 2011-02-14 16:07
+date: 2011-02-14 16:07:00
 categories: Arduino Development
 tags: Arduino Development Interesting Media News Vancouver
 ---

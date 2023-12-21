@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Reddit Holiday Greeting Card Exchange
-date: 2012-12-10 13:25
+date: 2012-12-10 13:25:00
 categories: Arduino
 ---
 <iframe src="http://www.youtube.com/embed/Fdsv9DUEuXg" frameborder="0" width="420" height="315"></iframe>

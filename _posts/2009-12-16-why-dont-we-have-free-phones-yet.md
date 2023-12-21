@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Why don't we have free phones yet?
-date: 2009-12-16 12:42
+date: 2009-12-16 12:42:00
 categories: Rants
 tags: android Arduino  cellphone openhardware opensource phone
 ---

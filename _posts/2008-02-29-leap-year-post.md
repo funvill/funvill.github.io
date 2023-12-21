@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Leap Year post!
-date: 2008-02-29 14:47
+date: 2008-02-29 14:47:00
 categories: Uncategorized
 ---
 February 29 is a date that only occurs once every four years, and is called leap day. This day is added to the calendar in leap years as a corrective measure, because the earth does not orbit around the sun in precisely 365.000 days.

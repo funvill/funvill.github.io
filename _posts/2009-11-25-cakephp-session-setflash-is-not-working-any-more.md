@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cakephp - Session->setFlash is not working any more. 
-date: 2009-11-25 12:13
+date: 2009-11-25 12:13:00
 categories: Development
 Tags: cakephp session setflash Tips
 ---

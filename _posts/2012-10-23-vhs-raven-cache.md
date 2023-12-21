@@ -1,7 +1,7 @@
 ---
 layout: single
 title: VHS raven cache
-date: 2012-10-23 00:01
+date: 2012-10-23 00:01:00
 categories: GeoCaching Projects
 tags: geocache GeoCaching geocoin News Projects Vancouver VHS
 ---

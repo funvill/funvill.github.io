@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  System Information for Windows
-date: 2007-04-21 09:00
+date: 2007-04-21 09:00:00
 categories: Utility
 ---
 

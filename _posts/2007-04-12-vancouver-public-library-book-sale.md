@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Vancouver Public Library - Book sale 
-date: 2007-04-12 09:00
+date: 2007-04-12 09:00:00
 categories: Vancouver
 ---
 <a href="http://www.vpl.vancouver.bc.ca/branches/LibrarySquare/circ/booksale.html"><img src="/public/uploads/VPL_1.jpg" alt="VPL_1.jpg" title="VPL_1.jpg" align="right" border="0" height="266" width="200" /></a>Its that time again <a href="http://www.vpl.vancouver.bc.ca/branches/LibrarySquare/circ/booksale.html">Vancouver Public Library annual book sale</a>, cheap books from $0.55- $2.25. Some of the books that they are selling off include; Adult and children's novels, Children's non-fiction books, Children's picture books, Pocket-sized fiction paperbacks, Large print books, Audio cassettes, Multilingual books, Magazines, Encyclopedia sets.

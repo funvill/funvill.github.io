@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Reporting the system stats of a Raspberry PI to COSM with python 
-date: 2013-03-27 00:05
+date: 2013-03-27 00:05:00
 categories: RaspberryPI
 ---
 <a href="https://cosm.com/">COSM</a> is a online data store of sensor data for the <a href="http://en.wikipedia.org/wiki/Internet_of_Things">internet of things</a>. You can use Cosm to store sensor data (light, temp, heat, etc...) from your internet enabled device (<a href="http://www.arduino.cc/">Arduino</a>, <a href="http://www.raspberrypi.org/">Raspberry PI</a>, etc) online and produce pretty graphs of the values as they change. Recently <a href="http://www.chipkin.com/">Chipkin Automation Systems</a> (The company I work for) <a href="http://www.chipkin.com/bacnet-ipmstp-to-cosm-data-logger/">added COSM as one of the supported drivers</a> on their <a href="http://www.chipkin.com/products/cas-gateways/">CAS Gateway device</a>.

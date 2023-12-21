@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 29 - Picture frame CNC Panel
-date: 2015-05-26 00:29
+date: 2015-05-26 00:29:00
 categories: YearOfMaking
 ---
 

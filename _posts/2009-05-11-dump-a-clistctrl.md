@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Dump a CListCtrl
-date: 2009-05-11 15:41
+date: 2009-05-11 15:41:00
 categories: devlopment
 tags: code cpp MFC programing snippet Tips
 ---

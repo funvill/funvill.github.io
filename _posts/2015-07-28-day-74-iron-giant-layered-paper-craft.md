@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 74 - Iron giant layered paper craft
-date: 2015-07-28 01:14
+date: 2015-07-28 01:14:00
 categories: YearOfMaking
 ---
 

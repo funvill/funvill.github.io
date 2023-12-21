@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 47 - Twelve sided star
-date: 2015-06-04 00:47
+date: 2015-06-04 00:47:00
 categories: YearOfMaking
 ---
 

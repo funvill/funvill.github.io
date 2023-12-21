@@ -1,7 +1,7 @@
 ---
 layout: single
 title: I visited Hacklab hackerspace
-date: 2012-10-09 00:01
+date: 2012-10-09 00:01:00
 categories: Travel
 tags: hackspace Interesting photos travel
 ---

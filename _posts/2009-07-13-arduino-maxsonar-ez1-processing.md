@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Arduino + Maxsonar EZ1 + Processing 
-date: 2009-07-13 14:08
+date: 2009-07-13 14:08:00
 categories: Arduino Development
 tags: Arduino csv Development GUI MaxSonarEZ1 Processing visualization
 ---

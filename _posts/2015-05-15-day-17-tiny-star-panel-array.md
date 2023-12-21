@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 17 - Tiny Star panel array
-date: 2015-05-15 00:17
+date: 2015-05-15 00:17:00
 categories: YearOfMaking
 ---
 

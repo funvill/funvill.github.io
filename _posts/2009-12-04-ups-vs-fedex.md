@@ -1,7 +1,7 @@
 ---
 layout: single
 title: UPS vs FedEx 
-date: 2009-12-04 10:38
+date: 2009-12-04 10:38:00
 categories: Rants
 ---
 I ordered some cables from this online store in the states (I live in Canada) the cost in goods was $30 for both packages.

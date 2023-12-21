@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Super Happy Crafter House 1.0
-date: 2011-02-20 01:29
+date: 2011-02-20 01:29:00
 categories: Uncategorized Media Vancouver
 ---
 A short timelaps video from <a href="http://vancouver.hackspace.ca/wp/2011/02/15/super-happy-crafter-house-i-saturday-february-19th/">Super Happy Crafter House 1.0</a>

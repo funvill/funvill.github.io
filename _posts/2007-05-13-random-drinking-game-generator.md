@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Random drinking game generator
-date: 2007-05-13 09:00
+date: 2007-05-13 09:00:00
 categories: Games Utility
 ---
 <img src="/public/uploads/Tetley_Beer_100.jpg" align="right" height="112" width="100" />While doing research for an article that I was writing on the drinking game <a href="/drinking-game-kings-cup/">King's cup</a>. I found that most drinking games all have the same sort of rules. Draw a card, roll a dice then follow the rule associated with that card or dice.

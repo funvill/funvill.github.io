@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 55 - fairy door arch 
-date: 2015-07-07 00:55
+date: 2015-07-07 00:55:00
 categories: YearOfMaking
 ---
 

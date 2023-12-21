@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 069 - One Liners
-date: '2023-04-06 01:09'
+date: 2023-04-06 01:09:00
 categories: ideas YearOfIdeas
 tags: projects ideas
 excerpt: All the bad one liner ideas that wont get developed into anything

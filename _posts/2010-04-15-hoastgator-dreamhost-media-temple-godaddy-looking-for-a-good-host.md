@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Looking for a new host 
-date: 2010-04-15 12:42
+date: 2010-04-15 12:42:00
 categories: Development
 ---
 I been with a bunch of different hosts over the past few years

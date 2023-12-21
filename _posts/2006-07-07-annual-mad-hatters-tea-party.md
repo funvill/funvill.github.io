@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Annual Mad Hatters Tea Party
-date: 2006-07-07 11:54
+date: 2006-07-07 11:54:00
 categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/mad-tea-party-with-queen-2.thumbnail.jpg" id="image24" alt="Annual Mad Hatters Tea Party" align="right" />

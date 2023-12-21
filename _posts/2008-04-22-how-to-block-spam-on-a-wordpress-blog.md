@@ -1,7 +1,7 @@
 ---
 layout: single
 title: How to block spam on a wordpress Blog
-date: 2008-04-22 11:13
+date: 2008-04-22 11:13:00
 categories: Development
 tags: plugins spam Development wordpress
 ---

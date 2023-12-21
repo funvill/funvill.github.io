@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 44 - LEDs and Electronics installed in button panel
-date: 2015-06-02 00:44
+date: 2015-06-02 00:44:00
 categories: YearOfMaking
 ---
 

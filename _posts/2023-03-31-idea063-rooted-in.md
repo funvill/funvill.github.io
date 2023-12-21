@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 063 - RootedIn
-date: '2023-03-31 01:03'
+date: 2023-03-31 01:03:00
 categories: ideas YearOfIdeas
 tags: tree art social generative projects ideas
 excerpt: A generated a social media platform for trees in a city

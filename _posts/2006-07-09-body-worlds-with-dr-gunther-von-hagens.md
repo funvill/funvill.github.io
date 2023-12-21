@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Body-Worlds with Dr. Gunther von Hagens
-date: 2006-07-09 11:58
+date: 2006-07-09 11:58:00
 categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/bodyworlds.gif" id="image29" alt="Dr. Gunther von Hagens" align="right" />

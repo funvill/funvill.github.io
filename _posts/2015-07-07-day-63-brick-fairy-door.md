@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 63 - Brick fairy door
-date: 2015-07-07 01:03
+date: 2015-07-07 01:03:00
 categories: YearOfMaking
 ---
 

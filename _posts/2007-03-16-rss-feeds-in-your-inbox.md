@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Rss feeds in your inbox 
-date: 2007-03-16 12:53
+date: 2007-03-16 12:53:00
 categories: Tips
 ---
 

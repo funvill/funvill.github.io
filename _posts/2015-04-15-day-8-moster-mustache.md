@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 8 - Moster mustache
-date: 2015-04-15 00:08
+date: 2015-04-15 00:08:00
 categories: YearOfMaking
 ---
 

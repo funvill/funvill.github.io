@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The last batch of GeoCoins
-date: 2012-09-23 23:29
+date: 2012-09-23 23:29:00
 categories: Projects
 tags: coins GeoCaching GeoCoins Laser lasercutter Projects VHS Wood
 ---

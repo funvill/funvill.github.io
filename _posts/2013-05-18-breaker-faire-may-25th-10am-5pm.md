@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Breaker Faire - May 25th 10am-5pm
-date: 2013-05-18 13:55
+date: 2013-05-18 13:55:00
 categories: Vancouver
 ---
 <a href="http://vancouver.hackspace.ca/wp/wp-content/uploads/2013/05/BREAKfast2-newnew.jpg"><img class="size-large wp-image-1817" title="BREAKfast2-newnew" alt="" src="http://vancouver.hackspace.ca/wp/wp-content/uploads/2013/05/BREAKfast2-newnew-674x1024.jpg" width="674" height="1024" /></a>

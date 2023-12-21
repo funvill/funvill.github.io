@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 69 - Installing fairy door two
-date: 2015-07-16 01:09
+date: 2015-07-16 01:09:00
 categories: YearOfMaking
 ---
 

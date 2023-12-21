@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 078 - House to Tree house telephone system
-date: '2023-04-14 01:18'
+date: 2023-04-14 01:18:00
 categories: ideas YearOfIdeas
 tags: art led projects ideas
 excerpt: Connect old style phones together in a point to point telephone network

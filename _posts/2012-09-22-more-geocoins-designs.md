@@ -1,7 +1,7 @@
 ---
 layout: single
 title: More GeoCoins designs
-date: 2012-09-22 15:33
+date: 2012-09-22 15:33:00
 categories: Projects
 tags: coins GeoCaching GeoCoins Laser lasercutter Projects VHS Wood
 ---

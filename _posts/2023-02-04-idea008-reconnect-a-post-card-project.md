@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 008 - Reconnect a postcard project
-date: '2023-02-04 00:08'
+date: 2023-02-04 00:08:00
 categories: ideas YearOfIdeas
 tags: postcards art projects ideas
 excerpt: People are disconnected more than ever and need a reason to reconnect with each other. Create a series of postcards and send packs of them to friends and family, for them to send onwards

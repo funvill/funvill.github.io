@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 093 - Video Quotes and Truisms
-date: '2023-04-30 01:33'
+date: 2023-04-30 01:33:00
 categories: ideas YearOfIdeas
 tags: video youtube puppets projects ideas
 excerpt: A video series of puppets saying common quotes and truisms

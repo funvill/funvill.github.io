@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 88 - Preying mantis
-date: 2015-08-24 01:28
+date: 2015-08-24 01:28:00
 categories: YearOfMaking
 ---
 

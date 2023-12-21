@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Upcoming events for this summer 
-date: 2011-04-17 14:20
+date: 2011-04-17 14:20:00
 categories: Vancouver
 ---
 <div><strong>Upcoming events for this summer </strong></div>

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 40 - Hyperbolic triangle
-date: 2015-05-31 00:40
+date: 2015-05-31 00:40:00
 categories: YearOfMaking
 ---
 

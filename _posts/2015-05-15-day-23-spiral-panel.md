@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 23 - Spiral panel
-date: 2015-05-15 00:23
+date: 2015-05-15 00:23:00
 categories: YearOfMaking
 ---
 

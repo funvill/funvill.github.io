@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Work Smarter, Not Harder
-date: 2007-11-07 01:19
+date: 2007-11-07 01:19:00
 categories: Uncategorized
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Updated versions of VHS Lighting Talk Challenge coins
-date: 2012-11-07 16:35
+date: 2012-11-07 16:35:00
 categories: Projects 
 tags: coins design Development Laser lasercutter News projects shhh VHS
 ---

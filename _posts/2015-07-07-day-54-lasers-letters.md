@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 54 - Lasers letters 
-date: 2015-07-07 00:54
+date: 2015-07-07 00:54:00
 categories: YearOfMaking
 ---
 

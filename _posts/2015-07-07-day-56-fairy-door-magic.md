@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 56 - fairy door magic 
-date: 2015-07-07 00:56
+date: 2015-07-07 00:56:00
 categories: YearOfMaking
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Extracting the IPTC data from an image in PHP
-date: 2007-03-26 10:08
+date: 2007-03-26 10:08:00
 categories: Development
 tags: exif
 ---

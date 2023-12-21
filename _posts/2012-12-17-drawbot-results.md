@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Drawbot results 
-date: 2012-12-17 22:54
+date: 2012-12-17 22:54:00
 categories: Uncategorized
 ---
 I was able to get the <a href="https://github.com/i-make-robots/drawbot">drawbot</a> made by <a href="http://www.marginallyclever.com/blog/">marginallyclever.com</a> up and running. It produced some beautiful prints for my nephew's birthday.

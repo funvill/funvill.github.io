@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 95 - IStandWithAhmed workshop
-date: 2015-09-18 01:35
+date: 2015-09-18 01:35:00
 categories: YearOfMaking
 ---
 

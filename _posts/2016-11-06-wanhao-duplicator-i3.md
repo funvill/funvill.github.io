@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Wanhao Duplicator i3 
-date: '2016-11-06 00:01'
+date: 2016-11-06 00:01:00
 categories: Uncategorized
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 94 - Radiant acrylic fox mask
-date: 2015-08-31 01:34
+date: 2015-08-31 01:34:00
 categories: YearOfMaking
 ---
 

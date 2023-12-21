@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Yaletown 06 Flamin Hot Classic Car Show and Summer Celebration
-date: 2006-07-08 11:56
+date: 2006-07-08 11:56:00
 categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/cars-dock.jpg" id="image26" alt="cars-dock.jpg" align="right" />

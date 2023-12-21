@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Flickr's camera trend data
-date: 2007-03-21 11:15
+date: 2007-03-21 11:15:00
 categories: Tips
 ---
 When you take a snap shot with your digital camera your camera also saves some extra meta information to the file called Exif data.

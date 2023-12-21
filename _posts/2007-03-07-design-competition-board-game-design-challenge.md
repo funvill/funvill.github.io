@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Design Competition - Board Game Design Challenge
-date: 2007-03-07 15:12
+date: 2007-03-07 15:12:00
 categories: Development Games
 ---
 <a href="/public/uploads/2007/03/igdachallenge2.jpg" title="Board Game Design Challenge"><img src="/public/uploads/2007/03/igdachallenge2.thumbnail.jpg" alt="Board Game Design Challenge" align="right" /></a>The Vancouver Independant Game Designers Association chapter coordinators cordially invite entrants to create a unique board game based on one of three classic arcade titles: <a href="http://en.wikipedia.org/wiki/Robotron:_2084">ROBOTRON</a> - <a href="http://en.wikipedia.org/wiki/Joust_(arcade_game)">JOUST </a>- <a href="http://en.wikipedia.org/wiki/Space_Invaders">SPACE INVADERS</a>. This is a FREE event to enter as a designer or player. Spectators are also welcome! This is a perfect chance to prove you're old school credability, play some games, and win cool prizes.

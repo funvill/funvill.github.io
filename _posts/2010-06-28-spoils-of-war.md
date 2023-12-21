@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Spoils of War
-date: 2010-06-28 13:42
+date: 2010-06-28 13:42:00
 categories: Dice Gambling Games
 ---
 Spoils of War is a dice game.

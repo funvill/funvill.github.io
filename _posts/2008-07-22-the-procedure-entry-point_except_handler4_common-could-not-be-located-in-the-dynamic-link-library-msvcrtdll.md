@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The procedure entry point_except_handler4_common could not be located in the dynamic link library msvcrt.dll
-date: 2008-07-22 11:57
+date: 2008-07-22 11:57:00
 categories: Development
 ---
 <blockquote>The procedure entry point_except_handler4_common could not be located in the dynamic link library msvcrt.dll</blockquote>

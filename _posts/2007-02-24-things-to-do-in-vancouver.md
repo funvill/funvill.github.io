@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Things to do in vancouver
-date: 2007-02-24 15:34
+date: 2007-02-24 15:34:00
 categories: Vancouver
 ---
 <a href="/public/uploads/2007/02/vancouver_ib.jpg" title="Vancouver sky line"><img src="/public/uploads/2007/02/vancouver_ib.thumbnail.jpg" alt="Vancouver sky line" border="0" /></a>

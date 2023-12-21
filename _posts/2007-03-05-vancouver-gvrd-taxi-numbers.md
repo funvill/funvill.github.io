@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Vancouver (GVRD) Taxi Numbers 
-date: 2007-03-05 12:47
+date: 2007-03-05 12:47:00
 categories: Vancouver
 ---
 <a href="/public/uploads/2007/03/lego-yellow-cab-taxi-0.jpg" title="Yellow Cab"><img src="/public/uploads/2007/03/lego-yellow-cab-taxi-0.thumbnail.jpg" alt="Yellow Cab" /></a>

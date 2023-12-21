@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 6 - Moster lizard
-date: 2015-04-15 00:06
+date: 2015-04-15 00:06:00
 categories: YearOfMaking
 ---
 

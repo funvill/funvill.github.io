@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Travel 4 km in just 3 hours, 41 minutes!
-date: 2007-11-09 11:27
+date: 2007-11-09 11:27:00
 categories: Vancouver
 tags: translink
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: General status update
-date: 2014-06-18 00:16
+date: 2014-06-18 00:16:00
 categories: Uncategorized
 ---
 Its been 6 months since I last updated this site. Lots have been going on here are the highlights.

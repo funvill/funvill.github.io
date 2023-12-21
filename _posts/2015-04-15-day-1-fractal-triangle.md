@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 1 - Fractal Triangle
-date: 2015-04-15 00:01
+date: 2015-04-15 00:01:00
 categories: YearOfMaking
 ---
 

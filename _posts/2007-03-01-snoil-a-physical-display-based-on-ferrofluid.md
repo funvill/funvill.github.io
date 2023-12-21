@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SnOil - A Physical Display Based on Ferrofluid
-date: 2007-03-01 16:47
+date: 2007-03-01 16:47:00
 categories: Media
 ---
 <a href="/public/uploads/2007/02/snoil_470x264.jpg" title="SnOil"><img src="/public/uploads/2007/02/snoil_470x264.jpg" alt="SnOil" border="0" /></a>

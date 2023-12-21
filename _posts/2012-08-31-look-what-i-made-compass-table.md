@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Look what I made - Compass table.
-date: 2012-08-31 00:02
+date: 2012-08-31 00:02:00
 categories: Projects
 tags: acrylic compass furniture maker faire Projects  table
 ---

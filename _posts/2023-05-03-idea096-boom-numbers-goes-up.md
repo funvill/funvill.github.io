@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 096 - Boom numbers go up
-date: '2023-05-03 01:36'
+date: 2023-05-03 01:36:00
 categories: ideas YearOfIdeas
 tags: games projects ideas
 excerpt: Top down survival game where everything can be leveled up

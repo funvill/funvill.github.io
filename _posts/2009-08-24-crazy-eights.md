@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Crazy Eights
-date: 2009-08-24 11:18
+date: 2009-08-24 11:18:00
 categories: Cards Games
 ---
 Crazy Eights is a card game for two or more players.

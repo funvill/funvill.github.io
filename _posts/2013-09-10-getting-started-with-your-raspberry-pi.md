@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Getting started with your Raspberry PI
-date: 2013-09-10 22:20
+date: 2013-09-10 22:20:00
 categories: RaspberryPI
 ---
 The Raspberry Pi is a credit-card-sized single-board computer developed in the UK by the Raspberry Pi Foundation with the intention of promoting the teaching of basic computer science in schools

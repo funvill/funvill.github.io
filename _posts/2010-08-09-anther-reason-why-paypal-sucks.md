@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Anther reason why paypal sucks
-date: 2010-08-09 15:13
+date: 2010-08-09 15:13:00
 categories: Rants
 ---
 Just one more reason why paypal sucks

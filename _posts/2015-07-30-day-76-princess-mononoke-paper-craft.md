@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 76 - Princess Mononoke paper craft
-date: 2015-07-30 01:16
+date: 2015-07-30 01:16:00
 categories: YearOfMaking
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Making puppets
-date: 2012-02-20 01:34
+date: 2012-02-20 01:34:00
 categories: News Projects puppets
 ---
 <a href="/public/uploads/2012/02/puppets07.jpg"><img class="size-medium wp-image-2737 aligncenter" title="puppets07" src="/public/uploads/2012/02/puppets07-300x225.jpg" alt="" width="300" height="225" /></a>

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 52 - Set up at maker faire 
-date: 2015-07-07 00:52
+date: 2015-07-07 00:52:00
 categories: YearOfMaking
 ---
 

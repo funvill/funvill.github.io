@@ -1,7 +1,7 @@
 ---
 layout: single
 title: If you know beans about chili, you know chili ain't got no beans
-date: 2007-07-15 16:07
+date: 2007-07-15 16:07:00
 categories: Uncategorized
 ---
 

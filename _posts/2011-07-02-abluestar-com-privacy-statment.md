@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Abluestar.com privacy statment
-date: 2011-07-02 13:56
+date: 2011-07-02 13:56:00
 categories: Rants
 ---
 I record as much information as I possiably can from all my users, all the time, and I keep it for as long as I want to. I will sell it to anyone who asks and give it to anyone who puts a lawyers paper under my nose.

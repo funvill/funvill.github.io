@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Review - The End Cafe
-date: 2007-04-13 09:00
+date: 2007-04-13 09:00:00
 categories: Vancouver
 ---
 

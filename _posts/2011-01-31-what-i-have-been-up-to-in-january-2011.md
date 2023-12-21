@@ -1,7 +1,7 @@
 ---
 layout: single
 title: What I have been up to in January 2011 
-date: 2011-01-31 18:11
+date: 2011-01-31 18:11:00
 categories: Development Media News
 ---
 Its been a busy month, the start of the year always is.

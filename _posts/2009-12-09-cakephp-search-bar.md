@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CakePHP - Search bar 
-date: 2009-12-09 14:16
+date: 2009-12-09 14:16:00
 categories: Development
 Tags: cakephp search 
 ---

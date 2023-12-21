@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tractor Pull
-date: 2010-08-16 16:06
+date: 2010-08-16 16:06:00
 categories: Drinking Games
 ---
 Tractor Pull is a drinking game.

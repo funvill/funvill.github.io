@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CNC Zen Garden - Vancouver Maker Faire 2016 Post Mortem
-date: '2016-06-15 00:01'
+date: 2016-06-15 00:01:00
 categories: Uncategorized
 ---
 This is a post mortem of the version of the cnc zen garden that I took to the [Vancouver Mini Maker Faire 2016](http://makerfaire.ca/). 

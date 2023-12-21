@@ -1,7 +1,7 @@
 ---
 layout: single
 title: What time is it 
-date: 2008-10-30 12:04
+date: 2008-10-30 12:04:00
 categories: Development Projects Development
 ---
 Have you ever ask yourself what is the current time is it in <a href="http://www.abluestar.com/utilities/timezones/zoneinfo/Asia/Hong_Kong">HongKong</a>, <a href="http://www.abluestar.com/utilities/timezones/zoneinfo/America/Vancouver">Vancouver</a>?

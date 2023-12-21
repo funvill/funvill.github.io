@@ -1,7 +1,7 @@
 ---
 layout: single
 title: This has been a great year. 
-date: 2012-12-18 19:14
+date: 2012-12-18 19:14:00
 categories: News
 ---
 This has been a great year!

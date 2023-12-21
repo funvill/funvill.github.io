@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Waterfall
-date: 2010-10-11 19:11
+date: 2010-10-11 19:11:00
 categories: Drinking Games
 ---
 Waterfall is a drinking game.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 094 - Quickest way to rank a list of ideas
-date: '2023-05-01 01:34'
+date: 2023-05-01 01:34:00
 categories: ideas YearOfIdeas
 tags: sorting algorithm projects ideas
 excerpt: Use a sorting algorithm to efficiently sort a list of things in order

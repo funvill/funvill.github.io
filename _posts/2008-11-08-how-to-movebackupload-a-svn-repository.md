@@ -1,7 +1,7 @@
 ---
 layout: single
 title: How to Move/Backup/Load a SVN repository 
-date: 2008-11-08 09:00
+date: 2008-11-08 09:00:00
 categories: Tips
 ---
 After the first time my computer crashed and i lost 3 months of work, I started religiously making backups of everything, dialy, weekly quarterly backups of all my data. Its become an obsession of mine, before I start a project I always make sure that there is a recovery procedure.

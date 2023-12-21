@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PHP email template
-date: 2010-06-03 10:21
+date: 2010-06-03 10:21:00
 categories: Tips
 tags: email php snippet template Tips
 ---

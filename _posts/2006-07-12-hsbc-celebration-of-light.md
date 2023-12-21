@@ -1,7 +1,7 @@
 ---
 layout: single
 title: HSBC Celebration of Light
-date: 2006-07-12 12:02
+date: 2006-07-12 12:02:00
 categories: Vancouver
 ---
 <img src="/public/uploads/2006/07/fireworks_01.jpg" id="image33" alt="HSBC Celebration of Light" align="right" />

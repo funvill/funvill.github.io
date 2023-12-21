@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Testing writing from Windows Live Writer
-date: 2009-03-06 11:27
+date: 2009-03-06 11:27:00
 categories: Development 
 tags: clients desktop Interesting Tips webapps wordpress
 ---

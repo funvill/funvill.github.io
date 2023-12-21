@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 3 - Arcade button midi controller
-date: 2015-04-15 00:03
+date: 2015-04-15 00:03:00
 categories: YearOfMaking
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Disable Windows low disk space warning
-date: 2007-03-04 16:18
+date: 2007-03-04 16:18:00
 categories: Tips
 ---
 I've had it up to my eyeballs with the nagging Windows low disk space warning and offers from my helpful operating system to clean up the <em>junk </em>I have lying around. If you have a drive or two that remains constantly on the edge of full for good reason, you probably share my sentiment.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 41 - Pocket universe title card 
-date: 2015-06-01 00:41
+date: 2015-06-01 00:41:00
 categories: YearOfMaking
 ---
 

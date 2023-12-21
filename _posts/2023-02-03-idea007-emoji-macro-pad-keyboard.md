@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 007 - Emoji Macro Pad Keyboard 
-date: '2023-02-03 00:07'
+date: 2023-02-03 00:07:00
 categories: ideas YearOfIdeas
 tags: keyboards emoji projects ideas
 excerpt: A macro pad keyboard with most commonly used Emoji as key caps for quick access when you want to respond to a message with an iconography

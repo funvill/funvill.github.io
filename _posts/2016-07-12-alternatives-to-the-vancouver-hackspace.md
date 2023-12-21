@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Alternatives to the Vancouver Hackspace.
-date: '2016-07-12 00:01'
+date: 2016-07-12 00:01:00
 categories: vhs
 toc: true
 ---

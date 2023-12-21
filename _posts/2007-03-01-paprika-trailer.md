@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Paprika trailer 
-date: 2007-03-01 10:43
+date: 2007-03-01 10:43:00
 categories: Media
 ---
 A new <a href="http://www.apple.com/trailers/sony/paprika/trailer/">paprika trailer</a><a href="/public/uploads/2007/03/paprika_200702281610.jpg" title="paprika trailer"><img src="/public/uploads/2007/03/paprika_200702281610.jpg" alt="paprika trailer" align="right" /></a>

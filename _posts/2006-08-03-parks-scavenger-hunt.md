@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Parks - Scavenger Hunt
-date: 2006-08-03 22:39
+date: 2006-08-03 22:39:00
 categories: Vancouver
 ---
 <a href="/public/uploads/2006/07/scavenger_hunt_logo_big.jpg" rel="lightbox"><img src="/public/uploads/2006/07/scavenger_hunt_logo_big.jpg" alt="scavenger_hunt_logo_big.jpg" title="scavenger_hunt_logo_big.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="77" width="200" /></a>

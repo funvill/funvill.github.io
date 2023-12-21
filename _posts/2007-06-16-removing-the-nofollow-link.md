@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Removing the Nofollow link
-date: 2007-06-16 15:17
+date: 2007-06-16 15:17:00
 categories: Development
 ---
 <img src="/public/uploads/2007/06/bzlogo.png" alt="bzlogo.png" align="right" />Back in the day, there was a major problem with people posting garbage comments on blogs or forms so they could get back links to there site. Every time they made a new post they would get anther back link and there ranking would rise.

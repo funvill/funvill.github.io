@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The Giant Claw Game! - Problems 
-date: 2013-05-19 21:41
+date: 2013-05-19 21:41:00
 categories: Projects
 ---
 The Giant claw game can be broken down in to a few parts. The Claw, The Joystick, The Gantry/Cube, The XY table, The Cart, Control system

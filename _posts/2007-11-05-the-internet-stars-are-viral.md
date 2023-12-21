@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The Internet Stars Are Viral
-date: 2007-11-05 11:13
+date: 2007-11-05 11:13:00
 categories: Media
 ---
 Over the past year there have been a lot of viral videos, being addticted to the interent i seen them all.

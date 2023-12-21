@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The Noun Project - Laser cutter Tips, tricks and resources
-date: 2012-12-30 00:00
+date: 2012-12-30 00:00:00
 categories: LaserCutter
 ---
 About a year ago I found the <a href="http://thenounproject.com/">The Noun Project</a> while looking for some icons for a project and was instantly hooked. They provide a website where you can enter in any "<em><a href="http://en.wikipedia.org/wiki/Noun">Noun</a></em>" and get a iconic image.

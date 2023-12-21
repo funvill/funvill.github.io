@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Earthquake Kits for Vancouver
-date: '2017-04-26 00:01'
+date: 2017-04-26 00:01:00
 categories: Uncategorized
 ---
 

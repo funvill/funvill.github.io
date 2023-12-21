@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 012 - LED Constellation Star map  
-date: '2023-02-08 00:12'
+date: 2023-02-08 00:12:00
 categories: ideas YearOfIdeas
 tags: stars pcb eletronics art projects ideas
 excerpt: Constellation map PCB made with overlapping LEDs

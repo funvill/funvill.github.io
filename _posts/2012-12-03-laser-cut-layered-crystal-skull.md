@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Laser cut layered Crystal skull
-date: 2012-12-03 23:52
+date: 2012-12-03 23:52:00
 categories: LaserCutter
 ---
 My father loves skulls and every year I get him a skull for Christmas. A few years ago I got  him a bottle of <a href="http://crystalheadvodka.com">Crystal Head Vodka</a>.  The vodka was concieved by actor <a title="Dan Aykroyd" href="http://en.wikipedia.org/wiki/Dan_Aykroyd">Dan Aykroyd</a> and artist <a title="John Alexander (artist)" href="http://en.wikipedia.org/wiki/John_Alexander_(artist)">John Alexander</a> with an <a href="http://www.youtube.com/watch?v=SKqjIv91Zx8">excellent video ad</a>.

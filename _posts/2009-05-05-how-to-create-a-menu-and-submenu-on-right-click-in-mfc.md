@@ -1,7 +1,7 @@
 ---
 layout: single
 title: How to create a menu and submenu on right click in MFC
-date: 2009-05-05 11:20
+date: 2009-05-05 11:20:00
 categories: Development
 tags: MFC programing snippet Tips
 ---

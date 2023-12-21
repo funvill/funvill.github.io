@@ -1,7 +1,7 @@
 ---
 layout: single
 title: I visited NYC Resistor hackspace
-date: 2012-10-04 14:59
+date: 2012-10-04 14:59:00
 categories: Travel
 tags: hackspace Interesting photos pictures travel
 ---

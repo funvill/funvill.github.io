@@ -1,6 +1,6 @@
 ---
 title: Tao of Steven
-date: '2017-03-01 00:01'
+date: 2017-03-01 00:01:00
 ---
 
 Tao or Dao is a Chinese word signifying 'way', 'path', 'route', 'key' or sometimes more loosely 'doctrine' or 'principle'.

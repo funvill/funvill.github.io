@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Bard On The Beach - Midsummer night’s dream
-date: 2006-07-06 11:47
+date: 2006-07-06 11:47:00
 categories: Media
 ---
 <img src="/public/uploads/2006/07/91_preview.jpg" id="image16" alt="Bard On The Beach - Midsummer night's dream" align="right" />

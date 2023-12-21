@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Origami Masters Exhibition
-date: 2007-11-06 17:41
+date: 2007-11-06 17:41:00
 categories: Art Vancouver
 ---
  Although historically considered a children's pastime, origami has exploded in popularity and visibility in recent years.

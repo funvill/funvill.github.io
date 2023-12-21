@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Intro to Security, Passwords 
-date: 2013-09-25 21:20
+date: 2013-09-25 21:20:00
 categories: Uncategorized
 ---
 <h1>Passwords</h1>

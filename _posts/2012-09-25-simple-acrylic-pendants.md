@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Simple acrylic pendants
-date: 2012-09-25 00:00
+date: 2012-09-25 00:00:00
 categories: Projects
 tags: Art gifts jewelry Laser lasercutter Projects VHS
 ---

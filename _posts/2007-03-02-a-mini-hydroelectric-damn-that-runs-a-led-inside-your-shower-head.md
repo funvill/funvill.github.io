@@ -1,7 +1,7 @@
 ---
 layout: single
 title: A mini hydroelectric damn that runs a LED inside your shower head.
-date: 2007-03-02 15:25
+date: 2007-03-02 15:25:00
 categories: Projects
 ---
 I was browsing the <a href="http://forums.makezine.com/">Make Forums</a> today when I ran across this post <a href="http://forums.makezine.com/comments.php?DiscussionID=1649">LED Shower Head/Faucet</a>

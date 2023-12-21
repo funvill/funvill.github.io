@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Subscribe to Comments
-date: 2007-03-18 15:40
+date: 2007-03-18 15:40:00
 categories: Development
 ---
 I found this great plug-in for [tag]Wordpress[/tag] that allows your users to subscribe to a posts comments, any reply to the post will be sent to there email automatically.

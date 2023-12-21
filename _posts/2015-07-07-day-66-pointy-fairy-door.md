@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 66 - Pointy fairy door
-date: 2015-07-07 01:06
+date: 2015-07-07 01:06:00
 categories: YearOfMaking
 ---
 

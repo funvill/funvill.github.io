@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The Giant Claw Game! - The Claw Research, Version 1
-date: 2013-04-10 19:34
+date: 2013-04-10 19:34:00
 categories: News Projects
 ---
 Now that I got my controller working and the stepper motors moving with a RAMPs board, I decided to get started on The Claw. I knew that I would have to go thought a bunch of iterations of the claw before getting one that I liked so I wanted to start early.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Not alowing comments 
-date: 2007-10-29 18:41
+date: 2007-10-29 18:41:00
 categories: Tips Development
 ---
 I was browsing <a href="http://www.warrenellis.com">warrenellis.com</a> website the other day and tuned in to his <a href="http://www.warrenellis.com/?p=5239">4am pod cast</a>.

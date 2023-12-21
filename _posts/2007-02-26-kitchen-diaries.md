@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Kitchen diaries
-date: 2007-02-26 16:47
+date: 2007-02-26 16:47:00
 categories: Media
 ---
 An interesting look at beat boxing and cooking

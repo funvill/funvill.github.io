@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 72 - fairy door workshop
-date: 2015-07-20 01:12
+date: 2015-07-20 01:12:00
 categories: YearOfMaking
 ---
 

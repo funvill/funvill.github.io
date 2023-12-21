@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Indian Dice
-date: 2009-11-30 14:09
+date: 2009-11-30 14:09:00
 categories: Dice Games
 ---
 Indian Dice is a poker game with dice.

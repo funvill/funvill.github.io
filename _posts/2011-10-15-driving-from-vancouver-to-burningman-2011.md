@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Driving from Vancouver to Burningman 2011 
-date: 2011-10-15 17:21
+date: 2011-10-15 17:21:00
 categories: Media
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/xIlEM8PhGI0" frameborder="0" allowfullscreen></iframe>

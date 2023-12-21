@@ -1,11 +1,12 @@
 ---
 layout: single
 title: ESP8266 bitcoin tracker
-date: '2017-11-04 00:01'
+date: 2017-11-04 00:01:00
 categories: Uncategorized
 ---
 
-# A simple bitcoin price ticker. 
+# A simple bitcoin price ticker
+
 Requests the current current price of Bitcoin in your local currency via [Coindesk.com](https://coindesk.com/) API. The display is updated with the current price on the top line, and the profit you have made on the bottom line. The price is updated once every 5 mins. 
 
 ## Hardware

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cakephp - Using the same view for multiple controler functions 
-date: 2009-11-19 12:05
+date: 2009-11-19 12:05:00
 categories: Development
 tags: cakephp controler php render snippit template Development
 ---

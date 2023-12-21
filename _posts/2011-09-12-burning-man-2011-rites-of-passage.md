@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Burning Man 2011 - Rites of Passage
-date: 2011-09-12 20:18
+date: 2011-09-12 20:18:00
 categories: Media
 ---
 I didn't take too many PG pictures, So here are others videos. Amazing year.

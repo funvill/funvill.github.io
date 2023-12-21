@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 30 - Large picture frame CNC Panel
-date: 2015-05-26 00:30
+date: 2015-05-26 00:30:00
 categories: YearOfMaking
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Sevens Out
-date: 2010-05-10 14:36
+date: 2010-05-10 14:36:00
 categories: Dice Games
 ---
 Sevens Out is a dice game.

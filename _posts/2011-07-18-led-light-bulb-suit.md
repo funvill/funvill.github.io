@@ -1,7 +1,7 @@
 ---
 layout: single
 title: LED light bulb suit. 
-date: 2011-07-18 00:00
+date: 2011-07-18 00:00:00
 categories: Uncategorized
 ---
 I need to make a suit like this for burning man 

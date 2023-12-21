@@ -1,7 +1,7 @@
 ---
 layout: single
 title: VHS Lighting Talk Challenge coins - Super Happy Hacker House
-date: 2012-11-04 12:20
+date: 2012-11-04 12:20:00
 categories: Projects
 tags: coins design events Laser lasercutter lightingtalks News Projects shhh Vancouver VHS
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tender Threads -- Bloodshots Canada 2012
-date: 2012-10-22 15:25
+date: 2012-10-22 15:25:00
 categories: 
     - Media 
     - Projects

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 25 - Maker business card
-date: 2015-05-24 00:25
+date: 2015-05-24 00:25:00
 categories: YearOfMaking
 ---
 

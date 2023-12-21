@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Getting started with Raspberry PI - Wednesday Sep 11th, 2013 @VHS
-date: 2013-09-07 12:16
+date: 2013-09-07 12:16:00
 categories: News
 ---
 I am running another <a href="https://vancouver.hackspace.ca/wp/2013/09/07/getting-started-with-raspberry-pi-wednesday-sep-11th-2013/">intro to Raspberry PI night at VHS</a> this week.

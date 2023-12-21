@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Why is everything so plain?
-date: 2008-10-23 09:41
+date: 2008-10-23 09:41:00
 categories: Development
 ---
 Why is everything so plain?

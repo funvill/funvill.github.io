@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NSIS - Tips 
-date: 2008-04-11 10:39
+date: 2008-04-11 10:39:00
 categories: Development
 tags: nsis programing scripts Tips windows
 ---

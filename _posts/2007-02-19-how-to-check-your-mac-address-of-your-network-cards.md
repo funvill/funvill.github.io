@@ -1,7 +1,7 @@
 ---
 layout: single
 title: How to check your MAC address of your network cards
-date: 2007-02-19 09:00
+date: 2007-02-19 09:00:00
 categories: Tips
 ---
 How to check your MAC address of your network cards

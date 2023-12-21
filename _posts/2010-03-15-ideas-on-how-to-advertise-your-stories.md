@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Ideas on how to advertise your stories 
-date: 2010-03-15 22:31
+date: 2010-03-15 22:31:00
 categories: Uncategorized
 ---
 Here are a few different ways that you can advertise your story before and after it has been published. 

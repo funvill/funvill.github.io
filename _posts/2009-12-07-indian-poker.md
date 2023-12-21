@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Indian Poker
-date: 2009-12-07 14:15
+date: 2009-12-07 14:15:00
 categories: Cards Drinking Games
 ---
 Indian Poker is a drinking, card game.

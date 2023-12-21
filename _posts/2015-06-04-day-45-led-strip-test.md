@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 45 - LED strip test
-date: 2015-06-04 00:45
+date: 2015-06-04 00:45:00
 categories: YearOfMaking
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Burning man 2011 placement confirmed - DIVORCE & 7:30,  Rites Of Passage 
-date: 2011-07-15 14:40
+date: 2011-07-15 14:40:00
 categories: News
 ---
 <a href="/public/uploads/2011/07/BRC2011map.jpg"><img class="size-medium wp-image-1598 alignright" title="BRC2011map" src="/public/uploads/2011/07/BRC2011map-231x300.jpg" alt="" width="231" height="300" /></a> We just got our camp placement for burning man (Rites Of Passage) this year. <strong>D</strong>ivorce and <strong>7:30</strong>. If your coming, (and why wouldn't you be) stop by and check out <a href="http://www.retrofrolic.com/">Retrofrolic</a> - <em>The place of pink pain and pleasure.</em>

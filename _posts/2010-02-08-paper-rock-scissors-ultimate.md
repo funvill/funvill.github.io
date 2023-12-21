@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Paper, Rock, Scissors Ultimate
-date: 2010-02-08 15:59
+date: 2010-02-08 15:59:00
 categories: Drinking Games
 ---
 Paper, Rock, Scissors Ultimate is a drinking game.

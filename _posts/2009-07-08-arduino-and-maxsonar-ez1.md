@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ARDUINO and MaxSonar EZ1
-date: 2009-07-08 10:51
+date: 2009-07-08 10:51:00
 categories: Arduino Development
 tags: Arduino Development MaxSonarEZ0 MaxSonarEZ1 robots sensor source
 ---

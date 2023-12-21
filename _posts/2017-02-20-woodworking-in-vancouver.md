@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Wood working in vancouver
-date: '2017-02-20 00:01'
+date: 2017-02-20 00:01:00
 categories: Uncategorized
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Raspberry PI - Start up questions
-date: 2012-06-17 19:23
+date: 2012-06-17 19:23:00
 categories: Development Projects RaspberryPI Tips
 ---
 <a href="/public/uploads/2012/06/Raspberry-Pi-Logo.jpg"><img class="alignright size-thumbnail wp-image-2774" title="Raspberry-Pi-Logo" src="/public/uploads/2012/06/Raspberry-Pi-Logo-150x150.jpg" alt="" width="150" height="150" /></a>I got my new shinny <a href="http://www.raspberrypi.org/">Raspberry PI</a> a few days ago, and got some time to play with it today. I am a windows guy by default and this is my first adventure in to the world of Linux. While getting everything started it up I ran in to these questions.

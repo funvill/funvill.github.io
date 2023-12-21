@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The fair at the PNE!
-date: 2006-08-16 23:14
+date: 2006-08-16 23:14:00
 categories: Vancouver
 ---
 <a href="/public/uploads/2006/07/fairlogo200.jpg" rel="lightbox"><img src="/public/uploads/2006/07/fairlogo200.jpg" alt="fairlogo200.jpg" title="fairlogo200.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="200" width="165" /></a>

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Life tracking Dec 2013
-date: 2014-01-07 00:01
+date: 2014-01-07 00:01:00
 categories: Projects
 tags: gmail google heat life tracking map maps moving movment News qt search sleeping stats steps tracking Vancouver walking working
 ---

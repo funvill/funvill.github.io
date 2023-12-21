@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Is Aluminum is a conductor ?
-date: 2010-03-25 15:12
+date: 2010-03-25 15:12:00
 categories: Tips
 ---
 <strong>YES</strong>

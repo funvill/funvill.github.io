@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Shut the Box
-date: 2010-05-24 15:17
+date: 2010-05-24 15:17:00
 categories: Dice Games
 ---
 Shut the Box is a dice game.

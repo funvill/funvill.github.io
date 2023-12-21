@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Kangaroo words
-date: '2018-03-26 00:01'
+date: 2018-03-26 00:01:00
 categories: Uncategorized
 ---
 

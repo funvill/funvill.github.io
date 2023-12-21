@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 93 - Burning man belt
-date: 2015-08-25 01:33
+date: 2015-08-25 01:33:00
 categories: YearOfMaking
 ---
 

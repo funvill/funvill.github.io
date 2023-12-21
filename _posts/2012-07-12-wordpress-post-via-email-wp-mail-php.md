@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Wordpress Post via email (wp-mail.php)
-date: 2012-07-12 19:08
+date: 2012-07-12 19:08:00
 categories: Development
 tags: email php Development  wordpress
 ---

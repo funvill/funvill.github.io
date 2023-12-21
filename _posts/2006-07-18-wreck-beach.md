@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Wreck Beach
-date: 2006-07-18 19:32
+date: 2006-07-18 19:32:00
 categories: Vancouver
 ---
 <a href="/public/uploads/2006/07/wreck_beach_001_05.jpg" rel="lightbox"><img src="/public/uploads/2006/07/wreck_beach_001_05.jpg" alt="wreck_beach_001_05.jpg" title="wreck_beach_001_05.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="133" width="250" /></a>

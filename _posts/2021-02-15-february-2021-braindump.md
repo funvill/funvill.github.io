@@ -1,7 +1,7 @@
 ---
 layout: single
 title: February 2021 brain dump 
-date: '2021-02-09 00:22'
+date: 2021-02-09 00:22:00
 categories: bookmarks
 tags: bookmarks journal
 toc: true

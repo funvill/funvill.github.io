@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Laser cut 4 pack beer carrier 
-date: 2014-01-21 00:05
+date: 2014-01-21 00:05:00
 categories: Projects
 tags: beer Laser LaserCutter Wood
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Color survey 
-date: 2010-12-13 00:00
+date: 2010-12-13 00:00:00
 categories: Development
 ---
 Color is subjective and people see colors differently sometimes wildly differently. Where someone sees the color red a different person will see orange or yellow. This survey is designed to find a common ground for defining color names.

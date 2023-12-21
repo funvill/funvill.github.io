@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Vancouver Maker Faire - Call for Makers
-date: 2012-03-15 09:27
+date: 2012-03-15 09:27:00
 categories: Vancouver
 ---
 <a href="/public/uploads/2012/03/png.png"><img class="alignright size-medium wp-image-2751" title="png" src="/public/uploads/2012/03/png-300x113.png" alt="" width="300" height="113" /></a>

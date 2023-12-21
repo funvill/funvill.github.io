@@ -1,7 +1,7 @@
 ---
 layout: single
 title: I visited HACK Manhattan Hackerspace
-date: 2012-10-08 17:40
+date: 2012-10-08 17:40:00
 categories: Travel
 tags: hackspace Interesting photos pictures travel
 ---

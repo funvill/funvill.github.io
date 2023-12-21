@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The Prestige (2006) - A beautifully crafted film
-date: 2007-03-09 16:13
+date: 2007-03-09 16:13:00
 categories: Media
 ---
 

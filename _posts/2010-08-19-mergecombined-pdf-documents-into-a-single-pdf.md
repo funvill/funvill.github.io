@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Merge/combined PDF documents into a single PDF 
-date: 2010-08-19 12:28
+date: 2010-08-19 12:28:00
 categories: Tips
 ---
 <strong>Problem: </strong>

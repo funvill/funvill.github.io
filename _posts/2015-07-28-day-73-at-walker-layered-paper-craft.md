@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 73 - AT-Walker layered paper craft
-date: 2015-07-28 01:13
+date: 2015-07-28 01:13:00
 categories: YearOfMaking
 ---
 

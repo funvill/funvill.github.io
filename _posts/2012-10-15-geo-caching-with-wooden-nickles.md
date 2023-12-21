@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Geo Caching with Wooden nickles
-date: 2012-10-15 22:34
+date: 2012-10-15 22:34:00
 categories: Projects
 tags: coins GeoCaching GeoCoins Interesting Laser lasercutter News Projects VHS, Wood
 ---

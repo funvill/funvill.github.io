@@ -1,7 +1,7 @@
 ---
 layout: single
 title: More riddles
-date: 2007-04-25 09:00
+date: 2007-04-25 09:00:00
 categories: Uncategorized
 ---
 I enjoyed them so much the first time I posted <a href="/riddles/">some riddles</a> that I am going to do it again.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 82 - Visualization of DNA
-date: 2015-08-13 01:22
+date: 2015-08-13 01:22:00
 categories: YearOfMaking
 ---
 

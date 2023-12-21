@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Designing Acrylic Christmas Ornaments
-date: 2012-11-14 22:58
+date: 2012-11-14 22:58:00
 categories: Projects 
 tags: christmas Development Laser lasercutter ornaments
 ---

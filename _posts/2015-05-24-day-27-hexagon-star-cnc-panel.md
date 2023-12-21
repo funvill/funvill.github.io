@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 28 - Hexagon Star CNC Panel
-date: 2015-05-24 00:27
+date: 2015-05-24 00:27:00
 categories: YearOfMaking
 ---
 

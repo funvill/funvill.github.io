@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Crowdfund the Rygo
-date: 2012-01-23 21:13
+date: 2012-01-23 21:13:00
 categories: Art
 tags: 3dprinted Art crowdfund friends Projects sculpture Vancouver
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Raspberry PI as a FM transmitter 
-date: 2013-03-26 20:28
+date: 2013-03-26 20:28:00
 categories: RaspberryPI
 tags: c fm RaspberryPI RaspberryPI transmitter
 ---

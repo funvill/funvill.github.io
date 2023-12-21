@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Day 99 - VHS LED Wall
-date: 2015-12-14 01:39
+date: 2015-12-14 01:39:00
 categories: YearOfMaking
 ---
 

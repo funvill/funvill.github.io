@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Last windows boot time, Install date
-date: 2008-03-26 13:29
+date: 2008-03-26 13:29:00
 categories: Tips windows
 ---
 Do you remember the exact date or time when you last switched on the computer ?

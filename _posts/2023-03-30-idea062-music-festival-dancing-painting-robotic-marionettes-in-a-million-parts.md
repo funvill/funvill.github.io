@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Idea 062 - Music festival dancing painting robotic marionettes in a million parts
-date: '2023-03-30 01:02'
+date: 2023-03-30 01:02:00
 categories: ideas YearOfIdeas
 tags: art paper robots puppets projects ideas
 excerpt: A robotic marionettes that dances and makes generative art during a music festival

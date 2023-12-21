@@ -1,7 +1,7 @@
 ---
 layout: single
 title: House maze 
-date: 2007-04-29 09:00
+date: 2007-04-29 09:00:00
 categories: Uncategorized
 ---
 Here is a house that converted its backyard in to a corn maze and charge people to run the maze.
