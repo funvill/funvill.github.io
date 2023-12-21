@@ -2,7 +2,19 @@
 title: Programming Competition Prisoners Dilemma
 date: 2012-10-25 00:01:00
 categories: Development
-tags: c code Competition contests Development experiment Games github News programming project VHS
+tags: 
+- c
+- code
+- Competition
+- contests
+- Development
+- experiment
+- Games
+- github
+- News
+- programming
+- project
+- VHS
 ---
 I have been trying to think of a simple programming competition that we can run at the next SHHH (<a href="http://vancouver.hackspace.ca/wp/2012/10/23/super-happy-hacker-house-24-nov-11-2012-730-late/">Super Happy Hacker House</a>) at <a href="http://vancouver.hackspace.ca/wp/">the Vancouver Hackspace</a>.
 

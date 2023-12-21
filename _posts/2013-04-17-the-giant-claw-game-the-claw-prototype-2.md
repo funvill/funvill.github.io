@@ -2,7 +2,12 @@
 title: The Giant Claw Game! - The Claw, Prototype 2
 date: 2013-04-17 22:09:00
 categories: Projects
-tags: brass claw Games Projects  Wood
+tags: 
+- brass
+- claw
+- Games
+- Projects
+- Wood
 ---
 <img class="size-medium wp-image-3240 alignright" style="font-size: 12px; line-height: 18px;" alt="claw prototype 2" src="/public/uploads/2013/04/claw-300x167.png" width="300" height="167" />This is the second prototype of the claw. I really liked <a href="http://www.instructables.com/id/CRANE-GAME/">the claw design by Marc Cryan</a> that I found on <a href="http://www.instructables.com/">Instructables.com</a> but I wanted it to have three prongs instead of two. I did this prototype out of cardboard using trial and error to get the right size for each part.
 

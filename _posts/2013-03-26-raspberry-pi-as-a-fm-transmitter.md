@@ -2,7 +2,11 @@
 title: Raspberry PI as a FM transmitter 
 date: 2013-03-26 20:28:00
 categories: RaspberryPI
-tags: c fm RaspberryPI RaspberryPI transmitter
+tags: 
+- c
+- fm
+- RaspberryPI
+- transmitter
 ---
 <img class="alignright size-medium wp-image-3216" alt="pi_fm_gpio" src="/public/uploads/2013/03/pi_fm_gpio-300x225.jpg" width="300" height="225" />
 

@@ -2,7 +2,15 @@
 title: The Giant Claw Game! - The Claw, Prototype 3
 date: 2013-05-05 20:15:00
 categories: Projects
-tags: claw construction Development maker faire motors News Projects Wood
+tags: 
+- claw
+- construction
+- Development
+- makerfaire
+- motors
+- News
+- Projects
+- Wood
 ---
 I started working on the third version of the claw this week. In this version I have added a motor, extended the length of the prongs, and started on the electronics.
 

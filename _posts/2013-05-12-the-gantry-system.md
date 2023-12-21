@@ -4,7 +4,14 @@ date: 2013-05-12 18:33:00
 categories: 
     - claw game 
     - Projects
-tags: claw corexy gantry pictures Projects xy xytable
+tags: 
+- claw
+- corexy
+- gantry
+- pictures
+- Projects
+- xy
+- xytable
 ---
 This week I have working on the gantry system. The gantry system is used to move the claw around inside the Cube.
 
