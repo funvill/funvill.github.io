@@ -8,7 +8,8 @@ tags:
 - projects
 - AI
 - Vancouver
-header: [object Object]
+header      :
+  teaser    : /public/uploads/2022/flockingai-wall.jpg
 slug: flockingai-eastside-culture-crawl-2022-post-mortem
 
 ---
