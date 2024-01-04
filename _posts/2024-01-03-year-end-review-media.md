@@ -2,10 +2,11 @@
 title: "2023 Year in review - Movies and TV Reviews"
 date: 2024-01-01 00:01:00
 categories:
-- Review
+- review
 tags:
 - tv
-- Movies
+- movies
+- music
 excerpt: 2023 year end Movies and TV Reviews
 
 ---
@@ -18,11 +19,11 @@ In February of [2023 Netflix decided to block or upcharge for password sharing o
 
 With [Youtube](https://www.youtube.com/channel/UC50I3ZwlkV08muhc-mK5sJQ) increasing the amount of ads to once every ~10 mins, and pushing their paid service, and Ad blocking. I just haven't been watching many Youtube videos either.
 
-These two changes have significantly contributed to a reduced amount of TV I watch, and it's made it harder to track what I have seen over this year.
+These two changes have significantly contributed to a reduced amount of TV I watch, and it also made it harder to track what I have seen over this year.
 
 According to my TV I had ~237 hours of screen time 2023 or about a 30% drop over all. 21 movies, 29 tv series
 
-I have started to update [My Letter BoxD](https://letterboxd.com/funvill/films/) profile with the revies of all my movies.
+I have started to update [My Letter BoxD](https://letterboxd.com/funvill/films/by/entry-rating/size/large/) profile with the revies of all my movies.
 
 **Ranking:**
 
@@ -33,7 +34,7 @@ I have started to update [My Letter BoxD](https://letterboxd.com/funvill/films/)
 
 ### Movies I watched in the theaters 🍿
 
-- Great - [Spider-Man: Across the Spider-Verse](https://www.imdb.com/title/tt9362722/) - Best movie of 2023.
+- Great - [Spider-Man: Across the Spider-Verse](https://www.imdb.com/title/tt9362722/) - ⭐⭐⭐⭐ Best movie of 2023.
 - Great - [John Wick: Chapter 4](https://www.imdb.com/title/tt10366206/)
 - Great - [Dungeons & Dragons: Honor Among Thieves](https://www.imdb.com/title/tt2906216/)
 - Great - [Guardians of the Galaxy Vol. 3](https://www.imdb.com/title/tt6791350/)

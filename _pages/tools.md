@@ -1,62 +1,13 @@
 ---
 layout      : "single"
-title       : Current tools and equipment
-date        : '2022-02-19 00:01'
+title       : Tools and Equipment
+date        : '2024-01-03 00:01'
 permalink   : /tools
 excerpt     : "A list of tools that Steven Smethurst uses regularly"
 ---
 
-Everyday I use a series of tools that make my life easier. These tool change and morph each year. This is my most up-to-date list of recommended tools and equipment.
-
-Previous snapshots of my tools and equipment lists can be found here: [2021](/current-tools-and-equipment-2021), [2018](/tools-2018), [2016](/tools-2016)
+A series of snapshots of the tools and equipment that I use over the years
 
 Inspired by [UsesThis.com](https://usesthis.com/) - A collection of interviews asking people from all walks of life, what they use to get the job done.
 
-## Who are you, and what do you do?
-
-My name is [*Steven Smethurst*](/about) and live two lives. During the day I am a CTO at [Chipkin Automation Systems](http://store.chipkin.com/) and at night I am a maker, hacker and artist. You can find more about me and my projects on my [instagram](https://instagram.com/funvill) or [twitter](https://twitter.com/funvill).
-
-## What has changed since 2021
-
-The biggest change since [2021](/year-in-review-2022) is that I moved to a new house with more space and a seperate home office.
-
-I stopped subscribing to Netflix after they started cracking down on [Netflix account sharing passwords canada](https://globalnews.ca/news/9470991/netflix-account-sharing-passwords-canada/). With the fragmation of streaming services, piracy has become more appealing.
-
-I made my own version of [Simone Giertz](https://www.simonegiertz.com/)'s [Every Day Calendar](https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar) called [monthly habit tracker](https://blog.abluestar.com/projects/2022-monthly-habit-tracker/).
-
-## What software do you use?
-
-- [Visual Studio Code](https://code.visualstudio.com/) - A Extensible and customizable text editor. I tend to use this text editor more than I use Visual studio's these days. It's Free and extensible.
-- [Visual Studio](https://www.visualstudio.com/vs/community/) - A fully-featured, extensible IDE and compiler for CSharp, C/C++, etc...
-- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) - Linux subsystem for windows (AKA Ubuntu bash on Windows). I user this every single day.
-- [GitLab](https://about.gitlab.com/) - A alternative to [Github](https://github.com/). git repo, issue tracker, CI, etc...
-- [GitKraken](https://www.gitkraken.com/) - A Git client. Paid app.
-- [Beyond Compare 4](http://www.scootersoftware.com/) - A file/folder comparison tool.
-- [Wireshark](https://www.wireshark.org/) - A widely-used network protocol analyzer. I use this every single day.
-- [Signal Private Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) - Private secure, end to end communications. My preferred form of communication.
-- [Github pages + Jekyll](https://github.com/funvill/funvill.github.io) - Main blogging platform.
-- [Spotify](https://www.spotify.com/ca-en/) for music.
-- [BitWarden](https://bitwarden.com/) for passwords, and [Authy](https://authy.com/) for 2FA
-- [Obsidian](https://obsidian.md/) - Markdown note taking app and knowlagebase
-- [KiCAD](https://kicad.org/) - Making PCB and electroncs.
-
-## What hardware do you use?
-
-- [Logitech MX Master 3S](https://www.logitech.com/en-ca/mx/master-series.html) - Best mouse I have ever had. Wireless, adaptive scroll wheel auto-shift from click-to-click to hyper-fast scroll.
-- [Pixel 6 Pro](https://en.wikipedia.org/wiki/Pixel_6) - I becoming disillusioned by Android these days and I may switch to an apple product next hardware update.
-- [Dell 27 USB-C Ultrathin Monitor: S2719DC](https://www.dell.com/en-ca/shop/dell-27-usb-c-ultrathin-monitor-s2719dc/apd/210-aqpv/monitors-monitor-accessories) and [Dell UltraSharp 27 4K](https://www.dell.com/en-ca/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - Do not recommend. See this post [Do not buy from Dell](/dont-buy-from-dell).
-- [Logitech G610 Orion](https://www.tomsguide.com/us/logitech-g610-orion,review-3506.html) - A great mechanical keyboard with media keys and volume dial. I got into the keyboard crazy a few years ago and got a bunch of strange-looking keyboards but I always came back to this one. It great and just works.
-- [Blue yeti](https://www.bluemic.com/en-us/products/yeti/) - Desktop USB microphone.
-- [Logitech C920 webcam](https://www.logitech.com/en-us/product/hd-pro-webcam-c920) - I do a lot of video conforences these days. 6+ hours a day and this web camera has been great.
-
-### Photography
-
-- [Sony a6400](https://www.sony.ca/en/electronics/interchangeable-lens-cameras/ilce-6400) - It can shoot in 4k and has built-in optical image stablization.. APS-C, 24.2-megapixel
-- [Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens](https://www.sigmacanada.ca/products/150-600mm-f5-6-3-dg-os-hsm-contemporary) - Long lense uses for [birding](https://blog.abluestar.com/projects/2021-bird-playing-cards/), connected to my Sony a6400 using [Sigma MC-11](https://www.sigma-global.com/en/accessories/mc-11/)
-- [Sony FE 50 mm F2.8 Macro](https://www.sony.ca/en/electronics/camera-lenses/sel50m28) - Macro lense used for taking pictures of spiders
-- [Sony E 18-135mm F3.5-5.6 OSS](https://www.sony.ca/en/electronics/camera-lenses/sel18135) Kit lens - Came with the Sony a6400, I don't use it often
-- [GoPro Hero10 Black](https://gopro.com/en/us/shop/cameras/hero10-black/CHDHX-101-master.html) - Mostly used for underwater [Scuba](https://www.scuba.com/), and [time-lapse photography](https://en.wikipedia.org/wiki/Time-lapse_photography)
-
-## What would be your dream setup?
-
-I been dreaming of becoming a digital nomad and travling the world while working. Reducing my footprint of gear to just what fits within a single suitecase appeals to me. I am planning on significantly reducing my equipment and stuff over the next few years in an effort to become more mobile.
+Tools in [2024](/tools-2024), [2022](/tools-2022), [2021](/current-tools-and-equipment-2021), [2018](/tools-2018), [2016](/tools-2016)
