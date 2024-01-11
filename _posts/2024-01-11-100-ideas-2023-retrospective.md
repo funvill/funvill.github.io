@@ -91,7 +91,7 @@ Of the 5 of us that started only 2 of us completed the project and got to 100 po
 
 I found it really hard to keep focused on ideation, when I just wanted to start implementing some of the ideas that I came up with.
 
-The biggest issue with this project was the timing. When I started this project I was also flying back and forth across the content, on site jobs and working ~14 hour days under high stress conditions (60+ hour weeks). I just didn’t have time for this project or the mental capacity with all the stress.
+One of the issue with this project was the timing. When I started this project I was also flying back and forth across the content, on site jobs and working ~14 hour days under high stress conditions (60+ hour weeks). I just didn’t have time for this project or the mental capacity with all the stress.
 
 I had convinced a few friends to do this project with me. They were posting daily, and encouraging me to continue too. I saw the positive effects that this project was having on them and I wanted that to continue even at the expense of my own heath. So I kept going.
 
