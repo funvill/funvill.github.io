@@ -17,12 +17,12 @@ There are several different types of segmented displays. Each with a different 
 The advantage of a 16 segment display is that you can display a full set of alphanumeric, lower and upper case of numbers and letters.
 
 <img src="/public/uploads/16-Segment-ASCII-All.jpg" alt="16-Segment-ASCII"/>
- 
-My first version I made, I used paper divers to separate the different segments. But I could never get the paper to be in perfect lines. 
+
+My first version I made, I used paper divers to separate the different segments. But I could never get the paper to be in perfect lines.
 
 <img src="/public/uploads/paper_16-Segment.png" alt="paper_16-Segment"/>
 
-The results were not great. It also took a lot of time to make the paper folded segments. The cost of the white and black sandwiched acrylic was prohibited. It would have been a daunting task to make more than a few of these. I ended up shelving this idea for a few months.   
+The results were not great. It also took a lot of time to make the paper folded segments. The cost of the white and black sandwiched acrylic was prohibited. It would have been a daunting task to make more than a few of these. I ended up shelving this idea for a few months.
 
 After I built the [illuminated Stained Glass Tetragonal Trapezohedron](https://blog.abluestar.com/projects/2019-illuminated-stained-glass-tetragonal-trapezohedron/) using the new foam method. I decided to try and use this new method to make a series of sixteen segmented displays.
 
