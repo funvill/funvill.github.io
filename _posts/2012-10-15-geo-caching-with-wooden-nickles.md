@@ -8,8 +8,7 @@ tags:
 - GeoCaching
 - GeoCoins
 - Interesting
-- Laser
-- lasercutter
+- LaserCutter
 - News
 - Projects
 - VHS

@@ -2,11 +2,11 @@
 title: "100 ideas project retrospective (2023)"
 date: 2024-01-11 00:01:00
 categories:
-- review
-- ideas
+- Review
+- Ideas
 - YearOfIdeas
 tags:
-- ideas
+- Ideas
 ---
 
 <img src='\public\uploads\2023\100dayproject.png' alt='100dayproject' title='100dayproject'>

@@ -2,12 +2,12 @@
 title: "Idea 098 - All that are lost"
 date: 2023-05-05 01:38:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - eletronics
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: GeoHashing on a pendant for exploring the world
 slug: idea098-all-that-are-lost
 

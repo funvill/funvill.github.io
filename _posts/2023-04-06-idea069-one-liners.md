@@ -2,11 +2,11 @@
 title: "Idea 069 - One Liners"
 date: 2023-04-06 01:09:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: All the bad one liner ideas that wont get developed into anything
 slug: idea069-one-liners
 

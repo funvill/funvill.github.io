@@ -4,14 +4,12 @@ date: 2012-08-28 17:22:00
 categories:
 - Projects
 tags:
-- projects
+- Projects
 - acrylic
 - Chess
 - Games
-- Laser
-- lasercutter
+- LaserCutter
 - News
-- projects
 - VHS
 slug: look-what-i-made-acrylic-chess-set
 

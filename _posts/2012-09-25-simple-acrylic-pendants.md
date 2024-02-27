@@ -7,8 +7,7 @@ tags:
 - Art
 - gifts
 - jewelry
-- Laser
-- lasercutter
+- LaserCutter
 - Projects
 - VHS
 slug: simple-acrylic-pendants

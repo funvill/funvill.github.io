@@ -2,14 +2,14 @@
 title: "Idea 088 - Glass room of perspectives"
 date: 2023-04-25 01:28:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - glass
 - installtion
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A art installation where a user enters a room that looks like the inside of a kaleidoscope
 slug: idea088-glass-room-of-perspectives
 

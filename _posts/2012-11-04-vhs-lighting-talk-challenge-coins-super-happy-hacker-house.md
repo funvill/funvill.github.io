@@ -7,8 +7,7 @@ tags:
 - coins
 - design
 - events
-- Laser
-- lasercutter
+- LaserCutter
 - lightingtalks
 - News
 - Projects

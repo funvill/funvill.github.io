@@ -2,7 +2,7 @@
 title: "This has been a great year."
 date: 2012-12-18 19:14:00
 categories:
-- News
+- Self
 slug: this-has-been-a-great-year
 
 ---

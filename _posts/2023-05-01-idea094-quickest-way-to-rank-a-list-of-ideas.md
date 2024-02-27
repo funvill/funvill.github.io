@@ -2,13 +2,13 @@
 title: "Idea 094 - Quickest way to rank a list of ideas"
 date: 2023-05-01 01:34:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - sorting
 - algorithm
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Use a sorting algorithm to efficiently sort a list of things in order
 slug: idea094-quickest-way-to-rank-a-list-of-ideas
 

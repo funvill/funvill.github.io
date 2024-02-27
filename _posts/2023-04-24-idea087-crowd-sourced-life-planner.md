@@ -2,12 +2,12 @@
 title: "Idea 087 - Crowd sourced life planner"
 date: 2023-04-24 01:27:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
-- projects
+- Projects
 - saas
-- ideas
+- Ideas
 excerpt: A website that uses flowcharts and other tools for helping with life choices all users submitted
 slug: idea087-crowd-sourced-life-planner
 

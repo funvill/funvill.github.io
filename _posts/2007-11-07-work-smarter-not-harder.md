@@ -2,7 +2,7 @@
 title: "Work Smarter, Not Harder"
 date: 2007-11-07 01:19:00
 categories:
-- Uncategorized
+- News
 slug: work-smarter-not-harder
 
 ---

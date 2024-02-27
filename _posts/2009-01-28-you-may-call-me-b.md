@@ -2,7 +2,7 @@
 title: "You may call me /b/"
 date: 2009-01-28 00:26:00
 categories:
-- Uncategorized
+- Junk
 slug: you-may-call-me-b
 
 ---

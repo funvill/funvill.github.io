@@ -2,7 +2,7 @@
 title: "Rental Guide are bad people, and suck."
 date: 2012-06-27 08:55:00
 categories:
-- rant
+- Rants
 tag: Canada, Rants, scams, Vancouver
 slug: rental-guide-are-bad-people-and-suck
 

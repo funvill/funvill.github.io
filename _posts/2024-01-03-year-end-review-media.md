@@ -2,7 +2,7 @@
 title: "2023 Year in review - Movies and TV Reviews"
 date: 2024-01-01 00:01:00
 categories:
-- review
+- Review
 tags:
 - tv
 - movies

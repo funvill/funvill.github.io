@@ -2,14 +2,14 @@
 title: "Idea 016 - Lego RGB Addressable LED blocks"
 date: 2023-02-12 00:17:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - lego
 - leds
 - art
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Adding fully addressable RGB light to your lego creation, using lego as light pipes,
 slug: idea016-lego-rgb-addressable-led-blocks
 

@@ -2,7 +2,7 @@
 title: "GOLD, lighting project."
 date: 2011-07-17 00:00:00
 categories:
-- Uncategorized
+- Junk
 slug: gold-lighting-project
 
 ---

@@ -2,7 +2,7 @@
 title: "If you know beans about chili, you know chili aint got no beans"
 date: 2007-07-15 16:07:00
 categories:
-- Uncategorized
+- Recipes
 slug: if-you-know-beans-about-chili-you-know-chili-aint-got-no-beans
 
 ---

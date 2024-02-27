@@ -2,7 +2,7 @@
 title: "Interesting cactus building"
 date: 2007-04-22 09:00:00
 categories:
-- Uncategorized
+- Junk
 slug: interesting-cactus-building
 
 ---

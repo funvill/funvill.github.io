@@ -2,7 +2,7 @@
 title: "Tom Kha Gai"
 date: 2008-02-11 17:16:00
 categories:
-- recipes
+- Recipes
 slug: tom-kha-gai
 
 ---

@@ -2,7 +2,7 @@
 title: "Current tools and equipment (2021)"
 date: 2021-05-17 00:01:00
 categories:
-- tools
+- Self
 tags:
 - tools
 - software

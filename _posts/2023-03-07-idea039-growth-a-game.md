@@ -2,12 +2,12 @@
 title: "Idea 039 - Growth a game"
 date: 2023-03-07 00:39:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - games
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A game where you start as the smallest living thing, then grow and evolve depending on what actions you do the most
 slug: idea039-growth-a-game
 

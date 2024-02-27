@@ -3,7 +3,7 @@ published: false
 title: "Simple security"
 date: 2016-11-28 00:01:00
 categories:
-- Uncategorized
+- Self
 slug: simple-security
 
 ---
@@ -45,7 +45,6 @@ I have arranged this section from the easiest tools/practices that will have a l
 
 - [Signal Private Messenger](https://whispersystems.org/) - Phone app that replaces your default SMS/Text messaging app with a secure messaging app. Low impact on your life. [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)
 
-
 ### Moderate impact on your life
 
 - [LastPass](https://www.lastpass.com/) or an [alternatives](https://alternativeto.net/software/lastpass/) - A password database. Never use the same password twice. This allows you to use a different password on each website that requires you to create an account. If one website gets hacked and your password gets stolen they can't log into every other site that you used that password on. Moderate impact on your life, You need to login to the password database before logging into any other website.
@@ -67,4 +66,3 @@ I have arranged this section from the easiest tools/practices that will have a l
 ### Extreme impact on your life
 
 - You can’t lose what you don’t have. - Think twice before creating anything digital you wouldn’t want exposed including malicious email and nudie pics.
-

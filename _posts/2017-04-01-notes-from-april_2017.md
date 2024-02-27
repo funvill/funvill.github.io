@@ -2,7 +2,7 @@
 title: "Notes from April 2017"
 date: 2017-04-01 00:01:00
 categories:
-- bookmarks
+- Bookmarks
 toc: true
 slug: notes-from-april_2017
 

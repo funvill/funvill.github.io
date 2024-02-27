@@ -4,7 +4,7 @@ date: 2022-08-25 00:21:00
 tags:
 - art
 - gallery
-- projects
+- Projects
 - samsung
 slug: samsung-the-frame-tv-art
 

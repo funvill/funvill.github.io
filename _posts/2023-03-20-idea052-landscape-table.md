@@ -2,14 +2,14 @@
 title: "Idea 052 - Landscape Table"
 date: 2023-03-20 00:52:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - map
 - cnc
 - furniture
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A coffee table with a CNC topographical map with contour and elevation lines
 slug: idea052-landscape-table
 

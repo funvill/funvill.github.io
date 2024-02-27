@@ -2,10 +2,9 @@
 title: "The Giant Claw Game! - The Gantry System"
 date: 2013-05-12 18:33:00
 categories:
-- claw game
 - Projects
 tags:
-- claw
+- claw game
 - corexy
 - gantry
 - pictures

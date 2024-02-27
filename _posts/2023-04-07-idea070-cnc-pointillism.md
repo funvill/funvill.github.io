@@ -2,14 +2,14 @@
 title: "Idea 070 - CNC Pointillism"
 date: 2023-04-07 01:10:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - cnc
 - robots
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Use a CNC to make paint dot paintings one dot at a time
 slug: idea070-cnc-pointillism
 

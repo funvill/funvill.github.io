@@ -2,13 +2,13 @@
 title: "Idea 078 - House to Tree house telephone system"
 date: 2023-04-14 01:18:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - led
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Connect old style phones together in a point to point telephone network
 slug: idea078-house-to-tree-house-telephone-system
 

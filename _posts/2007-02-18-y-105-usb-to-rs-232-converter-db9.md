@@ -2,7 +2,7 @@
 title: "Y-105 USB to RS 232 Converter (DB9)"
 date: 2007-02-18 09:00:00
 categories:
-- Uncategorized
+- Windows
 slug: y-105-usb-to-rs-232-converter-db9
 
 ---

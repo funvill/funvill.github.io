@@ -2,12 +2,12 @@
 title: "Idea 096 - Boom numbers go up"
 date: 2023-05-03 01:36:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - games
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Top down survival game where everything can be leveled up
 slug: idea096-boom-numbers-goes-up
 

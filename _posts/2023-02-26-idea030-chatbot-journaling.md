@@ -2,12 +2,12 @@
 title: "Idea 030 - Chatbot Journaling"
 date: 2023-02-26 00:30:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - costums
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A chatbot that gives you writing prompts for daily journaling. Ask follow up questions for clarity. Builds a web of knowledge about you and gives feedback
 slug: idea030-chatbot-journaling
 

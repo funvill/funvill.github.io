@@ -4,7 +4,6 @@ date: 2011-06-12 15:27:00
 categories:
 - Arduino
 - Development
-- 
 - Projects
 slug: rgb-led-pov-globe-status-update-and-mechanical-issues
 

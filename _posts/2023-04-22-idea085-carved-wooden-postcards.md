@@ -2,7 +2,7 @@
 title: "Idea 085 - Carved wooden postcards"
 date: 2023-04-21 01:25:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - postcards
@@ -10,8 +10,8 @@ tags:
 - cnc
 - wood
 - installtion
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Sending a Baltic birch plywood postcard via the Canadian post of every mammal in BC
 slug: idea085-carved-wooden-postcards
 

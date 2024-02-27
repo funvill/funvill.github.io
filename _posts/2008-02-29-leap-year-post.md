@@ -2,7 +2,7 @@
 title: "Leap Year post!"
 date: 2008-02-29 14:47:00
 categories:
-- Uncategorized
+- Self
 slug: leap-year-post
 
 ---

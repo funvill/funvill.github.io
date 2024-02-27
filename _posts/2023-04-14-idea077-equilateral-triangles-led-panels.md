@@ -2,14 +2,14 @@
 title: "Idea 077 - Equilateral triangles LED panels"
 date: 2023-04-14 01:17:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - led
 - polyhedron
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Create equilateral triangles LED panels to construct LED polyhedron shapes
 slug: idea077-equilateral-triangles-led-panels
 

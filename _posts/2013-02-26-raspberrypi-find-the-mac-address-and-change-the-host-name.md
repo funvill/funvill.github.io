@@ -2,6 +2,8 @@
 title: "RaspberryPI - Find the MAC address and change the host name"
 date: 2013-02-26 16:19:00
 categories:
+- Devlopment
+tags:
 - programing
 - RaspberryPI
 - snippet

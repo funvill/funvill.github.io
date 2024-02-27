@@ -2,12 +2,12 @@
 title: "Idea 027 - Print on demand Keyboard Keycaps"
 date: 2023-02-23 00:27:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - keyboards
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A website that lets users upload their own glyphs images for the top of keycaps
 slug: idea027-print-on-demand-keyboard-keycaps
 

@@ -2,7 +2,7 @@
 title: "Notes from March 2017"
 date: 2017-03-01 00:01:00
 categories:
-- bookmarks
+- Bookmarks
 slug: notes-from-march_2017
 
 ---

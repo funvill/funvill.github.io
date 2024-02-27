@@ -2,13 +2,13 @@
 title: "Idea 033 - AI Grant Writing"
 date: 2023-03-01 00:33:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - writing
 - ai
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Use AI to help with labor intensive grant writing
 slug: idea033-ai-grant-writing
 

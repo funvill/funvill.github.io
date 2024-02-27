@@ -7,8 +7,7 @@ tags:
 - Games
 - GeoCaching
 - GeoCoins
-- Laser
-- LaserCuter
+- LaserCutter- LaserCuter
 - Projects
 - QRCode
 - VHS

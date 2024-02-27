@@ -2,13 +2,13 @@
 title: "Idea 036 - Kaleidoscope Chandler"
 date: 2023-03-04 00:36:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - kaleidoscope
 - liight
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Light shines through colored glass that rotates to produce washes of colors on the ceiling
 slug: idea036-kaleidoscope-chandler
 

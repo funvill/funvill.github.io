@@ -2,7 +2,7 @@
 title: "Renting to the vancouver hackspace"
 date: 2017-03-22 00:01:00
 categories:
-- Uncategorized
+- Vancouver
 toc: true
 slug: renting-to-the-vancouver-hackspace
 

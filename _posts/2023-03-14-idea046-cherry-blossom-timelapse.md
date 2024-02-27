@@ -2,13 +2,13 @@
 title: "Idea 046 - Cherry Blossom Timelapse"
 date: 2023-03-14 00:46:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - timelapes
 - flowers
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Take several time lapse videos of the Cherry Blossom park while its blooming
 slug: idea046-cherry-blossom-timelapse
 

@@ -2,14 +2,14 @@
 title: "Idea 074 - Dandelion Galaxy"
 date: 2023-04-11 01:14:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - leds
 - installtion
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: An art installation of a sphere of LEDS that show the night sky from outside earth
 slug: idea074-dandelion-galaxy
 

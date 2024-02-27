@@ -2,12 +2,12 @@
 title: "Idea 005 - Scream Photo Booth"
 date: 2023-02-01 00:05:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - photo
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A photo booth where the camera is only triggered when you scream loud enough. Producing a photo with real emotions
 slug: idea005-scream-photo-booth
 

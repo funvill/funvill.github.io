@@ -2,8 +2,8 @@
 title: "Website Changelog 2024-Feb-26"
 date: 2024-02-26 00:01:00
 categories:
-- review
-- website
+- Review
+- Website
 ---
 
 A full list of changes can be found on this in this blog's [github commit history](https://github.com/funvill/funvill.github.io).

@@ -3,7 +3,6 @@ title: "Intro to Making Puppets workshop on Saturday, December 7, 2013"
 date: 2013-11-24 13:00:00
 categories:
 - Projects
-- 
 - Vancouver
 slug: intro-to-making-puppets-workshop-on-saturday-december-7-2013
 

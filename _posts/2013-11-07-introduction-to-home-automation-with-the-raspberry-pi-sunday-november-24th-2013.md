@@ -3,7 +3,6 @@ title: "Introduction to Home automation with the Raspberry Pi - Sunday November 
 date: 2013-11-07 23:22:00
 categories:
 - Projects
-- 
 - RaspberryPI
 slug: introduction-to-home-automation-with-the-raspberry-pi-sunday-november-24th-2013
 

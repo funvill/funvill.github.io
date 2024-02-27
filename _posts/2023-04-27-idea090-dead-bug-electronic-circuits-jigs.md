@@ -2,13 +2,13 @@
 title: "Idea 090 - Dead Bug electronic circuits jigs"
 date: 2023-04-27 01:30:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - electronics
 - circuits
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Create a series of 3D printed jigs for making exploded electronic circuits without PCBs
 slug: idea090-dead-bug-electronic-circuits-jigs
 

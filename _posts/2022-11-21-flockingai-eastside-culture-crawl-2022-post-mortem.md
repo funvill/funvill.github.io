@@ -5,7 +5,7 @@ categories: null
 tags:
 - art
 - gallery
-- projects
+- Projects
 - AI
 - Vancouver
 header      :

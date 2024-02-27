@@ -2,14 +2,14 @@
 title: "Idea 073 - Glowing tentacle eyeball monster"
 date: 2023-04-10 01:13:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - leds
 - installtion
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Glowing tentacle monster made out of flexible vinyl ducting and LEDs
 slug: idea073-glowing-tentacle-eyeball-monster
 

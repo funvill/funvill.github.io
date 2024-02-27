@@ -2,7 +2,7 @@
 title: "Notes from February 2017"
 date: 2017-02-01 00:01:00
 categories:
-- bookmarks
+- Bookmarks
 toc: true
 slug: notes-from-february_2017
 

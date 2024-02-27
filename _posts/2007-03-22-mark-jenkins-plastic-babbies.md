@@ -2,7 +2,7 @@
 title: "Mark Jenkins - Plastic babies"
 date: 2007-03-22 13:56:00
 categories:
-- Uncategorized
+- Art
 slug: mark-jenkins-plastic-babbies
 
 ---

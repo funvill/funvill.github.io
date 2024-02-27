@@ -2,12 +2,12 @@
 title: "Idea 072 - Reminders for basic body needs"
 date: 2023-04-09 01:12:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - sensors
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A sensor that can tell you when you are hungry or dehydrated, and other basic human needs
 slug: idea072-reminders-for-basic-body-needs
 

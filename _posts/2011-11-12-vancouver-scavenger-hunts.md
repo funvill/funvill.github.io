@@ -2,7 +2,6 @@
 title: "Vancouver Scavenger Hunts"
 date: 2011-11-12 15:50:00
 categories:
-- Uncategorized
 - Vancouver
 slug: vancouver-scavenger-hunts
 

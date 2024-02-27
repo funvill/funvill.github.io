@@ -2,7 +2,7 @@
 title: "Tech Demo - Stained glass windows project"
 date: 2018-04-11 00:01:00
 categories:
-- projects
+- Projects
 - stainedglass
 tags:
 - techdemo

@@ -2,7 +2,7 @@
 title: "Sign Posts - Vancouver Mini Maker Faire 2011"
 date: 2011-06-17 18:43:00
 categories:
-- Uncategorized
+- Projects
 - Vancouver
 slug: maker-faire-sign-posts
 

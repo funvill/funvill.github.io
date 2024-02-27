@@ -4,8 +4,7 @@ date: 2014-01-01 19:19:00
 categories:
 - YearOfMaking
 tags:
-- Laser
-- lasercutter
+- LaserCutter
 - Projects
 - Video
 - Wood

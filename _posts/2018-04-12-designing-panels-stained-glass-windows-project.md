@@ -2,7 +2,7 @@
 title: "Designing panels - Stained glass windows project"
 date: 2018-04-12 00:01:00
 categories:
-- projects
+- Projects
 - stainedglass
 slug: designing-panels-stained-glass-windows-project
 

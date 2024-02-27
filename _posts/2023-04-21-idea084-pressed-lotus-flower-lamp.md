@@ -2,14 +2,14 @@
 title: "Idea 084 - Pressed lotus flower lamp"
 date: 2023-04-20 01:24:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - flowers
 - art
 - installtion
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A lamp made of acrylic shards of pressed flowers in the shape of a lotus flower
 slug: idea084-pressed-lotus-flower-lamp
 

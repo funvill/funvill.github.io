@@ -2,12 +2,12 @@
 title: "Idea 045 - Spread your genes"
 date: 2023-03-13 00:45:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - games
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A outdoor game that rewards you for spreading your DNA to as many other players as possible
 slug: idea045-spread-your-genes
 

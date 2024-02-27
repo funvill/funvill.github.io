@@ -3,7 +3,6 @@ title: "Acrylic Ornaments - Design thoughts an research"
 date: 2012-11-19 01:12:00
 categories:
 - Development
-- 
 - LaserCutter
 slug: acrylic-ornaments-design-thoughts-an-research
 

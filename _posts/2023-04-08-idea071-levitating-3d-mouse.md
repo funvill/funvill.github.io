@@ -2,12 +2,12 @@
 title: "Idea 071 - Levitating 3D Mouse"
 date: 2023-04-08 01:11:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - electroncis
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Using magnets coils to levitate the mouse in the air, and 9 degrees of freedom sensors to detect motion
 slug: idea071-levitating-3d-mouse
 

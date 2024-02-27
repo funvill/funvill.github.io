@@ -2,15 +2,15 @@
 title: "Idea 065 - Atari Space Invaders LED Matrix pendent"
 date: 2023-04-02 01:05:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - led
 - wearables
 - electonics
 - pcb
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A necklace penchant that has a LED matrix that displays Atari Space Invaders animations
 slug: idea065-atari-space-invaders-led-matrix-pendent
 

@@ -2,13 +2,13 @@
 title: "Idea 064 - Inflatable crowd"
 date: 2023-04-01 01:04:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - installtion
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A crowd of mini wacky inflatable arm man (Air Dancers) in a matrix controlled by sound
 slug: idea064-inflatable-crowd
 

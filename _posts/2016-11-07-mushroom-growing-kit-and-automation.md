@@ -2,7 +2,7 @@
 title: "Mushroom growing kit and automation"
 date: 2016-11-07 00:01:00
 categories:
-- Uncategorized
+- Self
 slug: mushroom-growing-kit-and-automation
 
 ---

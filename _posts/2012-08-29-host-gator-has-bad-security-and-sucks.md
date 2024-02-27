@@ -6,7 +6,7 @@ categories:
 tags:
 - hosting
 - passwords
-- rant
+- Rants
 - Rants
 - security
 - support

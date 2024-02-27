@@ -2,12 +2,12 @@
 title: "Idea 092 - Command line tools as desktop applications"
 date: 2023-04-29 01:32:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - tools
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Desktop application UI wrapped around common Windows Linux MacOS command line tools
 slug: idea092-command-line-tools-as-desktop-applications
 

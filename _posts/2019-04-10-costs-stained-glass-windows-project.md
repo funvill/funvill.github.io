@@ -2,7 +2,7 @@
 title: "Costs - Stained glass windows project"
 date: 2019-04-10 00:01:00
 categories:
-- projects
+- Projects
 - stainglass
 slug: costs-stained-glass-windows-project
 

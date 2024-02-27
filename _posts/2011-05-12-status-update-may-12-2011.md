@@ -2,8 +2,7 @@
 title: "Status update May 12, 2011"
 date: 2011-05-12 12:48:00
 categories:
-- Uncategorized
-- News
+- Self
 slug: status-update-may-12-2011
 
 ---

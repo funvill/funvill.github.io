@@ -7,8 +7,7 @@ tags:
 - coins
 - GeoCaching
 - GeoCoins
-- Laser
-- lasercutter
+- LaserCutter
 - Projects
 - VHS
 - Wood

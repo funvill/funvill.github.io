@@ -7,10 +7,9 @@ tags:
 - coins
 - design
 - Development
-- Laser
-- lasercutter
+- LaserCutter
 - News
-- projects
+- Projects
 - shhh
 - VHS
 slug: updated-versions-of-vhs-lighting-talk-challenge-coins

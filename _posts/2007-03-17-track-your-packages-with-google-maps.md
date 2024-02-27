@@ -2,7 +2,7 @@
 title: "Track your packages with Google Maps"
 date: 2007-03-17 11:03:00
 categories:
-- Uncategorized
+- Tips
 slug: track-your-packages-with-google-maps
 
 ---

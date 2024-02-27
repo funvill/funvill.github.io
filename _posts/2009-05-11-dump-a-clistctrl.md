@@ -2,7 +2,7 @@
 title: "Dump a CListCtrl"
 date: 2009-05-11 15:41:00
 categories:
-- devlopment
+- Devlopment
 tags:
 - code
 - cpp

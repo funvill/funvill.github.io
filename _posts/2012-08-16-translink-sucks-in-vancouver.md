@@ -2,14 +2,14 @@
 title: "Translink sucks in Vancouver"
 date: 2012-08-16 23:15:00
 categories:
-- rant
+- Rants
 tags:
-- Canada
-- rant
+- Rants
 - travel
 - Vancouver
 slug: translink-sucks-in-vancouver
-
+tags:
+- Canada
 ---
 
 This will mark my 25th complaint sent to <a href="http://translinksucks.blogspot.ca/">translink</a> <a href="http://infomap.translink.bc.ca/hiwire?.a=cCustomerComplaint">contact us forum</a> this year. That's  more then &gt;3 a month every single month.

@@ -2,14 +2,14 @@
 title: "Idea 076 - The Vancouver Tone"
 date: 2023-04-13 01:16:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - installtion
 - audio
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Give Vancouver its own unique tone by installing wind chime like devices in the trees across the city
 slug: idea076-the-vancouver-tone
 

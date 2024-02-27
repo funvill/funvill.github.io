@@ -2,12 +2,12 @@
 title: "Idea 055 - Truchet tessellating bathroom tiles"
 date: 2023-03-23 00:55:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - math
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Elevate your bathroom or kitchen with unique and meaningful ceramic tiles inspired by mathematical shapes and designs that are both visually stunning and tell a story
 slug: idea055-truchet-tessellating-bathroom-tiles
 

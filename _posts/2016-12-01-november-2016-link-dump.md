@@ -2,7 +2,7 @@
 title: "November 2016 interesting link dump"
 date: 2016-12-01 00:01:00
 categories:
-- bookmarks
+- Bookmarks
 toc: true
 slug: november-2016-link-dump
 

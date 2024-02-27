@@ -2,7 +2,7 @@
 title: "Javascript redirect when device has restarted"
 date: 2011-09-20 12:45:00
 categories:
-- Uncategorized
+- Junk
 slug: javascript-redirect-when-device-has-restarted
 
 ---

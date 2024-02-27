@@ -2,12 +2,12 @@
 title: "Idea 026 - Digger game"
 date: 2023-02-22 00:26:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - game
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Resource management, worker placement, exploration tile game.
 slug: idea026-digger-game
 

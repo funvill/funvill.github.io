@@ -2,12 +2,12 @@
 title: "Idea 099 - Stevens projects club"
 date: 2023-05-06 01:39:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
-- projects
+- Projects
 - subscriptions
-- ideas
+- Ideas
 excerpt: Patreon subscription for people receive one of Steven’s projects twice a year
 slug: idea099-stevens-projects-club
 

@@ -2,12 +2,12 @@
 title: "Idea 091 - Honeypot terrarium"
 date: 2023-04-28 01:31:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Visualization of robots as they attack critical infrastructure using Conways Game of Life
 slug: idea091-honeypot-terrarium
 

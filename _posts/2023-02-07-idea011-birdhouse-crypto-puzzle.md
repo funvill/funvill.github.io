@@ -2,15 +2,15 @@
 title: "Idea 011 - Birdhouse Crypto Puzzle"
 date: 2023-02-07 00:11:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - birdhouse
 - birds
 - puzzle
 - art
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Homes for birds, and puzzles for humans
 slug: idea011-birdhouse-crypto-puzzle
 

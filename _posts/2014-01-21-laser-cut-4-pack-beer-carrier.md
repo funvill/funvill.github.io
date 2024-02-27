@@ -5,8 +5,7 @@ categories:
 - Projects
 tags:
 - beer
-- Laser
-- LaserCutter
+- LaserCutter- LaserCutter
 - Wood
 slug: laser-cut-4-pack-beer-carrier
 

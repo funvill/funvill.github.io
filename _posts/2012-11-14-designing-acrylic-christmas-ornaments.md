@@ -6,8 +6,7 @@ categories:
 tags:
 - christmas
 - Development
-- Laser
-- lasercutter
+- LaserCutter
 - ornaments
 slug: designing-acrylic-christmas-ornaments
 

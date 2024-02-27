@@ -2,7 +2,7 @@
 title: "SQL Injection License Plate"
 date: 2011-10-11 19:10:00
 categories:
-- Uncategorized
+- Junk
 slug: sql-injection-license-plate
 
 ---

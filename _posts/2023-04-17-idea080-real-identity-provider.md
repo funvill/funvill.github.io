@@ -2,14 +2,14 @@
 title: "Idea 080 - Real Identity provider"
 date: 2023-04-17 01:20:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - crypto
 - saas
 - idenification
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A identify provider for all digital platforms based on social trust
 slug: idea080-real-identity-provider
 

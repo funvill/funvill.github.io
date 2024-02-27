@@ -2,7 +2,7 @@
 title: "CNC Zen Garden - Vancouver Maker Faire 2016 Post Mortem"
 date: 2016-06-15 00:01:00
 categories:
-- Uncategorized
+- Projects
 slug: cnc-zen-garden-maker-faire-post-mortem
 
 ---

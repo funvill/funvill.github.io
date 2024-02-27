@@ -2,7 +2,7 @@
 title: "Ideas on how to advertise your stories"
 date: 2010-03-15 22:31:00
 categories:
-- Uncategorized
+- SEO
 slug: ideas-on-how-to-advertise-your-stories
 
 ---

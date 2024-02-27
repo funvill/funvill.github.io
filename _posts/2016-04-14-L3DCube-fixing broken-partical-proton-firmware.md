@@ -2,7 +2,7 @@
 title: "Fixing a broken particle photon firmware in windows for the L3D Cube"
 date: 2016-04-14 22:39:00
 categories:
-- Uncategorized
+- Projects
 slug: l3dcube-fixing broken-partical-proton-firmware
 
 ---

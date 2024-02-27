@@ -2,7 +2,7 @@
 title: "A web masters thoughts on mortality"
 date: 2010-12-10 11:33:00
 categories:
-- Uncategorized
+- Self
 slug: a-web-masters-thoughts-on-mortality
 
 ---

@@ -291,7 +291,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true # true
-      share: true
+      share: false
       related: false
   # _pages
   - scope:
@@ -300,7 +300,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      share: true
+      share: false
       author_profile: true
   # _projects
   - scope:
@@ -309,7 +309,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      share: true
+      share: false
       author_profile: true
   # _flockingai
   - scope:
@@ -318,7 +318,7 @@ defaults:
     values:
       layout: flockingai-single
       classes: wide
-      share: true
+      share: false
       author_profile: true
       comments: true
 

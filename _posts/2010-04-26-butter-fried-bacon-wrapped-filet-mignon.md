@@ -2,12 +2,12 @@
 title: "Butter fried bacon wrapped filet Mignon"
 date: 2010-04-26 21:10:00
 categories:
-- recipe
+- Recipes
 tags:
 - Cooking
 - directions
 - raspberry
-- recipe
+- Recipes
 - salad
 - steak
 slug: butter-fried-bacon-wrapped-filet-mignon

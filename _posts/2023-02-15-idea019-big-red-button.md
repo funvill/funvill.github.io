@@ -2,13 +2,13 @@
 title: "Idea 019 - Big Red Button"
 date: 2023-02-15 00:19:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - installtion
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Create a series of buttons with labels, install them around the city, see what ones get pushed most
 slug: idea019-big-red-button
 

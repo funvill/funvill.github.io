@@ -2,9 +2,9 @@
 title: "February 2021 brain dump"
 date: 2021-02-09 00:22:00
 categories:
-- bookmarks
+- Bookmarks
 tags:
-- bookmarks
+- Bookmarks
 - journal
 toc: true
 slug: february-2021-braindump

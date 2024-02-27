@@ -2,7 +2,7 @@
 title: "Must see movies"
 date: 2016-11-15 00:01:00
 categories:
-- Uncategorized
+- Self
 slug: must-see-movies
 
 ---

@@ -2,15 +2,15 @@
 title: "Idea 063 - RootedIn"
 date: 2023-03-31 01:03:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - tree
 - art
 - social
 - generative
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A generated a social media platform for trees in a city
 slug: idea063-rooted-in
 

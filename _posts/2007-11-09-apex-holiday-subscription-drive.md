@@ -3,7 +3,7 @@ title: "APEX Holiday Subscription Drive"
 date: 2007-11-09 18:24:00
 categories:
 - Books
-- EDF
+- Vancouver
 slug: apex-holiday-subscription-drive
 
 ---

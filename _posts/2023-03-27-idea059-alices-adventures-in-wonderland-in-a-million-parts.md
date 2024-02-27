@@ -2,13 +2,13 @@
 title: "Idea 059 - Alices Adventures in Wonderland in a million parts"
 date: 2023-03-27 00:59:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - art
 - Stainedglass
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Stainedglass windows for each location in Alices Adventures in Wonderland
 slug: idea059-alices-adventures-in-wonderland-in-a-million-parts
 

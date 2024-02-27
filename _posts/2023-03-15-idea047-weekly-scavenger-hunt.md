@@ -2,14 +2,14 @@
 title: "Idea 047 - Weekly Scavenger Hunt"
 date: 2023-03-15 00:47:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - ml
 - scavenger-hunt
 - game
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: An automatically weekly generated global scavenger hunt with leaderboard
 slug: idea047-weekly-scavenger-hunt
 

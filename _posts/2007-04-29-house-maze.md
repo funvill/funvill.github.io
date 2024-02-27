@@ -2,7 +2,7 @@
 title: "House maze"
 date: 2007-04-29 09:00:00
 categories:
-- Uncategorized
+- Junk
 slug: house-maze
 
 ---

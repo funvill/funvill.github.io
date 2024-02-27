@@ -2,13 +2,13 @@
 title: "Idea 67 - Deadmans vault SAAS SafePassage"
 date: 2023-04-04 01:07:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - crypto
 - saas
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: End-to-end encrypted digital vault for storing and sharing sensitive information after death
 slug: idea067-deadmans-vault-saas-safe-passage
 

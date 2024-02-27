@@ -14,7 +14,7 @@ slug: arduino-infrared-blue-robot-challenge-burning-man-and-superman
 
 <strong>Blue robot challenge </strong>
 
-This week I have been concentrating on the <em>Blue robot challenge</em> from <a href="http://vancouver.hackspace.ca/doku.php">VHS</a> part of their <a href="http://www.vancal.org/">June robot month</a>. The blue robot challenge is to build a simple robot from their blue robot kits that can sense and capture various IR beacons scattered around the room. The beacons have three states, Red, Blue, Neutral. when a robot travels underneath the beacon it can send a IR single to the beacon changing its state. The beacon counts up on how much time it spends in each state. The robot with the most time on the beacons at the end of the round wins. The rules to the contest are kept light on purpose to get people to think out side of the box.
+This week I have been concentrating on the <em>Blue robot challenge</em> from VHS part of their <a href="http://www.vancal.org/">June robot month</a>. The blue robot challenge is to build a simple robot from their blue robot kits that can sense and capture various IR beacons scattered around the room. The beacons have three states, Red, Blue, Neutral. when a robot travels underneath the beacon it can send a IR single to the beacon changing its state. The beacon counts up on how much time it spends in each state. The robot with the most time on the beacons at the end of the round wins. The rules to the contest are kept light on purpose to get people to think out side of the box.
 
 <strong>Links </strong>
 <ul>

@@ -2,12 +2,12 @@
 title: "Idea 028 - Finite Future Clock"
 date: 2023-02-24 00:28:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - keyboards
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Experience the passage of time in a new light with our death clock a stunning LED panel that visualizes the preciousness of life as it counts down Serves as a unique conversation starter and an amazing visualization of life itself
 slug: idea028-finite-future-clock
 

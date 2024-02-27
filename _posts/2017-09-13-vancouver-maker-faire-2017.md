@@ -2,7 +2,7 @@
 title: "Vancouver Maker Faire 2017"
 date: 2017-09-13 00:01:00
 categories:
-- Uncategorized
+- Vancouver
 slug: vancouver-maker-faire-2017
 
 ---

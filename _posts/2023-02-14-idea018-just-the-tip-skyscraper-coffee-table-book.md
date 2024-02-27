@@ -2,14 +2,14 @@
 title: "Idea 018 - Just the tip skyscraper coffee table book"
 date: 2023-02-14 00:18:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - photo
 - book
 - art
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A photo book of just the tops of very tall buildings, just the top few flors, just the tip
 slug: idea018-just-the-tip-skyscraper-coffee-table-book
 

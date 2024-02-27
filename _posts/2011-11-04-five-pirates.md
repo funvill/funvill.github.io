@@ -2,7 +2,7 @@
 title: "Five Pirates"
 date: 2011-11-04 09:03:00
 categories:
-- Uncategorized
+- Joke
 slug: five-pirates
 
 ---

@@ -2,14 +2,14 @@
 title: "Idea 029 - SproutSwipe"
 date: 2023-02-25 00:29:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - nature
 - plants
 - app
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Use cell phone sensors to create a filtered list of suitable plants for a space then show the plants using Augmented Reality. Dating app for plants
 slug: idea029-sproutswipe
 

@@ -2,12 +2,12 @@
 title: "Idea 049 - Cheap meals if you follow directions"
 date: 2023-03-17 00:48:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - saas
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Betting against consumers on human nature
 slug: idea049-cheap-meals-if-you-follow-directions
 

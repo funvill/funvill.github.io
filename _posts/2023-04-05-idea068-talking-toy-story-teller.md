@@ -2,13 +2,13 @@
 title: "Idea 068 - Talking Toy story teller"
 date: 2023-04-05 01:08:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - toy
 - ai
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Connect ChatGPT to Text to Voice application inside a Furby/teady bear style robotic pet
 slug: idea068-talking-toy-story-teller
 

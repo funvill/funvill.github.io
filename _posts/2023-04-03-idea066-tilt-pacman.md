@@ -2,15 +2,15 @@
 title: "Idea 066 - Tilt Pacman"
 date: 2023-04-03 01:06:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - game
 - leds
 - eletronics
 - pcb
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Use a accelerometer to control pacman on a LED Matrix
 slug: idea066-tilt-pacman
 

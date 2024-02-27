@@ -2,13 +2,13 @@
 title: "Idea 032 - Cistercian stained glass Swatch internet .beat clock"
 date: 2023-02-28 00:32:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - clock
 - stainedglass
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: A segmented display that combines a forgotten numbering system and a method for telling time that no one uses
 slug: idea032-cistercian-stained-glass-swatch-internet-beatclock
 

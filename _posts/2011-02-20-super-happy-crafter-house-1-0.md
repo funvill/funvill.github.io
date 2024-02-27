@@ -2,7 +2,6 @@
 title: "Super Happy Crafter House 1.0"
 date: 2011-02-20 01:29:00
 categories:
-- Uncategorized
 - Media
 - Vancouver
 slug: super-happy-crafter-house-1-0

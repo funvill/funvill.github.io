@@ -2,8 +2,7 @@
 title: "What I did in 2010, Year end review"
 date: 2010-12-29 19:00:00
 categories:
-- Uncategorized
-- News
+- Self
 slug: what-i-did-in-2010-year-end-review
 
 ---
@@ -16,7 +15,7 @@ I saw lots of fantastic shows, far to many to list. To name a few; <a href="h
 
 I participated at <a href="http://www.burningman.com/">burning man</a> with its anit cooperate, peace loving hippy festival to protesting at the media fuck fest that was the <a href="http://en.wikipedia.org/wiki/Vancouver">Vancouver</a> <a href="http://www.vancouver2010.com/">2010 Olympic Winter games</a>.
 
-I joined VHS (<a href="http://vancouver.hackspace.ca/">Vancouver hack space</a>) a electronics group, where I can talk about tech, security, and other geeky subjects and learn from others.
+I joined VHS (Vancouver hack space) a electronics group, where I can talk about tech, security, and other geeky subjects and learn from others.
 
 New Skills
 <ul>

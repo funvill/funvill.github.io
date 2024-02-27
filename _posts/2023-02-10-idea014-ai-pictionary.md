@@ -2,13 +2,13 @@
 title: "Idea 014 - AI Pictionary"
 date: 2023-02-10 00:14:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - puzzle
 - art
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Like, Pictionary but an AI draws the picture and you try and guess the prompt that was used to generate the picture
 slug: idea014-ai-pictionary
 

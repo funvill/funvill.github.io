@@ -2,12 +2,12 @@
 title: "Idea 031 - Fabric Floral Cyberpunk Armor"
 date: 2023-02-27 00:31:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - costums
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Following the pattern of a japanese cloth armor from the 1800s, make modern cyberpunk equivalent armor for raves
 slug: idea031-fabric-floral-cyberpunk-armor
 

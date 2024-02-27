@@ -2,7 +2,6 @@
 title: "Our privacy policy: We sell your data. You get our content for free, Deal?"
 date: 2010-12-10 12:12:00
 categories:
-- Uncategorized
 - Rants
 - Development
 slug: our-privacy-policy-we-sell-your-data-you-get-our-content-for-free-deal

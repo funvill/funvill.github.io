@@ -2,7 +2,6 @@
 title: "Twitter vs Tumblr"
 date: 2008-01-10 16:07:00
 categories:
-- Uncategorized
 - Development
 slug: twitter-vs-tumblr
 

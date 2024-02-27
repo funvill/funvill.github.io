@@ -3,9 +3,7 @@ title: "Internet explorer (IE) caching AJAX requests."
 date: 2007-07-06 13:14:00
 categories:
 - Development
-- 
 - Projects
-- 
 - Development
 slug: internet-explorer-ie-catching-ajax-requests
 

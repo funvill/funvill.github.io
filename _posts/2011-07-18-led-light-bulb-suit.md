@@ -2,7 +2,7 @@
 title: "LED light bulb suit."
 date: 2011-07-18 00:00:00
 categories:
-- Uncategorized
+- Junk
 slug: led-light-bulb-suit
 
 ---

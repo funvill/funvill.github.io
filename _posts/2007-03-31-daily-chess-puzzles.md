@@ -2,8 +2,10 @@
 title: "Daily Chess Puzzles"
 date: 2007-03-31 09:31:00
 categories:
-- Chess
+- Puzzle
 - Games
+tag: 
+- Chess
 slug: daily-chess-puzzles
 
 ---

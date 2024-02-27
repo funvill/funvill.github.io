@@ -2,11 +2,11 @@
 title: "Idea 004 - Universal Serial breakout board"
 date: 2023-01-31 00:04:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
-- projects
-- ideas
+- Projects
+- Ideas
 - pcb
 - serial
 - rs232

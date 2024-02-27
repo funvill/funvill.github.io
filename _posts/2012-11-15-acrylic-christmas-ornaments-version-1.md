@@ -3,13 +3,14 @@ title: "Acrylic Christmas Ornaments version 1"
 date: 2012-11-15 22:38:00
 categories:
 - Development
-- 
 - LaserCutter
 slug: acrylic-christmas-ornaments-version-1
 
 ---
 
-<a href="/public/uploads/2012/11/2012-11-15-22.13.401.jpg"><img class="alignright size-medium wp-image-2991" title="2012-11-15 22.13.40" src="/public/uploads/2012/11/2012-11-15-22.13.401-300x175.jpg" alt="" width="300" height="175" /></a>I got some time on <a href="http://vancouver.hackspace.ca/wp/">VHS's laser cuter</a> tonight and was able cut up the first version of the ornaments. They still need some work.
+<a href="/public/uploads/2012/11/2012-11-15-22.13.401.jpg"><img class="alignright size-medium wp-image-2991" title="2012-11-15 22.13.40" src="/public/uploads/2012/11/2012-11-15-22.13.401-300x175.jpg" alt="" width="300" height="175" /></a>
+
+I got some time on VHS's laser cuter tonight and was able cut up the first version of the ornaments. They still need some work.
 <ul>
 	<li>The "P" and "O" look dumb with the inner section filled in. I left the filled in because I wanted to keep the strength up from the inner ring and outer ring. It was a mistake.</li>
 	<li>The cut <a href="http://en.wikipedia.org/wiki/Snowflake">snowflake</a> in the center looks rough and out of place.</li>

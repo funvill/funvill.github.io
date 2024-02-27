@@ -2,13 +2,13 @@
 title: "Idea 051 - Enigma machine kit"
 date: 2023-03-19 00:51:00
 categories:
-- ideas
+- Ideas
 - YearOfIdeas
 tags:
 - pcb
 - crypto
-- projects
-- ideas
+- Projects
+- Ideas
 excerpt: Recreate the German Enigma machine cipher device as a kit using PCBs
 slug: idea051-enigma-machine-kit
 
