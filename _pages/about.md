@@ -8,7 +8,7 @@ excerpt     : 'About Steven Smethurst a Vancouver based maker, hacker, and insta
 toc         : false
 ---
 
-Hi 👋🏼 I'm Steven Smethurst, a [Vancouver](https://en.wikipedia.org/wiki/Vancouver) based 👨‍🎨 [Artist](/cv/), Maker, Coder, Hacker, and all around great guy.
+Hi 👋🏼 I'm *[Steven Smethurst](/about)* and live two lives. During the day I am a CTO at [Chipkin Automation Systems](http://store.chipkin.com/) and at night I am a 👨‍🎨 [Artist](/cv/), Maker, Hacker, and all around great guy.
 
 If I'm not beep booping at my [day job](https://store.chipkin.com/), I might be 🌳 [visting every park in Vancouver](/projects/2020-vancouver-parks/), or making a deck of cards with 📸🐦 [photos of birds](/projects/2021-bird-playing-cards/), or I am working on one of my many side [Projects](/projects/). See what I am [currently working on](/now)
 
