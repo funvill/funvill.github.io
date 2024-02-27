@@ -7,7 +7,7 @@ header      :
 toc         : false
 ---
 
-<img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2024/skull-stack.png" alt="Stack of skull game disks">The Skull Game PCB project was part of the [100 project ideas project #The100DayProject](https://blog.abluestar.com/projects/2023-100-ideas/) where I tried to come up with a new project every single day for 100 days. The Skull game PCB was idea [025 skull card game](https://blog.abluestar.com/idea025-skull-card-game/)
+<img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2024/skull-stack.png" alt="Stack of skull game disks">The Skull Game PCB project was part of the [100 project ideas project #The100DayProject](/projects/2023-100-ideas/) where I tried to come up with a new project every single day for 100 days. The Skull game PCB was idea [025 skull card game](/idea025-skull-card-game/)
 
 Skull is one of the best bluffing games. Easy to learn, Quick to play, and a great game for the pub. The rules for this game can be found here [Skull-Game-Rules](https://github.com/funvill/skull-game-pcb/blob/main/Skull%20Game%20Rules.pdf) and a good review of this game can be found on [Shut Up and Sit Down Youtube channel](https://www.youtube.com/watch?v=Cv1_6AfbwlQ)
 
@@ -21,7 +21,7 @@ For the art I used an early version of [MidJourney](https://www.midjourney.com/h
 
 It was a pretty simple project but there were a few hiccups along the way that caused me to have to do a 2nd iteration. See Skull Game PCB Retrospective.
 
-The original idea notes can be found here [025 skull card game](https://blog.abluestar.com/idea025-skull-card-game/). The project files can be found on my github repository [Skull Game PCB](https://github.com/funvill/skull-game-pcb). Rules can be found here [Skull-Game-Rules](https://github.com/funvill/skull-game-pcb/blob/main/Skull%20Game%20Rules.pdf)
+The original idea notes can be found here [025 skull card game](/idea025-skull-card-game/). The project files can be found on my github repository [Skull Game PCB](https://github.com/funvill/skull-game-pcb). Rules can be found here [Skull-Game-Rules](https://github.com/funvill/skull-game-pcb/blob/main/Skull%20Game%20Rules.pdf)
 
 ## Designs
 

@@ -31,13 +31,13 @@ Then using something like paper.js create procedurally generated line drawings f
 
 Then convert the line drawings into GCode that the XCarve can understand. Use the XCarve to drag around a magnet. The magnet is attached to a ball-bearing. The Ball-Bearing sits in a frame filled with sand. As the XCarve moves the Magnet that the Ball-bearing is attached to it draws in the sand.
 
-Similar techniques to my [CNC Zen Garden](https://blog.abluestar.com/projects/2016-CNCZenGarden/) project. But with procedurally generated line drawings based on the sounds from the album.
+Similar techniques to my [CNC Zen Garden](/projects/2016-CNCZenGarden/) project. But with procedurally generated line drawings based on the sounds from the album.
 
 <img src="/public/uploads/2023/sand1.png" alt="sand1" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/><img src="/public/uploads/2023/sand2.png" alt="sand1" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/><img src="/public/uploads/2023/sand3.png" alt="sand1" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/><img src="/public/uploads/2023/sand4.png" alt="sand1" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>
 
 ## Prior art
 
-- [CNC Zen Garden](https://blog.abluestar.com/projects/2016-CNCZenGarden/)
+- [CNC Zen Garden](/projects/2016-CNCZenGarden/)
 - [Sisyphus Kinetic Art Table](https://sisyphus-industries.com/)
 - [Amazing CNC Sand Art Machine Draws Using Magnets](https://www.hackster.io/news/this-amazing-cnc-sand-art-machine-draws-using-magnets-25d3632325a6)
 

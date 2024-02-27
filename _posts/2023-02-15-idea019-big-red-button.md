@@ -62,7 +62,7 @@ A webpage could be created with a list of the buttons, what the label is, when i
 
 - [r/thebutton](https://www.reddit.com/r/thebutton/) - [Article describing this button](https://gizmodo.com/people-got-so-into-this-strange-internet-button-they-ma-1700779699)
 - [Lost TV - Pushing the button](https://lostpedia.fandom.com/wiki/Pushing_the_button)
-- [Day 100 - ESP8266 IFTTT button](https://blog.abluestar.com/day-100-esp8266-ifttt-button/)
+- [Day 100 - ESP8266 IFTTT button](/day-100-esp8266-ifttt-button/)
 - [Why We Always Want to Push the Big Red Button](https://gizmodo.com/why-we-always-want-to-push-the-big-red-button-1723914709)
 - [TV Tropes - What Does This Button Do?](https://tvtropes.org/pmwiki/pmwiki.php/Main/WhatDoesThisButtonDo)
 - [TV Tropes - Don't Touch It, You Idiot!](https://tvtropes.org/pmwiki/pmwiki.php/Main/DontTouchItYouIdiot)

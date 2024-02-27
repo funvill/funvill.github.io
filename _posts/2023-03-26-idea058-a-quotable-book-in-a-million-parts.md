@@ -28,19 +28,19 @@ I work best in iteration, where I can produce something and show progress every 
 
 Many of my past projects are rooted in this idea.
 
-- [(2023) 100 ideas](https://blog.abluestar.com/projects/2023-100-ideas/)
-  - [Idea 3 - PCB Art of Every Mammal in BC](https://blog.abluestar.com/idea003-pcb-art-of-every-mammal-in-bc/)
-  - [Idea 6 - Procedurally generated Glowing Mushroom PCB](https://blog.abluestar.com/idea006-procedurally-generated-glowing-mushroom-pcb/)
-  - [Idea 10 - Polyhedron Papercraft Mobile](https://blog.abluestar.com/idea010-polyhedron-papercraft-mobile/)
-  - [Idea 20 - Many styles of Vancouver](https://blog.abluestar.com/idea020-many-styles-of-vancouver/)
-  - [Idea 30 - Chatbot Journaling](https://blog.abluestar.com/idea030-chatbot-journaling/)
-  - [Idea 46 - Cherry Blossom Timelapse](https://blog.abluestar.com/idea046-cherry-blossom-timelapse/)
-  - [Idea 47 - Weekly Scavenger Hunt](https://blog.abluestar.com/idea047-weekly-scavenger-hunt/)
-  - [Idea 50 - Tessellating Illuminated Origami Wall Sculpture](https://blog.abluestar.com/idea050-tessellating-illuminated-origami-wall-sculpture/)
-- [(2022) Flocking AI](https://blog.abluestar.com/projects/2022-flocking-ai/)
-- [(2021) Vancouver Bird playing cards](https://blog.abluestar.com/projects/2021-bird-playing-cards/)
-- [(2020) Vancouver City Parks](https://blog.abluestar.com/projects/2020-vancouver-parks/)
-- [(2015) The 100 Day Project](https://blog.abluestar.com/projects/2015-The100DayProject/)
+- [(2023) 100 ideas](/projects/2023-100-ideas/)
+  - [Idea 3 - PCB Art of Every Mammal in BC](/idea003-pcb-art-of-every-mammal-in-bc/)
+  - [Idea 6 - Procedurally generated Glowing Mushroom PCB](/idea006-procedurally-generated-glowing-mushroom-pcb/)
+  - [Idea 10 - Polyhedron Papercraft Mobile](/idea010-polyhedron-papercraft-mobile/)
+  - [Idea 20 - Many styles of Vancouver](/idea020-many-styles-of-vancouver/)
+  - [Idea 30 - Chatbot Journaling](/idea030-chatbot-journaling/)
+  - [Idea 46 - Cherry Blossom Timelapse](/idea046-cherry-blossom-timelapse/)
+  - [Idea 47 - Weekly Scavenger Hunt](/idea047-weekly-scavenger-hunt/)
+  - [Idea 50 - Tessellating Illuminated Origami Wall Sculpture](/idea050-tessellating-illuminated-origami-wall-sculpture/)
+- [(2022) Flocking AI](/projects/2022-flocking-ai/)
+- [(2021) Vancouver Bird playing cards](/projects/2021-bird-playing-cards/)
+- [(2020) Vancouver City Parks](/projects/2020-vancouver-parks/)
+- [(2015) The 100 Day Project](/projects/2015-The100DayProject/)
 
 <img src="/public/uploads/2022/flockingai-wall.jpg" alt="ink-tree" style="margin: 10px; border: 1px solid black; padding: 5px"/>
 
@@ -68,7 +68,7 @@ We shouldn’t have to worry about copyright issues, as this new work should be 
 
 ### Example of transformative works
 
-There are many examples of how to transform the source artwork into something else. I am going to use “this idea (058)” as the basis for the next couple of days of [ideas](https://blog.abluestar.com/projects/2023-100-ideas/).
+There are many examples of how to transform the source artwork into something else. I am going to use “this idea (058)” as the basis for the next couple of days of [ideas](/projects/2023-100-ideas/).
 
 - [Day 059](/idea059-alices-adventures-in-wonderland-in-a-million-parts) - **Alices Adventures in Wonderland in a million parts** - Stained glass windows for each location in Alice's Adventures in Wonderland
 - [Day 060](/idea060-the-little-prince-in-a-million-parts) - **The Little Prince in a million parts** - Layered paper craft light boxes of the different chapters of The Little Prince

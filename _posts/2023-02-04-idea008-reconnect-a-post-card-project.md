@@ -30,7 +30,7 @@ People are more disconnected than ever, the pandemic has separated us from our c
 
 ### The solution
 
-<img src="/public/uploads/2023/postcards.png" alt="postcards" style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>I have a bunch of extra postcards from the [Flocking AI](https://blog.abluestar.com/projects/2022-flocking-ai/) [Cultural crawl event](https://blog.abluestar.com/flockingai-eastside-culture-crawl-2022-post-mortem/). I can send them out in packages of 5 to friends and family. Include the following letter as instructions on what to do with the post cards. One of the postcards that I send will be self addressed back to me.
+<img src="/public/uploads/2023/postcards.png" alt="postcards" style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>I have a bunch of extra postcards from the [Flocking AI](/projects/2022-flocking-ai/) [Cultural crawl event](/flockingai-eastside-culture-crawl-2022-post-mortem/). I can send them out in packages of 5 to friends and family. Include the following letter as instructions on what to do with the post cards. One of the postcards that I send will be self addressed back to me.
 
 Letter to include with the post cards
 
@@ -51,7 +51,7 @@ Letter to include with the post cards
 >   - **Book** - Write out a small snippet from somewhere in the story to lure the recipient in or just let them know what you loved about the book!
 > - **A Joke or Quote** - If you can’t think of anything else, add a joke or your favorite quote.
 >
-> On the front of the postcard is an illustration of a bird that was generated using AI. It's part of my “Flocking AI” project where I taught a robot to dream of imaginary birds. You can find out more about this project on my website here: [https://blog.abluestar.com/projects/2022-flocking-ai/](https://blog.abluestar.com/projects/2022-flocking-ai/)
+> On the front of the postcard is an illustration of a bird that was generated using AI. It's part of my “Flocking AI” project where I taught a robot to dream of imaginary birds. You can find out more about this project on my website here: [(/projects/2022-flocking-ai/](/projects/2022-flocking-ai/)
 
 ## Prior art
 

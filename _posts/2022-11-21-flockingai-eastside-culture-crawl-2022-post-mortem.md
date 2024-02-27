@@ -14,7 +14,7 @@ slug: flockingai-eastside-culture-crawl-2022-post-mortem
 
 ---
 
-Most mortem for the [Flocking AI](https://blog.abluestar.com/projects/2022-flocking-ai/) project at [Maker labs](https://www.makerlabs.com/) for [Eastside Culture Crawl](https://culturecrawl.ca) on November 28th, 2022
+Most mortem for the [Flocking AI](/projects/2022-flocking-ai/) project at [Maker labs](https://www.makerlabs.com/) for [Eastside Culture Crawl](https://culturecrawl.ca) on November 28th, 2022
 
 ## The Gallery Wall
 
@@ -23,7 +23,7 @@ I set up the photos on the wall to look like a calendar. Each month to show that
 
 The whole series of photos were 6 inches lower than I was planning. This happened because I miscounted the number of weeks/rows in each month as 6 instead of 5 when I started in the bottom left. October has 6 rows, while every other month only has 5. This turned out to be a good thing as the photos higher up (such as August) were much harder to see, especially by children.
 
-<img src='/public/uploads/2022/flockingai-closeup.jpg' alt='Flocking AI closeup' style="float: left; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"> The first bird that most people saw was [Milo (Knitted Sparrow)](https://blog.abluestar.com/flockingai/061-milo/) because it is centered and child height. When parents would ask their children what their favorite one was, it was the first cute one that they saw. It looked the most like a Pixar character.  It was also one of the most anthropomorphized (human looking) looking one because of the knitted scarf and coffee cup. It quickly became the most popular bird by far. Because of its popularity I used it as the example in my main pitch, and that also increased its popularity.
+<img src='/public/uploads/2022/flockingai-closeup.jpg' alt='Flocking AI closeup' style="float: left; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"> The first bird that most people saw was [Milo (Knitted Sparrow)](/flockingai/061-milo/) because it is centered and child height. When parents would ask their children what their favorite one was, it was the first cute one that they saw. It looked the most like a Pixar character.  It was also one of the most anthropomorphized (human looking) looking one because of the knitted scarf and coffee cup. It quickly became the most popular bird by far. Because of its popularity I used it as the example in my main pitch, and that also increased its popularity.
 
 I didn’t have the banner for Thursday, Friday but was able to make it early Saturday morning. I think the banner really ties the gallery wall together. It also gives people a clue what this project is about, and giggles to people who like the play on words.
 
@@ -52,7 +52,7 @@ This is the main pitch that I settled on after a few conversations with people.
 >
 > I had a conversation with this robotic bird nerd and asked a few stock questions.
 >
-> I showed a sheet of paper with the conversation used to create [Milo (Knitted Sparrow)](https://blog.abluestar.com/flockingai/061-milo/)
+> I showed a sheet of paper with the conversation used to create [Milo (Knitted Sparrow)](/flockingai/061-milo/)
 >
 > We are creating a new field guide to birds with imaginary birds. First, we need to start with a new species name. Which do we call this new bird species? The robot replied with; the new species name is “knitted sparrow”.
 >

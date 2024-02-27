@@ -15,7 +15,7 @@ slug: idea060-the-little-prince-in-a-million-parts
 
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -38,7 +38,7 @@ The book could be split up by chapter or by each of the planets that the little 
 <img src="/public/uploads/2023/littleprince-layers2.png" alt="littleprince-layers" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>
 
 - [The Little Prince book](http://the-little-prince.site/appendix/The_Little_Prince.pdf)
-- [Day 13 - Layered paper craft dragon](https://blog.abluestar.com/day-13-layered-paper-craft-dragon/), and  [Day 74 - Iron giant layered paper craft](https://blog.abluestar.com/day-74-iron-giant-layered-paper-craft/) I did for [The 100 Day Project](https://blog.abluestar.com/projects/2015-The100DayProject/)
+- [Day 13 - Layered paper craft dragon](/day-13-layered-paper-craft-dragon/), and  [Day 74 - Iron giant layered paper craft](/day-74-iron-giant-layered-paper-craft/) I did for [The 100 Day Project](/projects/2015-The100DayProject/)
 - [Gorgeous papercut light boxes by Hari & Deepti](https://mymodernmet.com/hari-deepti-hand-cut-illuminated-paper/)
 - [PAPER CUT LIGHT BOX TUTORIAL](https://jennifermaker.com/paper-cut-light-box-tutorial/)
 - [African landscape light box template](https://lightboxtemplate.com/product/3d-paper-cut-light-box-template-digital-svg-files-afircan/)

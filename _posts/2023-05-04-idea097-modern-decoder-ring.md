@@ -15,7 +15,7 @@ slug: idea097-modern-decoder-ring
 
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -55,7 +55,7 @@ Parts list
 ## Prior art
 
 - [Secret decoder ring](https://en.wikipedia.org/wiki/Secret_decoder_ring) - [Be sure to drink your Ovaltine](https://www.youtube.com/watch?v=zdA__2tKoIU)
-- [Enigma machine](https://en.wikipedia.org/wiki/Enigma_machine), and [Idea 51 - Enigma machine kit](https://blog.abluestar.com/idea051-enigma-machine-kit/) but instead of trying to copy the Enigma machine this would be modern device with modern encryption method.
+- [Enigma machine](https://en.wikipedia.org/wiki/Enigma_machine), and [Idea 51 - Enigma machine kit](/idea051-enigma-machine-kit/) but instead of trying to copy the Enigma machine this would be modern device with modern encryption method.
 - [One-time pad](https://en.wikipedia.org/wiki/One-time_pad)
 
 ## Market

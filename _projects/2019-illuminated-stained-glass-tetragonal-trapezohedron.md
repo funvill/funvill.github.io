@@ -10,7 +10,7 @@ header:
 
 I made the illuminated stained glass [tetragonal trapezohedron](https://en.wikipedia.org/wiki/Tetragonal_trapezohedron) sculpture for [Vancouver Maker faire 2019](https://vancouver.makerfaire.com/) at [Science world](https://www.scienceworld.ca/).
 
-This sculpture is based on the same techniques used in the [illuminated stained glass window](https://blog.abluestar.com/projects/2018-stained-glass-window/) project. A back plane that is used to position the LEDs in the center of the pockets. A foam center was cut using a [Inventables X-Carve](https://www.inventables.com/technologies/x-carve). The foam separates the light from bleeding from one pocket/cell to another. An acrylic top plate was added as a diffuser.
+This sculpture is based on the same techniques used in the [illuminated stained glass window](/projects/2018-stained-glass-window/) project. A back plane that is used to position the LEDs in the center of the pockets. A foam center was cut using a [Inventables X-Carve](https://www.inventables.com/technologies/x-carve). The foam separates the light from bleeding from one pocket/cell to another. An acrylic top plate was added as a diffuser.
 
 A series of 28 custom LED patterns are programmed into the sculpture. Each pattern can use a different color palette. There are 4,294,967,296 (2^32) combinations between the patterns and the pallets. By default a random pattern and pallet will be selected, run for 2 min then a new random pattern and pallet will be selected.
 

@@ -13,7 +13,7 @@ slug: idea099-stevens-projects-club
 
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -29,11 +29,11 @@ I would make more of these style projects but I want to ensure people actually w
 
 Examples of the projects that I have sent out to people
 
-The [(2021) Vancouver Bird playing Cards](https://blog.abluestar.com/projects/2021-bird-playing-cards/) project cost me a total of $1,632.44 CAD for 50 decks or about $13.60 CAD per deck shipped in North America.
+The [(2021) Vancouver Bird playing Cards](/projects/2021-bird-playing-cards/) project cost me a total of $1,632.44 CAD for 50 decks or about $13.60 CAD per deck shipped in North America.
 
-The [(2022) Monthly Habit Tracker](https://blog.abluestar.com/projects/2022-monthly-habit-tracker/) project cost me a total of $131.28 USD for 15 boards ($8.75 per board shipped)
+The [(2022) Monthly Habit Tracker](/projects/2022-monthly-habit-tracker/) project cost me a total of $131.28 USD for 15 boards ($8.75 per board shipped)
 
-The [Idea 8 - Reconnect a postcard project](https://blog.abluestar.com/idea008-reconnect-a-post-card-project/) project costs about ~$300 CAD (Printing ~$85, Stamps ~$150, AI subscription ~$50, $25 shipping materials) for 100 people ($3 per person)
+The [Idea 8 - Reconnect a postcard project](/idea008-reconnect-a-post-card-project/) project costs about ~$300 CAD (Printing ~$85, Stamps ~$150, AI subscription ~$50, $25 shipping materials) for 100 people ($3 per person)
 
 ### Proposal
 
@@ -41,7 +41,7 @@ Create a “crate” style subscription service called funvill’s project club.
 
 The subscribers would get the following;
 
-- **A weekly idea post** - I post a weekly idea similar to the [(2023) 100 ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. This idea post is created to solicit feedback and direction on what I should be making next.
+- **A weekly idea post** - I post a weekly idea similar to the [(2023) 100 ideas](/projects/2023-100-ideas/) project. This idea post is created to solicit feedback and direction on what I should be making next.
 - **A monthly build log** - At least once a month I will post a project update blog post on what I am currently working on and the status. In this post I will also address all the feedback I have received from the ideas posts, community, or any interesting links. Think of this as a newsletter.
 - **~~Every three months~~ Twice a year a project in the mail** - This is the main reward. A copy of my current project ~~Every three months~~ Once a year. I will send via physical mail a new project that I have been working on.
 
@@ -67,7 +67,7 @@ All the source files would be released as Open Source on Github for anyone to re
 
 #### Example projects
 
-Any of the  [(2023) 100 ideas](https://blog.abluestar.com/projects/2023-100-ideas/) projects.
+Any of the  [(2023) 100 ideas](/projects/2023-100-ideas/) projects.
 
 Small electronics PCB boards and PCB art projects would be ideal as I can get the assembly done by fabrication houses and it's unique enough that people can’t easily make it themselves.
 

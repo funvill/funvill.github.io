@@ -14,7 +14,7 @@ slug: idea100-lavender-farm
 
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -48,7 +48,7 @@ An idealistic location would be on salt spring island. It is known for small bat
 
 For the land, something that is on a hill that can’t be used for traditional farming, where you can build a house at the top of the hill and look down on the fields. Hopefully the hill would make the land cheaper then the corresponding normal farm field.
 
-The lavender plants do not need a lot of water, but it would be nice to have a well on site to draw from or be connected to the municipality water system. The water can be tested before putting on the field using [Idea 079 - Gorilla water quality monitoring device](https://blog.abluestar.com/idea079-gorilla-water-quality-monitoring-device/)
+The lavender plants do not need a lot of water, but it would be nice to have a well on site to draw from or be connected to the municipality water system. The water can be tested before putting on the field using [Idea 079 - Gorilla water quality monitoring device](/idea079-gorilla-water-quality-monitoring-device/)
 
 ### Species
 
@@ -60,9 +60,9 @@ Learn from others to see what they are planning, it's easy to create a few bushe
 
 #### Other ideas
 
-A unique selling feature for individual sales could be based around [Idea 63 - RootedIn](https://blog.abluestar.com/idea063-rooted-in/). Each plant would have its own name, story, background, likes and dislikes, friends (other lavender plants), photo gallery, conversations, and a wall for people to comment on. When someone buys one of our bottles of lavender essential oils it comes with a QR code to the social media page for the plant that this oil came from. Where they can interact with the plant by leaving a comment, uploading photos, etc…
+A unique selling feature for individual sales could be based around [Idea 63 - RootedIn](/idea063-rooted-in/). Each plant would have its own name, story, background, likes and dislikes, friends (other lavender plants), photo gallery, conversations, and a wall for people to comment on. When someone buys one of our bottles of lavender essential oils it comes with a QR code to the social media page for the plant that this oil came from. Where they can interact with the plant by leaving a comment, uploading photos, etc…
 
-The lavender flowers buds could be used in [Idea 083 - Dried flower art installation](https://blog.abluestar.com/idea083-dried-flower-art-installation/), or [Idea 084 - Pressed lotus flower lamp](https://blog.abluestar.com/idea084-pressed-lotus-flower-lamp/).
+The lavender flowers buds could be used in [Idea 083 - Dried flower art installation](/idea083-dried-flower-art-installation/), or [Idea 084 - Pressed lotus flower lamp](/idea084-pressed-lotus-flower-lamp/).
 
 ## Prior art
 

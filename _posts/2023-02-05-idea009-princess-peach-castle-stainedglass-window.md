@@ -24,7 +24,7 @@ Before the Mario movie release date, create a replica of the Princess Peach cast
 
 <img src="/public/uploads/2023/princess-peach-castle-stained-glass-window.png" alt="Princess-peach-castle-stained-glass-window" style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px"/>In the [super mario bothers](https://en.wikipedia.org/wiki/Super_Mario_Bros.) video games there is a stained glass window in princess Peach castle of princess Peach holding a rose. It's the same image across multiple versions of the games with more and more detail. In the trailer of the new [The Super Mario Bros. Movie](https://www.imdb.com/title/tt6718170/) there is a [quick scene with it in the background](https://www.brickfanatics.com/second-super-mario-movie-trailer-tomorrow).
 
-I want to create a version of this stained glass window using my [digital stained glass method](https://blog.abluestar.com/projects/2018-stained-glass-window/) that I've been using to make geometric designs over the past few years. I think doing it with a release date close to the release date of the movie will create more interest in it.
+I want to create a version of this stained glass window using my [digital stained glass method](/projects/2018-stained-glass-window/) that I've been using to make geometric designs over the past few years. I think doing it with a release date close to the release date of the movie will create more interest in it.
 
 If this goes well, there is also the Nintendo [Zelda castle stained glass window](https://zelda.fandom.com/wiki/Stained_Glass) I could replicate as well.
 

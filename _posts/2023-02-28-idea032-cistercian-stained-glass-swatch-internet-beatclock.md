@@ -34,7 +34,7 @@ Digits are based on a horizontal or vertical stave, with the position of the dig
 
 <img src="/public/uploads/2023/cistercian_numbers_example.png" alt="cistercian_numbers_example" style="float: center; margin: 10px; border: 1px solid black; padding: 5px"/>
 
-I would like to use the same technique that I used in my [Illuminated stained glass sixteen segment display](https://blog.abluestar.com/projects/2019-illuminated-stained-glass-sixteen-segment-display/) project from 2019 and make a single digit cistercian numerals segmented display.
+I would like to use the same technique that I used in my [Illuminated stained glass sixteen segment display](/projects/2019-illuminated-stained-glass-sixteen-segment-display/) project from 2019 and make a single digit cistercian numerals segmented display.
 
 It should only need 31 segments and I can use an ESP32 to connect it to the internet and get the current [Swatch Internet Time (.beat time)](https://en.wikipedia.org/wiki/Swatch_Internet_Time). Instead of hours and minutes, the mean solar day is divided into 1,000 parts called .beats. Each .beat is equal to one decimal minute in the French Revolutionary decimal time system and lasts 1 minute and 26.4 seconds (86.4 seconds) in standard time.
 

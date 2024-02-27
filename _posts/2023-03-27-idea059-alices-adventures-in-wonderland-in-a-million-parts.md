@@ -26,7 +26,7 @@ This idea is based on [Idea 58 - In a million parts](/idea058-a-quotable-book-in
 
 <img src="/public/uploads/2023/cheshire-cat-stained-glass.png" alt="cheshire-cat-stained-glass" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>The book [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass) could be split up into sections for each location. There are about 12 different locations.
 
-Then each section would be turned into a stained glass window using my [Digital stained glass window](https://blog.abluestar.com/projects/2018-stained-glass-window/) technique.
+Then each section would be turned into a stained glass window using my [Digital stained glass window](/projects/2018-stained-glass-window/) technique.
 
 The frames would be all the same size 24x16. This would allow me to make 6 frames for each sheet of [Owens Corning Extruded Polystyrene](https://www.homedepot.ca/product/owens-corning-foamular-c-200-extruded-polystyrene-rigid-insulation-24-inch-x-96-inch-x-1-inch-butt-edge/1000155116). Using [Optix Cracked Ice Clear Acrylic Lighting
 Panel](https://www.homedepot.ca/product/optix-cracked-ice-clear-acrylic-lighting-panel-23-75-inch-x-47-75-inch/1000143373) (24 Inch x 48 Inch), for the top diffuser panel I could make 3 frames per sheet.

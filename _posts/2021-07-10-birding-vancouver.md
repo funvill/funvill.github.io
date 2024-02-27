@@ -10,7 +10,7 @@ slug: birding-vancouver
 
 Since the start of 2021 I have gotten really into birding. I am very new to this hobbie less then a year.
 
-I created the ["birds of play"](https://blog.abluestar.com/projects/2021-bird-playing-cards/) deck of cards using the photos I took.
+I created the ["birds of play"](/projects/2021-bird-playing-cards/) deck of cards using the photos I took.
 
 When I was starting out I found these resources to be very useful.
 

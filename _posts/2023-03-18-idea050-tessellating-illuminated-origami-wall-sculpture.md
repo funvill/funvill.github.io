@@ -26,7 +26,7 @@ Origami Sacred Geometry + Individually addressable RGB LEDs + Wall Sculpture + i
 
 <a href='https://www.flickr.com/photos/origamimosaicworks/8333076712/in/photostream/'><img src="/public/uploads/2023/kota-hiratsuka--red-mini-flower.png" alt="kota-hiratsuka--red-mini-flower" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/></a>Tiling [tessellating](https://en.wikipedia.org/wiki/Tessellation) star shaped modular Origami in a repeating pattern. Similar to [Kinga Kubowicz - Moduuli](https://www.instagram.com/p/Cbcz24_q4Er/?hl=en) [2](https://www.kingkongdesign.com/moduulipaperpanels) or [Origami Mosaics by Kota Hiratsuka](https://www.thisiscolossal.com/2012/12/origami-mosaics-by-kota-hiratsuka/)
 
-Each cell will have its own Individually addressable RGB LEDs similar to my [Digital Stained Glass Windows](https://blog.abluestar.com/projects/2018-stained-glass-window/) project.
+Each cell will have its own Individually addressable RGB LEDs similar to my [Digital Stained Glass Windows](/projects/2018-stained-glass-window/) project.
 
 Though the sculpture scatters a few human detection sensors like [Passive infrared](https://en.wikipedia.org/wiki/Passive_infrared_sensor) (PIR) sensor or [Nondispersive Infrared](https://en.wikipedia.org/wiki/Nondispersive_infrared_sensor) (NDIR) Sensor. This allows me to determine if there is a person looking at the sculpture or where in the sculpture they are located. This information can be used in the LED animations.
 

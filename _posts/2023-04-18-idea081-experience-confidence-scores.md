@@ -14,11 +14,11 @@ slug: idea081-experience-confidence-scores
 
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 👉 After sleeping on this idea and reviewing it in the morning this idea is; **[LinkedIn](https://www.linkedin.com/) with more steps** and is not worth pursuing. 👈
 
-The idea can be condensed down to combining [Idea 080 - Real Identity provider](https://blog.abluestar.com/idea080-real-identity-provider/) with [Motzilla’s Open Badges](https://backpack.openbadges.org/) and using a magic algorithm to determine confidence. Then make a [LinkedIn](https://www.linkedin.com/) style profile of the user that can be used in the interview process.
+The idea can be condensed down to combining [Idea 080 - Real Identity provider](/idea080-real-identity-provider/) with [Motzilla’s Open Badges](https://backpack.openbadges.org/) and using a magic algorithm to determine confidence. Then make a [LinkedIn](https://www.linkedin.com/) style profile of the user that can be used in the interview process.
 
 ## One Line Pitch
 
@@ -26,7 +26,7 @@ Allows people to assert their experience with a skill with 3rd parties confidenc
 
 ## Description
 
-Now that we have a way of asserting someone is who they say they are [Idea 080 - Real Identity provider](https://blog.abluestar.com/idea080-real-identity-provider/), and third parties can user their reputation to sign assertions of facts.
+Now that we have a way of asserting someone is who they say they are [Idea 080 - Real Identity provider](/idea080-real-identity-provider/), and third parties can user their reputation to sign assertions of facts.
 
 ### The problem or “Gap”
 
@@ -58,9 +58,9 @@ Allow for ranking of organizations that provide certification.
 
 ### Possible solution
 
-Combine [Idea 080 - Real Identity provider](https://blog.abluestar.com/idea080-real-identity-provider/) with [Motzilla’s Open Badges](https://backpack.openbadges.org/) and use a magic algorithm to determine confidence. Then make a Linked-in style profile of the user that can be used in the interview process.
+Combine [Idea 080 - Real Identity provider](/idea080-real-identity-provider/) with [Motzilla’s Open Badges](https://backpack.openbadges.org/) and use a magic algorithm to determine confidence. Then make a Linked-in style profile of the user that can be used in the interview process.
 
-Allow anyone to assert that anyone else has a skill set or experience using the [Idea 080 - Real Identity provider](https://blog.abluestar.com/idea080-real-identity-provider/) system. This allows for the user to solicit assertions of skill sets and experience from anyone. Co-workers, employers, schools, workshops, schools, etc…
+Allow anyone to assert that anyone else has a skill set or experience using the [Idea 080 - Real Identity provider](/idea080-real-identity-provider/) system. This allows for the user to solicit assertions of skill sets and experience from anyone. Co-workers, employers, schools, workshops, schools, etc…
 
 Rank the sources of assertions based on some magic sauce to determine a confidence that this user has the skills and expertise. For example skill sets asserted from trusted universities would be ranked higher than a user that has only ranked one or two other individuals. A recent co-worker recommendation is worth more than a very old co-worker.
 

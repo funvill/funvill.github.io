@@ -15,7 +15,7 @@ slug: idea084-pressed-lotus-flower-lamp
 
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -23,7 +23,7 @@ A lamp made of acrylic shards of pressed flowers in the shape of a lotus flower
 
 ## Description
 
-Continuing from the [Idea 083 - Dried flower art installation](https://blog.abluestar.com/idea083-dried-flower-art-installation/).
+Continuing from the [Idea 083 - Dried flower art installation](/idea083-dried-flower-art-installation/).
 
 <img src='\public\uploads\2023\lotus2.png' alt='lotus lamp' title='lotus lamp' style="float: right; max-width: 400px; margin: 10px; border: 1px solid black; padding: 5px">Each dried flower will be encapsulated between two acrylic sheets in the shape of a lotus flower petals (A shard).
 

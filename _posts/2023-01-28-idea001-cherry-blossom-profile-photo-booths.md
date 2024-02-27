@@ -22,7 +22,7 @@ Set up a photo booth in a park when the cherry blossoms are blooming, offer to t
 
 ## Full description
 
-I have been really enjoying photography over the last few years. I have primarily been taking photos of birds, insects and landscapes. I turned some of the bird photos into a [deck of playing cards](https://blog.abluestar.com/projects/2021-bird-playing-cards/) from Vancouver.
+I have been really enjoying photography over the last few years. I have primarily been taking photos of birds, insects and landscapes. I turned some of the bird photos into a [deck of playing cards](/projects/2021-bird-playing-cards/) from Vancouver.
 
 I have been wanting to learn how to do portrait photography, but I don’t feel comfortable taking photos of people in crowds or “street photography” because if I ask for consent before taking the photo it removes the spontaneity of the photo. People act differently when they know their photo is about to be taken. I really want consent from people before taking their photo.
 

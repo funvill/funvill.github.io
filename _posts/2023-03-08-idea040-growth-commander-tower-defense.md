@@ -21,7 +21,7 @@ Your incharge of mutations and creation of your army. You send your army out to 
 
 ## Description
 
-<img src="/public/uploads/2023/farmer-bacteria2.png" alt="farmer-bacteria2" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>This game is similar to [Idea 039 - Growth - A game](https://blog.abluestar.com/idea039-growth-a-game/)
+<img src="/public/uploads/2023/farmer-bacteria2.png" alt="farmer-bacteria2" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>This game is similar to [Idea 039 - Growth - A game](/idea039-growth-a-game/)
 
 This is a tower defense style game, where instead of placing towers you build an army and send waves autonomous of units to kill the opponents. These units can be upgraded and mutated to match the needs on the battlefield.
 

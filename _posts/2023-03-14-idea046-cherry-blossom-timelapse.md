@@ -33,7 +33,7 @@ Using several different cameras take timelapse photos of the cherry blossom tree
 
 The cherry blossoms are already starting to bud and should bloom within the next few weeks. It would take a few days to get all the equipment set up beforehand and ready.
 
-Also see [Idea 1 - Cherry Blossom Profile Photo Booths](https://blog.abluestar.com/idea001-cherry-blossom-profile-photo-booths/)
+Also see [Idea 1 - Cherry Blossom Profile Photo Booths](/idea001-cherry-blossom-profile-photo-booths/)
 
 ## Prior art
 

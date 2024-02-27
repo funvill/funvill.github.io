@@ -70,7 +70,7 @@ When: at 9am today, What: I got work at 9am
 
 The goal is to start small and work up from there adding more features as you go along.
 
-See [Idea 30 - Chatbot Journaling](https://blog.abluestar.com/idea030-chatbot-journaling/), and [Idea 13 - Speech to Text, always listening, ear badge](https://blog.abluestar.com/idea013-speech-to-text-always-listening-ear-badge/)
+See [Idea 30 - Chatbot Journaling](/idea030-chatbot-journaling/), and [Idea 13 - Speech to Text, always listening, ear badge](/idea013-speech-to-text-always-listening-ear-badge/)
 
 ## Prior art
 

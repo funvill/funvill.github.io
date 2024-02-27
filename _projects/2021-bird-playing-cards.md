@@ -81,7 +81,7 @@ Suite/Rank | BirdName                                                           
 ♣ Queen    | [Gadwall](https://www.allaboutbirds.org/guide/Gadwall)                                   |   78 - 90 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=558439)
 ♣ King     | [Northern Pintail](https://www.allaboutbirds.org/guide/Northern_Pintail)                 |   80 - 95 cm | ♂️   | [📷](https://www.inaturalist.org/observations?place_id=any&order_by=votes&user_id=funvill&verifiable=any&view=&taxon_id=6933)
 Red Joker  | [Lori Schlechtleitner](https://www.instagram.com/inspiringspokes/)                       |       165 cm | ♀️   |
-Black Joker| [Steven Smethurst](https://blog.abluestar.com/)                                          |       168 cm | ♂️   |
+Black Joker| [Steven Smethurst](/)                                          |       168 cm | ♂️   |
 
 ## Photographing birds
 

@@ -24,7 +24,7 @@ My first version I made, I used paper divers to separate the different segments
 
 The results were not great. It also took a lot of time to make the paper folded segments. The cost of the white and black sandwiched acrylic was prohibited. It would have been a daunting task to make more than a few of these. I ended up shelving this idea for a few months.
 
-After I built the [illuminated Stained Glass Tetragonal Trapezohedron](https://blog.abluestar.com/projects/2019-illuminated-stained-glass-tetragonal-trapezohedron/) using the new foam method. I decided to try and use this new method to make a series of sixteen segmented displays.
+After I built the [illuminated Stained Glass Tetragonal Trapezohedron](/projects/2019-illuminated-stained-glass-tetragonal-trapezohedron/) using the new foam method. I decided to try and use this new method to make a series of sixteen segmented displays.
 
 A foam center was cut using a [Inventables X-Carve](https://www.inventables.com/technologies/x-carve). The foam separates the light from bleeding from one pocket/cell to another. An acrylic top plate was added as a diffuser.
 

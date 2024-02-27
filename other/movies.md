@@ -5,7 +5,7 @@ excerpt: A brief personal review of some of the movies and TV shows that I have 
 
 A brief personal review of some of the movies that I have watched.
 
-Some [must see movies](https://blog.abluestar.com/must-see-movies/)
+Some [must see movies](/must-see-movies/)
 
 ## 2020
 

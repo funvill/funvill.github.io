@@ -39,7 +39,7 @@ To create this description I created a chat bot using [Open IA GPT-3](https://gp
 
 What this created was the most enthusiastic bird nerd you have ever met. All it wanted to talk about is birds. Then I have a conversation with this chat bot, asking it stock questions about a new imaginary bird.
 
-Example: [Milo (Knitted Sparrow)](https://blog.abluestar.com/flockingai/061-milo/)
+Example: [Milo (Knitted Sparrow)](/flockingai/061-milo/)
 
 > **Steven:** We are creating a new field guide to birds, with imaginary birds. First, we need to start with a species name for this bird. What should we call this bird?
 >
@@ -108,7 +108,7 @@ I found it frustrating to generate believable dialog or images in the same style
 
 Next idea was to create a card game. I designed the rules for a resource management, worker placement card game. The plan was to use the art generated from [Mid Journey](https://www.midjourney.com/) for the cards in a [Magic the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) style. Art on top, text and rules on the bottom. I play-tested the basic rules a few times and it was just okay, not great. With more work and iterations I think I could convert this into a fun game. This project didn’t feel right as I was looking for more of an iterative project where I could show the changes to the ML algorithms over time.
 
-Eventually I came up with the idea of a Machine Learning (ML) field guide of imaginary birds. This idea came from 2021 when I spent a year photographing birds to create [a deck of playing cards](https://blog.abluestar.com/projects/2021-bird-playing-cards/). I would often use a field guide to help me identify and track the birds that I had seen that year.
+Eventually I came up with the idea of a Machine Learning (ML) field guide of imaginary birds. This idea came from 2021 when I spent a year photographing birds to create [a deck of playing cards](/projects/2021-bird-playing-cards/). I would often use a field guide to help me identify and track the birds that I had seen that year.
 
 ## Ethics
 

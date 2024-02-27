@@ -8,7 +8,7 @@ slug: digital-stained-glass-workshop-sept2019
 ---
 
 **Update**. See this post for photos from the event, source code files, Slides, and a post mortem (what worked, what didn't) 
-[Digital stained glass workshop - Post mortem](https://blog.abluestar.com/digital-stained-glass-workshop-sept2019-post-mortem/)
+[Digital stained glass workshop - Post mortem](/digital-stained-glass-workshop-sept2019-post-mortem/)
 
 
 [![Digital Stained glass workshop](/public/uploads/StainedGlassWindowsBanner2019Sept.jpg)](/public/uploads/StainedGlassWindowsBanner2019Sept.jpg)
@@ -36,7 +36,7 @@ Steven is an interactive installation artist based in Vancouver. He is a self-ta
 
 Stevens’ work casts repeating geometric shapes and patterns with sharp edges. Some of his pieces have included; the LED digital stained glass windows, Pocket Universe, CNC Zen Garden, and the Laser Kaleidoscope. His installations have been shown at countless exhibitions including Burning-man, Burn in the forest, Luminescence. His portfolio extends further with is collaborations with numerous other artists. The perfect symmetry of his work is only possible with the precision of computer-controlled machinery. His tools include; laser cutters, CNC routers and plasma cutters, which heavily influence his workflow and the aesthetics of his artwork. Steven’s installations are made from a mixture of LEDs, microprocessors, electronics, radios, sensors, paper, metal, wood and recycled objects scavenged from junkyards.
 
-- [https://blog.abluestar.com/](https://blog.abluestar.com/)
+- [https://blog.abluestar.com/](/)
 - [https://www.instagram.com/funvill/](https://www.instagram.com/funvill/)
 
 ### Tyson Haverkort

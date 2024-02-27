@@ -15,7 +15,7 @@ slug: idea077-equilateral-triangles-led-panels
 
 ---
 
-> This post is part of [the 100 project ideas](https://blog.abluestar.com/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
+> This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
@@ -49,7 +49,7 @@ A few angled jigs could be created to help with the soldering of angles. Another
 
 The main processor and the battery could be floating in the center of the object or tapped to one of the inner faces of the object. The main processor should have a accelerometer and a gyro in it so it can detect the angle that the object is at.
 
-These objects could also be attached to wires and hung from a mobile in the ceiling. Very similar to [Idea 10 - Polyhedron Papercraft Mobile](https://blog.abluestar.com/idea010-polyhedron-papercraft-mobile/)
+These objects could also be attached to wires and hung from a mobile in the ceiling. Very similar to [Idea 10 - Polyhedron Papercraft Mobile](/idea010-polyhedron-papercraft-mobile/)
 
 ## Prior art
 
