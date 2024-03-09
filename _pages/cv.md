@@ -89,68 +89,70 @@ See [projects page](/projects/) for a full list.
 
 ### 2022
 
-- **2022/September** - [Digital Stained Glass workshop](https://docs.google.com/presentation/d/1YAHR-W0YQaDec0vNDCcos4BVWG70-1gieS_fc73EP40/edit?usp=sharing) for [Tools for Women residency](https://www.makerlabs.com/toolsforwomen) at [Maker Labs](https://www.makerlabs.com/)
+- __2022/September__ - [Digital Stained Glass workshop](https://docs.google.com/presentation/d/1YAHR-W0YQaDec0vNDCcos4BVWG70-1gieS_fc73EP40/edit?usp=sharing) for [Tools for Women residency](https://www.makerlabs.com/toolsforwomen) at [Maker Labs](https://www.makerlabs.com/)
 
 ### 2020
 
-- **2020/September** - [Digital Stained Glass workshop](https://docs.google.com/presentation/d/1YAHR-W0YQaDec0vNDCcos4BVWG70-1gieS_fc73EP40/edit?usp=sharing) for [Tools for Women residency](https://www.makerlabs.com/toolsforwomen) at [Maker Labs](https://www.makerlabs.com/)
+- __2020/September__ - [Digital Stained Glass workshop](https://docs.google.com/presentation/d/1YAHR-W0YQaDec0vNDCcos4BVWG70-1gieS_fc73EP40/edit?usp=sharing) for [Tools for Women residency](https://www.makerlabs.com/toolsforwomen) at [Maker Labs](https://www.makerlabs.com/)
 
 ### 2019
 
-- **2019/October** - [Digital Stained Glass workshop](https://docs.google.com/presentation/d/1YAHR-W0YQaDec0vNDCcos4BVWG70-1gieS_fc73EP40/edit?usp=sharing) for [Tools for Women residency](https://www.makerlabs.com/toolsforwomen) at [Maker Labs](https://www.makerlabs.com/)
-- **2019/September** - [Digital stained glass workshop](/digital-stained-glass-workshop-sept2019/) at [Maker Labs](https://www.makerlabs.com/)
-- **2019/May** - [Arduino/ESP8266 Lighting Workshop](https://docs.google.com/presentation/d/1R4-8XmMbAuJphd_CyOG0-UhU3ma9GJmHftJ1euPe0EA/edit?usp=sharing) at [Maker Labs](https://www.makerlabs.com/)
-- **2019/March** - [Arduino/ESP8266 Lighting Workshop](https://docs.google.com/presentation/d/1R4-8XmMbAuJphd_CyOG0-UhU3ma9GJmHftJ1euPe0EA/edit?usp=sharing) at [Maker Labs](https://www.makerlabs.com/)
+- __2019/October__ - [Digital Stained Glass workshop](https://docs.google.com/presentation/d/1YAHR-W0YQaDec0vNDCcos4BVWG70-1gieS_fc73EP40/edit?usp=sharing) for [Tools for Women residency](https://www.makerlabs.com/toolsforwomen) at [Maker Labs](https://www.makerlabs.com/)
+- __2019/September__ - [Digital stained glass workshop](/digital-stained-glass-workshop-sept2019/) at [Maker Labs](https://www.makerlabs.com/)
+- __2019/May__ - [Arduino/ESP8266 Lighting Workshop](https://docs.google.com/presentation/d/1R4-8XmMbAuJphd_CyOG0-UhU3ma9GJmHftJ1euPe0EA/edit?usp=sharing) at [Maker Labs](https://www.makerlabs.com/)
+- __2019/March__ - [Arduino/ESP8266 Lighting Workshop](https://docs.google.com/presentation/d/1R4-8XmMbAuJphd_CyOG0-UhU3ma9GJmHftJ1euPe0EA/edit?usp=sharing) at [Maker Labs](https://www.makerlabs.com/)
 
 ### 2018
 
-- **2018/June** - Cutting Board workshop at [Maker Labs](https://www.makerlabs.com/) for Chipkin Automation Systems
-- **2018/March** - Light paiting workshop
+- __2018/June__ - Cutting Board workshop at [Maker Labs](https://www.makerlabs.com/) for Chipkin Automation Systems
+- __2018/March__ - Light paiting workshop
 
 ### 2017
 
-- **2017/November** - Intro to laser cutting
-- **2017/September** - Arduino LED workshop - [Building a thunderstom cloud](/projects/2017-thunderstorm-cloud/)
+- __2017/November__ - Intro to laser cutting
+- __2017/September__ - Arduino LED workshop - [Building a thunderstom cloud](/projects/2017-thunderstorm-cloud/)
 
 ### 2016
 
-- **2016/July** - Overpowered LED flashlight workshop - 100W battery powered LED flood lights.
+- __2016/July__ - Overpowered LED flashlight workshop - 100W battery powered LED flood lights.
 
 ### 2015
 
 A goal this year was to run a workshop once a month.
 
-- **2015/December** - Oscilloscope workshop - How to use a oscilloscope for debugging projects
-- **2015/November** - Sew it again - fabric repaire workshop
-- **2015/October** - [Intro to lighitng with the Arduino](https://docs.google.com/presentation/d/1bLTL7LrjBO2Jmh6EqLVGHT0sS1j-cq6GHB3zWyXx9RE/edit?usp=sharing)
-- **2015/September** - Arduino Binary clock Workshop [#IStandWithAhmed](https://twitter.com/istandwithahmed)
-- **2015/August** - [ESP8266 + DS18b20 + sparkfun](https://docs.google.com/presentation/d/1-X_t77Dfxi3i4lJnEG6naY6MSQDe4pnGE9W0gDQjzIA/edit?usp=sharing)
-- **2015/July** - [Fairy door workshop #2](https://docs.google.com/presentation/d/1r8SgtGP7OUQRYPDZ20znpjjzukvsw_WP6_skyOxKBn8/edit?usp=sharing)
-- **2015/July** - [Fairy door workshop](https://docs.google.com/presentation/d/1r8SgtGP7OUQRYPDZ20znpjjzukvsw_WP6_skyOxKBn8/edit?usp=sharing)
-- **2015/June** - Intro to ESP8266 workshop
-- **2015/May** - [Intro to lighitng with the Arduino](https://docs.google.com/presentation/d/1bLTL7LrjBO2Jmh6EqLVGHT0sS1j-cq6GHB3zWyXx9RE/edit?usp=sharing)
-- **2015/April** - Advanced laser cutter CNC workshop
-- **2015/March** - [Piccolo cnc](http://piccolo.cc/) workshop
-- **2015/Febuary** - Esp8266 Internet button
-- **2015/January** - [Intro to lighitng with the Arduino](https://docs.google.com/presentation/d/1bLTL7LrjBO2Jmh6EqLVGHT0sS1j-cq6GHB3zWyXx9RE/edit?usp=sharing)
+- __2015/December__ - Oscilloscope workshop - How to use a oscilloscope for debugging projects
+- __2015/November__ - Sew it again - fabric repaire workshop
+- __2015/October__ - [Intro to lighitng with the Arduino](https://docs.google.com/presentation/d/1bLTL7LrjBO2Jmh6EqLVGHT0sS1j-cq6GHB3zWyXx9RE/edit?usp=sharing)
+- __2015/September__ - Arduino Binary clock Workshop [#IStandWithAhmed](https://twitter.com/istandwithahmed)
+- __2015/August__ - [ESP8266 + DS18b20 + sparkfun](https://docs.google.com/presentation/d/1-X_t77Dfxi3i4lJnEG6naY6MSQDe4pnGE9W0gDQjzIA/edit?usp=sharing)
+- __2015/July__ - [Fairy door workshop #2](https://docs.google.com/presentation/d/1r8SgtGP7OUQRYPDZ20znpjjzukvsw_WP6_skyOxKBn8/edit?usp=sharing)
+- __2015/July__ - [Fairy door workshop](https://docs.google.com/presentation/d/1r8SgtGP7OUQRYPDZ20znpjjzukvsw_WP6_skyOxKBn8/edit?usp=sharing)
+- __2015/June__ - Intro to ESP8266 workshop
+- __2015/May__ - [Intro to lighitng with the Arduino](https://docs.google.com/presentation/d/1bLTL7LrjBO2Jmh6EqLVGHT0sS1j-cq6GHB3zWyXx9RE/edit?usp=sharing)
+- __2015/April__ - Advanced laser cutter CNC workshop
+- __2015/March__ - [Piccolo cnc](http://piccolo.cc/) workshop
+- __2015/Febuary__ - Esp8266 Internet button
+- __2015/January__ - [Intro to lighitng with the Arduino](https://docs.google.com/presentation/d/1bLTL7LrjBO2Jmh6EqLVGHT0sS1j-cq6GHB3zWyXx9RE/edit?usp=sharing)
 
 ### 2014
 
-- **2014/November** - [Intro to lighitng with the Arduino](https://docs.google.com/presentation/d/1bLTL7LrjBO2Jmh6EqLVGHT0sS1j-cq6GHB3zWyXx9RE/edit?usp=sharing)
-- **2014/October** - [Introduction to Arduino blink and E-Textiles](https://docs.google.com/presentation/d/17xPHKOKORkaRQvukS8ppnDqct0jHcWrnfia7GBo2MHk/edit?usp=sharing)
-- **2014/September** - Learn to solder workshop
-- **2014/August** - Getting started with Raspberry PI workshop
-- **2014/August** - [Balloon maping](https://balloonmap.com/) workshop
-- **2014/July** - Getting started with Arudino workshop
-- **2014/June** - Large LED Maxtrix workshop. Teaching people how to program a large LED maxtrix
-- **2014/January** - Intro to lockpicking
+- __2014/November__ - [Intro to lighitng with the Arduino](https://docs.google.com/presentation/d/1bLTL7LrjBO2Jmh6EqLVGHT0sS1j-cq6GHB3zWyXx9RE/edit?usp=sharing)
+- __2014/October__ - [Introduction to Arduino blink and E-Textiles](https://docs.google.com/presentation/d/17xPHKOKORkaRQvukS8ppnDqct0jHcWrnfia7GBo2MHk/edit?usp=sharing)
+- __2014/September__ - Learn to solder workshop
+- __2014/August__ - Getting started with Raspberry PI workshop
+- __2014/August__ - [Balloon maping](https://balloonmap.com/) workshop
+- __2014/July__ - Getting started with Arudino workshop
+- __2014/June__ - Large LED Maxtrix workshop. Teaching people how to program a large LED maxtrix
+
+- __2014/April__ - [Making laser cut maps of Vancouver using open data](https://www.youtube.com/watch?v=V_0t9ctAAbE), [Instructables](https://www.instructables.com/Laser-cut-wooden-maps-with-public-data/)
+- __2014/January__ - Intro to lockpicking
 
 ### 2013
 
-- **2013/November** - Introduction to Home automation with the Raspberry Pi workshop
-- **2013/September** - Sock Knitting Night
-- **2013/September** - Getting started with Raspberry PI workshop
-- **2013/Febuary** - Getting a Raspberry PI to blink workshop
+- __2013/November__ - Introduction to Home automation with the Raspberry Pi workshop
+- __2013/September__ - Sock Knitting Night
+- __2013/September__ - Getting started with Raspberry PI workshop
+- __2013/Febuary__ - Getting a Raspberry PI to blink workshop
 
 ## Skill and Experience
 
