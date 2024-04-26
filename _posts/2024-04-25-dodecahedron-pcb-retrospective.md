@@ -16,7 +16,7 @@ The idea was to create several polyhedron shapes from PCB panels with addressabl
 
 For the first version I decided to make a dodecahedra from 12 identical Pentagram PCB panels. See [Dodecahedron PCB Design](https://blog.abluestar.com/dodecahedron-pcb-design/) post for my original design notes.
 
-The design and source code files can be found in my github project page: https://github.com/funvill/dodecahedron-pcb
+The design and source code files can be found in my github project page: [https://github.com/funvill/dodecahedron-pcb](https://github.com/funvill/dodecahedron-pcb)
 
 The project costs about ~$60 USD shipped to my door via JLCPCB for 25 panels. Enough panels to make two dodecahedra with one extra panel to spare.
 
@@ -39,13 +39,13 @@ This was a learning experience, I didn’t expect to get it right on the first a
 
 ### Hole size
 
-<img src='\public\uploads\2024\or-pad.png' alt='Dodecahedron OR Pad' title='Dodecahedron OR Pad' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>The holes in the connectors on the edge of the boards are far too small. This made it difficult to insert solid core wires into the holes connecting the panels together.
+<img src='\public\uploads\2024\pentagon-corner-pcb.png' alt='Pentagon corner PCB Pad' title='Pentagon corner PCB Pad' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>The holes in the connectors on the edge of the boards are far too small. This made it difficult to insert solid core wires into the holes connecting the panels together.
 
 For the next version creating a larger hole, with a more oval shape should help.
 
 ### Connections between panels
 
-<img src='\public\uploads\2024\pentagon-corner-pcb.png' alt='Pentagon corner PCB Pad' title='Pentagon corner PCB Pad' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>I created a custom “or” pad in Kicad for the connectors between the panels. This custom pad allowed for routing the data path between each panel. I also added three through hole connections on each panel. I ended up using the through hole connections instead of the pads because it was much easier to work with.
+<img src='\public\uploads\2024\or-pad.png' alt='Dodecahedron OR Pad' title='Dodecahedron OR Pad' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>I created a custom “or” pad in Kicad for the connectors between the panels. This custom pad allowed for routing the data path between each panel. I also added three through hole connections on each panel. I ended up using the through hole connections instead of the pads because it was much easier to work with.
 
 Use though holes instead of fancy custom “or” pads.
 
