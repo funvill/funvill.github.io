@@ -14,4 +14,7 @@ If I'm not <span title='Making computers talk to each other'>beep booping</span>
 
 My interests bounce around to whatever catches my attention. [PCB Design](/projects/2022-monthly-habit-tracker/), Paper craft, 🪟 [Stained Glass](/projects/2018-stained-glass-window/), 🗺️ Maps, 🎲 [Boardgames](/projects/2023-skull-game-pcb/), [Segment Displays](/projects/2019-illuminated-stained-glass-sixteen-segment-display/), [Lasers and kaleidoscopes](/projects/2017-laser-kaleidoscope/) and anything that glows.
 
-I been writing in my [blog](/blog/) since 2001. Feel free to connect!
+I been writing in my [blog](/blog/) since 2001. I use [Instagram](https://www.instagram.com/funvill/) to post in progress update of my current projects. Feel free to connect!
+
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-ab4143a4-f65e-4ad7-9162-5c2c7c2c3304" data-elfsight-app-lazy></div>
