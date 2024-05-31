@@ -14,6 +14,8 @@ The [Idea 022 - Translink map PCB](https://blog.abluestar.com/idea022-translink-
 
 The idea was to make a large PCB that was an interactive map of a metro train system. The plan was to embed an ESP32 into the PCB. Then write some software that would query the metro train API for real time train location. Then use this data to illuminate the stations when trains arrived.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HhUGJCySifQ?si=XCkaXUF_K3Fzo5UJ" title="Washinton Metro PCB maps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 I started with creating the [Skytrain](https://en.wikipedia.org/wiki/SkyTrain_(Vancouver)) map for my home town [Vancouver, BC](https://en.wikipedia.org/wiki/Metro_Vancouver_Regional_District).  I went through several iterations of the design. I never felt that it was ever ready to be manufactured and it sat in my unfinished project folder for many months.
 
 At the same time I was working on a project for the [Washington DC Metro (WMATA)](https://www.wmata.com/) that was coming to completion. I had been working on this project for more than a year and I was looking to create a memento for this project. I also was looking to create some gifts for the people that helped with this project.
@@ -30,23 +32,23 @@ The [Washington Metro PCB](https://github.com/funvill/washington-metro-pcb) desi
 
 ### What Went right
 
-I like that the black PCB solder masks make a good contrast with the white silk screen used for the train tracks. The silver exposed PCB traces that I used for the rivers and the ring road reflect well and are an interesting design element.
+<img src='\public\uploads\2024\washington-metro-pcb-logo.png' alt='washington metro pcb logo' title='washington metro pcb logo' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>I like that the black PCB solder masks make a good contrast with the white silk screen used for the train tracks. The silver exposed PCB traces that I used for the rivers and the ring road reflect well and are an interesting design element.
 
-<img src='\public\uploads\2024\washington-metro-pcb-logo.png' alt='washington metro pcb logo' title='washington metro pcb logo' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>The simple WMATA logo in the top right helps reinforce that this is an infographic map of the metro train system. It's a nice touch that a lot to the visual apples of the map
+The simple WMATA logo in the top right helps reinforce that this is an infographic map of the metro train system. It's a nice touch that a lot to the visual apples of the map
 
 The LEDs illuminate off of the white silk screen for the train tracks and help create a more diffused look. They glow more than just a single point of light.
 
 <img src='\public\uploads\2024\washington-metro-pcb-font.png' alt='washington metro pcb font' title='washington metro pcb font' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>The ring road made of exposed PDB traces really helped center the map well. It helped make the map look cohesive.
 
-I was worried that the station labels were going to be too small at 8 pt font but they look fine. They are legible and small enough that they don’t make the design too busy.
-
 I installed [WLED](https://kno.wled.ge/) on the ESP32 to do test patterns for these boards. The “bouncing balls” pattern is quite attractive as a default.
+
+I was worried that the station labels were going to be too small at 8 pt font but they look fine. They are legible and small enough that they don’t make the design too busy.
 
 Overall I am pretty happy with this design.
 
 ### What to change in the next version
 
-I used the smallest LED that I could find on JLCPCB’s website. [1mm by 1mm WS2812B RGB LED)(https://jlcpcb.com/partdetail/Xinglight-XL_1010RGBCWS2812B/C5349953).
+I used the smallest LED that I could find on JLCPCB’s website. [1mm by 1mm WS2812B RGB LED](https://jlcpcb.com/partdetail/Xinglight-XL_1010RGBCWS2812B/C5349953).
 
 I used these LEDs because they fit better on the small map within the train tracks. The map was already quite large. If I had to use the traditional 5mm by 5mm LEDs I would have needed to double the size of the map.
 
