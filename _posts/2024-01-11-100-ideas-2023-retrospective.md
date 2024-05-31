@@ -62,11 +62,11 @@ Over the course of the project I wrote 122,814 words or 412 pages of notes (and 
 Some of my favorite ideas were
 
 - [#63 RootedIn](/idea063-rooted-in/)
-- [#46 Cherry Blossom Time Lapse](/idea046-cherry-blossom-timelapse)
+- ✅ [#46 Cherry Blossom Time Lapse](/idea046-cherry-blossom-timelapse)
 - [#30 Chatbot Journaling](/idea030-chatbot-journaling)
 - ✅ [#06 Procedurally Generated Glowing Mushroom PCB](/idea006-procedurally-generated-glowing-mushroom-pcb)
 - [#85 Carved wooden postcards](/idea085-carved-wooden-postcards)
-- [#10 Polyhedron Papercraft Mobile](/idea010-polyhedron-papercraft-mobile)
+- ✅ [#10 Polyhedron Papercraft Mobile](/idea010-polyhedron-papercraft-mobile)
 - [#89 Where's Wren](/idea089-wheres-wren)
 - ✅ [#65 Atari Space Invaders LED Matrix pendent](/idea065-atari-space-invaders-led-matrix-pendent)
 - [#02 Electronic Flute PCB](/idea002-keyboard-flute)
