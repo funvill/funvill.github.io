@@ -2,7 +2,7 @@
 title: "I like the weird"
 date: 2012-09-16 14:12:00
 categories:
-- media
+- Media
 tags:
 - burningman
 - Games
@@ -14,7 +14,8 @@ slug: i-like-the-weird
 
 ---
 
-Games 
+Games
+
 <iframe width="640" height="360" src="http://www.youtube.com/embed/46kVxnCFNWQ" frameborder="0" allowfullscreen></iframe>
 
 Burning man 2012 "Hula Cam"
@@ -22,6 +23,3 @@ Burning man 2012 "Hula Cam"
 
 Burning man 2011 "Home"
 <iframe width="640" height="360" src="http://www.youtube.com/embed/WQPQn9TLpPY" frameborder="0" allowfullscreen></iframe>
-
-
-

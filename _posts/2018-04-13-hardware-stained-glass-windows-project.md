@@ -3,6 +3,7 @@ title: "Hardware - Stained glass windows project"
 date: 2018-04-13 00:01:00
 categories:
 - Projects
+tags:
 - stainedglass
 slug: hardware-stained-glass-windows-project
 

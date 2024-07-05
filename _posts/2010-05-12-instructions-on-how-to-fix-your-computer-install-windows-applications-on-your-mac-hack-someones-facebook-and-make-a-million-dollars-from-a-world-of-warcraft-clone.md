@@ -2,7 +2,7 @@
 title: "Instructions on how to fix your computer, install windows applications on your mac, Hack someones Facebook, and make a million dollars from a World of warcraft clone."
 date: 2010-05-12 14:02:00
 categories:
-- Jokes
+- Joke
 slug: instructions-on-how-to-fix-your-computer-install-windows-applications-on-your-mac-hack-someones-facebook-and-make-a-million-dollars-from-a-world-of-warcraft-clone
 
 ---

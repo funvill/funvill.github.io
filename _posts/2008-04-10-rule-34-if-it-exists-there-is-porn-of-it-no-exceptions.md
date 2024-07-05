@@ -2,7 +2,7 @@
 title: "Rule 34 - If it exists, there is porn of it. No exceptions."
 date: 2008-04-10 00:01:00
 categories:
-- media
+- Media
 tags:
 - comic
 - Interesting

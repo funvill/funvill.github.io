@@ -12,6 +12,8 @@ tags:
 
 The [Idea 022 - Translink map PCB](https://blog.abluestar.com/idea022-translink-map-pcb/) is part of the [100 Days of Ideas project](https://blog.abluestar.com/projects/2023-100-ideas/) from 2023.
 
+[Project page](/projects/2024-metro-map-pcb/)
+
 The idea was to make a large PCB that was an interactive map of a metro train system. The plan was to embed an ESP32 into the PCB. Then write some software that would query the metro train API for real time train location. Then use this data to illuminate the stations when trains arrived.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HhUGJCySifQ?si=XCkaXUF_K3Fzo5UJ" title="Washinton Metro PCB maps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

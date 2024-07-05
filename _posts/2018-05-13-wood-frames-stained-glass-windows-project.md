@@ -3,6 +3,7 @@ title: "Wood frames - Stained glass windows project"
 date: 2018-05-13 00:01:00
 categories:
 - Projects
+tags:
 - stainedglass
 slug: wood-frames-stained-glass-windows-project
 

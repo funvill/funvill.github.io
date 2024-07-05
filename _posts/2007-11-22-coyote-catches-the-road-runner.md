@@ -2,10 +2,11 @@
 title: "Coyote catches the road runner"
 date: 2007-11-22 20:05:00
 categories:
-- cartoons
 - Media
 - Dice
 - Video
+tags:
+- cartoons
 slug: coyote-catches-the-road-runner
 
 ---

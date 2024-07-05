@@ -8,7 +8,7 @@ tags:
 - programing
 - scripts
 - Tips
-- windows
+- Windows
 slug: nsis-tips-and-tricks
 
 ---

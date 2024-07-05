@@ -22,7 +22,7 @@ A PCB Metro map of the public transit system of Washington DC, and Vancouver, BC
 
 The idea was to make a large PCB that was an interactive map of a metro train system. A microcontroller (ESP32) uses WiFi to poll the metro train API to get real time train location information then illuminate the stations when trains arrived.
 
-The first design was of my hometown Vancouver, BC and the second design was of Washington DC. I decided to do Washington DC because I was doing a large 18-month project for the Washington DC Metro (WMATA) and wanted a memento of the project.
+The first design was of my hometown Vancouver, BC [Skytrain](https://www.translink.ca/), and the second design was of Washington DC. I decided to do Washington DC because I was doing a large 18-month project for the Washington DC Metro ([WMATA](https://wmata.com/)) and wanted a memento of the project.
 
 This idea was part of the [100 Days of Ideas project](/projects/2023-100-ideas/) from 2023, [Idea 022 - Translink map PCB](/idea022-translink-map-pcb/).
 

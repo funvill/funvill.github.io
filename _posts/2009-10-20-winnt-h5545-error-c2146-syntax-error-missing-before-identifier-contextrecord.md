@@ -8,7 +8,7 @@ tags:
 - dev
 - Development
 - VS2008
-- windows
+- Windows
 slug: winnt-h5545-error-c2146-syntax-error-missing-before-identifier-contextrecord
 
 ---

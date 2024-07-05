@@ -8,7 +8,7 @@ tags:
 - OpenID
 - Rants
 - RPXnow
-- windows
+- Windows
 slug: rpxnow-and-windows-live-id-problems-signing-out
 
 ---

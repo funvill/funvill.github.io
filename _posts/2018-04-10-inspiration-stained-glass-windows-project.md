@@ -3,8 +3,8 @@ title: "Inspiration - Stained glass windows project"
 date: 2018-04-10 00:01:00
 categories:
 - Projects
-- stainedglass
 tags:
+- stainedglass
 - inspiration
 - research
 slug: inspiration-stained-glass-windows-project

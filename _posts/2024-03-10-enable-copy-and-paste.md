@@ -4,7 +4,7 @@ date: 2024-03-09 00:01:00
 excerpt: A tutorial on how to enable copy and paste on website that disable copy and paste. Specifically BrimFinancial
 categories:
 - Tips
-- devlopment
+- Devlopment
 tags:
 - security
 ---
