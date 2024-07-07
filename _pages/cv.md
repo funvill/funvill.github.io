@@ -16,6 +16,7 @@ Steven Smethurst is a Vancouver based maker, hacker, and installation artist. St
 
 ## Exhibitions
 
+- (2024) [Metro PCB Maps](/projects/2024-metro-map-pcb/), Crowd Supply's Teardown 2024
 - (2022) [Flocking AI](/projects/2022-flocking-ai/), Eastside Culture Crawl
 - (2020) City of glass, Luminescence V Deer Lake Gallery
 - (2019) [Illuminated Stained Glass Tetragonal Trapezohedron](/projects/2019-illuminated-stained-glass-tetragonal-trapezohedron/), Vancouver Maker Faire 2019
