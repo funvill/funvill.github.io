@@ -59,8 +59,8 @@ During the day, while I am driving, I can charge the USB-C PD power bank using t
 
 ### Costs
 
-- $15 - 20V USB PD Trigger cable https://www.amazon.ca/ResMed-AirSense-Cable-Medistrom-Pilot-24/dp/B0B3F7ZY65
-- $30 - Resmed DC output cable https://www.amazon.ca/ResMed-AirSense-Cable-Medistrom-Pilot-24/dp/B0B3F7ZY65
+- $15 - [20V USB PD Trigger cable](https://www.amazon.ca/ResMed-AirSense-Cable-Medistrom-Pilot-24/dp/B0B3F7ZY65)
+- $30 - [Resmed DC output cable](https://www.amazon.ca/ResMed-AirSense-Cable-Medistrom-Pilot-24/dp/B0B3F7ZY65)
 - $3 - DC-DC 24 boost converter
 - $100 - USB-C PD Power bank
 
