@@ -14,3 +14,7 @@ A list of quotes that I like
 - **The real danger is not that computers will begin to think like men, but that men will begin to think like computers.** - Sydney Harris
 
 - Your playing my game and your not winning - Chandler Leighton - When you say my name
+
+- "Could I interest you in everything, all of the time" - Source: [Welcome to the Internet - Bo Burnham](https://www.youtube.com/watch?v=k1BneeJTDcU)
+
+- "The sooner you realize you do not inherently deserve anything the better this goes."
