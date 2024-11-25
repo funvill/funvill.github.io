@@ -54,7 +54,7 @@ I was considering putting the LEDs in concentric circles or in a curve to add so
 
 ### Power consumption
 
-<img src='\public\uploads\2024\tetragonal-trapezohedron-power.png' alt='tetragonal-trapezohedron' title='tetragonal-trapezohedron' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>I was worried that with so many LEDs it was going to consume too much power, and I would need to add power drops on every panel instead of one continuous power bus.
+I was worried that with so many LEDs it was going to consume too much power, and I would need to add power drops on every panel instead of one continuous power bus.
 
 According to the datasheet [XL-1615RGBC-WS2812B](https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-1615RGBC-WS2812B_C5349954.html) each LED consumes a maximum of 12mA at 5v.
 
@@ -67,6 +67,8 @@ To compensate for this extreme power consumption, I configure the LEDs to use a 
 A full white LED test consumed ```~10 Watts (2,148 mA * 5v)```
 
 Under actual test of normal patterns it uses closer to 3 Watts (481mA * 5v). Well within the range of a normal USB-C power bank.
+
+<img src='\public\uploads\2024\tetragonal-trapezohedron-power.png' alt='tetragonal-trapezohedron' title='tetragonal-trapezohedron' style='border: 1px solid black; margin: 5px; padding: 5px;'>
 
 ### White PCB
 
@@ -102,7 +104,7 @@ Because of this issue I moved on to trying to create a 3D printed sub structure 
 
 ### Measurements in Fusion360 vs Inkscape vs KiCad
 
-<img src='\public\uploads\2024\tetragonal-trapezohedron-mesurements.png' alt='tetragonal-trapezohedron' title='tetragonal-trapezohedron' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>I originally designed the panels in [Fusion360](https://en.wikipedia.org/wiki/Fusion_360) to get the measurements correct. This allowed me to make 3D models of the shapes to ensure everything looked good and fit together.
+I originally designed the panels in [Fusion360](https://en.wikipedia.org/wiki/Fusion_360) to get the measurements correct. This allowed me to make 3D models of the shapes to ensure everything looked good and fit together.
 
 Then I would export the panels as [DFX](https://en.wikipedia.org/wiki/AutoCAD_DXF) files from Fusion360. The only file format that Fusion360 supports when exporting drawings.
 
@@ -119,6 +121,8 @@ When the DFX is imported into [Inkscape](https://en.wikipedia.org/wiki/Inkscape)
 For example:
 
 The height in Fusion360 and Inkscape is both 85.065mm as expected. While the height is 52.618mm in Inkscape and 52.573mm in fusion. A difference of 0.045mm.
+
+<img src='\public\uploads\2024\tetragonal-trapezohedron-mesurements.png' alt='tetragonal-trapezohedron' title='tetragonal-trapezohedron' style='border: 1px solid black; margin: 5px; padding: 5px;'>
 
 This isn’t an issue when mechanically fitting them together as the variants don’t add up enough to cause problems.
 
@@ -208,7 +212,7 @@ In the next version, I won’t be placing the micro-controller inside and won’
 
 ### Tiny pads for welding
 
-<img src='\public\uploads\2024\tetragonal-trapezohedron-tiny.png' alt='tetragonal-trapezohedron' title='tetragonal-trapezohedron' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>Each panel has a set of power and data pins. I use these pins to connect each panel to each other using some flexible wire.
+<img src='\public\uploads\2024\tetragonal-trapezohedron-tiny-pads.png' alt='tetragonal-trapezohedron' title='tetragonal-trapezohedron' style='float: right; border: 1px solid black; margin: 5px; padding: 5px;'>Each panel has a set of power and data pins. I use these pins to connect each panel to each other using some flexible wire.
 
 I had the same problem that I had with the [Dodecahedron](https://blog.abluestar.com/dodecahedron-pcb-retrospective/) where the default pads in KiCad for welding are too small. This makes it difficult to solder the connection wires.
 
