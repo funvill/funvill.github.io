@@ -10,7 +10,7 @@ tags:
 excerpt: 2024 year end Movies and TV Reviews
 ---
 
-# Year in review TV and Movies
+# TV and Movies
 
 Netflix lost me as a customer after they started [blocking password sharing](https://www.cbc.ca/news/business/netflix-password-sharing-1.6741484) in February 2023. Since then I mostly pirate movies and TV shows using my Plex server. Two years later and I am still salty about this.
 
@@ -97,7 +97,7 @@ Only including the series that I finished completely.
 - Meh - [3 Body Problem](https://www.imdb.com/title/tt13016388/?ref_=fn_all_ttl_1) (Season 1) - I am a big fan of the books, I knew it was going to be hard to visualize and bring these books to the screen. I don't think they captured the feels from the books or told a story that is captivating on its own... Too bad.
 - Meh - [The Legend of Vox Machina](https://www.imdb.com/title/tt11247158/?ref_=fn_all_ttl_1) (Season 3) - Getting tired, and I am losing interest.  
 
-## Music
+# Music
 
 Listened to 9,513 songs in 2024 (decrease of 17% from 2023) across 2,031 artists (decrease of 25% from 2023). An average of 26 songs per day. That’s approximately 26 days, 6 hours of music. The longest streak of listening to music was 26 days in a row.
 
