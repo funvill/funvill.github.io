@@ -24,6 +24,8 @@ When the button is pressed a signal is sent to a server that records the time it
 
 This art work was installed in a small park during spring.
 
+[Current project status and stats](https://blog.abluestar.com/other/counterproductive.html)
+
 ## Prior art
 
 - [Useless_machine](https://en.m.wikipedia.org/wiki/Useless_machine) - Is a device whose only function is to turn itself off.
