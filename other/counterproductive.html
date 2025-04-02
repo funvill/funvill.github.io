@@ -1,0 +1,25 @@
+<html>
+<head>
+  <title>Counterproductive</title>
+</head>
+<body>
+  <h1>Counterproductive</h1>
+  <p></p>
+
+  <script>
+    fetch('https://gist.githubusercontent.com/funvill/4294410f1d77f59e83322e4a2ac59a5c/raw/counterproductive-data.json')
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById('count').innerText = data.count;
+        document.getElementById('heartbeat').innerText = data.heartbeat;
+      });
+  </script>
+
+  <div>
+    Count: <span id="count"></span><br>
+    Heart Beat: <span id="heartbeat"></span>
+  </div>
+
+</body>
+
+</html>
