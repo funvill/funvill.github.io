@@ -4,60 +4,39 @@ Version: 2025-Apr-02
 <html>
 
 <head>
-  <title>Counterproductive - Data</title>
+  <title>CounterProductive - Report</title>
 </head>
 
 <body>
-  <h1>Counterproductive</h1>
-  <p>The current values from the 2025 <a
+  <h1>CounterProductive</h1>
+  <p>The current report from the 2025 <a
       href='https://blog.abluestar.com/projects/2025-counterproductive/'>Counterproductive</a> art project. <br>
     Value are pulled from <a
-      href='https://gist.github.com/funvill/4294410f1d77f59e83322e4a2ac59a5c/'>counterproductive-data.json</a> Github
+      href='https://gist.github.com/funvill/95b658729c105829aec9ea0e33cfafdb/'>counterproductive-report.html</a> Github
     Gist using javascript</p>
 
-  <script>
-    const username = 'funvill';
-    const gistId = '4294410f1d77f59e83322e4a2ac59a5c';
-    const gistFile = 'counterproductive-data.json';
-    const bustCache = `?t=${Date.now()}`; // Add a timestamp to force fresh fetch
-    const url = 'https://gist.githubusercontent.com/' + username + '/' + gistId + '/raw/' + gistFile + bustCache;
+    <script>
+      const username = 'funvill';
+      const gistId = '95b658729c105829aec9ea0e33cfafdb';
+      const gistFile = 'counterproductive-report.html';
+      const bustCache = `?t=${Date.now()}`; // Add a timestamp to force fresh fetch
+      const url = `https://gist.githubusercontent.com/${username}/${gistId}/raw/${gistFile}${bustCache}`;
+    
+      function getUpdates() {
+        fetch(url)
+          .then(response => response.text()) // Convert response to plain text (HTML)
+          .then(html => {
+            document.getElementById('report').innerHTML = html;
+          })
+          .catch(err => console.error('Error fetching data:', err));
+      }
+    
+      getUpdates(); // Initial fetch
+      setInterval(getUpdates, 1000 * 60); // Update every 60 seconds
+    </script>
 
-    function formatTimeLeft(lastUpdate) {
-      const TIMER_COUNT_DOWN_24HOURS = 24 * 60 * 60; // 86400 seconds
-      const now = Date.now(); // Current time in milliseconds
-      const heartbeat = new Date(lastUpdate).getTime(); // Convert ISO string to timestamp
-      const elapsed = Math.floor((now - heartbeat) / 1000); // In seconds
-      const timeLeftInSeconds = Math.max(0, TIMER_COUNT_DOWN_24HOURS - elapsed); // Prevent negative time
-
-      const hours = Math.floor(timeLeftInSeconds / 3600);
-      const minutes = Math.floor((timeLeftInSeconds % 3600) / 60);
-      const seconds = timeLeftInSeconds % 60;
-
-      // Format as HH:MM:SS
-      const formatted = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
-      return formatted;
-    }
-
-    function getUpdates() {
-      fetch(url)
-        .then(res => res.json())
-        .then(data => {
-          document.getElementById('count').innerText = data.count;
-          document.getElementById('lastUpdated').innerText = data.lastUpdated;
-          document.getElementById('timeRemaining').innerText = formatTimeLeft(data.lastUpdated);
-        })
-        .catch(err => console.error('Error fetching data:', err));
-    }
-    getUpdates(); // Initial fetch
-    setInterval(getUpdates, 1000 * 3); // Update every 3 seconds
-  </script>
-
-  <div>
-    <strong>Button Presses:</strong> <span id="count"></span><br>
-    <strong>Last Updated:</strong> <span id="lastUpdated"></span><br>
-    <strong>Time Remaining:</strong> <span id="timeRemaining"></span><br>
+  <div id="report">
   </div>
-
 </body>
 
 </html>
