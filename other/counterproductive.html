@@ -15,45 +15,53 @@ Version: 2025-Apr-02
       href='https://gist.github.com/funvill/95b658729c105829aec9ea0e33cfafdb/'>counterproductive-report.html</a> Github
     Gist using javascript</p>
 
-    <script>
-      const username = 'funvill';
-      const gistId = '95b658729c105829aec9ea0e33cfafdb';
-      const gistFile = 'counterproductive-report.html';
-      const bustCache = `?t=${Date.now()}`; // Add a timestamp to force fresh fetch
-      const url = `https://gist.githubusercontent.com/${username}/${gistId}/raw/${gistFile}${bustCache}`;
-    
-      function getUpdates() {
-        fetch(url)
-          .then(response => response.text()) // Convert response to plain text (HTML)
-          .then(html => {
-            document.getElementById('report').innerHTML = html;
+  <script>
+    const username = 'funvill';
+    const gistId = '95b658729c105829aec9ea0e33cfafdb';
+    const gistFile = 'counterproductive-report.html';
+    const bustCache = `?t=${Date.now()}`; // Add a timestamp to force fresh fetch
+    const url = `https://gist.githubusercontent.com/${username}/${gistId}/raw/${gistFile}${bustCache}`;
 
-            // Search the report for a div with id of "LastUpdated", the format for this is: 2025-04-04, 4:48:30 p.m.
-            const lastUpdatedDiv = document.querySelector('#report span#LastUpdated');
+    let updateTimersInterval = null;
 
-            // Calulate the time since the last update
-            const lastUpdated = new Date(lastUpdatedDiv.innerText);
-            const now = new Date();
-            const timeSinceLast = Math.floor((now - lastUpdated) / 1000); // in seconds
-            const timeRemaining = 24 * 60 * 60 - timeSinceLast; // in seconds
-            const formatGap = (s) => {
-              const hours = Math.floor(s / 3600);
-              const minutes = Math.floor((s % 3600) / 60);
-              const seconds = s % 60;
-              return `${String(hours).padStart(2, '0')}h ${String(minutes).padStart(2, '0')}m ${String(seconds).padStart(2, '0')}s `;
-            };
-            const timeSinceLastSpan = document.getElementById('#report span#timeSinceLastSpan');
-            const timeRemainingSpan = document.getElementById('#report span#timeRemainingSpan');
+    function UpdateTimers() {
+      // Search the report for a div with id of "LastUpdated", the format for this is: 2025-04-04, 4:48:30 p.m.
+      const lastUpdatedDiv = document.getElementById('LastUpdated');
 
-            timeSinceLastSpan.innerHTML = `<strong>${formatGap(timeSinceLast)}</strong>`;
-            timeRemainingSpan.innerHTML = `<strong>${formatGap(timeRemaining)}</strong>`;
-          })
-          .catch(err => console.error('Error fetching data:', err));
-      }
-    
-      getUpdates(); // Initial fetch
-      setInterval(getUpdates, 1000 * 60); // Update every 60 seconds
-    </script>
+      // Calulate the time since the last update
+      const lastUpdatedText = lastUpdatedDiv.innerText.replace(',', '').replace('p.m.', 'PM').replace('a.m.', 'AM');
+      const lastUpdated = new Date(lastUpdatedText);
+      const now = new Date();
+      const timeSinceLast = Math.floor((now - lastUpdated) / 1000); // in seconds
+      const timeRemaining = 24 * 60 * 60 - timeSinceLast; // in seconds
+      const formatGap = (s) => {
+        const hours = Math.floor(s / 3600);
+        const minutes = Math.floor((s % 3600) / 60);
+        const seconds = s % 60;
+        return `${String(hours).padStart(2, '0')}h ${String(minutes).padStart(2, '0')}m ${String(seconds).padStart(2, '0')}s `;
+      };
+      document.getElementById('timeSinceLastSpan').innerHTML = `<strong>${formatGap(timeSinceLast)}</strong>`;
+      document.getElementById('timeRemainingSpan').innerHTML = `<strong>${formatGap(timeRemaining)}</strong>`;
+    }
+
+    function getUpdates() {
+      fetch(url)
+        .then(response => response.text()) // Convert response to plain text (HTML)
+        .then(html => {
+          document.getElementById('report').innerHTML = html;
+
+          // Stop the previous interval if it exists
+          if (updateTimersInterval) {
+            clearInterval(updateTimersInterval);
+          }
+          updateTimersInterval = setInterval(UpdateTimers, 1000 * 1); // Update every 1 seconds
+        })
+        .catch(err => console.error('Error fetching data:', err));
+    }
+
+    getUpdates(); // Initial fetch
+    setInterval(getUpdates, 1000 * 60); // Update every 60 seconds
+  </script>
 
   <div id="report">
   </div>
