@@ -61,10 +61,29 @@ Version: 2025-Apr-02
 
     getUpdates(); // Initial fetch
     setInterval(getUpdates, 1000 * 60); // Update every 60 seconds
-  </script>
 
+    // Fetch the heartbeat.json file from the gist
+    // and update the heartbeat div every 60 seconds
+    // This is a separate fetch from the report
+    setInterval(() => {
+      const gistFile = 'heartbeat.json';
+      const bustCache = `?t=${Date.now()}`; // Add a timestamp to force fresh fetch
+      const url = `https://gist.githubusercontent.com/${username}/${gistId}/raw/${gistFile}${bustCache}`;
+      fetch(url)
+        // Convert response to JSON
+        .then(response => response.json())
+        .then(json => {
+          const heartbeatDiv = document.getElementById('heartbeat');
+          heartbeatDiv.innerHTML = `Time Remaining heartbeat: <strong>${json.heartbeat}</strong>`;
+        })
+        .catch(err => console.error('Error fetching data:', err));
+    }, 1000 * 60); // Update every 60 seconds
+  </script>
   <div id="report">
   </div>
+
+  <div id="heartbeat"></div>
+
 </body>
 
 </html>
