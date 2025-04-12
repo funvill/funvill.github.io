@@ -12,11 +12,11 @@ tags:
 
 ## Counter Productive
 
-<a href='/public/uploads/2025/counter-productive.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2025/counter-productive.png" alt="Counter productive button"></a>
-
 This is an art project
 
 ### Instructions
+
+<a href='/public/uploads/2025/counter-productive.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2025/counter-productive.png" alt="Counter productive button"></a>
 
 - Press the button to reset the 24-hour countdown timer.
 - If the timer ever reaches zero, the project ends and will be removed.

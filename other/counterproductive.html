@@ -60,29 +60,65 @@ Version: 2025-Apr-02
     }
 
     getUpdates(); // Initial fetch
-    setInterval(getUpdates, 1000 * 60); // Update every 60 seconds
+    setInterval(getUpdates, 1000 * 1); // Update every 60 seconds
+
+
+    // The heatbeat string should change once every min. 
+    // If the heatbeat string doesn't change in 5 mins, something has gone wrong. 
+    // We want to report it to the user that the heatbeat is dead. 
+
+    let oldHeartbeatValue = "";
+    let timeHeartbeatValueUpdated = Date.now();
+    let heatBeatChangeCount = 0;
+
+    // Function to check if the heartbeat is dead
+    function checkHeartbeat() {
+      const now = Date.now();
+      const timeSinceLastUpdate = (now - timeHeartbeatValueUpdated) / 1000; // in seconds
+      const heartbeatStatusDiv = document.getElementById('heartbeatStatus');
+
+      const MIN_HEATBEATS_BEFORE_OKAY = 2;
+
+      if (heatBeatChangeCount < MIN_HEATBEATS_BEFORE_OKAY) {
+        heartbeatStatusDiv.innerHTML = `⏳ Waiting on ${MIN_HEATBEATS_BEFORE_OKAY - heatBeatChangeCount} more heatbeats before showing status... ${oldHeartbeatValue}`;
+      } else if (timeSinceLastUpdate > 300) { // 5 minutes = 300 seconds
+        heartbeatStatusDiv.innerHTML = `<strong style="color: red;">⚠️ Heartbeat is dead! Last updated ${Math.floor(timeSinceLastUpdate / 60)} minutes ago.</strong>`;
+      } else {
+        heartbeatStatusDiv.innerHTML = `<strong style="color: green;">❤️ Heartbeat is alive. Age ${Math.floor(timeSinceLastUpdate)}s</strong> (Count: ${heatBeatChangeCount})`;
+      }
+    }
+    // Check the heartbeat status every 3 seconds
+    setInterval(checkHeartbeat, 1000 * 3);
 
     // Fetch the heartbeat.json file from the gist
-    // and update the heartbeat div every 60 seconds
-    // This is a separate fetch from the report
     setInterval(() => {
       const gistFile = 'heartbeat.json';
       const bustCache = `?t=${Date.now()}`; // Add a timestamp to force fresh fetch
       const url = `https://gist.githubusercontent.com/${username}/${gistId}/raw/${gistFile}${bustCache}`;
+
       fetch(url)
-        // Convert response to JSON
-        .then(response => response.json())
-        .then(json => {
-          const heartbeatDiv = document.getElementById('heartbeat');
-          heartbeatDiv.innerHTML = `Time Remaining heartbeat: <strong>${json.heartbeat}</strong>`;
+        .then(response => response.text()) // Convert response to plain text (JSON)
+        .then(response => {
+          const responseJSON = JSON.parse(response);
+          const newHeartbeatValue = responseJSON.timeRemaining;
+
+          // Update the heartbeat value and timestamp if it has changed
+          if (newHeartbeatValue !== oldHeartbeatValue) {
+            oldHeartbeatValue = newHeartbeatValue;
+            timeHeartbeatValueUpdated = Date.now();
+            heatBeatChangeCount++;
+          }
         })
-        .catch(err => console.error('Error fetching data:', err));
+        .catch(err => console.error('Error fetching heartbeat:', err));
     }, 1000 * 60); // Update every 60 seconds
+
+
   </script>
   <div id="report">
   </div>
 
   <div id="heartbeat"></div>
+  <div id="heartbeatStatus"></div>
 
 </body>
 
