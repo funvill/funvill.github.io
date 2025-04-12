@@ -15,6 +15,15 @@ Version: 2025-Apr-02
       href='https://gist.github.com/funvill/95b658729c105829aec9ea0e33cfafdb/'>counterproductive-report.html</a> Github
     Gist using javascript</p>
 
+  
+  <div id="report">
+  </div>
+
+  <div id="heartbeat"></div>
+  <div id="heartbeatStatus"></div>
+
+
+
   <script>
     const username = 'funvill';
     const gistId = '95b658729c105829aec9ea0e33cfafdb';
@@ -59,8 +68,11 @@ Version: 2025-Apr-02
         .catch(err => console.error('Error fetching data:', err));
     }
 
+    // There is an external costs to checking this value.
+    // We don't want to blow our API call limit with Gitlab. 
+    // Only check once every 60 seconds.
     getUpdates(); // Initial fetch
-    setInterval(getUpdates, 1000 * 1); // Update every 60 seconds
+    setInterval(getUpdates, 1000 * 60);
 
 
     // The heatbeat string should change once every min. 
@@ -71,27 +83,8 @@ Version: 2025-Apr-02
     let timeHeartbeatValueUpdated = Date.now();
     let heatBeatChangeCount = 0;
 
-    // Function to check if the heartbeat is dead
-    function checkHeartbeat() {
-      const now = Date.now();
-      const timeSinceLastUpdate = (now - timeHeartbeatValueUpdated) / 1000; // in seconds
-      const heartbeatStatusDiv = document.getElementById('heartbeatStatus');
-
-      const MIN_HEATBEATS_BEFORE_OKAY = 2;
-
-      if (heatBeatChangeCount < MIN_HEATBEATS_BEFORE_OKAY) {
-        heartbeatStatusDiv.innerHTML = `⏳ Waiting on ${MIN_HEATBEATS_BEFORE_OKAY - heatBeatChangeCount} more heatbeats before showing status... ${oldHeartbeatValue}`;
-      } else if (timeSinceLastUpdate > 300) { // 5 minutes = 300 seconds
-        heartbeatStatusDiv.innerHTML = `<strong style="color: red;">⚠️ Heartbeat is dead! Last updated ${Math.floor(timeSinceLastUpdate / 60)} minutes ago.</strong>`;
-      } else {
-        heartbeatStatusDiv.innerHTML = `<strong style="color: green;">❤️ Heartbeat is alive. Age ${Math.floor(timeSinceLastUpdate)}s</strong> (Count: ${heatBeatChangeCount})`;
-      }
-    }
-    // Check the heartbeat status every 3 seconds
-    setInterval(checkHeartbeat, 1000 * 3);
-
     // Fetch the heartbeat.json file from the gist
-    setInterval(() => {
+    function fetchHeartbeat() {
       const gistFile = 'heartbeat.json';
       const bustCache = `?t=${Date.now()}`; // Add a timestamp to force fresh fetch
       const url = `https://gist.githubusercontent.com/${username}/${gistId}/raw/${gistFile}${bustCache}`;
@@ -99,6 +92,9 @@ Version: 2025-Apr-02
       fetch(url)
         .then(response => response.text()) // Convert response to plain text (JSON)
         .then(response => {
+          if(!response ) {
+            return ;
+          }
           const responseJSON = JSON.parse(response);
           const newHeartbeatValue = responseJSON.timeRemaining;
 
@@ -110,15 +106,35 @@ Version: 2025-Apr-02
           }
         })
         .catch(err => console.error('Error fetching heartbeat:', err));
-    }, 1000 * 60); // Update every 60 seconds
+    }
 
+    // There is an external costs to checking this value.
+    // We don't want to blow our API call limit with Gitlab. 
+    // Only check once every 60 seconds.
+    fetchHeartbeat();
+    setInterval(fetchHeartbeat, 1000 * 60); 
+
+    // Function to check if the heartbeat is dead
+    function checkHeartbeat() {
+      const now = Date.now();
+      const timeSinceLastUpdate = (now - timeHeartbeatValueUpdated) / 1000; // in seconds
+      const heartbeatStatusDiv = document.getElementById('heartbeatStatus');
+
+      const MIN_HEATBEATS_BEFORE_OKAY = 2;
+
+      if (heatBeatChangeCount < MIN_HEATBEATS_BEFORE_OKAY) {
+        heartbeatStatusDiv.innerHTML = `⏳ Waiting on ${MIN_HEATBEATS_BEFORE_OKAY - heatBeatChangeCount} more heatbeats before showing status... <i>${oldHeartbeatValue}</i>`;
+      } else if (timeSinceLastUpdate > 300) { // 5 minutes = 300 seconds
+        heartbeatStatusDiv.innerHTML = `<strong style="color: red;">⚠️ Heartbeat is dead! Last updated ${Math.floor(timeSinceLastUpdate / 60)} minutes ago.</strong>`;
+      } else {
+        heartbeatStatusDiv.innerHTML = `<strong style="color: green;" title='${oldHeartbeatValue}'>❤️ Heartbeat is alive. Age ${Math.floor(timeSinceLastUpdate)}s</strong> (Count: ${heatBeatChangeCount})`;
+      }
+    }
+    // No external cost to keep checking this might as well be fast
+    checkHeartbeat();
+    setInterval(checkHeartbeat, 1000 * 1); 
 
   </script>
-  <div id="report">
-  </div>
-
-  <div id="heartbeat"></div>
-  <div id="heartbeatStatus"></div>
 
 </body>
 
