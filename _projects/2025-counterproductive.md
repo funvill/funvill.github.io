@@ -10,8 +10,6 @@ tags:
 - Art
 ---
 
-# Counter Productive
-
 > A social experiment and art project exploring how people interact with a button in a park.
 
 ## Overview
@@ -63,13 +61,13 @@ The transparent box has a sheet of paper inside that provides instructions.
 
 All the project source files can be found on the project's Github page. [github.com/funvill/counterproductive](https://github.com/funvill/counterproductive)
 
-## Prior art
+## Inspiration and Prior art
 
 - [Useless_machine](https://en.m.wikipedia.org/wiki/Useless_machine) - Is a device whose only function is to turn itself off.
 - [The_Button_(Reddit)](https://en.m.wikipedia.org/wiki/The_Button_(Reddit)) - Was an online meta-game and social experiment that featured an online button and 60-second countdown timer that would reset each time the button was pressed.
 - [2007 Boston Mooninite panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic) - An LED display that was install in Boston that was falsely reported as a bomb 💣.
 
-### FAQ
+## FAQ
 
 - **Why is the button Green instead of Red?** - The button started out as a red button, but I got worried that people might think its a bomb so I changed it to green. Green means life and pressing the button gives the project more life.
 - **Where is the button?** - In a public park in the [GVRD](https://en.wikipedia.org/wiki/Metro_Vancouver_Regional_District) with cherry blossoms. I specifically didn't publicize the address so if this goes viral, there is a chance of not being stolen or vandalized.
