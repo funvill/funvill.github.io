@@ -11,18 +11,12 @@ Version: 2025-Apr-02
   <h1>CounterProductive</h1>
   <p>The current report from the 2025 <a
       href='https://blog.abluestar.com/projects/2025-counterproductive/'>Counterproductive</a> art project. <br>
-    Value are pulled from <a
-      href='https://gist.github.com/funvill/95b658729c105829aec9ea0e33cfafdb/'>counterproductive-report.html</a> Github
-    Gist using javascript</p>
-
   
   <div id="report">
   </div>
 
   <div id="heartbeat"></div>
   <div id="heartbeatStatus"></div>
-
-
 
   <script>
     const username = 'funvill';
@@ -33,6 +27,13 @@ Version: 2025-Apr-02
 
     let updateTimersInterval = null;
 
+    function GetDate() {
+      // The timeZone that this report is in is UTC-7 - Vancouver, Canada
+      const timeZone = 'America/Vancouver';
+      const now = new Date();
+      return new Date(now.toLocaleString('en-US', { timeZone: timeZone }));      
+    }
+
     function UpdateTimers() {
       // Search the report for a div with id of "LastUpdated", the format for this is: 2025-04-04, 4:48:30 p.m.
       const lastUpdatedDiv = document.getElementById('LastUpdated');
@@ -40,7 +41,7 @@ Version: 2025-Apr-02
       // Calulate the time since the last update
       const lastUpdatedText = lastUpdatedDiv.innerText.replace(',', '').replace('p.m.', 'PM').replace('a.m.', 'AM');
       const lastUpdated = new Date(lastUpdatedText);
-      const now = new Date();
+      const now = GetDate();
       const timeSinceLast = Math.floor((now - lastUpdated) / 1000); // in seconds
       const timeRemaining = 24 * 60 * 60 - timeSinceLast; // in seconds
       const formatGap = (s) => {
@@ -127,7 +128,7 @@ Version: 2025-Apr-02
       } else if (timeSinceLastUpdate > 300) { // 5 minutes = 300 seconds
         heartbeatStatusDiv.innerHTML = `<strong style="color: red;">⚠️ Heartbeat is dead! Last updated ${Math.floor(timeSinceLastUpdate / 60)} minutes ago.</strong>`;
       } else {
-        heartbeatStatusDiv.innerHTML = `<strong style="color: green;" title='${oldHeartbeatValue}'>❤️ Heartbeat is alive. Age ${Math.floor(timeSinceLastUpdate)}s</strong> (Count: ${heatBeatChangeCount})`;
+        heartbeatStatusDiv.innerHTML = `<strong style="color: green;" title='${oldHeartbeatValue}'>❤️ Heartbeat is alive. Age ${Math.floor(timeSinceLastUpdate)}s</strong> (Count: ${heatBeatChangeCount}) <i>${oldHeartbeatValue}</i>`;
       }
     }
     // No external cost to keep checking this might as well be fast
