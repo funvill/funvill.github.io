@@ -12,12 +12,12 @@ tags:
 
 # Counter Productive
 
-> A social experiment exploring how communities rally around a simple daily interaction to keep an artwork alive.
+> A social experiment and art project exploring how people interact with a button in a park.
 
 ## Overview
 
-<a href='/public/uploads/2025/counter-productive.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2025/counter-productive.png" alt="Counter productive button"></a>
-Counter Productive is an interactive public art installation. A large red button and an LED countdown matrix display in a public park. The installation “lives” when visitors press the button to reset a 24‑hour timer; if the countdown ever reaches zero, the artwork is removed.
+<a href='/public/uploads/2025/counter-productive-zoomed-out.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2025/counter-productive-zoomed-out.png" alt="Counter productive button"></a>
+Counter Productive is an interactive public art installation. A large red button and an LED countdown matrix display in a public park. The installation “lives” when visitors press the button to reset a 24‑hour timer; if the countdown ever reaches zero, the project dies, and artwork is removed.
 
 The project explores the interactions and motivations of visitors passing through the park.
 
@@ -25,9 +25,9 @@ Why do people press the button? Is it out of raw curiosity -- wondering what hap
 
 How long will this project last? Will it be vandalized in the middle of the night? Will a rainy Vancouver day keep people away from the park and the button dies from neglect. Will the city/strata remove the button as matter out of place ([MOOP](https://burningman.org/event/preparation/leaving-no-trace/moop/))
 
-Inspired by two projects. [Useless_machine](https://en.m.wikipedia.org/wiki/Useless_machine), and Reddit’s [The Button](https://en.m.wikipedia.org/wiki/The_Button_(Reddit)). The ***useless machine*** has a switch on it that when turned on an arm reaches out and turns it off. The only purpose of the useless machine is to turn itself off. Reddit’s ***The Button*** an online meta-game and social experiment that featured an online button and 60-second countdown timer that would reset each time the button was pressed but you are only able to push the button once.
+Inspired by two projects. The [Useless_machine](https://en.m.wikipedia.org/wiki/Useless_machine) has a switch on it that when turned on an arm reaches out and turns it off. The only purpose of the useless machine is to turn itself off. Reddit’s [The Button](https://en.m.wikipedia.org/wiki/The_Button_(Reddit)) an online meta-game and social experiment that featured an online button and 60-second countdown timer that would reset each time the button was pressed but you are only able to push the button once.
 
-The project was installed on **March 31, 2025**, and as of May 9th, 2025 it has been running for 40 days, with 600 button presses. See the [CounterProductive Log Report](https://blog.abluestar.com/other/counterproductive.html) for the current project status.
+The project was installed on **March 31, 2025**, and as of **May 9th, 2025** it has been running for **40 days** and counting, with **600+ button presses**. See the [CounterProductive Log Report](https://blog.abluestar.com/other/counterproductive.html) for the current project status.
 
 ## Statistics
 
@@ -41,7 +41,7 @@ The full list of stats can be found here [CounterProductive Log Report](https://
 
 ## Technical details
 
-<a href='/public/uploads/2025/counter-productive-zoomed-out.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2025/counter-productive-zoomed-out.png" alt="Counter productive button"></a>
+<a href='/public/uploads/2025/counter-productive.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2025/counter-productive.png" alt="Counter productive button"></a>
 
 Built in a single evening (~3 h) with spare parts, the setup uses a Seeed Studio [XIAO ESP32-C6](https://wiki.seeedstudio.com/xiao_esp32c6_getting_started/) for Wi‑Fi connectivity and MQTT. When the button is pressed a MQTT message is sent to a server and relayed to a [custom NodeJS](https://github.com/funvill/counterproductive/tree/main/loggingApp) logging application. Then a report is generated based on this log and sends it to [Github GIST](https://gist.github.com/funvill/95b658729c105829aec9ea0e33cfafdb/).
 
@@ -67,4 +67,13 @@ All the project source files can be found on the project's Github page. [github.
 
 - [Useless_machine](https://en.m.wikipedia.org/wiki/Useless_machine) - Is a device whose only function is to turn itself off.
 - [The_Button_(Reddit)](https://en.m.wikipedia.org/wiki/The_Button_(Reddit)) - Was an online meta-game and social experiment that featured an online button and 60-second countdown timer that would reset each time the button was pressed.
-- [2007 Boston Mooninite panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
+- [2007 Boston Mooninite panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic) - An LED display that was install in Boston that was falsely reported as a bomb 💣.
+
+### FAQ
+
+- **Why is the button Green instead of Red?** - The button started out as a red button, but I got worried that people might think its a bomb so I changed it to green. Green means life and pressing the button gives the project more life.
+- **Where is the button?** - In a public park in the [GVRD](https://en.wikipedia.org/wiki/Metro_Vancouver_Regional_District) with cherry blossoms. I specifically didn't publicize the address so if this goes viral, there is a chance of not being stolen or vandalized.
+- **Why not put a sticker on it that says that its not a bomb?** - I have done that before, it just makes suspicious and think of it more as a bomb.
+- **Does the button make a sound when you press it?** - No, I didn't want to annoy the residence around the park
+- **Why are you so concerned about people thinking it is a bomb?** - I don't want to cause mischief or fear in others. Art projects like this have been falsely reported as a bomb 💣 before [2007 Boston Mooninite panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic).
+
