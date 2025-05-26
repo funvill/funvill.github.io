@@ -12,6 +12,14 @@ tags:
 
 > A social experiment and art project exploring how people interact with a button in a park.
 
+## Instructions
+
+- Press the button to reset the 24-hour countdown timer.
+- If the timer ever reaches zero, the project ends and will be removed.
+- To keep the project alive — press the button
+
+All the project source files can be found on the project's Github page. [github.com/funvill/counterproductive](https://github.com/funvill/counterproductive)
+
 ## Overview
 
 <a href='/public/uploads/2025/counter-productive-zoomed-out.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2025/counter-productive-zoomed-out.png" alt="Counter productive button"></a>
@@ -53,13 +61,7 @@ A 8x32 RED led matrix is used for the countdown timer and primary display. The d
 
 The transparent box has a sheet of paper inside that provides instructions.
 
-### Instructions
 
-- Press the button to reset the 24-hour countdown timer.
-- If the timer ever reaches zero, the project ends and will be removed.
-- To keep the project alive — press the button
-
-All the project source files can be found on the project's Github page. [github.com/funvill/counterproductive](https://github.com/funvill/counterproductive)
 
 ## Inspiration and Prior art
 
