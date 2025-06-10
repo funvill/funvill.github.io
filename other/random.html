@@ -1,0 +1,97 @@
+<!-- 
+
+HTML and Javascript only, inline everything, no external assets or resources
+
+This web page allows users to randomly or round robin select someone from a list. This is used when assigning tasks to support staff. 
+
+The website should include dicections
+
+The website should have the following features  
+
+1. Show a multiple line text area. In this text area box, default to: Michael, Jane, Kelvin, Victor, 
+2. Have two buttons. 'Select Random', "Select Round Robin"
+
+The 'Select Random' selects a random line from the 'multiple line' text area. 
+
+The "Select Round Robin". 
+Loads the browser storage, 
+if it doesn't exist, selects the top line in the list, then save the top line to local storage
+if it does exist, then find that line in the list, then select the next line in the list, then save the new line to local storage. 
+
+Effectivly, this should rotate though the list one person at a time and save the location in the browser storage. 
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Random & Round Robin Selector</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; }
+    .container { max-width: 500px; margin: auto; background: #fff; padding: 2em; border-radius: 8px; box-shadow: 0 2px 8px #0001; }
+    textarea { width: 100%; height: 100px; font-size: 1em; margin-bottom: 1em; }
+    button { margin-right: 1em; padding: 0.5em 1.5em; font-size: 1em; border-radius: 4px; border: none; background: #0078d7; color: #fff; cursor: pointer; }
+    button:last-child { background: #28a745; }
+    .result { margin-top: 1.5em; font-size: 1.2em; font-weight: bold; color: #333; }
+    .directions { background: #e7f3ff; border-left: 4px solid #0078d7; padding: 1em; margin-bottom: 1.5em; border-radius: 4px; }
+    h1 { text-align: center;}
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="header"><h1>Random & Round Robin Selector</h1></div>
+
+    <div class="directions">
+      <strong>Directions:</strong><br>
+      Enter one name per line in the box below. Use <b>Select Random</b> to pick a random person, or <b>Select Round Robin</b> to rotate through the list one at a time. The round robin selection is saved in your browser and will continue where you left off.
+    </div>
+    <textarea id="names" placeholder="Enter one name per line">Michael
+Jane
+Kelvin
+Victor</textarea>
+    <br>
+    <button onclick="selectRandom()">Select Random</button>
+    <button onclick="selectRoundRobin()">Select Round Robin</button>
+    <div class="result" id="result"></div>
+  </div>
+  <script>
+    const STORAGE_KEY = 'roundRobinSelectedName';
+
+    function getNames() {
+      const raw = document.getElementById('names').value;
+      return raw.split(/\r?\n/).map(s => s.trim()).filter(Boolean);
+    }
+
+    function selectRandom() {
+      const names = getNames();
+      if (names.length === 0) {
+        showResult('No names entered.');
+        return;
+      }
+      const idx = Math.floor(Math.random() * names.length);
+      showResult('Randomly selected: ' + names[idx]);
+    }
+
+    function selectRoundRobin() {
+      const names = getNames();
+      if (names.length === 0) {
+        showResult('No names entered.');
+        return;
+      }
+      let last = localStorage.getItem(STORAGE_KEY);
+      let idx = 0;
+      if (last && names.includes(last)) {
+        idx = names.indexOf(last) + 1;
+        if (idx >= names.length) idx = 0;
+      }
+      localStorage.setItem(STORAGE_KEY, names[idx]);
+      showResult('Round Robin selected: ' + names[idx]);
+    }
+
+    function showResult(msg) {
+      document.getElementById('result').textContent = msg;
+    }
+  </script>
+</body>
+</html>
