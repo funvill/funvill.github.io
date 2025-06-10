@@ -11,6 +11,8 @@ excerpt: A status update of the Counter productive, Sky Pixles projects
 
 ## Counter Productive (Button project)
 
+<img src='\public\uploads\2025\day-visualizer-2025june10.png' alt='Counter Productive' title='Counter Productive' style='border: 1px solid black; margin: 5px; padding: 5px; width: 300px; float: right'>
+
 [Counter Productive stats page](https://blog.abluestar.com/other/counterproductive.html)
 
 It has reached 1000 button presses after running for 71 days.
@@ -27,6 +29,8 @@ Its mostly young children (<10 years old) that are pressing the button. I am not
 Almost no one scans the QR code to see the project stats or project details. So far it has not been vandalized, and the strata hasn't asked me to take it down.
 
 I have hooked up the button to the speakers in my house. So when someone presses the button. I get a sound effect playing. Its Mario from Super Mario brothers "yahoo" sound effects. It really makes me smile every time I hear it.
+
+<img src='\public\uploads\2025\CounterProductive-Stats-2025june10.png' alt='CounterProductive-Stats-2025june10' title='CounterProductive-Stats-2025june10' style='border: 1px solid black; margin: 5px; padding: 5px;'>
 
 ## Sky Pixles (Time lapse of the sky from around the world)
 
