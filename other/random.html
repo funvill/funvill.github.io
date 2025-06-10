@@ -23,28 +23,88 @@ Effectivly, this should rotate though the list one person at a time and save the
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Random & Round Robin Selector</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; }
-    .container { max-width: 500px; margin: auto; background: #fff; padding: 2em; border-radius: 8px; box-shadow: 0 2px 8px #0001; }
-    textarea { width: 100%; height: 100px; font-size: 1em; margin-bottom: 1em; }
-    button { margin-right: 1em; padding: 0.5em 1.5em; font-size: 1em; border-radius: 4px; border: none; background: #0078d7; color: #fff; cursor: pointer; }
-    button:last-child { background: #28a745; }
-    .result { margin-top: 1.5em; font-size: 1.2em; font-weight: bold; color: #333; }
-    .directions { background: #e7f3ff; border-left: 4px solid #0078d7; padding: 1em; margin-bottom: 1.5em; border-radius: 4px; }
-    h1 { text-align: center;}
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background: #f9f9f9;
+    }
+
+    .container {
+      max-width: 500px;
+      margin: auto;
+      background: #fff;
+      padding: 2em;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px #0001;
+    }
+
+    textarea {
+      width: 100%;
+      height: 100px;
+      font-size: 1em;
+      margin-bottom: 1em;
+    }
+
+    button {
+      margin-right: 1em;
+      padding: 0.5em 1.5em;
+      font-size: 1em;
+      border-radius: 4px;
+      border: none;
+      background: #0078d7;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    button:last-child {
+      background: #28a745;
+    }
+
+    .result {
+      margin: 1.5em;
+      font-size: 1.2em;
+      font-weight: bold;
+      color: #333;
+    }
+
+    .directions {
+      background: #e7f3ff;
+      border-left: 4px solid #0078d7;
+      padding: 1em;
+      margin-bottom: 1.5em;
+      border-radius: 4px;
+    }    
+    .info {
+      background: #e7f3ff;
+      border-left: 4px solid #0078d7;
+      padding: 1em;
+      margin-bottom: 1.5em;
+      border-radius: 4px;
+    }
+
+    h1 {
+      text-align: center;
+    }
   </style>
 </head>
+
 <body>
   <div class="container">
 
-    <div class="header"><h1>Random & Round Robin Selector</h1></div>
+    <div class="header">
+      <h1>Random & Round Robin Selector</h1>
+    </div>
 
     <div class="directions">
       <strong>Directions:</strong><br>
-      Enter one name per line in the box below. Use <b>Select Random</b> to pick a random person, or <b>Select Round Robin</b> to rotate through the list one at a time. The round robin selection is saved in your browser and will continue where you left off.
+      Enter one name per line in the box below. Use <b>Select Random</b> to pick a random person, or <b>Select Round
+        Robin</b> to rotate through the list one at a time. The round robin selection is saved in your browser and will
+      continue where you left off.
     </div>
     <textarea id="names" placeholder="Enter one name per line">Michael
 Jane
@@ -53,7 +113,13 @@ Victor</textarea>
     <br>
     <button onclick="selectRandom()">Select Random</button>
     <button onclick="selectRoundRobin()">Select Round Robin</button>
-    <div class="result" id="result"></div>
+    <div class="result" id="result">.</div>
+
+    <div class="info">
+      <strong>Info:</strong><br>
+      This uses your browser's <a href='https://en.wikipedia.org/wiki/Pseudorandomness'>pseudo random</a> number generator. Its not a true random number generator. If you need true random
+      number generator use <a href='https://www.random.org/'>random.org</a>
+    </div>
   </div>
   <script>
     const STORAGE_KEY = 'roundRobinSelectedName';
@@ -94,4 +160,5 @@ Victor</textarea>
     }
   </script>
 </body>
+
 </html>
