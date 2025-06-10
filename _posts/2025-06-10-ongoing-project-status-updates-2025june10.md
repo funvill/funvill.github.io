@@ -15,7 +15,6 @@ excerpt: A status update of the Counter productive, Sky Pixles projects
 
 It has reached 1000 button presses after running for 71 days.
 
-It DID have a death on April 17 (Easter) by 1hr15min, but otherwise its been running constantly.
 There are two "keepers of the buttons" that come by daily and press the button. A neighborhood child with an oversized blue back pack, presses it every day after school at ~3:40ish. And a someone I have not been able to catch that comes by at ~2:30am every day.
 
 Almost every day there is a new  rapid button presser, who presses it 5-10 times within 30 seconds.
@@ -42,9 +41,15 @@ The green strips are when the system goes down for some reason. I have not migra
 I am going to tweak the design of these over the next few days to find more visually appealing designs. Then the next step is to get a few of these printed out on to large sheets and do a test painting session (I have a cabin trip coming up ) with just 30 days of data.
 If it looks good with 10,000 points (30 days of day). then the project continues for the rest of the year and we will do 120,000 point year long version next May 2026.
 
+<img src='\public\uploads\2025\white-rock-daily.png' alt='white-rock-daily' title='white-rock-daily' style='border: 1px solid black; margin: 5px; padding: 5px;'>
+
+<img src='\public\uploads\2025\white-rock-VogelSpiral.png' alt='white-rock-VogelSpiral' title='white-rock-VogelSpiral' style='border: 1px solid black; margin: 5px; padding: 5px;'>
+
+<img src='\public\uploads\2025\white-rock-sequential.png' alt='white-rock-sequential' title='white-rock-sequential' style='border: 1px solid black; margin: 5px; padding: 5px;'>
+
 ## The Medallion Hunt
 
-The logistics side and coding side is mostly done. I am working on sectioning locations and corresponding animals for each of the 50 medallions. I hope to have the dry run up and running for this weekend, so I can do a beta test and get feedback. The beta test will be with paper posters instead of metal medallions. If it works well. I will iterate and do a case study.
+The logistics side and coding side is mostly done. I am working on sectioning locations and corresponding animals for each of the 50 medallions. I hope to have the dry run up and running soon, so I can do a beta test and get feedback. The beta test will be with paper posters instead of metal medallions. If it works well. I will iterate and do a case study.
 
 There are a lot of floating ideas and great aspirations associated with this project. I want to do the MVP to see if its fun before adding all the extra effort into the reach goals.
 
