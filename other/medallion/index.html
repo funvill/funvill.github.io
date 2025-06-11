@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medallion Hunt</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        // Tailwind configuration for consistent typography and styling
+        tailwind.config = {
+            theme: {
+                extend: {},
+            },
+            plugins: [
+                function({ addBase, theme }) {
+                    addBase({
+                        'h1': { fontSize: theme('fontSize.2xl'), fontWeight: theme('fontWeight.bold'), marginBottom: theme('spacing.3') },
+                        'h2': { fontSize: theme('fontSize.xl'), fontWeight: theme('fontWeight.bold'), marginBottom: theme('spacing.2') },
+                        'h3': { fontSize: theme('fontSize.lg'), fontWeight: theme('fontWeight.bold'), marginBottom: theme('spacing.1') },
+                        'p': { marginBottom: theme('spacing.2') },
+                        'ul': { listStyleType: 'disc', paddingLeft: theme('spacing.6'), marginBottom: theme('spacing.4') },
+                        'ol': { listStyleType: 'decimal', paddingLeft: theme('spacing.6'), marginBottom: theme('spacing.4') },
+                        'li': { marginBottom: theme('spacing.2') },
+                        'blockquote': { 
+                            borderLeftWidth: '4px',
+                            borderLeftColor: theme('colors.gray.300'),
+                            paddingLeft: theme('spacing.4'),
+                            fontStyle: 'italic',
+                            marginBottom: theme('spacing.4')
+                        },
+                        'code': {
+                            backgroundColor: theme('colors.gray.100'),
+                            padding: theme('spacing.1'),
+                            borderRadius: theme('borderRadius.sm'),
+                            fontFamily: theme('fontFamily.mono')
+                        },
+                        'pre': {
+                            backgroundColor: theme('colors.gray.100'),
+                            padding: theme('spacing.4'),
+                            borderRadius: theme('borderRadius.lg'),
+                            overflowX: 'auto',
+                            marginBottom: theme('spacing.4')
+                        },
+                        'a': {
+                            color: theme('colors.blue.600'),
+                            textDecoration: 'underline',
+                            '&:hover': {
+                                color: theme('colors.blue.800')
+                            }
+                        },
+                        'img': {
+                            maxWidth: '100%',
+                            height: 'auto',
+                            marginBottom: theme('spacing.4')
+                        },
+                        'table': {
+                            width: '100%',
+                            borderCollapse: 'collapse',
+                            marginBottom: theme('spacing.4')
+                        },
+                        'th, td': {
+                            borderWidth: '1px',
+                            borderColor: theme('colors.gray.300'),
+                            padding: theme('spacing.2'),
+                            textAlign: 'left'
+                        },
+                        'th': {
+                            backgroundColor: theme('colors.gray.100'),
+                            fontWeight: theme('fontWeight.bold')
+                        }
+                    })
+                }
+            ]
+        }
+    </script>
+
+    <!-- External Dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex flex-col">
+    <!-- Header Section -->
+    <header class="bg-white shadow-md py-4 mb-4">
+        <div class="container mx-auto px-4 text-center">
+            <h1 class="text-4xl font-bold text-gray-800 mb-1">Medallion Hunt</h1>
+            <p class="text-xl text-gray-600">ToDo Slogan</p>
+        </div>
+    </header>
+
+    <main class="flex-grow container mx-auto px-4">
+        <!-- Medallion Information -->
+        <div class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="medallion-info">
+            <div class="section-header flex justify-between items-center p-2 cursor-pointer">
+                <h2 class="text-2xl font-bold pl-2">Medallion Information</h2>
+                <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="section-content p-4">
+                <div id="result" class="space-y-1">
+                    <p class="text-xl text-blue-600 font-mono">Welcome to the Medallion Hunt!</p>
+                </div>
+                <div id="medallionDetails" class="mt-2 space-y-2">
+                    <!-- Detailed medallion information will be populated here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Animal Information -->
+        <div class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="animal-info">
+            <div class="section-header flex justify-between items-center p-2 cursor-pointer">
+                <h2 class="text-2xl font-bold pl-2">Animal Information</h2>
+                <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="section-content p-4">
+                <div id="animalInfo" class="space-y-2">
+                    <div class="flex flex-col">
+                        <div class="p-4 rounded-lg">
+                            <h3 class="text-xl font-semibold mb-2">About the Animals</h3>
+                            <p class="text-gray-700 mb-2">
+                                Each medallion represents a unique animal species that can be found in the local ecosystem. 
+                                These animals play important roles in maintaining the balance of nature and contribute to 
+                                the biodiversity of our region.
+                            </p>
+                            <p class="text-gray-700">
+                                As you discover each medallion, you'll learn more about these fascinating creatures and 
+                                their habitats. This knowledge helps us better understand and appreciate the wildlife 
+                                around us.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Story -->
+        <div class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="story">
+            <div class="section-header flex justify-between items-center p-2 cursor-pointer">
+                <h2 class="text-2xl font-bold pl-2">Story</h2>
+                <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="section-content p-4">
+                <div id="storyChapters" class="space-y-2">
+                    <!-- Story chapters will be populated here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Medallion Stats -->
+        <div class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="medallion-stats">
+            <div class="section-header flex justify-between items-center p-2 cursor-pointer">
+                <h2 class="text-2xl font-bold pl-2">Medallion Stats</h2>
+                <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="section-content p-4">
+                <div id="stats" class="space-y-1">
+                    <!-- Stats will be populated here -->
+                </div>
+                <div class="mt-4 flex justify-end">
+                    <button id="resetStorage" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">
+                        Reset Progress
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Discovered Medallions Table -->
+        <div class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="discovered-medallions">
+            <div class="section-header flex justify-between items-center p-2 cursor-pointer">
+                <h2 class="text-2xl font-bold pl-2">Discovered Medallions</h2>
+                <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="section-content p-4">
+                <div class="overflow-x-auto">
+                    <table class="min-w-full bg-white border border-gray-300">
+                        <thead>
+                            <tr class="bg-gray-100">
+                                <th class="px-4 py-2 border">Status</th>
+                                <th class="px-4 py-2 border">Animal</th>
+                                <th class="px-4 py-2 border">Location</th>
+                            </tr>
+                        </thead>
+                        <tbody id="medallionTableBody">
+                            <!-- Table rows will be populated here -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- Project Information -->
+        <div class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="project-info">
+            <div class="section-header flex justify-between items-center p-2 cursor-pointer">
+                <h2 class="text-2xl font-bold pl-2">About This Project</h2>
+                <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="section-content p-4">
+                <div class="prose max-w-none">
+                    <p class="mb-2">
+                        The Medallion Hunt is an interactive treasure hunt game where players discover various animal medallions hidden throughout different locations. Each medallion contains clues to find the next ones, creating an engaging exploration experience.
+                    </p>
+                    <p class="mb-2">
+                        Medallion States:
+                    </p>
+                    <ul class="list-disc pl-6 mb-2">
+                        <li><span class="text-green-600 font-semibold">Discovered</span> - Medallions you have found and recorded in your collection</li>
+                        <li><span class="text-blue-600 font-semibold">Undiscovered</span> - Medallions that are available to find based on clues from your discovered medallions</li>
+                        <li><span class="text-gray-500 font-semibold">Unavailable</span> - Medallions that are not yet accessible until you find the required medallions</li>
+                    </ul>
+                    <p class="mb-2">
+                        How to Play:
+                    </p>
+                    <ul class="list-disc pl-6 mb-2">
+                        <li>Visit the locations shown in your discovered medallions</li>
+                        <li>Find and scan the medallions to add them to your collection</li>
+                        <li>Use the clues from each medallion to find the next ones</li>
+                        <li>Try to discover all the medallions in the hunt!</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Diagnostic Dialog -->
+        <div class="collapsible-section bg-yellow-50 border-2 border-yellow-200 rounded-lg shadow-md mb-8" data-section="diagnostic">
+            <div class="section-header flex justify-between items-center p-4 cursor-pointer">
+                <h2 class="text-xl font-bold text-yellow-800">Diagnostic Information (Development Only)</h2>
+                <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="section-content p-8">
+                <div class="bg-white p-4 rounded">
+                    <h3 class="font-semibold mb-2">Local Storage Contents:</h3>
+                    <pre id="storageDisplay" class="text-sm font-mono whitespace-pre-wrap break-all"></pre>
+                    <div id="undiscoveredLinks" class="mt-4">
+                        <h3 class="font-semibold mb-2">Undiscovered Medallions:</h3>
+                        <div class="grid grid-cols-2 gap-2" id="undiscoveredList">
+                            <!-- Undiscovered links will be populated here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white shadow-md py-4 mt-4">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-gray-600">© 2024 Medallion Hunt. All rights reserved.</p>
+            <p class="text-gray-500 text-sm mt-1">Version: 2025-June-11 @12:30am</p>
+        </div>
+    </footer>
+
+    <script>
+        /**
+         * Medallion Hunt Application
+         * A web application for tracking and managing medallion discoveries
+         */
+
+        // Constants
+        const STORAGE_KEYS = {
+            VISITED_MEDALLIONS: 'visitedMedallions',
+            SECTION_STATES: 'sectionStates'
+        };
+
+        // Developer Settings
+        const SETTINGS_DEVELOPER = true; // Set to true to enable developer features
+
+        // Configure marked options for markdown parsing
+        marked.setOptions({
+            breaks: true,
+            gfm: true,
+            headerIds: true,
+            mangle: false,
+            sanitize: false
+        });
+
+        /**
+         * UI Management
+         */
+        class UIManager {
+            /**
+             * Initialize collapsible sections
+             */
+            static initializeCollapsibleSections() {
+                // Hide diagnostic section if developer mode is disabled
+                const diagnosticSection = document.querySelector('[data-section="diagnostic"]');
+                if (diagnosticSection) {
+                    diagnosticSection.style.display = SETTINGS_DEVELOPER ? 'block' : 'none';
+                }
+
+                const sections = document.querySelectorAll('.collapsible-section');
+                const savedStates = JSON.parse(localStorage.getItem(STORAGE_KEYS.SECTION_STATES) || '{}');
+                
+                sections.forEach(section => {
+                    const sectionId = section.dataset.section;
+                    const header = section.querySelector('.section-header');
+                    const content = section.querySelector('.section-content');
+                    const toggleButton = section.querySelector('.toggle-section');
+                    const chevron = toggleButton.querySelector('svg');
+                    
+                    const isCollapsed = savedStates[sectionId] || false;
+                    if (isCollapsed) {
+                        content.style.display = 'none';
+                        chevron.classList.add('rotate-180');
+                    }
+                    
+                    header.addEventListener('click', () => {
+                        const isCurrentlyCollapsed = content.style.display === 'none';
+                        content.style.display = isCurrentlyCollapsed ? 'block' : 'none';
+                        chevron.classList.toggle('rotate-180');
+                        
+                        savedStates[sectionId] = !isCurrentlyCollapsed;
+                        localStorage.setItem(STORAGE_KEYS.SECTION_STATES, JSON.stringify(savedStates));
+                    });
+                });
+            }
+
+            /**
+             * Update the stats display
+             * @param {Object} stats - The stats object containing counts
+             */
+            static updateStatsDisplay(stats) {
+                const statsDiv = document.getElementById('stats');
+                statsDiv.innerHTML = `
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                        <div class="bg-gray-50 p-4 rounded-lg text-center">
+                            <p class="text-sm text-gray-600">Total Medallions</p>
+                            <p class="text-2xl font-bold">${stats.total}</p>
+                        </div>
+                        <div class="bg-green-50 p-4 rounded-lg text-center">
+                            <p class="text-sm text-green-600">Discovered</p>
+                            <p class="text-2xl font-bold text-green-600">${stats.discovered}</p>
+                        </div>
+                        <div class="bg-blue-50 p-4 rounded-lg text-center">
+                            <p class="text-sm text-blue-600">Undiscovered</p>
+                            <p class="text-2xl font-bold text-blue-600">${stats.undiscovered}</p>
+                        </div>
+                        <div class="bg-gray-50 p-4 rounded-lg text-center">
+                            <p class="text-sm text-gray-600">Unavailable</p>
+                            <p class="text-2xl font-bold">${stats.unavailable}</p>
+                        </div>
+                    </div>
+                `;
+            }
+
+            /**
+             * Update the medallion table
+             * @param {Array} tableData - Array of medallion data for the table
+             */
+            static updateMedallionTable(tableData) {
+                const tableBody = document.getElementById('medallionTableBody');
+                tableBody.innerHTML = '';
+                
+                tableData.forEach(item => {
+                    const row = document.createElement('tr');
+                    const locationCell = item.location === '????' ? 
+                        '<td class="px-4 py-2 border">????</td>' :
+                        `<td class="px-4 py-2 border">
+                            <a href="https://www.google.com/maps/search/?api=1&query=${item.location}" 
+                               target="_blank" 
+                               class="text-blue-600 hover:text-blue-800 hover:underline">
+                                ${item.location}
+                            </a>
+                        </td>`;
+
+                    const animalCell = item.animal === '????' ?
+                        '<td class="px-4 py-2 border">????</td>' :
+                        `<td class="px-4 py-2 border">
+                            <a href="?id=${item.slug}" 
+                               class="text-blue-600 hover:text-blue-800 hover:underline">
+                                ${item.animal}
+                            </a>
+                        </td>`;
+
+                    row.innerHTML = `
+                        <td class="px-4 py-2 border ${item.statusClass}">${item.status}</td>
+                        ${animalCell}
+                        ${locationCell}
+                    `;
+                    tableBody.appendChild(row);
+                });
+            }
+
+            /**
+             * Update the diagnostic display
+             */
+            static updateDiagnosticDisplay() {
+                if (!SETTINGS_DEVELOPER) return;
+
+                const storageDisplay = document.getElementById('storageDisplay');
+                const undiscoveredList = document.getElementById('undiscoveredList');
+                
+                if (storageDisplay) {
+                    const visitedMedallions = DataManager.getVisitedMedallions();
+                    storageDisplay.textContent = JSON.stringify(visitedMedallions, null, 2);
+                }
+
+                if (undiscoveredList) {
+                    DataManager.loadMedallionMap().then(medallionMap => {
+                        const visitedMedallions = DataManager.getVisitedMedallions();
+                        const undiscoveredMedallions = medallionMap.filter(medallion => 
+                            !visitedMedallions.includes(medallion.slug)
+                        );
+
+                        undiscoveredList.innerHTML = undiscoveredMedallions.map(medallion => `
+                            <a href="?id=${medallion.slug}" 
+                               class="text-blue-600 hover:text-blue-800 hover:underline">
+                                ${medallion.animal}
+                            </a>
+                        `).join('');
+                    }).catch(error => {
+                        console.error('Error updating undiscovered list:', error);
+                        undiscoveredList.innerHTML = '<p class="text-red-600">Error loading undiscovered medallions</p>';
+                    });
+                }
+            }
+        }
+
+        /**
+         * Data Management
+         */
+        class DataManager {
+            /**
+             * Load the medallion map data
+             * @returns {Promise<Array>} The medallion map data
+             */
+            static async loadMedallionMap() {
+                try {
+                    const response = await fetch('medallion-map.json');
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return await response.json();
+                } catch (error) {
+                    console.error('Error loading medallion map:', error);
+                    throw error;
+                }
+            }
+
+            /**
+             * Get medallion by slug ID
+             * @param {Array} medallionMap - The medallion map data
+             * @param {string} slugId - The slug ID to find
+             * @returns {Object|null} The found medallion or null
+             */
+            static getMedallionBySlugId(medallionMap, slugId) {
+                if (!medallionMap || !Array.isArray(medallionMap)) {
+                    console.error('Invalid medallion map data:', medallionMap);
+                    return null;
+                }
+                return medallionMap.find(item => item.slug === slugId);
+            }
+
+            /**
+             * Get visited medallions from storage
+             * @returns {Array} Array of visited medallion slugs
+             */
+            static getVisitedMedallions() {
+                try {
+                    return JSON.parse(localStorage.getItem(STORAGE_KEYS.VISITED_MEDALLIONS) || '[]');
+                } catch (error) {
+                    console.error('Error parsing visited medallions from storage:', error);
+                    return [];
+                }
+            }
+
+            /**
+             * Add a medallion to visited storage
+             * @param {string} slugId - The slug ID to add
+             * @returns {boolean} Whether the medallion was newly added
+             */
+            static addVisitedMedallion(slugId) {
+                const visitedMedallions = this.getVisitedMedallions();
+                const isNew = !visitedMedallions.includes(slugId);
+                
+                if (isNew) {
+                    visitedMedallions.push(slugId);
+                    localStorage.setItem(STORAGE_KEYS.VISITED_MEDALLIONS, JSON.stringify(visitedMedallions));
+                }
+                
+                return isNew;
+            }
+
+            /**
+             * Reset all stored data
+             */
+            static resetStorage() {
+                localStorage.removeItem(STORAGE_KEYS.VISITED_MEDALLIONS);
+                localStorage.removeItem(STORAGE_KEYS.SECTION_STATES);
+                // Clear URL parameters and reload
+                window.history.replaceState({}, document.title, window.location.pathname);
+                window.location.reload();
+            }
+        }
+
+        /**
+         * Content Management
+         */
+        class ContentManager {
+            /**
+             * Load and display animal markdown content
+             * @param {string} animalName - The name of the animal
+             */
+            static async loadAnimalMarkdown(animalName) {
+                const animalInfoDiv = document.getElementById('animalInfo');
+                try {
+                    const response = await fetch(`/animals/${animalName}.md`);
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    const markdown = await response.text();
+                    const html = marked.parse(markdown);
+                    
+                    animalInfoDiv.innerHTML = `
+                        <div class="bg-gray-50 p-6 rounded-lg">
+                            <div class="markdown-content">
+                                ${html}
+                            </div>
+                        </div>
+                    `;
+                } catch (error) {
+                    console.error('Error loading animal markdown:', error);
+                    animalInfoDiv.innerHTML = `
+                        <div class="bg-red-50 p-6 rounded-lg">
+                            <h3 class="text-xl font-semibold text-red-700 mb-3">Error Loading Animal Information</h3>
+                            <p class="text-red-600">
+                                Unable to load information for ${animalName}. The markdown file may not exist or there was an error loading it.
+                            </p>
+                        </div>
+                    `;
+                }
+            }
+
+            /**
+             * Load and display story chapters
+             */
+            static async loadStoryChapters() {
+                const storyChaptersDiv = document.getElementById('storyChapters');
+                const visitedMedallions = DataManager.getVisitedMedallions();
+                
+                try {
+                    const medallionMap = await DataManager.loadMedallionMap();
+                    let chaptersHTML = '';
+                    let chapterNumber = 1;
+
+                    // Load Chapter 1 (Main Story Part 1)
+                    try {
+                        const milestoneResponse = await fetch('/story/1-chapter.md', {
+                            cache: 'no-store',
+                            headers: {
+                                'Cache-Control': 'no-cache',
+                                'Pragma': 'no-cache'
+                            }
+                        });
+                        
+                        if (!milestoneResponse.ok) {
+                            throw new Error('Main story chapter 1 is missing');
+                        }
+                        
+                        const milestoneMarkdown = await milestoneResponse.text();
+                        chaptersHTML += this.createChapterHTML(chapterNumber, 'Main Story Part 1', milestoneMarkdown);
+                        chapterNumber++;
+                    } catch (error) {
+                        console.error('Error loading first milestone chapter:', error);
+                        chaptersHTML += this.createChapterHTML(chapterNumber, 'Main Story Part 1', 'Welcome to the Medallion Hunt! Discover medallions to unlock more of the story.');
+                        chapterNumber++;
+                    }
+
+                    // Load animal chapters and milestone chapters
+                    if (visitedMedallions.length > 0) {
+                        for (let i = 0; i < visitedMedallions.length; i++) {
+                            const slugId = visitedMedallions[i];
+                            const medallion = DataManager.getMedallionBySlugId(medallionMap, slugId);
+                            
+                            if (medallion) {
+                                // Load animal chapter
+                                try {
+                                    const response = await fetch(`/story/${medallion.animal}.md`, {
+                                        cache: 'no-store',
+                                        headers: {
+                                            'Cache-Control': 'no-cache',
+                                            'Pragma': 'no-cache'
+                                        }
+                                    });
+                                    
+                                    if (response.ok) {
+                                        const markdown = await response.text();
+                                        chaptersHTML += this.createChapterHTML(chapterNumber, medallion.animal, markdown);
+                                        chapterNumber++;
+
+                                        // Check if we need to load a milestone chapter (every 5 animals)
+                                        if ((i + 1) % 5 === 0) {
+                                            const milestoneNumber = Math.floor((i + 1) / 5) + 1;
+                                            try {
+                                                const milestoneResponse = await fetch(`/story/${milestoneNumber}-chapter.md`, {
+                                                    cache: 'no-store',
+                                                    headers: {
+                                                        'Cache-Control': 'no-cache',
+                                                        'Pragma': 'no-cache'
+                                                    }
+                                                });
+                                                
+                                                if (milestoneResponse.ok) {
+                                                    const milestoneMarkdown = await milestoneResponse.text();
+                                                    chaptersHTML += this.createChapterHTML(chapterNumber, `Main Story Part ${milestoneNumber}`, milestoneMarkdown);
+                                                    chapterNumber++;
+                                                }
+                                            } catch (error) {
+                                                console.error(`Error loading milestone chapter ${milestoneNumber}:`, error);
+                                            }
+                                        }
+                                    }
+                                } catch (error) {
+                                    console.error(`Error loading story for ${medallion.animal}:`, error);
+                                }
+                            }
+                        }
+                    }
+
+                    storyChaptersDiv.innerHTML = chaptersHTML;
+                    this.initializeChapterToggles();
+                } catch (error) {
+                    console.error('Error loading story chapters:', error);
+                    storyChaptersDiv.innerHTML = `
+                        <div class="bg-red-50 p-6 rounded-lg">
+                            <h3 class="text-xl font-semibold text-red-700 mb-3">Error Loading Story</h3>
+                            <p class="text-red-600">Unable to load story chapters. Please try refreshing the page.</p>
+                        </div>
+                    `;
+                }
+            }
+
+            /**
+             * Create HTML for a story chapter
+             * @param {number} chapterNumber - The chapter number
+             * @param {string} title - The chapter title
+             * @param {string} content - The chapter content
+             * @returns {string} The chapter HTML
+             */
+            static createChapterHTML(chapterNumber, title, content) {
+                const isMilestone = title.startsWith('Main Story Part');
+                return `
+                    <div class="story-chapter rounded-lg mb-2">
+                        <div class="chapter-header flex justify-between items-center p-2 cursor-pointer hover:bg-gray-100 ${isMilestone ? 'bg-blue-100' : ''}">
+                            <h3 class="text-xl font-bold">Chapter ${chapterNumber}: ${title}</h3>
+                            <button class="toggle-chapter p-2 hover:bg-gray-200 rounded-full">
+                                <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                </svg>
+                            </button>
+                        </div>
+                        <div class="chapter-content p-4 hidden">
+                            <div class="markdown-content">
+                                ${marked.parse(content)}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+
+            /**
+             * Initialize chapter toggle functionality
+             */
+            static initializeChapterToggles() {
+                document.querySelectorAll('.story-chapter').forEach(chapter => {
+                    const header = chapter.querySelector('.chapter-header');
+                    const content = chapter.querySelector('.chapter-content');
+                    const toggleButton = chapter.querySelector('.toggle-chapter');
+                    const chevron = toggleButton.querySelector('svg');
+                    
+                    header.addEventListener('click', () => {
+                        const isHidden = content.classList.contains('hidden');
+                        content.classList.toggle('hidden');
+                        chevron.classList.toggle('rotate-180');
+                    });
+                });
+            }
+        }
+
+        /**
+         * Application State Management
+         */
+        class AppState {
+            /**
+             * Update the medallion display
+             * @param {boolean} isNew - Whether this is a new discovery
+             */
+            static async updateMedallionDisplay(isNew = false) {
+                try {
+                    const medallionMap = await DataManager.loadMedallionMap();
+                    const visitedMedallions = DataManager.getVisitedMedallions();
+                    const urlParams = new URLSearchParams(window.location.search);
+                    const currentSlugId = urlParams.get('id');
+                    
+                    // Update current medallion details if available
+                    if (currentSlugId) {
+                        const currentMedallion = DataManager.getMedallionBySlugId(medallionMap, currentSlugId);
+                        if (currentMedallion) {
+                            const medallionDetails = document.getElementById('medallionDetails');
+                            const resultDiv = document.getElementById('result');
+                            
+                            // Update the result message
+                            if (isNew) {
+                                resultDiv.innerHTML = `
+                                    <p class="text-xl text-blue-600 font-mono">🎉 New Discovery!</p>
+                                    <p class="text-lg text-gray-600">You've discovered the ${currentMedallion.animal} medallion!</p>
+                                `;
+                            } else {
+                                resultDiv.innerHTML = `
+                                    <p class="text-xl text-gray-600 font-mono">Previously Discovered</p>
+                                    <p class="text-lg text-gray-600">You've already found the ${currentMedallion.animal} medallion.</p>
+                                `;
+                            }
+
+                            medallionDetails.innerHTML = `
+                                <div class="p-4 rounded-lg">
+                                    <h3 class="text-lg font-semibold mb-2">${currentMedallion.animal}</h3>
+                                    <div class="space-y-2">
+                                        <p><span class="font-semibold">Slug ID:</span> ${currentMedallion.slug}</p>
+                                        <p><span class="font-semibold">Location:</span> ${currentMedallion.location}</p>
+                                        <p><span class="font-semibold">Next Locations:</span></p>
+                                        <ul class="list-disc pl-6">
+                                            <li>Next A: ${currentMedallion.NextA || 'None'}</li>
+                                            <li>Next B: ${currentMedallion.NextB || 'None'}</li>
+                                            <li>Next C: ${currentMedallion.NextC || 'None'}</li>
+                                        </ul>
+                                        <p><span class="font-semibold">Status:</span> 
+                                            ${visitedMedallions.includes(currentMedallion.slug) ? 
+                                                '<span class="text-green-600">Discovered</span>' : 
+                                                '<span class="text-blue-600">Undiscovered</span>'}
+                                        </p>
+                                    </div>
+                                </div>
+                            `;
+                        }
+                    }
+
+                    // Build available locations set
+                    const availableLocations = new Set();
+                    visitedMedallions.forEach(slugId => {
+                        const medallion = DataManager.getMedallionBySlugId(medallionMap, slugId);
+                        if (medallion) {
+                            if (medallion.NextA) availableLocations.add(medallion.NextA);
+                            if (medallion.NextB) availableLocations.add(medallion.NextB);
+                            if (medallion.NextC) availableLocations.add(medallion.NextC);
+                        }
+                    });
+
+                    // Prepare table data
+                    const tableData = medallionMap.map(medallion => {
+                        let status, statusText, statusClass, animal, location;
+
+                        if (visitedMedallions.includes(medallion.slug)) {
+                            status = '✅ Discovered';
+                            statusText = 'Discovered';
+                            statusClass = 'text-green-600';
+                            animal = medallion.animal;
+                            location = medallion.location;
+                        } else if (availableLocations.has(medallion.location)) {
+                            status = '🔍 Undiscovered';
+                            statusText = 'Undiscovered';
+                            statusClass = 'text-blue-600';
+                            animal = '????';
+                            location = medallion.location;
+                        } else {
+                            status = '⏳ Unavailable';
+                            statusText = 'Unavailable';
+                            statusClass = 'text-gray-500';
+                            animal = '????';
+                            location = '????';
+                        }
+
+                        return {
+                            status,
+                            statusText,
+                            statusClass,
+                            animal,
+                            location,
+                            slug: medallion.slug
+                        };
+                    });
+
+                    // Calculate stats
+                    const stats = {
+                        total: medallionMap.length,
+                        discovered: visitedMedallions.length,
+                        undiscovered: tableData.filter(item => item.statusText === 'Undiscovered').length,
+                        unavailable: tableData.filter(item => item.statusText === 'Unavailable').length
+                    };
+
+                    // Update UI
+                    UIManager.updateStatsDisplay(stats);
+                    UIManager.updateMedallionTable(tableData.sort((a, b) => {
+                        const statusOrder = {
+                            'Discovered': 0,
+                            'Undiscovered': 1,
+                            'Unavailable': 2
+                        };
+                        return statusOrder[a.statusText] - statusOrder[b.statusText];
+                    }));
+
+                } catch (error) {
+                    console.error('Error in updateMedallionDisplay:', error);
+                    const tableBody = document.getElementById('medallionTableBody');
+                    tableBody.innerHTML = `
+                        <tr>
+                            <td colspan="3" class="px-4 py-2 border text-red-600 text-center">
+                                Error loading medallion data. Please try refreshing the page.
+                            </td>
+                        </tr>
+                    `;
+                }
+            }
+        }
+
+        // Initialize the application
+        document.addEventListener('DOMContentLoaded', async () => {
+            // Initialize UI components
+            UIManager.initializeCollapsibleSections();
+            
+            // Set up event listeners
+            document.getElementById('resetStorage').addEventListener('click', () => {
+                if (confirm('Are you sure you want to reset all progress? This cannot be undone.')) {
+                    DataManager.resetStorage();
+                }
+            });
+
+            // Load initial content
+            await AppState.updateMedallionDisplay();
+            await ContentManager.loadStoryChapters();
+            UIManager.updateDiagnosticDisplay(); // Update diagnostic display if enabled
+
+            // Load animal content if a specific medallion is selected
+            const urlParams = new URLSearchParams(window.location.search);
+            const currentSlugId = urlParams.get('id');
+            if (currentSlugId) {
+                const medallionMap = await DataManager.loadMedallionMap();
+                const currentMedallion = DataManager.getMedallionBySlugId(medallionMap, currentSlugId);
+                if (currentMedallion) {
+                    // Add the medallion to visited storage when clicked
+                    const isNew = DataManager.addVisitedMedallion(currentSlugId);
+                    // Update the display to reflect the new discovery
+                    await AppState.updateMedallionDisplay(isNew);
+                    await ContentManager.loadAnimalMarkdown(currentMedallion.animal);
+                    // Reload story chapters if this was a new discovery
+                    if (isNew) {
+                        await ContentManager.loadStoryChapters();
+                    }
+                    // Update diagnostic display if enabled
+                    UIManager.updateDiagnosticDisplay();
+                }
+            }
+        });
+    </script>
+</body>
+</html>
