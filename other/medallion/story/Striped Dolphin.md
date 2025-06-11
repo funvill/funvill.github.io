@@ -1,1 +1,0 @@
-ToDo: Striped Dolphin

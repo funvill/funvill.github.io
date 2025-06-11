@@ -1,1 +1,0 @@
-ToDo: Bighorn Sheep

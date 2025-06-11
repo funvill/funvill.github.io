@@ -1,1 +1,0 @@
-ToDo: Big Brown Bat
