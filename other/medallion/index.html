@@ -87,22 +87,42 @@
     </header>
 
     <main class="flex-grow container mx-auto px-4">
-        <!-- Medallion Information -->
-        <div class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="medallion-info">
-            <div class="section-header flex justify-between items-center p-2 cursor-pointer">
-                <h2 class="text-2xl font-bold pl-2">Medallion Information</h2>
-                <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                    </svg>
-                </button>
-            </div>
-            <div class="section-content p-4">
-                <div id="result" class="space-y-1">
-                    <p class="text-xl text-blue-600 font-mono">Welcome to the Medallion Hunt!</p>
+        <!-- Two-column layout for Medallion Info and About Project -->
+        <div class="flex flex-col md:flex-row gap-4 mb-4">
+            <!-- Medallion Information -->
+            <div class="collapsible-section bg-white rounded-lg shadow-md flex-1" data-section="medallion-info">
+                <div class="section-header flex justify-between items-center p-2 cursor-pointer">
+                    <h2 class="text-2xl font-bold pl-2">Medallion Information</h2>
+                    <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
+                        <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </button>
                 </div>
-                <div id="medallionDetails" class="mt-2 space-y-2">
-                    <!-- Detailed medallion information will be populated here -->
+                <div class="section-content p-4">
+                    <div id="result" class="space-y-1">
+                        <p class="text-xl text-blue-600 font-mono">Welcome to the Medallion Hunt!</p>
+                    </div>
+                    <div id="medallionDetails" class="mt-2 space-y-2">
+                        <!-- Detailed medallion information will be populated here -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project Information -->
+            <div class="collapsible-section bg-white rounded-lg shadow-md flex-1" data-section="project-info">
+                <div class="section-header flex justify-between items-center p-2 cursor-pointer">
+                    <h2 class="text-2xl font-bold pl-2">About This Project</h2>
+                    <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
+                        <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </button>
+                </div>
+                <div class="section-content p-4">
+                    <div id="projectInfo" class="prose max-w-none">
+                        <!-- Project information will be loaded here -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -119,21 +139,7 @@
             </div>
             <div class="section-content p-4">
                 <div id="animalInfo" class="space-y-2">
-                    <div class="flex flex-col">
-                        <div class="p-4 rounded-lg">
-                            <h3 class="text-xl font-semibold mb-2">About the Animals</h3>
-                            <p class="text-gray-700 mb-2">
-                                Each medallion represents a unique animal species that can be found in the local ecosystem. 
-                                These animals play important roles in maintaining the balance of nature and contribute to 
-                                the biodiversity of our region.
-                            </p>
-                            <p class="text-gray-700">
-                                As you discover each medallion, you'll learn more about these fascinating creatures and 
-                                their habitats. This knowledge helps us better understand and appreciate the wildlife 
-                                around us.
-                            </p>
-                        </div>
-                    </div>
+                    <!-- Animal information will be loaded here -->
                 </div>
             </div>
         </div>
@@ -205,42 +211,6 @@
             </div>
         </div>
 
-        <!-- Project Information -->
-        <div class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="project-info">
-            <div class="section-header flex justify-between items-center p-2 cursor-pointer">
-                <h2 class="text-2xl font-bold pl-2">About This Project</h2>
-                <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                    </svg>
-                </button>
-            </div>
-            <div class="section-content p-4">
-                <div class="prose max-w-none">
-                    <p class="mb-2">
-                        The Medallion Hunt is an interactive treasure hunt game where players discover various animal medallions hidden throughout different locations. Each medallion contains clues to find the next ones, creating an engaging exploration experience.
-                    </p>
-                    <p class="mb-2">
-                        Medallion States:
-                    </p>
-                    <ul class="list-disc pl-6 mb-2">
-                        <li><span class="text-green-600 font-semibold">Discovered</span> - Medallions you have found and recorded in your collection</li>
-                        <li><span class="text-blue-600 font-semibold">Undiscovered</span> - Medallions that are available to find based on clues from your discovered medallions</li>
-                        <li><span class="text-gray-500 font-semibold">Unavailable</span> - Medallions that are not yet accessible until you find the required medallions</li>
-                    </ul>
-                    <p class="mb-2">
-                        How to Play:
-                    </p>
-                    <ul class="list-disc pl-6 mb-2">
-                        <li>Visit the locations shown in your discovered medallions</li>
-                        <li>Find and scan the medallions to add them to your collection</li>
-                        <li>Use the clues from each medallion to find the next ones</li>
-                        <li>Try to discover all the medallions in the hunt!</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
         <!-- Diagnostic Dialog -->
         <div class="collapsible-section bg-yellow-50 border-2 border-yellow-200 rounded-lg shadow-md mb-8" data-section="diagnostic">
             <div class="section-header flex justify-between items-center p-4 cursor-pointer">
@@ -297,7 +267,9 @@
             ANIMAL_MARKDOWN: './animals/${animalName}.md',
             STORY_FIRST_CHAPTER: './story/1-chapter.md',
             STORY_ANIMAL_CHAPTER: './story/${medallion.animal}.md',
-            STORY_MILESTONE_CHAPTER: './story/${milestoneNumber}-chapter.md'
+            STORY_MILESTONE_CHAPTER: './story/${milestoneNumber}-chapter.md',
+            ABOUT_PROJECT: './about.md',
+            ABOUT_ANIMALS: './about-animals.md'
         };
 
         // Configure marked options for markdown parsing
@@ -743,6 +715,66 @@
                     });
                 });
             }
+
+            /**
+             * Load and display about project content
+             */
+            static async loadAboutProject() {
+                const projectInfoDiv = document.getElementById('projectInfo');
+                try {
+                    const response = await fetch(SETTINGS_PATHS.ABOUT_PROJECT);
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    const markdown = await response.text();
+                    const html = marked.parse(markdown);
+                    
+                    projectInfoDiv.innerHTML = html;
+                } catch (error) {
+                    console.error('Error loading about project:', error);
+                    projectInfoDiv.innerHTML = `
+                        <div class="bg-red-50 p-6 rounded-lg">
+                            <h3 class="text-xl font-semibold text-red-700 mb-3">Error Loading Project Information</h3>
+                            <p class="text-red-600">
+                                Unable to load project information. The markdown file may not exist or there was an error loading it.
+                            </p>
+                        </div>
+                    `;
+                }
+            }
+
+            /**
+             * Load and display default animal information
+             */
+            static async loadDefaultAnimalInfo() {
+                const animalInfoDiv = document.getElementById('animalInfo');
+                try {
+                    const response = await fetch(SETTINGS_PATHS.ABOUT_ANIMALS);
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    const markdown = await response.text();
+                    const html = marked.parse(markdown);
+                    
+                    animalInfoDiv.innerHTML = `
+                        <div class="flex flex-col">
+                            <div class="p-4 rounded-lg">
+                                ${html}
+                            </div>
+                        </div>
+                    `;
+                } catch (error) {
+                    console.error('Error loading default animal info:', error);
+                    animalInfoDiv.innerHTML = `
+                        <div class="bg-red-50 p-6 rounded-lg">
+                            <h3 class="text-xl font-semibold text-red-700 mb-3">Error Loading Animal Information</h3>
+                            <p class="text-red-600">
+                                Unable to load default animal information. The markdown file may not exist or there was an error loading it.
+                            </p>
+                        </div>
+                    `;
+                }
+            }
         }
 
         /**
@@ -896,6 +928,8 @@
             // Load initial content
             await AppState.updateMedallionDisplay();
             await ContentManager.loadStoryChapters();
+            await ContentManager.loadAboutProject();
+            await ContentManager.loadDefaultAnimalInfo();
             UIManager.updateDiagnosticDisplay(); // Update diagnostic display if enabled
 
             // Load animal content if a specific medallion is selected
