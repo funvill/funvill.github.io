@@ -289,6 +289,17 @@
         // Developer Settings
         const SETTINGS_DEVELOPER = true; // Set to true to enable developer features
 
+        // Paths
+        const SETTINGS_PATHS = {
+            MEDALLION_MAP: './medallion-map.json',
+            STORY_CHAPTER: './story/${chapterId}.md',
+            ANIMAL_INFO: './animals/${animalId}.md',
+            ANIMAL_MARKDOWN: './animals/${animalName}.md',
+            STORY_FIRST_CHAPTER: './story/1-chapter.md',
+            STORY_ANIMAL_CHAPTER: './story/${medallion.animal}.md',
+            STORY_MILESTONE_CHAPTER: './story/${milestoneNumber}-chapter.md'
+        };
+
         // Configure marked options for markdown parsing
         marked.setOptions({
             breaks: true,
@@ -450,7 +461,7 @@
              */
             static async loadMedallionMap() {
                 try {
-                    const response = await fetch('medallion-map.json');
+                    const response = await fetch(SETTINGS_PATHS.MEDALLION_MAP);
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
                     }
@@ -515,6 +526,39 @@
                 window.history.replaceState({}, document.title, window.location.pathname);
                 window.location.reload();
             }
+
+            static async fetchMedallionData() {
+                try {
+                    const response = await fetch('./medallion-map.json');
+                    if (!response.ok) throw new Error('Failed to fetch medallion data');
+                    return await response.json();
+                } catch (error) {
+                    console.error('Error fetching medallion data:', error);
+                    return null;
+                }
+            }
+
+            static async fetchStoryChapter(chapterId) {
+                try {
+                    const response = await fetch(SETTINGS_PATHS.STORY_CHAPTER.replace('${chapterId}', chapterId));
+                    if (!response.ok) throw new Error(`Failed to fetch story chapter: ${chapterId}`);
+                    return await response.text();
+                } catch (error) {
+                    console.error(`Error fetching story chapter ${chapterId}:`, error);
+                    return null;
+                }
+            }
+
+            static async fetchAnimalInfo(animalId) {
+                try {
+                    const response = await fetch(SETTINGS_PATHS.ANIMAL_INFO.replace('${animalId}', animalId));
+                    if (!response.ok) throw new Error(`Failed to fetch animal info: ${animalId}`);
+                    return await response.text();
+                } catch (error) {
+                    console.error(`Error fetching animal info ${animalId}:`, error);
+                    return null;
+                }
+            }
         }
 
         /**
@@ -528,7 +572,7 @@
             static async loadAnimalMarkdown(animalName) {
                 const animalInfoDiv = document.getElementById('animalInfo');
                 try {
-                    const response = await fetch(`/animals/${animalName}.md`);
+                    const response = await fetch(SETTINGS_PATHS.ANIMAL_MARKDOWN.replace('${animalName}', animalName));
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
                     }
@@ -569,7 +613,7 @@
 
                     // Load Chapter 1 (Main Story Part 1)
                     try {
-                        const milestoneResponse = await fetch('/story/1-chapter.md', {
+                        const milestoneResponse = await fetch(SETTINGS_PATHS.STORY_FIRST_CHAPTER, {
                             cache: 'no-store',
                             headers: {
                                 'Cache-Control': 'no-cache',
@@ -599,7 +643,7 @@
                             if (medallion) {
                                 // Load animal chapter
                                 try {
-                                    const response = await fetch(`/story/${medallion.animal}.md`, {
+                                    const response = await fetch(SETTINGS_PATHS.STORY_ANIMAL_CHAPTER.replace('${medallion.animal}', medallion.animal), {
                                         cache: 'no-store',
                                         headers: {
                                             'Cache-Control': 'no-cache',
@@ -616,7 +660,7 @@
                                         if ((i + 1) % 5 === 0) {
                                             const milestoneNumber = Math.floor((i + 1) / 5) + 1;
                                             try {
-                                                const milestoneResponse = await fetch(`/story/${milestoneNumber}-chapter.md`, {
+                                                const milestoneResponse = await fetch(SETTINGS_PATHS.STORY_MILESTONE_CHAPTER.replace('${milestoneNumber}', milestoneNumber), {
                                                     cache: 'no-store',
                                                     headers: {
                                                         'Cache-Control': 'no-cache',
