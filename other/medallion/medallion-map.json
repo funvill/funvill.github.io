@@ -5,7 +5,8 @@
     "NextA": "49.283284, -123.000972",
     "NextB": "49.267357, -123.007656",
     "NextC": "49.276846, -122.994962",
-    "slug": "5b4a2c42"
+    "slug": "5b4a2c42",
+    "clue": "this is the clue text for Black Bear"
   },
   {
     "animal": "Brown Bear",
@@ -13,7 +14,8 @@
     "NextA": "49.266669, -123.008444",
     "NextB": "49.274577, -123.002979",
     "NextC": "49.276846, -122.994962",
-    "slug": "642cdc6f"
+    "slug": "642cdc6f",
+    "clue": "this is the clue text for Brown Bear"
   },
   {
     "animal": "Grizzly Bear",
@@ -21,7 +23,8 @@
     "NextA": "49.260799, -123.010203",
     "NextB": "49.276846, -122.994962",
     "NextC": "49.270615, -122.995507",
-    "slug": "c9aad494"
+    "slug": "c9aad494",
+    "clue": "this is the clue text for Grizzly Bear"
   },
   {
     "animal": "American Badger",
@@ -29,7 +32,8 @@
     "NextA": "49.273870, -123.006070",
     "NextB": "49.277964, -123.003021",
     "NextC": "49.272741, -123.002799",
-    "slug": "7c868bdc"
+    "slug": "7c868bdc",
+    "clue": "this is the clue text for American Badger"
   },
   {
     "animal": "American Marten",
@@ -37,7 +41,8 @@
     "NextA": "49.273621, -123.013269",
     "NextB": "49.281170, -123.008791",
     "NextC": "49.260799, -123.010203",
-    "slug": "de4e1eff"
+    "slug": "de4e1eff",
+    "clue": "this is the clue text for American Marten"
   },
   {
     "animal": "American Mink",
@@ -45,7 +50,8 @@
     "NextA": "49.271151, -123.003014",
     "NextB": "49.265488, -122.991991",
     "NextC": "49.288700, -123.010590",
-    "slug": "3a772a09"
+    "slug": "3a772a09",
+    "clue": "this is the clue text for American Mink"
   },
   {
     "animal": "Fisher",
@@ -53,7 +59,8 @@
     "NextA": "49.287264, -123.005713",
     "NextB": "49.285496, -123.008709",
     "NextC": "49.276517, -123.011575",
-    "slug": "ea49f5ee"
+    "slug": "ea49f5ee",
+    "clue": "this is the clue text for Fisher"
   },
   {
     "animal": "European Rabbit",
@@ -61,23 +68,26 @@
     "NextA": "49.273861, -123.002984",
     "NextB": "49.260799, -123.010203",
     "NextC": "49.272151, -123.014136",
-    "slug": "6631d301"
+    "slug": "6631d301",
+    "clue": "this is the clue text for European Rabbit"
   },
   {
-    "animal": "North American Beaver",
+    "animal": "Beaver",
     "location": "49.275268, -123.002835",
     "NextA": "49.272151, -123.014136",
     "NextB": "49.267357, -123.007656",
     "NextC": "49.266669, -123.008444",
-    "slug": "124de641"
+    "slug": "c2393dd7",
+    "clue": "this is the clue text for Beaver"
   },
   {
-    "animal": "North American Porcupine",
+    "animal": "Porcupine",
     "location": "49.276375, -123.003005",
     "NextA": "49.272741, -123.002799",
     "NextB": "49.281979, -123.003280",
     "NextC": "49.273870, -123.006070",
-    "slug": "2f34287b"
+    "slug": "9428317c",
+    "clue": "this is the clue text for Porcupine"
   },
   {
     "animal": "Raccoon",
@@ -85,7 +95,8 @@
     "NextA": "49.268006, -122.985651",
     "NextB": "49.262793, -123.008796",
     "NextC": "49.283284, -123.000972",
-    "slug": "25cb9d78"
+    "slug": "25cb9d78",
+    "clue": "this is the clue text for Raccoon"
   },
   {
     "animal": "Striped Skunk",
@@ -93,7 +104,8 @@
     "NextA": "49.287264, -123.005713",
     "NextB": "49.285496, -123.008709",
     "NextC": "49.285429, -123.002089",
-    "slug": "58a81168"
+    "slug": "58a81168",
+    "clue": "this is the clue text for Striped Skunk"
   },
   {
     "animal": "Wolverine",
@@ -101,7 +113,8 @@
     "NextA": "49.272085, -123.008665",
     "NextB": "49.272059, -123.003056",
     "NextC": "49.271910, -123.001074",
-    "slug": "e7a5c868"
+    "slug": "e7a5c868",
+    "clue": "this is the clue text for Wolverine"
   },
   {
     "animal": "American Bison",
@@ -109,7 +122,8 @@
     "NextA": "49.271910, -123.001074",
     "NextB": "49.272741, -123.002799",
     "NextC": "49.272741, -122.988080",
-    "slug": "ac4932e2"
+    "slug": "ac4932e2",
+    "clue": "this is the clue text for American Bison"
   },
   {
     "animal": "Bighorn Sheep",
@@ -117,7 +131,8 @@
     "NextA": "49.277964, -123.003021",
     "NextB": "49.278490, -123.003078",
     "NextC": "49.266494, -122.985815",
-    "slug": "96e7b564"
+    "slug": "96e7b564",
+    "clue": "this is the clue text for Bighorn Sheep"
   },
   {
     "animal": "Mountain Goat",
@@ -125,7 +140,8 @@
     "NextA": "49.285496, -123.008709",
     "NextB": "49.287264, -123.005713",
     "NextC": "49.266711, -122.991923",
-    "slug": "afaa7140"
+    "slug": "afaa7140",
+    "clue": "this is the clue text for Mountain Goat"
   },
   {
     "animal": "White-tailed Deer",
@@ -133,15 +149,17 @@
     "NextA": "49.265488, -122.991991",
     "NextB": "49.280874, -123.002938",
     "NextC": "49.286508, -123.000285",
-    "slug": "c00569e5"
+    "slug": "c00569e5",
+    "clue": "this is the clue text for White-tailed Deer"
   },
   {
-    "animal": "Boreal Woodland Caribou",
+    "animal": "Caribou",
     "location": "49.285429, -123.002089",
     "NextA": "49.276517, -123.011575",
     "NextB": "49.288700, -123.010590",
     "NextC": "49.281099, -123.011181",
-    "slug": "844cc2f8"
+    "slug": "29c2934d",
+    "clue": "this is the clue text for Caribou"
   },
   {
     "animal": "Roosevelt Elk",
@@ -149,7 +167,8 @@
     "NextA": "49.281979, -123.003280",
     "NextB": "49.267357, -123.007656",
     "NextC": "49.272085, -123.008665",
-    "slug": "a031b736"
+    "slug": "a031b736",
+    "clue": "this is the clue text for Roosevelt Elk"
   },
   {
     "animal": "Moose",
@@ -157,23 +176,26 @@
     "NextA": "49.279291, -123.003029",
     "NextB": "49.267456, -123.006565",
     "NextC": "49.277964, -123.003021",
-    "slug": "63af1f59"
+    "slug": "63af1f59",
+    "clue": "this is the clue text for Moose"
   },
   {
-    "animal": "Domesticated Dog",
+    "animal": "Dog",
     "location": "49.288700, -123.010590",
     "NextA": "49.271151, -123.003014",
     "NextB": "49.277297, -123.003018",
     "NextC": "49.286508, -123.000285",
-    "slug": "9f2d3ae5"
+    "slug": "0eb129bf",
+    "clue": "this is the clue text for Dog"
   },
   {
-    "animal": "Domesticated Cat",
+    "animal": "Cat",
     "location": "49.290106, -123.011154",
     "NextA": "49.273621, -123.013269",
     "NextB": "49.278490, -123.003078",
     "NextC": "49.281170, -123.008791",
-    "slug": "2c85c212"
+    "slug": "48735c4f",
+    "clue": "this is the clue text for Cat"
   },
   {
     "animal": "Red Fox",
@@ -181,7 +203,8 @@
     "NextA": "49.283284, -123.000972",
     "NextB": "49.268006, -122.985651",
     "NextC": "49.265488, -122.991991",
-    "slug": "cd676180"
+    "slug": "cd676180",
+    "clue": "this is the clue text for Red Fox"
   },
   {
     "animal": "Coyote",
@@ -189,7 +212,8 @@
     "NextA": "49.270530, -123.012922",
     "NextB": "49.268006, -122.985651",
     "NextC": "49.262320, -123.014545",
-    "slug": "443d0b41"
+    "slug": "443d0b41",
+    "clue": "this is the clue text for Coyote"
   },
   {
     "animal": "Gray Wolf",
@@ -197,7 +221,8 @@
     "NextA": "49.280874, -123.002938",
     "NextB": "49.268141, -123.003416",
     "NextC": "49.286508, -123.000285",
-    "slug": "840c91bb"
+    "slug": "840c91bb",
+    "clue": "this is the clue text for Gray Wolf"
   },
   {
     "animal": "Bobcat",
@@ -205,7 +230,8 @@
     "NextA": "49.278490, -123.003078",
     "NextB": "49.277297, -123.003018",
     "NextC": "49.266686, -123.006212",
-    "slug": "4445f103"
+    "slug": "4445f103",
+    "clue": "this is the clue text for Bobcat"
   },
   {
     "animal": "Cougar",
@@ -213,7 +239,8 @@
     "NextA": "49.276517, -123.011575",
     "NextB": "49.273621, -123.013269",
     "NextC": "49.274577, -123.002979",
-    "slug": "3d4fbbbf"
+    "slug": "3d4fbbbf",
+    "clue": "this is the clue text for Cougar"
   },
   {
     "animal": "Canadian Lynx",
@@ -221,7 +248,8 @@
     "NextA": "49.270530, -123.012922",
     "NextB": "49.266686, -123.006212",
     "NextC": "49.266711, -122.991923",
-    "slug": "a524e566"
+    "slug": "a524e566",
+    "clue": "this is the clue text for Canadian Lynx"
   },
   {
     "animal": "Black Rat",
@@ -229,7 +257,8 @@
     "NextA": "49.275268, -123.002835",
     "NextB": "49.283839, -122.997625",
     "NextC": "49.268141, -123.003416",
-    "slug": "ba0b005c"
+    "slug": "ba0b005c",
+    "clue": "this is the clue text for Black Rat"
   },
   {
     "animal": "Muskrat",
@@ -237,7 +266,8 @@
     "NextA": "49.281099, -123.011181",
     "NextB": "49.266686, -123.006212",
     "NextC": "49.272151, -123.014136",
-    "slug": "9e62df95"
+    "slug": "9e62df95",
+    "clue": "this is the clue text for Muskrat"
   },
   {
     "animal": "House Mouse",
@@ -245,7 +275,8 @@
     "NextA": "49.275268, -123.002835",
     "NextB": "49.271151, -123.003014",
     "NextC": "49.272059, -123.003056",
-    "slug": "620d8c63"
+    "slug": "620d8c63",
+    "clue": "this is the clue text for House Mouse"
   },
   {
     "animal": "Masked Shrew",
@@ -253,7 +284,8 @@
     "NextA": "49.281979, -123.003280",
     "NextB": "49.285429, -123.002089",
     "NextC": "49.276375, -123.003005",
-    "slug": "daf2813c"
+    "slug": "daf2813c",
+    "clue": "this is the clue text for Masked Shrew"
   },
   {
     "animal": "American Pika",
@@ -261,15 +293,17 @@
     "NextA": "49.288700, -123.010590",
     "NextB": "49.275268, -123.002835",
     "NextC": "49.268141, -123.003416",
-    "slug": "36789b3a"
+    "slug": "36789b3a",
+    "clue": "this is the clue text for American Pika"
   },
   {
-    "animal": "Vancouver Island Marmot",
+    "animal": "Marmot",
     "location": "49.268006, -122.985651",
     "NextA": "49.262320, -123.014545",
     "NextB": "49.274577, -123.002979",
     "NextC": "49.279291, -123.003029",
-    "slug": "502fdb39"
+    "slug": "c268948c",
+    "clue": "this is the clue text for Marmot"
   },
   {
     "animal": "Townsend Vole",
@@ -277,7 +311,8 @@
     "NextA": "49.281099, -123.011181",
     "NextB": "49.266711, -122.991923",
     "NextC": "49.279291, -123.003029",
-    "slug": "ca23e7b2"
+    "slug": "ca23e7b2",
+    "clue": "this is the clue text for Townsend Vole"
   },
   {
     "animal": "Groundhog",
@@ -285,7 +320,8 @@
     "NextA": "49.266494, -122.985815",
     "NextB": "49.262793, -123.008796",
     "NextC": "49.272741, -122.988080",
-    "slug": "66e19ad2"
+    "slug": "66e19ad2",
+    "clue": "this is the clue text for Groundhog"
   },
   {
     "animal": "Long-tailed Weasel",
@@ -293,7 +329,8 @@
     "NextA": "49.280874, -123.002938",
     "NextB": "49.259957, -123.007319",
     "NextC": "49.262320, -123.014545",
-    "slug": "e8f357ab"
+    "slug": "e8f357ab",
+    "clue": "this is the clue text for Long-tailed Weasel"
   },
   {
     "animal": "Douglas Squirrel",
@@ -301,15 +338,17 @@
     "NextA": "49.272085, -123.008665",
     "NextB": "49.277297, -123.003018",
     "NextC": "49.272741, -122.988080",
-    "slug": "7b654737"
+    "slug": "7b654737",
+    "clue": "this is the clue text for Douglas Squirrel"
   },
   {
-    "animal": "Red-tailedChipmunk",
+    "animal": "Chipmunk",
     "location": "49.276517, -123.011575",
     "NextA": "49.270530, -123.012922",
     "NextB": "49.271910, -123.001074",
     "NextC": "49.285429, -123.002089",
-    "slug": "832f8e6c"
+    "slug": "04ca704f",
+    "clue": "this is the clue text for Chipmunk"
   },
   {
     "animal": "Townsend Mole",
@@ -317,15 +356,17 @@
     "NextA": "49.266022, -123.003405",
     "NextB": "49.266598, -123.002950",
     "NextC": "49.270259, -123.002958",
-    "slug": "11d2e04b"
+    "slug": "11d2e04b",
+    "clue": "this is the clue text for Townsend Mole"
   },
   {
-    "animal": "Humpback whale",
+    "animal": "Humpback Whale",
     "location": "49.281979, -123.003280",
     "NextA": "49.275466, -122.990400",
     "NextB": "49.262793, -123.008796",
     "NextC": "49.270259, -123.002958",
-    "slug": "21ad0dd8"
+    "slug": "4a67898c",
+    "clue": "this is the clue text for Humpback Whale"
   },
   {
     "animal": "Grey whale",
@@ -333,7 +374,8 @@
     "NextA": "49.266669, -123.008444",
     "NextB": "49.270615, -122.995507",
     "NextC": "49.281170, -123.008791",
-    "slug": "8bd0a0ff"
+    "slug": "8bd0a0ff",
+    "clue": "this is the clue text for Grey whale"
   },
   {
     "animal": "Beluga",
@@ -341,7 +383,8 @@
     "NextA": "49.283839, -122.997625",
     "NextB": "49.273870, -123.006070",
     "NextC": "49.275466, -122.990400",
-    "slug": "cb39ee7d"
+    "slug": "cb39ee7d",
+    "clue": "this is the clue text for Beluga"
   },
   {
     "animal": "Orca",
@@ -349,7 +392,8 @@
     "NextA": "49.275466, -122.990400",
     "NextB": "49.266598, -123.002950",
     "NextC": "49.267456, -123.006565",
-    "slug": "e071469a"
+    "slug": "e071469a",
+    "clue": "this is the clue text for Orca"
   },
   {
     "animal": "Harbor Porpoise",
@@ -357,15 +401,17 @@
     "NextA": "49.283839, -122.997625",
     "NextB": "49.290106, -123.011154",
     "NextC": "49.259957, -123.007319",
-    "slug": "c731ccfd"
+    "slug": "c731ccfd",
+    "clue": "this is the clue text for Harbor Porpoise"
   },
   {
-    "animal": "California Sea Lion",
+    "animal": "Sea Lion",
     "location": "49.266494, -122.985815",
     "NextA": "49.272059, -123.003056",
     "NextB": "49.273861, -123.002984",
     "NextC": "49.290106, -123.011154",
-    "slug": "23bec92c"
+    "slug": "0b51dce4",
+    "clue": "this is the clue text for Sea Lion"
   },
   {
     "animal": "Harbor Seal",
@@ -373,7 +419,8 @@
     "NextA": "49.266022, -123.003405",
     "NextB": "49.290106, -123.011154",
     "NextC": "49.267456, -123.006565",
-    "slug": "656ca2da"
+    "slug": "656ca2da",
+    "clue": "this is the clue text for Harbor Seal"
   },
   {
     "animal": "Striped Dolphin",
@@ -381,7 +428,8 @@
     "NextA": "49.273861, -123.002984",
     "NextB": "49.270259, -123.002958",
     "NextC": "49.259957, -123.007319",
-    "slug": "d7e91d06"
+    "slug": "d7e91d06",
+    "clue": "this is the clue text for Striped Dolphin"
   },
   {
     "animal": "River Otter",
@@ -389,7 +437,8 @@
     "NextA": "49.270615, -122.995507",
     "NextB": "49.266494, -122.985815",
     "NextC": "49.276375, -123.003005",
-    "slug": "c56a4706"
+    "slug": "c56a4706",
+    "clue": "this is the clue text for River Otter"
   },
   {
     "animal": "Big Brown Bat",
@@ -397,6 +446,7 @@
     "NextA": "49.266022, -123.003405",
     "NextB": "49.266598, -123.002950",
     "NextC": "49.276375, -123.003005",
-    "slug": "f8479f3a"
+    "slug": "f8479f3a",
+    "clue": "this is the clue text for Big Brown Bat"
   }
 ]

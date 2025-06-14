@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,12 +8,10 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-          crossorigin=""/>
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
     <!-- Leaflet JavaScript -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-            crossorigin=""></script>
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <!-- Leaflet.MarkerCluster CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
@@ -25,7 +24,7 @@
                 extend: {},
             },
             plugins: [
-                function({ addBase, theme }) {
+                function ({ addBase, theme }) {
                     addBase({
                         'h1': { fontSize: theme('fontSize.2xl'), fontWeight: theme('fontWeight.bold'), marginBottom: theme('spacing.3') },
                         'h2': { fontSize: theme('fontSize.xl'), fontWeight: theme('fontWeight.bold'), marginBottom: theme('spacing.2') },
@@ -34,7 +33,7 @@
                         'ul': { listStyleType: 'disc', paddingLeft: theme('spacing.6'), marginBottom: theme('spacing.4') },
                         'ol': { listStyleType: 'decimal', paddingLeft: theme('spacing.6'), marginBottom: theme('spacing.4') },
                         'li': { marginBottom: theme('spacing.2') },
-                        'blockquote': { 
+                        'blockquote': {
                             borderLeftWidth: '4px',
                             borderLeftColor: theme('colors.gray.300'),
                             paddingLeft: theme('spacing.4'),
@@ -90,18 +89,21 @@
     <!-- External Dependencies -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
+
 <body class="bg-gray-100 min-h-screen flex flex-col">
     <!-- Header Section -->
     <header class="bg-white shadow-md py-4 mb-4">
         <div class="container mx-auto px-4">
-            <div class="flex justify-between items-center">
-                <div class="text-center flex-grow">
+            <div class="flex items-center justify-between w-full">
+                <a href='./?'><img src="/img/logo.png" alt="Logo" class="h-20 w-auto mr-4"
+                        style="max-height: 4rem;"></a>
+                <div class="flex-1 flex justify-center">
                     <h1 class="text-4xl font-bold text-gray-800 mb-1">Medallion Hunt</h1>
-                    <p class="text-xl text-gray-600">ToDo Slogan</p>
                 </div>
-                <button id="menuButton" class="p-2 hover:bg-gray-100 rounded-lg focus:outline-none">
+                <button id="menuButton" class="p-2 hover:bg-gray-100 rounded-lg focus:outline-none ml-4">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M4 6h16M4 12h16M4 18h16"></path>
                     </svg>
                 </button>
             </div>
@@ -110,13 +112,15 @@
 
     <!-- Navigation Menu -->
     <div id="navMenu" class="fixed inset-0 bg-gray-800 bg-opacity-50 z-50 hidden">
-        <div class="bg-white h-full w-64 shadow-lg transform transition-transform duration-300 ease-in-out -translate-x-full">
+        <div
+            class="bg-white h-full w-64 shadow-lg transform transition-transform duration-300 ease-in-out -translate-x-full">
             <div class="p-4 border-b">
                 <div class="flex justify-between items-center">
                     <h2 class="text-xl font-bold">Navigation</h2>
                     <button id="closeMenu" class="p-2 hover:bg-gray-100 rounded-lg focus:outline-none">
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M6 18L18 6M6 6l12 12"></path>
                         </svg>
                     </button>
                 </div>
@@ -124,57 +128,83 @@
             <nav class="p-2">
                 <ul class="space-y-2 list-none">
                     <li>
-                        <a href="#medallion-info" class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
-                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        <a href="#medallion-info"
+                            class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
+                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
                             <span class="text-gray-700 font-medium">Medallion Information</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#project-info" class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
-                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        <a href="#project-info"
+                            class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
+                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
                             <span class="text-gray-700 font-medium">About This Project</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#animal-info" class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
-                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        <a href="#animal-info"
+                            class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
+                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z">
+                                </path>
                             </svg>
                             <span class="text-gray-700 font-medium">Animal Information</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#story" class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
-                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+                        <a href="#story"
+                            class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
+                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253">
+                                </path>
                             </svg>
                             <span class="text-gray-700 font-medium">Story</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#medallion-map" class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
-                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"></path>
+                        <a href="#medallion-map"
+                            class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
+                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7">
+                                </path>
                             </svg>
                             <span class="text-gray-700 font-medium">Medallion Map</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#discovered-medallions" class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
-                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path>
+                        <a href="#discovered-medallions"
+                            class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
+                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2">
+                                </path>
                             </svg>
                             <span class="text-gray-700 font-medium">Medallions Information</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#medallion-stats" class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
-                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
+                        <a href="#medallion-stats"
+                            class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
+                            <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z">
+                                </path>
                             </svg>
                             <span class="text-gray-700 font-medium">Medallion Stats</span>
                         </a>
@@ -188,17 +218,21 @@
         <!-- Two-column layout for Medallion Info and About Project -->
         <div class="flex flex-col md:flex-row gap-4 mb-4">
             <!-- Medallion Information -->
-            <div id="medallion-info" class="collapsible-section bg-white rounded-lg shadow-md flex-1" data-section="medallion-info">
+            <div id="medallion-info" class="collapsible-section bg-white rounded-lg shadow-md flex-1"
+                data-section="medallion-info">
                 <div class="section-header flex justify-between items-center p-2 cursor-pointer">
                     <h2 class="text-2xl font-bold pl-2 flex items-center">
                         <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                         </svg>
                         Medallion Information
                     </h2>
                     <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                        <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor"
+                            viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7">
+                            </path>
                         </svg>
                     </button>
                 </div>
@@ -209,21 +243,36 @@
                     <div id="medallionDetails" class="mt-2 space-y-2">
                         <!-- Detailed medallion information will be populated here -->
                     </div>
+
+                    <div class="mt-6">
+                        <h3 class="text-lg font-semibold mb-2">Found Medallion</h3>
+                        <div id="found-medallion-list" class="">loading found medallions...</div>
+                    </div>
+<!--
+                    <div class="mt-6">
+                        <h3 class="text-lg font-semibold mb-2">Medallion Clues</h3>
+                        <div id="found-medallion-list" class="">loading medallions clues...</div>
+                    </div>
+-->
                 </div>
             </div>
 
             <!-- Project Information -->
-            <div id="project-info" class="collapsible-section bg-white rounded-lg shadow-md flex-1" data-section="project-info">
+            <div id="project-info" class="collapsible-section bg-white rounded-lg shadow-md flex-1"
+                data-section="project-info">
                 <div class="section-header flex justify-between items-center p-2 cursor-pointer">
                     <h2 class="text-2xl font-bold pl-2 flex items-center">
                         <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                         </svg>
                         About This Project
                     </h2>
                     <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                        <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor"
+                            viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7">
+                            </path>
                         </svg>
                     </button>
                 </div>
@@ -240,12 +289,15 @@
             <div class="section-header flex justify-between items-center p-2 cursor-pointer">
                 <h2 class="text-2xl font-bold pl-2 flex items-center">
                     <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z">
+                        </path>
                     </svg>
                     Animal Information
                 </h2>
                 <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor"
+                        viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                     </svg>
                 </button>
@@ -262,12 +314,15 @@
             <div class="section-header flex justify-between items-center p-2 cursor-pointer">
                 <h2 class="text-2xl font-bold pl-2 flex items-center">
                     <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253">
+                        </path>
                     </svg>
                     Story
                 </h2>
                 <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor"
+                        viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                     </svg>
                 </button>
@@ -280,16 +335,20 @@
         </div>
 
         <!-- Medallion Map -->
-        <div id="medallion-map" class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="medallion-map">
+        <div id="medallion-map" class="collapsible-section bg-white rounded-lg shadow-md mb-4"
+            data-section="medallion-map">
             <div class="section-header flex justify-between items-center p-2 cursor-pointer">
                 <h2 class="text-2xl font-bold pl-2 flex items-center">
                     <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"></path>
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7">
+                        </path>
                     </svg>
                     Medallion Map
                 </h2>
                 <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor"
+                        viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                     </svg>
                 </button>
@@ -297,9 +356,12 @@
             <div class="section-content p-4">
                 <div class="relative">
                     <div id="medallionMap" class="h-[300px] sm:h-[400px] md:h-[500px] rounded-lg"></div>
-                    <button id="fullscreenButton" class="absolute top-2 right-2 bg-white p-2 rounded-lg shadow-md hover:bg-gray-100 focus:outline-none z-[1000]">
+                    <button id="fullscreenButton"
+                        class="absolute top-2 right-2 bg-white p-2 rounded-lg shadow-md hover:bg-gray-100 focus:outline-none z-[1000]">
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5v-4m0 4h-4m4 0l-5-5"></path>
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5v-4m0 4h-4m4 0l-5-5">
+                            </path>
                         </svg>
                     </button>
                 </div>
@@ -312,22 +374,26 @@
                         <div class="w-4 h-4 bg-blue-500 rounded-full mr-2"></div>
                         <span>Undiscovered</span>
                     </div>
-                    
+
                 </div>
             </div>
         </div>
 
         <!-- Discovered Medallions -->
-        <div id="discovered-medallions" class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="discovered-medallions">
+        <div id="discovered-medallions" class="collapsible-section bg-white rounded-lg shadow-md mb-4"
+            data-section="discovered-medallions">
             <div class="section-header flex justify-between items-center p-2 cursor-pointer">
                 <h2 class="text-2xl font-bold pl-2 flex items-center">
                     <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path>
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2">
+                        </path>
                     </svg>
                     Medallions Information
                 </h2>
                 <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor"
+                        viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                     </svg>
                 </button>
@@ -351,16 +417,20 @@
         </div>
 
         <!-- Medallion Stats -->
-        <div id="medallion-stats" class="collapsible-section bg-white rounded-lg shadow-md mb-4" data-section="medallion-stats">
+        <div id="medallion-stats" class="collapsible-section bg-white rounded-lg shadow-md mb-4"
+            data-section="medallion-stats">
             <div class="section-header flex justify-between items-center p-2 cursor-pointer">
                 <h2 class="text-2xl font-bold pl-2 flex items-center">
                     <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z">
+                        </path>
                     </svg>
                     Medallion Stats
                 </h2>
                 <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor"
+                        viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                     </svg>
                 </button>
@@ -370,7 +440,8 @@
                     <!-- Stats will be populated here -->
                 </div>
                 <div class="mt-4 flex justify-end">
-                    <button id="resetStorage" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">
+                    <button id="resetStorage"
+                        class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">
                         Reset Progress
                     </button>
                 </div>
@@ -378,11 +449,13 @@
         </div>
 
         <!-- Diagnostic Dialog -->
-        <div class="collapsible-section bg-yellow-50 border-2 border-yellow-200 rounded-lg shadow-md mb-8" data-section="diagnostic">
+        <div class="collapsible-section bg-yellow-50 border-2 border-yellow-200 rounded-lg shadow-md mb-8"
+            data-section="diagnostic">
             <div class="section-header flex justify-between items-center p-4 cursor-pointer">
                 <h2 class="text-xl font-bold text-yellow-800">Diagnostic Information (Development Only)</h2>
                 <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
-                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor"
+                        viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                     </svg>
                 </button>
@@ -406,7 +479,7 @@
     <footer class="bg-white shadow-md py-4 mt-4">
         <div class="container mx-auto px-4 text-center">
             <p class="text-gray-600">© 2024 Medallion Hunt. All rights reserved.</p>
-            <p class="text-gray-500 text-sm mt-1">Version: 2025-June-11 @12:30am</p>
+            <p class="text-gray-500 text-sm mt-1">Version: 2025-June-14 @11:30am</p>
             <div class="mt-2 space-x-4">
                 <a href="attributions.html" class="text-blue-600 hover:underline">Attributions</a>
             </div>
@@ -466,25 +539,25 @@
 
                 const sections = document.querySelectorAll('.collapsible-section');
                 const savedStates = JSON.parse(localStorage.getItem(STORAGE_KEYS.SECTION_STATES) || '{}');
-                
+
                 sections.forEach(section => {
                     const sectionId = section.dataset.section;
                     const header = section.querySelector('.section-header');
                     const content = section.querySelector('.section-content');
                     const toggleButton = section.querySelector('.toggle-section');
                     const chevron = toggleButton.querySelector('svg');
-                    
+
                     const isCollapsed = savedStates[sectionId] || false;
                     if (isCollapsed) {
                         content.style.display = 'none';
                         chevron.classList.add('rotate-180');
                     }
-                    
+
                     header.addEventListener('click', () => {
                         const isCurrentlyCollapsed = content.style.display === 'none';
                         content.style.display = isCurrentlyCollapsed ? 'block' : 'none';
                         chevron.classList.toggle('rotate-180');
-                        
+
                         savedStates[sectionId] = !isCurrentlyCollapsed;
                         localStorage.setItem(STORAGE_KEYS.SECTION_STATES, JSON.stringify(savedStates));
 
@@ -528,7 +601,7 @@
                         e.preventDefault();
                         const targetId = link.getAttribute('href').substring(1);
                         const targetSection = document.getElementById(targetId);
-                        
+
                         if (targetSection) {
                             // Close menu
                             navMenu.querySelector('div').classList.add('-translate-x-full');
@@ -542,11 +615,11 @@
                             // Expand section if collapsed
                             const content = targetSection.querySelector('.section-content');
                             const chevron = targetSection.querySelector('.toggle-section svg');
-                            
+
                             if (content.style.display === 'none') {
                                 content.style.display = 'block';
                                 chevron.classList.remove('rotate-180');
-                                
+
                                 // Update saved state
                                 const savedStates = JSON.parse(localStorage.getItem(STORAGE_KEYS.SECTION_STATES) || '{}');
                                 savedStates[targetSection.dataset.section] = false;
@@ -602,10 +675,10 @@
             static updateMedallionTable(tableData) {
                 const tableBody = document.getElementById('medallionTableBody');
                 tableBody.innerHTML = '';
-                
+
                 tableData.forEach(item => {
                     const row = document.createElement('tr');
-                    const locationCell = item.location === '????' ? 
+                    const locationCell = item.location === '????' ?
                         '<td class="px-4 py-2 border">????</td>' :
                         `<td class="px-4 py-2 border">
                             <a href="https://www.google.com/maps/search/?api=1&query=${item.location}" 
@@ -641,7 +714,7 @@
 
                 const storageDisplay = document.getElementById('storageDisplay');
                 const undiscoveredList = document.getElementById('undiscoveredList');
-                
+
                 if (storageDisplay) {
                     const visitedMedallions = DataManager.getVisitedMedallions();
                     storageDisplay.textContent = JSON.stringify(visitedMedallions, null, 2);
@@ -650,7 +723,7 @@
                 if (undiscoveredList) {
                     DataManager.loadMedallionMap().then(medallionMap => {
                         const visitedMedallions = DataManager.getVisitedMedallions();
-                        const undiscoveredMedallions = medallionMap.filter(medallion => 
+                        const undiscoveredMedallions = medallionMap.filter(medallion =>
                             !visitedMedallions.includes(medallion.slug)
                         );
 
@@ -674,7 +747,7 @@
              */
             static initializeMedallionMap(medallionMap, visitedMedallions) {
                 console.log('Initializing map...');
-                
+
                 // Ensure the map container exists
                 let mapContainer = document.getElementById('medallionMap');
                 if (!mapContainer) {
@@ -689,12 +762,12 @@
                     // Create a wrapper div to hold both the map and the fullscreen button
                     const wrapper = document.createElement('div');
                     wrapper.className = 'relative';
-                    
+
                     // Create the map container
                     mapContainer = document.createElement('div');
                     mapContainer.id = 'medallionMap';
                     mapContainer.className = 'h-[300px] sm:h-[400px] md:h-[500px] rounded-lg';
-                    
+
                     // Create the fullscreen button
                     const fullscreenButton = document.createElement('button');
                     fullscreenButton.id = 'fullscreenButton';
@@ -728,7 +801,7 @@
                     mapSection.appendChild(wrapper);
                     mapSection.appendChild(legend);
                 }
-                
+
                 console.log('Map container:', mapContainer);
 
                 // Clear existing map if it exists
@@ -805,7 +878,7 @@
 
                     // Create marker clusters
                     const discoveredCluster = L.markerClusterGroup({
-                        iconCreateFunction: function(cluster) {
+                        iconCreateFunction: function (cluster) {
                             return L.divIcon({
                                 html: `<div class="bg-green-500 text-white rounded-full w-8 h-8 flex items-center justify-center">${cluster.getChildCount()}</div>`,
                                 className: 'custom-cluster',
@@ -820,7 +893,7 @@
                     });
 
                     const undiscoveredCluster = L.markerClusterGroup({
-                        iconCreateFunction: function(cluster) {
+                        iconCreateFunction: function (cluster) {
                             return L.divIcon({
                                 html: `<div class="bg-blue-500 text-white rounded-full w-8 h-8 flex items-center justify-center">${cluster.getChildCount()}</div>`,
                                 className: 'custom-cluster',
@@ -865,7 +938,7 @@
                         });
 
                         // Create popup content
-                        const popupContent = visitedMedallions.includes(medallion.slug) ? 
+                        const popupContent = visitedMedallions.includes(medallion.slug) ?
                             // Discovered medallion popup
                             `<div class="p-2">
                                 <h3 class="font-bold mb-1">${medallion.animal}</h3>
@@ -901,7 +974,7 @@
                         .map(m => DataManager.convertLocationToCoordinates(m.location))
                         .filter(coords => coords !== null)
                         .map(coords => [coords.lat, coords.lng]));
-                    
+
                     if (bounds.isValid()) {
                         window.medallionMap.fitBounds(bounds, { padding: [50, 50] });
                     }
@@ -969,12 +1042,12 @@
             static addVisitedMedallion(slugId) {
                 const visitedMedallions = this.getVisitedMedallions();
                 const isNew = !visitedMedallions.includes(slugId);
-                
+
                 if (isNew) {
                     visitedMedallions.push(slugId);
                     localStorage.setItem(STORAGE_KEYS.VISITED_MEDALLIONS, JSON.stringify(visitedMedallions));
                 }
-                
+
                 return isNew;
             }
 
@@ -1086,7 +1159,7 @@
                     }
                     const markdown = await response.text();
                     const html = marked.parse(markdown);
-                    
+
                     animalInfoDiv.innerHTML = `
                         <div class="bg-gray-50 p-6 rounded-lg">
                             <div class="markdown-content">
@@ -1113,7 +1186,7 @@
             static async loadStoryChapters() {
                 const storyChaptersDiv = document.getElementById('storyChapters');
                 const visitedMedallions = DataManager.getVisitedMedallions();
-                
+
                 try {
                     const medallionMap = await DataManager.loadMedallionMap();
                     let chaptersHTML = '';
@@ -1128,11 +1201,11 @@
                                 'Pragma': 'no-cache'
                             }
                         });
-                        
+
                         if (!milestoneResponse.ok) {
                             throw new Error('Main story chapter 1 is missing');
                         }
-                        
+
                         const milestoneMarkdown = await milestoneResponse.text();
                         chaptersHTML += this.createChapterHTML(chapterNumber, 'Main Story Part 1', milestoneMarkdown);
                         chapterNumber++;
@@ -1147,7 +1220,7 @@
                         for (let i = 0; i < visitedMedallions.length; i++) {
                             const slugId = visitedMedallions[i];
                             const medallion = DataManager.getMedallionBySlugId(medallionMap, slugId);
-                            
+
                             if (medallion) {
                                 // Load animal chapter
                                 try {
@@ -1158,7 +1231,7 @@
                                             'Pragma': 'no-cache'
                                         }
                                     });
-                                    
+
                                     if (response.ok) {
                                         const markdown = await response.text();
                                         chaptersHTML += this.createChapterHTML(chapterNumber, medallion.animal, markdown);
@@ -1175,7 +1248,7 @@
                                                         'Pragma': 'no-cache'
                                                     }
                                                 });
-                                                
+
                                                 if (milestoneResponse.ok) {
                                                     const milestoneMarkdown = await milestoneResponse.text();
                                                     chaptersHTML += this.createChapterHTML(chapterNumber, `Main Story Part ${milestoneNumber}`, milestoneMarkdown);
@@ -1243,7 +1316,7 @@
                     const content = chapter.querySelector('.chapter-content');
                     const toggleButton = chapter.querySelector('.toggle-chapter');
                     const chevron = toggleButton.querySelector('svg');
-                    
+
                     header.addEventListener('click', () => {
                         const isHidden = content.classList.contains('hidden');
                         content.classList.toggle('hidden');
@@ -1264,7 +1337,7 @@
                     }
                     const markdown = await response.text();
                     const html = marked.parse(markdown);
-                    
+
                     projectInfoDiv.innerHTML = html;
                 } catch (error) {
                     console.error('Error loading about project:', error);
@@ -1291,7 +1364,7 @@
                     }
                     const markdown = await response.text();
                     const html = marked.parse(markdown);
-                    
+
                     animalInfoDiv.innerHTML = `
                         <div class="flex flex-col">
                             <div class="p-4 rounded-lg">
@@ -1327,25 +1400,21 @@
                     const visitedMedallions = DataManager.getVisitedMedallions();
                     const urlParams = new URLSearchParams(window.location.search);
                     const currentSlugId = urlParams.get('id');
-                    
+
                     // Update current medallion details if available
                     if (currentSlugId) {
                         const currentMedallion = DataManager.getMedallionBySlugId(medallionMap, currentSlugId);
                         if (currentMedallion) {
                             const medallionDetails = document.getElementById('medallionDetails');
                             const resultDiv = document.getElementById('result');
-                            
+
                             // Update the result message
                             if (isNew) {
                                 resultDiv.innerHTML = `
-                                    <p class="text-xl text-blue-600 font-mono">🎉 New Discovery!</p>
-                                    <p class="text-lg text-gray-600">You've discovered the ${currentMedallion.animal} medallion!</p>
+                                    <p class="text-lg text-gray-600">You've discovered the <strong>${currentMedallion.animal} medallion!</strong> 🎉</p>
                                 `;
                             } else {
-                                resultDiv.innerHTML = `
-                                    <p class="text-xl text-gray-600 font-mono">Previously Discovered</p>
-                                    <p class="text-lg text-gray-600">You've already found the ${currentMedallion.animal} medallion.</p>
-                                `;
+                                resultDiv.innerHTML = ``;
                             }
 
                             medallionDetails.innerHTML = `
@@ -1371,9 +1440,9 @@
                                             <li>Next C: ${currentMedallion.NextC || 'None'}</li>
                                         </ul>
                                         <p><span class="font-semibold">Status:</span> 
-                                            ${visitedMedallions.includes(currentMedallion.slug) ? 
-                                                '<span class="text-green-600">Discovered</span>' : 
-                                                '<span class="text-blue-600">Undiscovered</span>'}
+                                            ${visitedMedallions.includes(currentMedallion.slug) ?
+                                    '<span class="text-green-600">Discovered</span>' :
+                                    '<span class="text-blue-600">Undiscovered</span>'}
                                         </p>
                                     </div>
                                     -->
@@ -1466,7 +1535,7 @@
             // Initialize UI components
             UIManager.initializeCollapsibleSections();
             UIManager.initializeNavigationMenu();
-            
+
             // Set up event listeners
             document.getElementById('resetStorage').addEventListener('click', () => {
                 if (confirm('Are you sure you want to reset all progress? This cannot be undone.')) {
@@ -1501,7 +1570,44 @@
                     UIManager.updateDiagnosticDisplay();
                 }
             }
+
+            // Load the foundMedallionList
+            const foundMedallionList = document.getElementById('found-medallion-list');
+            if (foundMedallionList) {
+                const visitedMedallions = DataManager.getVisitedMedallions();
+                DataManager.loadMedallionMap().then(medallionMap => {
+                    const found = visitedMedallions.map(slug => {
+                        const medallion = medallionMap.find(m => m.slug === slug);
+                        if (medallion) {
+                            return `<a href="?id=${medallion.slug}" class="text-blue-600 hover:underline">${medallion.animal}</a>`;
+                        } else {
+                            return slug;
+                        }
+                    });
+                    foundMedallionList.innerHTML = found.length > 0 ? found.join(', ') : '<span class="text-gray-400">None found yet</span>';
+                });
+            }
+
+            // Update the Medallion Clues section with undiscovered medallions and their clues
+            const medallionCluesList = document.querySelectorAll('#medallion-info .mt-6 > #found-medallion-list')[1];
+            if (medallionCluesList) {
+                const visitedMedallions = DataManager.getVisitedMedallions();
+                DataManager.loadMedallionMap().then(medallionMap => {
+                    const undiscovered = medallionMap.filter(m => !visitedMedallions.includes(m.slug));
+                    if (undiscovered.length === 0) {
+                        medallionCluesList.innerHTML = '<span class="text-gray-400">No clues left! All medallions found.</span>';
+                    } else {
+                        medallionCluesList.innerHTML = '<ul class="list-disc pl-6">' +
+                            undiscovered.map(m =>
+                                `<li><span class="font-semibold">Location:</span> ${m.location}<br><span class="font-semibold">Clue:</span> ${m.clue}</li>`
+                            ).join('') + '</ul>';
+                    }
+                });
+            }
+
+
         });
     </script>
 </body>
+
 </html>
