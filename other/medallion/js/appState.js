@@ -36,22 +36,22 @@ export class AppState {
                 console.log('No current medallion slug in URL');
             }
 
-            const availableLocations = new Set();
+            const availableSlugs = new Set();
             visitedMedallions.forEach(slugId => {
                 const medallion = DataManager.getMedallionBySlugId(medallionMap, slugId);
                 if (medallion) {
                     if (medallion.NextA) {
-                        availableLocations.add(medallion.NextA);
+                        availableSlugs.add(medallion.NextA);
                     } else {
                         console.warn(`Medallion ${slugId} missing NextA`);
                     }
                     if (medallion.NextB) {
-                        availableLocations.add(medallion.NextB);
+                        availableSlugs.add(medallion.NextB);
                     } else {
                         console.warn(`Medallion ${slugId} missing NextB`);
                     }
                     if (medallion.NextC) {
-                        availableLocations.add(medallion.NextC);
+                        availableSlugs.add(medallion.NextC);
                     } else {
                         console.warn(`Medallion ${slugId} missing NextC`);
                     }
@@ -68,7 +68,7 @@ export class AppState {
                     statusClass = 'bg-green-100 text-green-800';
                     animal = medallion.animal;
                     location = medallion.location;
-                } else if (availableLocations.has(medallion.location)) {
+                } else if (availableSlugs.has(medallion.slug)) {
                     status = '🔍';
                     statusText = 'Available - Clues unlocked — but not scanned yet';
                     statusClass = 'bg-blue-100 text-blue-800';

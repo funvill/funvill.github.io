@@ -359,22 +359,22 @@ export class UIManager {
             disableClusteringAtZoom: 15
         });
 
-        const availableLocations = new Set();
+        const availableSlugs = new Set();
         visitedMedallions.forEach(slugId => {
             const medallion = DataManager.getMedallionBySlugId(medallionMap, slugId);
             if (medallion) {
                 if (medallion.NextA) {
-                    availableLocations.add(medallion.NextA);
+                    availableSlugs.add(medallion.NextA);
                 } else {
                     console.warn(`Medallion ${slugId} missing NextA`);
                 }
                 if (medallion.NextB) {
-                    availableLocations.add(medallion.NextB);
+                    availableSlugs.add(medallion.NextB);
                 } else {
                     console.warn(`Medallion ${slugId} missing NextB`);
                 }
                 if (medallion.NextC) {
-                    availableLocations.add(medallion.NextC);
+                    availableSlugs.add(medallion.NextC);
                 } else {
                     console.warn(`Medallion ${slugId} missing NextC`);
                 }
@@ -391,9 +391,9 @@ export class UIManager {
             } else {
                 // continue
             }
-            if ((visitedMedallions.length > 0 || availableLocations.size > 0) &&
+            if ((visitedMedallions.length > 0 || availableSlugs.size > 0) &&
                 !visitedMedallions.includes(medallion.slug) &&
-                !availableLocations.has(medallion.location)) {
+                !availableSlugs.has(medallion.slug)) {
                 return;
             }
 

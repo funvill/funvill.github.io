@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return medallion ? `<a href="?id=${medallion.slug}" class="text-blue-600 hover:underline">${medallion.animal}</a>` : slug;
             });
             console.log(`Displaying ${found.length} discovered medallions`);
-            foundMedallionList.innerHTML = found.length > 0 ? found.join(',') : '<span class="text-gray-400">None found yet</span>';
+            foundMedallionList.innerHTML = found.length > 0 ? found.join(', ') : '<span class="text-gray-400">None found yet</span>';
             foundMedallionList2.innerHTML = found.length > 0 ? found.join(', ') : '<span class="text-gray-400">None found yet</span>';
         } else {
             console.warn('Medallion list elements missing');

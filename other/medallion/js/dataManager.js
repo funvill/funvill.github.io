@@ -55,25 +55,25 @@ export class DataManager {
      */
     static getAvailableMedallions(medallionMap) {
         const discovered = this.getDiscoveredMedallions(medallionMap);
-        const availableGPS = new Set();
+        const availableSlugs = new Set();
         discovered.forEach(medallion => {
             if (medallion.NextA) {
-                availableGPS.add(medallion.NextA);
+                availableSlugs.add(medallion.NextA);
             } else {
                 console.warn(`Medallion ${medallion.slug} missing NextA`);
             }
             if (medallion.NextB) {
-                availableGPS.add(medallion.NextB);
+                availableSlugs.add(medallion.NextB);
             } else {
                 console.warn(`Medallion ${medallion.slug} missing NextB`);
             }
             if (medallion.NextC) {
-                availableGPS.add(medallion.NextC);
+                availableSlugs.add(medallion.NextC);
             } else {
                 console.warn(`Medallion ${medallion.slug} missing NextC`);
             }
         });
-        return medallionMap.filter(m => !this.getVisitedMedallions().includes(m.slug) && availableGPS.has(m.location));
+        return medallionMap.filter(m => !this.getVisitedMedallions().includes(m.slug) && availableSlugs.has(m.slug));
     }
 
     /**
