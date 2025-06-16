@@ -7,4 +7,4 @@ The **Medallion Hunt** is an interactive treasure hunt game where players discov
 3. **Explore your map** to visit newly unlocked locations. Each scanned medallion give you clues to where other medallions are located.
 4. **Collect them all** to unlock the full narrative story and reveal the full medallion map.
 
-[Find out more about this project](?/about.html)
+[Find out more about this project](about.html)

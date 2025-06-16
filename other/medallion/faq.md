@@ -2,7 +2,7 @@
 
 ## Who made this
 
-Steven Smethurst (@funvill)
+[Steven Smethurst](https://blog.abluestar.com/about) ([@funvill](https://www.instagram.com/funvill))
 
 ## Why make this
 
