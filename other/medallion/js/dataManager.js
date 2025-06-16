@@ -105,13 +105,16 @@ export class DataManager {
      * @param {string} slugId - The slug to add.
      * @returns {boolean} True if the slug was newly added.
      */
-    static addVisitedMedallion(slugId) {
+    static addVisitedMedallion(slugId, animalName = '') {
         const visited = this.getVisitedMedallions();
         const isNew = !visited.includes(slugId);
         if (isNew) {
             visited.push(slugId);
             localStorage.setItem(STORAGE_KEYS.VISITED_MEDALLIONS, JSON.stringify(visited));
             console.log('Added new visited medallion', slugId);
+            if (animalName && typeof gtag === 'function') {
+                gtag('event', `Scanned ${animalName}`);
+            }
         } else {
             console.log('Medallion already recorded', slugId);
         }
@@ -126,6 +129,7 @@ export class DataManager {
         console.warn('Resetting local storage');
         localStorage.removeItem(STORAGE_KEYS.VISITED_MEDALLIONS);
         localStorage.removeItem(STORAGE_KEYS.SECTION_STATES);
+        localStorage.removeItem(STORAGE_KEYS.USER_ID);
         window.history.replaceState({}, document.title, window.location.pathname);
         window.location.reload();
     }

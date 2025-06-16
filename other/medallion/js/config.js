@@ -1,6 +1,7 @@
 export const STORAGE_KEYS = {
     VISITED_MEDALLIONS: 'visitedMedallions',
-    SECTION_STATES: 'sectionStates'
+    SECTION_STATES: 'sectionStates',
+    USER_ID: 'user_id'
 };
 
 export const SETTINGS_DEVELOPER = false; // Set to true to enable developer features
