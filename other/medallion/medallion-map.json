@@ -6,7 +6,7 @@
     "NextB": "49.267357, -123.007656",
     "NextC": "49.276846, -122.994962",
     "slug": "5b4a2c42",
-    "clue": "this is the clue text for Black Bear"
+    "clue": "I fish without rod, climb without hands, and sleep through the snow. Who am I?"
   },
   {
     "animal": "Brown Bear",
@@ -15,7 +15,7 @@
     "NextB": "49.274577, -123.002979",
     "NextC": "49.276846, -122.994962",
     "slug": "642cdc6f",
-    "clue": "this is the clue text for Brown Bear"
+    "clue": "I roam where the rivers run cold and fatten for sleep. My cousin’s grizzly, but I’m a bit more shy."
   },
   {
     "animal": "Grizzly Bear",
@@ -24,7 +24,7 @@
     "NextB": "49.276846, -122.994962",
     "NextC": "49.270615, -122.995507",
     "slug": "c9aad494",
-    "clue": "this is the clue text for Grizzly Bear"
+    "clue": "Don’t go bear-footed — this clue is grizzly important."
   },
   {
     "animal": "American Badger",
@@ -33,7 +33,7 @@
     "NextB": "49.277964, -123.003021",
     "NextC": "49.272741, -123.002799",
     "slug": "7c868bdc",
-    "clue": "this is the clue text for American Badger"
+    "clue": "I dig my truth, fierce in tunnels, bold in stripe. Who guards the underground?"
   },
   {
     "animal": "American Marten",
@@ -42,7 +42,7 @@
     "NextB": "49.281170, -123.008791",
     "NextC": "49.260799, -123.010203",
     "slug": "de4e1eff",
-    "clue": "this is the clue text for American Marten"
+    "clue": "I slip through branches like whispers, where snow and secrets gather."
   },
   {
     "animal": "American Mink",
@@ -51,7 +51,7 @@
     "NextB": "49.265488, -122.991991",
     "NextC": "49.288700, -123.010590",
     "slug": "3a772a09",
-    "clue": "this is the clue text for American Mink"
+    "clue": "I glide along water’s edge, part river, part shadow, all stealth."
   },
   {
     "animal": "Fisher",
@@ -60,7 +60,7 @@
     "NextB": "49.285496, -123.008709",
     "NextC": "49.276517, -123.011575",
     "slug": "ea49f5ee",
-    "clue": "this is the clue text for Fisher"
+    "clue": "I climb though I’m no cat, hunt though I’m not big. Trees whisper when I pass"
   },
   {
     "animal": "European Rabbit",
@@ -69,7 +69,7 @@
     "NextB": "49.260799, -123.010203",
     "NextC": "49.272151, -123.014136",
     "slug": "6631d301",
-    "clue": "this is the clue text for European Rabbit"
+    "clue": "I vanish down holes and multiply in tales. Where the thump of feet echoes, look below."
   },
   {
     "animal": "Beaver",
@@ -78,7 +78,7 @@
     "NextB": "49.267357, -123.007656",
     "NextC": "49.266669, -123.008444",
     "slug": "c2393dd7",
-    "clue": "this is the clue text for Beaver"
+    "clue": "Damn! This clue is well-constructed."
   },
   {
     "animal": "Porcupine",
@@ -87,7 +87,7 @@
     "NextB": "49.281979, -123.003280",
     "NextC": "49.273870, -123.006070",
     "slug": "9428317c",
-    "clue": "this is the clue text for Porcupine"
+    "clue": "Step back! I’ve got my own fencing. Slow and prickly, I mind my business but leave a point."
   },
   {
     "animal": "Raccoon",
@@ -96,7 +96,7 @@
     "NextB": "49.262793, -123.008796",
     "NextC": "49.283284, -123.000972",
     "slug": "25cb9d78",
-    "clue": "this is the clue text for Raccoon"
+    "clue": "Masked mischief leads the way—trash is treasure if you ask the right paws."
   },
   {
     "animal": "Striped Skunk",
@@ -105,7 +105,7 @@
     "NextB": "49.285496, -123.008709",
     "NextC": "49.285429, -123.002089",
     "slug": "58a81168",
-    "clue": "this is the clue text for Striped Skunk"
+    "clue": "Something smells... clue-ish. Follow the trail but hold your nose."
   },
   {
     "animal": "Wolverine",
@@ -114,7 +114,7 @@
     "NextB": "49.272059, -123.003056",
     "NextC": "49.271910, -123.001074",
     "slug": "e7a5c868",
-    "clue": "this is the clue text for Wolverine"
+    "clue": "I cross mountains like myths, snarl at frost, and fight shadows for sport."
   },
   {
     "animal": "American Bison",
@@ -123,7 +123,7 @@
     "NextB": "49.272741, -123.002799",
     "NextC": "49.272741, -122.988080",
     "slug": "ac4932e2",
-    "clue": "this is the clue text for American Bison"
+    "clue": "I thunder without storm and graze with ancient patience."
   },
   {
     "animal": "Bighorn Sheep",
@@ -132,7 +132,7 @@
     "NextB": "49.278490, -123.003078",
     "NextC": "49.266494, -122.985815",
     "slug": "96e7b564",
-    "clue": "this is the clue text for Bighorn Sheep"
+    "clue": "I duel on cliffs, wear my crown in spirals. High places are my kingdom."
   },
   {
     "animal": "Mountain Goat",
@@ -141,7 +141,7 @@
     "NextB": "49.287264, -123.005713",
     "NextC": "49.266711, -122.991923",
     "slug": "afaa7140",
-    "clue": "this is the clue text for Mountain Goat"
+    "clue": "ToDo: Clue for Mountain Goat"
   },
   {
     "animal": "White-tailed Deer",
@@ -150,7 +150,7 @@
     "NextB": "49.280874, -123.002938",
     "NextC": "49.286508, -123.000285",
     "slug": "c00569e5",
-    "clue": "this is the clue text for White-tailed Deer"
+    "clue": "A flick of white, gone in a blink. Forest edge is my realm."
   },
   {
     "animal": "Caribou",
@@ -159,7 +159,7 @@
     "NextB": "49.288700, -123.010590",
     "NextC": "49.281099, -123.011181",
     "slug": "29c2934d",
-    "clue": "this is the clue text for Caribou"
+    "clue": "I migrate like whispers on wind, antlers like maps across tundra thoughts."
   },
   {
     "animal": "Roosevelt Elk",
@@ -168,7 +168,7 @@
     "NextB": "49.267357, -123.007656",
     "NextC": "49.272085, -123.008665",
     "slug": "a031b736",
-    "clue": "this is the clue text for Roosevelt Elk"
+    "clue": "Majestic and mighty, I bugle through mist and vanish in velvet silence."
   },
   {
     "animal": "Moose",
@@ -177,7 +177,7 @@
     "NextB": "49.267456, -123.006565",
     "NextC": "49.277964, -123.003021",
     "slug": "63af1f59",
-    "clue": "this is the clue text for Moose"
+    "clue": "I wade through still waters, legs like stilts. A shadow in the marsh, wearing a crown of branches."
   },
   {
     "animal": "Dog",
@@ -186,7 +186,7 @@
     "NextB": "49.277297, -123.003018",
     "NextC": "49.286508, -123.000285",
     "slug": "0eb129bf",
-    "clue": "this is the clue text for Dog"
+    "clue": "Loyal shadow, I chase joy and bark at wind. I dig for fun and guard for love."
   },
   {
     "animal": "Cat",
@@ -195,7 +195,7 @@
     "NextB": "49.278490, -123.003078",
     "NextC": "49.281170, -123.008791",
     "slug": "48735c4f",
-    "clue": "this is the clue text for Cat"
+    "clue": "It’s hidden where curiosity prowls and naps in sun-warmed silence."
   },
   {
     "animal": "Red Fox",
@@ -204,7 +204,7 @@
     "NextB": "49.268006, -122.985651",
     "NextC": "49.265488, -122.991991",
     "slug": "cd676180",
-    "clue": "this is the clue text for Red Fox"
+    "clue": "The clever one leaves tricks in its tracks"
   },
   {
     "animal": "Coyote",
@@ -213,7 +213,7 @@
     "NextB": "49.268006, -122.985651",
     "NextC": "49.262320, -123.014545",
     "slug": "443d0b41",
-    "clue": "this is the clue text for Coyote"
+    "clue": "I laugh at silence, dine on shadows, and vanish at dawn."
   },
   {
     "animal": "Gray Wolf",
@@ -222,7 +222,7 @@
     "NextB": "49.268141, -123.003416",
     "NextC": "49.286508, -123.000285",
     "slug": "840c91bb",
-    "clue": "this is the clue text for Gray Wolf"
+    "clue": "My pack is my echo. My song splits the night"
   },
   {
     "animal": "Bobcat",
@@ -231,7 +231,7 @@
     "NextB": "49.277297, -123.003018",
     "NextC": "49.266686, -123.006212",
     "slug": "4445f103",
-    "clue": "this is the clue text for Bobcat"
+    "clue": "ToDo: Clue for Bobcat"
   },
   {
     "animal": "Cougar",
@@ -240,7 +240,7 @@
     "NextB": "49.273621, -123.013269",
     "NextC": "49.274577, -123.002979",
     "slug": "3d4fbbbf",
-    "clue": "this is the clue text for Cougar"
+    "clue": "I move mountains with a whisper, seen by few, feared by many."
   },
   {
     "animal": "Canadian Lynx",
@@ -249,7 +249,7 @@
     "NextB": "49.266686, -123.006212",
     "NextC": "49.266711, -122.991923",
     "slug": "a524e566",
-    "clue": "this is the clue text for Canadian Lynx"
+    "clue": "Tufted ears and snowshoe feet, I dance with snowflakes and vanish with wind."
   },
   {
     "animal": "Black Rat",
@@ -258,7 +258,7 @@
     "NextB": "49.283839, -122.997625",
     "NextC": "49.268141, -123.003416",
     "slug": "ba0b005c",
-    "clue": "this is the clue text for Black Rat"
+    "clue": "I scurry unseen, a whisper in walls, a nibble in the night."
   },
   {
     "animal": "Muskrat",
@@ -267,7 +267,7 @@
     "NextB": "49.266686, -123.006212",
     "NextC": "49.272151, -123.014136",
     "slug": "9e62df95",
-    "clue": "this is the clue text for Muskrat"
+    "clue": "Half land, half stream, I build with reeds and vanish with ripples."
   },
   {
     "animal": "House Mouse",
@@ -276,7 +276,7 @@
     "NextB": "49.271151, -123.003014",
     "NextC": "49.272059, -123.003056",
     "slug": "620d8c63",
-    "clue": "this is the clue text for House Mouse"
+    "clue": "Small, silent, seldom seen — but I hear everything."
   },
   {
     "animal": "Masked Shrew",
@@ -285,7 +285,7 @@
     "NextB": "49.285429, -123.002089",
     "NextC": "49.276375, -123.003005",
     "slug": "daf2813c",
-    "clue": "this is the clue text for Masked Shrew"
+    "clue": "Tinier than thoughts, faster than fear, I live in the twitch between heartbeats"
   },
   {
     "animal": "American Pika",
@@ -294,7 +294,7 @@
     "NextB": "49.275268, -123.002835",
     "NextC": "49.268141, -123.003416",
     "slug": "36789b3a",
-    "clue": "this is the clue text for American Pika"
+    "clue": "I chirp from rocks and hoard for winter. Little ghost of the alpine."
   },
   {
     "animal": "Marmot",
@@ -303,7 +303,7 @@
     "NextB": "49.274577, -123.002979",
     "NextC": "49.279291, -123.003029",
     "slug": "c268948c",
-    "clue": "this is the clue text for Marmot"
+    "clue": "I whistle warnings from my rocky throne, dreaming of summer in burrowed books."
   },
   {
     "animal": "Townsend Vole",
@@ -312,7 +312,7 @@
     "NextB": "49.266711, -122.991923",
     "NextC": "49.279291, -123.003029",
     "slug": "ca23e7b2",
-    "clue": "this is the clue text for Townsend Vole"
+    "clue": "I carve mazes in the meadow floor, seen only by moonlight and hawks."
   },
   {
     "animal": "Groundhog",
@@ -321,7 +321,7 @@
     "NextB": "49.262793, -123.008796",
     "NextC": "49.272741, -122.988080",
     "slug": "66e19ad2",
-    "clue": "this is the clue text for Groundhog"
+    "clue": "I forecast with shadow and sleep with the soil. Time is my trick."
   },
   {
     "animal": "Long-tailed Weasel",
@@ -330,7 +330,7 @@
     "NextB": "49.259957, -123.007319",
     "NextC": "49.262320, -123.014545",
     "slug": "e8f357ab",
-    "clue": "this is the clue text for Long-tailed Weasel"
+    "clue": "I dance with death in tall grass, quick as a secret, sharp as a blink."
   },
   {
     "animal": "Douglas Squirrel",
@@ -339,7 +339,7 @@
     "NextB": "49.277297, -123.003018",
     "NextC": "49.272741, -122.988080",
     "slug": "7b654737",
-    "clue": "this is the clue text for Douglas Squirrel"
+    "clue": "I leap from tree to tree, hide what I forget, and chatter secrets to leaves."
   },
   {
     "animal": "Chipmunk",
@@ -348,7 +348,7 @@
     "NextB": "49.271910, -123.001074",
     "NextC": "49.285429, -123.002089",
     "slug": "04ca704f",
-    "clue": "this is the clue text for Chipmunk"
+    "clue": "I dart, I hoard, I chirp in code. Look where the forest hides its giggles."
   },
   {
     "animal": "Townsend Mole",
@@ -357,7 +357,7 @@
     "NextB": "49.266598, -123.002950",
     "NextC": "49.270259, -123.002958",
     "slug": "11d2e04b",
-    "clue": "this is the clue text for Townsend Mole"
+    "clue": "You won’t see it coming. This medallion’s beneath your feet, where light doesn’t reach and secrets root deep"
   },
   {
     "animal": "Humpback Whale",
@@ -366,7 +366,7 @@
     "NextB": "49.262793, -123.008796",
     "NextC": "49.270259, -123.002958",
     "slug": "4a67898c",
-    "clue": "this is the clue text for Humpback Whale"
+    "clue": "I sing in verses only oceans recall. My tail writes waves in blue ink."
   },
   {
     "animal": "Grey whale",
@@ -375,7 +375,7 @@
     "NextB": "49.270615, -122.995507",
     "NextC": "49.281170, -123.008791",
     "slug": "8bd0a0ff",
-    "clue": "this is the clue text for Grey whale"
+    "clue": "Gray as stormclouds, I glide along coasts — ancient and barnacled."
   },
   {
     "animal": "Beluga",
@@ -384,7 +384,7 @@
     "NextB": "49.273870, -123.006070",
     "NextC": "49.275466, -122.990400",
     "slug": "cb39ee7d",
-    "clue": "this is the clue text for Beluga"
+    "clue": "I whistle joy in the white of ice, a ghost with laughter."
   },
   {
     "animal": "Orca",
@@ -393,7 +393,7 @@
     "NextB": "49.266598, -123.002950",
     "NextC": "49.267456, -123.006565",
     "slug": "e071469a",
-    "clue": "this is the clue text for Orca"
+    "clue": "I sing in deep oceans, hunt in harmony, and leap with joy. What black-and-white ballet am I?"
   },
   {
     "animal": "Harbor Porpoise",
@@ -402,7 +402,7 @@
     "NextB": "49.290106, -123.011154",
     "NextC": "49.259957, -123.007319",
     "slug": "c731ccfd",
-    "clue": "this is the clue text for Harbor Porpoise"
+    "clue": "Quiet cousin in shallow seas, I blink and I’m gone."
   },
   {
     "animal": "Sea Lion",
@@ -411,7 +411,7 @@
     "NextB": "49.273861, -123.002984",
     "NextC": "49.290106, -123.011154",
     "slug": "0b51dce4",
-    "clue": "this is the clue text for Sea Lion"
+    "clue": "Barking bard of the dock, I bask in sun and bellow with pride."
   },
   {
     "animal": "Harbor Seal",
@@ -420,7 +420,7 @@
     "NextB": "49.290106, -123.011154",
     "NextC": "49.267456, -123.006565",
     "slug": "656ca2da",
-    "clue": "this is the clue text for Harbor Seal"
+    "clue": "I bob like a riddle in the kelp, vanishing before the answer."
   },
   {
     "animal": "Striped Dolphin",
@@ -429,7 +429,7 @@
     "NextB": "49.270259, -123.002958",
     "NextC": "49.259957, -123.007319",
     "slug": "d7e91d06",
-    "clue": "this is the clue text for Striped Dolphin"
+    "clue": "I race rainbows beneath the waves, stripes slicing surf with speed."
   },
   {
     "animal": "River Otter",
@@ -438,7 +438,7 @@
     "NextB": "49.266494, -122.985815",
     "NextC": "49.276375, -123.003005",
     "slug": "c56a4706",
-    "clue": "this is the clue text for River Otter"
+    "clue": "Otterly confusing? Or just slippery?"
   },
   {
     "animal": "Big Brown Bat",
@@ -447,6 +447,6 @@
     "NextB": "49.266598, -123.002950",
     "NextC": "49.276375, -123.003005",
     "slug": "f8479f3a",
-    "clue": "this is the clue text for Big Brown Bat"
+    "clue": "I see with sound, hang with ease"
   }
 ]

@@ -17,86 +17,21 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     <!-- Leaflet.MarkerCluster JavaScript -->
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-    <script>
-        // Tailwind configuration for consistent typography and styling
-        tailwind.config = {
-            theme: {
-                extend: {},
-            },
-            plugins: [
-                function ({ addBase, theme }) {
-                    addBase({
-                        'h1': { fontSize: theme('fontSize.2xl'), fontWeight: theme('fontWeight.bold'), marginBottom: theme('spacing.3') },
-                        'h2': { fontSize: theme('fontSize.xl'), fontWeight: theme('fontWeight.bold'), marginBottom: theme('spacing.2') },
-                        'h3': { fontSize: theme('fontSize.lg'), fontWeight: theme('fontWeight.bold'), marginBottom: theme('spacing.1') },
-                        'p': { marginBottom: theme('spacing.2') },
-                        'ul': { listStyleType: 'disc', paddingLeft: theme('spacing.6'), marginBottom: theme('spacing.4') },
-                        'ol': { listStyleType: 'decimal', paddingLeft: theme('spacing.6'), marginBottom: theme('spacing.4') },
-                        'li': { marginBottom: theme('spacing.2') },
-                        'blockquote': {
-                            borderLeftWidth: '4px',
-                            borderLeftColor: theme('colors.gray.300'),
-                            paddingLeft: theme('spacing.4'),
-                            fontStyle: 'italic',
-                            marginBottom: theme('spacing.4')
-                        },
-                        'code': {
-                            backgroundColor: theme('colors.gray.100'),
-                            padding: theme('spacing.1'),
-                            borderRadius: theme('borderRadius.sm'),
-                            fontFamily: theme('fontFamily.mono')
-                        },
-                        'pre': {
-                            backgroundColor: theme('colors.gray.100'),
-                            padding: theme('spacing.4'),
-                            borderRadius: theme('borderRadius.lg'),
-                            overflowX: 'auto',
-                            marginBottom: theme('spacing.4')
-                        },
-                        'a': {
-                            color: theme('colors.blue.600'),
-                            textDecoration: 'underline',
-                            '&:hover': {
-                                color: theme('colors.blue.800')
-                            }
-                        },
-                        'img': {
-                            maxWidth: '100%',
-                            height: 'auto',
-                            marginBottom: theme('spacing.4')
-                        },
-                        'table': {
-                            width: '100%',
-                            borderCollapse: 'collapse',
-                            marginBottom: theme('spacing.4')
-                        },
-                        'th, td': {
-                            borderWidth: '1px',
-                            borderColor: theme('colors.gray.300'),
-                            padding: theme('spacing.2'),
-                            textAlign: 'left'
-                        },
-                        'th': {
-                            backgroundColor: theme('colors.gray.100'),
-                            fontWeight: theme('fontWeight.bold')
-                        }
-                    })
-                }
-            ]
-        }
-    </script>
+
+    <script src="tailwind.config.js"></script>
+
 
     <!-- External Dependencies -->
+    <!-- marked is markdown render-->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 
 <body class="bg-gray-100 min-h-screen flex flex-col">
     <!-- Header Section -->
-    <header class="bg-white shadow-md py-4 mb-4">
+    <header class="bg-white shadow-md py-4 mb-4 relative ">
         <div class="container mx-auto px-4">
             <div class="flex items-center justify-between w-full">
-                <a href='./?'><img src="/img/logo.png" alt="Logo" class="h-20 w-auto mr-4"
-                        style="max-height: 4rem;"></a>
+                <a href='./?'><img src="img/logo.png" alt="Logo" class="h-20 w-auto mr-4" style="max-height: 4rem;"></a>
                 <div class="flex-1 flex justify-center">
                     <h1 class="text-4xl font-bold text-gray-800 mb-1">Medallion Hunt</h1>
                 </div>
@@ -107,6 +42,10 @@
                     </svg>
                 </button>
             </div>
+        </div>
+        <!-- Progress Bar -->
+        <div id="medallion-progress-bar" class="w-full absolute left-0 bottom-0 h-3 flex z-10">
+            <!-- Progress bar segments will be injected here -->
         </div>
     </header>
 
@@ -186,7 +125,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#discovered-medallions"
+                        <a href="#Medallions index"
                             class="block p-3 hover:bg-gray-100 rounded-lg flex items-center transition-colors duration-200 border border-transparent hover:border-gray-200">
                             <svg class="w-5 h-5 mr-3 text-blue-600" fill="none" stroke="currentColor"
                                 viewBox="0 0 24 24">
@@ -194,7 +133,7 @@
                                     d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2">
                                 </path>
                             </svg>
-                            <span class="text-gray-700 font-medium">Medallions Information</span>
+                            <span class="text-gray-700 font-medium">Medallions Index</span>
                         </a>
                     </li>
                     <li>
@@ -238,22 +177,17 @@
                 </div>
                 <div class="section-content p-4">
                     <div id="result" class="space-y-1">
-                        <p class="text-xl text-blue-600 font-mono">Welcome to the Medallion Hunt!</p>
                     </div>
                     <div id="medallionDetails" class="mt-2 space-y-2">
                         <!-- Detailed medallion information will be populated here -->
                     </div>
 
-                    <div class="mt-6">
-                        <h3 class="text-lg font-semibold mb-2">Found Medallion</h3>
-                        <div id="found-medallion-list" class="">loading found medallions...</div>
+                    <div class="mt-3">
+                        <h3 class="text-lg font-semibold mb-2">✅ Discovered Medallion</h3>
+                        <div id="found-medallion-list" class="">loading Discovered medallions...</div>
                     </div>
-<!--
-                    <div class="mt-6">
-                        <h3 class="text-lg font-semibold mb-2">Medallion Clues</h3>
-                        <div id="found-medallion-list" class="">loading medallions clues...</div>
-                    </div>
--->
+
+                    <div class="mt-3">To find more medallions see the <a herf='#medallion-map'>🗺️ map</a> or <a herf='#medallions-index'>🔎 clues</a></div>
                 </div>
             </div>
 
@@ -372,7 +306,7 @@
                     </div>
                     <div class="flex items-center">
                         <div class="w-4 h-4 bg-blue-500 rounded-full mr-2"></div>
-                        <span>Undiscovered</span>
+                        <span>Available</span>
                     </div>
 
                 </div>
@@ -380,8 +314,8 @@
         </div>
 
         <!-- Discovered Medallions -->
-        <div id="discovered-medallions" class="collapsible-section bg-white rounded-lg shadow-md mb-4"
-            data-section="discovered-medallions">
+        <div id="Medallions index" class="collapsible-section bg-white rounded-lg shadow-md mb-4"
+            data-section="Medallions index">
             <div class="section-header flex justify-between items-center p-2 cursor-pointer">
                 <h2 class="text-2xl font-bold pl-2 flex items-center">
                     <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -389,7 +323,7 @@
                             d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2">
                         </path>
                     </svg>
-                    Medallions Information
+                    Medallions index
                 </h2>
                 <button class="toggle-section p-2 hover:bg-gray-100 rounded-full">
                     <svg class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor"
@@ -399,19 +333,21 @@
                 </button>
             </div>
             <div class="section-content p-4">
-                <div class="overflow-x-auto">
-                    <table class="min-w-full bg-white border border-gray-300">
-                        <thead>
-                            <tr class="bg-gray-100">
-                                <th class="px-4 py-2 border">Status</th>
-                                <th class="px-4 py-2 border">Animal</th>
-                                <th class="px-4 py-2 border">Location</th>
-                            </tr>
-                        </thead>
-                        <tbody id="medallionTableBody">
-                            <!-- Table rows will be populated here -->
-                        </tbody>
-                    </table>
+                <div class="pb-4">
+                    <h2>✅ Discovered</h2>
+                    <p>Medallions you have scanned and added to your collection</p>
+                    <div id="found-medallion-list2" class="">Loading discovered medallions...</div>
+                </div>
+
+                <div>
+                    <h2>🔍 Available</h2>
+                    <p>Medallions that you have found clues about, but have not found and scanned.</p>
+                    <div id="available-medallion-list" class="">Loading available medallions...</div>
+                </div>
+
+                <div>
+                    <h2>🔒 Locked</h2>
+                    <p>Medallions that you have not found any clues about to unlock</p>
                 </div>
             </div>
         </div>
@@ -449,6 +385,7 @@
         </div>
 
         <!-- Diagnostic Dialog -->
+        <!--
         <div class="collapsible-section bg-yellow-50 border-2 border-yellow-200 rounded-lg shadow-md mb-8"
             data-section="diagnostic">
             <div class="section-header flex justify-between items-center p-4 cursor-pointer">
@@ -464,24 +401,24 @@
                 <div class="bg-white p-4 rounded">
                     <h3 class="font-semibold mb-2">Local Storage Contents:</h3>
                     <pre id="storageDisplay" class="text-sm font-mono whitespace-pre-wrap break-all"></pre>
-                    <div id="undiscoveredLinks" class="mt-4">
-                        <h3 class="font-semibold mb-2">Undiscovered Medallions:</h3>
-                        <div class="grid grid-cols-2 gap-2" id="undiscoveredList">
-                            <!-- Undiscovered links will be populated here -->
+                    <div id="availableLinks" class="mt-4">
+                        <h3 class="font-semibold mb-2">Available Medallions:</h3>
+                        <div class="grid grid-cols-2 gap-2" id="availableList">                            
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        -->
     </main>
 
     <!-- Footer -->
     <footer class="bg-white shadow-md py-4 mt-4">
         <div class="container mx-auto px-4 text-center">
             <p class="text-gray-600">© 2024 Medallion Hunt. All rights reserved.</p>
-            <p class="text-gray-500 text-sm mt-1">Version: 2025-June-14 @11:30am</p>
+            <p class="text-gray-500 text-sm mt-1">Version: 2025-June-15 @11:41pm</p>
             <div class="mt-2 space-x-4">
-                <a href="attributions.html" class="text-blue-600 hover:underline">Attributions</a>
+                <a href="about.html" class="text-blue-600 hover:underline">About</a>
             </div>
         </div>
     </footer>
@@ -510,7 +447,7 @@
             STORY_FIRST_CHAPTER: './story/1-chapter.md',
             STORY_ANIMAL_CHAPTER: './story/${medallion.animal}.md',
             STORY_MILESTONE_CHAPTER: './story/${milestoneNumber}-chapter.md',
-            ABOUT_PROJECT: './about.md',
+            INFO_PROJECT: './info.md',
             ABOUT_ANIMALS: './about-animals.md'
         };
 
@@ -657,53 +594,39 @@
                             <p class="text-2xl font-bold text-green-600">${stats.discovered}</p>
                         </div>
                         <div class="bg-blue-50 p-4 rounded-lg text-center">
-                            <p class="text-sm text-blue-600">Undiscovered</p>
-                            <p class="text-2xl font-bold text-blue-600">${stats.undiscovered}</p>
+                            <p class="text-sm text-blue-600">Available</p>
+                            <p class="text-2xl font-bold text-blue-600">${stats.available}</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg text-center">
-                            <p class="text-sm text-gray-600">Unavailable</p>
-                            <p class="text-2xl font-bold">${stats.unavailable}</p>
+                            <p class="text-sm text-gray-600">Locked </p>
+                            <p class="text-2xl font-bold">${stats.locked}</p>
                         </div>
                     </div>
                 `;
             }
 
             /**
-             * Update the medallion table
-             * @param {Array} tableData - Array of medallion data for the table
+             * Render the medallion progress bar in the header
+             * @param {Object} stats - { discovered, available, locked, total }
              */
-            static updateMedallionTable(tableData) {
-                const tableBody = document.getElementById('medallionTableBody');
-                tableBody.innerHTML = '';
+            static renderMedallionProgressBar(stats) {
+                const bar = document.getElementById('medallion-progress-bar');
+                if (!bar) return;
+                const { discovered, available, locked, total } = stats;
+                const discoveredPct = total ? (discovered / total) * 100 : 0;
+                const availablePct = total ? (available / total) * 100 : 0;
+                const lockedPct = total ? (total - (discovered + available)) / total * 100 : 0;
+                const titleMouseOver = "Discovered: " + discovered +
+                    ", Available: " + available +
+                    ", Locked: " + locked +
+                    ", Total: " + total;
 
-                tableData.forEach(item => {
-                    const row = document.createElement('tr');
-                    const locationCell = item.location === '????' ?
-                        '<td class="px-4 py-2 border">????</td>' :
-                        `<td class="px-4 py-2 border">
-                            <a href="https://www.google.com/maps/search/?api=1&query=${item.location}" 
-                               target="_blank" 
-                               class="text-blue-600 hover:text-blue-800 hover:underline">
-                                ${item.location}
-                            </a>
-                        </td>`;
-
-                    const animalCell = item.animal === '????' ?
-                        '<td class="px-4 py-2 border">????</td>' :
-                        `<td class="px-4 py-2 border">
-                            <a href="?id=${item.slug}" 
-                               class="text-blue-600 hover:text-blue-800 hover:underline">
-                                ${item.animal}
-                            </a>
-                        </td>`;
-
-                    row.innerHTML = `
-                        <td class="px-4 py-2 border ${item.statusClass}">${item.status}</td>
-                        ${animalCell}
-                        ${locationCell}
-                    `;
-                    tableBody.appendChild(row);
-                });
+                bar.innerHTML = `
+                <div class="h-full bg-green-500" style="width: ${discoveredPct}%; transition: width 0.5s;" title="${titleMouseOver}"></div>
+                <div class="h-full bg-blue-500" style="width: ${availablePct}%; transition: width 0.5s;" title="${titleMouseOver}"></div>
+                <div class="h-full bg-gray-300" style="width: ${lockedPct}%; transition: width 0.5s;" title="${titleMouseOver}"></div>
+                `;
+                console.log(titleMouseOver);
             }
 
             /**
@@ -713,29 +636,29 @@
                 if (!SETTINGS_DEVELOPER) return;
 
                 const storageDisplay = document.getElementById('storageDisplay');
-                const undiscoveredList = document.getElementById('undiscoveredList');
+                const availableList = document.getElementById('availableList');
 
                 if (storageDisplay) {
                     const visitedMedallions = DataManager.getVisitedMedallions();
                     storageDisplay.textContent = JSON.stringify(visitedMedallions, null, 2);
                 }
 
-                if (undiscoveredList) {
+                if (availableList) {
                     DataManager.loadMedallionMap().then(medallionMap => {
                         const visitedMedallions = DataManager.getVisitedMedallions();
-                        const undiscoveredMedallions = medallionMap.filter(medallion =>
+                        const availableMedallions = medallionMap.filter(medallion =>
                             !visitedMedallions.includes(medallion.slug)
                         );
 
-                        undiscoveredList.innerHTML = undiscoveredMedallions.map(medallion => `
+                        availableList.innerHTML = availableMedallions.map(medallion => `
                             <a href="?id=${medallion.slug}" 
                                class="text-blue-600 hover:text-blue-800 hover:underline">
                                 ${medallion.animal}
                             </a>
                         `).join('');
                     }).catch(error => {
-                        console.error('Error updating undiscovered list:', error);
-                        undiscoveredList.innerHTML = '<p class="text-red-600">Error loading undiscovered medallions</p>';
+                        console.error('Error updating available list:', error);
+                        availableList.innerHTML = '<p class="text-red-600">Error loading available medallions</p>';
                     });
                 }
             }
@@ -792,7 +715,7 @@
                         </div>
                         <div class="flex items-center">
                             <div class="w-4 h-4 bg-blue-500 rounded-full mr-2"></div>
-                            <span>Undiscovered</span>
+                            <span>Available</span>
                         </div>
                     `;
 
@@ -892,7 +815,7 @@
                         disableClusteringAtZoom: 15 // Disable clustering at high zoom levels
                     });
 
-                    const undiscoveredCluster = L.markerClusterGroup({
+                    const availableCluster = L.markerClusterGroup({
                         iconCreateFunction: function (cluster) {
                             return L.divIcon({
                                 html: `<div class="bg-blue-500 text-white rounded-full w-8 h-8 flex items-center justify-center">${cluster.getChildCount()}</div>`,
@@ -923,7 +846,7 @@
                         const coords = DataManager.convertLocationToCoordinates(medallion.location);
                         if (!coords) return;
 
-                        // Skip unavailable medallions
+                        // Skip locked medallions
                         if (!visitedMedallions.includes(medallion.slug) && !availableLocations.has(medallion.location)) {
                             return;
                         }
@@ -931,7 +854,7 @@
                         // Create a circle to show the search radius
                         const circle = L.circle([coords.lat, coords.lng], {
                             radius: 20, // 20 meters radius
-                            color: visitedMedallions.includes(medallion.slug) ? '#22c55e' : '#3b82f6', // green for discovered, blue for undiscovered
+                            color: visitedMedallions.includes(medallion.slug) ? '#22c55e' : '#3b82f6', // green for discovered, blue for available
                             fillColor: visitedMedallions.includes(medallion.slug) ? '#22c55e' : '#3b82f6',
                             fillOpacity: 0.2,
                             weight: 3 // Increased border thickness
@@ -949,9 +872,9 @@
                                     View Medallion Details →
                                 </a>
                             </div>` :
-                            // Undiscovered medallion popup
+                            // Available medallion popup
                             `<div class="p-2">
-                                <h3 class="font-bold mb-1">Undiscovered Medallion</h3>
+                                <h3 class="font-bold mb-1">Available Medallion</h3>
                                 <p class="text-sm text-blue-600 mb-2">🔍 Available to Find</p>
                                 <p class="text-sm text-gray-600">Search within 20 meters of this location to find the hidden medallion.</p>
                             </div>`;
@@ -961,13 +884,13 @@
                         if (visitedMedallions.includes(medallion.slug)) {
                             discoveredCluster.addLayer(circle);
                         } else {
-                            undiscoveredCluster.addLayer(circle);
+                            availableCluster.addLayer(circle);
                         }
                     });
 
                     // Add clusters to map
                     window.medallionMap.addLayer(discoveredCluster);
-                    window.medallionMap.addLayer(undiscoveredCluster);
+                    window.medallionMap.addLayer(availableCluster);
 
                     // Fit map to show all markers
                     const bounds = L.latLngBounds(medallionMap
@@ -1020,6 +943,55 @@
                 }
                 return medallionMap.find(item => item.slug === slugId);
             }
+
+
+            /**
+             * Get discovered medallions (those in local storage)
+             * @param {Array} medallionMap
+             * @returns {Array}
+             */
+            static getDiscoveredMedallions(medallionMap) {
+                const visitedSlugs = this.getVisitedMedallions();
+                return medallionMap.filter(m => visitedSlugs.includes(m.slug));
+            }
+
+            /**
+             * Get available medallions (linked from discovered medallions)
+             * @param {Array} medallionMap
+             * @returns {Array}
+             */
+            static getAvailableMedallions(medallionMap) {
+                // Available medallions are those whose slug matches any NextA/NextB/NextC of discovered medallions
+                const discovered = this.getDiscoveredMedallions(medallionMap);
+                const availableGPS = new Set();
+                discovered.forEach(medallion => {
+                    if (medallion && medallion.NextA) availableGPS.add(medallion.NextA);
+                    if (medallion && medallion.NextB) availableGPS.add(medallion.NextB);
+                    if (medallion && medallion.NextC) availableGPS.add(medallion.NextC);
+                });
+
+                // We got the GPS locations of the available medallions
+                // We need to search the medallionMap to find 
+                return medallionMap.filter(m =>
+                    !this.getVisitedMedallions().includes(m.slug) &&
+                    availableGPS.has(m.location)
+                );
+            }
+
+            /**
+             * Get locked medallions (not available or discovered)
+             * @param {Array} medallionMap
+             * @returns {Array}
+             */
+            static getLockedMedallions(medallionMap) {
+                const discoveredSlugs = new Set(this.getDiscoveredMedallions(medallionMap).map(m => m.slug));
+                const availableSlugs = new Set(this.getAvailableMedallions(medallionMap).map(m => m.slug));
+                return medallionMap.filter(m =>
+                    !discoveredSlugs.has(m.slug) &&
+                    !availableSlugs.has(m.slug)
+                );
+            }
+
 
             /**
              * Get visited medallions from storage
@@ -1331,7 +1303,7 @@
             static async loadAboutProject() {
                 const projectInfoDiv = document.getElementById('projectInfo');
                 try {
-                    const response = await fetch(SETTINGS_PATHS.ABOUT_PROJECT);
+                    const response = await fetch(SETTINGS_PATHS.INFO_PROJECT);
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
                     }
@@ -1442,7 +1414,7 @@
                                         <p><span class="font-semibold">Status:</span> 
                                             ${visitedMedallions.includes(currentMedallion.slug) ?
                                     '<span class="text-green-600">Discovered</span>' :
-                                    '<span class="text-blue-600">Undiscovered</span>'}
+                                    '<span class="text-blue-600">Available</span>'}
                                         </p>
                                     </div>
                                     -->
@@ -1467,21 +1439,21 @@
                         let status, statusText, statusClass, animal, location;
 
                         if (visitedMedallions.includes(medallion.slug)) {
-                            status = '✅ Discovered';
-                            statusText = 'Discovered';
-                            statusClass = 'text-green-600';
+                            status = '✅';
+                            statusText = 'Discovered - Scanned and added to your collection';
+                            statusClass = 'bg-green-100 text-green-800';
                             animal = medallion.animal;
                             location = medallion.location;
                         } else if (availableLocations.has(medallion.location)) {
-                            status = '🔍 Undiscovered';
-                            statusText = 'Undiscovered';
-                            statusClass = 'text-blue-600';
-                            animal = '????';
+                            status = '🔍';
+                            statusText = 'Available - Clues unlocked — but not scanned yet';
+                            statusClass = 'bg-blue-100 text-blue-800';
+                            animal = medallion.animal;
                             location = medallion.location;
                         } else {
-                            status = '⏳ Unavailable';
-                            statusText = 'Unavailable';
-                            statusClass = 'text-gray-500';
+                            status = '⏳';
+                            statusText = 'Locked - Coming soon — hidden until you unlock the trail';
+                            statusClass = 'bg-gray-100 text-gray-500';
                             animal = '????';
                             location = '????';
                         }
@@ -1500,21 +1472,14 @@
                     const stats = {
                         total: medallionMap.length,
                         discovered: visitedMedallions.length,
-                        undiscovered: tableData.filter(item => item.statusText === 'Undiscovered').length,
-                        unavailable: tableData.filter(item => item.statusText === 'Unavailable').length
+                        available: DataManager.getAvailableMedallions(medallionMap).length,
+                        locked: DataManager.getLockedMedallions(medallionMap).length
                     };
 
                     // Update UI
                     UIManager.updateStatsDisplay(stats);
-                    UIManager.updateMedallionTable(tableData.sort((a, b) => {
-                        const statusOrder = {
-                            'Discovered': 0,
-                            'Undiscovered': 1,
-                            'Unavailable': 2
-                        };
-                        return statusOrder[a.statusText] - statusOrder[b.statusText];
-                    }));
                     UIManager.initializeMedallionMap(medallionMap, visitedMedallions);
+                    UIManager.renderMedallionProgressBar(stats);
 
                 } catch (error) {
                     console.error('Error in updateMedallionDisplay:', error);
@@ -1530,6 +1495,8 @@
             }
         }
 
+
+
         // Initialize the application
         document.addEventListener('DOMContentLoaded', async () => {
             // Initialize UI components
@@ -1543,6 +1510,9 @@
                 }
             });
 
+            // Get the database
+            const medallionMap = await DataManager.loadMedallionMap();
+
             // Load initial content
             await AppState.updateMedallionDisplay();
             await ContentManager.loadStoryChapters();
@@ -1554,7 +1524,6 @@
             const urlParams = new URLSearchParams(window.location.search);
             const currentSlugId = urlParams.get('id');
             if (currentSlugId) {
-                const medallionMap = await DataManager.loadMedallionMap();
                 const currentMedallion = DataManager.getMedallionBySlugId(medallionMap, currentSlugId);
                 if (currentMedallion) {
                     // Add the medallion to visited storage when clicked
@@ -1573,41 +1542,51 @@
 
             // Load the foundMedallionList
             const foundMedallionList = document.getElementById('found-medallion-list');
-            if (foundMedallionList) {
+            const foundMedallionList2 = document.getElementById('found-medallion-list2');
+            if (foundMedallionList && foundMedallionList2) {
                 const visitedMedallions = DataManager.getVisitedMedallions();
-                DataManager.loadMedallionMap().then(medallionMap => {
-                    const found = visitedMedallions.map(slug => {
-                        const medallion = medallionMap.find(m => m.slug === slug);
-                        if (medallion) {
-                            return `<a href="?id=${medallion.slug}" class="text-blue-600 hover:underline">${medallion.animal}</a>`;
-                        } else {
-                            return slug;
-                        }
-                    });
-                    foundMedallionList.innerHTML = found.length > 0 ? found.join(', ') : '<span class="text-gray-400">None found yet</span>';
-                });
-            }
-
-            // Update the Medallion Clues section with undiscovered medallions and their clues
-            const medallionCluesList = document.querySelectorAll('#medallion-info .mt-6 > #found-medallion-list')[1];
-            if (medallionCluesList) {
-                const visitedMedallions = DataManager.getVisitedMedallions();
-                DataManager.loadMedallionMap().then(medallionMap => {
-                    const undiscovered = medallionMap.filter(m => !visitedMedallions.includes(m.slug));
-                    if (undiscovered.length === 0) {
-                        medallionCluesList.innerHTML = '<span class="text-gray-400">No clues left! All medallions found.</span>';
+                const found = visitedMedallions.map(slug => {
+                    const medallion = medallionMap.find(m => m.slug === slug);
+                    if (medallion) {
+                        return `<a href="?id=${medallion.slug}" class="text-blue-600 hover:underline">${medallion.animal}</a>`;
                     } else {
-                        medallionCluesList.innerHTML = '<ul class="list-disc pl-6">' +
-                            undiscovered.map(m =>
-                                `<li><span class="font-semibold">Location:</span> ${m.location}<br><span class="font-semibold">Clue:</span> ${m.clue}</li>`
-                            ).join('') + '</ul>';
+                        return slug;
                     }
                 });
+                foundMedallionList.innerHTML = found.length > 0 ? found.join(', ') : '<span class="text-gray-400">None found yet</span>';
+                foundMedallionList2.innerHTML = found.length > 0 ? found.join(', ') : '<span class="text-gray-400">None found yet</span>';
+
             }
 
 
+            // available-medallion-list
+            const availableMedallionList = document.getElementById('available-medallion-list');
+            if (availableMedallionList) {
+                const availableMedallions = DataManager.getAvailableMedallions(medallionMap);
+                console.log("availableMedallions:", availableMedallions);
+
+                let outputHTML = '';
+                for (let i = 0; i < availableMedallions.length; i++) {
+                    outputHTML += `<li>
+                    <a href="https://www.google.com/maps/search/?api=1&query=${availableMedallions[i].location}" 
+                        target="_blank" 
+                        class="text-blue-600 hover:text-blue-800 hover:underline">${availableMedallions[i].location}</a><br />${availableMedallions[i].clue} 
+                    </li>`
+                }
+                availableMedallionList.innerHTML = '<ul>' + outputHTML + '</ul>';
+            }
         });
     </script>
 </body>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JN7MW2BV0C"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-JN7MW2BV0C');
+</script>
 
 </html>

@@ -1,1 +1,0 @@
-ToDo: Red-tailed Chipmunk
