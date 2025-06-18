@@ -41,9 +41,9 @@
   {
     "animal": "American Marten",
     "location": "49.271431, -123.012553",
-    "NextA": "f8479f3a",
-    "NextB": "cb39ee7d",
-    "NextC": "620d8c63",
+    "NextA": "6631d301",
+    "NextB": "c2393dd7",
+    "NextC": "29c2934d",
     "slug": "de4e1eff",
     "clue": "I slip through branches like whispers, where snow and secrets gather.",
     "notes": "2025-june-17: Poster v1 placed"
@@ -69,8 +69,8 @@
   {
     "animal": "European Rabbit",
     "location": "49.267443, -123.007541",
-    "NextA": "ea49f5ee",
-    "NextB": "620d8c63",
+    "NextA": "c2393dd7",
+    "NextB": "29c2934d",
     "NextC": "443d0b41",
     "slug": "6631d301",
     "clue": "I vanish down holes and multiply in tales. Where the thump of feet echoes, look below.",
@@ -79,9 +79,9 @@
   {
     "animal": "Beaver",
     "location": "49.272120, -123.002937",
-    "NextA": "443d0b41",
-    "NextB": "656ca2da",
-    "NextC": "c56a4706",
+    "NextA": "29c2934d",
+    "NextB": "443d0b41",
+    "NextC": "840c91bb",
     "slug": "c2393dd7",
     "clue": "Damn! This clue is well-constructed.",
     "notes": "2025-june-17: Poster v1 placed"

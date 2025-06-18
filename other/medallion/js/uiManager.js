@@ -398,10 +398,10 @@ export class UIManager {
             }
 
             const circle = L.circle([coords.lat, coords.lng], {
-                radius: 20,
+                radius: 30,
                 color: visitedMedallions.includes(medallion.slug) ? '#22c55e' : '#3b82f6',
                 fillColor: visitedMedallions.includes(medallion.slug) ? '#22c55e' : '#3b82f6',
-                fillOpacity: 0.2,
+                fillOpacity: 0.5,
                 weight: 3
             });
 
