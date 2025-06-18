@@ -1,5 +1,26 @@
 import { STORAGE_KEYS, SETTINGS_PATHS } from './config.js';
 
+// Generate an RFC4122 version 4 UUID. Uses browser crypto if available
+// and falls back to Math.random when crypto is not present.
+function generateUUID() {
+    if (window.crypto && typeof window.crypto.randomUUID === 'function') {
+        return window.crypto.randomUUID();
+    }
+    const bytes = new Uint8Array(16);
+    if (window.crypto && typeof window.crypto.getRandomValues === 'function') {
+        window.crypto.getRandomValues(bytes);
+    } else {
+        for (let i = 0; i < bytes.length; i++) {
+            bytes[i] = Math.floor(Math.random() * 256);
+        }
+    }
+    bytes[6] = (bytes[6] & 0x0f) | 0x40;
+    bytes[8] = (bytes[8] & 0x3f) | 0x80;
+    const hex = [...bytes].map(b => b.toString(16).padStart(2, '0')).join('');
+    return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20)}`;
+}
+
+
 export class DataManager {
     /**
      * Retrieve the medallion map JSON from the server.
@@ -132,6 +153,20 @@ export class DataManager {
         localStorage.removeItem(STORAGE_KEYS.USER_ID);
         window.history.replaceState({}, document.title, window.location.pathname);
         window.location.reload();
+    }
+
+
+
+    static getUserID() {
+        let userId = localStorage.getItem(STORAGE_KEYS.USER_ID);
+        if (!userId) {
+            userId = generateUUID();
+            localStorage.setItem(STORAGE_KEYS.USER_ID, userId);
+            console.log('Generated user_id:', userId);
+        } else {
+            console.log('Existing user_id:', userId);
+        }
+        return userId;
     }
 
     /**

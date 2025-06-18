@@ -2,27 +2,6 @@ import { UIManager } from './uiManager.js';
 import { DataManager } from './dataManager.js';
 import { ContentManager } from './contentManager.js';
 import { AppState } from './appState.js';
-import { STORAGE_KEYS } from './config.js';
-
-// Generate an RFC4122 version 4 UUID. Uses browser crypto if available
-// and falls back to Math.random when crypto is not present.
-function generateUUID() {
-    if (window.crypto && typeof window.crypto.randomUUID === 'function') {
-        return window.crypto.randomUUID();
-    }
-    const bytes = new Uint8Array(16);
-    if (window.crypto && typeof window.crypto.getRandomValues === 'function') {
-        window.crypto.getRandomValues(bytes);
-    } else {
-        for (let i = 0; i < bytes.length; i++) {
-            bytes[i] = Math.floor(Math.random() * 256);
-        }
-    }
-    bytes[6] = (bytes[6] & 0x0f) | 0x40;
-    bytes[8] = (bytes[8] & 0x3f) | 0x80;
-    const hex = [...bytes].map(b => b.toString(16).padStart(2, '0')).join('');
-    return `${hex.slice(0,8)}-${hex.slice(8,12)}-${hex.slice(12,16)}-${hex.slice(16,20)}-${hex.slice(20)}`;
-}
 
 // Access the marked library loaded globally via script tag
 const marked = window.marked;
@@ -46,14 +25,7 @@ if (!marked) {
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         console.log('Initializing Medallion Hunt');
-        let userId = localStorage.getItem(STORAGE_KEYS.USER_ID);
-        if (!userId) {
-            userId = generateUUID();
-            localStorage.setItem(STORAGE_KEYS.USER_ID, userId);
-            console.log('Generated user_id:', userId);
-        } else {
-            console.log('Existing user_id:', userId);
-        }
+
         console.log('Checking for required libraries');
         if (!window.L) {
             console.error('Leaflet library is missing or failed to load.');
@@ -80,6 +52,8 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         console.log('Loading medallion map...');
         const medallionMap = await DataManager.loadMedallionMap();
+        DataManager.getUserID();
+
         console.log('Initializing map UI');
         UIManager.initializeMedallionMap(medallionMap, DataManager.getVisitedMedallions());
 
@@ -120,13 +94,30 @@ document.addEventListener('DOMContentLoaded', async () => {
         const foundMedallionList2 = document.getElementById('found-medallion-list2');
         if (foundMedallionList && foundMedallionList2) {
             const visitedMedallions = DataManager.getVisitedMedallions();
+            // Color palette for animal tags
+            const animalColors = [
+                'bg-red-200', 'bg-orange-200', 'bg-yellow-200', 'bg-green-200', 'bg-teal-200',
+                'bg-blue-200', 'bg-indigo-200', 'bg-purple-200', 'bg-pink-200', 'bg-rose-200',
+                'bg-lime-200', 'bg-emerald-200', 'bg-cyan-200', 'bg-fuchsia-200', 'bg-violet-200',
+                'bg-sky-200', 'bg-amber-200', 'bg-stone-200', 'bg-zinc-200'
+            ];
+            // Assign a color based on animal name hash
+            function getAnimalColor(animal) {
+                let hash = 0;
+                for (let i = 0; i < animal.length; i++) {
+                    hash = animal.charCodeAt(i) + ((hash << 5) - hash);
+                }
+                return animalColors[Math.abs(hash) % animalColors.length];
+            }
             const found = visitedMedallions.map(slug => {
                 const medallion = medallionMap.find(m => m.slug === slug);
-                return medallion ? `<a href="?id=${medallion.slug}" class="text-blue-600 hover:underline">${medallion.animal}</a>` : slug;
+                if (!medallion) return slug;
+                const colorClass = getAnimalColor(medallion.animal);
+                return `<a href="?id=${medallion.slug}" class="inline-block px-3 py-1 m-1 rounded border border-gray-400 ${colorClass} text-black font-semibold shadow hover:scale-105 transition-transform cursor-pointer" title="View details for ${medallion.animal}">${medallion.animal}</a>`;
             });
             console.log(`Displaying ${found.length} discovered medallions`);
-            foundMedallionList.innerHTML = found.length > 0 ? found.join(', ') : '<span class="text-gray-400">None found yet</span>';
-            foundMedallionList2.innerHTML = found.length > 0 ? found.join(', ') : '<span class="text-gray-400">None found yet</span>';
+            foundMedallionList.innerHTML = found.length > 0 ? found.join('') : '<span class="text-gray-400">None found yet</span>';
+            foundMedallionList2.innerHTML = found.length > 0 ? found.join('') : '<span class="text-gray-400">None found yet</span>';
         } else {
             console.warn('Medallion list elements missing');
         }
@@ -135,11 +126,34 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (availableMedallionList) {
             const availableMedallions = DataManager.getAvailableMedallions(medallionMap);
             console.log(`Listing ${availableMedallions.length} available medallions`);
+            // Use the same color palette and hash function as above
+            const animalColors = [
+                'bg-red-200', 'bg-orange-200', 'bg-yellow-200', 'bg-green-200', 'bg-teal-200',
+                'bg-blue-200', 'bg-indigo-200', 'bg-purple-200', 'bg-pink-200', 'bg-rose-200',
+                'bg-lime-200', 'bg-emerald-200', 'bg-cyan-200', 'bg-fuchsia-200', 'bg-violet-200',
+                'bg-sky-200', 'bg-amber-200', 'bg-stone-200', 'bg-zinc-200'
+            ];
+            function getAnimalColor(animal) {
+                let hash = 0;
+                for (let i = 0; i < animal.length; i++) {
+                    hash = animal.charCodeAt(i) + ((hash << 5) - hash);
+                }
+                return animalColors[Math.abs(hash) % animalColors.length];
+            }
             let outputHTML = '';
             for (let i = 0; i < availableMedallions.length; i++) {
-                outputHTML += `<li><a href="https://www.google.com/maps/search/?api=1&query=${availableMedallions[i].location}" target="_blank" class="text-blue-600 hover:text-blue-800 hover:underline">${availableMedallions[i].location}</a><br />${availableMedallions[i].clue}</li>`;
+                const medallion = availableMedallions[i];
+                const colorClass = getAnimalColor(medallion.animal);
+                outputHTML += `<li class="mb-2">
+                    <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(medallion.location)}" target="_blank"
+                        class="inline-block px-3 py-1 font-mono rounded border border-gray-400 ${colorClass} text-black font-semibold shadow hover:scale-105 transition-transform cursor-pointer mr-2 mb-1"
+                        title="Open location for ${medallion.animal}">
+                        ${medallion.location}
+                    </a>
+                    <span class="text-gray-700">${medallion.clue}</span>
+                </li>`;
             }
-            availableMedallionList.innerHTML = '<ul>' + outputHTML + '</ul>';
+            availableMedallionList.innerHTML = '<ul class="list-none pl-0">' + outputHTML + '</ul>';
         } else {
             console.warn('Available medallion list element missing');
         }
