@@ -1,12 +1,13 @@
 [
   {
     "animal": "Black Bear",
-    "location": "49.267456, -123.006565",
-    "NextA": "afaa7140",
-    "NextB": "656ca2da",
-    "NextC": "ba0b005c",
+    "location": "49.273588, -123.003095",
+    "NextA": "c9aad494",
+    "NextB": "7c868bdc",
+    "NextC": "de4e1eff",
     "slug": "5b4a2c42",
-    "clue": "I fish without rod, climb without hands, and sleep through the snow. Who am I?"
+    "clue": "I fish without rod, climb without hands, and sleep through the snow. Who am I?",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Brown Bear",
@@ -19,30 +20,33 @@
   },
   {
     "animal": "Grizzly Bear",
-    "location": "49.270259, -123.002958",
-    "NextA": "620d8c63",
-    "NextB": "ba0b005c",
-    "NextC": "4445f103",
+    "location": "49.281865, -122.978291",
+    "NextA": "7c868bdc",
+    "NextB": "de4e1eff",
+    "NextC": "6631d301",
     "slug": "c9aad494",
-    "clue": "Don’t go bear-footed — this clue is grizzly important."
+    "clue": "Don’t go bear-footed — this clue is grizzly important.",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "American Badger",
-    "location": "49.271151, -123.003014",
-    "NextA": "7b654737",
-    "NextB": "58a81168",
-    "NextC": "3a772a09",
+    "location": "49.273830, -123.012891",
+    "NextA": "de4e1eff",
+    "NextB": "6631d301",
+    "NextC": "c2393dd7",
     "slug": "7c868bdc",
-    "clue": "I dig my truth, fierce in tunnels, bold in stripe. Who guards the underground?"
+    "clue": "I dig my truth, fierce in tunnels, bold in stripe. Who guards the underground?",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "American Marten",
-    "location": "49.272059, -123.003056",
+    "location": "49.271431, -123.012553",
     "NextA": "f8479f3a",
     "NextB": "cb39ee7d",
     "NextC": "620d8c63",
     "slug": "de4e1eff",
-    "clue": "I slip through branches like whispers, where snow and secrets gather."
+    "clue": "I slip through branches like whispers, where snow and secrets gather.",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "American Mink",
@@ -64,21 +68,23 @@
   },
   {
     "animal": "European Rabbit",
-    "location": "49.274577, -123.002979",
+    "location": "49.267443, -123.007541",
     "NextA": "ea49f5ee",
     "NextB": "620d8c63",
     "NextC": "443d0b41",
     "slug": "6631d301",
-    "clue": "I vanish down holes and multiply in tales. Where the thump of feet echoes, look below."
+    "clue": "I vanish down holes and multiply in tales. Where the thump of feet echoes, look below.",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Beaver",
-    "location": "49.275268, -123.002835",
+    "location": "49.272120, -123.002937",
     "NextA": "443d0b41",
     "NextB": "656ca2da",
     "NextC": "c56a4706",
     "slug": "c2393dd7",
-    "clue": "Damn! This clue is well-constructed."
+    "clue": "Damn! This clue is well-constructed.",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Porcupine",
@@ -154,12 +160,13 @@
   },
   {
     "animal": "Caribou",
-    "location": "49.285429, -123.002089",
-    "NextA": "04ca704f",
-    "NextB": "0eb129bf",
-    "NextC": "8bd0a0ff",
+    "location": "49.276170, -123.003029",
+    "NextA": "443d0b41",
+    "NextB": "840c91bb",
+    "NextC": "4445f103",
     "slug": "29c2934d",
-    "clue": "I migrate like whispers on wind, antlers like maps across tundra thoughts."
+    "clue": "I migrate like whispers on wind, antlers like maps across tundra thoughts.",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Roosevelt Elk",
@@ -208,30 +215,33 @@
   },
   {
     "animal": "Coyote",
-    "location": "49.272151, -123.014136",
-    "NextA": "cd676180",
-    "NextB": "c268948c",
-    "NextC": "840c91bb",
+    "location": "49.279774, -122.975455",
+    "NextA": "840c91bb",
+    "NextB": "4445f103",
+    "NextC": "a524e566",
     "slug": "443d0b41",
-    "clue": "I laugh at silence, dine on shadows, and vanish at dawn."
+    "clue": "I laugh at silence, dine on shadows, and vanish at dawn.",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Gray Wolf",
-    "location": "49.262320, -123.014545",
-    "NextA": "96e7b564",
-    "NextB": "642cdc6f",
-    "NextC": "a031b736",
+    "location": "49.267482, -123.006104",
+    "NextA": "4445f103",
+    "NextB": "a524e566",
+    "NextC": "36789b3a",
     "slug": "840c91bb",
-    "clue": "My pack is my echo. My song splits the night"
+    "clue": "My pack is my echo. My song splits the night",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Bobcat",
-    "location": "49.270615, -122.995507",
-    "NextA": "e7a5c868",
-    "NextB": "25cb9d78",
-    "NextC": "d7e91d06",
+    "location": "49.279289, -122.974793",
+    "NextA": "a524e566",
+    "NextB": "36789b3a",
+    "NextC": "7b654737",
     "slug": "4445f103",
-    "clue": "ToDo: Clue for Bobcat"
+    "clue": "ToDo: Clue for Bobcat",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Cougar",
@@ -244,12 +254,13 @@
   },
   {
     "animal": "Canadian Lynx",
-    "location": "49.275466, -122.990400",
-    "NextA": "cd676180",
-    "NextB": "d7e91d06",
-    "NextC": "36789b3a",
+    "location": "49.275701, -122.970238",
+    "NextA": "36789b3a",
+    "NextB": "7b654737",
+    "NextC": "f8479f3a",
     "slug": "a524e566",
-    "clue": "Tufted ears and snowshoe feet, I dance with snowflakes and vanish with wind."
+    "clue": "Tufted ears and snowshoe feet, I dance with snowflakes and vanish with wind.",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Black Rat",
@@ -289,12 +300,13 @@
   },
   {
     "animal": "American Pika",
-    "location": "49.266711, -122.991923",
-    "NextA": "0eb129bf",
-    "NextB": "c2393dd7",
-    "NextC": "642cdc6f",
+    "location": "49.273070, -123.011650",
+    "NextA": "7b654737",
+    "NextB": "f8479f3a",
+    "NextC": "5b4a2c42",
     "slug": "36789b3a",
-    "clue": "I chirp from rocks and hoard for winter. Little ghost of the alpine."
+    "clue": "I chirp from rocks and hoard for winter. Little ghost of the alpine.",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Marmot",
@@ -334,12 +346,13 @@
   },
   {
     "animal": "Douglas Squirrel",
-    "location": "49.273870, -123.006070",
-    "NextA": "e8f357ab",
-    "NextB": "25cb9d78",
-    "NextC": "3d4fbbbf",
+    "location": "49.269702, -123.013192",
+    "NextA": "f8479f3a",
+    "NextB": "5b4a2c42",
+    "NextC": "c9aad494",
     "slug": "7b654737",
-    "clue": "I leap from tree to tree, hide what I forget, and chatter secrets to leaves."
+    "clue": "I leap from tree to tree, hide what I forget, and chatter secrets to leaves.",
+    "notes": "2025-june-17: Poster v1 placed"
   },
   {
     "animal": "Chipmunk",
@@ -442,11 +455,12 @@
   },
   {
     "animal": "Big Brown Bat",
-    "location": "49.273621, -123.013269",
-    "NextA": "66e19ad2",
-    "NextB": "ca23e7b2",
-    "NextC": "9428317c",
+    "location": "49.272128, -123.008682",
+    "NextA": "5b4a2c42",
+    "NextB": "c9aad494",
+    "NextC": "7c868bdc",
     "slug": "f8479f3a",
-    "clue": "I see with sound, hang with ease"
+    "clue": "I see with sound, hang with ease",
+    "notes": "2025-june-17: Poster v1 placed"
   }
 ]

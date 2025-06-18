@@ -4,7 +4,16 @@ export const STORAGE_KEYS = {
     USER_ID: 'user_id'
 };
 
-export const SETTINGS_DEVELOPER = false; // Set to true to enable developer features
+// Returns true if the URL contains ?mode=developer
+function isDeveloperMode() {
+    if (typeof window !== 'undefined' && window.location && window.location.search) {
+        const params = new URLSearchParams(window.location.search);
+        return params.get('mode') === 'developer';
+    }
+    return false;
+}
+
+export const SETTINGS_DEVELOPER = isDeveloperMode(); // Now determined by URL parameter
 
 export const SETTINGS_PATHS = {
     MEDALLION_MAP: './medallion-map.json',
