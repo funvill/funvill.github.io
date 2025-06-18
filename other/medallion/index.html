@@ -443,4 +443,28 @@
     gtag('config', 'G-JN7MW2BV0C');
 </script>
 
+<script type="module">
+    import { DataManager } from './js/DataManager.js';
+
+    // Get the id from the url. 
+    // Then find the associated animal name for that ID
+    // Then trigger a gtag event with the animal
+    (async () => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const currentSlugId = urlParams.get('id');
+        if (!currentSlugId) return;
+        
+        const medallionMap = await DataManager.loadMedallionMap();
+        const currentMedallion = DataManager.getMedallionBySlugId(medallionMap, currentSlugId);
+        if (currentMedallion && currentMedallion.animal) {
+            console.log(`Event: Scanned ${currentMedallion.animal}`);
+            gtag('event', `Scanned ${currentMedallion.animal}`);
+        } else {
+            console.log(`Event: Scanned Unknown Animal. Slug: ${currentSlugId}`);
+            gtag('event', 'Scanned Unknown Animal');
+        }
+
+    })();
+</script>
+
 </html>
