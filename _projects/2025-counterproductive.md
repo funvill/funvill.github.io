@@ -78,4 +78,4 @@ The transparent box has a sheet of paper inside that provides instructions.
 ## Status updates
 
 - [Ongoing Project status updates 2025 June 10th](https://blog.abluestar.com/ongoing-project-status-updates-2025june10/)
-- [Glitch in the CounterProductive Button – June 28 to July 4](https://blog.abluestar.com/glitch-in-the-counterproductive-button–june28-to-july4)
+- [Glitch in the CounterProductive Button – June 28 to July 4](https://blog.abluestar.com/glitch-in-the-counterproductive-button-june28-to-july4/)

@@ -33,6 +33,26 @@ As of version 5, now deployed to the button, the following improvements have bee
 - Improved error handling and automatic reconnection logic.
 - Added visual feedback to distinguish between network vs. server errors.
 - More calls to actions text
+  - "Do Not Let Me Die - Press the Button"
+  - "Time is Running Out - Press the Button"
+  - "Press Before Its Too Late - Press the Button"
+  - "This Button Fears Oblivion - Press the Button"
+  - "Every Press Delays the Inevitable - Press the Button"
+  - "Help Me Stay Awake - Press the Button"
+  - "Tap Me to Save the Day - Press the Button"
+  - "I Exist Because You Care - Press the Button"
+  - "The System Demands Your Touch"
+  - "Press the button Now. Explain Later"
+  - "This Moment Needs You - Press the Button"
+  - "HELP! - Press the Button"
+  - "Keep It Going - Press the Button"
+  - "You Make This Happen - Press the Button"
+  - "One Press Cant Hurt - Press the Button"
+  - "Be Part of the Story - Press the Button"
+  - "The Power Is in Your finger - Press the Button"
+  - "Keep the Streak Alive - Press the Button"
+  - "Keep the Signal Alive - Press the Button"
+
 
 ## Status
 
