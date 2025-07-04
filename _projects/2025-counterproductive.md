@@ -61,8 +61,6 @@ A 8x32 RED led matrix is used for the countdown timer and primary display. The d
 
 The transparent box has a sheet of paper inside that provides instructions.
 
-
-
 ## Inspiration and Prior art
 
 - [Useless_machine](https://en.m.wikipedia.org/wiki/Useless_machine) - Is a device whose only function is to turn itself off.
@@ -77,3 +75,7 @@ The transparent box has a sheet of paper inside that provides instructions.
 - **Does the button make a sound when you press it?** - No, I didn't want to annoy the residence around the park
 - **Why are you so concerned about people thinking it is a bomb?** - I don't want to cause mischief or fear in others. Art projects like this have been falsely reported as a bomb 💣 before [2007 Boston Mooninite panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic).
 
+## Status updates
+
+- [Ongoing Project status updates 2025 June 10th](https://blog.abluestar.com/ongoing-project-status-updates-2025june10/)
+- [Glitch in the CounterProductive Button – June 28 to July 4](https://blog.abluestar.com/glitch-in-the-counterproductive-button–june28-to-july4)
