@@ -78,7 +78,8 @@ Effectivly, this should rotate though the list one person at a time and save the
       padding: 1em;
       margin-bottom: 1.5em;
       border-radius: 4px;
-    }    
+    }
+
     .info {
       background: #e7f3ff;
       border-left: 4px solid #0078d7;
@@ -109,7 +110,8 @@ Effectivly, this should rotate though the list one person at a time and save the
     <textarea id="names" placeholder="Enter one name per line">Michael
 Jane
 Kelvin
-Victor</textarea>
+Victor
+Magdaline</textarea>
     <br>
     <button onclick="selectRandom()">Select Random</button>
     <button onclick="selectRoundRobin()">Select Round Robin</button>
@@ -117,7 +119,8 @@ Victor</textarea>
 
     <div class="info">
       <strong>Info:</strong><br>
-      This uses your browser's <a href='https://en.wikipedia.org/wiki/Pseudorandomness'>pseudo random</a> number generator. Its not a true random number generator. If you need true random
+      This uses your browser's <a href='https://en.wikipedia.org/wiki/Pseudorandomness'>pseudo random</a> number
+      generator. Its not a true random number generator. If you need true random
       number generator use <a href='https://www.random.org/'>random.org</a>
     </div>
   </div>
@@ -152,7 +155,7 @@ Victor</textarea>
         if (idx >= names.length) idx = 0;
       }
       localStorage.setItem(STORAGE_KEY, names[idx]);
-      showResult('Round Robin selected: ' + names[idx]);
+      showResult('Round Robin selected (' + idx + '): ' + names[idx]);
     }
 
     function showResult(msg) {

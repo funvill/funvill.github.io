@@ -53,7 +53,6 @@ As of version 5, now deployed to the button, the following improvements have bee
   - "Keep the Streak Alive - Press the Button"
   - "Keep the Signal Alive - Press the Button"
 
-
 ## Status
 
 As of *July 4, 2025*, the button is live again and functioning normally.
