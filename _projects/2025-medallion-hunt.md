@@ -10,7 +10,6 @@ tags:
 - Art
 ---
 
-<a href='/public/uploads/2025/medallion-hunt-webpage-screenshot.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2025/medallion-hunt-webpage-screenshot.png" alt="Website screenshot"></a>
 
 ## Overview
 
@@ -57,6 +56,8 @@ To keep the story cohesive, every five chapters included a **main storyline even
 ---
 
 ## Technical Details
+
+<a href='/public/uploads/2025/medallion-hunt-webpage-screenshot.png'><img style="float: center; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2025/medallion-hunt-webpage-screenshot.png" alt="Website screenshot"></a>
 
 I wanted the project to be free to host and permanently accessible, so everything was done **client-side** using JavaScript and precompiled data.  
 The goal was to make the experience self-contained — an artifact that would live on even after the physical posters were gone.
