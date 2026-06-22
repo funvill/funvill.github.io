@@ -1,11 +1,37 @@
 # blog.abluestar.com
 
-Source code for [blog.abluestar.com](https://blog.abluestar.com/) using [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
+Personal website source for [blog.abluestar.com](https://blog.abluestar.com/), migrated from Jekyll to Astro 6 and intended for deployment on Cloudflare Pages.
 
-## How to test
+## Stack
+- Astro 6 static build
+- Cloudflare Pages hosting
+- Existing Markdown content kept in `_posts`, `_projects`, `_flockingai`, and `_pages`
+- Static assets preserved from `public/` and `other/`
+- `utterances` comments retained on posts and Flocking AI entries
 
-From ubuntu or WSL
+## Local development
 
 ```bash
-bundle exec jekyll serve --force_polling --incremental
+npm install
+npm run dev
 ```
+
+## Production build
+
+```bash
+npm run build
+```
+
+Build output is written to `dist/`.
+
+## Cloudflare Pages
+- Framework preset: `Astro`
+- Build command: `npm run build`
+- Build output directory: `dist`
+- Node.js version: `22`
+
+## Migration notes
+- Google CSE search was removed and is not carried forward.
+- The Elfsight embed was removed from `/about`.
+- The `other/` directory is copied into the final build as preserved static content.
+- Root `/` redirects to `/about` and `/birds` redirects to `/projects/2021-bird-playing-cards/`.

@@ -1,0 +1,7 @@
+---
+const { href, label, count } = Astro.props;
+---
+<a class="pill" href={href}>
+  <span>{label}</span>
+  {count !== undefined && <strong>{count}</strong>}
+</a>

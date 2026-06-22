@@ -1,0 +1,25 @@
+---
+interface Props {
+  repo?: string;
+  issueTerm?: string;
+}
+const { repo = 'funvill/funvill.github.io', issueTerm = 'pathname' } = Astro.props;
+---
+<section class="archive-panel">
+  <h2>Comments</h2>
+  <div id="utterances-comments" data-repo={repo} data-issue-term={issueTerm}></div>
+  <script is:inline>
+    const container = document.getElementById('utterances-comments');
+    if (container && !container.dataset.loaded) {
+      const script = document.createElement('script');
+      script.src = 'https://utteranc.es/client.js';
+      script.async = true;
+      script.crossOrigin = 'anonymous';
+      script.setAttribute('repo', container.dataset.repo || 'funvill/funvill.github.io');
+      script.setAttribute('issue-term', container.dataset.issueTerm || 'pathname');
+      script.setAttribute('theme', 'github-light');
+      container.dataset.loaded = 'true';
+      container.appendChild(script);
+    }
+  </script>
+</section>

@@ -1,0 +1,17 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import { getPageByPermalink } from '../lib/content';
+const page = getPageByPermalink('/404.html');
+Astro.response.status = 404;
+---
+<MainLayout title={page?.title ?? 'Page Not Found'} description={page?.description ?? 'Page not found'}>
+  <section class="hero">
+    <p class="hero__eyebrow">404</p>
+    <h1>{page?.title ?? 'Page Not Found'}</h1>
+    <p>{page?.excerpt ?? 'Sorry, but the page you were trying to view does not exist.'}</p>
+    <div class="hero__actions">
+      <a class="button" href="/about">Go to About</a>
+      <a class="button alt" href="/blog">Browse the archive</a>
+    </div>
+  </section>
+</MainLayout>

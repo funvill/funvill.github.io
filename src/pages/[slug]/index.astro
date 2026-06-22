@@ -1,0 +1,32 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import DetailLayout from '../../components/DetailLayout.astro';
+import { getPostBySlug, getPosts } from '../../lib/content';
+
+export function getStaticPaths() {
+  return getPosts().map((post) => ({ params: { slug: post.slug } }));
+}
+
+const post = getPostBySlug(Astro.params.slug ?? '');
+if (!post) throw new Error(`Missing post for slug ${Astro.params.slug}`);
+
+const WPM = 220;
+const readMinutes = Math.max(1, Math.round((post.rawContent ?? '').split(/\s+/).filter(Boolean).length / WPM));
+
+const kicker = post.categories[0] ?? 'Blog post';
+---
+<MainLayout title={post.title} description={post.description} pathname={post.permalink}>
+
+  <DetailLayout
+    kicker={kicker}
+    title={post.title}
+    excerpt={post.excerpt}
+    date={post.date}
+    readMinutes={readMinutes}
+    html={post.html}
+    headings={post.headings}
+    tags={post.tags}
+    categories={post.categories}
+  />
+
+</MainLayout>

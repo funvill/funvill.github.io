@@ -1,0 +1,304 @@
+---
+import { formatDate, slugify } from '../lib/content';
+
+interface Heading {
+  depth: number;
+  text: string;
+  slug: string;
+}
+
+interface Props {
+  kicker: string;
+  title: string;
+  excerpt?: string;
+  date?: Date;
+  readMinutes?: number;
+  html: string;
+  headings?: Heading[];
+  tags?: string[];
+  categories?: string[];
+  tagBase?: string;
+}
+
+const {
+  kicker,
+  title,
+  excerpt,
+  date,
+  readMinutes,
+  html,
+  headings = [],
+  tags = [],
+  categories = [],
+  tagBase = '/tags',
+} = Astro.props;
+
+const tocHeadings = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
+const hasTaxonomy = tags.length > 0 || categories.length > 0;
+
+// Canonical 10-color palette from ProjectCard.jsx — hashed deterministically by label.
+const PILL_COLORS = ['#1457e6', '#00b4d8', '#e1306c', '#f4a300', '#10b981', '#8b5cf6', '#ef4444', '#0ea5e9', '#f97316', '#14b8a6'];
+const pillColor = (label: string) => {
+  let h = 0;
+  for (let i = 0; i < label.length; i++) h = (h * 31 + label.charCodeAt(i)) >>> 0;
+  return PILL_COLORS[h % PILL_COLORS.length];
+};
+---
+
+<!-- Hero (page-hero starfield card — same as listing pages) -->
+<section class="page-hero bs-starfield" aria-label="Page intro">
+  <div class="page-hero__inner">
+    <div class="bs-label page-hero__kicker">
+      <svg class="bs-twinkle" viewBox="0 0 100 100" width="18" height="18" aria-hidden="true">
+        <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--gold-400)" />
+      </svg>
+      {kicker}
+    </div>
+    <h1>{title}</h1>
+    {excerpt && <p class="page-hero__desc">{excerpt}</p>}
+    {(date || readMinutes != null) && (
+      <div class="page-hero__metaline">
+        {date && <time datetime={date.toISOString()}>{formatDate(date)}</time>}
+        {date && readMinutes != null && <span aria-hidden="true">·</span>}
+        {readMinutes != null && <span>{readMinutes} min read</span>}
+      </div>
+    )}
+  </div>
+</section>
+
+<!-- Article + sticky sidebar -->
+<div class="detail-grid">
+  <article class="detail-article article-shell">
+    <div class="article-body" set:html={html}></div>
+  </article>
+
+  <aside class="detail-sidebar">
+    {hasTaxonomy && (
+      <div class="detail-tags-card" aria-label="Filed under">
+        {categories.length > 0 && (
+          <div class="detail-tags-card__group">
+            <div class="bs-label detail-tags-card__kicker">
+              <svg viewBox="0 0 100 100" width="12" height="12" aria-hidden="true">
+                <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--gold-400)" />
+              </svg>
+              Categories
+            </div>
+            <div class="detail-tags-card__chips">
+              {categories.map((cat) => (
+                <a class="detail-pill" href={`/categories/${slugify(cat)}/`} style={`background: ${pillColor(cat)};`}>{cat}</a>
+              ))}
+            </div>
+          </div>
+        )}
+        {tags.length > 0 && (
+          <div class="detail-tags-card__group">
+            <div class="bs-label detail-tags-card__kicker">
+              <svg viewBox="0 0 100 100" width="12" height="12" aria-hidden="true">
+                <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--gold-400)" />
+              </svg>
+              Tags
+            </div>
+            <div class="detail-tags-card__chips">
+              {tags.map((tag) => (
+                <a class="detail-pill" href={`${tagBase}/${slugify(tag)}/`} style={`background: ${pillColor(tag)};`}>{tag}</a>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    )}
+
+    <nav class="detail-toc" aria-label="On this page">
+      <div class="bs-label detail-toc__kicker">
+        <svg viewBox="0 0 100 100" width="12" height="12" aria-hidden="true">
+          <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--gold-400)" />
+        </svg>
+        On this page
+      </div>
+      {tocHeadings.length > 0 ? (
+        <ol class="detail-toc__list">
+          {tocHeadings.map((h) => (
+            <li class={`detail-toc__item detail-toc__item--h${h.depth}`}>
+              <a href={`#${h.slug}`}>{h.text}</a>
+            </li>
+          ))}
+        </ol>
+      ) : (
+        <p class="detail-toc__empty">No sections.</p>
+      )}
+    </nav>
+  </aside>
+</div>
+
+<style>
+  .page-hero__metaline {
+    margin-top: var(--space-4);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: rgba(255,255,255,0.7);
+  }
+
+  /* Article + sidebar grid */
+  .detail-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-6);
+    margin-bottom: var(--space-8);
+  }
+  @media (min-width: 960px) {
+    .detail-grid {
+      grid-template-columns: minmax(0, 1fr) 280px;
+      align-items: start;
+    }
+  }
+  .detail-article { min-width: 0; }
+  .detail-sidebar {
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+  @media (min-width: 960px) {
+    .detail-sidebar { position: sticky; top: 5rem; }
+  }
+
+  /* Sidebar tags/categories card */
+  .detail-tags-card {
+    background: var(--surface-card);
+    border: var(--bw-1) solid var(--ink);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--cel-2);
+    padding: var(--space-5);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+  .detail-tags-card__group { display: flex; flex-direction: column; gap: var(--space-2); }
+  .detail-tags-card__kicker {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .detail-tags-card__chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  /* Colorful sidebar pill — color hashed by label */
+  .detail-pill {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 14px 7px;
+    border-radius: var(--radius-pill);
+    border: var(--bw-1) solid var(--ink);
+    color: #fff;
+    font-family: var(--font-display);
+    font-weight: var(--fw-semibold);
+    font-size: var(--fs-base);
+    line-height: 1;
+    text-decoration: none;
+    box-shadow: var(--cel-1);
+    transition: transform var(--dur-fast) var(--ease-out), box-shadow var(--dur-fast) var(--ease-out), filter var(--dur-fast);
+    white-space: nowrap;
+  }
+  .detail-pill:hover {
+    transform: translate(-1px,-1px);
+    box-shadow: var(--cel-2);
+    filter: brightness(1.08);
+  }
+  .detail-pill:active { transform: translate(1px,1px); box-shadow: var(--cel-press); }
+
+  /* TOC sidebar card */
+  .detail-toc {
+    background: var(--surface-card);
+    border: var(--bw-1) solid var(--ink);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--cel-2);
+    padding: var(--space-5);
+    max-height: calc(100vh - 7rem);
+    overflow-y: auto;
+  }
+  .detail-toc__kicker {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: var(--space-4);
+  }
+  .detail-toc__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    border-left: 2px solid var(--gray-200);
+  }
+  .detail-toc__item a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+    font-family: var(--font-display);
+    font-weight: var(--fw-medium);
+    font-size: 14px;
+    color: var(--text-body);
+    line-height: var(--lh-snug);
+    border-left: 2px solid transparent;
+    margin-left: -2px;
+    transition: color var(--dur-fast), border-color var(--dur-fast), padding-left var(--dur-fast);
+  }
+  .detail-toc__item a:hover {
+    color: var(--blue-600);
+    border-left-color: var(--blue-500);
+  }
+  .detail-toc__item--h3 a { padding-left: 24px; font-size: 13px; color: var(--text-muted); }
+  .detail-toc__item.is-active > a {
+    color: var(--blue-700);
+    border-left-color: var(--blue-500);
+    font-weight: var(--fw-bold);
+  }
+  .detail-toc__empty {
+    margin: 0;
+    color: var(--text-faint);
+    font-size: var(--fs-sm);
+    font-style: italic;
+  }
+</style>
+
+<script>
+  (() => {
+    const toc = document.querySelector<HTMLElement>('.detail-toc');
+    if (!toc) return;
+    const links = Array.from(toc.querySelectorAll<HTMLAnchorElement>('.detail-toc__item a'));
+    if (links.length === 0) return;
+
+    const slugs = links
+      .map((a) => decodeURIComponent(a.getAttribute('href')?.replace(/^#/, '') ?? ''))
+      .filter(Boolean);
+    const headings = slugs
+      .map((s) => document.getElementById(s))
+      .filter((el): el is HTMLElement => Boolean(el));
+    if (headings.length === 0) return;
+
+    const setActive = (id: string) => {
+      links.forEach((a) => {
+        const itemHash = decodeURIComponent(a.getAttribute('href')?.replace(/^#/, '') ?? '');
+        a.parentElement?.classList.toggle('is-active', itemHash === id);
+      });
+    };
+
+    const obs = new IntersectionObserver(
+      (entries) => {
+        const visible = entries
+          .filter((e) => e.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top)[0];
+        if (visible) setActive(visible.target.id);
+      },
+      { rootMargin: '-80px 0px -65% 0px', threshold: [0, 1] }
+    );
+    headings.forEach((h) => obs.observe(h));
+  })();
+</script>

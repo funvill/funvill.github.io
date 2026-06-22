@@ -1,0 +1,59 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  basePath: string;
+}
+
+const { currentPage, totalPages, basePath } = Astro.props;
+const prevHref = currentPage <= 2 ? basePath : `${basePath}/page/${currentPage - 1}`;
+const nextHref = `${basePath}/page/${currentPage + 1}`;
+
+// Build page number range (show up to 5 pages around current)
+const pages: number[] = [];
+const delta = 2;
+for (let i = Math.max(1, currentPage - delta); i <= Math.min(totalPages, currentPage + delta); i++) {
+  pages.push(i);
+}
+---
+{totalPages > 1 && (
+  <nav class="pagination" aria-label="Pagination">
+    {currentPage > 1
+      ? <a href={prevHref} aria-label="Previous page">
+          <i class="fa-solid fa-chevron-left" style="font-size:0.75em"></i>&nbsp;Prev
+        </a>
+      : <span class="disabled" aria-disabled="true">
+          <i class="fa-solid fa-chevron-left" style="font-size:0.75em"></i>&nbsp;Prev
+        </span>
+    }
+
+    {pages[0] > 1 && (
+      <>
+        <a href={basePath} aria-label="Page 1">1</a>
+        {pages[0] > 2 && <span class="disabled" aria-hidden="true">&hellip;</span>}
+      </>
+    )}
+
+    {pages.map((p) => (
+      p === currentPage
+        ? <span class="pag-current" aria-current="page">{p}</span>
+        : <a href={p === 1 ? basePath : `${basePath}/page/${p}`} aria-label={`Page ${p}`}>{p}</a>
+    ))}
+
+    {pages[pages.length - 1] < totalPages && (
+      <>
+        {pages[pages.length - 1] < totalPages - 1 && <span class="disabled" aria-hidden="true">&hellip;</span>}
+        <a href={`${basePath}/page/${totalPages}`} aria-label={`Page ${totalPages}`}>{totalPages}</a>
+      </>
+    )}
+
+    {currentPage < totalPages
+      ? <a href={nextHref} aria-label="Next page">
+          Next&nbsp;<i class="fa-solid fa-chevron-right" style="font-size:0.75em"></i>
+        </a>
+      : <span class="disabled" aria-disabled="true">
+          Next&nbsp;<i class="fa-solid fa-chevron-right" style="font-size:0.75em"></i>
+        </span>
+    }
+  </nav>
+)}

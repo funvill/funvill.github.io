@@ -1,0 +1,140 @@
+---
+interface Props {
+  title: string;
+  excerpt?: string;
+  href: string;
+  image?: string;
+  meta?: string;
+  category?: string;
+  date?: string;
+  tags?: string[];
+  variant?: 'card' | 'feature';
+}
+
+const { title, excerpt, href, image, meta, category, date, tags = [], variant = 'card' } = Astro.props;
+const dateLabel = date ?? meta;
+const visibleTags = tags.slice(0, 4);
+
+// Canonical category → Badge tone map (from ProjectCard.jsx).
+const catSlug = (category ?? '').toLowerCase().replace(/\s+/g, '-');
+const catTone =
+  ({ electronics: 'blue', art: 'magenta', software: 'cyan', 'physical-computing': 'gold' } as Record<string, string>)
+  [catSlug] || 'blue';
+
+// Canonical vivid tag palette (exact hex list from ProjectCard.jsx).
+const TAG_COLORS = ['#1457e6', '#00b4d8', '#e1306c', '#f4a300', '#10b981', '#8b5cf6', '#ef4444', '#0ea5e9', '#f97316', '#14b8a6'];
+const tagColor = (t: string) => {
+  let h = 0;
+  for (let i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) >>> 0;
+  return TAG_COLORS[h % TAG_COLORS.length];
+};
+
+// Image-less fallback per DS: 135deg blue-400 → blue-700.
+const fallbackBg = image
+  ? `center/cover no-repeat url("${image}")`
+  : 'linear-gradient(135deg, var(--blue-400), var(--blue-700))';
+---
+<a class={`bs-projectcard ${variant}`} href={href}>
+  <!-- Image tile -->
+  <div class="bs-projectcard__media" style={`background: ${fallbackBg};`}>
+    {category && (
+      <span class={`bs-projectcard__badge bs-badge bs-badge--${catTone}-solid`}>{category}</span>
+    )}
+    {dateLabel && (
+      <span class="bs-projectcard__year bs-badge bs-badge--year">{dateLabel}</span>
+    )}
+  </div>
+
+  <!-- Body -->
+  <div class="bs-projectcard__body">
+    <h3>{title}</h3>
+    {excerpt && <p class="bs-projectcard__blurb">{excerpt}</p>}
+    {visibleTags.length > 0 && (
+      <div class="bs-projectcard__tags">
+        {visibleTags.map((t) => (
+          <span class="bs-tag bs-tag--vivid" style={`background: ${tagColor(t)}; border-color: var(--ink); color: #fff;`}>
+            <span class="bs-tag__hash">#</span>{t}
+          </span>
+        ))}
+      </div>
+    )}
+  </div>
+</a>
+
+<style>
+  /* Mirrors ProjectCard.jsx exactly */
+  .bs-projectcard {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    background: var(--surface-card);
+    border: var(--bw-1) solid var(--ink);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--cel-3);
+    overflow: hidden;
+    transition: transform var(--dur-base) var(--ease-out), box-shadow var(--dur-base) var(--ease-out);
+  }
+  .bs-projectcard:hover  { transform: translate(-3px,-3px); box-shadow: var(--cel-4); }
+  .bs-projectcard:active { transform: translate(1px,1px);  box-shadow: var(--cel-1); }
+
+  /* Image tile — 16:10 with thin ink underline */
+  .bs-projectcard__media {
+    position: relative;
+    aspect-ratio: 16 / 10;
+    border-bottom: var(--bw-1) solid var(--ink);
+  }
+  .bs-projectcard__badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  .bs-projectcard__year {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  /* Body */
+  .bs-projectcard__body {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: var(--space-5);
+    flex: 1;
+  }
+  .bs-projectcard__body h3 {
+    margin: 0;
+    font-size: var(--fs-lg);
+    line-height: var(--lh-snug);
+  }
+  .bs-projectcard__blurb {
+    margin: 0;
+    font-size: var(--fs-base);
+    color: var(--text-muted);
+    line-height: var(--lh-normal);
+  }
+
+  .bs-projectcard__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: auto;
+    padding-top: 6px;
+  }
+
+  /* DS Badge solid tones (used for category) */
+  .bs-badge--blue-solid    { background: var(--blue-500);    color: #fff; border-color: var(--ink); }
+  .bs-badge--cyan-solid    { background: var(--cyan-400);    color: var(--ink); border-color: var(--ink); }
+  .bs-badge--gold-solid    { background: var(--gold-400);    color: var(--ink); border-color: var(--ink); }
+  .bs-badge--magenta-solid { background: var(--magenta-400); color: #fff; border-color: var(--ink); }
+  /* Year badge: dark night-sky pill per ProjectCard.jsx */
+  .bs-badge--year { background: var(--blue-950); color: #fff; border-color: var(--ink); }
+
+  /* DS Tag vivid variant (colored fill, ink text/border) */
+  .bs-tag--vivid {
+    font-weight: 700;
+    color: #fff;
+  }
+  .bs-tag--vivid .bs-tag__hash { opacity: 0.7; }
+</style>

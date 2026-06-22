@@ -1,0 +1,37 @@
+---
+import MainLayout from '../../../layouts/MainLayout.astro';
+import PostListItem from '../../../components/PostListItem.astro';
+import { getEntriesByCategory, collectCategories, getPosts } from '../../../lib/content';
+
+export function getStaticPaths() {
+  return collectCategories(getPosts()).map((category) => ({
+    params: { category: category.slug },
+    props: { category }
+  }));
+}
+
+const { category } = Astro.props;
+const posts = getEntriesByCategory(category.slug);
+
+const WPM = 220;
+const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/\s+/).filter(Boolean).length / WPM));
+---
+<MainLayout title={`Category: ${category.name}`} description={`Posts filed under ${category.name}.`}>
+  <section class="page-hero bs-starfield" aria-label="Page intro">
+    <div class="page-hero__inner">
+      <div class="bs-label page-hero__kicker">
+        <svg class="bs-twinkle" viewBox="0 0 100 100" width="18" height="18" aria-hidden="true">
+          <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--gold-400)" />
+        </svg>
+        Category archive
+      </div>
+      <div class="page-hero__row">
+        <h1>{category.name}</h1>
+        <span class="page-hero__count">{category.count} posts</span>
+      </div>
+    </div>
+  </section>
+  <section class="section" style="display:flex;flex-direction:column;gap:var(--space-5)">
+    {posts.map((post) => <PostListItem variant="full" href={post.permalink} title={post.title} date={post.date} excerpt={post.excerpt} categories={post.categories} image={post.header?.teaser} readMinutes={readMinutes(post.rawContent)} />)}
+  </section>
+</MainLayout>

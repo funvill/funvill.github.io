@@ -1,0 +1,63 @@
+---
+import MainLayout from '../../../layouts/MainLayout.astro';
+import DetailLayout from '../../../components/DetailLayout.astro';
+import EntryCard from '../../../components/EntryCard.astro';
+import { getProjectBySlug, getProjects } from '../../../lib/content';
+
+export function getStaticPaths() {
+  return getProjects().map((project) => ({ params: { slug: project.slug } }));
+}
+
+const project = getProjectBySlug(Astro.params.slug ?? '');
+if (!project) throw new Error(`Missing project for slug ${Astro.params.slug}`);
+
+const related = getProjects()
+  .filter((p) => p.slug !== project.slug && p.categories.some((c) => project.categories.includes(c)))
+  .slice(0, 3);
+
+const kicker = project.categories[0] ?? 'Project';
+---
+<MainLayout title={project.title} description={project.description} pathname={project.permalink}>
+
+  <DetailLayout
+    kicker={kicker}
+    title={project.title}
+    excerpt={project.excerpt}
+    date={project.date}
+    html={project.html}
+    headings={project.headings}
+    tags={project.tags}
+    categories={project.categories}
+  />
+
+  {related.length > 0 && (
+    <section class="section">
+      <div class="section-header">
+        <div>
+          <div class="bs-label">
+            <svg viewBox="0 0 100 100" width="12" height="12" aria-hidden="true">
+              <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--gold-400)" />
+            </svg>
+            Related
+          </div>
+          <h2>More like this</h2>
+        </div>
+        <a href="/projects" class="section-link">All projects →</a>
+      </div>
+      <div class="grid">
+        {related.map((p) => (
+          <EntryCard
+            href={p.permalink}
+            title={p.title}
+            excerpt={p.excerpt}
+            image={p.header.teaser}
+            category={p.categories[0]}
+            date={p.date ? String(p.date.getUTCFullYear()) : undefined}
+            tags={p.tags}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+</MainLayout>

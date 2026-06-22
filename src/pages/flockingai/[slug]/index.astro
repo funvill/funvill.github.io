@@ -1,0 +1,55 @@
+---
+import MainLayout from '../../../layouts/MainLayout.astro';
+import Comments from '../../../components/Comments.astro';
+import { formatDate, getFlockingAiEntries, getFlockingBySlug } from '../../../lib/content';
+
+export function getStaticPaths() {
+  return getFlockingAiEntries().map((entry) => ({ params: { slug: entry.slug } }));
+}
+
+const entry = getFlockingBySlug(Astro.params.slug ?? '');
+if (!entry) throw new Error(`Missing flocking entry for slug ${Astro.params.slug}`);
+---
+<MainLayout title={entry.title} description={entry.description} pathname={entry.permalink}>
+  <section class="split detail section">
+    <article class="article-shell article-shell--detail">
+      <div>
+        <p class="kicker">Flocking AI entry</p>
+        <h1>{entry.title}{entry.species ? ` (${entry.species})` : ''}</h1>
+        <div class="article-meta">
+          {entry.date && <span>{formatDate(entry.date)}</span>}
+          {entry.species && <span>{entry.species}</span>}
+        </div>
+      </div>
+      {entry.gallery && entry.gallery.length > 0 && (
+        <div class="grid">
+          {entry.gallery.map((image) => <a class="entry-card__media" href={image}><img src={image} alt={entry.title} loading="lazy" /></a>)}
+        </div>
+      )}
+      <div class="article-body" set:html={entry.html}></div>
+      {(entry.midjourney || entry.instagram || entry.twitter || entry.facebook) && (
+        <div class="flocking-links">
+          {entry.midjourney && <a class="button alt" href={entry.midjourney} target="_blank" rel="noopener noreferrer">Midjourney</a>}
+          {entry.instagram && <a class="button alt" href={entry.instagram} target="_blank" rel="noopener noreferrer">Instagram</a>}
+          {entry.twitter && <a class="button alt" href={entry.twitter} target="_blank" rel="noopener noreferrer">Twitter</a>}
+          {entry.facebook && <a class="button alt" href={entry.facebook} target="_blank" rel="noopener noreferrer">Facebook</a>}
+        </div>
+      )}
+      {entry.prompt && <div class="license-card"><strong>Prompt:</strong> {entry.prompt}</div>}
+      <div class="license-card">
+        <p><strong>License:</strong> Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.</p>
+        <p><strong>Generation:</strong> This work was generated using AI/ML with Midjourney.</p>
+      </div>
+      {entry.comments && <Comments />}
+    </article>
+    <aside>
+      <div class="toc-box">
+        <p class="kicker">Collection</p>
+        <ol>
+          <li><a href="/flockingai">Back to gallery</a></li>
+          <li><a href="/projects/2022-flocking-ai/">Project overview</a></li>
+        </ol>
+      </div>
+    </aside>
+  </section>
+</MainLayout>

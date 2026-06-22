@@ -1,0 +1,33 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import PostListItem from '../components/PostListItem.astro';
+import { groupPostsByYear } from '../lib/content';
+const years = groupPostsByYear();
+---
+<MainLayout title="Posts by Year" description="Browse posts by year.">
+  <section class="page-hero bs-starfield" aria-label="Page intro">
+    <div class="page-hero__inner">
+      <div class="bs-label page-hero__kicker">
+        <svg class="bs-twinkle" viewBox="0 0 100 100" width="18" height="18" aria-hidden="true">
+          <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--gold-400)" />
+        </svg>
+        Timeline
+      </div>
+      <div class="page-hero__row">
+        <h1>Posts by year</h1>
+        <span class="page-hero__count">{years.length} years</span>
+      </div>
+      <p class="page-hero__desc">A chronological way into the archive when tags and categories are too narrow.</p>
+    </div>
+  </section>
+  <section class="section archive-list">
+    {years.map((group) => (
+      <div class="archive-panel">
+        <h2>{group.year}</h2>
+        <div class="archive-list">
+          {group.posts.slice(0, 20).map((post) => <PostListItem variant="compact" href={post.permalink} title={post.title} date={post.date} excerpt={post.excerpt} categories={post.categories} />)}
+        </div>
+      </div>
+    ))}
+  </section>
+</MainLayout>

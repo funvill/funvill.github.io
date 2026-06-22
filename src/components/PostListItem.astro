@@ -1,0 +1,247 @@
+---
+import { formatDate } from '../lib/content';
+
+interface Props {
+  variant?: 'compact' | 'full';
+  href: string;
+  title: string;
+  date?: Date;
+  excerpt?: string;
+  categories?: string[];
+  image?: string;
+  readMinutes?: number;
+}
+
+const {
+  variant = 'full',
+  href,
+  title,
+  date,
+  excerpt,
+  categories = [],
+  image,
+  readMinutes,
+} = Astro.props;
+
+const category = categories[0];
+
+// Hashed hover-shadow color per card (same palette as ProjectCard.jsx TAG_COLORS).
+const HOVER_PALETTE = [
+  '#1457e6', '#00b4d8', '#e1306c', '#f4a300', '#10b981',
+  '#8b5cf6', '#ef4444', '#0ea5e9', '#f97316', '#14b8a6',
+];
+let _h = 0;
+for (let i = 0; i < title.length; i++) _h = (_h * 31 + title.charCodeAt(i)) >>> 0;
+const hoverColor = HOVER_PALETTE[_h % HOVER_PALETTE.length];
+---
+
+{variant === 'compact' ? (
+  /* DS bs-post-row spec: gap 18, padding --space-5, 54px thumb, Badge category, fontSize 19 title */
+  <a class="bs-post-row" href={href}>
+    <div class="bs-post-row__thumb">
+      <svg viewBox="0 0 100 100" width="24" height="24" aria-hidden="true">
+        <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--cyan-400)" />
+      </svg>
+    </div>
+    <div class="bs-post-row__body">
+      <div class="bs-post-row__meta">
+        {category && <span class="bs-badge bs-badge--cyan">{category}</span>}
+        {date && <span class="bs-post-row__date">
+          <time datetime={date.toISOString()}>{formatDate(date)}</time>
+          {readMinutes != null && <> · {readMinutes} min</>}
+        </span>}
+      </div>
+      <div class="bs-post-row__title">{title}</div>
+      {excerpt && <p class="bs-post-row__excerpt">{excerpt}</p>}
+    </div>
+    <svg class="bs-post-row__trail" viewBox="0 0 100 100" width="18" height="18" aria-hidden="true">
+      <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--gray-300)" />
+    </svg>
+  </a>
+) : (
+  /* Full variant: card per post; trailing thumb only when image exists */
+  <a
+    class={`bs-blog-row${image ? ' bs-blog-row--has-image' : ''}`}
+    href={href}
+    style={`--bs-row-hover: ${hoverColor};`}
+  >
+    <div class="bs-blog-row__main">
+      <div class="bs-blog-row__meta">
+        {category && <span class="bs-badge bs-badge--cyan">{category}</span>}
+        {date && <span class="bs-blog-row__date">
+          <time datetime={date.toISOString()}>{formatDate(date)}</time>
+          {readMinutes != null && <> · {readMinutes} min</>}
+        </span>}
+      </div>
+      <h2 class="bs-blog-row__title">{title}</h2>
+      {excerpt && <p class="bs-blog-row__excerpt">{excerpt}</p>}
+      <span class="bs-readpost">
+        Read post
+        <svg class="bs-readpost__star" viewBox="0 0 100 100" width="12" height="12" aria-hidden="true">
+          <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--blue-500)" />
+        </svg>
+      </span>
+    </div>
+    {image && (
+      <div class="bs-blog-thumb" aria-hidden="true">
+        <img src={image} alt="" loading="lazy" />
+      </div>
+    )}
+  </a>
+)}
+
+<style>
+  /* ──────────────── DS Badge (used inline by both variants) ──────────────── */
+  .bs-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--font-mono);
+    font-size: var(--fs-xs);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-mono);
+    line-height: 1;
+    padding: 5px 10px;
+    border-radius: var(--radius-pill);
+    border: var(--bw-1) solid currentColor;
+  }
+  .bs-badge--cyan { background: var(--cyan-100); color: var(--cyan-800); }
+
+  /* ──────────────── Compact row card (DS bs-post-row) ──────────────── */
+  .bs-post-row {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    background: var(--gray-0);
+    border: var(--bw-1) solid var(--ink);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--cel-2);
+    padding: var(--space-5);
+    transition: transform var(--dur-fast) var(--ease-out), box-shadow var(--dur-fast) var(--ease-out);
+  }
+  .bs-post-row:hover { transform: translate(-2px,-2px); box-shadow: var(--cel-3); }
+  .bs-post-row__thumb {
+    flex: none;
+    width: 54px;
+    height: 54px;
+    border-radius: var(--radius-md);
+    border: var(--bw-1) solid var(--ink);
+    background: var(--blue-950);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .bs-post-row__body { flex: 1; min-width: 0; }
+  .bs-post-row__meta {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 4px;
+    flex-wrap: wrap;
+  }
+  .bs-post-row__date {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--text-faint);
+  }
+  .bs-post-row__title {
+    font-family: var(--font-display);
+    font-weight: var(--fw-semibold);
+    font-size: 19px;
+    color: var(--text-strong);
+    line-height: var(--lh-snug);
+  }
+  .bs-post-row:hover .bs-post-row__title { color: var(--blue-600); }
+  .bs-post-row__excerpt {
+    margin: 6px 0 0;
+    color: var(--text-muted);
+    font-size: var(--fs-sm);
+    line-height: var(--lh-relaxed);
+  }
+  .bs-post-row__trail { flex: none; }
+
+  /* ──────────────── Full blog row — now a card ──────────────── */
+  .bs-blog-row {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    gap: var(--space-5);
+    align-items: stretch;
+    background: var(--gray-0);
+    border: var(--bw-1) solid var(--ink);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--cel-2);
+    padding: var(--space-5);
+    transition: transform var(--dur-fast) var(--ease-out), box-shadow var(--dur-fast) var(--ease-out), border-color var(--dur-fast);
+  }
+  /* Hover lifts AND swaps the cel shadow to the card's hashed accent color */
+  .bs-blog-row:hover {
+    transform: translate(-3px,-3px);
+    box-shadow: 6px 6px 0 0 var(--bs-row-hover, var(--ink));
+    border-color: var(--bs-row-hover, var(--ink));
+  }
+  .bs-blog-row__main { flex: 1; min-width: 0; }
+  .bs-blog-row__meta {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+  .bs-blog-row__date {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--text-faint);
+  }
+  .bs-blog-row__title {
+    margin: 0 0 8px;
+    font-size: var(--fs-xl);
+    line-height: var(--lh-snug);
+    transition: color var(--dur-fast);
+  }
+  .bs-blog-row:hover .bs-blog-row__title { color: var(--blue-600); }
+  .bs-blog-row__excerpt {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  /* Read-post link with animated star */
+  .bs-readpost {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 10px;
+    color: var(--blue-600);
+    font-family: var(--font-display);
+    font-weight: var(--fw-semibold);
+    font-size: 14px;
+  }
+  .bs-readpost__star { transition: transform .25s var(--ease-out); }
+  .bs-blog-row:hover .bs-readpost { color: var(--blue-700); }
+  .bs-blog-row:hover .bs-readpost__star { transform: translateX(7px) rotate(72deg) scale(1.15); }
+
+  /* Thumb: only rendered when post has an image */
+  .bs-blog-thumb {
+    flex: none;
+    width: clamp(160px, 22vw, 220px);
+    align-self: stretch;
+    min-height: 120px;
+    border-radius: var(--radius-md);
+    border: var(--bw-1) solid var(--ink);
+    overflow: hidden;
+    background: var(--blue-950);
+  }
+  .bs-blog-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+  @media (max-width: 560px) {
+    .bs-blog-thumb { display: none !important; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .bs-readpost__star { transition: none; }
+  }
+</style>
