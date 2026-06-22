@@ -11,7 +11,7 @@ export default defineConfig({
   vite: {
     server: {
       watch: {
-        ignored: ['**/_site/**', '**/.jekyll-cache/**', '**/.git/**']
+        ignored: ['**/.git/**', '**/dist/**']
       }
     }
   }

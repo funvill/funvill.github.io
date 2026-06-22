@@ -1,0 +1,49 @@
+name: Deploy Astro site to GitHub Pages
+
+on:
+  # Run on every push to master.
+  push:
+    branches: [master]
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+
+# Minimum permissions for actions/deploy-pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One in-flight deployment at a time. Don't cancel a deploy that's already
+# pushing to the CDN — let it finish, then run the next one.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # withastro/action runs `npm ci` (or detected pkg manager) and
+      # `npm run build`, then uploads `dist/` as a Pages artifact.
+      # Our build script runs `astro build && node scripts/postbuild.mjs`,
+      # so postbuild (CNAME, other/, favicon, keybase.txt → dist/) happens here too.
+      - name: Build with Astro
+        uses: withastro/action@v4
+        with:
+          node-version: 22
+
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
