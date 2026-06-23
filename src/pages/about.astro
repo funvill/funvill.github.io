@@ -13,7 +13,7 @@ const recentPosts = allPosts.slice(0, 3);
 const WPM = 220;
 const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/\s+/).filter(Boolean).length / WPM));
 ---
-<MainLayout title={page?.title ?? 'About'} description={page?.description}>
+<MainLayout title={page?.title ?? 'About' } description={page?.description}>
 
   <!-- Starfield hero (mirrors DS AboutScreen.jsx) -->
   <section class="about-hero bs-starfield" aria-label="Introduction">
@@ -21,13 +21,7 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
       <!-- Profile photo: 168 squircle (radius-md) with drop-shadow wrapper per DS -->
       <div class="about-hero__avatar-wrap">
         <span class="about-hero__avatar">
-          <img
-            src="https://github.com/funvill.png"
-            alt="Steven Smethurst"
-            width="168"
-            height="168"
-            loading="eager"
-          />
+          <img src="https://github.com/funvill.png" alt="Steven Smethurst" width="168" height="168" loading="eager" />
         </span>
       </div>
 
@@ -36,27 +30,25 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
           <svg class="bs-twinkle" viewBox="0 0 100 100" width="18" height="18" aria-hidden="true">
             <polygon points="50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38" fill="var(--gold-400)" />
           </svg>
-          <span class="bs-label" style="color: var(--cyan-300)">Artist &middot; Maker &middot; Hacker &middot; Vancouver, BC</span>
+          <span class="bs-label" style="color: var(--cyan-300)">Artist &middot; Maker &middot; Hacker &middot;
+            Vancouver, BC</span>
         </div>
 
         <h1>About Steven Smethurst</h1>
 
         <div class="about-hero__prose">
-          <p>
-            Hi 👋🏼 I'm <a href="/about" class="bs-pill bs-pill--blue">Steven Smethurst</a> and I live two lives. During the day I am a CTO at <a href="http://store.chipkin.com/" class="bs-pill bs-pill--cyan">Chipkin Automation Systems</a> making devices talk to each other, and at night I am a 👨‍🎨 <a href="/cv/" class="bs-pill bs-pill--magenta">Artist</a>, Maker, Hacker, and all around great guy.
-          </p>
 
-          <p>
-            If I'm not <span title="Making computers talk to each other">beep booping</span> at my day job, I might be 🌳 <a href="/projects/2020-vancouver-parks/" class="bs-pill bs-pill--blue">visiting every park in Vancouver</a>, or making a deck of cards with 📸🐦 <a href="/projects/2021-bird-playing-cards/" class="bs-pill bs-pill--cyan">photos of birds</a>, or working on one of my many side <a href="/projects/" class="bs-pill bs-pill--blue">Projects</a>. <a href="/now" class="bs-pill bs-pill--magenta">See what I'm currently working on →</a>
-          </p>
+          <p>Hi 👋🏼 I'm <strong>Steven Smethurst<strong>, and I live two lives. By day I'm a CTO at <a href="http://store.chipkin.com/" class="bs-pill bs-pill--cyan">Chipkin Automation Systems</a>, teaching stubborn machines to talk to each other. By night I'm a <a href="/cv/" class="bs-pill bs-pill--magenta">Artist</a>, Maker, Hacker, and all-around tinkerer who can't leave a good idea alone.</p>
 
-          <p>
-            My interests bounce around to whatever catches my attention. <a href="/projects/2022-monthly-habit-tracker/" class="bs-pill bs-pill--blue">PCB Design</a>, Paper craft, 🪟 <a href="/projects/2018-stained-glass-window/" class="bs-pill bs-pill--cyan">Stained Glass</a>, 🗺️ Maps, 🎲 <a href="/projects/2023-skull-game-pcb/" class="bs-pill bs-pill--blue">Boardgames</a>, <a href="/projects/2019-illuminated-stained-glass-sixteen-segment-display/" class="bs-pill bs-pill--magenta">Segment Displays</a>, <a href="/projects/2017-laser-kaleidoscope/" class="bs-pill bs-pill--blue">Lasers and kaleidoscopes</a>, and anything that glows.
-          </p>
-
-          <p>
-            I've been writing in my <a href="/blog/" class="bs-pill bs-pill--cyan">blog</a> since 2001. I use <a href="https://www.instagram.com/funvill/" class="bs-pill bs-pill--magenta">Instagram</a> to post in-progress updates of my current projects. Feel free to connect!
-          </p>
+          <p>When I'm not <span title="Making computers talk to each other">beep-booping</span> at the day job, you might find me 🌳 visiting <a href="/projects/2020-vancouver-parks/" class="bs-pill bs-pill--blue">every park in Vancouver</a>, making a <a href="/projects/2021-bird-playing-cards/" class="bs-pill bs-pill--cyan">deck of cards with birds photos</a>, <a href="/tetragonal-trapezohedron-retrospective/"
+              class="bs-pill bs-pill--blue">PCB design</a>, papercraft, <a
+              href="/projects/2018-stained-glass-window/" class="bs-pill bs-pill--cyan">Stained Glass</a>, <a href="/projects/2024-metro-map-pcb/" class="bs-pill bs-pill--blue">Maps</a>, <a href="/projects/2023-skull-game-pcb/" class="bs-pill bs-pill--blue">Board Games</a>,
+          <a
+              href="/projects/2019-illuminated-stained-glass-sixteen-segment-display/"
+              class="bs-pill bs-pill--magenta">Segment Displays</a>, <a href="/projects/2017-laser-kaleidoscope/"
+              class="bs-pill bs-pill--blue">Lasers and kaleidoscopes</a>, and basically anything that glows. See what I'm <a href="/now" class="bs-pill bs-pill--magenta">currently working on</a>. </p>
+            <p>&nbsp;</p>
+          <p>I've been keeping a <a href="/blog/" class="bs-pill bs-pill--cyan">blog</a> since 2001, and I post works-in-progress over on <a href="https://www.instagram.com/funvill/" class="bs-pill bs-pill--magenta">Instagram</a>. Come say hi!</p>
         </div>
 
         <div class="about-hero__actions">
@@ -88,15 +80,9 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     </div>
     <div class="grid">
       {featured.map((project) => (
-        <EntryCard
-          href={project.permalink}
-          title={project.title}
-          excerpt={project.excerpt}
-          image={project.header.teaser}
-          category={project.categories[0]}
-          date={project.date ? String(project.date.getUTCFullYear()) : undefined}
-          tags={project.tags}
-        />
+      <EntryCard href={project.permalink} title={project.title} excerpt={project.excerpt} image={project.header.teaser}
+        category={project.categories[0]} date={project.date ? String(project.date.getUTCFullYear()) : undefined}
+        tags={project.tags} />
       ))}
     </div>
   </section>
@@ -117,16 +103,8 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     </div>
     <div class="post-list">
       {recentPosts.map((post) => (
-        <PostListItem
-          variant="full"
-          href={post.permalink}
-          title={post.title}
-          date={post.date}
-          excerpt={post.excerpt}
-          categories={post.categories}
-          image={post.header?.teaser}
-          readMinutes={readMinutes(post.rawContent)}
-        />
+      <PostListItem variant="full" href={post.permalink} title={post.title} date={post.date} excerpt={post.excerpt}
+        categories={post.categories} image={post.header?.teaser} readMinutes={readMinutes(post.rawContent)} />
       ))}
     </div>
   </section>
@@ -146,6 +124,7 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     position: relative;
     overflow: hidden;
   }
+
   .about-hero__inner {
     width: min(calc(100% - 2 * var(--space-5)), var(--container));
     margin: 0 auto;
@@ -161,6 +140,7 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     flex: none;
     filter: drop-shadow(5px 5px 0 var(--ink));
   }
+
   .about-hero__avatar {
     display: inline-flex;
     width: 168px;
@@ -170,6 +150,7 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     background: var(--blue-500);
     border: var(--bw-1) solid var(--ink);
   }
+
   .about-hero__avatar img {
     width: 100%;
     height: 100%;
@@ -178,13 +159,18 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
   }
 
   /* Blurb column */
-  .about-hero__blurb { flex: 1; min-width: 320px; }
+  .about-hero__blurb {
+    flex: 1;
+    min-width: 320px;
+  }
+
   .about-hero__kicker {
     display: flex;
     align-items: center;
     gap: 10px;
     margin-bottom: 14px;
   }
+
   .about-hero h1 {
     color: #fff;
     font-size: clamp(30px, 4vw, 46px);
@@ -192,15 +178,20 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     margin: 0 0 18px;
     letter-spacing: var(--ls-tight);
   }
+
   .about-hero__prose {
-    color: rgba(255,255,255,0.85);
+    color: rgba(255, 255, 255, 0.85);
     font-size: 18px;
     line-height: 1.7;
     display: flex;
     flex-direction: column;
     gap: 14px;
   }
-  .about-hero__prose p { margin: 0; }
+
+  .about-hero__prose p {
+    margin: 0;
+  }
+
   .about-hero__actions {
     display: flex;
     gap: 14px;
@@ -227,9 +218,10 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     font-weight: 700;
     font-size: 0.85em;
     line-height: 1.25;
-    box-shadow: 1px 1px 0 rgba(3,8,28,0.45);
+    box-shadow: 1px 1px 0 rgba(3, 8, 28, 0.45);
     transition: filter var(--dur-fast), transform var(--dur-fast);
   }
+
   /* Leading star, 10px white */
   .bs-pill::before {
     content: '';
@@ -238,19 +230,43 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     flex-shrink: 0;
     background: #fff;
     -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><polygon points='50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38'/></svg>") center/contain no-repeat;
-            mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><polygon points='50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38'/></svg>") center/contain no-repeat;
+    mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><polygon points='50,2 61,38 98,38 68,60 79,96 50,73 21,96 32,60 2,38 39,38'/></svg>") center/contain no-repeat;
   }
-  .bs-pill--blue    { background: var(--blue-500); }
-  .bs-pill--cyan    { background: var(--cyan-600); }
-  .bs-pill--magenta { background: var(--magenta-400); }
-  .bs-pill:hover { filter: brightness(1.12); transform: translateY(-1px); }
+
+  .bs-pill--blue {
+    background: var(--blue-500);
+  }
+
+  .bs-pill--cyan {
+    background: var(--cyan-600);
+  }
+
+  .bs-pill--magenta {
+    background: var(--magenta-400);
+  }
+
+  .bs-pill:hover {
+    filter: brightness(1.12);
+    transform: translateY(-1px);
+  }
 
   /* ──────────────── Post list spacing ──────────────── */
-  .post-list { display: flex; flex-direction: column; gap: var(--space-5); }
+  .post-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-5);
+  }
 
   /* ──────────────── Mobile ──────────────── */
   @media (max-width: 720px) {
-    .about-hero__inner { padding: var(--space-7) var(--space-5); gap: var(--space-5); }
-    .about-hero__avatar { width: 140px; height: 140px; }
+    .about-hero__inner {
+      padding: var(--space-7) var(--space-5);
+      gap: var(--space-5);
+    }
+
+    .about-hero__avatar {
+      width: 140px;
+      height: 140px;
+    }
   }
 </style>

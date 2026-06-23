@@ -404,6 +404,11 @@ const footerLinks = [
         transform: translate(-1px,-1px);
         box-shadow: var(--cel-3);
       }
+      .bs-btn--primary:hover { color: var(--gold-400); }
+      .bs-btn--primary:hover svg polygon { fill: var(--gold-400); }
+      .bs-btn--danger:hover { color: #fff; }
+      .bs-btn--secondary:hover { color: var(--ink); }
+      .bs-btn--outline:hover { color: var(--ink); }
       .button.alt:hover { background: var(--blue-50); color: var(--blue-700); transform: translate(-1px,-1px); box-shadow: var(--cel-3); }
       .bs-btn:not(.bs-btn--flat):not(.bs-btn--ghost):active,
       .button:active { transform: translate(2px,2px); box-shadow: var(--cel-press); }
@@ -812,9 +817,9 @@ const footerLinks = [
           ))}
         </nav>
         <div class="header-search">
-          <form class="header-search__form" action="/blog" method="get" role="search">
+          <form class="header-search__form" action="/search" method="get" role="search">
             <i class="header-search__icon fa-solid fa-magnifying-glass" aria-hidden="true"></i>
-            <input class="header-search__input" type="search" name="q" placeholder="Search…" aria-label="Search blog posts" />
+            <input class="header-search__input" type="search" name="q" placeholder="Search…" aria-label="Search posts and projects" />
             <button class="header-search__btn" type="submit" aria-label="Submit search">
               <i class="fa-solid fa-magnifying-glass"></i>
             </button>
