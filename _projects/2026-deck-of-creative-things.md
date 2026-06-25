@@ -3,7 +3,7 @@ title       : (2025) Deck of Creative things
 excerpt     : A deck of cards that helps inspire creative works.
 post_date   : 2026-06-23 00:00:00
 header      :
-  teaser    : /public/uploads/2026/
+  teaser    : /public/uploads/2026/2026-deckofcreativethings-v1.png
 toc         : false
 tags:
 - Projects
@@ -20,6 +20,12 @@ And so the Deck of Creative Things project is born.
 
 The deck starts with only one card, "#1 Add a new Card". When this card is drawn I create a new card and add it to the bottom of the deck, then move the drawn card to a discard pile. When the draw pile is out of cards, I reshuffle the discard pile back into the draw pile.
 
+## Rules
+
+- When a card is drawn its placed into the discard pile.
+- If the deck is empty, '**#1 - Add a new Card**'' to the discards, then shuffle the discards into the deck for tomorrow.
+  - Note: The '#1 - Add a new Card' use to be its own card, but the rules were updated (2026-June-25) to remove this card, and change it so that a new card is added when ever you exaust the deck.
+
 ## List of Cards (So far)
 
 - **#1 - Add a new Card** - Helps build the deck (Seed card)
@@ -28,9 +34,11 @@ The deck starts with only one card, "#1 Add a new Card". When this card is drawn
 
 ## Timeline
 
+<a href='/public/uploads/2026/2026-deckofcreativethings-v1.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2026/2026-deckofcreativethings-v1.png" alt="Version 1 of the ceck of cards"></a>
+
 - **June 21** - "#1 Add a new Card". It was the only card in the deck. I added card "#2 Documentation", and put the "#1 Add a new card" into the discard pile.
 - **June 22** - "#2 Documentation". It was the only card in the deck. I updated my website personal website [ABlueStar](https://blog.abluestar.com/). Since there is no more cards in the deck. I **shuffled** the two cards in the deck for tomorrow
 - **June 23** - "#2 Documentation", and I made this project page (this page) for the ***Deck of Creative Things** to record the progress.
 - **June 24** - "#1 Add a new Card", it was the only card in the deck. I added "#3 - Photo Artwork" to the bottom of the deck.
 - **June 25** - "#3 Photo Artwork" it was the only card in the deck. I photographed [Gather](https://publicartregistry.com/artwork/gather-0734ea02) by [Rebecca Bayer](https://www.rebeccabayer.com/) and added it to [Public Art Registry](https://publicartregistry.com/) project. Since there is no more cards in the deck, I **shuffled** the three cards in the deck for tomorrow.
-- **June 26** - "#3 Photo Artwork"
+  - (**June 25**) Note: The rules were changed. The "#1 Add a new Card" card was removed, and instead when you exaust the deck you add a new card before shuffling. 
