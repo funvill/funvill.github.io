@@ -28,17 +28,19 @@ The deck starts with only one card, "#1 Add a new Card". When this card is drawn
 
 ## List of Cards (So far)
 
-- **#1 - Add a new Card** - Helps build the deck (Seed card)
+- ~~#1 - Add a new Card~~ - Helps build the deck (Seed card). I replaced this card on June 25. Instead if you ever reach the bottom of the deck you add a new card.
 - **#2 - Documentation** - I wanted this card near the start so it happens frequently. If you don't document your work, did it actually happen?
 - **#3 - Photo Artwork** - This give me motivation to photo public artworks and contribute to [Public Art Registry](https://publicartregistry.com/) project.
 
 ## Timeline
 
-<a href='/public/uploads/2026/2026-deckofcreativethings-v1.png'><img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2026/2026-deckofcreativethings-v1.png" alt="Version 1 of the ceck of cards"></a>
+<a href='/public/uploads/2026/2026-deckofcreativethings-v1.png'><img style="float: right; margin: 10px; max-width: 200px; border: 1px solid black; padding: 5px" src="/public/uploads/2026/2026-deckofcreativethings-v1.png" alt="Version 1 of the ceck of cards" title='Version 1, I plan to make these nicer soon'></a>
 
-- **June 21** - "#1 Add a new Card". It was the only card in the deck. I added card "#2 Documentation", and put the "#1 Add a new card" into the discard pile.
-- **June 22** - "#2 Documentation". It was the only card in the deck. I updated my website personal website [ABlueStar](https://blog.abluestar.com/). Since there is no more cards in the deck. I **shuffled** the two cards in the deck for tomorrow
-- **June 23** - "#2 Documentation", and I made this project page (this page) for the ***Deck of Creative Things** to record the progress.
-- **June 24** - "#1 Add a new Card", it was the only card in the deck. I added "#3 - Photo Artwork" to the bottom of the deck.
-- **June 25** - "#3 Photo Artwork" it was the only card in the deck. I photographed [Gather](https://publicartregistry.com/artwork/gather-0734ea02) by [Rebecca Bayer](https://www.rebeccabayer.com/) and added it to [Public Art Registry](https://publicartregistry.com/) project. Since there is no more cards in the deck, I **shuffled** the three cards in the deck for tomorrow.
-  - (**June 25**) Note: The rules were changed. The "#1 Add a new Card" card was removed, and instead when you exaust the deck you add a new card before shuffling. 
+- **June 21** - **"#1 Add a new Card"**. It was the only card in the deck. I added card "#2 Documentation", and put the "#1 Add a new card" into the discard pile.
+- **June 22** - **"#2 Documentation"**. It was the only card in the deck. I updated my website personal website [Migrating from Jekyll to Astro](/migrating-from-jekyll-to-astro/).
+  - **Shuffled** the two cards into the deck.
+- **June 23** - **"#2 Documentation"**. I made this project page (this page) for the ***Deck of Creative Things** to record the progress.
+- **June 24** - **"#1 Add a new Card"**. It was the only card in the deck. I added "#3 - Photo Artwork" to the bottom of the deck.
+- **June 25** - **"#3 Photo Artwork"**. It was the only card in the deck. I photographed [Gather](https://publicartregistry.com/artwork/gather-0734ea02) by [Rebecca Bayer](https://www.rebeccabayer.com/) and added it to [Public Art Registry](https://publicartregistry.com/) project.
+  - **Note**: The rules were changed. The "#1 Add a new Card" card was removed, and instead when you exaust the deck you add a new card before shuffling.
+  - **Shuffled** the two* cards into the deck.
