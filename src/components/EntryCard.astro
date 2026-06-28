@@ -1,4 +1,6 @@
 ---
+import { displayTag, displayCategory } from '../lib/content';
+
 interface Props {
   title: string;
   excerpt?: string;
@@ -14,6 +16,7 @@ interface Props {
 const { title, excerpt, href, image, meta, category, date, tags = [], variant = 'card' } = Astro.props;
 const dateLabel = date ?? meta;
 const visibleTags = tags.slice(0, 4);
+const categoryLabel = category ? displayCategory(category) : undefined;
 
 // Canonical category → Badge tone map (from ProjectCard.jsx).
 const catSlug = (category ?? '').toLowerCase().replace(/\s+/g, '-');
@@ -37,8 +40,8 @@ const fallbackBg = image
 <a class={`bs-projectcard ${variant}`} href={href}>
   <!-- Image tile -->
   <div class="bs-projectcard__media" style={`background: ${fallbackBg};`}>
-    {category && (
-      <span class={`bs-projectcard__badge bs-badge bs-badge--${catTone}-solid`}>{category}</span>
+    {categoryLabel && (
+      <span class={`bs-projectcard__badge bs-badge bs-badge--${catTone}-solid`}>{categoryLabel}</span>
     )}
     {dateLabel && (
       <span class="bs-projectcard__year bs-badge bs-badge--year">{dateLabel}</span>
@@ -53,7 +56,7 @@ const fallbackBg = image
       <div class="bs-projectcard__tags">
         {visibleTags.map((t) => (
           <span class="bs-tag bs-tag--vivid" style={`background: ${tagColor(t)}; border-color: var(--ink); color: #fff;`}>
-            <span class="bs-tag__hash">#</span>{t}
+            <span class="bs-tag__hash">#</span>{displayTag(t)}
           </span>
         ))}
       </div>

@@ -1,5 +1,5 @@
 ---
-import { formatDate, slugify } from '../lib/content';
+import { formatDate, slugify, displayTag, displayCategory } from '../lib/content';
 
 interface Heading {
   depth: number;
@@ -85,7 +85,7 @@ const pillColor = (label: string) => {
             </div>
             <div class="detail-tags-card__chips">
               {categories.map((cat) => (
-                <a class="detail-pill" href={`/categories/${slugify(cat)}/`} style={`background: ${pillColor(cat)};`}>{cat}</a>
+                <a class="detail-pill" href={`/categories/${slugify(cat)}/`} style={`background: ${pillColor(cat)};`}>{displayCategory(cat)}</a>
               ))}
             </div>
           </div>
@@ -100,7 +100,7 @@ const pillColor = (label: string) => {
             </div>
             <div class="detail-tags-card__chips">
               {tags.map((tag) => (
-                <a class="detail-pill" href={`${tagBase}/${slugify(tag)}/`} style={`background: ${pillColor(tag)};`}>{tag}</a>
+                <a class="detail-pill" href={`${tagBase}/${slugify(tag)}/`} style={`background: ${pillColor(tag)};`}>{displayTag(tag)}</a>
               ))}
             </div>
           </div>

@@ -35,6 +35,7 @@ Instead of a coin cell holder, wires could be connected to the battery leads and
 
 ## Prior art
 <img src='\public\uploads\2023\e-aster.png' alt='e-aster.png' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >
+
 - [e-aster](https://www.tindie.com/products/warmbit/e-aster/?pt=ac_prod_search) - a beautiful 48mm circular disc with 61 WS2812B-2020 RGB LEDs
 - [Fibonacci64 RGB LED Disc with inner and outer Voronoi](https://www.youtube.com/watch?v=lkAKGvGanKs) by [Evil Genius Labs](https://www.evilgeniuslabs.org/). Also see the [Lux Lavalier](https://www.evilgeniuslabs.org/lux-lavalier)
 

@@ -1,7 +1,7 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
 import PillLink from '../../components/PillLink.astro';
-import { collectTags, getPosts } from '../../lib/content';
+import { collectTags, getPosts, displayTag } from '../../lib/content';
 const tags = collectTags(getPosts());
 ---
 <MainLayout title="Posts by Tag" description="Browse posts by tag.">
@@ -22,7 +22,7 @@ const tags = collectTags(getPosts());
   </section>
   <section class="section archive-panel">
     <div class="taxonomy">
-      {tags.map((tag) => <PillLink href={`/tags/${tag.slug}/`} label={tag.name} count={tag.count} />)}
+      {tags.map((tag) => <PillLink href={`/tags/${tag.slug}/`} label={displayTag(tag.name)} count={tag.count} />)}
     </div>
   </section>
 </MainLayout>

@@ -106,6 +106,7 @@ Stackable SVG images for with different attributes, CSS classes for colors,
 ### Unsorted ideas
 
 <img src="/public/uploads/2023/biopunk6.png" alt="biopunk1" style="float: right; margin: 10px; border: 1px solid black; padding: 5px"/>
+
 - The gene order could be randomized on start up. This means the user will need to breed to figure out what gene connects with what physical trait. This might be too advanced for most people.
 - Radiation, you can scramble the regressive gene. Randomizing it.
 - A gene that prevents the plant from breeding.

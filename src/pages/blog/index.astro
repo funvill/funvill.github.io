@@ -39,6 +39,7 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
           date={post.date}
           excerpt={post.excerpt}
           categories={post.categories}
+          tags={post.tags}
           image={post.header?.teaser}
           readMinutes={readMinutes(post.rawContent)}
         />

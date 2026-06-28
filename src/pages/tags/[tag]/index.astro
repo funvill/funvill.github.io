@@ -1,7 +1,7 @@
 ---
 import MainLayout from '../../../layouts/MainLayout.astro';
 import PostListItem from '../../../components/PostListItem.astro';
-import { getEntriesByTag, collectTags, getPosts } from '../../../lib/content';
+import { getEntriesByTag, collectTags, getPosts, displayTag } from '../../../lib/content';
 
 export function getStaticPaths() {
   return collectTags(getPosts()).map((tag) => ({
@@ -12,11 +12,12 @@ export function getStaticPaths() {
 
 const { tag } = Astro.props;
 const posts = getEntriesByTag(tag.slug);
+const tagLabel = displayTag(tag.name);
 
 const WPM = 220;
 const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/\s+/).filter(Boolean).length / WPM));
 ---
-<MainLayout title={`Tag: ${tag.name}`} description={`Posts tagged ${tag.name}.`}>
+<MainLayout title={`Tag: ${tagLabel}`} description={`Posts tagged ${tagLabel}.`}>
   <section class="page-hero bs-starfield" aria-label="Page intro">
     <div class="page-hero__inner">
       <div class="bs-label page-hero__kicker">
@@ -26,12 +27,12 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
         Tag archive
       </div>
       <div class="page-hero__row">
-        <h1>#{tag.name}</h1>
+        <h1>#{tagLabel}</h1>
         <span class="page-hero__count">{tag.count} posts</span>
       </div>
     </div>
   </section>
   <section class="section" style="display:flex;flex-direction:column;gap:var(--space-5)">
-    {posts.map((post) => <PostListItem variant="full" href={post.permalink} title={post.title} date={post.date} excerpt={post.excerpt} categories={post.categories} image={post.header?.teaser} readMinutes={readMinutes(post.rawContent)} />)}
+    {posts.map((post) => <PostListItem variant="full" href={post.permalink} title={post.title} date={post.date} excerpt={post.excerpt} categories={post.categories} tags={post.tags} image={post.header?.teaser} readMinutes={readMinutes(post.rawContent)} />)}
   </section>
 </MainLayout>

@@ -75,6 +75,45 @@ function normalizePublicUrl(value?: string) {
     .replaceAll('\\', '/');
 }
 
+// Acronyms and proper nouns where the canonical casing is NOT title-case.
+// Keys are the lowercase-kebab tag value; values are the display form.
+const TAG_DISPLAY_OVERRIDES: Record<string, string> = {
+  ai: 'AI',
+  c: 'C',
+  cnc: 'CNC',
+  cpp: 'C++',
+  esp32: 'ESP32',
+  esp8266: 'ESP8266',
+  fastled: 'FastLED',
+  jlcpcb: 'JLCPCB',
+  kicad: 'KiCad',
+  led: 'LED',
+  pcb: 'PCB',
+  php: 'PHP',
+  vhs: 'VHS',
+  ws2812: 'WS2812',
+  '3d-printing': '3D Printing',
+  'raspberry-pi': 'Raspberry Pi',
+  'stained-glass': 'Stained Glass',
+  'maker-faire': 'Maker Faire',
+  'laser-cut': 'Laser Cut'
+};
+
+export function displayTag(tag: string) {
+  const key = tag.toLowerCase();
+  if (TAG_DISPLAY_OVERRIDES[key]) return TAG_DISPLAY_OVERRIDES[key];
+  return tag
+    .split('-')
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1).toLowerCase())
+    .join(' ');
+}
+
+export function displayCategory(cat: string) {
+  // Canonical categories from taxonomy.json are already display-cased
+  // ("Year of Ideas", "Projects", etc.). Echo back unchanged.
+  return cat;
+}
+
 export function slugify(value: string) {
   return value
     .toLowerCase()

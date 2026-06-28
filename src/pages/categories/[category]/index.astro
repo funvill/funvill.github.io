@@ -32,6 +32,6 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     </div>
   </section>
   <section class="section" style="display:flex;flex-direction:column;gap:var(--space-5)">
-    {posts.map((post) => <PostListItem variant="full" href={post.permalink} title={post.title} date={post.date} excerpt={post.excerpt} categories={post.categories} image={post.header?.teaser} readMinutes={readMinutes(post.rawContent)} />)}
+    {posts.map((post) => <PostListItem variant="full" href={post.permalink} title={post.title} date={post.date} excerpt={post.excerpt} categories={post.categories} tags={post.tags} image={post.header?.teaser} readMinutes={readMinutes(post.rawContent)} />)}
   </section>
 </MainLayout>

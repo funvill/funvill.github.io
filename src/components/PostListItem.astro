@@ -1,5 +1,5 @@
 ---
-import { formatDate } from '../lib/content';
+import { formatDate, displayTag, displayCategory } from '../lib/content';
 
 interface Props {
   variant?: 'compact' | 'full';
@@ -8,6 +8,7 @@ interface Props {
   date?: Date;
   excerpt?: string;
   categories?: string[];
+  tags?: string[];
   image?: string;
   readMinutes?: number;
 }
@@ -19,11 +20,14 @@ const {
   date,
   excerpt,
   categories = [],
+  tags = [],
   image,
   readMinutes,
 } = Astro.props;
 
 const category = categories[0];
+const categoryLabel = category ? displayCategory(category) : undefined;
+const visibleTags = tags.slice(0, 6);
 
 // Hashed hover-shadow color per card (same palette as ProjectCard.jsx TAG_COLORS).
 const HOVER_PALETTE = [
@@ -33,6 +37,12 @@ const HOVER_PALETTE = [
 let _h = 0;
 for (let i = 0; i < title.length; i++) _h = (_h * 31 + title.charCodeAt(i)) >>> 0;
 const hoverColor = HOVER_PALETTE[_h % HOVER_PALETTE.length];
+
+const tagColor = (label: string) => {
+  let h = 0;
+  for (let i = 0; i < label.length; i++) h = (h * 31 + label.charCodeAt(i)) >>> 0;
+  return HOVER_PALETTE[h % HOVER_PALETTE.length];
+};
 ---
 
 {variant === 'compact' ? (
@@ -45,7 +55,7 @@ const hoverColor = HOVER_PALETTE[_h % HOVER_PALETTE.length];
     </div>
     <div class="bs-post-row__body">
       <div class="bs-post-row__meta">
-        {category && <span class="bs-badge bs-badge--cyan">{category}</span>}
+        {categoryLabel && <span class="bs-badge bs-badge--cyan">{categoryLabel}</span>}
         {date && <span class="bs-post-row__date">
           <time datetime={date.toISOString()}>{formatDate(date)}</time>
           {readMinutes != null && <> · {readMinutes} min</>}
@@ -67,7 +77,7 @@ const hoverColor = HOVER_PALETTE[_h % HOVER_PALETTE.length];
   >
     <div class="bs-blog-row__main">
       <div class="bs-blog-row__meta">
-        {category && <span class="bs-badge bs-badge--cyan">{category}</span>}
+        {categoryLabel && <span class="bs-badge bs-badge--cyan">{categoryLabel}</span>}
         {date && <span class="bs-blog-row__date">
           <time datetime={date.toISOString()}>{formatDate(date)}</time>
           {readMinutes != null && <> · {readMinutes} min</>}
@@ -75,6 +85,15 @@ const hoverColor = HOVER_PALETTE[_h % HOVER_PALETTE.length];
       </div>
       <h2 class="bs-blog-row__title">{title}</h2>
       {excerpt && <p class="bs-blog-row__excerpt">{excerpt}</p>}
+      {visibleTags.length > 0 && (
+        <div class="bs-blog-row__tags">
+          {visibleTags.map((t) => (
+            <span class="bs-blog-row__tag" style={`background:${tagColor(t)};`}>
+              <span class="bs-blog-row__tag-hash">#</span>{displayTag(t)}
+            </span>
+          ))}
+        </div>
+      )}
       <span class="bs-readpost">
         Read post
         <svg class="bs-readpost__star" viewBox="0 0 100 100" width="12" height="12" aria-hidden="true">
@@ -209,6 +228,29 @@ const hoverColor = HOVER_PALETTE[_h % HOVER_PALETTE.length];
     font-size: 16px;
     line-height: 1.6;
   }
+
+  /* Tag pills under the excerpt */
+  .bs-blog-row__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+  }
+  .bs-blog-row__tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    padding: 3px 9px 4px;
+    border-radius: var(--radius-pill);
+    border: var(--bw-1) solid var(--ink);
+    color: #fff;
+    font-family: var(--font-display);
+    font-weight: var(--fw-semibold);
+    font-size: var(--fs-xs);
+    line-height: 1.2;
+    box-shadow: var(--cel-1);
+  }
+  .bs-blog-row__tag-hash { opacity: 0.7; }
 
   /* Read-post link with animated star */
   .bs-readpost {

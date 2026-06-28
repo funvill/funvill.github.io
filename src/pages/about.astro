@@ -104,7 +104,7 @@ const readMinutes = (raw?: string) => Math.max(1, Math.round((raw ?? '').split(/
     <div class="post-list">
       {recentPosts.map((post) => (
       <PostListItem variant="full" href={post.permalink} title={post.title} date={post.date} excerpt={post.excerpt}
-        categories={post.categories} image={post.header?.teaser} readMinutes={readMinutes(post.rawContent)} />
+        categories={post.categories} tags={post.tags} image={post.header?.teaser} readMinutes={readMinutes(post.rawContent)} />
       ))}
     </div>
   </section>
