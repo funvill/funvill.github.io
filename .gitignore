@@ -21,6 +21,11 @@ codekit-config.json
 .astro
 dist
 
+# Files moved out of public/uploads/ by scripts/frontmatter/11-archive-orphans.mjs
+# (uploads not referenced from any built HTML page — kept out of git, but on disk
+# so you can review/restore before deleting permanently).
+_archived-uploads/
+
 # macOS
 .DS_Store
 
