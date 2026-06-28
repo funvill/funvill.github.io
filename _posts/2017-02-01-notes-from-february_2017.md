@@ -1,13 +1,23 @@
 ---
 title: "Notes from February 2017"
 date: 2017-02-01 00:01:00
-categories:
-- Bookmarks
-toc: true
 slug: notes-from-february_2017
-
+categories:
+  - Bookmarks
+tags:
+  - paper
+  - led
+  - laser-cut
+  - cnc
+  - art
+  - maps
+  - vancouver
+  - photo
+  - video
+  - bookmark
+excerpt: "February 2017 links: laser-cut art from 1000 Errors, paper beetle kits, Mongoose OS, the USB Killer V3, and the CIA cartography map drops."
+toc: true
 ---
-
 Some of the things that I have found interesting in February 2017.
 
 ## Tips and tricks 

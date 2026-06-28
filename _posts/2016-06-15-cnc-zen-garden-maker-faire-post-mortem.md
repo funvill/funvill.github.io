@@ -1,12 +1,22 @@
 ---
 title: "CNC Zen Garden - Vancouver Maker Faire 2016 Post Mortem"
 date: 2016-06-15 00:01:00
-categories:
-- Projects
 slug: cnc-zen-garden-maker-faire-post-mortem
-
+categories:
+  - Projects
+tags:
+  - plastic
+  - glass
+  - cnc
+  - arduino
+  - motor
+  - code
+  - flowers
+  - maker-faire
+  - vancouver
+  - photo
+excerpt: "Post mortem of the CNC zen garden at Vancouver Mini Maker Faire 2016: shorts, skipped steps, and fixes that worked."
 ---
-
 This is a post mortem of the version of the cnc zen garden that I took to the [Vancouver Mini Maker Faire 2016](http://makerfaire.ca/). 
 
 During the faire I discovered many issues with the machine. Most of these issues I was able to resolve during the faire or at least patch until the end of the faire. Despite all these issues the machine ran through the faire and I learned a lot. 

@@ -1,12 +1,15 @@
 ---
 title: "Tips for pulling an all nighter"
 date: 2007-07-18 09:00:00
-categories:
-- Tips
 slug: tips-for-pulling-an-all-nighter
-
+categories:
+  - Tips
+tags:
+  - ideas
+  - tutorial
+  - journal
+excerpt: "Tips for pulling an all-nighter at the computer: showers, dark editor themes, fruit, a 4 a.m. meal, and loud music."
 ---
-
 <img src="/public/uploads/2007/07/shift-work-sleep-disorder.thumbnail.jpg" alt="shift-work-sleep-disorder.jpg" align="right" />
 <blockquote>People who say they sleep like a baby usually don't have one.
 ~Leo J. Burke</blockquote>

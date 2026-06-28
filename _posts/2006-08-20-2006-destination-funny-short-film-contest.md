@@ -1,12 +1,16 @@
 ---
 title: "2006 DESTINATION FUNNY SHORT FILM CONTEST"
 date: 2006-08-20 00:18:00
-categories:
-- Vancouver
 slug: 2006-destination-funny-short-film-contest
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - video
+  - canada
+  - journal
+excerpt: "The 2006 Destination Funny Shorts contest accepts comedic films 3 to 15 minutes long for screening at the September 18 CanWest Comedyfest event."
 ---
-
 <a href="/public/uploads/2006/logo_top_tilt_230x157.gif" rel="lightbox"><img src="/public/uploads/2006/logo_top_tilt_230x157.gif" alt="logo_top_tilt_230x157.gif" title="logo_top_tilt_230x157.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="137" width="200" /></a>
 
 <strong>2006 DESTINATION FUNNY SHORT FILM CONTEST</strong>

@@ -1,12 +1,18 @@
 ---
 title: "Camilla dErrico - One of my favorite Vancouver artists"
 date: 2007-04-05 09:00:00
-categories:
-- Vancouver
 slug: camilla-derrico-one-of-my-favorite-vancouver-artists
-
+categories:
+  - Vancouver
+tags:
+  - web
+  - art
+  - vancouver
+  - photo
+  - painting
+  - review
+excerpt: "Notes on Vancouver artist Camilla d'Errico, her helmet-head paintings, and where to find her prints and gallery shows."
 ---
-
 <a href="http://www.camilladerrico.com/"><img src="/public/uploads/Octopus_small_1.jpg" alt="Octopus_small_1.jpg" title="Octopus_small_1.jpg" align="right" border="0" height="240" width="300" /></a>
 
 <a href="http://www.camilladerrico.com/">Camilla d'Errico</a> is one of my favorite Vancouver artists, I first met her at the main street monthly comic convention back in early 2006. Her work was amazing her helmet head paintings blew me away. She had a very original style, with a hint of Anime,  a bit of sex appeal, colorful, and with the obvious experience that makes her work stand out of the crowed.

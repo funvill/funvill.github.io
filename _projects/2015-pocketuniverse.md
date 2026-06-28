@@ -1,11 +1,17 @@
 ---
-title: (2015) Pocket Universe 
-excerpt: Mirroed dome
-post_date: 2015-01-01 00:00:00
+title: "(2015) Pocket Universe"
+date: 2015-01-01 00:00:00
+slug: 2015-pocketuniverse
+categories:
+  - Projects
+tags:
+  - plastic
+  - led
+  - video
+excerpt: "Mirroed dome"
 header:
-  teaser: /public/uploads/teaser_2015_pocket_universe.png
+  teaser: /uploads/teaser_2015_pocket_universe.png
 ---
-
 This is the page for the pocket universe
 
 **Physical Description:**

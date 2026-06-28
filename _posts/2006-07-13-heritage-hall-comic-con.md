@@ -1,12 +1,16 @@
 ---
 title: "Heritage Hall Comic Con"
 date: 2006-07-13 12:38:00
-categories:
-- Vancouver
 slug: heritage-hall-comic-con
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - art
+  - paper
+  - canada
+excerpt: "Heritage Hall Comic Con on August 27, 2006 gathers small-press and alternative comic creators on Main Street in Vancouver."
 ---
-
 <img src="/public/uploads/2006/07/con_stackofcomics.jpg" id="image36" alt="Heritage Hall Comic Con" align="right" />
 A day of alternative &amp; small-press comics, zines, artwork &amp; culture
 

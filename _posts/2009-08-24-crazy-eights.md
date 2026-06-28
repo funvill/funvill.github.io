@@ -1,13 +1,14 @@
 ---
 title: "Crazy Eights"
 date: 2009-08-24 11:18:00
-categories:
-- Cards
-- Games
 slug: crazy-eights
-
+categories:
+  - Games
+tags:
+  - ideas
+  - tutorial
+excerpt: "Rules for Crazy Eights, the classic shedding card game where 8s are wild and let you change the called suit."
 ---
-
 Crazy Eights is a card game for two or more players.
 
 <strong>What you need to play</strong>

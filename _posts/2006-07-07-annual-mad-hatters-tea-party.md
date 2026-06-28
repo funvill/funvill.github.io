@@ -1,12 +1,14 @@
 ---
 title: "Annual Mad Hatters Tea Party"
 date: 2006-07-07 11:54:00
-categories:
-- Vancouver
 slug: annual-mad-hatters-tea-party
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - canada
+excerpt: "The 13th Annual Mad Hatter's Tea Party brings Alice in Wonderland characters to three Vancouver parks across two weekends in July."
 ---
-
 <img src="/public/uploads/2006/07/mad-tea-party-with-queen-2.thumbnail.jpg" id="image24" alt="Annual Mad Hatters Tea Party" align="right" />
 
 The 13th Annual

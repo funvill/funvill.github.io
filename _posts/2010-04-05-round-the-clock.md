@@ -1,13 +1,14 @@
 ---
 title: "Round The Clock"
 date: 2010-04-05 18:00:00
-categories:
-- Dice
-- Games
 slug: round-the-clock
-
+categories:
+  - Dice
+tags:
+  - ideas
+  - tutorial
+excerpt: "Round the Clock is a two-dice game where players race to roll the numbers 1 through 12 in sequence."
 ---
-
 Round the Clock is a dice game.
 
 <strong>What you need to play this game</strong>

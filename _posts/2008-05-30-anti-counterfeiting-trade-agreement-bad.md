@@ -1,12 +1,16 @@
 ---
 title: "Anti-Counterfeiting Trade Agreement = BAD"
 date: 2008-05-30 14:16:00
-categories:
-- News
 slug: anti-counterfeiting-trade-agreement-bad
-
+categories:
+  - Media
+tags:
+  - security
+  - vancouver
+  - canada
+  - video
+excerpt: "A 2008 rant against ACTA and what it would mean for Canadian travellers, ripped CDs, and border laptop searches."
 ---
-
 Have you heard about the €˜Anti-Counterfeiting Trade Agreement,&quot;
 <blockquote>The agreement is being structured much like the North American Free Trade Agreement (NAFTA) except it will create rules and regulations regarding private copying and copyright laws.
 Federal trade agreements do not require parliamentary approval.

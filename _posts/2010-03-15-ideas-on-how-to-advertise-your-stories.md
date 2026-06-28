@@ -1,12 +1,15 @@
 ---
 title: "Ideas on how to advertise your stories"
 date: 2010-03-15 22:31:00
-categories:
-- SEO
 slug: ideas-on-how-to-advertise-your-stories
-
+categories:
+  - Development
+tags:
+  - tutorial
+  - web
+  - ideas
+excerpt: "A list of ways writers can promote a short story before and after publication, from blogs to social media to forums."
 ---
-
 Here are a few different ways that you can advertise your story before and after it has been published. 
 
 Blog, You should start a blog as soon as possible. You don't have to update it every day, just when ever you get accepted at a new magazine and when the story is published. A blog can help you keep your fans up to date on where you are getting published.

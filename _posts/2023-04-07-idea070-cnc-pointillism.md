@@ -1,20 +1,18 @@
 ---
 title: "Idea 070 - CNC Pointillism"
 date: 2023-04-07 01:10:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- art
-- cnc
-- robots
-- Projects
-- Ideas
-excerpt: Use a CNC to make paint dot paintings one dot at a time
 slug: idea070-cnc-pointillism
-
+categories:
+  - Year of Ideas
+tags:
+  - art
+  - cnc
+  - robots
+  - ideas
+  - painting
+  - photo
+excerpt: "Use a CNC to make paint dot paintings one dot at a time"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

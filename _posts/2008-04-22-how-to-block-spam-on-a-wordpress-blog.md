@@ -1,17 +1,16 @@
 ---
 title: "How to block spam on a wordpress Blog"
 date: 2008-04-22 11:13:00
-categories:
-- Development
-tags:
-- plugins
-- spam
-- Development
-- wordpress
 slug: how-to-block-spam-on-a-wordpress-blog
-
+categories:
+  - Development
+tags:
+  - code
+  - web
+  - php
+  - tutorial
+excerpt: "Five-step walkthrough for turning on Akismet in WordPress to kill almost all comment spam."
 ---
-
 To help stop spam activate the <a href="http://akismet.com/download/">Akismet plugin</a>.
 <ol>
 	<li>Login to your wordpress blog</li>

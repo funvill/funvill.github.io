@@ -1,15 +1,18 @@
 ---
 title: "Dodecahedron PCB Design"
 date: 2024-03-30 00:01:00
-excerpt: PCB design of a pentagon plate of a dodecahedron lamp
+slug: dodecahedron-pcb-design
 categories:
-- Projects
-- PCB
+  - Projects
 tags:
-- PCB
-- JLCPCB
+  - pcb
+  - jlcpcb
+  - led
+  - soldering
+  - code
+  - ideas
+excerpt: "PCB design of a pentagon plate of a dodecahedron lamp"
 ---
-
 <img src='\public\uploads\2024\Dodecahedron.gif' alt='Dodecahedron' title='Dodecahedron' style='float: right;border: 1px solid black; margin: 5px; padding: 5px;'> It seems to be a right of passage that people learning how to design PCBs make an LED Cube. It's a good learning project because it only has a few components and each face (PDB Boards) is identical.
 
 I wanted to test out a few PCB design elements on a larger board so I decided to use Pentagons instead of [Equilateral Triangles] to make a Regular Pentagon [Dodecahedron](https://en.wikipedia.org/wiki/Regular_dodecahedron).

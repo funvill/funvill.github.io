@@ -1,13 +1,17 @@
 ---
 title: "Costs - Stained glass windows project"
 date: 2019-04-10 00:01:00
-categories:
-- Projects
-- stainglass
 slug: costs-stained-glass-windows-project
-
+categories:
+  - Projects
+tags:
+  - wood
+  - plastic
+  - glass
+  - stained-glass
+  - furniture
+excerpt: "Bill of materials for one stained glass panel: pixels, acrylic, plywood, and laser time totalling about $156 CAD."
 ---
-
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 
 
 I needed to come up with a price tag for these stained glass windows panels. I been selling a few of them at local art galleries and to friends. I made have 16 unique panels so far and it looks like there is some demand for them. I have also been asked to make a workshop so others can make their own panels. 

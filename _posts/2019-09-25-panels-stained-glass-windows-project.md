@@ -1,13 +1,22 @@
 ---
 title: "Panels - Stained glass windows project"
 date: 2019-09-25 00:01:00
-categories:
-- Projects
-- stainglass
 slug: panels-stained-glass-windows-project
-
+categories:
+  - Projects
+tags:
+  - paper
+  - glass
+  - led
+  - laser-cut
+  - stained-glass
+  - code
+  - art
+  - vancouver
+  - hackspace
+  - photo
+excerpt: "Walkthrough of every panel in the digital stained glass window series: beehive, mountains, stars, hexagon weave, heart, sun, and more."
 ---
-
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window).
 
 ## Beehive panels

@@ -1,12 +1,16 @@
 ---
 title: "RGB LED POV Globe - Research other peoples projects."
 date: 2011-03-24 22:17:00
-categories:
-- Development
 slug: rgb-led-pov-globe-%e2%80%93-research-other-peoples-projects
-
+categories:
+  - Development
+tags:
+  - led
+  - art
+  - jewelry
+  - video
+excerpt: "Research notes on other POV display projects that influenced the RGB LED globe build."
 ---
-
 There are a lot of different POV projects out there that have influenced my project.
 
 <a href="http://www.instructables.com/id/n00tron-3D-Spherical-Display-Interactive-Exhibit/">n00tron 3D volumetric spherical display - interactive exhibit</a>

@@ -1,12 +1,14 @@
 ---
 title: "Office Parkour and ZombinLaden"
 date: 2011-09-30 12:12:00
-categories:
-- Media
 slug: office-parkour-and-zombinladen
-
+categories:
+  - Media
+tags:
+  - video
+  - bookmark
+excerpt: "Three short videos worth watching: Biting Elbows office parkour, ZombinLaden, and the Daffy Duck Wizard short."
 ---
-
 <a href="http://www.youtube.com/watch?v=QYm-dT24iRY&feature=player_embedded">Insane Office Escape (try this at work!) - Biting Elbows</a>
 Interesting music video, includes: free running, <a href="http://en.wikipedia.org/wiki/Parkour">parkour</a>, interesting fight sequence and camera angles. Well worth the 3mins it takes to watch it. 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/QYm-dT24iRY" frameborder="0" allowfullscreen></iframe>

@@ -1,12 +1,14 @@
 ---
 title: "Abbotsford International Airshow"
 date: 2006-07-02 11:43:00
-categories:
-- Vancouver
 slug: abbotsford-international-airshow
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - canada
+excerpt: "Heads-up for the 2006 Abbotsford International Airshow on August 11-13, an hour drive from Vancouver."
 ---
-
 <img src="/public/uploads/2006/07/ch124.jpg" id="image11" alt="Abbotsford International Airshow" align="right" />
 <strong>Where:</strong> The Abbotsford Airport, a short drive from Vancouver (1 hour)
 <strong>When:</strong> AUGUST 11-13

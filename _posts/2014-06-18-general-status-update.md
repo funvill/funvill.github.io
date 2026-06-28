@@ -1,12 +1,16 @@
 ---
 title: "General status update"
 date: 2014-06-18 00:16:00
-categories:
-- Self
 slug: general-status-update
-
+categories:
+  - Self
+tags:
+  - security
+  - journal
+  - code
+  - web
+excerpt: "Six-month status update covering Google Authenticator two-factor setup across daily web apps and adding it to a test server."
 ---
-
 Its been 6 months since I last updated this site. Lots have been going on here are the highlights.
 
 <strong>Two factor authentication </strong>

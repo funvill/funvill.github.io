@@ -1,13 +1,14 @@
 ---
 title: "Waterfall"
 date: 2010-10-11 19:11:00
-categories:
-- Drinking
-- Games
 slug: waterfall
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Waterfall, a relay-style team drinking game where each player chugs a pint before tagging the next teammate."
 ---
-
 Waterfall is a drinking game.
 <strong>
 What you Need to Play</strong>

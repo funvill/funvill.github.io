@@ -1,16 +1,19 @@
 ---
 title: "Inspiration - Stained glass windows project"
 date: 2018-04-10 00:01:00
-categories:
-- Projects
-tags:
-- stainedglass
-- inspiration
-- research
 slug: inspiration-stained-glass-windows-project
-
+categories:
+  - Projects
+tags:
+  - stained-glass
+  - wood
+  - glass
+  - led
+  - laser-cut
+  - code
+  - art
+excerpt: "Inspiration for the stained glass windows project, from Lumina Lab's Stoicheia dodecahedron to mandala work on Instagram."
 ---
-
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window).
 
 I was looking for a project that allowed me to combine my experience with the laser cutter, programing, and my new fascination with Math Art, mandalas and sacred geometry.

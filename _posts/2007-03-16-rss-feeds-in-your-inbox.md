@@ -1,12 +1,15 @@
 ---
 title: "Rss feeds in your inbox"
 date: 2007-03-16 12:53:00
-categories:
-- Tips
 slug: rss-feeds-in-your-inbox
-
+categories:
+  - Tips
+tags:
+  - tutorial
+  - web
+  - bookmark
+excerpt: "Services like rssfwd.com and squeet.com turn any RSS feed into email updates for people who refuse to use a feed reader."
 ---
-
 <p align="left"><a href="/public/uploads/2007/03/logosqueetrssbars.png" title="RSS bars 100Ã—100"><img src="/public/uploads/2007/03/logosqueetrssbars.png" alt="RSS bars 100Ã—100" align="left" /></a>Most people that I talk to find <a href="/what-are-rss-feeds-and-how-to-use-them/">RSS feeds</a> confusing.</p>
 <p align="left">They don't want to set up a feed reader , they can seem to understand that it could save them time in the long run and helps them organize all the blogs and news groups that they they read.</p>
 <p align="left">Checking 35 websites every day just in case something new has been posted seems ridiculous to me but its a way of life for many others.</p>

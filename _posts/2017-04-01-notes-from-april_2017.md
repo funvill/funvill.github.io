@@ -1,13 +1,23 @@
 ---
 title: "Notes from April 2017"
 date: 2017-04-01 00:01:00
-categories:
-- Bookmarks
-toc: true
 slug: notes-from-april_2017
-
+categories:
+  - Bookmarks
+tags:
+  - paper
+  - plastic
+  - cnc
+  - esp8266
+  - code
+  - markdown
+  - art
+  - robots
+  - canada
+  - tutorial
+excerpt: "April 2017 links: Google AnyPixel, a drinkable tequila cloud, the Cubic Cyphercon puzzle badge, ESP8266 deauther, and Shodan."
+toc: true
 ---
-
 Some of the things that I have found interesting in April 2017. This page is updated throughout the month of April. See [March 2017](/notes-from-march_2017) for the previous month.
 
 ## Projects 

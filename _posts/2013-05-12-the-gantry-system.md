@@ -1,20 +1,18 @@
 ---
 title: "The Giant Claw Game! - The Gantry System"
 date: 2013-05-12 18:33:00
-categories:
-- Projects
-tags:
-- claw game
-- corexy
-- gantry
-- pictures
-- Projects
-- xy
-- xytable
 slug: the-gantry-system
-
+categories:
+  - Projects
+tags:
+  - robots
+  - photo
+  - motor
+  - furniture
+  - maker-faire
+  - wood
+excerpt: "Switching the Giant Claw from a four-motor skycam to a two-motor CoreXY gantry with eight pulleys on top of the cube."
 ---
-
 This week I have working on the gantry system. The gantry system is used to move the claw around inside the Cube.
 
 <a href="/public/uploads/2013/05/350px-Skycam_Husky_Stadium.jpg"><img class="size-thumbnail wp-image-3270 alignright" alt="Skycam" src="/public/uploads/2013/05/350px-Skycam_Husky_Stadium-150x150.jpg" width="150" height="150" /></a> I was originally planing on attaching the claw to 4 cables running to pulleys in each of the corners of the cube. The cables would be attached to four electric motors. Just like the <a href="http://en.wikipedia.org/wiki/Skycam">sky cam</a> that you can some time see at stadium.

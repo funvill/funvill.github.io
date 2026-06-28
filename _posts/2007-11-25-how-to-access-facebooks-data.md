@@ -1,12 +1,16 @@
 ---
 title: "How to access Facebooks data"
 date: 2007-11-25 20:47:00
-categories:
-- Development
 slug: how-to-access-facebooks-data
-
+categories:
+  - Development
+tags:
+  - php
+  - web
+  - tutorial
+  - code
+excerpt: "Walkthrough of the Facebook REST API using PHP to pull friends, check pairs, and look up user info."
 ---
-
 In my last article I talked about how to create <a href="/how-to-make-a-facebook-applcation/">a very simple Facebook Application</a>.
 We created a simple hello world application that didn't do too much besides login to the Facebook API.
 

@@ -1,20 +1,16 @@
 ---
 title: "Cakephp - Using the same view for multiple controler functions"
 date: 2009-11-19 12:05:00
-categories:
-- Development
-tags:
-- cakephp
-- controler
-- php
-- render
-- snippit
-- template
-- Development
 slug: cakephp-using-the-same-view-for-multiple-controler-functions
-
+categories:
+  - Development
+tags:
+  - php
+  - code
+  - tutorial
+  - web
+excerpt: "How to reuse one CakePHP view across multiple controller actions by disabling autoRender and calling render() with the template path."
 ---
-
 <strong>Question:</strong>
 I have a Cakephp project the controller has several different methods.
 

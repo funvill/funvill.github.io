@@ -1,12 +1,16 @@
 ---
 title: "Summer Addiction Beach Party"
 date: 2006-08-19 00:07:00
-categories:
-- Vancouver
 slug: summer-addiction-beach-party
-
+categories:
+  - Vancouver
+tags:
+  - maps
+  - vancouver
+  - canada
+  - journal
+excerpt: "Summer Addiction kicks off August 30 at Tonic Nightclub on Granville with a beach party set including tiki huts, palm trees, and a VIP raft lounge."
 ---
-
 <a href="/public/uploads/2006/summeraddiction_copy.jpg" rel="lightbox"><img src="/public/uploads/2006/summeraddiction_copy.jpg" alt="summeraddiction_copy.jpg" title="summeraddiction_copy.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="200" width="157" /></a>
 
 <strong>Summer Addiction Beach Party</strong>

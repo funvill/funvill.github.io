@@ -1,13 +1,14 @@
 ---
 title: "Questions"
 date: 2010-03-29 17:42:00
-categories:
-- Drinking
-- Games
 slug: questions
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Questions is a drinking game where players take turns asking questions and drink for any hesitation, answer, or rule break."
 ---
-
 Questions is a drinking game.
 
 This is a favorite drinking game, although it&quot;s often difficult to find people willing to play it.  Mid-level buzz factor. Basic supplies only: people and beer.  It starts with a room full of people, the more the merrier.  The object is to ask a question when it's your turn, but this is much more difficult than it seems.  The rules are:

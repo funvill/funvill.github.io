@@ -1,13 +1,19 @@
 ---
-title       : (2021) Lighthouse Liquor Cabinet
-excerpt     : Converting a Lighthouse Redemption Machine into a liquor and glassware cabinet
-post_date   : 2021-11-22 00:00:00
-header      :
-  teaser    : /public/uploads/2021/lighthouse_banner.jpg
-toc         : true
-toc_sticky  : true
+title: "(2021) Lighthouse Liquor Cabinet"
+date: 2021-11-22 00:00:00
+slug: 2021-lighthouse-liquor-cabinet
+categories:
+  - Projects
+tags:
+  - glass
+  - led
+  - coins
+  - furniture
+excerpt: "Converting a Lighthouse Redemption Machine into a liquor and glassware cabinet"
+header:
+  teaser: /uploads/2021/lighthouse_banner.jpg
+toc: true
 ---
-
 ## The Find
 
 <img style='float: right; margin: 0 15px; width: 300px' src="/public/uploads/2021/lighthouse_on_side_of_road.jpg" alt="Lighthouse Redemption machine on the side of the road"> I found a Lighthouse Redemption machine on the side of the road in the pouring rain. It looked like it had fallen out of the back of a truck.

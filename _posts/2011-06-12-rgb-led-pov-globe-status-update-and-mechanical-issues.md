@@ -1,14 +1,19 @@
 ---
 title: "RGB LED POV Globe - Status update and mechanical issues"
 date: 2011-06-12 15:27:00
-categories:
-- Arduino
-- Development
-- Projects
 slug: rgb-led-pov-globe-status-update-and-mechanical-issues
-
+categories:
+  - Development
+tags:
+  - led
+  - arduino
+  - motor
+  - jewelry
+  - maker-faire
+  - vancouver
+  - hackspace
+excerpt: "Twelve days before Maker Faire the 6-foot POV ring bent under stress, so the build shrank to a bicycle rim."
 ---
-
 This project has somewhat hit a road block and with 12 days left before <a href="http://makerfaire.ca/">Maker Faire</a> I'm starting to panic. This leaves me with ~4 good working days left. Here is my current stats.
 
 <strong>Editor and Simulator</strong>

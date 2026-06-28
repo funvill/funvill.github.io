@@ -1,19 +1,18 @@
 ---
-title: (2014) Thread Map of Vancouver 
-excerpt: Laser cut map of vancouver with GPS heat map of a years worth of travel.
-categories: Art Projects Maps
-tags: 
-- Art
-- maps
-- Projects
-- thread
-- Vancouver
-- yarn
-post_date: 2014-01-01 00:00:00
+title: "(2014) Thread Map of Vancouver"
+date: 2014-01-01 00:00:00
+slug: 2014-threadmapofvancouver
+categories:
+  - Projects
+tags:
+  - art
+  - maps
+  - fabric
+  - vancouver
+excerpt: "Laser cut map of vancouver with GPS heat map of a years worth of travel."
 header:
-  teaser: /public/uploads/teaser_2014_thread_map_of_vancouver.png
+  teaser: /uploads/teaser_2014_thread_map_of_vancouver.png
 ---
-
 I have been collecting data about myself since the start of 2014 as part of the [Quantified Self movement](http://en.wikipedia.org/wiki/Quantified_Self). One of the data points that I have been collecting is my location. Over the year I have been collecting my location data with these three different applications.
 
 - [Moves-app](http://www.moves-app.com/) - This application is passive and works in the background on my phone. It tracks the location as well as path between each location and the method of travel. This application has moderate accuracy and can get confused if the GPS gives the wrong data

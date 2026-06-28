@@ -1,13 +1,14 @@
 ---
 title: "Centurians"
 date: 2009-08-10 11:03:00
-categories:
-- Drinking
-- Games
 slug: centurians
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Centurions, the Power Hour drinking game: one shot of beer every minute for 100 minutes, no chugging."
 ---
-
 Centurians is a Drinking game
 This game is also known as Century Club, Centurions, Power Hour, or The '100'
 

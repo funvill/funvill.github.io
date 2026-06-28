@@ -1,21 +1,15 @@
 ---
 title: "NiceDog nano php web framework"
 date: 2012-07-28 02:01:00
-categories:
-- Development
-tags:
-- code
-- coding
-- frameworks
-- php
-- Tips
-- web
-- Development
-- webdev
 slug: nicedog-nano-php-web-framework
-
+categories:
+  - Development
+tags:
+  - code
+  - php
+  - web
+excerpt: "Trying out NiceDog, a single-file PHP nano framework, fixing a few bugs and writing the missing example project."
 ---
-
 Last week I started on a simple web app that only has three pages. After I got the prototype working I wanted to clean up the code and switch over to using a more robust framework. Normally I would use something like <a href="http://cakephp.org/">CakePHP</a> (PHP MVC framework). But since this web app is so small and didn't need all the extra power that CakePHP provided I decided the CakePHP is probably overkill. I did a quick google search and found a nano php web framework called <a href="https://github.com/bastos/nicedog">NiceDog</a>. Its a single file, very light, framework similar to <a href="http://webpy.org/">web.py</a> for python.
 
 After playing around with the source code for a while I found a few bugs with the system. The tutorial also didn't include a example project to download and try out. So I fixed some of the bugs and created the example code.

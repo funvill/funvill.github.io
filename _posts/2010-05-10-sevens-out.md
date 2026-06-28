@@ -1,13 +1,14 @@
 ---
 title: "Sevens Out"
 date: 2010-05-10 14:36:00
-categories:
-- Dice
-- Games
 slug: sevens-out
-
+categories:
+  - Dice
+tags:
+  - ideas
+  - tutorial
+excerpt: "Sevens Out is a two-dice game where players keep rolling and adding until they roll a seven, then pass the dice."
 ---
-
 Sevens Out is a dice game.
 
 <strong>What You Need to Play</strong>

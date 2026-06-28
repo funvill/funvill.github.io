@@ -1,18 +1,15 @@
 ---
 title: "WHAT IS reCAPTCHA"
 date: 2008-04-01 14:35:00
-categories:
-- Development
-tags:
-- Development
-- OCR
-- Puzzle
-- Development
-- Website
 slug: what-is-recaptcha
-
+categories:
+  - Development
+tags:
+  - code
+  - web
+  - review
+excerpt: "How reCAPTCHA reuses the time people spend solving CAPTCHAs to OCR words from scanned books."
 ---
-
 <blockquote>
 <p style="padding-top: 0px"> A <a href="http://recaptcha.net/captcha.html">CAPTCHA</a> is a program that can tell whether its user is a human or a computer. You've probably seen them €” colorful images with distorted text at the bottom of Web registration forms. CAPTCHAs are used by many websites to prevent abuse from "bots," or automated programs usually written to generate spam. No computer program can read distorted text as well as humans can, so bots cannot navigate sites protected by CAPTCHAs.</p>
  About 60 million CAPTCHAs are solved by humans around the world every day. In each case, roughly ten seconds of human time are being spent. Individually, that's not a lot of time, but in aggregate these little puzzles consume more than 150,000 hours of work each day. What if we could make positive use of this human effort? <a href="http://en.wikipedia.org/wiki/ReCAPTCHA" title="ReCAPTCHA" rel="wikipedia" target="_blank" class="zem_slink">reCAPTCHA</a> does exactly that by channeling the effort spent solving CAPTCHAs online into "reading" books.

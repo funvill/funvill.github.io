@@ -1,13 +1,23 @@
 ---
 title: "Laser cutting in Vancouver"
 date: 2017-03-06 00:01:00
-categories:
-- Vancouver
-toc: true
 slug: lasercutting-in-vancouver
-
+categories:
+  - Vancouver
+tags:
+  - wood
+  - metal
+  - paper
+  - laser-cut
+  - cnc
+  - code
+  - art
+  - maps
+  - furniture
+  - jewelry
+excerpt: "A guide to laser cutting in Vancouver after 4000 hours on the machines: where to cut, who to follow, and which shop to avoid."
+toc: true
 ---
-
 # Laser cutting in Vancouver
 
 A laser cutter is an amazing tool. Its simple enough to be teach in a single day and easy to produce high quality projects. A laser cutter should be one of the first tools that every maker-space should buy. Until recently laser cutters we expensive to buy and run, but that is changing with cheap Chinese imports and local distributors competing on price.

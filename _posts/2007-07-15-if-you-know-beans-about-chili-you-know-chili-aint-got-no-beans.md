@@ -1,12 +1,14 @@
 ---
 title: "If you know beans about chili, you know chili aint got no beans"
 date: 2007-07-15 16:07:00
-categories:
-- Recipes
 slug: if-you-know-beans-about-chili-you-know-chili-aint-got-no-beans
-
+categories:
+  - Tips
+tags:
+  - recipe
+  - tutorial
+excerpt: "My slow-cooker chili recipe with bacon and three kinds of beans, plus a note on the no-beans purist debate."
 ---
-
 <blockquote>"Next to jazz music, there is nothing that lifts the spirit and strengthens the soul more than a good bowl of chili. Congress should pass a law making it mandatory for all restaurants serving chili to follow a Texas recipe."
 €” Harry James, trumpet player.</blockquote>
 <a href="/public/uploads/2007/07/600px-pot_of_chili.jpg" title="600px-pot_of_chili.jpg"><img src="/public/uploads/2007/07/600px-pot_of_chili.thumbnail.jpg" alt="600px-pot_of_chili.jpg" align="right" /></a>A popular saying among self-proclaimed chili purists is "<em>If you know beans about chili, you know chili ain't got no beans</em>". The thought that beans do not belong in chili may be further credited to the fact that most "

@@ -1,13 +1,22 @@
 ---
 title: "January 2018 brain dump"
 date: 2018-01-31 00:01:00
-categories:
-- Bookmarks
-toc: true
 slug: january-2018-brain-dump
-
+categories:
+  - Bookmarks
+tags:
+  - paper
+  - arduino
+  - raspberry-pi
+  - motor
+  - code
+  - art
+  - photo
+  - video
+  - bookmark
+excerpt: "Notes on dropping Evernote for are.na, TeamViewer alternatives, blockchain art, the Ice Cold Beer game, and a pile of bookmarks."
+toc: true
 ---
-
 Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post ([1](/notes-from-may_2017), [2](/notes-from-april_2017), [3](/notes-from-march_2017) ). (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes) 
 
 ### I have stopped using Evernote 

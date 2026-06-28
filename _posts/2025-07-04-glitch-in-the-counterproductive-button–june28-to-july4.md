@@ -1,14 +1,16 @@
 ---
 title: "Glitch in the CounterProductive Button – June 28 to July 4"
 date: 2025-07-04 00:01:00
+slug: glitch-in-the-counterproductive-button–june28-to-july4
 categories:
-- projects
+  - Projects
 tags:
-- projects
-- art
-excerpt: CounterProductive downtime between June 28-July 4
+  - art
+  - esp32
+  - code
+  - sensor
+excerpt: "CounterProductive downtime between June 28-July 4"
 ---
-
 The [CounterProductive Button](https://blog.abluestar.com/projects/2025-counterproductive/) experienced downtime between **Saturday, June 28 and Friday, July 4 2025** due to a connectivity issue.
 
 ## What Happened

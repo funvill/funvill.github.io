@@ -1,18 +1,15 @@
 ---
 title: "Idea 092 - Command line tools as desktop applications"
 date: 2023-04-29 01:32:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- tools
-- Projects
-- Ideas
-excerpt: Desktop application UI wrapped around common Windows Linux MacOS command line tools
 slug: idea092-command-line-tools-as-desktop-applications
-
+categories:
+  - Year of Ideas
+tags:
+  - ideas
+  - code
+  - web
+excerpt: "Desktop application UI wrapped around common Windows Linux MacOS command line tools"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

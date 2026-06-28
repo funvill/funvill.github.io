@@ -1,16 +1,17 @@
 ---
 title: "Birding in Vancouver"
 date: 2021-07-10 00:22:00
-categories:
-- Self
-- Projects
-tags:
-- Birds
-toc: true
 slug: birding-vancouver
-
+categories:
+  - Self
+tags:
+  - birds
+  - vancouver
+  - journal
+  - photo
+excerpt: "Beginner birding resources for Vancouver: intro videos, local birding sites, and notes from making the Birds of Play card deck."
+toc: true
 ---
-
 Since the start of 2021 I have gotten really into birding. I am very new to this hobbie less then a year.
 
 I created the ["birds of play"](/projects/2021-bird-playing-cards/) deck of cards using the photos I took.

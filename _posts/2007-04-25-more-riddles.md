@@ -1,12 +1,14 @@
 ---
 title: "More riddles"
 date: 2007-04-25 09:00:00
-categories:
-- Puzzle
 slug: more-riddles
-
+categories:
+  - Games
+tags:
+  - ideas
+  - journal
+excerpt: "A second batch of lateral-thinking riddles with answers tucked below the cut."
 ---
-
 I enjoyed them so much the first time I posted <a href="/riddles/">some riddles</a> that I am going to do it again.
 
 Answers after the cut€¦

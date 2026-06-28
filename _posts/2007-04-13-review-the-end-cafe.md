@@ -1,12 +1,15 @@
 ---
 title: "Review - The End Cafe"
 date: 2007-04-13 09:00:00
-categories:
-- Vancouver
 slug: review-the-end-cafe
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - maps
+  - review
+excerpt: "A short review of The End Cafe on Commercial Drive: good live Spanish band, fun crowd, badly mixed Amaretto Sour."
 ---
-
 <p style="text-align: center"><img src="/public/uploads/IMG_0100.jpg" alt="IMG_0100.jpg" title="IMG_0100.jpg" border="0" height="279" width="520" /></p>
 Last Saturday night around 9pm we where killing time at Broadway Skytrain station before heading downtown to see some show and we decided to in at The End Cafe for a bit.
 

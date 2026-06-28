@@ -1,12 +1,18 @@
 ---
-title       : (2022) Monthly Habit Tracker
-excerpt     : A monthly habit tracker inspired by Simone Giertz “The Every Day Calendar”
-post_date   : 2022-08-20 00:00:00
-header      :
-  teaser    : /public/uploads/2022/habit_tracker_banner.png
-toc         : true
+title: "(2022) Monthly Habit Tracker"
+date: 2022-08-20 00:00:00
+slug: 2022-monthly-habit-tracker
+categories:
+  - Projects
+tags:
+  - led
+  - esp32
+  - pcb
+excerpt: "A monthly habit tracker inspired by Simone Giertz “The Every Day Calendar”"
+header:
+  teaser: /uploads/2022/habit_tracker_banner.png
+toc: true
 ---
-
 The project is a single month habit tracker that is inspired by [Simone Giertz](https://www.simonegiertz.com/) “[The Every Day Calendar](https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar)”. It allows users to track multiple activities throughout the year by clicking on physical buttons corresponding to the activities that they have accomplished. The corresponding date on the calendar will illuminate with RGB LEDs to indicate the completion of the activity. The project features several different "modes" and has the ability to connect multiple boards together. It utilizes an ESP32 to connect to the internet and backup the data from the boards. The project is fabricated using JLPCB SMD placement services, which allows for fully automated manufacturing. Additionally, the months will progress automatically. More information can be found on the [Habit Tracker](https://github.com/funvill/habit-tracker) project page. See this [Instagram video describing this project in more details](https://www.instagram.com/p/CnlbuuUrmj2/)
 
 ## Features

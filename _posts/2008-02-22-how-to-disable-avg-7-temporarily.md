@@ -1,12 +1,14 @@
 ---
 title: "How to disable AVG 7 temporarily."
 date: 2008-02-22 12:27:00
-categories:
-- Tips
 slug: how-to-disable-avg-7-temporarily
-
+categories:
+  - Tips
+tags:
+  - tutorial
+  - security
+excerpt: "Steps to turn off the AVG 7 Resident Shield from the Free Control Center when you need to."
 ---
-
 There are various reasons to disable your anti virus temporarily.
 AVG 7 does not make it easy to disable it.
 

@@ -1,12 +1,14 @@
 ---
 title: "Midnight Mass Bike Ride"
 date: 2006-07-11 11:59:00
-categories:
-- Vancouver
 slug: midnight-mass-bike-ride
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - canada
+excerpt: "Midnight Mass bike ride meets at Grandview Park on the second and fourth Thursdays, rolling at midnight with no set route."
 ---
-
 <p align="center"><img src="/public/uploads/2006/07/193134753_8bce4bb418.jpg" id="image31" alt="Midnight Mass Bike Ride" /></p>
  Hey all you kids out there in bike land - we're days away from the 4th Thursday of the month -
 This <strong>thursday, July 27th</strong> it's time once again for the midnight mass!

@@ -1,14 +1,13 @@
 ---
 title: "Simplified Craps"
 date: 2010-05-31 15:31:00
-categories:
-- Dice
-- Gambling
-- Games
 slug: simplified-craps
-
+categories:
+  - Dice
+tags:
+  - ideas
+excerpt: "Rules for Simplified Craps, a two-dice street version of craps with a 2.8% house edge."
 ---
-
 Simplified Craps is a dice game.
 This is a simplified version of craps that is often played on the street of New York.
 

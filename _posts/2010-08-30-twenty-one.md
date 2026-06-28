@@ -1,14 +1,14 @@
 ---
 title: "Twenty One"
 date: 2010-08-30 16:18:00
-categories:
-- Dice
-- Gambling
-- Games
 slug: twenty-one
-
+categories:
+  - Dice
+tags:
+  - ideas
+  - recipe
+excerpt: "Rules for Twenty One, a single-die jeopardy game where players roll to get as close to 21 as possible without busting."
 ---
-
 Twenty one is a dice jeopardy approach game.
 This game is absurdly easy to play but it's a good game to explain what jeopardy approach games are.  In a jeopardy approach games, the object is most closely approach a goal score without exceeding it.  This game is also known as Blackjack in the USA, Pontoon in the UK, and Vingt-et-un in France.
 

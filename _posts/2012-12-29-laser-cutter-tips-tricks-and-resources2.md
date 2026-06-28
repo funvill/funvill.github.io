@@ -1,12 +1,15 @@
 ---
 title: "Laser cutter Tips, tricks and resources"
 date: 2012-12-29 13:56:00
-categories:
-- Tips
 slug: laser-cutter-tips-tricks-and-resources2
-
+categories:
+  - Tips
+tags:
+  - laser-cut
+  - tutorial
+  - bookmark
+excerpt: "A link list of places to find laser-cut files, project ideas, and inspiration for the laser cutter."
 ---
-
 &nbsp;
 
 Useful links

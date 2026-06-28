@@ -1,12 +1,17 @@
 ---
 title: "Things to do in vancouver"
 date: 2007-02-24 15:34:00
-categories:
-- Vancouver
 slug: things-to-do-in-vancouver
-
+categories:
+  - Vancouver
+tags:
+  - flowers
+  - vancouver
+  - canada
+  - journal
+  - ideas
+excerpt: "A personal running list of Vancouver spots and events, from Treetops Adventure and La Casa Gelato to the Parade of Lost Souls."
 ---
-
 <a href="/public/uploads/2007/02/vancouver_ib.jpg" title="Vancouver sky line"><img src="/public/uploads/2007/02/vancouver_ib.thumbnail.jpg" alt="Vancouver sky line" border="0" /></a>
 
 A small personal list of what to do in vancouver

@@ -1,15 +1,18 @@
 ---
-title       : (2025) Counterproductive
-excerpt     : A big button in a park
-post_date   : 2025-03-30 00:00:00
-header      :
-  teaser    : /public/uploads/2025/counterproductive-header.png
-toc         : false
+title: "(2025) Counterproductive"
+date: 2025-03-30 00:00:00
+slug: 2025-counterproductive
+categories:
+  - Projects
 tags:
-- Projects
-- Art
+  - art
+  - led
+  - code
+excerpt: "A big button in a park"
+header:
+  teaser: /uploads/2025/counterproductive-header.png
+toc: false
 ---
-
 > A social experiment and art project exploring how people interact with a button in a park.
 
 ## Instructions

@@ -1,14 +1,15 @@
 ---
 title: "Dirty Hearts"
 date: 2009-10-12 13:22:00
-categories:
-- Cards
-- Drinking
-- Games
 slug: dirty-hearts
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+  - tutorial
+excerpt: "A card-flipping drinking game where every heart turns into a round of nosy questions and unwanted dares."
 ---
-
 Dirty Hearts is a Drinking, Cards game
 
 <strong>What you need to play</strong>

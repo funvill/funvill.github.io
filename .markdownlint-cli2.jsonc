@@ -1,0 +1,19 @@
+{
+  // Track 3.2 — markdown linting for _posts/ + _projects/.
+  // Focused on the few rules that catch real authoring drift, not pedantic style nits.
+  "config": {
+    "default": true,
+    "MD003": { "style": "atx" },          // headings use # not underline
+    "MD013": false,                        // line length — turn off; we write prose
+    "MD024": { "siblings_only": true },    // duplicate headings ok if not siblings
+    "MD025": false,                        // multiple H1s ok (frontmatter title + body H1)
+    "MD026": false,                        // trailing punctuation in headings ok
+    "MD033": false,                        // inline HTML allowed (existing posts have iframes, etc.)
+    "MD034": false,                        // bare URLs ok
+    "MD036": false,                        // emphasis-as-heading sometimes intentional
+    "MD041": false,                        // first line need not be a heading
+    "MD046": { "style": "fenced" }
+  },
+  "globs": ["_posts/**/*.md", "_projects/**/*.md"],
+  "ignores": ["**/node_modules/**", "dist/**", "scripts/**", "_flockingai/**", "_pages/**"]
+}

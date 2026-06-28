@@ -1,13 +1,14 @@
 ---
 title: "Yankee Grab"
 date: 2010-11-08 20:21:00
-categories:
-- Dice
-- Games
 slug: yankee-grab
-
+categories:
+  - Dice
+tags:
+  - ideas
+  - recipe
+excerpt: "Rules for Yankee Grab, a three-dice game where players keep the highest die from each of three throws and total the score."
 ---
-
 Yankee Grab is a dice game based on a game known as Going to Boston, Going to town and Newmarket.
 
 <strong>What you Need to Play</strong>

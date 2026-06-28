@@ -1,11 +1,22 @@
 ---
-title: (2018) Stained Glass Windows
-excerpt: A series of hexagon stainglass
-post_date: 2018-01-01 00:00:00
+title: "(2018) Stained Glass Windows"
+date: 2018-01-01 00:00:00
+slug: 2018-stained-glass-window
+categories:
+  - Projects
+tags:
+  - wood
+  - plastic
+  - glass
+  - laser-cut
+  - stained-glass
+  - code
+  - art
+  - vancouver
+excerpt: "A series of hexagon stainglass"
 header:
-  teaser: /public/uploads/teaser_2018_StainedGlassWindows.png
+  teaser: /uploads/teaser_2018_StainedGlassWindows.png
 ---
-
 **Update:** Slides from [Digital Stained Glass Window Workshop](https://docs.google.com/presentation/d/1YAHR-W0YQaDec0vNDCcos4BVWG70-1gieS_fc73EP40/edit#slide=id.g6357a36643_1_98)
 
 A series of geometric, illuminated, digital stained glass windows. Each window is illuminated with dynamic, colorful, patterns that create unique animations in the glass.

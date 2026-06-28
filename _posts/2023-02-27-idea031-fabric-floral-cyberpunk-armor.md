@@ -1,18 +1,16 @@
 ---
 title: "Idea 031 - Fabric Floral Cyberpunk Armor"
 date: 2023-02-27 00:31:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- costums
-- Projects
-- Ideas
-excerpt: Following the pattern of a japanese cloth armor from the 1800s, make modern cyberpunk equivalent armor for raves
 slug: idea031-fabric-floral-cyberpunk-armor
-
+categories:
+  - Year of Ideas
+tags:
+  - ideas
+  - fabric
+  - plastic
+  - art
+excerpt: "Following the pattern of a japanese cloth armor from the 1800s, make modern cyberpunk equivalent armor for raves"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

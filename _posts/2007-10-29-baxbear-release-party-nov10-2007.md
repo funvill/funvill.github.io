@@ -1,12 +1,15 @@
 ---
 title: "BAXBEAR Release party Nov10 2007"
 date: 2007-10-29 15:28:00
-categories:
-- Vancouver
 slug: baxbear-release-party-nov10-2007
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - canada
+  - art
+excerpt: "BAXBEAR vinyl toy release party at EL Kartel on Robson Street, November 10th 2007."
 ---
-
 <a href="http://www.baxbear.com/">BAXBEAR </a>Release party Nov10 2007
 9.00 PM - midnight November 10th 2007
 <a href="http://www.elkartel.com/">EL Kartel </a>

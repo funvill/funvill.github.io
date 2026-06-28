@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && npx pagefind --site dist && node scripts/postbuild.mjs",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "lint:frontmatter": "node scripts/lint-frontmatter.mjs",
+    "lint:md": "npx markdownlint-cli2",
+    "lint": "npm run lint:frontmatter && npm run lint:md"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
@@ -18,6 +21,7 @@
     "yaml": "^2.8.2"
   },
   "devDependencies": {
+    "markdownlint-cli2": "^0.18.1",
     "pagefind": "^1.5.2"
   }
 }

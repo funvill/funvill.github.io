@@ -1,12 +1,20 @@
 ---
 title: "Notes from March 2017"
 date: 2017-03-01 00:01:00
-categories:
-- Bookmarks
 slug: notes-from-march_2017
-
+categories:
+  - Bookmarks
+tags:
+  - 3d-printing
+  - art
+  - maps
+  - robots
+  - vancouver
+  - photo
+  - video
+  - bookmark
+excerpt: "March 2017 links: a laser kaleidoscope, Lixie nixie alternatives, Vancouver crime maps, Eruv wires above Manhattan, and PBF comics."
 ---
-
 Some of the things that I have found interesting in March 2017. This page is updated throughout the month of March. See [February 2017](/notes-from-february_2017) for the previous month.
 
 ## Thinkgs I made

@@ -1,12 +1,15 @@
 ---
 title: "Day 52 - Set up at maker faire"
 date: 2015-07-07 00:52:00
-categories:
-- YearOfMaking
 slug: day-52-set-up-at-maker-faire
-
+categories:
+  - Year of Making
+tags:
+  - code
+  - maker-faire
+  - photo
+excerpt: "Photos from setting up the LED panel booth at Vancouver Mini Maker Faire 2015."
 ---
-
 I got busy and I have not been updating this post regularly. Here is a large post dump.
 
 Day 52 - At maker faire 2015

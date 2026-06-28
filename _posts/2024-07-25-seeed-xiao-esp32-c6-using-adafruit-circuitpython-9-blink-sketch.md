@@ -1,14 +1,19 @@
 ---
 title: "Seeed Xiao ESP32-C6 using Adafruit CircuitPython 9.1.1 blink sketch"
 date: 2024-07-25 00:00:01
-excerpt: How to get a Seeed Xiao ESP32-C6 board up and running with Adafruit CircuitPython 9.1.1 and blink an LED.
+slug: seeed-xiao-esp32-c6-using-adafruit-circuitpython-9-blink-sketch
 categories:
-- Projects
+  - Projects
 tags:
-- microcontroller
-- ESP32
+  - arduino
+  - esp32
+  - led
+  - raspberry-pi
+  - kicad
+  - code
+  - tutorial
+excerpt: "How to get a Seeed Xiao ESP32-C6 board up and running with Adafruit CircuitPython 9.1.1 and blink an LED."
 ---
-
 Note: Skip to the bottom to see the working example
 
 **Long version:**

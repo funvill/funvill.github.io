@@ -1,12 +1,14 @@
 ---
 title: "Instructions on how to fix your computer, install windows applications on your mac, Hack someones Facebook, and make a million dollars from a World of warcraft clone."
 date: 2010-05-12 14:02:00
-categories:
-- Joke
 slug: instructions-on-how-to-fix-your-computer-install-windows-applications-on-your-mac-hack-someones-facebook-and-make-a-million-dollars-from-a-world-of-warcraft-clone
-
+categories:
+  - Games
+tags:
+  - tutorial
+  - ideas
+excerpt: "A joke set of universal tech instructions involving a metal fork and your own face."
 ---
-
 Instructions on how to fix your computer, install windows applications on your mac, Hack someones Facebook, and make a million dollars from a World of warcraft clone.
 
 Step 1. Get a fork... it should be about 4-6" long made of metal and not too sharp.

@@ -1,15 +1,22 @@
 ---
 title: "Tetragonal Trapezohedron Retrospective"
 date: 2024-11-24 00:01:00
-excerpt: Retrospective of the Tetragonal Trapezohedron polyhedron lamp
+slug: tetragonal-trapezohedron-retrospective
 categories:
-- Projects
-- PCB
+  - Projects
 tags:
-- PCB
-- JLCPCB
+  - pcb
+  - jlcpcb
+  - paper
+  - glass
+  - led
+  - 3d-printing
+  - soldering
+  - stained-glass
+  - esp32
+  - kicad
+excerpt: "Retrospective of the Tetragonal Trapezohedron polyhedron lamp"
 ---
-
 I created the [Tetragonal Trapezohedron](https://en.wikipedia.org/wiki/Tetragonal_trapezohedron) LED polyhedron as part of the [Idea 010 - Polyhedron Papercraft Mobile](https://blog.abluestar.com/idea010-polyhedron-papercraft-mobile/), and [Idea 077 - Equilateral triangles LED panels](https://blog.abluestar.com/idea077-equilateral-triangles-led-panels/) projects.
 
 This is the second polyhedron that I created in this series. The first was the dodecahedron, see the [Dodecahedron PCB Retrospective](https://blog.abluestar.com/dodecahedron-pcb-retrospective/) for more information about the first.

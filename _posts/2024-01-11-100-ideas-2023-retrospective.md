@@ -1,14 +1,22 @@
 ---
 title: "100 ideas project retrospective (2023)"
 date: 2024-01-11 00:01:00
+slug: 100-ideas-2023-retrospective
 categories:
-- Review
-- Ideas
-- YearOfIdeas
+  - Year of Ideas
 tags:
-- Ideas
+  - ideas
+  - wood
+  - paper
+  - plastic
+  - cnc
+  - pcb
+  - art
+  - maps
+  - vhs
+  - tutorial
+excerpt: "Looking back at 100 days of daily project ideas in 2023, what got built, what got scrapped, and why I burned out doing it."
 ---
-
 <img src='\public\uploads\2023\100dayproject.png' alt='100dayproject' title='100dayproject'>
 
 A [100 days project](https://www.the100dayproject.org/) is where you make something for 100 days straight. Where the goal is to make something every single day rather than trying to make something perfect. It’s not about fetishizing finished products—it’s about the process.

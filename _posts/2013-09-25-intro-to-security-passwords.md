@@ -1,12 +1,15 @@
 ---
 title: "Intro to Security, Passwords"
 date: 2013-09-25 21:20:00
-categories:
-- Tips
 slug: intro-to-security-passwords
-
+categories:
+  - Tips
+tags:
+  - web
+  - security
+  - tutorial
+excerpt: "Intro to password security: long passwords, multi-factor auth, password databases, and why to use different passwords per site."
 ---
-
 <h1>Passwords</h1>
 <strong>Long passwords</strong>
 Longer passwords are better than random shorter passwords. The more entropy the more attempts a brute force attack will have to do to crack your password.

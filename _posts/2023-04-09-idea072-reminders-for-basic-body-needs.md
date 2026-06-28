@@ -1,18 +1,14 @@
 ---
 title: "Idea 072 - Reminders for basic body needs"
 date: 2023-04-09 01:12:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- sensors
-- Projects
-- Ideas
-excerpt: A sensor that can tell you when you are hungry or dehydrated, and other basic human needs
 slug: idea072-reminders-for-basic-body-needs
-
+categories:
+  - Year of Ideas
+tags:
+  - sensor
+  - ideas
+excerpt: "A sensor that can tell you when you are hungry or dehydrated, and other basic human needs"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

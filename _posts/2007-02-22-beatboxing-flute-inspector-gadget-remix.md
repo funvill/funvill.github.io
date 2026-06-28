@@ -1,12 +1,14 @@
 ---
 title: "Beatboxing flute inspector gadget remix"
 date: 2007-02-22 00:04:00
-categories:
-- Media
 slug: beatboxing-flute-inspector-gadget-remix
-
+categories:
+  - Media
+tags:
+  - video
+  - bookmark
+excerpt: "A YouTube clip of Greg Pattillo beatboxing the Inspector Gadget theme through a flute."
 ---
-
 A really interesting YouTube video where Greg Pattillo beatbox a flute to the inspector gadget theme, he even has a MySpace where you can listen to a few of his other songs.
 
 YouTube: <a href="http://www.youtube.com/watch?v=59ZX5qdIEB0">http://www.youtube.com/watch?v=59ZX5qdIEB0</a>

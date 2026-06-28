@@ -1,13 +1,14 @@
 ---
 title: "Indian Dice"
 date: 2009-11-30 14:09:00
-categories:
-- Dice
-- Games
 slug: indian-dice
-
+categories:
+  - Dice
+tags:
+  - ideas
+  - tutorial
+excerpt: "Rules for Indian Dice, a five-dice poker variant for when you want to play poker but cannot find the cards."
 ---
-
 Indian Dice is a poker game with dice.
 
 I have played this game a few times, mainly when we don&quot;t have a set of cards to play with and want to play poker.  Its very simple if you have played poker before.

@@ -1,19 +1,20 @@
 ---
 title: "Tech Demo - Stained glass windows project"
 date: 2018-04-11 00:01:00
-categories:
-- Projects
-tags:
-- stainedglass
-- techdemo
-- paper
-- tape
-- acrylic
-- laser
 slug: techdemo-stained-glass-windows-project
-
+categories:
+  - Projects
+tags:
+  - stained-glass
+  - paper
+  - plastic
+  - laser-cut
+  - glass
+  - led
+  - code
+  - maps
+excerpt: "Tech demo notes for the stained glass windows: gluing acrylic, building cardstock dividers, and killing LED hotspots."
 ---
-
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window).
 
 When starting a new project, I tend to create a series of tech demos of all the different techniques that I am planning on using in the project. This helps me find out what works and what doesn't.

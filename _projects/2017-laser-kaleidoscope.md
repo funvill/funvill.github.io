@@ -1,11 +1,19 @@
 ---
-title: (2017) Laser Kaleidoscope
-excerpt: Moving lasers which generate twisting fractal shapes
-post_date: 2017-01-01 00:00:00
+title: "(2017) Laser Kaleidoscope"
+date: 2017-01-01 00:00:00
+slug: 2017-laser-kaleidoscope
+categories:
+  - Projects
+tags:
+  - motor
+  - code
+  - art
+  - vancouver
+  - video
+excerpt: "Moving lasers which generate twisting fractal shapes"
 header:
-  teaser: /public/uploads/teaser_2017_LaserKaleidoscope.png
+  teaser: /uploads/teaser_2017_LaserKaleidoscope.png
 ---
-
 A circular light box that incorporates moving lasers which generate twisting fractal shapes. 16 servos are evenly placed around the circle. Each servo has a laser diode on it, with a vertical fresnel len creating a line. The servos will rotate creating patterns inspired by mathematical formulas, cardioids and fractals. This project is based on this video [Times Tables, Mandelbrot and the Heart of Mathematics](https://www.youtube.com/watch?v=qhbuKbxJsk8) by Burkard Polster also known as [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg). An [interactive animation of these fractals](http://entibo.fr/timesTables/).
 
 Source code and make files can be found on my github page [Laser Kaleidoscope](https://github.com/funvill/Laser-Kaleidoscope)

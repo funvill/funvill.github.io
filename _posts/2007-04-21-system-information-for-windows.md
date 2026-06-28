@@ -1,12 +1,14 @@
 ---
 title: "System Information for Windows"
 date: 2007-04-21 09:00:00
-categories:
-- Utility
 slug: system-information-for-windows
-
+categories:
+  - Reviews
+tags:
+  - security
+  - review
+excerpt: "SIW is a portable Windows utility that audited 30 office PCs in 15 minutes and exports full HTML hardware reports."
 ---
-
 <p style="text-align: center"><img src="/public/uploads/2007/04/siw.jpg" alt="System Information for Windows" /></p>
 A little while ago i got assigned to do an audit of all the PCs in our network. I could have taken the time to check every one of the computes one by one and write down what hardware was on each one but that would have taken the whole day instead I used this nice utility that took 15min to audit 30 computers.One of the nicest features about this utility is that it can create full HTML reports of everything on your system. It also is a portable exe (no install required) so I was able to run it from a USB stick.
 

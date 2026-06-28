@@ -1,12 +1,15 @@
 ---
 title: "Defeat your Google twin"
 date: 2007-06-22 16:03:00
-categories:
-- SEO
 slug: defeat-your-google-twin
-
+categories:
+  - Development
+tags:
+  - web
+  - ideas
+  - journal
+excerpt: "Plotting how to outrank my Google twin, the engine-casting Steven Smethurst, by Christmas."
 ---
-
 A <strong>"Google twin"</strong> is a person <a href="http://www.google.ca/search?q=steven+smethurst">who shares your name</a>, and whose information returns results on Google when you <a href="http://en.wikipedia.org/wiki/Egosurfing" title="Egosurfing">egosurf</a>. They may or may not be currently ranked higher than you.
 
 If your Google twin is ranked higher then you on google then you have to defeat him by getting your ranking for your name up higher then his.

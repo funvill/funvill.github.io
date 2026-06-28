@@ -1,18 +1,16 @@
 ---
 title: "Idea 028 - Finite Future Clock"
 date: 2023-02-24 00:28:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- keyboards
-- Projects
-- Ideas
-excerpt: Experience the passage of time in a new light with our death clock a stunning LED panel that visualizes the preciousness of life as it counts down Serves as a unique conversation starter and an amazing visualization of life itself
 slug: idea028-finite-future-clock
-
+categories:
+  - Year of Ideas
+tags:
+  - ideas
+  - paper
+  - led
+  - pcb
+excerpt: "An A2 LED panel that shows a progress bar of how much of your life has passed and how much time is left."
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

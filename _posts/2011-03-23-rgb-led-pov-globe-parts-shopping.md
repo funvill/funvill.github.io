@@ -1,13 +1,15 @@
 ---
 title: "RGB LED POV Globe - Parts shopping"
 date: 2011-03-23 21:30:00
-categories:
-- Development
-- News
 slug: rgb-led-pov-globe-parts-shopping
-
+categories:
+  - Media
+tags:
+  - led
+  - motor
+  - jewelry
+excerpt: "Parts haul for the RGB LED POV globe: 100 Piranha LEDs, sample TLC5947 drivers from TI, an OctoBrite board, and a junkyard AC motor."
 ---
-
 I spent most of the last week doing research and ordering parts samples and testing equipment, trying to get everything set up for this project.
 
 <strong>Things I have ordered.</strong>

@@ -1,12 +1,16 @@
 ---
 title: "Cakephp - Add meta tags to views"
 date: 2009-12-02 12:20:00
-categories:
-- Tips
 slug: cakephp-add-meta-tags-to-views
-
+categories:
+  - Tips
+tags:
+  - php
+  - tutorial
+  - code
+  - web
+excerpt: "How to inject per-view meta keywords and descriptions into a CakePHP layout using $scripts_for_layout and the HTML helper."
 ---
-
 This is how you add well formated meta tags to a cakephp views even thou the meta tags are rendered in the layout.
 
 In the head section of your layout, add this line:

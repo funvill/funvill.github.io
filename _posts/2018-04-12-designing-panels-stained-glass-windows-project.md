@@ -1,14 +1,16 @@
 ---
 title: "Designing panels - Stained glass windows project"
 date: 2018-04-12 00:01:00
-categories:
-- Projects
-tags:
-- stainedglass
 slug: designing-panels-stained-glass-windows-project
-
+categories:
+  - Projects
+tags:
+  - stained-glass
+  - glass
+  - laser-cut
+  - code
+excerpt: "How I design the stained glass panel patterns in Fusion 360 and Inkscape, then export SVGs ready for the laser cutter."
 ---
-
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 
 
 While designing the different patterns for the stain glass window project, I used two applications; [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview), and [Inkscape](https://inkscape.org/en/).

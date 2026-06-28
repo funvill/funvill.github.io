@@ -1,13 +1,14 @@
 ---
 title: "Tractor Pull"
 date: 2010-08-16 16:06:00
-categories:
-- Drinking
-- Games
 slug: tractor-pull
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Tractor Pull, a timed drinking game with six cups holding one through six shots of beer."
 ---
-
 Tractor Pull is a drinking game.
 
 <strong>What you Need to Play</strong>

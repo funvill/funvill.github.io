@@ -1,12 +1,15 @@
 ---
 title: "Technorati faves"
 date: 2007-06-12 09:00:00
-categories:
-- Development
 slug: technorati-faves
-
+categories:
+  - Development
+tags:
+  - web
+  - bookmark
+  - journal
+excerpt: "Joining a Technorati favourites cross-linking experiment, with the rules and the running list of blogs to fave."
 ---
-
 <img src="/public/uploads/2007/06/technoratiicon.gif" alt="technoratiicon.gif" align="right" />Technorati is becoming one of the biggest players in blogging. Its a great tool for ranking one site against anther and its also a search engine of content. Before I make a post I do a quick search on Technorati and see who else has written about it. After I make a post I search Technorati for other blogs that might benefit from my content and posts comments on there blogs.
 
 Technorati has a neat feature where you can add blogs to your favorite list, it generates a single RSS feed of all the posts and its great for building good back links. Some people got it in there mind that they could make a viral cross linking scheme to build your fave count in Technorati.

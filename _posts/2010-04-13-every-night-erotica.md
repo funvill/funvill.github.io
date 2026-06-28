@@ -1,12 +1,15 @@
 ---
 title: "Every Night Erotica"
 date: 2010-04-13 21:17:00
-categories:
-- News
 slug: every-night-erotica
-
+categories:
+  - Media
+tags:
+  - vancouver
+  - canada
+  - web
+excerpt: "Vancouver-based Every Night Erotica online magazine opens submissions ahead of its May 1, 2010 launch."
 ---
-
 <a href="http://www.everynighterotica.com/" target="_blank"><span style="font-family: Georgia; color: #0000ff; font-size: small;"><span style="text-decoration: underline;">Every Night Erotica</span></span></a><span style="font-family: Georgia; font-size: small;"> online magazine launching May 1<sup>st</sup> 2010. </span>
 
 <span style="font-family: Georgia; font-size: small;"><em>Vancouver, Canada</em> - <em>April 13, 2010 -</em> A new web magazine publishing an erotic short fiction story each night is now accepting submissions. <strong>Every Night Erotica</strong> will launch with their first sexy short story May 1<sup>st</sup> 2010.</span>

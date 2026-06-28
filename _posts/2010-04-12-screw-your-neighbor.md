@@ -1,13 +1,14 @@
 ---
 title: "Screw Your Neighbor"
 date: 2010-04-12 18:19:00
-categories:
-- Cards
-- Games
 slug: screw-your-neighbor
-
+categories:
+  - Games
+tags:
+  - ideas
+  - tutorial
+excerpt: "Screw Your Neighbor is a card elimination game where players hold one card and try to avoid being stuck with the lowest."
 ---
-
 Screw Your Neighbor is an elimination card game.  After each round, one player is eliminated (or loses a token).
 When all players but one have been eliminated, the remaining player wins the game.
 Known as 'Cuckoo', 'Chase the Ace' or sometimes 'Go Round in Britain'.  In the US it's called 'Screw Your Neighbor'.

@@ -1,11 +1,24 @@
 ---
-title: (2019) Illuminated Stained Glass Sixteen Segment Display
-excerpt: Illuminated Stained Glass Sixteen Segment Display
-post_date: 2019-01-01 00:00:00
+title: "(2019) Illuminated Stained Glass Sixteen Segment Display"
+date: 2019-01-01 00:00:00
+slug: 2019-illuminated-stained-glass-sixteen-segment-display
+categories:
+  - Projects
+tags:
+  - paper
+  - plastic
+  - glass
+  - led
+  - stained-glass
+  - arduino
+  - esp8266
+  - code
+  - art
+  - ideas
+excerpt: "Illuminated Stained Glass Sixteen Segment Display"
 header:
-  teaser: /public/uploads/foam-16-segments.png
+  teaser: /uploads/foam-16-segments.png
 ---
-
 <img src="/public/uploads/foam-16-segments.png" alt="foam-16-segments"/>
 
 I have always been fascinated by segmented displays. Maybe it that I came from a time that most display on microwaves, stoves, clocks were all segmented display. It reminds me of a simpler time.

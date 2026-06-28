@@ -1,16 +1,17 @@
 ---
 title: "Migrating from Jekyll to Astro"
 date: 2026-06-22 00:01:00
+slug: migrating-from-jekyll-to-astro
 categories:
-- meta
+  - Development
 tags:
-- web
-- astro
-- jekyll
-- meta
+  - web
+  - astro
+  - jekyll
+  - code
+  - ai
 excerpt: "On June 21, 2026 I switched the site from Jekyll to Astro and rebuilt the theme from scratch. Here's why."
 ---
-
 The blog has been running on [Jekyll](https://jekyllrb.com/) since around 2014, sitting on top of the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme. It worked fine for a long time. Write a [Markdown](https://www.markdownguide.org/) file, push to [GitHub](https://github.com/funvill/funvill.github.io), done.
 
 But after a while I stopped adding things. The old site felt like an information dump. Everything was sorted into columns and sidebars and taxonomies. It was functional but it wasn't fun. I wanted something more whimsical and creative, something that felt like a workshop or a sketchbook rather than a filing cabinet. Updating the theme was the precursor to actually posting again. Hopefully it works.

@@ -1,12 +1,13 @@
 ---
 title: "How to burn .uif files"
 date: 2007-07-26 16:12:00
-categories:
-- Tips
 slug: how-to-burn-uif-files
-
+categories:
+  - Tips
+tags:
+  - tutorial
+excerpt: "How to burn a MagicISO .uif file by decompressing it to an ISO and then writing it with ImgBurn."
 ---
-
 The .UIF or Universal Image Format File was created by MagicISO as a compressed ISO file.
 
 An ISO image (.iso) is a disk image of an ISO 9660 file system. More loosely, it refers to any optical disc image,

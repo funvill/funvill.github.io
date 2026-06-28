@@ -1,19 +1,15 @@
 ---
 title: "I like the weird"
 date: 2012-09-16 14:12:00
-categories:
-- Media
-tags:
-- burningman
-- Games
-- Interesting
-- Media
-- Video
-- youtube
 slug: i-like-the-weird
-
+categories:
+  - Media
+tags:
+  - video
+  - bookmark
+  - art
+excerpt: "Two Burning Man videos I keep coming back to, Hula Cam 2012 and Home from 2011."
 ---
-
 Games
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/46kVxnCFNWQ" frameborder="0" allowfullscreen></iframe>

@@ -1,11 +1,21 @@
 ---
-title: (2017) LED Pillar
-excerpt: A game using a single strip of LEDs as a display. Made for Vancouver Mini Maker Faire 2017
-post_date: 2017-01-01 00:00:00
+title: "(2017) LED Pillar"
+date: 2017-01-01 00:00:00
+slug: 2017-led-pillar
+categories:
+  - Projects
+tags:
+  - led
+  - arduino
+  - fastled
+  - ws2812
+  - code
+  - maker-faire
+  - vancouver
+excerpt: "A game using a single strip of LEDs as a display. Made for Vancouver Mini Maker Faire 2017"
 header:
-  teaser: /public/uploads/teaser_2017_LEDPillar.png
+  teaser: /uploads/teaser_2017_LEDPillar.png
 ---
-
 The LED Pillar project is thought experiment of how to make a game with a single strip of LEDs as the display. After a few different iterations the final game resembles popular [Guitar Hero](https://en.wikipedia.org/wiki/Guitar_Hero) game from 2005 on a single LED strip.
 
 The object of this game is to score as many points as possible by pressing the corresponding colored button as a “beat” enters the goal area. If a beat leaves the goal area or the user presses the wrong colored button, they lose a life. The user starts with 5 lives. As the game progresses the speed of the “beats” increases

@@ -1,12 +1,18 @@
 ---
 title: "Space ship mobile"
 date: 2013-02-22 17:17:00
-categories:
-- LaserCutter
 slug: space-ship-mobile
-
+categories:
+  - Projects
+tags:
+  - laser-cut
+  - wood
+  - painting
+  - vhs
+  - vancouver
+  - hackspace
+excerpt: "A laser-cut spaceship mobile made at VHS as a baby gift, with painted rings and pre-cut string holes."
 ---
-
 One of my good friends just had a child and I wanted to get them a hand made gift. I decided on making a <a href="http://en.wikipedia.org/wiki/Mobile_(sculpture)">mobile</a> with VHS's laser cutter.
 
 The first version I designed while at VHS one night.

@@ -1,13 +1,14 @@
 ---
 title: "Landmines"
 date: 2010-01-11 15:36:00
-categories:
-- Drinking
-- Games
 slug: landmines
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Landmines, a quarter-spinning shot game where empty cans pile up on the table as obstacles."
 ---
-
 Landmines is a drinking game.
 
 <strong>What you need to play</strong>

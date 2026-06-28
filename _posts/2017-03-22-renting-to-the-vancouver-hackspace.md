@@ -1,13 +1,17 @@
 ---
 title: "Renting to the vancouver hackspace"
 date: 2017-03-22 00:01:00
-categories:
-- Vancouver
-toc: true
 slug: renting-to-the-vancouver-hackspace
-
+categories:
+  - Vancouver
+tags:
+  - vhs
+  - vancouver
+  - hackspace
+  - photo
+excerpt: "Notes for any landlord considering renting to Vancouver Hackspace: unpermitted electrical, absentee board, garbage, fumes, missed rent."
+toc: true
 ---
-
 If you are thinking about renting a building or a space to the Vancouver Hackspace (VHS), think hard about that choice. It could be very costly to you and your building. 
 
 I was called to check the reference for the Vancouver Hackspace. Being a noteworthy member of the maker community they wanted to find out what I thought of VHS. The [Vancouver Hackspace is toxic, ill-manged non-profit society](/alternatives-to-the-vancouver-hackspace), and you should not rent to them for the following reasons. 

@@ -1,12 +1,15 @@
 ---
 title: "Two foot James bond"
 date: 2007-04-25 09:00:00
-categories:
-- Media
 slug: two-foot-james-bond
-
+categories:
+  - Media
+tags:
+  - video
+  - vancouver
+  - bookmark
+excerpt: "A short video clip of a two-foot-nine James Bond impersonator, found via thevancouverite.com."
 ---
-
 Found with the help of the good people at <a href="http://www.thevancouverite.com/vancouver_film/two_foot_james_bond_seriously/">thevancouverite.com</a>
 
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/eqh5O9LbjhY"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/eqh5O9LbjhY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>

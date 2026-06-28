@@ -1,21 +1,18 @@
 ---
 title: "Idea 012 - LED Constellation Star map"
 date: 2023-02-08 00:12:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- stars
-- pcb
-- eletronics
-- art
-- Projects
-- Ideas
-excerpt: Constellation map PCB made with overlapping LEDs
 slug: idea012-led-constellation-star-map
-
+categories:
+  - Year of Ideas
+tags:
+  - pcb
+  - art
+  - ideas
+  - led
+  - maps
+  - tutorial
+excerpt: "Constellation map PCB made with overlapping LEDs"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

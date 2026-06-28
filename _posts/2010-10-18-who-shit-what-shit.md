@@ -1,13 +1,14 @@
 ---
 title: "Who Shit, What Shit"
 date: 2010-10-18 19:17:00
-categories:
-- Drinking
-- Games
 slug: who-shit-what-shit
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Who Shit What Shit, a memory drinking game where everyone gets a scatological nickname woven into a rambling story."
 ---
-
 Who Shit, What Shit is a drinking game.
 
 <strong>How to Play the Game</strong>

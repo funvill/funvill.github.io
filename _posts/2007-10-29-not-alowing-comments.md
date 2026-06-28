@@ -1,13 +1,15 @@
 ---
 title: "Not alowing comments"
 date: 2007-10-29 18:41:00
-categories:
-- Tips
-- Development
 slug: not-alowing-comments
-
+categories:
+  - Tips
+tags:
+  - web
+  - tutorial
+  - ideas
+excerpt: "Warren Ellis turns off comments and asks readers to reply via trackback instead, boosting his inbound links and Google rank."
 ---
-
 I was browsing <a href="http://www.warrenellis.com">warrenellis.com</a> website the other day and tuned in to his <a href="http://www.warrenellis.com/?p=5239">4am pod cast</a>.
 After it was done I went to leave a comment only to find that comments have been turned off.
 

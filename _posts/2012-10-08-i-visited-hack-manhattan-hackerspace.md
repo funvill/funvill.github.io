@@ -1,18 +1,17 @@
 ---
 title: "I visited HACK Manhattan Hackerspace"
 date: 2012-10-08 17:40:00
-categories:
-- Travel
-tags:
-- hackspace
-- Interesting
-- photos
-- pictures
-- travel
 slug: i-visited-hack-manhattan-hackerspace
-
+categories:
+  - Travel
+tags:
+  - hackspace
+  - photo
+  - robots
+  - maker-faire
+  - metal
+excerpt: "Visiting HACK Manhattan on an OLLO robot workshop night, with a brass lock build on the lathe in progress."
 ---
-
 While I was in New York to see <a href="http://makerfaire.com/newyork/2012/">World Maker Faire</a>, I got a chance to visit <a href="http://hackmanhattan.com/">HACK Manhattan</a>.
 
 It was a busy night as they where doing a workshop with the <a href="http://www.robotis.com/xe/ollo_en">OLLO robot kit</a>. The people from OLLO gave us a robot kit to take home with us. It was a lot like <a href="http://mindstorms.lego.com/en-us/Default.aspx">lego mindstorms</a>

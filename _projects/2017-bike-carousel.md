@@ -1,11 +1,20 @@
 ---
-title: (2017) Fairmont Pacific Rim Bike Carousel
-excerpt: A custom electric bike carousel installed at the Fairmont Pacific Rim hotel downtown Vancouver.
-post_date: 2017-01-01 00:00:00 
+title: "(2017) Fairmont Pacific Rim Bike Carousel"
+date: 2017-01-01 00:00:00
+slug: 2017-bike-carousel
+categories:
+  - Projects
+tags:
+  - led
+  - fastled
+  - code
+  - art
+  - vancouver
+  - video
+excerpt: "A custom electric bike carousel installed at the Fairmont Pacific Rim hotel downtown Vancouver."
 header:
-  teaser: /public/uploads/teaser_2017_FairmontPacificRimBikeCarousel.png
+  teaser: /uploads/teaser_2017_FairmontPacificRimBikeCarousel.png
 ---
-
 The bike carousel, [Chapel Arts](http://www.chapelarts.com/) have designed for [Fairmont Pacific Rim](http://www.fairmont.com/pacific-rim-vancouver/) hotel, is one-of-a-kind, an endeavour they undertook together in the aim of elevating the storage of bikes into a form of art. The carousel fits perfectly beside the Fairmont Pacific Rim hotel’s entrance, spinning around above the pond outside the entrance, it is as functional as it is beautiful. Made of Mahogany plywood, the carousel was designed, fabricated in-house and installed by Chapel Arts at the Pacific Rim in August 2017, where it will store 18 custom electric BMW bicycles.
 
 [Chapel Arts](http://www.chapelarts.com/), a local woodworking design firm based in East Vancouver that specialises in the creation of unique, one-off designs, typically taking on furniture projects but sometimes special work, if an opportunity for invention presents itself.

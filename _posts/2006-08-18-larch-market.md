@@ -1,12 +1,16 @@
 ---
 title: "Larch Market"
 date: 2006-08-18 13:12:00
-categories:
-- Vancouver
 slug: larch-market
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - canada
+  - art
+  - journal
+excerpt: "Larch Market on August 26 is a one-day community bazaar in Kitsilano with artists, musicians, books, records, antiques, and clothing."
 ---
-
 <a href="/public/uploads/2006/english_market_cheese.JPG" rel="lightbox"><img src="/public/uploads/2006/english_market_cheese.JPG" alt="english_market_cheese.JPG" title="english_market_cheese.JPG" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="150" width="200" /></a>
 <strong>LARCH MARKET</strong>
 A community bazaar

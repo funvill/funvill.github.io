@@ -1,14 +1,18 @@
 ---
 title: "Wood frames - Stained glass windows project"
 date: 2018-05-13 00:01:00
-categories:
-- Projects
-tags:
-- stainedglass
 slug: wood-frames-stained-glass-windows-project
-
+categories:
+  - Projects
+tags:
+  - stained-glass
+  - wood
+  - plastic
+  - glass
+  - led
+  - furniture
+excerpt: "Building hexagonal baltic birch frames for the stained glass panels on the table saw, with a grooved channel holding the acrylic."
 ---
-
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 
 
 I been told that in the past that some of my projects have not been finished up well. After the technically interesting parts of the project are done I move on to the next project without adding that final layer of paint, or creating a box, giving it a name, etc. This project I wanted to spend the extra time to add a frame and other finishing touches to complete this project properly. 

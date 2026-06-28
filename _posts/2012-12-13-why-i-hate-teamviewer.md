@@ -1,12 +1,14 @@
 ---
 title: "Why I hate TeamViewer"
 date: 2012-12-13 10:47:00
-categories:
-- Rants
 slug: why-i-hate-teamviewer
-
+categories:
+  - Rants
+tags:
+  - video
+  - review
+excerpt: "Why I stopped paying for TeamViewer after version 6 was bricked by forced upgrades, and what I switched to."
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SCRzaGUKEFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Hacker news](https://news.ycombinator.com/item?id=30113513), [linusgsebastian](https://twitter.com/linusgsebastian/status/1445974503771672581)

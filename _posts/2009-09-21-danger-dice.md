@@ -1,14 +1,16 @@
 ---
 title: "Danger Dice"
 date: 2009-09-21 12:48:00
-categories:
-- Dice
-- Drinking
-- Games
 slug: danger-dice
-
+categories:
+  - Dice
+tags:
+  - glass
+  - ideas
+  - recipe
+  - tutorial
+excerpt: "A drinking game where six numbered pint glasses get filled and downed based on what comes up on a single die."
 ---
-
 Danger Dice is a Drinking game
 
 <strong>What you need to play</strong>

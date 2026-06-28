@@ -1,12 +1,14 @@
 ---
 title: "Red Bull Flugtag Vancouver"
 date: 2006-08-02 15:33:00
-categories:
-- Vancouver
 slug: red-bull-flugtag-vancouver
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - canada
+excerpt: "Red Bull Flugtag lands at Science World in False Creek on August 19, 2006 with homemade flying machines launched into the water."
 ---
-
 <a href="/public/uploads/2006/07/flash_placeholder.gif" rel="lightbox"><img src="/public/uploads/2006/07/flash_placeholder.gif" alt="flash_placeholder.gif" title="flash_placeholder.gif" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="133" width="200" /></a>
 
 <strong>What is Flugtag </strong>

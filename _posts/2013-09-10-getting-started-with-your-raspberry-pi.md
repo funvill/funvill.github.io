@@ -1,12 +1,17 @@
 ---
 title: "Getting started with your Raspberry PI"
 date: 2013-09-10 22:20:00
-categories:
-- RaspberryPI
 slug: getting-started-with-your-raspberry-pi
-
+categories:
+  - Projects
+tags:
+  - led
+  - raspberry-pi
+  - code
+  - security
+  - tutorial
+excerpt: "Step-by-step Raspberry Pi starter notes: NOOBS, SSH, AdaFruit WebIDE, and a Python blink script on the GPIO pins."
 ---
-
 The Raspberry Pi is a credit-card-sized single-board computer developed in the UK by the Raspberry Pi Foundation with the intention of promoting the teaching of basic computer science in schools
 
 A good place to start is the <a href="http://www.raspberrypi.org/wp-content/uploads/2012/04/quick-start-guide-v2_1.pdf">Raspberry PI quick start guide</a> This will describe the different components on the board and what they can be used for.

@@ -1,12 +1,15 @@
 ---
 title: "How I buy bitcoins and Ethereum"
 date: 2017-11-28 00:01:00
-categories:
-- Tips
 slug: how-i-buy-bitcoins-and-etherem
-
+categories:
+  - Tips
+tags:
+  - security
+  - canada
+  - tutorial
+excerpt: "How I buy Bitcoin and Ethereum from Canada using Coinbase, LocalBitcoins, and Quadrigacx, with the fees and signup time for each."
 ---
-
 A few months ago I started to play around with Crypto-Currency such as [Bitcoin](https://www.bitcoin.com/) and [Ethereum](https://www.ethereum.org/). Mostly to understand the [blockchain technology](https://en.wikipedia.org/wiki/Blockchain) and because of [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out) (Fear of missing out) on the price increase. Today 1 BTC == $10,000 USD. Over the last four weeks my investment/gambling has increased 110%. As the price keeps climbing up I been getting excited about it and telling people. One of the most common questions I get is how to buy Bitcoin and Ethereum.
 
 There are plenty of [guides on how to buy Crypto-Currency](https://www.buybitcoinworldwide.com/canada/) on the internet. This is how I was able to do it.

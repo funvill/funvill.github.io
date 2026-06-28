@@ -1,12 +1,14 @@
 ---
 title: "Links to torrent sites"
 date: 2008-02-11 01:56:00
-categories:
-- Junk
 slug: links-to-torrent-sites
-
+categories:
+  - Junk
+tags:
+  - bookmark
+  - web
+excerpt: "A short list of regularly-used torrent search sites and the uTorrent client."
 ---
-
 This is a list of torrent sites that I use regularly. Ranked by popularity
 <ul>
 	<li><a href="http://www.mininova.org/">http://www.mininova.org/</a></li>

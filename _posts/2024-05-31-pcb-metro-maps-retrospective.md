@@ -1,15 +1,22 @@
 ---
 title: "PCB Metro maps retrospective"
 date: 2024-05-31 00:00:01
-excerpt: Retrospective of the Vancouver skytrain and Washinton Metro PCB maps
+slug: pcb-metro-maps-retrospective
 categories:
-- Projects
-- PCB
+  - Projects
 tags:
-- PCB
-- JLCPCB
+  - pcb
+  - jlcpcb
+  - led
+  - soldering
+  - esp32
+  - code
+  - maps
+  - jewelry
+  - vancouver
+  - ideas
+excerpt: "Retrospective of the Vancouver skytrain and Washinton Metro PCB maps"
 ---
-
 The [Idea 022 - Translink map PCB](https://blog.abluestar.com/idea022-translink-map-pcb/) is part of the [100 Days of Ideas project](https://blog.abluestar.com/projects/2023-100-ideas/) from 2023.
 
 [Project page](/projects/2024-metro-map-pcb/)

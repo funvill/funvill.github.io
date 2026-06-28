@@ -1,11 +1,15 @@
 ---
 title: "Website Changelog 2024-Feb-26"
 date: 2024-02-26 00:01:00
+slug: website-changelog-2024-feb-26
 categories:
-- Review
-- Website
+  - Reviews
+tags:
+  - code
+  - web
+  - review
+excerpt: "Added /now and /uses pages, moved old /about content to a /timeline page, and made /about the new home page."
 ---
-
 A full list of changes can be found on this in this blog's [github commit history](https://github.com/funvill/funvill.github.io).
 
 - Added [/now](/now) after reading about [AboutIdeasNow.com](https://aboutideasnow.com/) on [Hacker News](https://news.ycombinator.com/item?id=39511714).

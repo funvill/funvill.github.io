@@ -1,12 +1,17 @@
 ---
 title: "Getting started with Raspberry PI - Wednesday Sep 11th, 2013 @VHS"
 date: 2013-09-07 12:16:00
-categories:
-- News
 slug: getting-started-with-raspberry-pi-wednesday-sep-11th-2013-vhs
-
+categories:
+  - Media
+tags:
+  - led
+  - raspberry-pi
+  - vhs
+  - vancouver
+  - hackspace
+excerpt: "Intro to Raspberry Pi night at VHS: install the OS, SSH in, blink an LED from Python using the GPIO pins."
 ---
-
 I am running another <a href="https://vancouver.hackspace.ca/wp/2013/09/07/getting-started-with-raspberry-pi-wednesday-sep-11th-2013/">intro to Raspberry PI night at VHS</a> this week.
 Join us
 

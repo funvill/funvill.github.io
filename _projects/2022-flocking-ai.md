@@ -1,12 +1,24 @@
 ---
-title       : (2022) Flocking AI
-excerpt     : Generating bird images from Mid Journey
-post_date   : 2022-08-20 00:00:00
-header      :
-  teaser    : /public/uploads/flockingai/banner.png
-toc         : true
+title: "(2022) Flocking AI"
+date: 2022-08-20 00:00:00
+slug: 2022-flocking-ai
+categories:
+  - Projects
+tags:
+  - paper
+  - code
+  - web
+  - ai
+  - art
+  - birds
+  - tutorial
+  - video
+  - ideas
+excerpt: "Generating bird images from Mid Journey"
+header:
+  teaser: /uploads/flockingai/banner.png
+toc: true
 ---
-
 <a href='/flockingai/'><img src='/public/uploads/flockingai/facebook-banner.png' style='margin: 10px; padding: 5px; width: 906px;' /></a>
 
 ## What is this

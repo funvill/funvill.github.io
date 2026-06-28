@@ -1,13 +1,19 @@
 ---
 title: "3D printing in vancouver"
 date: 2017-02-13 00:01:00
-categories:
-- 3Dpringing
-toc: true
 slug: 3d-printing-in-vancouver
-
+categories:
+  - Projects
+tags:
+  - 3d-printing
+  - vhs
+  - vancouver
+  - conference
+  - hackspace
+  - tutorial
+excerpt: "A guide to 3D printing in Vancouver: where to get prints done, what printer to buy, where to find models, and which shop to skip."
+toc: true
 ---
-
 # 3D printing in Vancouver
 
 If you are a beginner, that wants to get into the craft of 3D printing, or are looking to get an objected printed. This guide will help you get started.

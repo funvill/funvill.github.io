@@ -1,13 +1,15 @@
 ---
 title: "Disarm The Bomb"
 date: 2009-10-19 13:28:00
-categories:
-- Drinking
-- Games
 slug: disarm-the-bomb
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+  - tutorial
+excerpt: "A drinking game where four beer cans get taped into a cube, taped to your hands, and you have ten minutes to drink them."
 ---
-
 Disarm The Bomb is a drinking game.
 
 <strong>What you will need</strong>

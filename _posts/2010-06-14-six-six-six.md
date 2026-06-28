@@ -1,14 +1,13 @@
 ---
 title: "Six-Six-Six"
 date: 2010-06-14 15:41:00
-categories:
-- Dice
-- Gambling
-- Games
 slug: six-six-six
-
+categories:
+  - Dice
+tags:
+  - ideas
+excerpt: "Rules for Six-Six-Six, a three-dice bluffing game where players announce rolls they may or may not have made."
 ---
-
 Six-six-six is a dice game.
 A simple gambling game where the object is to bluff your roll on three dice.
 

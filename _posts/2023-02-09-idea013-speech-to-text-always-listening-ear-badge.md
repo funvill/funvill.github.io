@@ -1,23 +1,16 @@
 ---
 title: "Idea 013 - Speech to Text, always listening, ear badge"
 date: 2023-02-09 00:13:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- qs
-- audio
-- ai
-- eletronics
-- pcb
-- art
-- Projects
-- Ideas
-excerpt: An electronic badge in the shape of an ear that listens then does speech to text recording using OpenAI Whisper, 24 hours a day. Data is used to create a personalized AI virtual assistant on your own data
 slug: idea013-speech-to-text-always-listening-ear-badge
-
+categories:
+  - Year of Ideas
+tags:
+  - ai
+  - pcb
+  - art
+  - ideas
+excerpt: "An ear-shaped electronic badge that records speech to text 24 hours a day using OpenAI Whisper, feeding a personal AI assistant."
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 

@@ -1,12 +1,15 @@
 ---
 title: "SMF - Redirect after reply or post"
 date: 2007-09-25 15:25:00
-categories:
-- Tips
 slug: smf-redirect-after-reply-or-post
-
+categories:
+  - Tips
+tags:
+  - tutorial
+  - web
+  - php
+excerpt: "How to make Simple Machines Forum send users back to the topic after posting instead of dumping them on the board index."
 ---
-
 I just installed <a href="http://www.simplemachines.org/">Simple machine forum</a> (SMF) over at <a href="http://www.everydayfiction.com/forums/">EveryDayFiction.com</a>.
 it works great but it has had a few odd quirks including;
 

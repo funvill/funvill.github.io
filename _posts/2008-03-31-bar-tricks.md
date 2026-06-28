@@ -1,18 +1,15 @@
 ---
 title: "Bar Tricks"
 date: 2008-03-31 13:16:00
-categories:
-- Media
-tags:
-- Bar
-- Accessories
-- Interesting
-- tricks
-- Video
 slug: bar-tricks
-
+categories:
+  - Media
+tags:
+  - bookmark
+  - video
+  - tutorial
+excerpt: "Pointers to a Wired wiki of bar bet tricks and a video of 1000 ways to open a beer bottle."
 ---
-
 <p style="text-align: center"></p>
 
 <blockquote>You've been buying your own booze at the local bar like a sucker ever since you turned 21. But with a stiff shot of science, you can hustle the tipsy into picking up your tab. Try this pub magic to score yourself some free rounds. <em>€” William Snyder</em></blockquote>

@@ -1,14 +1,19 @@
 ---
 title: "Programing - Stained glass windows project"
 date: 2018-04-14 00:01:00
-categories:
-- Projects
-tags:
-- stainedglass
 slug: programing-stained-glass-windows-project
-
+categories:
+  - Projects
+tags:
+  - stained-glass
+  - glass
+  - led
+  - arduino
+  - esp8266
+  - fastled
+  - code
+excerpt: "Writing the firmware for the stained glass panels with FastLED on an ESP8266, using LED offset sets to drive randomised patterns."
 ---
-
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 
 
 In this project I am using a [Wemos ESP8266](/hardware-stained-glass-windows-project) development board. This board supports [micro python](https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/index.html), C/C++ and the Arduino variant of C/C++ via [ESP8266 core for Arduino](https://github.com/esp8266/Arduino). I decided to go with the ESP8266 core for Arduino because I was able to get it up and running quickly and I already had the tool chain set up for it. 

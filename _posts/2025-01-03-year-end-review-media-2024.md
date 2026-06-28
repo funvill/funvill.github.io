@@ -1,15 +1,16 @@
 ---
 title: "2024 Year in review - Movies and TV Reviews"
 date: 2025-01-03 00:01:00
+slug: year-end-review-media-2024
 categories:
-- Review
+  - Reviews
 tags:
-- tv
-- movies
-- music
-excerpt: 2024 year end Movies and TV Reviews
+  - video
+  - glass
+  - security
+  - review
+excerpt: "2024 year end Movies and TV Reviews"
 ---
-
 # TV and Movies
 
 Netflix lost me as a customer after they started [blocking password sharing](https://www.cbc.ca/news/business/netflix-password-sharing-1.6741484) in February 2023. Since then I mostly pirate movies and TV shows using my Plex server. Two years later and I am still salty about this.

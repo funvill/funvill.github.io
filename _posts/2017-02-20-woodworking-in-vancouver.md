@@ -1,13 +1,18 @@
 ---
 title: "Wood working in vancouver"
 date: 2017-02-20 00:01:00
-categories:
-- Vancouver
-toc: true
 slug: woodworking-in-vancouver
-
+categories:
+  - Vancouver
+tags:
+  - wood
+  - furniture
+  - vancouver
+  - hackspace
+  - tutorial
+excerpt: "Where to do woodworking in Vancouver: rentable shops, intro courses at the Round House and Maker Labs, plus where to buy wood and tools."
+toc: true
 ---
-
 # Wood working in Vancouver
 
 Woodworking can be a very rewarding hobby, and Vancouver is a great place to get into the craft. If you are an experienced woodworker looking for a shop, or a beginner that is looking to get started this is the guide for you.

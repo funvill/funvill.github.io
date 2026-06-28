@@ -1,12 +1,21 @@
 ---
 title: "Digital stained glass workshop"
 date: 2019-09-14 00:01:00
-categories:
-- Events
 slug: digital-stained-glass-workshop-sept2019
-
+categories:
+  - Projects
+tags:
+  - wood
+  - metal
+  - paper
+  - glass
+  - led
+  - cnc
+  - stained-glass
+  - art
+  - vancouver
+excerpt: "A workshop at MakerLabs Vancouver where attendees design a 9x9 inch illuminated stained glass window with WS2811 LEDs and CNC-cut foam."
 ---
-
 **Update**. See this post for photos from the event, source code files, Slides, and a post mortem (what worked, what didn't) 
 [Digital stained glass workshop - Post mortem](/digital-stained-glass-workshop-sept2019-post-mortem/)
 

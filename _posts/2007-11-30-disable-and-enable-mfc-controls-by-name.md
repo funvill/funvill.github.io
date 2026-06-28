@@ -1,13 +1,15 @@
 ---
 title: "Disable and Enable MFC controls by name"
 date: 2007-11-30 12:25:00
-categories:
-- Development
-- Tips
 slug: disable-and-enable-mfc-controls-by-name
-
+categories:
+  - Tips
+tags:
+  - cpp
+  - tutorial
+  - code
+excerpt: "Snippets for enabling, hiding, and moving MFC dialog controls by ID using GetDlgItem."
 ---
-
 I use this snippet all the time to disable/enable, hide/show, move MFC controls.
 
 <code>

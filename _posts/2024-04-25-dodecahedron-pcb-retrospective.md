@@ -1,15 +1,19 @@
 ---
 title: "Dodecahedron PCB Retrospective"
 date: 2024-04-25 00:01:00
-excerpt: Retrospective of the dodecahedron polyhedron lamp
+slug: dodecahedron-pcb-retrospective
 categories:
-- Projects
-- PCB
+  - Projects
 tags:
-- PCB
-- JLCPCB
+  - pcb
+  - jlcpcb
+  - led
+  - soldering
+  - code
+  - video
+  - ideas
+excerpt: "Retrospective of the dodecahedron polyhedron lamp"
 ---
-
 The [Idea 077 - Equilateral triangles LED panels](https://blog.abluestar.com/idea077-equilateral-triangles-led-panels/) is part of the [100 Days of Ideas project](https://blog.abluestar.com/projects/2023-100-ideas/) from 2023.
 
 The idea was to create several polyhedron shapes from PCB panels with addressable LEDS on them.

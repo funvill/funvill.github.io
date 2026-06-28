@@ -1,15 +1,16 @@
 ---
 title: "Travel Tips"
 date: 2019-01-29 00:01:00
-categories:
-- Tips
-- Travel
-tags:
-- travel
 slug: jan-2019-travel-tips
-
+categories:
+  - Tips
+tags:
+  - maps
+  - photo
+  - tutorial
+  - journal
+excerpt: "What worked and what didn't on a two-month trip through South Korea, Vietnam, Cambodia, Thailand, and China."
 ---
-
 ## Traveling
 
 I took the longest vacation of my life and spent the last two months traveling in south east Asia. South Korea, Vietnam, Cambodia, Thailand, and China. It was an amazing trip filled with wonderful experiences and memories. It was good to get away from it all and recharge the mental batteries. I came back overflowing with project ideas and hope for the future. 

@@ -1,14 +1,16 @@
 ---
 title: "Do not buy from Dell"
 date: 2020-12-29 00:01:00
-categories:
-- Rants
-tags:
-- Rants
 slug: dont-buy-from-dell
-
+categories:
+  - Rants
+tags:
+  - vancouver
+  - canada
+  - review
+  - journal
+excerpt: "Why I will not buy from Dell again: a saga of failed cancellations, lost rewards, wrong shipping addresses, and useless chat support."
 ---
-
 Maybe you should not buy equipment from dell. This is my story and the reason that I will not buy from dell in the future.
 
 I purchased a [Dell 27 USB-C Ultrathin Monitor: S2719DC](https://www.dell.com/en-ca/shop/dell-27-usb-c-ultrathin-monitor-s2719dc/apd/210-aqpv/monitors-monitor-accessories?ref=frommyaccount) as part of black friday sales on *Friday, November 20, 2020* for *$510.71* 45% off. (Note: Never buy from dell at full price aka the sucker price, they always have a sale every 2-3 months for upwards of 40% off) I used $27 of Dell rewards I had from a previously ordered monitor.

@@ -1,12 +1,15 @@
 ---
 title: "Laser cut, layered circles"
 date: 2014-10-10 18:29:00
-categories:
-- LaserCutter
 slug: laser-cut-layered-circles
-
+categories:
+  - Projects
+tags:
+  - laser-cut
+  - paper
+  - tutorial
+excerpt: "A 5-layer laser-cut paper circle design with a quick Inkscape tutorial on offsetting strokes with Stroke to Path."
 ---
-
 Its 5 layers, I only have one color of paper so it kind of hard to distinguish between the different layers.
 
 <strong>Sloppy tutorial</strong>

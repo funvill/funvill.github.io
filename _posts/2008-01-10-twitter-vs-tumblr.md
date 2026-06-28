@@ -1,12 +1,14 @@
 ---
 title: "Twitter vs Tumblr"
 date: 2008-01-10 16:07:00
-categories:
-- Development
 slug: twitter-vs-tumblr
-
+categories:
+  - Development
+tags:
+  - web
+  - review
+excerpt: "Side-by-side score of Twitter and Tumblr on popularity, domains, themes, posting, and data ownership."
 ---
-
 <strong>Introduction</strong>
 There has been a lot of talk recently about the micro blogging. Micro blogging is a blogging platform that lets you post very small updates about your life, to help keep you and your friends up to date with each others lives. The services are kept very simple so anyone can use them easily.
 

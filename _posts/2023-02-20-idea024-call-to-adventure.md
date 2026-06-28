@@ -1,19 +1,16 @@
 ---
 title: "Idea 024 - Call to Adventure"
 date: 2023-02-20 00:24:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- boardgame
-- cardgame
-- Projects
-- Ideas
-excerpt: A mystery letter is delivered filled with puzzles that need to be solved in order to give directions to a meeting place for the start of an adventure.
 slug: idea024-call-to-adventure
-
+categories:
+  - Year of Ideas
+tags:
+  - ideas
+  - security
+  - coins
+  - vancouver
+excerpt: "A mystery letter is delivered filled with puzzles that need to be solved in order to give directions to a meeting place for the start of an adventure."
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

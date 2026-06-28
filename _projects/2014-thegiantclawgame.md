@@ -1,12 +1,17 @@
 ---
-title: (2014) The Giant Claw Game! 
-excerpt: A large claw game made for Vancouver Maker Faire 2014
-post_date: 2014-01-01 00:00:00
+title: "(2014) The Giant Claw Game!"
+date: 2014-01-01 00:00:00
+slug: 2014-thegiantclawgame
+categories:
+  - Projects
+tags:
+  - robots
+  - maker-faire
+  - vancouver
+excerpt: "A large claw game made for Vancouver Maker Faire 2014"
 header:
-  teaser: /public/uploads/2013/05/reference.png
-  
+  teaser: /uploads/2013/05/reference.png
 ---
-
 - [Vancouver Maker Faire 2013 project](/the-giant-claw-game-vancouver-maker-faire-2013-project)
 - [Controller](/the-giant-claw-game-controller)
 - [The Claw Research, Version 1](/the-giant-claw-game-the-claw-research-version-1)

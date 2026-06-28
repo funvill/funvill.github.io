@@ -1,23 +1,18 @@
 ---
 title: "VHS Lighting Talk Challenge coins - Super Happy Hacker House"
 date: 2012-11-04 12:20:00
-categories:
-- Projects
-tags:
-- coins
-- design
-- events
-- LaserCutter
-- lightingtalks
-- News
-- Projects
-- shhh
-- Vancouver
-- VHS
 slug: vhs-lighting-talk-challenge-coins-super-happy-hacker-house
-
+categories:
+  - Projects
+tags:
+  - coins
+  - laser-cut
+  - vancouver
+  - vhs
+  - hackspace
+  - plastic
+excerpt: "Laser-cut acrylic challenge coins for VHS members who give a lightning talk at Super Happy Hacker House."
 ---
-
 <strong>Update: </strong><a href="/updated-versions-of-vhs-lighting-talk-challenge-coins/">Updated versions of VHS Lighting Talk Challenge coins</a>
 
 The <a href="http://vancouver.hackspace.ca/">Vancouver Hackspace</a> (VHS) runs a social night called <a href="http://vancouver.hackspace.ca/wp/2012/10/23/super-happy-hacker-house-24-nov-11-2012-730-late/">Super Happy Hacker House</a> (SHHH) once every six weeks or so. One of the actives that we do at SHH is <a href="http://en.wikipedia.org/wiki/Lightning_talk">lighting talks</a>.

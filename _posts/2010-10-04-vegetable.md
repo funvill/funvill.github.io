@@ -1,13 +1,14 @@
 ---
 title: "Vegetable"
 date: 2010-10-04 19:06:00
-categories:
-- Drinking
-- Games
 slug: vegetable
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Vegetable, a word drinking game where players hide their teeth while shouting vegetable names at each other."
 ---
-
 Vegetable is a word drinking game.
 
 <strong>How to Play the Game</strong>

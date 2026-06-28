@@ -1,13 +1,19 @@
 ---
 title: "Spin Art - Vancouver Mini Maker Faire 2011"
 date: 2011-06-27 12:48:00
-categories:
-- News
-- Projects
 slug: spin-art-vancouver-mini-maker-faire-2011
-
+categories:
+  - Media
+tags:
+  - paper
+  - plastic
+  - painting
+  - motor
+  - art
+  - maker-faire
+  - vancouver
+excerpt: "Rebuilt the giant spin art box with a belt drive and splash guard three days before Maker Faire, then ran out of paper by noon day two."
 ---
-
 I build the <a href="/giant-spin-art-maker-faire-2011-vancouver/">first version</a> of my giant spin art back in may after reading build instructions in <a href="http://makeprojects.com/">Make magazine</a> Volume 25.
 
 It work okay but had a few problems. It was direct drive driven and I was worried about burning out the motor. It was scary fast and got unstable as it speeds up.

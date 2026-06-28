@@ -1,12 +1,14 @@
 ---
 title: "Interesting cactus building"
 date: 2007-04-22 09:00:00
-categories:
-- Junk
 slug: interesting-cactus-building
-
+categories:
+  - Junk
+tags:
+  - photo
+  - bookmark
+excerpt: "Urban Cactus, a 19-floor Rotterdam housing block by UCX Architects with staggered terraces that give every unit sunlight."
 ---
-
 <strong>The urban cactus building</strong>
 Found via <a href="http://www.boingboing.net/2006/11/30/cactus_building.html">boingboing.net,</a> Who found it on <a href="http://www.boingboing.net/2006/11/30/cactus_building.html"></a><a href="http://archidose.blogspot.com/2006/10/half-dose-30-urban-cactus.html">archidose.blogspot.com</a>
 

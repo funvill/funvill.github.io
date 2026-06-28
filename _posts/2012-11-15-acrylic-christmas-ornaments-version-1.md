@@ -1,13 +1,16 @@
 ---
 title: "Acrylic Christmas Ornaments version 1"
 date: 2012-11-15 22:38:00
-categories:
-- Development
-- LaserCutter
 slug: acrylic-christmas-ornaments-version-1
-
+categories:
+  - Development
+tags:
+  - plastic
+  - jewelry
+  - laser-cut
+  - vhs
+excerpt: "First cut of acrylic Christmas ornaments at VHS, with notes on letter counters and font choices to fix."
 ---
-
 <a href="/public/uploads/2012/11/2012-11-15-22.13.401.jpg"><img class="alignright size-medium wp-image-2991" title="2012-11-15 22.13.40" src="/public/uploads/2012/11/2012-11-15-22.13.401-300x175.jpg" alt="" width="300" height="175" /></a>
 
 I got some time on VHS's laser cuter tonight and was able cut up the first version of the ornaments. They still need some work.

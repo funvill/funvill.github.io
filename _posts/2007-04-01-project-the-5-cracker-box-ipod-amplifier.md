@@ -1,13 +1,16 @@
 ---
 title: "Project: The $5 Cracker Box IPod Amplifier"
 date: 2007-04-01 08:55:00
-categories:
-- Media
-- Projects
 slug: project-the-5-cracker-box-ipod-amplifier
-
+categories:
+  - Media
+tags:
+  - soldering
+  - art
+  - metal
+  - tutorial
+excerpt: "Built the MAKE magazine cracker box iPod amp around an LM386 to drive a small 8 ohm speaker for a friend's metal sculpture."
 ---
-
 This weekend we built a IPod amplifier to power a small 8ohm speaker for an art project that one of my good friends was doing. Her project involved a metal sculpture that speak a manifiesto to anyone that walked in front of it.
 
 I found the Amp Schematic in the latest <a href="http://makezine.com/09/">MAKE magazine 09</a> - <a href="http://makezine.com/09/crackerboxamp/">The $5 Cracker box amplifier</a>.

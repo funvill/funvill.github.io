@@ -1,20 +1,17 @@
 ---
 title: "More GeoCoins tests"
 date: 2012-09-20 00:05:00
-categories:
-- Projects
-tags:
-- coins
-- GeoCaching
-- GeoCoins
-- LaserCutter
-- Projects
-- VHS
-- Wood
 slug: more-geocoins-tests
-
+categories:
+  - Projects
+tags:
+  - coins
+  - laser-cut
+  - vhs
+  - wood
+  - plastic
+excerpt: "Dialling in the laser settings on 25 test geocoins at VHS and logging them into the thing tracker to dogfood it."
 ---
-
 <a style="color: #ff4b33; line-height: 24px; font-size: 16px;" href="/public/uploads/2012/09/2012-09-19-23.04.57.jpg">
 <img class="alignright size-medium wp-image-2858" title="2012-09-19 23.04.57" src="/public/uploads/2012/09/2012-09-19-23.04.57-300x225.jpg" alt="" width="300" height="225" /></a> I made some more demo GeoCoins on VHS's laser cutter. It took creating about ~25 coins to get the settings just right.
 

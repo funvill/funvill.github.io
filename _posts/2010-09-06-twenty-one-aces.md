@@ -1,14 +1,14 @@
 ---
 title: "Twenty-One Aces"
 date: 2010-09-06 16:27:00
-categories:
-- Dice
-- Drinking
-- Games
 slug: twenty-one-aces
-
+categories:
+  - Dice
+tags:
+  - ideas
+  - recipe
+excerpt: "Rules for Twenty-One Aces, a five-dice drinking game where the 7th, 14th, and 21st ace pick, pay for, and drink the shot."
 ---
-
 Twenty-One Aces is a dice drinking game.
 
 <strong>What you Need to Play</strong>

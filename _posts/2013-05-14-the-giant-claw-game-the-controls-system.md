@@ -1,24 +1,17 @@
 ---
 title: "The Giant Claw Game! - The Controls System"
 date: 2013-05-14 00:01:00
-categories:
-- Projects
-tags:
-- circuit
-- current
-- drill
-- drills
-- gear
-- gears
-- hbridge
-- motors
-- Projects
-- pulley
-- relay
 slug: the-giant-claw-game-the-controls-system
-
+categories:
+  - Projects
+tags:
+  - motor
+  - robots
+  - maker-faire
+  - vancouver
+  - arduino
+excerpt: "Fighting mismatched salvaged drill motors, undersized L298 drivers, and slippery pulleys to get the claw gantry moving."
 ---
-
 Only two weeks left to get the Claw up and running ready for <a href="http://vancouver.makerfaire.ca/breaker-faire-may-25th/">Breaker Faire</a> the <a href="http://vancouver.makerfaire.ca/">Maker Faire</a> fund raiser party. I am starting to get worried that I might not get it done in time.
 
 I have been having lots of problems this week with getting the motors working with the gantry system.

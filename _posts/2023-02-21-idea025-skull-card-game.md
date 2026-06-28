@@ -1,19 +1,16 @@
 ---
 title: "Idea 025 - Skull card game"
 date: 2023-02-21 00:25:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- game
-- art
-- Projects
-- Ideas
-excerpt: Laser cut or PCB fancy versions of the Skull card game
 slug: idea025-skull-card-game
-
+categories:
+  - Year of Ideas
+tags:
+  - art
+  - ideas
+  - pcb
+  - flowers
+excerpt: "Laser cut or PCB fancy versions of the Skull card game"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

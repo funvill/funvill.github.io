@@ -1,19 +1,22 @@
 ---
 title: "Idea 058 - In a million parts"
 date: 2023-03-26 00:58:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- art
-- watercolor
-- Projects
-- Ideas
-excerpt: Transformative art series based on quotable lines from books, movies, or songs. Nnamdi Brat as Blown ink and watercolor paintings
 slug: idea058-a-quotable-book-in-a-million-parts
-
+categories:
+  - Year of Ideas
+tags:
+  - art
+  - painting
+  - ideas
+  - wood
+  - paper
+  - pcb
+  - ai
+  - birds
+  - flowers
+  - vancouver
+excerpt: "A series of small artworks, one per quotable line from a book, movie, or album, built and shared on a steady schedule."
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

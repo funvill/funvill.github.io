@@ -1,11 +1,19 @@
 ---
-title: (2016) Heart of Mount Pleasant
-excerpt: Origami style hearts hanging from a tree in the Heart of Mount Pleasant.
-post_date: 2016-01-01 00:00:00
+title: "(2016) Heart of Mount Pleasant"
+date: 2016-01-01 00:00:00
+slug: 2016-heart-of-mount-pleasant
+categories:
+  - Projects
+tags:
+  - vancouver
+  - plastic
+  - led
+  - paper
+  - ideas
+excerpt: "Plan for hanging origami-style plastic hearts with internal LEDs from a tree in Mount Pleasant. Never built."
 header:
-  teaser: /public/uploads/teaser_2016_heart_of_mount_pleasant.png
+  teaser: /uploads/teaser_2016_heart_of_mount_pleasant.png
 ---
-
 This project was bever created
 
 The "Heart of Mount Pleasant" project has been funded by the small neighbourhood grants.  

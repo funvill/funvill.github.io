@@ -1,12 +1,18 @@
 ---
-title: (2017) Asics Color Changing Cloud Project.
-excerpt: A series of color changing clouds for Asics New York popup shop.
-post_date: 2017-01-01 00:00:00
+title: "(2017) Asics Color Changing Cloud Project."
+date: 2017-01-01 00:00:00
+slug: 2017-asics-color-changing-cloud-project
+categories:
+  - Projects
+tags:
+  - art
+  - led
+  - code
+  - fabric
+excerpt: "A series of color changing clouds for Asics New York popup shop."
 header:
-  teaser: /public/uploads/teaser_2017_asics_color_changing_cloud.png
-
+  teaser: /uploads/teaser_2017_asics_color_changing_cloud.png
 ---
-
 Working with [HFour Studios](http://hfour.ca/) Steven was asked to help create a series of color changing fluffy clouds that hang above the crowd of people a the New york [Asics](http://www.asics.com/us/en-us/) pop up shop August 2017.
 
 HFour studios is a Vancouver based group of talented artist that create immersive experiences for environments, venues, public spaces, and performance events. They specialise in the intersection of art, design, technology, and interaction, providing a unique understanding of everyone’s innate desire for engagement.

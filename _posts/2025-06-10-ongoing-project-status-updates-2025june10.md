@@ -1,14 +1,15 @@
 ---
 title: "Ongoing Project status updates 2025 June 10th"
 date: 2025-06-10 00:01:00
+slug: ongoing-project-status-updates-2025june10
 categories:
-- projects
+  - Projects
 tags:
-- projects
-- art
-excerpt: A status update of the Counter productive, Sky Pixles projects 
+  - art
+  - code
+  - journal
+excerpt: "A status update of the Counter productive, Sky Pixles projects"
 ---
-
 ## Counter Productive (Button project)
 
 <img src='\public\uploads\2025\day-visualizer-2025june10.png' alt='Counter Productive' title='Counter Productive' style='border: 1px solid black; margin: 5px; padding: 5px; width: 300px; float: right'>

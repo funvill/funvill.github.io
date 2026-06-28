@@ -1,14 +1,15 @@
 ---
 title: "A variation of the useless machine idea"
 date: 2024-07-05 00:00:01
-excerpt: ChatGPT pretends to be a useless machine and tries to stop you from flipping the switch.
+slug: a-variation-of-the-useless-machine-idea
 categories:
-- Other
+  - Junk
 tags:
-- ChatGPT
-- AI
+  - ai
+  - ideas
+  - code
+excerpt: "ChatGPT pretends to be a useless machine and tries to stop you from flipping the switch."
 ---
-
 
 A variation of the [useless machine](https://en.wikipedia.org/wiki/Useless_machine) (Aka "Leave Me Alone Box") that uses ChatGPT ([LLM](https://en.wikipedia.org/wiki/Large_language_model)) to generate the responses.
 

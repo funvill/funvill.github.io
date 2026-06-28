@@ -1,12 +1,15 @@
 ---
 title: "When big people steal small guys ideas"
 date: 2007-07-10 00:41:00
-categories:
-- Development
 slug: when-big-people-steal-small-guys-ideas
-
+categories:
+  - Development
+tags:
+  - web
+  - ideas
+  - journal
+excerpt: "Adobe Kuler looks a lot like ColourLovers.com, and small site owners have no real way to push back on big copycats."
 ---
-
 <img src="/public/uploads/2007/07/colourlovers.jpg" alt="colourlovers.jpg" />
 
 I was reading some of the posts on the <a href="http://www.dailyblogtips.com/blog-project-three-final-list/">top three</a> contest by <a href="http://www.dailyblogtips.com/blog-project-three-final-list/">dailyblogtips.com</a>.

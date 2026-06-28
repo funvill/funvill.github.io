@@ -1,12 +1,16 @@
 ---
 title: "How to install PHPBB 3.0.1"
 date: 2008-06-05 22:36:00
-categories:
-- Development
 slug: how-to-install-phpbb-301
-
+categories:
+  - Development
+tags:
+  - code
+  - php
+  - robots
+  - tutorial
+excerpt: "Step-by-step install guide for phpBB 3.0.1 on an Apache/MySQL host, written for COMP2920."
 ---
-
 This tutorial will walk you thou the steps to install <a href="http://www.phpbb.com/">PHPBB3</a> on your system.
 
 <strong>Intro </strong>

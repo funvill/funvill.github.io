@@ -1,12 +1,24 @@
 ---
-title       : (2023) Skull Game PCB
-excerpt     : Skull Card Game designed with PCBs
-post_date   : 2023-12-31 00:00:00
-header      :
-  teaser    : /public/uploads/2024/banner-skull.png
-toc         : false
+title: "(2023) Skull Game PCB"
+date: 2023-12-31 00:00:00
+slug: 2023-skull-game-pcb
+categories:
+  - Projects
+tags:
+  - jlcpcb
+  - kicad
+  - pcb
+  - code
+  - ai
+  - art
+  - flowers
+  - video
+  - ideas
+excerpt: "Skull Card Game designed with PCBs"
+header:
+  teaser: /uploads/2024/banner-skull.png
+toc: false
 ---
-
 <img style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" src="/public/uploads/2024/skull-stack.png" alt="Stack of skull game disks">The Skull Game PCB project was part of the [100 project ideas project #The100DayProject](/projects/2023-100-ideas/) where I tried to come up with a new project every single day for 100 days. The Skull game PCB was idea [025 skull card game](/idea025-skull-card-game/)
 
 Skull is one of the best bluffing games. Easy to learn, Quick to play, and a great game for the pub. The rules for this game can be found here [Skull-Game-Rules](https://github.com/funvill/skull-game-pcb/blob/main/Skull%20Game%20Rules.pdf) and a good review of this game can be found on [Shut Up and Sit Down Youtube channel](https://www.youtube.com/watch?v=Cv1_6AfbwlQ)

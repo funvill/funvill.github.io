@@ -1,12 +1,19 @@
 ---
 title: "The Giant Claw Game! - Problems"
 date: 2013-05-19 21:41:00
-categories:
-- Projects
 slug: the-giant-claw-game-problems
-
+categories:
+  - Projects
+tags:
+  - wood
+  - arduino
+  - motor
+  - robots
+  - furniture
+  - maker-faire
+  - vancouver
+excerpt: "Status check on the Giant Claw one week before Maker Faire: claw and joystick done, gantry pulleys still slipping."
 ---
-
 The Giant claw game can be broken down in to a few parts. The Claw, The Joystick, The Gantry/Cube, The XY table, The Cart, Control system
 
 <strong>The Claw </strong>

@@ -1,15 +1,16 @@
 ---
 title: "CakePHP - Search bar"
 date: 2009-12-09 14:16:00
-categories:
-- Development
-tags:
-- cakephp
-- search
 slug: cakephp-search-bar
-
+categories:
+  - Development
+tags:
+  - php
+  - code
+  - tutorial
+  - web
+excerpt: "A CakePHP snippet that wires a search box to a paginated index, matching the query against story titles and author names."
 ---
-
 This code snippet will create a search box that uses can use to search for text in the database.
 The control creates a query to search certain fields of published stories
 

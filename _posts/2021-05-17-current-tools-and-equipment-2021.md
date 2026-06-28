@@ -1,17 +1,18 @@
 ---
 title: "Current tools and equipment (2021)"
 date: 2021-05-17 00:01:00
-categories:
-- Self
-tags:
-- tools
-- software
-- hardware
-excerpt: A list of my current tooks that I am using in 2021
 slug: current-tools-and-equipment-2021
-
+categories:
+  - Self
+tags:
+  - code
+  - security
+  - art
+  - birds
+  - photo
+  - journal
+excerpt: "A list of my current tooks that I am using in 2021"
 ---
-
 Everyday I use a series of tools that make my life easier. These tool change and morph each year. This is my most up-to-date list of recommended tools and equipment.
 
 Previous snapshots of my tools and equipment lists can be found here: [2018](/tools-2018), [2016](/tools-2016)

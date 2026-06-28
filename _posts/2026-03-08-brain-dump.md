@@ -1,14 +1,19 @@
 ---
 title: "2026-March Brain Dump"
 date: 2026-03-08 00:01:00
+slug: brain-dump
 categories:
-- bookmarks
+  - Bookmarks
 tags:
-- bookmarks
-- art
-excerpt: Bookmarks from March 2026
+  - bookmark
+  - art
+  - fabric
+  - code
+  - maps
+  - vancouver
+  - review
+excerpt: "Bookmarks from March 2026"
 ---
-
 A March 2026 bookmark dump. Mostly projects, tools, references, and rabbit holes I want to come back to later.  more a notebook page of things that sparked ideas.
 
 ## General links

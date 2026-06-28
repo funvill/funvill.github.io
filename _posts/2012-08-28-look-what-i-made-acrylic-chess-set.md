@@ -1,20 +1,18 @@
 ---
 title: "Look what I made - Acrylic chess set"
 date: 2012-08-28 17:22:00
-categories:
-- Projects
-tags:
-- Projects
-- acrylic
-- Chess
-- Games
-- LaserCutter
-- News
-- VHS
 slug: look-what-i-made-acrylic-chess-set
-
+categories:
+  - Projects
+tags:
+  - plastic
+  - chess
+  - laser-cut
+  - vhs
+  - vancouver
+  - hackspace
+excerpt: "An acrylic chess set cut on the new VHS laser cutter from a Thingiverse design, my first laser cutter project."
 ---
-
 &nbsp;
 
 <img class="alignright size-medium wp-image-2813" title="IMG_4789" src="/public/uploads/2012/08/IMG_4789-300x225.jpg" alt="" width="300" height="225" />

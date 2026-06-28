@@ -1,12 +1,16 @@
 ---
 title: "In search for a bug tracking system"
 date: 2010-04-30 10:32:00
-categories:
-- Development
 slug: in-search-for-a-bug-tracking-system
-
+categories:
+  - Development
+tags:
+  - review
+  - web
+  - code
+  - php
+excerpt: "Comparing Mantis, Redmine, Bugzilla, and Trac for a new development project, and why Trac won on simplicity."
 ---
-
 I'm about to start a new development project with a new group and we needed some sort of bug tracking system to coordinate all our efforts.  Previously I have used <a href="http://www.mantisbt.org/">www.mantisbt.org/</a> but its messy and I don't like the layout at all.
 
 <strong>Requirements</strong>

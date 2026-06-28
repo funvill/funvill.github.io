@@ -1,13 +1,23 @@
 ---
 title: "Alternatives to the Vancouver Hackspace."
 date: 2016-07-12 00:01:00
-categories:
-- vhs
-toc: true
 slug: alternatives-to-the-vancouver-hackspace
-
+categories:
+  - Projects
+tags:
+  - wood
+  - metal
+  - fabric
+  - plastic
+  - glass
+  - cnc
+  - 3d-printing
+  - sewing
+  - arduino
+  - raspberry-pi
+excerpt: "A list of alternatives to Vancouver Hackspace after its community turned toxic, with makerspaces, meetups, and tool libraries."
+toc: true
 ---
-
 Vancouver Hackspace (VHS) used to be a place where people could ask questions and get help with their projects while helping out others. Now new people asking questions, at best, get ignored and worst ridiculed. After 2015 the Vancouver Hackspace the board of directors ( *names removed* ) as well as a few other members ( *names removed* ) created a toxic environment that destroyed the existing community that took years to create.
 
 Good, energetic, people will succeed anywhere. VHS is a handicap that prevents even good people from achieving success. Your projects will wither and die at VHS.

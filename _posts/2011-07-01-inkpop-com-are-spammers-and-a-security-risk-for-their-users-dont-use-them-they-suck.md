@@ -1,12 +1,15 @@
 ---
 title: "InkPop.com, Are spammers and a security risk for their users. DONT USE THEM. They suck"
 date: 2011-07-01 13:37:00
-categories:
-- Rants
 slug: inkpop-com-are-spammers-and-a-security-risk-for-their-users-dont-use-them-they-suck
-
+categories:
+  - Rants
+tags:
+  - security
+  - web
+  - journal
+excerpt: "Rant about InkPop.com sending repeat SEO pitch spam and storing user passwords in plain text."
 ---
-
 <strong>They are spammers </strong>
 
 I got this email 6 times this week as they spammed all my different magazines searching for SEO link backs. There is a few things that piss me off about this email.

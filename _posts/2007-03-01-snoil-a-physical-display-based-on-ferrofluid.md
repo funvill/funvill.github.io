@@ -1,12 +1,15 @@
 ---
 title: "SnOil - A Physical Display Based on Ferrofluid"
 date: 2007-03-01 16:47:00
-categories:
-- Media
 slug: snoil-a-physical-display-based-on-ferrofluid
-
+categories:
+  - Media
+tags:
+  - video
+  - art
+  - bookmark
+excerpt: "Martin Frey's SnOil, a playable Snake game built on a 144-magnet grid pushing ferrofluid around a tray."
 ---
-
 <a href="/public/uploads/2007/02/snoil_470x264.jpg" title="SnOil"><img src="/public/uploads/2007/02/snoil_470x264.jpg" alt="SnOil" border="0" /></a>
 
 <strong>Ferrofluid</strong>

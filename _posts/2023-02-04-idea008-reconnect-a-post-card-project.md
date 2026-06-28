@@ -1,19 +1,18 @@
 ---
 title: "Idea 008 - Reconnect a postcard project"
 date: 2023-02-04 00:08:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- postcards
-- art
-- Projects
-- Ideas
-excerpt: People are disconnected more than ever and need a reason to reconnect with each other. Create a series of postcards and send packs of them to friends and family, for them to send onwards
 slug: idea008-reconnect-a-post-card-project
-
+categories:
+  - Year of Ideas
+tags:
+  - paper
+  - art
+  - ideas
+  - ai
+  - birds
+  - recipe
+excerpt: "People are disconnected more than ever and need a reason to reconnect with each other. Create a series of postcards and send packs of them to friends and family, for them to send onwards"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 👉 **Done!** in 2023, I sent out 100 packages of 5x postcards to people.

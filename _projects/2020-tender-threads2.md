@@ -1,11 +1,18 @@
 ---
-title: (2020) Tender Threads 2
-excerpt: Short movie about the feelings of a puppet
-post_date: 2020-10-20 00:00:00
+title: "(2020) Tender Threads 2"
+date: 2020-10-20 00:00:00
+slug: 2020-tender-threads2
+categories:
+  - Projects
+tags:
+  - sensor
+  - art
+  - photo
+  - video
+excerpt: "Short movie about the feelings of a puppet"
 header:
-  teaser: /public/uploads/2020/2020-tender-threads-2-teaser.png
+  teaser: /uploads/2020/2020-tender-threads-2-teaser.png
 ---
-
 In October 2020, during the height of the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic), we filmed a short horror comedy film for the [MyRodeReel 2020](https://myrodereel.com/watch/10484) short film contest called Tender Threads #2.
 
 We shot this with two people, who were both the actors and crew. We chose not to invite more people to reduce the chance of spreading COVID-19. We found out during the filming that two people are not enough people. On the second night, we invited a third person (Lori) to join us and help finish the filming.

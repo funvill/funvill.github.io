@@ -1,12 +1,18 @@
 ---
 title: "Lasers and Vancouver OpenData"
 date: 2012-12-28 16:08:00
-categories:
-- LaserCutter
 slug: lasers-and-vancouver-opendata
-
+categories:
+  - Projects
+tags:
+  - wood
+  - code
+  - maps
+  - vancouver
+  - hackspace
+  - laser-cut
+excerpt: "A laser-cut wooden map of Vancouver's roads and parks made from TileMill and city open data."
 ---
-
 A few days ago I attended a talk at the <a href="http://vancouver.hackspace.ca/wp/">Vancouver HackSpace</a> (VHS) on using <a href="http://vancouver.hackspace.ca/wp/2012/11/29/open-data-and-lasers-at-vhs-thursday-dec-13th/">Open Data and lasers</a> to make interesting wooden maps.
 
 <a href="http://denimandsteel.com/talks/polyglot/">The talk</a> revolved around <a href="http://mapbox.com/tilemill/">TileMill studio</a> and how to style maps using a CSS variant then you could export them as SVG files (vector image). Once the image has been saved as a <a href="http://en.wikipedia.org/wiki/Scalable_Vector_Graphics">SVG file</a> it can be imported in to <a href="http://inkscape.org/">InkScape</a>, cleaned up and then saved as <a href="http://en.wikipedia.org/wiki/AutoCAD_DXF">DFX file</a> for the laser cuter.

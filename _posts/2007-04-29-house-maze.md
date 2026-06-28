@@ -1,12 +1,15 @@
 ---
 title: "House maze"
 date: 2007-04-29 09:00:00
-categories:
-- Junk
 slug: house-maze
-
+categories:
+  - Junk
+tags:
+  - maps
+  - ideas
+  - bookmark
+excerpt: "A backyard corn maze run as a paid attraction, with notes on why the right-hand rule beats most maze designs."
 ---
-
 Here is a house that converted its backyard in to a corn maze and charge people to run the maze.
 I seen this done many times with <a href="http://www.cornfieldmaze.com/">corn mazes</a> where the maze its self makes more money then the actually corn could.
 

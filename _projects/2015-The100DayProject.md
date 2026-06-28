@@ -1,11 +1,24 @@
 ---
-title: (2015) The 100 Day Project
-excerpt: A series of single day projects.
-post_date: 2015-01-01 00:00:00
+title: "(2015) The 100 Day Project"
+date: 2015-01-01 00:00:00
+slug: 2015-The100DayProject
+categories:
+  - Projects
+tags:
+  - paper
+  - plastic
+  - led
+  - cnc
+  - 3d-printing
+  - painting
+  - esp8266
+  - flowers
+  - maker-faire
+  - vancouver
+excerpt: "A series of single day projects."
 header:
-  teaser: /public/uploads/teaser_2015_100_day.png
+  teaser: /uploads/teaser_2015_100_day.png
 ---
-
 ## The 100 Day Project - 2015
 
 > What Is the 100-Day Project? It’s a celebration of process that encourages everyone to participate in 100 days of making. The great surrender is the process; showing up day after day is the goal. For the 100-Day Project, it’s not about fetishizing finished products—it’s about the process. Source: [http://thegreatdiscontent.com/100days](http://thegreatdiscontent.com/100days)

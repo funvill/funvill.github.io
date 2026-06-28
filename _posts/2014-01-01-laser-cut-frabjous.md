@@ -1,17 +1,17 @@
 ---
 title: "Laser cut Frabjous"
 date: 2014-01-01 19:19:00
-categories:
-- YearOfMaking
-tags:
-- LaserCutter
-- Projects
-- Video
-- Wood
 slug: laser-cut-frabjous
-
+categories:
+  - Year of Making
+tags:
+  - laser-cut
+  - video
+  - wood
+  - 3d-printing
+  - art
+excerpt: "A laser-cut Frabjous sculpture by George W. Hart, scaled from 4mm to 6mm birch and given to my mother for Christmas."
 ---
-
 I laser cut this object sesigned by <a href="http://www.georgehart.com/sculpture/frabjous.html">George W. Hart</a> as a gift for my mother for xmas this year.I got the original design from <a href="http://www.thingiverse.com/thing:12271">Thingiverse</a>, made for 4mm ply wood. I modify the files to work with the 6mm birch wood that I had available at the space.
 [gallery ids="3889,3891,3890,3892,3893,3894,3895"]
 

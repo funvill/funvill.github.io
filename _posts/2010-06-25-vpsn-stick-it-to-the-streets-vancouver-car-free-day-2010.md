@@ -1,12 +1,16 @@
 ---
 title: "VPSN Stick it to the Streets, Vancouver Car free day 2010"
 date: 2010-06-25 17:30:00
-categories:
-- Vancouver
 slug: vpsn-stick-it-to-the-streets-vancouver-car-free-day-2010
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - video
+  - photo
+  - journal
+excerpt: "Notes on VPSN's Stick It to the Streets, the East Van Chili Cook Off, and a timelapse from Vancouver Car Free Day 2010."
 ---
-
 <h2><strong>Stick it to the Streets</strong></h2>
 <a href="http://www.vancouverpublicspace.ca/">VPSN</a> is gathering a large group of people wandering the street with noise makers making a lot of noise/"Music", from downtown to GasTown. its too bad they didn't go thou <a href="http://en.wikipedia.org/wiki/Yaletown">YaleTown</a> with all the people that bitch continually about <a href="http://vancouver.ca/police/policeboard/agenda/2007/070418/0721RPM.pdf">noise violation</a> [PDF].
 <blockquote>How much music can be made with a pair of drumsticks and the street as the instrument? The Vancouver Public Space Network and friends will be descending on to Granville Street this June to <a href="http://www.vancouverpublicspace.ca/index.php?page=139">Stick It to the Streets</a> and find out. Bring your drumsticks, spoons, keys, and selves to join a crew of Vancouverites as they move through the city making music with the urban landscape. Will we expect impromptu drum battles? Spontaneous street dancing? Come down and see for yourself!</blockquote>

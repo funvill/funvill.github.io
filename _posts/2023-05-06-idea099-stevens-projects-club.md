@@ -1,18 +1,16 @@
 ---
 title: "Idea 099 - Stevens projects club"
 date: 2023-05-06 01:39:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- Projects
-- subscriptions
-- Ideas
-excerpt: Patreon subscription for people receive one of Steven’s projects twice a year
 slug: idea099-stevens-projects-club
-
+categories:
+  - Year of Ideas
+tags:
+  - ideas
+  - pcb
+  - art
+  - birds
+excerpt: "Patreon subscription for people receive one of Steven’s projects twice a year"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

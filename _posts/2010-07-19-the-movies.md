@@ -1,16 +1,15 @@
 ---
 title: "The Movies"
 date: 2010-07-19 14:32:00
-categories:
-- Drinking
-- Games
-- Media
-tag:
-- Movies
 slug: the-movies
-
+categories:
+  - Drinking
+tags:
+  - video
+  - ideas
+  - recipe
+excerpt: "Drinking rules for The Boondock Saints, Big Lebowski, Star Wars, Walker Texas Ranger, and other movies worth watching twice."
 ---
-
 The movies is a really simple drinking game and is probably the first one I ever played.
 Find a movie and come up with reocurring things to look for; when you see these things you drink.
 

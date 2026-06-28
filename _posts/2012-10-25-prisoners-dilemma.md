@@ -1,25 +1,18 @@
 ---
 title: "Programming Competition Prisoners Dilemma"
 date: 2012-10-25 00:01:00
-categories:
-- Development
-tags:
-- c
-- code
-- Competition
-- contests
-- Development
-- experiment
-- Games
-- github
-- News
-- programming
-- project
-- VHS
 slug: prisoners-dilemma
-
+categories:
+  - Development
+tags:
+  - c
+  - code
+  - vhs
+  - robots
+  - vancouver
+  - hackspace
+excerpt: "A Prisoner's Dilemma tournament in C with bots like Snitch, Copy Cat, and Forgives, built for a VHS hack night."
 ---
-
 I have been trying to think of a simple programming competition that we can run at the next SHHH (<a href="http://vancouver.hackspace.ca/wp/2012/10/23/super-happy-hacker-house-24-nov-11-2012-730-late/">Super Happy Hacker House</a>) at <a href="http://vancouver.hackspace.ca/wp/">the Vancouver Hackspace</a>.
 
 <a href="http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest">ACM International Collegiate Programming Contest</a> seems like an obvious choice. I have run though these contest back in collage and they where very challenging.

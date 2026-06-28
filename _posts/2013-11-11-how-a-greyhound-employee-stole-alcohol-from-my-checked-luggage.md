@@ -1,12 +1,14 @@
 ---
 title: "How a Greyhound employee stole alcohol from my checked luggage."
 date: 2013-11-11 23:06:00
-categories:
-- Rants
 slug: how-a-greyhound-employee-stole-alcohol-from-my-checked-luggage
-
+categories:
+  - Rants
+tags:
+  - vancouver
+  - journal
+excerpt: "Open letter to Greyhound after a Seattle baggage checker confiscated two bottles of 12-year scotch from my checked luggage."
 ---
-
 See below the letter I sent to Greyhound. I will update this post if/when I get a response from Greyhound
 <blockquote>Hello
 

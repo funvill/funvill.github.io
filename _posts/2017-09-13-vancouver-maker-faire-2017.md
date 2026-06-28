@@ -1,12 +1,17 @@
 ---
 title: "Vancouver Maker Faire 2017"
 date: 2017-09-13 00:01:00
-categories:
-- Vancouver
 slug: vancouver-maker-faire-2017
-
+categories:
+  - Vancouver
+tags:
+  - led
+  - motor
+  - code
+  - maker-faire
+  - vancouver
+excerpt: "What I brought to Vancouver Maker Faire 2017: the LED Pillar rhythm game, laser kaleidoscope, fox mask, thunderstorm cloud, and more."
 ---
-
 This year for the vancouver maker faire I decided to show off some my LED and lighting projects that I had created over the past few years. I also created a special project just for Vancouver Maker Faire the LED Pillar.
 
 ![Vancouver Maker Faire 2017 projects](/public/uploads/20170608_192551.jpg "Vancouver Maker Faire 2017 projects")

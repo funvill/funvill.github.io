@@ -1,12 +1,16 @@
 ---
 title: "The Giant Claw Game! - Pictures"
 date: 2013-05-23 22:29:00
-categories:
-- Projects
 slug: the-giant-claw-game-pictures
-
+categories:
+  - Projects
+tags:
+  - robots
+  - motor
+  - metal
+  - photo
+excerpt: "Build photos and notes on the Giant Claw Game cart, drill-motor pulleys, and cable tensioning."
 ---
-
 <strong>The Cart</strong>
 
 The cart will be used to move the claw around the XY table. The cart will also have a spindle on it to raise and lower the claw. The spindle is powered by a drill motor. I still have to figure out a way to run the power and data wires to the cart without the wires getting tangled up, while the cart is in motion.

@@ -1,12 +1,17 @@
 ---
 title: "Mark Jenkins - Plastic babies"
 date: 2007-03-22 13:56:00
-categories:
-- Art
 slug: mark-jenkins-plastic-babbies
-
+categories:
+  - Projects
+tags:
+  - plastic
+  - video
+  - art
+  - led
+  - tutorial
+excerpt: "Mark Jenkins makes cheap plastic babies from plastic wrap and clear tape, with ideas for turning them into LED-lit sculptures."
 ---
-
 How to make cheap plastic babies with plastic wrap and clear tape.
 
 <object height="350" width="425">

@@ -1,13 +1,14 @@
 ---
 title: "Beat The Barman"
 date: 2009-06-22 10:16:00
-categories:
-- Drinking
-- Games
 slug: beat-the-barman
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Beat The Barman, a bar drinking game where you finish your shot before the bartender returns with change."
 ---
-
 Beat the Barman is a Drinking game
 
 <strong>What you need to play</strong>

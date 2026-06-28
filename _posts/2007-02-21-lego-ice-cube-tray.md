@@ -1,12 +1,14 @@
 ---
 title: "Lego Ice cube Tray"
 date: 2007-02-21 15:31:00
-categories:
-- Projects
 slug: lego-ice-cube-tray
-
+categories:
+  - Projects
+tags:
+  - bookmark
+  - ideas
+excerpt: "A $7.99 silicone tray from the Lego online store that freezes water into stackable Lego brick ice cubes."
 ---
-
 <a href="/public/uploads/2007/03/el502-0000-xx-12-1.jpg" title="Lego Ice cub tray"><img src="/public/uploads/2007/03/el502-0000-xx-12-1.thumbnail.jpg" alt="Lego Ice cub tray" align="right" /></a>
 A tray made of silicone that can be used to make Lego shaped ice cubes.
 And it only costs 7.99.

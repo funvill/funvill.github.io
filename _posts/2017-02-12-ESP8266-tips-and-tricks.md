@@ -1,12 +1,17 @@
 ---
 title: "ESP8266 Tips"
 date: 2017-02-12 00:01:00
-categories:
-- Tips
 slug: esp8266-tips-and-tricks
-
+categories:
+  - Tips
+tags:
+  - arduino
+  - esp8266
+  - code
+  - video
+  - tutorial
+excerpt: "Working notes on the ESP8266: useful libraries, debugging the Arduino core, taming the 300mA current spikes, and deep sleep gotchas."
 ---
-
 Last updated: 2017 Feb 12th
 
 This is a list of tips and tricks for the [ESP8266](https://en.wikipedia.org/wiki/ESP8266) module. I will update this page as I learn more about these chips. Pull requests are appreciated.

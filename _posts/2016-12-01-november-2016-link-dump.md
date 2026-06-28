@@ -1,13 +1,23 @@
 ---
 title: "November 2016 interesting link dump"
 date: 2016-12-01 00:01:00
-categories:
-- Bookmarks
-toc: true
 slug: november-2016-link-dump
-
+categories:
+  - Bookmarks
+tags:
+  - led
+  - cnc
+  - esp8266
+  - ws2812
+  - code
+  - ai
+  - art
+  - tutorial
+  - bookmark
+  - video
+excerpt: "November 2016 link dump: open source car control, ESP8266 MQTT LED controllers, the Maslow CNC, Boldport, and the poop emoji oral history."
+toc: true
 ---
-
 What has interested me in the month of November 2016
 
 ## Projects

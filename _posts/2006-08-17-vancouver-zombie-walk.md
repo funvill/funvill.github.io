@@ -1,12 +1,16 @@
 ---
 title: "Vancouver Zombie Walk"
 date: 2006-08-17 12:47:00
-categories:
-- Vancouver
 slug: vancouver-zombie-walk
-
+categories:
+  - Vancouver
+tags:
+  - art
+  - vancouver
+  - photo
+  - canada
+excerpt: "The Vancouver Zombie Walk on August 19 starts at the VAG, rides SkyTrain to Main Street, and ends at Mountainview Cemetery and QE Park."
 ---
-
 <img src="/public/uploads/2006/4610108_m.gif" alt="I hart Zombies" title="I hart Zombies" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="170" width="170" />
 
 Saturday, August 19 - starts 4pm from the VAG (Vancouver Art Gallery) and 5pm from 15th and Sophia

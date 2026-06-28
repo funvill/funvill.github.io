@@ -1,14 +1,14 @@
 ---
 title: "Black or Red"
 date: 2009-06-29 10:21:00
-categories:
-- Cards
-- Drinking
-- Games
 slug: black-or-red
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Black or Red, a card-based drinking game where guessing the next card wrong means you drink."
 ---
-
 Black or Red is a Drinking game played with Cards
 
 <strong>What you will need to play</strong>

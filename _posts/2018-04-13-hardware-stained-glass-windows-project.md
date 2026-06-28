@@ -1,14 +1,21 @@
 ---
 title: "Hardware - Stained glass windows project"
 date: 2018-04-13 00:01:00
-categories:
-- Projects
-tags:
-- stainedglass
 slug: hardware-stained-glass-windows-project
-
+categories:
+  - Projects
+tags:
+  - stained-glass
+  - plastic
+  - glass
+  - led
+  - arduino
+  - esp8266
+  - fastled
+  - ws2812
+  - code
+excerpt: "Parts list for the stained glass windows: white acrylic, square WS2812B LEDs, a Wemos D1 mini, and a 5V 5A supply."
 ---
-
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 
 
 Below is the hardware and parts that I am using this project. 

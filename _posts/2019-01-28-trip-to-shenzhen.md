@@ -1,16 +1,19 @@
 ---
 title: "Trip to Shenzhen 2018"
 date: 2019-01-28 00:01:00
-categories:
-- travel
-tags:
-- eletronics
-- travel
-- Shenzhen
 slug: trip-to-shenzhen
-
+categories:
+  - Travel
+tags:
+  - jlcpcb
+  - led
+  - ws2812
+  - sensor
+  - jewelry
+  - video
+  - journal
+excerpt: "Two days at the Huaqiang Road markets in Shenzhen and the pile of LED strips, switches, and Pi cases I came back with."
 ---
-
 I got to spend two days in Shenzhen at the tail end of a vacation. I love hitting up the markets in [Huaqiang Road](https://goo.gl/maps/anWCCQarAC82). Makers paradise. Below is a list of the things that I picked up.  
 
 - [LED Strip 12V SMD2835 Neon Light Round Line](https://www.aliexpress.com/item/LED-Strip-12V-SMD2835-Neon-Light-Round-Line-Low-Voltage-Flexible-Indoor-Outdoor-Waterproof-Soft-Light/32890285361.html) - I have purchased a lot of "Neon Light roap" in the past with mixed results. It was good to actually touch an feel it before buying it.

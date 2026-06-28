@@ -1,12 +1,15 @@
 ---
 title: "ESP8266 bitcoin tracker"
 date: 2017-11-04 00:01:00
-categories:
-- Projects
 slug: esp8266-bitcoin-ticker
-
+categories:
+  - Projects
+tags:
+  - arduino
+  - esp8266
+  - code
+excerpt: "A Wemos D1 and OLED shield that polls the Coindesk API every five minutes and shows the current BTC price and my running profit."
 ---
-
 # A simple bitcoin price ticker
 
 Requests the current current price of Bitcoin in your local currency via [Coindesk.com](https://coindesk.com/) API. The display is updated with the current price on the top line, and the profit you have made on the bottom line. The price is updated once every 5 mins. 

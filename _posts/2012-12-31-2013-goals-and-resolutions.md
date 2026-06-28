@@ -1,12 +1,15 @@
 ---
 title: "2013 Goals and Resolutions"
 date: 2012-12-31 00:00:00
-categories:
-- Self
 slug: 2013-goals-and-resolutions
-
+categories:
+  - Self
+tags:
+  - php
+  - vancouver
+  - journal
+excerpt: "Goals for 2013: weekly blog posts, 300 geocaches, learn Rails, build a card game, and add more home sensors."
 ---
-
 <strong>Goals and Resolutions for 2013
 </strong>(<em>In no particular order</em>)
 <ul>

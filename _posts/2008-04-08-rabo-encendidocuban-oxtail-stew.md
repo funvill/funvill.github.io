@@ -1,12 +1,14 @@
 ---
 title: "Rabo Encendido(Cuban Oxtail Stew)"
 date: 2008-04-08 00:55:00
-categories:
-- Recipes
 slug: rabo-encendidocuban-oxtail-stew
-
+categories:
+  - Tips
+tags:
+  - recipe
+  - tutorial
+excerpt: "Recipe for Cuban rabo encendido, a slow oxtail stew with port, sherry, chipotle, and Cajun seasoning."
 ---
-
 <img src="/public/uploads/2008/04/ox_tail_web.jpg" alt="ox_tail_web.jpg" align="right" /><strong>Ingredients</strong>
 <ul>
 	<li> 5 lbs oxtail, cut in 2 inch thick rounds</li>

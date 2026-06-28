@@ -1,20 +1,21 @@
 ---
 title: "Status update Feb 15"
 date: 2011-02-14 16:07:00
-categories:
-- Arduino
-- Development
-tags:
-- Arduino
-- Development
-- Interesting
-- Media
-- News
-- Vancouver
 slug: status-update-feb-15
-
+categories:
+  - Development
+tags:
+  - arduino
+  - code
+  - vancouver
+  - sensor
+  - art
+  - maker-faire
+  - vhs
+  - hackspace
+  - video
+excerpt: "Mid-February update: Ray Gun Revival launched, a Maker Faire spin-art rig in planning, and the outdoor sensor logging sunrises."
 ---
-
 <ul>
 	<li><a href="http://www.raygunrevival.com/">Ray Gun Revival</a> has been launched. We sent out 8k unsolicited email newsletter to anyone that had anything to do with the old site and only ~50 people followed the link and signed up for the newsletter. Showing me that spam just doesn't work.</li>
 	<li><a href="http://www.raygunrevival.com/rgr-teaser-trailer/">Ray Gun Revival teaser trailer</a> was released a week later then the launch but more polished for it. Tell me what you think. Also Check out the <a href="http://www.youtube.com/watch?v=u48ZG2ElAdM">making of time laps video</a>

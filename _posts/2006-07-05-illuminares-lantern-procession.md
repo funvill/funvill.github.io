@@ -1,12 +1,16 @@
 ---
 title: "Illuminares Lantern Procession"
 date: 2006-07-05 11:48:00
-categories:
-- Vancouver
 slug: illuminares-lantern-procession
-
+categories:
+  - Vancouver
+tags:
+  - vancouver
+  - paper
+  - art
+  - canada
+excerpt: "The Illuminares Lantern Procession lights up Trout Lake Park on July 29, 2006 with paper lanterns, bands, and fire sculptures."
 ---
-
 <img src="/public/uploads/2006/07/lantern.JPG" id="image18" alt="Illuminares Lantern Procession" align="right" width="300" />
 
 As dusk falls over Trout Lake Park in East Vancouver, families and friends come together from far and wide to witness an extraordinary celebration of light.

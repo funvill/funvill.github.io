@@ -1,13 +1,15 @@
 ---
 title: "Paper, Rock, Scissors Ultimate"
 date: 2010-02-08 15:59:00
-categories:
-- Drinking
-- Games
 slug: paper-rock-scissors-ultimate
-
+categories:
+  - Drinking
+tags:
+  - paper
+  - recipe
+  - ideas
+excerpt: "A paper-rock-scissors variant where ties stack up extra shots for whoever loses next."
 ---
-
 Paper, Rock, Scissors Ultimate is a drinking game.
 
 <strong>What you need to play</strong>

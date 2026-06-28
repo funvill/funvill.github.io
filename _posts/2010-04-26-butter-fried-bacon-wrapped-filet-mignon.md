@@ -1,19 +1,15 @@
 ---
 title: "Butter fried bacon wrapped filet Mignon"
 date: 2010-04-26 21:10:00
-categories:
-- Recipes
-tags:
-- Cooking
-- directions
-- raspberry
-- Recipes
-- salad
-- steak
 slug: butter-fried-bacon-wrapped-filet-mignon
-
+categories:
+  - Tips
+tags:
+  - recipe
+  - raspberry-pi
+  - tutorial
+excerpt: "Recipe for bacon-wrapped filet mignon seared in butter and bacon grease with garlic, served with avocado salad."
 ---
-
 In response to a friends post about <a href="http://www.criticaloddness.com/blog/buttersteak-mignon/">buttersteak-mignon</a> and his harassment about my not cooking any more I decided to construct the most delicious steak ever made.
 
 <strong>Ingredients:</strong>

@@ -1,19 +1,25 @@
 ---
-title       : (2024) PCB Metro Maps
-excerpt     : A Metro map made with PCBs
-post_date   : 2024-07-20 00:00:00
-header      :
-  teaser    : /public/uploads/2024/banner-pcb-map.png
-toc         : false
+title: "(2024) PCB Metro Maps"
+date: 2024-07-20 00:00:00
+slug: 2024-metro-map-pcb
+categories:
+  - Projects
 tags:
-- ESP32
-- FastLED
-- KiCad
-- SVG2Shenzhen
-- JLCPCB
-- WS2812
+  - esp32
+  - fastled
+  - kicad
+  - jlcpcb
+  - ws2812
+  - pcb
+  - code
+  - maps
+  - vancouver
+  - ideas
+excerpt: "A Metro map made with PCBs"
+header:
+  teaser: /uploads/2024/banner-pcb-map.png
+toc: false
 ---
-
 > This is a temp landing page for information on this project.
 >
 > ToDo: Update this page with more information

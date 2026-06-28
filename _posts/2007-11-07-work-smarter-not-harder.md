@@ -1,12 +1,14 @@
 ---
 title: "Work Smarter, Not Harder"
 date: 2007-11-07 01:19:00
-categories:
-- News
 slug: work-smarter-not-harder
-
+categories:
+  - Media
+tags:
+  - bookmark
+  - ideas
+excerpt: "In 1968 a man in a police uniform stole 294 million yen from a Toshiba bank car in Tokyo and was never caught."
 ---
-
 <blockquote>On Dec. 10, 1968, a uniformed man pulled over a bank car in Tokyo. He explained that police had received a warning that dynamite had been planted in the vehicle, which was transporting bonuses for local Toshiba employees. The four passengers got out and watched as the officer crawled underneath.
 
 After a moment he rolled out, shouting that the car was about to explode. When the passengers ran, he got in and drove off.

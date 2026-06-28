@@ -1,13 +1,16 @@
 ---
 title: "Netburner http weird errors - Daily WTF"
 date: 2011-06-02 11:33:00
-categories:
-- Development
-- Rants
 slug: netburner-http-weird-errors-daily-wtf
-
+categories:
+  - Rants
+tags:
+  - code
+  - cpp
+  - web
+  - journal
+excerpt: "Fixing a batch of undefined-reference linker errors in a Netburner HTTP project by adding an /http/index.html file."
 ---
-
 <strong>Daily WTF</strong>
 
 <a href="/public/uploads/2011/06/netburner-logo.gif"><img class="alignright size-full wp-image-1505" title="netburner-logo" src="/public/uploads/2011/06/netburner-logo.gif" alt="" width="200" height="93" /></a>I got these weird errors while attempting to compile a Netburner project with NbEclipse. The project included the HTTP driver as well as some custom generated pages. After bashing my head against the wall for an hour I figure out what caused these errors. Because the HTTP driver has been loaded you are required to have a file in the <em>/http/index.html</em> folder to get NbEclipse to compile.

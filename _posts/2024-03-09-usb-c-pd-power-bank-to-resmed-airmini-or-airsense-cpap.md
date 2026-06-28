@@ -1,16 +1,16 @@
 ---
 title: "USB-C PD Power Bank to Resmed AirMini or Airsense CPAP"
 date: 2024-03-09 00:01:00
-excerpt: Is it cheaper to build your own solution to portable CPAP battery, or buy something off the shelf?
+slug: usb-c-pd-power-bank-to-resmed-airmini-or-airsense-cpap
 categories:
-- Tips
-- Electronics
+  - Tips
 tags:
-- CPAP
-- USB-C
-- DIY
+  - code
+  - tutorial
+  - review
+  - ideas
+excerpt: "Is it cheaper to build your own solution to portable CPAP battery, or buy something off the shelf?"
 ---
-
 This is a classic "DIY or Buy" Maker problem
 
 ## Problem

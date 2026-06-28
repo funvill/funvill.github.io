@@ -1,13 +1,25 @@
 ---
-title       : (2021) Vancouver Bird playing Cards
-excerpt     : A deck of playing cards featuring photos of birds from around Vancouver 
-post_date   : 2021-01-01 00:00:00
-header      :
-  teaser    : /public/uploads/2021/2021-bird-playing-cards-teaser.png
-toc         : true
-toc_sticky  : true
+title: "(2021) Vancouver Bird playing Cards"
+date: 2021-01-01 00:00:00
+slug: 2021-bird-playing-cards
+categories:
+  - Projects
+tags:
+  - wood
+  - plastic
+  - painting
+  - maps
+  - jewelry
+  - birds
+  - vancouver
+  - canada
+  - tutorial
+  - journal
+excerpt: "A deck of playing cards featuring photos of birds from around Vancouver"
+header:
+  teaser: /uploads/2021/2021-bird-playing-cards-teaser.png
+toc: true
 ---
-
 ## Description
 
 When the COVID-19 lockdown started in March of 2020, my office closed down and I started working from home. Sadly, my daily walk to and from work was the primary way I got exercise each day. In the first few weeks I rarely left the house and the lack of daily exercise, being cooped up inside the same room every day, and the general stress of COVID was causing me to experience a large amount of anxiety.

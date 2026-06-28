@@ -1,13 +1,14 @@
 ---
 title: "Centennial"
 date: 2009-08-03 10:57:00
-categories:
-- Dice
-- Games
 slug: centennial
-
+categories:
+  - Dice
+tags:
+  - ideas
+  - tutorial
+excerpt: "Rules for Centennial, a three-dice race game where you hit the numbers 1 through 12 and back down again in order."
 ---
-
 Centennial is a Dice game, also known as Martinetti and Ohio.
 
 <strong>What you need to play</strong>

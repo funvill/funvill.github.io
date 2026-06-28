@@ -1,12 +1,13 @@
 ---
 title: "Joke, My Grandfathers Death"
 date: 2007-02-28 10:49:00
-categories:
-- Joke
 slug: joke-my-grandfathers-death
-
+categories:
+  - Games
+tags:
+  - journal
+excerpt: "A short joke about a grandfather who knew the exact day and time of his death because the judge told him."
 ---
-
 Fellow 1: "Now my grandfather, he knew the exact day of the year that he was going to die. It was the right year too. Not only that, but he knew what time he would die that day, and he was right about that too."
 
 Fellow 2: "Wow, that's Incredible. How did he know all of that?"

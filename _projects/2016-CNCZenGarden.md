@@ -1,11 +1,19 @@
 ---
-title: (2016) CNC Zen Garden
-excerpt: A Zen garden controlled by a CNC XY platform.
-post_date: 2016-01-01 00:00:00
+title: "(2016) CNC Zen Garden"
+date: 2016-01-01 00:00:00
+slug: 2016-CNCZenGarden
+categories:
+  - Projects
+tags:
+  - cnc
+  - code
+  - flowers
+  - maker-faire
+  - photo
+excerpt: "A Zen garden controlled by a CNC XY platform."
 header:
-  teaser: /public/uploads/teaser_2016_CNC_Zen_Garden.png
+  teaser: /uploads/teaser_2016_CNC_Zen_Garden.png
 ---
-
 
 The Autonomous CNC Zen Garden project is a machine that creates intricate patterns by dragging a metal ball bearing around in the sand. The ball bearing is moved by an unseen magnet beneath the sand box using a CNC platform. The CNC platform is modeled after a CoreXY pattern that only uses two motors similar to an etch-a-sketch.
 

@@ -1,17 +1,17 @@
 ---
 title: "February 2020 brain dump"
 date: 2020-02-21 00:22:00
-categories:
-- Bookmarks
-tags:
-- Bookmarks
-- make
-- math
-toc: true
 slug: february-2020-brain-dump
-
+categories:
+  - Bookmarks
+tags:
+  - bookmark
+  - cnc
+  - photo
+  - video
+excerpt: "February 2020 brain dump: pocket operator pinouts, CNC squid kits, maze dice sculptures, photo ideas, and the Hub16 macro pad."
+toc: true
 ---
-
 Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes). Previous: [Jun 2019](/jun-2019-brain-dump/),  [Feb 2019](/feb-2019-brain-dump), [Others](/tags/#bookmarks).
 
 ## Audio

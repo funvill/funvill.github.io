@@ -1,16 +1,15 @@
 ---
 title: "2023 Year in review - Movies and TV Reviews"
 date: 2024-01-01 00:01:00
+slug: year-end-review-media
 categories:
-- Review
+  - Reviews
 tags:
-- tv
-- movies
-- music
-excerpt: 2023 year end Movies and TV Reviews
-
+  - video
+  - security
+  - review
+excerpt: "2023 year end Movies and TV Reviews"
 ---
-
 Part of my 2023 year in review
 
 ## Movies

@@ -1,20 +1,16 @@
 ---
 title: "Idea 047 - Weekly Scavenger Hunt"
 date: 2023-03-15 00:47:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- ml
-- scavenger-hunt
-- game
-- Projects
-- Ideas
-excerpt: An automatically weekly generated global scavenger hunt with leaderboard
 slug: idea047-weekly-scavenger-hunt
-
+categories:
+  - Year of Ideas
+tags:
+  - ai
+  - ideas
+  - web
+  - photo
+excerpt: "An automatically weekly generated global scavenger hunt with leaderboard"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

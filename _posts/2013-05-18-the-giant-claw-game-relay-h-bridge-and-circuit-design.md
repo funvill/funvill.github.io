@@ -1,12 +1,20 @@
 ---
 title: "The Giant Claw Game! - Relay H-Bridge and Circuit Design"
 date: 2013-05-18 13:33:00
-categories:
-- Projects
 slug: the-giant-claw-game-relay-h-bridge-and-circuit-design
-
+categories:
+  - Projects
+tags:
+  - arduino
+  - motor
+  - code
+  - web
+  - php
+  - robots
+  - furniture
+  - maker-faire
+excerpt: "Building a relay H-bridge for the Giant Claw gantry motors after the L298 driver could not handle the current."
 ---
-
 Over the week I worked on the Relay H Bridge,  software and circuit diagrams for this project. Only 1 more week till it needs to be done.
 
 <strong>Relay H Bridge </strong>

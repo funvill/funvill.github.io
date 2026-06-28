@@ -1,12 +1,15 @@
 ---
 title: "Subscribe to Comments"
 date: 2007-03-18 15:40:00
-categories:
-- Development
 slug: subscribe-to-comments
-
+categories:
+  - Development
+tags:
+  - web
+  - php
+  - tutorial
+excerpt: "A Wordpress plug-in that emails readers when someone replies to a post they commented on, installed with two file uploads."
 ---
-
 I found this great plug-in for [tag]Wordpress[/tag] that allows your users to subscribe to a posts comments, any reply to the post will be sent to there email automatically.
 
 This is much easier then having to check back on the post periodically to see if anyone has made a response to your response or subscribe to the comments <a href="/what-are-rss-feeds-and-how-to-use-them/">rss feed</a>.

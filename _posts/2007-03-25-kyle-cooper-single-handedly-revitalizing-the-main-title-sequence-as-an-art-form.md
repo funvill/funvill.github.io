@@ -1,12 +1,15 @@
 ---
 title: "Kyle Cooper - Single-handedly revitalizing the main-title sequence as an art form"
 date: 2007-03-25 14:56:00
-categories:
-- Media
 slug: kyle-cooper-single-handedly-revitalizing-the-main-title-sequence-as-an-art-form
-
+categories:
+  - Media
+tags:
+  - metal
+  - art
+  - video
+excerpt: "Kyle Cooper has directed over 150 film title sequences, including Se7en, The Mummy, and Metal Gear Solid 2 and 3."
 ---
-
 Kyle Cooper has directed over 150 film title sequences, and has been credited with "almost single-handedly revitalizing the main-title sequence as an art form". He is the founder of two internationally recognized film design companies, <a href="http://imaginaryforces.com/">Imaginary Forces</a> and <a href="http://www.prologue.com/">Prologue Films</a>. Cooper earned a M.F.A. in Graphic Design from the Yale School of Art, where he studied independently with Paul Rand. Cooper is a member of the Alliance Graphique Internationale and holds the honorary title of Royal Designer for Industry from the Royal Society of Arts in London.
 
 <a href="http://www.imdb.com/name/nm0178204/">Kyle Cooper on IMDB </a>

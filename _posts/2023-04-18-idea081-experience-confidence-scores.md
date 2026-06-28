@@ -1,19 +1,15 @@
 ---
 title: "Idea 081 - Experience confidence scores"
 date: 2023-04-18 01:21:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- skills
-- saas
-- Projects
-- Ideas
-excerpt: Allows people to assert their experience with a skill with 3rd parties confidence score
 slug: idea081-experience-confidence-scores
-
+categories:
+  - Year of Ideas
+tags:
+  - web
+  - ideas
+  - code
+excerpt: "Allows people to assert their experience with a skill with 3rd parties confidence score"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 👉 After sleeping on this idea and reviewing it in the morning this idea is; **[LinkedIn](https://www.linkedin.com/) with more steps** and is not worth pursuing. 👈

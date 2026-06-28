@@ -1,15 +1,16 @@
 ---
 title: "Daily Chess Puzzles"
 date: 2007-03-31 09:31:00
-categories:
-- Puzzle
-- Games
-tag: 
-- Chess
 slug: daily-chess-puzzles
-
+categories:
+  - Games
+tags:
+  - code
+  - chess
+  - journal
+  - web
+excerpt: "A script that pulls one chess puzzle a day from a database and pushes it out by email or RSS."
 ---
-
 <a href="http://www.abluestar.com/chess/" title="Chess Board"><img src="/public/uploads/2007/03/5_52_chessboard_chess3gif.gif" alt="Chess Board" align="right" /></a>I have created a script that generates a new chess puzzle from a database once a day. The puzzles can be email to you or you can subscribe via a RSS feed.
 <ul>
 	<li><a href="http://www.abluestar.com/chess/"> A list of past chess puzzles</a></li>

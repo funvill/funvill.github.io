@@ -1,13 +1,15 @@
 ---
-published: false
 title: "Simple security"
 date: 2016-11-28 00:01:00
-categories:
-- Self
 slug: simple-security
-
+categories:
+  - Self
+tags:
+  - web
+  - security
+  - journal
+excerpt: "Plain-language notes on picking a threat model and the low to high effort tools I actually use to defend against it."
 ---
-
 Disclaimer: I am not a security expert, I will probably never be one. These people are [security experts](https://www.tripwire.com/state-of-security/security-awareness/information-security-podcast-roundup-2016-edition/) go trust them.
 
 ## Who are you trying to defend against?

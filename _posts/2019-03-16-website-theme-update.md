@@ -1,58 +1,19 @@
 ---
 title: "Website theme update"
 date: 2019-03-16 00:01:00
-categories:
-- Website
-tags:
-- jekyll
-- markdown
-- history
-- screenshots
-gallery:
-  - url: /public/uploads/2003_website_screenshot.PNG
-    image_path: /public/uploads/2003_website_screenshot.PNG
-    alt: "2003 funvill.com screenshot"
-    title: "2003 funvill.com screenshot"
-  - url: /public/uploads/2004_website_screenshot.PNG
-    image_path: /public/uploads/2004_website_screenshot.PNG
-    alt: "2004 funvill.com screenshot"
-    title: "2004 funvill.com screenshot"
-  - url: /public/uploads/2005_website_screenshot.PNG
-    image_path: /public/uploads/2005_website_screenshot.PNG
-    alt: "2005 funvill.com screenshot"
-    title: "2005 funvill.com screenshot"
-  - url: /public/uploads/2006_website_screenshot.PNG
-    image_path: /public/uploads/2006_website_screenshot.PNG
-    alt: "2006 funvill.com screenshot"
-    title: "2006 funvill.com screenshot"
-  - url: /public/uploads/2007_website_screenshot.PNG
-    image_path: /public/uploads/2007_website_screenshot.PNG
-    alt: "2007 funvill.com screenshot"
-    title: "2007 funvill.com screenshot"
-  - url: /public/uploads/2009_website_screenshot.PNG
-    image_path: /public/uploads/2009_website_screenshot.PNG
-    alt: "2009 funvill.com screenshot"
-    title: "2009 funvill.com screenshot"
-  - url: /public/uploads/2011_website_screenshot.PNG
-    image_path: /public/uploads/2011_website_screenshot.PNG
-    alt: "2011 abluestar.com screenshot"
-    title: "2011 abluestar.com screenshot"
-  - url: /public/uploads/2013_website_screenshot.PNG
-    image_path: /public/uploads/2013_website_screenshot.PNG
-    alt: "2013 abluestar.com screenshot"
-    title: "2013 abluestar.com screenshot"
-  - url: /public/uploads/2018_website_screenshot.PNG
-    image_path: /public/uploads/2018_website_screenshot.PNG
-    alt: "2018 abluestar.com screenshot"
-    title: "2018 abluestar.com screenshot"
-  - url: /public/uploads/2019_website_screenshot.PNG
-    image_path: /public/uploads/2019_website_screenshot.PNG
-    alt: "2019 abluestar.com screenshot"
-    title: "2019 abluestar.com screenshot"
 slug: website-theme-update
-
+categories:
+  - Development
+tags:
+  - jekyll
+  - markdown
+  - photo
+  - code
+  - web
+  - php
+  - security
+excerpt: "Why I rebuilt blog.abluestar.com on a fresh Jekyll theme, plus a 20-year history of my CMS choices from plain HTML to static sites."
 ---
-
 ## What is Jekyll
 
 [Jekyll](https://jekyllrb.com/) is a *blog-aware, static sites generator* that was created to simplify the process of creating static website. The reason that I use Jekyll is that it removes the need for a server, a database, or security updates. Just [push](https://git-scm.com/docs/git-push) [markdown](https://en.wikipedia.org/wiki/Markdown) content to a [git repo](https://github.com/funvill/funvill.github.io) on [Github](https://github.com/) and [github pages](https://pages.github.com/) using Jekyll. After a few minutes my updated website appears at [blog.abluestar.com](http://blog.abluestar.com/). Since the pages are static, there is little chance of someone exploiting a flaw in the web server, or in a script to deface my website. I been using Jekyll and Github pages to build my website since 2016.

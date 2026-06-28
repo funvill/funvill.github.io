@@ -1,13 +1,23 @@
 ---
 title: "Notes from January 2017"
 date: 2017-01-16 00:01:00
-categories:
-- Bookmarks
-toc: true
 slug: notes-from-january_2017
-
+categories:
+  - Bookmarks
+tags:
+  - led
+  - cnc
+  - 3d-printing
+  - raspberry-pi
+  - code
+  - web
+  - security
+  - art
+  - maps
+  - tutorial
+excerpt: "January 2017 links: HexCells, the Universal Play Machine, makerjs for laser drawings, Mosquitto MQTT, and Node-RED home automation."
+toc: true
 ---
-
 Some of the things that I have found interesting in January 2017.
 
 ## Maps and Data

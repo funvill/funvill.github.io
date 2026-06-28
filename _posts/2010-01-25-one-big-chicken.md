@@ -1,13 +1,14 @@
 ---
 title: "One Big Chicken"
 date: 2010-01-25 15:49:00
-categories:
-- Drinking
-- Games
 slug: one-big-chicken
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for One Big Chicken, a tongue-twister drinking game where each round stacks one more absurd phrase onto the last."
 ---
-
 One Big Chicken is a drinking game.
 
 <strong>What you need to play</strong>

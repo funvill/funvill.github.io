@@ -1,11 +1,19 @@
 ---
-title: (2016) Ball of Life. 
-excerpt: A Wooden icosahedron with LEDs used for festivals as a marker 
-post_date: 2016-01-01 00:00:00
+title: "(2016) Ball of Life."
+date: 2016-01-01 00:00:00
+slug: 2016-ball-of-life
+categories:
+  - Projects
+tags:
+  - led
+  - sensor
+  - code
+  - photo
+  - video
+excerpt: "A Wooden icosahedron with LEDs used for festivals as a marker"
 header:
-  teaser: /public/uploads/teaser_2016_ball_of_life.png
+  teaser: /uploads/teaser_2016_ball_of_life.png
 ---
-
 This project was to create a marker that other people could use to find me in a crowd at a festivals. The ball its self is a 20 sided [icosahedron](https://en.wikipedia.org/wiki/Icosahedron) with the [flower of life pattern](https://en.wikipedia.org/wiki/Overlapping_circles_grid#Modern_usage) on each pannel. Each panel is illuminated with a series of addressable LEDs. The LEDs patterns and color change with the movement of the ball.
 
 I created three versions of this each with slight changes. Made with laser cut wood, and WS2812 LEDs (NeoPixels), and a [circuit playground](https://www.adafruit.com/product/3000) from [Adafruit](https://www.adafruit.com/)

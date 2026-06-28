@@ -1,14 +1,14 @@
 ---
 title: "Up and Down the River"
 date: 2010-09-27 18:57:00
-categories:
-- Cards
-- Drinking
-- Games
 slug: up-and-down-the-river
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Up and Down the River, a card-based drinking game with escalating drinks and give-aways across multiple decks."
 ---
-
 Up and Down the River is a drinking game.
 
 An excellent game with a potentially very high buzz factor.

@@ -1,13 +1,14 @@
 ---
 title: "Perverted Sounds"
 date: 2010-03-01 16:32:00
-categories:
-- Drinking
-- Games
 slug: perverted-sounds
-
+categories:
+  - Drinking
+tags:
+  - recipe
+  - ideas
+excerpt: "Rules for Perverted Sounds, a rhythm-and-recall drinking game where each player invents a sound and matching gesture."
 ---
-
 Perverted Sounds is a drinking word game.
 
 <strong>What you need to play</strong>

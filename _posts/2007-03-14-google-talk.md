@@ -1,13 +1,15 @@
 ---
 title: "Google talk"
 date: 2007-03-14 16:08:00
-categories:
-- Tips
-- Development
 slug: google-talk
-
+categories:
+  - Tips
+tags:
+  - security
+  - tutorial
+  - web
+excerpt: "Notes on Google Talk, the XMPP protocol behind it, and how to connect to the GTalk network from Trillian with the Jabber plugin."
 ---
-
 <a href="/public/uploads/2007/03/chat_popout.png" title="GTalk pop up"><img src="/public/uploads/2007/03/chat_popout.png" alt="GTalk pop up" align="right" /></a>
 
 <strong>What is Google Talk or GTalk </strong>

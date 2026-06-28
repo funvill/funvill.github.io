@@ -1,12 +1,16 @@
 ---
 title: "ImageManager 2.0"
 date: 2007-04-03 09:00:00
-categories:
-- Development
 slug: imagemanager-20
-
+categories:
+  - Development
+tags:
+  - web
+  - php
+  - photo
+  - bookmark
+excerpt: "ImageManager 2.0 is a Wordpress plugin that lets bloggers resize, crop, rotate, flip, or scale uploaded images in place."
 ---
-
 <img src="/public/uploads/2007/03/image-missing.png" alt="image-missing" align="right" />One of the most important Wordpress plugin's for any blogger, ImageManager alowes you to resize, crop, rotate, flip or scale uploaded images.
 
 Having an image included with your posts make it stick out, but if that image is huge or has random crap in the background it can become annoying.

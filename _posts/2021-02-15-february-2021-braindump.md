@@ -1,16 +1,23 @@
 ---
 title: "February 2021 brain dump"
 date: 2021-02-09 00:22:00
-categories:
-- Bookmarks
-tags:
-- Bookmarks
-- journal
-toc: true
 slug: february-2021-braindump
-
+categories:
+  - Bookmarks
+tags:
+  - bookmark
+  - journal
+  - paper
+  - cnc
+  - web
+  - ai
+  - art
+  - maps
+  - birds
+  - photo
+excerpt: "February 2021 brain dump on getting into birding with a Sigma 150-600mm, plotter twitter projects, and a 52-card bird playing deck plan."
+toc: true
 ---
-
 Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes).
 
 I am changing the format of the brain dumps to be more journal like instead of a list of links as in the previous versions.

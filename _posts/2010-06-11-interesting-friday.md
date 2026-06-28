@@ -1,14 +1,17 @@
 ---
 title: "Interesting Friday"
 date: 2010-06-11 16:27:00
-categories:
-- Arduino
-- Vancouver
-- Development
 slug: interesting-friday
-
+categories:
+  - Vancouver
+tags:
+  - arduino
+  - sensor
+  - vancouver
+  - video
+  - journal
+excerpt: "Friday roundup of Vancouver events, science talks, an Arduino-Android toolkit, and other links from the week."
 ---
-
 Interesting Friday, I'm going to try to make a new post once a week on Friday of all the interesting things that I have found over the week. People to follow, interesting projects, local events, ect.
 <ul>
 	<li>The <a href="http://www.vancouversun.com/news/Vancouver+ebsite+serves+bite+sized+morsels+fiction/3132826/story.html?id=3132826">Vancouver sun</a> wrote an artical about <a href="http://www.everydayfiction.com/">Every Day Fiction</a> where we talk about our newest upcoming project <a href="http://www.everydaynovels.com/">EveryDayNovels.com</a> to be launched sometime in fall of 2010.</li>

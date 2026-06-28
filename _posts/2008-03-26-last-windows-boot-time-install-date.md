@@ -1,13 +1,14 @@
 ---
 title: "Last windows boot time, Install date"
 date: 2008-03-26 13:29:00
-categories:
-- Tips
-- Windows
 slug: last-windows-boot-time-install-date
-
+categories:
+  - Tips
+tags:
+  - tutorial
+  - code
+excerpt: "A one-liner using systeminfo and find to print the last Windows boot time or install date."
 ---
-
 Do you remember the exact date or time when you last switched on the computer ?
 Here&quot;s a simple DOS command to help you out:
 <blockquote>systeminfo | find /i "

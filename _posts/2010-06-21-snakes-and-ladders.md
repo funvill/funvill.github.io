@@ -1,15 +1,14 @@
 ---
 title: "Snakes and Ladders"
 date: 2010-06-21 15:53:00
-categories:
-- Games
-tags:
-- boardGames
-- TableTop
 slug: snakes-and-ladders
-
+categories:
+  - Games
+tags:
+  - ideas
+  - journal
+excerpt: "History of Snakes and Ladders, from the 2nd-century Indian game Moksha-Patamu to its Victorian and Western versions."
 ---
-
 As a kid Snakes and Ladders never really appealed to me as it was a purely luck based game, but most of my childhood friends loved it because it was so simple.
 
 <strong>History

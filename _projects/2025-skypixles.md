@@ -1,15 +1,19 @@
 ---
-title       : (2025) Skypixels
-excerpt     : Snapshot of the sky
-post_date   : 2025-05-09 00:00:00
-header      :
-  teaser    : /public/uploads/2025/skypixels-header.png
-toc         : false
+title: "(2025) Skypixels"
+date: 2025-05-09 00:00:00
+slug: 2025-skypixles
+categories:
+  - Projects
 tags:
-- Projects
-- Art
+  - art
+  - painting
+  - code
+  - photo
+excerpt: "Snapshot of the sky"
+header:
+  teaser: /uploads/2025/skypixels-header.png
+toc: false
 ---
-
 > Snapshot of the sky
 
 ## Overview

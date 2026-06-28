@@ -1,11 +1,24 @@
 ---
-title: (2019) Illuminated Stained Glass Tetragonal Trapezohedron
-excerpt: Illuminated Stained Glass Tetragonal Trapezohedron sculpture 
-post_date: 2019-01-01 00:00:00
+title: "(2019) Illuminated Stained Glass Tetragonal Trapezohedron"
+date: 2019-01-01 00:00:00
+slug: 2019-illuminated-stained-glass-tetragonal-trapezohedron
+categories:
+  - Projects
+tags:
+  - plastic
+  - glass
+  - led
+  - stained-glass
+  - arduino
+  - esp8266
+  - code
+  - art
+  - maker-faire
+  - vancouver
+excerpt: "Illuminated Stained Glass Tetragonal Trapezohedron sculpture"
 header:
-  teaser: /public/uploads/tetragonalTrapezohedron.png
+  teaser: /uploads/tetragonalTrapezohedron.png
 ---
-
 <img src="/public/uploads/tetragonalTrapezohedron.png" alt="Tetragonal Trapezohedron"/>
 
 I made the illuminated stained glass [tetragonal trapezohedron](https://en.wikipedia.org/wiki/Tetragonal_trapezohedron) sculpture for [Vancouver Maker faire 2019](https://vancouver.makerfaire.com/) at [Science world](https://www.scienceworld.ca/).

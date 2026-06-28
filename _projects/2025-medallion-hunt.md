@@ -1,15 +1,22 @@
 ---
-title       : (2025) The Medallion Hunt
-excerpt     : Hunt and seek game for Burnaby BC
-post_date   : 2025-06-01 00:00:00
-header      :
-  teaser    : /public/uploads/2025/medallion-hunt-header.png
-toc         : false
+title: "(2025) The Medallion Hunt"
+date: 2025-06-01 00:00:00
+slug: 2025-medallion-hunt
+categories:
+  - Projects
 tags:
-- Projects
-- Art
+  - art
+  - metal
+  - code
+  - web
+  - security
+  - birds
+  - vancouver
+excerpt: "Hunt and seek game for Burnaby BC"
+header:
+  teaser: /uploads/2025/medallion-hunt-header.png
+toc: false
 ---
-
 
 ## Overview
 

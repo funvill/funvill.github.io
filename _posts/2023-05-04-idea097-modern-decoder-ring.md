@@ -1,20 +1,17 @@
 ---
 title: "Idea 097 - Modern decoder ring"
 date: 2023-05-04 01:37:00
-categories:
-- Ideas
-- YearOfIdeas
-tags:
-- pcb
-- cryptography
-- electronics
-- Projects
-- Ideas
-excerpt: A modern decoder ring that uses strong modern cryptography encryption methods
 slug: idea097-modern-decoder-ring
-
+categories:
+  - Year of Ideas
+tags:
+  - pcb
+  - security
+  - ideas
+  - led
+  - jewelry
+excerpt: "A modern decoder ring that uses strong modern cryptography encryption methods"
 ---
-
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch

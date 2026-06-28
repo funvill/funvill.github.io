@@ -1,12 +1,16 @@
 ---
 title: "Acrylic Ornaments Batch 2"
 date: 2012-11-20 00:00:00
-categories:
-- LaserCutter
 slug: acrylic-ornaments-batch-2
-
+categories:
+  - Projects
+tags:
+  - plastic
+  - 3d-printing
+  - laser-cut
+  - vhs
+excerpt: "Batch two of acrylic snowflake ornaments, including 3D slot-together designs and Koch snowflake variants."
 ---
-
 These are the results from the "<a href="/acrylic-ornaments-design-thoughts-an-research/">acrylic ornaments design thoughts and research</a>". They turned out O.K. I am still not completely happy with it. I learned a lot from this batch and I am looking forward to the next one. The raw file can be <a href="http://www.abluestar.com/files/uploads/2012/nov/Kock_snowflake_v1.svg">downloaded here</a>.
 
 <a href="/public/uploads/2012/11/Kock_snowflake_v11.png"><img class="alignnone size-full wp-image-3020" title="Kock_snowflake_v1" src="/public/uploads/2012/11/Kock_snowflake_v11.png" alt="" width="430" height="314" /></a>
