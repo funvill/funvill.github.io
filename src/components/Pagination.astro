@@ -1,4 +1,6 @@
 ---
+import { Icon } from 'astro-icon/components';
+
 interface Props {
   currentPage: number;
   totalPages: number;
@@ -20,10 +22,10 @@ for (let i = Math.max(1, currentPage - delta); i <= Math.min(totalPages, current
   <nav class="pagination" aria-label="Pagination">
     {currentPage > 1
       ? <a href={prevHref} aria-label="Previous page">
-          <i class="fa-solid fa-chevron-left" style="font-size:0.75em"></i>&nbsp;Prev
+          <Icon name="lucide:chevron-left" style="font-size:0.75em;vertical-align:-0.125em" />&nbsp;Prev
         </a>
       : <span class="disabled" aria-disabled="true">
-          <i class="fa-solid fa-chevron-left" style="font-size:0.75em"></i>&nbsp;Prev
+          <Icon name="lucide:chevron-left" style="font-size:0.75em;vertical-align:-0.125em" />&nbsp;Prev
         </span>
     }
 
@@ -49,10 +51,10 @@ for (let i = Math.max(1, currentPage - delta); i <= Math.min(totalPages, current
 
     {currentPage < totalPages
       ? <a href={nextHref} aria-label="Next page">
-          Next&nbsp;<i class="fa-solid fa-chevron-right" style="font-size:0.75em"></i>
+          Next&nbsp;<Icon name="lucide:chevron-right" style="font-size:0.75em;vertical-align:-0.125em" />
         </a>
       : <span class="disabled" aria-disabled="true">
-          Next&nbsp;<i class="fa-solid fa-chevron-right" style="font-size:0.75em"></i>
+          Next&nbsp;<Icon name="lucide:chevron-right" style="font-size:0.75em;vertical-align:-0.125em" />
         </span>
     }
   </nav>

@@ -1,5 +1,14 @@
 ---
+import { Icon } from 'astro-icon/components';
 import { canonical, getSiteMeta } from '../lib/content';
+
+// Self-hosted fonts (replaces the Google Fonts <link> CDN call).
+import '@fontsource-variable/space-grotesk';
+import '@fontsource-variable/hanken-grotesk';
+import '@fontsource/space-mono/400.css';
+import '@fontsource/space-mono/400-italic.css';
+import '@fontsource/space-mono/700.css';
+import '@fontsource/space-mono/700-italic.css';
 
 interface Props {
   title?: string;
@@ -35,18 +44,18 @@ const twitterHandle = '@funvill';
 const navLinks = meta.nav;
 
 const socialLinks = [
-  { href: 'https://mastodon.social/@funvill', label: 'Mastodon', icon: 'fa-brands fa-mastodon', color: '#6364ff' },
-  { href: 'https://twitter.com/funvill', label: 'Twitter / X', icon: 'fa-brands fa-x-twitter', color: '#1da1f2' },
-  { href: 'https://instagram.com/funvill', label: 'Instagram', icon: 'fa-brands fa-instagram', color: '#e1306c' },
-  { href: 'https://github.com/funvill', label: 'GitHub', icon: 'fa-brands fa-github', color: '#ffffff' },
-  { href: 'https://stackoverflow.com/users/5276', label: 'Stack Overflow', icon: 'fa-brands fa-stack-overflow', color: '#f48024' },
-  { href: 'https://www.facebook.com/funvill', label: 'Facebook', icon: 'fa-brands fa-facebook', color: '#1877f2' },
-  { href: 'https://www.linkedin.com/in/funvill', label: 'LinkedIn', icon: 'fa-brands fa-linkedin', color: '#0a66c2' },
-  { href: 'https://www.youtube.com/@funvill', label: 'YouTube', icon: 'fa-brands fa-youtube', color: '#ff0000' },
-  { href: 'https://steamcommunity.com/id/funvill', label: 'Steam', icon: 'fa-brands fa-steam', color: '#66c0f4' },
-  { href: 'https://www.last.fm/user/funvill', label: 'Last.fm', icon: 'fa-brands fa-lastfm', color: '#d51007' },
-  { href: 'https://www.reddit.com/user/funvill', label: 'Reddit', icon: 'fa-brands fa-reddit', color: '#ff4500' },
-  { href: 'https://www.inaturalist.org/people/funvill', label: 'iNaturalist', icon: 'fa-solid fa-leaf', color: '#74ac00' },
+  { href: 'https://mastodon.social/@funvill', label: 'Mastodon', icon: 'simple-icons:mastodon', color: '#6364ff' },
+  { href: 'https://twitter.com/funvill', label: 'Twitter / X', icon: 'simple-icons:x', color: '#1da1f2' },
+  { href: 'https://instagram.com/funvill', label: 'Instagram', icon: 'simple-icons:instagram', color: '#e1306c' },
+  { href: 'https://github.com/funvill', label: 'GitHub', icon: 'simple-icons:github', color: '#ffffff' },
+  { href: 'https://stackoverflow.com/users/5276', label: 'Stack Overflow', icon: 'simple-icons:stackoverflow', color: '#f48024' },
+  { href: 'https://www.facebook.com/funvill', label: 'Facebook', icon: 'simple-icons:facebook', color: '#1877f2' },
+  { href: 'https://www.linkedin.com/in/funvill', label: 'LinkedIn', icon: 'simple-icons:linkedin', color: '#0a66c2' },
+  { href: 'https://www.youtube.com/@funvill', label: 'YouTube', icon: 'simple-icons:youtube', color: '#ff0000' },
+  { href: 'https://steamcommunity.com/id/funvill', label: 'Steam', icon: 'simple-icons:steam', color: '#66c0f4' },
+  { href: 'https://www.last.fm/user/funvill', label: 'Last.fm', icon: 'simple-icons:lastdotfm', color: '#d51007' },
+  { href: 'https://www.reddit.com/user/funvill', label: 'Reddit', icon: 'simple-icons:reddit', color: '#ff4500' },
+  { href: 'https://www.inaturalist.org/people/funvill', label: 'iNaturalist', icon: 'lucide:leaf', color: '#74ac00' },
 ];
 
 const footerLinks = [
@@ -94,12 +103,37 @@ const footerLinks = [
     <meta name="google-site-verification" content="0zKuGt2hC1SFUVt9rmmeDHiUnoN3rVnfOvrc5gUsO7k" />
     <meta name="msvalidate.01" content="7FC72B4F92E9B0B16A5E0E714E4E3497" />
     <link rel="alternate" type="application/rss+xml" title="A Blue Star Feed" href="/feed.xml" />
-    <!-- Google Fonts: Space Grotesk, Hanken Grotesk, Space Mono -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
-    <!-- Font Awesome 6 -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Fonts self-hosted via @fontsource (see frontmatter imports). Icons via astro-icon. -->
+    <!-- CSS shim for the three legacy Font Awesome classes still used inline in old markdown
+         posts (replaces the FA CDN). Renders Twitter / Instagram / Facebook as currentColor
+         masks so links keep their inline icon without loading a third-party stylesheet. -->
+    <style is:global>
+      i.fab.fa-twitter, i.fab.fa-instagram, i.fab.fa-facebook, i.fab.fa-facebook-official {
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        vertical-align: -0.125em;
+        background-color: currentColor;
+        -webkit-mask-position: center;
+        mask-position: center;
+        -webkit-mask-repeat: no-repeat;
+        mask-repeat: no-repeat;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+      }
+      i.fab.fa-twitter {
+        -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z'/%3E%3C/svg%3E");
+                mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z'/%3E%3C/svg%3E");
+      }
+      i.fab.fa-instagram {
+        -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z'/%3E%3C/svg%3E");
+                mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z'/%3E%3C/svg%3E");
+      }
+      i.fab.fa-facebook, i.fab.fa-facebook-official {
+        -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z'/%3E%3C/svg%3E");
+                mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z'/%3E%3C/svg%3E");
+      }
+    </style>
     <style is:global>
       /* ════════════════════════════════════════════════════════
          A Blue Star — Design Tokens
@@ -857,10 +891,10 @@ const footerLinks = [
         </nav>
         <div class="header-search">
           <form class="header-search__form" action="/search" method="get" role="search">
-            <i class="header-search__icon fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+            <Icon name="lucide:search" class="header-search__icon" aria-hidden="true" />
             <input class="header-search__input" type="search" name="q" placeholder="Search…" aria-label="Search posts and projects" />
             <button class="header-search__btn" type="submit" aria-label="Submit search">
-              <i class="fa-solid fa-magnifying-glass"></i>
+              <Icon name="lucide:search" />
             </button>
           </form>
         </div>
@@ -897,7 +931,7 @@ const footerLinks = [
               aria-label={social.label}
               style={`--social-color:${social.color}`}
             >
-              <i class={`bs-social-card__icon ${social.icon}`} aria-hidden="true"></i>
+              <Icon name={social.icon} class="bs-social-card__icon" aria-hidden="true" />
               <span class="bs-social-card__label">{social.label}</span>
             </a>
           ))}

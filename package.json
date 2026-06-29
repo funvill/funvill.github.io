@@ -14,7 +14,13 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.3",
+    "@fontsource-variable/hanken-grotesk": "^5.2.8",
+    "@fontsource-variable/space-grotesk": "^5.2.10",
+    "@fontsource/space-mono": "^5.2.9",
+    "@iconify-json/lucide": "^1.2.114",
+    "@iconify-json/simple-icons": "^1.2.87",
     "astro": "^6.4.8",
+    "astro-icon": "^1.1.5",
     "gray-matter": "^4.0.3",
     "marked": "^15.0.12",
     "marked-gfm-heading-id": "^4.1.3",
