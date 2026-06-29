@@ -10,7 +10,15 @@ export function getStaticPaths() {
 const entry = getFlockingBySlug(Astro.params.slug ?? '');
 if (!entry) throw new Error(`Missing flocking entry for slug ${Astro.params.slug}`);
 ---
-<MainLayout title={entry.title} description={entry.description} pathname={entry.permalink}>
+<MainLayout
+  title={entry.title}
+  description={entry.description}
+  pathname={entry.permalink}
+  image={entry.header?.teaser ?? entry.gallery?.[0]}
+  type="article"
+  publishedTime={entry.date}
+  tags={entry.tags}
+>
   <section class="split detail section">
     <article class="article-shell article-shell--detail">
       <div>

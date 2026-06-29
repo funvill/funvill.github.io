@@ -17,7 +17,15 @@ const related = getProjects()
 
 const kicker = project.categories[0] ?? 'Project';
 ---
-<MainLayout title={project.title} description={project.description} pathname={project.permalink}>
+<MainLayout
+  title={project.title}
+  description={project.description}
+  pathname={project.permalink}
+  image={project.header?.teaser}
+  type="article"
+  publishedTime={project.date}
+  tags={project.tags}
+>
 
   <DetailLayout
     kicker={kicker}

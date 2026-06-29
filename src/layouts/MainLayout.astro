@@ -5,12 +5,32 @@ interface Props {
   title?: string;
   description?: string;
   pathname?: string;
+  image?: string;          // /uploads/... path or absolute URL; used for og:image + twitter:image
+  type?: 'website' | 'article';
+  publishedTime?: Date;    // for article:published_time
+  tags?: string[];         // for article:tag (repeated)
 }
 
 const meta = getSiteMeta();
-const { title, description = meta.description, pathname = Astro.url.pathname } = Astro.props;
+const {
+  title,
+  description = meta.description,
+  pathname = Astro.url.pathname,
+  image,
+  type = 'website',
+  publishedTime,
+  tags = []
+} = Astro.props;
 const pageTitle = title ? `${title} | ${meta.title}` : meta.title;
 const canonicalUrl = canonical(pathname);
+
+// OG/Twitter image: resolve to absolute URL. Crawlers reject relative paths.
+const DEFAULT_OG_IMAGE = '/uploads/teaser_2015_pocket_universe.png';
+const rawImage = image ?? DEFAULT_OG_IMAGE;
+const absoluteImage = rawImage.startsWith('http')
+  ? rawImage
+  : `${meta.siteUrl}${rawImage.startsWith('/') ? rawImage : `/${rawImage}`}`;
+const twitterHandle = '@funvill';
 
 const navLinks = meta.nav;
 
@@ -48,10 +68,29 @@ const footerLinks = [
     <meta name="description" content={description} />
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:site_name" content={meta.title} />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={type} />
     <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:locale" content="en_CA" />
+    <meta property="og:image" content={absoluteImage} />
+    <meta property="og:image:alt" content={title ?? meta.title} />
+    {type === 'article' && publishedTime && (
+      <meta property="article:published_time" content={publishedTime.toISOString()} />
+    )}
+    {type === 'article' && (
+      <meta property="article:author" content={meta.author} />
+    )}
+    {type === 'article' && tags.map((tag) => (
+      <meta property="article:tag" content={tag} />
+    ))}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={absoluteImage} />
+    <meta name="twitter:site" content={twitterHandle} />
+    <meta name="twitter:creator" content={twitterHandle} />
     <meta name="google-site-verification" content="0zKuGt2hC1SFUVt9rmmeDHiUnoN3rVnfOvrc5gUsO7k" />
     <meta name="msvalidate.01" content="7FC72B4F92E9B0B16A5E0E714E4E3497" />
     <link rel="alternate" type="application/rss+xml" title="A Blue Star Feed" href="/feed.xml" />
