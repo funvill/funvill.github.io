@@ -27,7 +27,7 @@
     "yaml": "^2.8.2"
   },
   "devDependencies": {
-    "markdownlint-cli2": "^0.18.1",
+    "markdownlint-cli2": "^0.23.0",
     "pagefind": "^1.5.2"
   }
 }
