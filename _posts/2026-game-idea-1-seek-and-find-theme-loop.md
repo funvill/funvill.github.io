@@ -5,14 +5,17 @@ slug: game-idea-1-seek-and-find-theme-loop
 categories:
   - Development
 tags:
-excerpt: ""
+  - game-idea
+  - puzzle
+  - strategy
+excerpt: "A 'Seek and Find' game set in a living town updating in real time. Spot what the cultists are changing and stop them before they summon their evil god"
 ---
 
-This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project
+> This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project
+>
+> A rough draft of this game was created. [Demo](/games/grayharbor)
 
 ## Seek and Find (Theme: Loop)
-
-[Demo](/games/grayharbor)
 
 ### Idea - Seek and Find
 

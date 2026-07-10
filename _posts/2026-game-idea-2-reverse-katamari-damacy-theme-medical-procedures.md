@@ -5,14 +5,16 @@ slug: game-idea-2-reverse-katamari-damacy-theme-medical-procedures
 categories:
   - Development
 tags:
+  - game-idea
+  - comedy
 excerpt: "Top down vertical scroller,  Reverse “Katamari Damacy” game where you are trying to drag your kid to a doctor's appointment"
 ---
 
-This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project
+> This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.
+>
+> A rough draft of this game was created. [Demo](/games/reverse-katamari)
 
 ## Reverse Katamari Damacy
-
-[Demo](/games/reverse-katamari)
 
 This is the “okay for children” version of this game that I made on the second attempt.
 The “nicer” version that I could see people actually paying, instead of the monstrosity that I first made.
