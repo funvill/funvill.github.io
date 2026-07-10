@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grayharbor</title>
+    <script type="module" crossorigin src="./assets/index-CYiHugVl.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BFWGJJuF.css">
+  </head>
+  <body>
+    <div id="app">
+      <div id="hud">
+        <div id="doom-row">
+          <span class="hud-label">DOOM</span>
+          <div id="doom-bar"><div id="doom-fill"></div></div>
+        </div>
+        <div id="status-row">
+          <span>
+            <span id="clue-pips" title="Clues"></span>
+            <span id="arrest-count" title="Cultists arrested"></span>
+          </span>
+          <span id="day-clock">☀ 07:00</span>
+        </div>
+        <div id="hint-line">🔍 Search for things that have changed on the map — the edges glow red when something is wrong in view.</div>
+      </div>
+      <div id="corruption-glow"></div>
+      <div id="glow-tip" class="hidden">Something is fishy about this place — something here has changed…</div>
+      <canvas id="game"></canvas>
+      <div id="bottom-bar">
+        <div id="portraits"></div>
+        <div id="notebook" class="collapsed">
+          <button id="notebook-toggle">📓 Notebook</button>
+          <div id="notebook-body"><ul id="event-log"></ul></div>
+        </div>
+      </div>
+      <div id="context-menu" class="hidden"></div>
+      <div id="toasts"></div>
+      <div id="screen-overlay" class="hidden"></div>
+      <div id="finale-banner" class="hidden"></div>
+      <div id="edge-arrow" class="hidden">➤</div>
+    </div>
+  </body>
+</html>

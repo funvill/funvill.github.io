@@ -1,5 +1,5 @@
 ---
-title: "(2025) Deck of Creative things"
+title: "(2026) Deck of Creative things"
 date: 2026-06-23 00:00:00
 slug: 2026-deck-of-creative-things
 categories:
@@ -18,6 +18,7 @@ header:
   teaser: /uploads/2026/2026-deckofcreativethings-v1.png
 toc: false
 ---
+
 In D&D there is a [Deck Of Many Things](https://www.dndbeyond.com/magic-items/4617-deck-of-many-things). It was one of my favorite magic items, and I would always pull it out whenever I was DMing. The idea is simple: it hands you a random fate based on the cards you draw. I would usually pull it at the start of a campaign, and whatever came up would shape how we played the rest of the game.
 
 I recently watched a video about [Jerry's Map](https://www.jerrysmap.com/the-map), an art project where a man spent 50 years making a map of an [imaginary place](https://www.youtube.com/watch?v=Is8N7B9b0GQ) (YouTube). It is a charming little documentary, and one I would recommend. In it he describes his ***creative process*** and how he decides what to add to the map next. He uses a hand made deck of cards to choose (see the 1:32 mark). Over time he has added to, modified, and grown the deck to help inspire whatever comes next.
