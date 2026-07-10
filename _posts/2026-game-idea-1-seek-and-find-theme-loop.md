@@ -5,8 +5,10 @@ slug: game-idea-1-seek-and-find-theme-loop
 categories:
   - Development
 tags:
-excerpt: "On June 21, 2026 I switched the site from Jekyll to Astro and rebuilt the theme from scratch. Here's why."
+excerpt: ""
 ---
+
+This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project
 
 ## Seek and Find (Theme: Loop)
 

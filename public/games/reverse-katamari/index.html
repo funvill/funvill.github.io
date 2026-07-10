@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍭</text></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Just a Checkup!</title>
+    <script>
+      // Hidden embedded pages (dev preview panels) never deliver ResizeObserver
+      // callbacks, which would stall the 3D canvas at 0x0. Poll instead. Must run
+      // before any module import captures the native class. Localhost-only.
+      if (document.hidden && (location.hostname === 'localhost' || location.hostname === '127.0.0.1')) {
+        window.ResizeObserver = class {
+          constructor(cb) { this.cb = cb; this.timers = new Map(); this.last = new Map(); }
+          observe(el) {
+            const measure = () => {
+              const r = el.getBoundingClientRect();
+              const key = r.width + 'x' + r.height;
+              if (this.last.get(el) !== key) { this.last.set(el, key); this.cb([{ target: el, contentRect: r }], this); }
+            };
+            measure();
+            this.timers.set(el, setInterval(measure, 400));
+          }
+          unobserve(el) { const t = this.timers.get(el); if (t) clearInterval(t); this.timers.delete(el); this.last.delete(el); }
+          disconnect() { for (const t of this.timers.values()) clearInterval(t); this.timers.clear(); this.last.clear(); }
+        };
+      }
+    </script>
+    <script type="module" crossorigin src="./assets/index-CqEPLeBU.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-iqAE4civ.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
