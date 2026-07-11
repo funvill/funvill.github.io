@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SMALL WORDS</title>
+  <meta name="description" content="Explain big things using only small words.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔤</text></svg>">
+</head>
+<body>
+
+  <div id="topbar" hidden>
+    <div id="topbar-left"></div>
+    <div id="topbar-center"></div>
+    <div id="topbar-right">
+      <button id="btn-quit-game" class="icon-btn" title="Quit game" aria-label="Quit game">✕</button>
+      <button id="btn-pause" class="icon-btn" title="Pause (Esc)" aria-label="Pause">⏸</button>
+      <button id="btn-mute" class="icon-btn" title="Mute (M)" aria-label="Mute">🔊</button>
+    </div>
+  </div>
+
+  <main>
+    <!-- Splash -->
+    <section id="screen-splash" hidden>
+      <div class="splash-kid" aria-hidden="true">
+        <svg class="kid-svg" viewBox="0 0 80 100" xmlns="http://www.w3.org/2000/svg">
+          <path d="M18 98 Q40 56 62 98 Z" fill="#F2C94C" stroke="#232323" stroke-width="3" stroke-linejoin="round"/>
+          <path d="M27 74 Q12 72 9 60" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
+          <path d="M53 74 Q70 74 73 62" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
+          <circle cx="40" cy="34" r="21" fill="#fff" stroke="#232323" stroke-width="3"/>
+          <path d="M21 26 Q25 7 40 8 Q55 7 59 26" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
+          <path d="M40 8 L40 2" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
+          <circle cx="33" cy="33" r="2.6" fill="#232323"/>
+          <circle cx="47" cy="33" r="2.6" fill="#232323"/>
+          <circle cx="28" cy="41" r="3.5" fill="#D64545" opacity="0.45"/>
+          <circle cx="52" cy="41" r="3.5" fill="#D64545" opacity="0.45"/>
+          <ellipse cx="40" cy="43" rx="4.5" ry="3.5" fill="#D64545" stroke="#232323" stroke-width="1.5"/>
+        </svg>
+      </div>
+      <h1 class="title">SMALL WORDS</h1>
+      <p class="one-liner">A little kid tries to tell you about a big thing — using only tiny words. Can you guess it?</p>
+      <ul class="rules">
+        <li>A kid is trying to name a big thing, but only knows small words.</li>
+        <li><b>⏱ Beat the Clock:</b> the words come out one at a time. Guess fast — you lose points while you wait!</li>
+        <li><b>🐢 Take Your Time:</b> read a little, then buy more words if you are stuck.</li>
+        <li><b>✏️ Write:</b> now <i>you</i> be the kid — tell about a big thing using only small words.</li>
+        <li>Say it in as few words as you can.</li>
+      </ul>
+      <p class="controls-line">Type your guess and press Enter. Buttons do the rest. Works on a phone too.</p>
+      <div class="mode-buttons">
+        <button id="btn-mode-timed" class="big-btn primary">⏱ Beat the Clock</button>
+        <button id="btn-mode-guess" class="big-btn">🐢 Take Your Time</button>
+        <button id="btn-mode-write" class="big-btn">✏️ Write</button>
+        <button id="btn-mode-pass" class="big-btn">👥 Pass &amp; Play</button>
+      </div>
+      <label class="five-toggle">
+        <input type="checkbox" id="five-toggle">
+        Five Hundred mode — only the five hundred most used words. Harder!
+      </label>
+      <button id="btn-open-history" class="big-btn ghost">🏅 Your Games &amp; Scores</button>
+    </section>
+
+    <!-- History / Stats -->
+    <section id="screen-history" hidden>
+      <h1 class="page-title">Your Games</h1>
+      <div id="history-stats" class="history-stats"></div>
+      <div id="best-scores" class="best-scores"></div>
+      <div id="history" class="history"></div>
+      <button id="btn-history-back" class="big-btn primary">Back</button>
+    </section>
+
+    <!-- Guess screen -->
+    <section id="screen-guess" hidden>
+      <div class="guess-meta">
+        <span id="guess-category" class="chip category-chip"></span>
+        <span id="guess-pips" class="pips" title="Wrong guesses"></span>
+      </div>
+      <div class="score-meter">
+        <div class="meter-track"><div id="meter-fill" class="meter-fill"></div></div>
+        <span id="meter-value" class="meter-value">100</span>
+      </div>
+      <div class="speech-area">
+        <div id="timed-kid" class="timed-kid" aria-hidden="true">
+          <svg class="kid-svg" viewBox="0 0 80 100" xmlns="http://www.w3.org/2000/svg">
+            <path d="M18 98 Q40 56 62 98 Z" fill="#F2C94C" stroke="#232323" stroke-width="3" stroke-linejoin="round"/>
+            <path d="M27 74 Q12 72 9 60" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
+            <path d="M53 74 Q70 74 73 62" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
+            <circle cx="40" cy="34" r="21" fill="#fff" stroke="#232323" stroke-width="3"/>
+            <path d="M21 26 Q25 7 40 8 Q55 7 59 26" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
+            <path d="M40 8 L40 2" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
+            <circle cx="33" cy="33" r="2.6" fill="#232323"/>
+            <circle cx="47" cy="33" r="2.6" fill="#232323"/>
+            <circle cx="28" cy="41" r="3.5" fill="#D64545" opacity="0.45"/>
+            <circle cx="52" cy="41" r="3.5" fill="#D64545" opacity="0.45"/>
+            <ellipse cx="40" cy="43" rx="4.5" ry="3.5" fill="#D64545" stroke="#232323" stroke-width="1.5"/>
+          </svg>
+        </div>
+        <div id="guess-text" class="game-text card"></div>
+      </div>
+      <div class="guess-actions">
+        <button id="btn-reveal" class="btn">Show more (−10)</button>
+        <button id="btn-giveup" class="btn link-btn">Give up</button>
+      </div>
+      <form id="guess-form" autocomplete="off">
+        <input id="guess-input" type="text" placeholder="What is it?" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="go">
+        <button id="btn-guess" class="btn primary" type="submit">Guess</button>
+      </form>
+      <div id="wrong-guesses" class="wrong-list"></div>
+      <div id="guess-feedback" class="feedback" aria-live="polite"></div>
+    </section>
+
+    <!-- Answer reveal card (guess mode, between descriptions) -->
+    <section id="screen-answer" hidden>
+      <div class="card answer-card">
+        <div id="answer-result" class="answer-result"></div>
+        <h2 id="answer-name"></h2>
+        <div id="answer-points" class="answer-points"></div>
+        <p id="answer-fulltext" class="game-text"></p>
+        <p class="tap-hint">Click or tap to keep going</p>
+      </div>
+    </section>
+
+    <!-- Write screen -->
+    <section id="screen-write" hidden>
+      <div class="write-target card">
+        <span class="write-label">Tell about:</span>
+        <h2 id="write-object"></h2>
+        <span id="write-category" class="chip category-chip"></span>
+      </div>
+      <div class="write-status">
+        <span id="letter-counter" class="counter">0 / par —</span>
+        <span id="illegal-chip" class="chip warn-chip" hidden></span>
+      </div>
+      <div class="editor-wrap">
+        <div id="editor-backdrop" class="editor-backdrop" aria-hidden="true"></div>
+        <textarea id="write-input" class="editor" placeholder="Use only small words…" spellcheck="false"></textarea>
+      </div>
+      <div class="write-actions">
+        <button id="btn-submit" class="btn primary" disabled>Submit</button>
+        <span id="submit-reason" class="submit-reason"></span>
+        <button id="btn-skip" class="btn link-btn">Skip</button>
+      </div>
+    </section>
+
+    <!-- Write result interstitial -->
+    <section id="screen-write-result" hidden>
+      <div class="card answer-card">
+        <div id="write-result-stars" class="stars"></div>
+        <div id="write-result-detail"></div>
+        <p class="tap-hint">Click or tap to keep going</p>
+      </div>
+    </section>
+
+    <!-- Pass-and-play handoff interstitial -->
+    <section id="screen-handoff" hidden>
+      <div class="card answer-card">
+        <h2 id="handoff-title"></h2>
+        <p id="handoff-text" class="game-text"></p>
+        <button id="btn-ready" class="big-btn primary">Ready</button>
+      </div>
+    </section>
+
+    <!-- End of round -->
+    <section id="screen-end" hidden>
+      <h1 id="end-total" class="end-total"></h1>
+      <div id="end-rank" class="end-rank"></div>
+      <div id="end-breakdown" class="breakdown"></div>
+      <div class="mode-buttons">
+        <button id="btn-again" class="big-btn primary">Play again</button>
+        <button id="btn-menu" class="big-btn">Menu</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Pause overlay -->
+  <div id="overlay-pause" class="overlay" hidden>
+    <div class="overlay-panel card">
+      <h2>Paused</h2>
+      <button id="btn-resume" class="btn primary">Resume</button>
+      <button id="btn-restart" class="btn">Restart round (R)</button>
+      <button id="btn-pause-mute" class="btn">Mute</button>
+      <button id="btn-quit" class="btn">Quit to menu</button>
+    </div>
+  </div>
+
+  <!-- Quit confirm overlay -->
+  <div id="overlay-quit" class="overlay" hidden>
+    <div class="overlay-panel card">
+      <h2>Quit this game?</h2>
+      <p class="overlay-msg">Your round will be lost.</p>
+      <button id="btn-quit-yes" class="btn primary">Yes, quit</button>
+      <button id="btn-quit-no" class="btn">Keep playing</button>
+    </div>
+  </div>
+
+  <!-- Debug overlay -->
+  <div id="overlay-debug" class="debug" hidden></div>
+
+  <footer id="app-footer" class="footer">
+    <span id="footer-version"></span>
+    <a class="footer-link" href="https://blog.abluestar.com/game-idea-10-thing-explain-guess-theme-the-fablebound-five/" target="_blank" rel="noopener noreferrer">About this game</a>
+  </footer>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

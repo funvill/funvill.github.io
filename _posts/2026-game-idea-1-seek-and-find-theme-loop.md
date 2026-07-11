@@ -13,7 +13,7 @@ excerpt: "A 'Seek and Find' game set in a living town updating in real time. Spo
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project
 >
-> A rough draft of this game was created. [Demo](/games/grayharbor)
+> A rough draft of this game was created. [Gray Harbor](/games/grayharbor)
 
 ## Seek and Find (Theme: Loop)
 

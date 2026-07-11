@@ -12,6 +12,8 @@ excerpt: "Can you describe complexity with simple words?"
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.
+>
+> A rough draft of this game was created. [Small Words](/games/smallwords/)
 
 ## Thing explain guess
 
