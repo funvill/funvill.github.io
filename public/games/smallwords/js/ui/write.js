@@ -3,6 +3,7 @@
 
 import { evaluateText, forbiddenWordsFor } from '../game-write.js';
 import { shuffle } from '../rng.js';
+import { submitDescription } from '../formsubmit.js';
 import { showScreen, setTopbar, escapeHtml, debugOverlay } from './screens.js';
 
 // Submitted descriptions are kept locally so the player can copy/send them.
@@ -168,6 +169,8 @@ export function startWriteRound(app, rand, onExit) {
     const text = el.input.value.replace(/\s+/g, ' ').trim();
     app.audio.play('stamp');
     saveWritten(current, text);
+    // send it in silently, on the player's behalf (fail-safe, never blocks)
+    submitDescription(app.config, { thing: current.name, text });
     showThanks(current, text);
   }
 
@@ -182,19 +185,8 @@ export function startWriteRound(app, rand, onExit) {
     res.desc.textContent = `“${text}”  — (${object.name})`;
     res.toast.textContent = '';
 
-    // Anonymous Google Form (if configured) is the primary way to submit.
-    const form = app.config.submitForm;
-    const formOn = form && form.viewformUrl && form.textEntry;
-    res.form.hidden = !formOn;
-    if (formOn) {
-      res.form.onclick = () => {
-        const p = new URLSearchParams({ usp: 'pp_url' });
-        if (form.thingEntry) p.set(form.thingEntry, object.name);
-        p.set(form.textEntry, text);
-        window.open(form.viewformUrl + '?' + p.toString(), '_blank', 'noopener');
-        toast('Opening the form — thank you!');
-      };
-    }
+    // The description was already sent silently on submit; no button needed.
+    res.form.hidden = true;
 
     res.copy.onclick = async () => {
       const payload = `SMALL WORDS description\nThing: ${object.name}\n${text}`;

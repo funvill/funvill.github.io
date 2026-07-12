@@ -678,6 +678,16 @@ mark.forbidden { text-decoration-color: #d98324; }
 
 .overlay-msg { margin: 0.25rem 0 0.75rem; font-size: 0.95rem; opacity: 0.85; }
 
+/* ---------- about page ---------- */
+#screen-about { padding-top: 0.5rem; }
+.about-body { max-width: 520px; margin: 0 auto 1rem; text-align: left; line-height: 1.6; }
+.about-body h2 { font-size: 1.25rem; margin: 1.25rem 0 0.35rem; }
+.about-body p { margin: 0.4rem 0; }
+.about-link { color: var(--blue); font-weight: bold; text-decoration: underline; }
+.about-link:hover { color: #245b95; }
+.about-edit { opacity: 0.5; font-size: 0.85rem; font-style: italic; }
+#screen-about .big-btn { max-width: 340px; margin: 1.25rem auto 0; }
+
 /* ---------- small screens (mobile: phones ~360–430px) ---------- */
 
 @media (max-width: 480px) {

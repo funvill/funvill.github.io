@@ -2,6 +2,7 @@
 // until three misses end the run.
 
 import { createEndlessRound } from '../game-endless.js';
+import { reportWrongGuess } from '../formsubmit.js';
 import { showScreen, setTopbar, debugOverlay, advanceOnKey, disarmAdvanceKey } from './screens.js';
 import { getGuessEls, renderGuessItem, shakeInput, setGuessFeedback } from './guess.js';
 
@@ -92,7 +93,9 @@ export function startEndlessRound(app, rand, onEnd) {
 
   el.form.onsubmit = (e) => {
     e.preventDefault();
-    const result = round.guess(el.input.value);
+    const guessText = el.input.value;
+    const it = round.state.item;
+    const result = round.guess(guessText);
     if (result === 'empty') return;
     if (result === 'duplicate') {
       shakeInput(el);
@@ -104,6 +107,9 @@ export function startEndlessRound(app, rand, onEnd) {
       render();
       showAnswerCard('won');
       return;
+    }
+    if (result === 'wrong' || result === 'failed') {
+      reportWrongGuess(app.config, { thing: it.object.name, description: it.words.join(' '), guess: guessText });
     }
     if (result === 'wrong') {
       app.audio.play('wrong');

@@ -1,6 +1,6 @@
 // The only tuning surface (design §12).
 
-export const VERSION = '0.2.0';
+export const VERSION = '0.3.0';
 
 export const CONFIG = {
   vocabSize: 1000,          // how many top-ranked words are legal
@@ -25,7 +25,18 @@ export const CONFIG = {
   // Anonymous Google Form for "Submit a Description" (optional). Create a form
   // with two short-answer questions (the thing, the description), take its
   // pre-filled-link, and paste the viewform URL + the two entry.NNN field ids.
-  submitForm: { viewformUrl: '', thingEntry: '', textEntry: '' },
+  submitForm: {
+    viewformUrl: 'https://docs.google.com/forms/d/e/1FAIpQLScAIwQQ2R2DfAeIoCK4zDVjsZatVDgmhRYLIe-jzgy91qUYRQ/viewform',
+    thingEntry: 'entry.1546328586',
+    textEntry: 'entry.1038004114',
+  },
+  // Background, anonymous wrong-guess stats (submitted silently, fail-safe).
+  statsForm: {
+    viewformUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSdXhodOw4L20e1JXCcN9N-0ERvOwryyj8pygXl7HMRUlgqcCg/viewform',
+    thingEntry: 'entry.199454140',
+    descEntry: 'entry.97742599',
+    guessEntry: 'entry.719893084',
+  },
   timedTickMs: 200,                // timed mode: reveal one more letter this often
   timedStartValue: 100,            // timed mode: starting points per description
   timedDrainPerTick: 1,            // timed mode: points lost each tick (100 → 0 in 20s)

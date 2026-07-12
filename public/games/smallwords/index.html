@@ -78,6 +78,27 @@
       <button id="btn-history-back" class="big-btn primary">Back</button>
     </section>
 
+    <!-- About / disclosure -->
+    <section id="screen-about" hidden>
+      <h1 class="page-title">About</h1>
+      <div class="about-body">
+        <p><b>SMALL WORDS</b> is a little game about explaining big things using only the most common tiny words — a kid trying to describe the world with a very small vocabulary, and you trying to guess what they mean.</p>
+
+        <h2>Where the idea came from</h2>
+        <p>It grew out of a game idea — “Thing Explain Guess”, themed <i>The Fablebound Five</i> — written up on the blog. It takes after xkcd's <i>Thing Explainer</i> and the Up-Goer-Five editor.</p>
+        <p><a class="about-link" href="https://blog.abluestar.com/game-idea-10-thing-explain-guess-theme-the-fablebound-five/" target="_blank" rel="noopener noreferrer">Read the original idea →</a></p>
+
+        <h2>Who made it</h2>
+        <p>Built by the tinkerer behind <b>aBlueStar</b> — a blog of games, experiments, and creative odds and ends. <span class="about-edit">(edit this line with your name/bio)</span></p>
+        <p><a class="about-link" href="https://blog.abluestar.com" target="_blank" rel="noopener noreferrer">blog.abluestar.com →</a></p>
+
+        <h2>A note on your data</h2>
+        <p>This game runs entirely in your browser and has no accounts. Your scores, streaks, and settings stay on your device.</p>
+        <p>To help improve the game, two things are sent <b>anonymously</b> in the background: descriptions you choose to submit, and — for stats — the wrong guesses people make (the guess, the answer, and the clue shown). No names, emails, or personal details are collected or attached.</p>
+      </div>
+      <button id="btn-about-back" class="big-btn primary">Back</button>
+    </section>
+
     <!-- Guess screen -->
     <section id="screen-guess" hidden>
       <div class="guess-meta">
@@ -159,8 +180,8 @@
     <!-- Submission thank-you -->
     <section id="screen-write-result" hidden>
       <div class="card answer-card">
-        <h2>Thank you! ✨</h2>
-        <p class="hint">Saved on this device. Send it to the game maker so it can be added:</p>
+        <h2>Sent! Thank you ✨</h2>
+        <p class="hint">Your clue is on its way to the game maker and may show up in the game soon.</p>
         <p id="submitted-desc" class="game-text"></p>
         <div class="end-actions">
           <button id="btn-form-desc" class="btn primary" hidden>📤 Send it in</button>
@@ -233,7 +254,7 @@
   <footer id="app-footer" class="footer">
     <span id="footer-version"></span>
     <button id="theme-toggle" class="theme-toggle" aria-label="Toggle night mode">🌙 Night</button>
-    <a class="footer-link" href="https://blog.abluestar.com/game-idea-10-thing-explain-guess-theme-the-fablebound-five/" target="_blank" rel="noopener noreferrer">About this game</a>
+    <button id="about-open" class="theme-toggle">About</button>
   </footer>
 
   <script type="module" src="js/main.js"></script>

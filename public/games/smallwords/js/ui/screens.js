@@ -2,7 +2,7 @@
 
 import { setupShare } from './share.js';
 
-const SCREENS = ['screen-splash', 'screen-history', 'screen-guess', 'screen-answer', 'screen-write', 'screen-write-result', 'screen-handoff', 'screen-end'];
+const SCREENS = ['screen-splash', 'screen-history', 'screen-about', 'screen-guess', 'screen-answer', 'screen-write', 'screen-write-result', 'screen-handoff', 'screen-end'];
 
 function endlessLabel(solved) {
   if (solved >= 15) return 'Word Wizard';

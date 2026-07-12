@@ -2,6 +2,7 @@
 // Render helpers are shared with pass-and-play (ui/passplay.js).
 
 import { createGuessRound } from '../game-guess.js';
+import { reportWrongGuess } from '../formsubmit.js';
 import { showScreen, setTopbar, escapeHtml, debugOverlay, advanceOnKey, disarmAdvanceKey } from './screens.js';
 
 /** The guess screen's elements, shared by solo guess and pass-and-play. */
@@ -174,7 +175,9 @@ export function startGuessRound(app, rand, onEnd, opts = {}) {
 
   el.form.onsubmit = (e) => {
     e.preventDefault();
-    const result = round.guess(el.input.value);
+    const guessText = el.input.value;
+    const it = round.state.item;
+    const result = round.guess(guessText);
     if (result === 'empty') return;
     if (result === 'duplicate') {
       shakeInput(el);
@@ -186,6 +189,9 @@ export function startGuessRound(app, rand, onEnd, opts = {}) {
       render();
       showAnswerCard('won');
       return;
+    }
+    if (result === 'wrong' || result === 'failed') {
+      reportWrongGuess(app.config, { thing: it.object.name, description: it.words.join(' '), guess: guessText });
     }
     if (result === 'wrong') {
       app.audio.play('wrong');

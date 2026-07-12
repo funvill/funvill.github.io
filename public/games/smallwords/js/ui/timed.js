@@ -5,6 +5,7 @@
 // controller exposes setPaused() and destroy() for main.js to drive.
 
 import { createTimedRound } from '../game-timed.js';
+import { reportWrongGuess } from '../formsubmit.js';
 import { showScreen, setTopbar, escapeHtml, debugOverlay, advanceOnKey, disarmAdvanceKey, setKidFace } from './screens.js';
 import { getGuessEls, shakeInput, setGuessFeedback } from './guess.js';
 
@@ -131,12 +132,17 @@ export function startTimedRound(app, rand, onEnd) {
 
   el.form.onsubmit = (e) => {
     e.preventDefault();
-    const result = round.guess(el.input.value);
+    const guessText = el.input.value;
+    const it = round.state.item;
+    const result = round.guess(guessText);
     if (result === 'empty') return;
     if (result === 'duplicate') {
       shakeInput(el);
       setGuessFeedback(el, 'You already said that.', 'bad');
       return;
+    }
+    if (result === 'wrong' || result === 'failed') {
+      reportWrongGuess(app.config, { thing: it.object.name, description: it.text, guess: guessText });
     }
     if (result === 'correct') {
       stopTimer();

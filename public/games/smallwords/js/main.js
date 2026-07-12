@@ -63,6 +63,18 @@ function toSplash() {
   showScreen('screen-splash');
 }
 
+function openAbout() {
+  // reachable from the global footer, so tear down any live round (stops timers)
+  if (app.round && app.round.destroy) app.round.destroy();
+  disarmAdvanceKey();
+  hideQuitConfirm(false);
+  pauseOverlay.hide();
+  app.mode = null;
+  app.round = null;
+  setTopbarVisible(false);
+  showScreen('screen-about');
+}
+
 function openHistory() {
   disarmAdvanceKey();
   setTopbarVisible(false);
@@ -351,6 +363,8 @@ async function boot() {
   document.getElementById('btn-quit-yes').onclick = () => { hideQuitConfirm(false); toSplash(); };
   document.getElementById('btn-quit-no').onclick = () => hideQuitConfirm(true);
   document.getElementById('btn-history-back').onclick = toSplash;
+  document.getElementById('about-open').onclick = openAbout;
+  document.getElementById('btn-about-back').onclick = toSplash;
   document.getElementById('theme-toggle').onclick = toggleTheme;
   updateMuteButtons();
 
