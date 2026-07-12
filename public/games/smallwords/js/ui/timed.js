@@ -5,7 +5,7 @@
 // controller exposes setPaused() and destroy() for main.js to drive.
 
 import { createTimedRound } from '../game-timed.js';
-import { showScreen, setTopbar, escapeHtml, debugOverlay, advanceOnKey, disarmAdvanceKey } from './screens.js';
+import { showScreen, setTopbar, escapeHtml, debugOverlay, advanceOnKey, disarmAdvanceKey, setKidFace } from './screens.js';
 import { getGuessEls, shakeInput, setGuessFeedback } from './guess.js';
 
 export function startTimedRound(app, rand, onEnd) {
@@ -63,6 +63,7 @@ export function startTimedRound(app, rand, onEnd) {
     if (r === 'timeout') {
       stopTimer();
       app.audio.play('wrong');
+      setKidFace('sad');
       showAnswerCard('lost');
     }
   }
@@ -109,6 +110,7 @@ export function startTimedRound(app, rand, onEnd) {
   function begin() {
     showScreen('screen-guess');
     render();
+    setKidFace('talk'); // kid is describing the new thing
     setGuessFeedback(el, '');
     el.input.value = '';
     el.input.focus();
@@ -121,6 +123,7 @@ export function startTimedRound(app, rand, onEnd) {
     if (round.giveUp()) {
       stopTimer();
       app.audio.play('giveup');
+      setKidFace('sad');
       render();
       showAnswerCard('gaveup');
     }
@@ -138,12 +141,14 @@ export function startTimedRound(app, rand, onEnd) {
     if (result === 'correct') {
       stopTimer();
       app.audio.play('correct');
+      setKidFace('happy');
       render();
       showAnswerCard('won');
       return;
     }
     if (result === 'wrong') {
       app.audio.play('wrong');
+      setKidFace('confused');
       shakeInput(el);
       setGuessFeedback(el, 'That is not it.', 'bad');
       el.input.value = '';
@@ -153,6 +158,7 @@ export function startTimedRound(app, rand, onEnd) {
     if (result === 'failed') {
       stopTimer();
       app.audio.play('wrong');
+      setKidFace('sad');
       render();
       showAnswerCard('lost');
     }

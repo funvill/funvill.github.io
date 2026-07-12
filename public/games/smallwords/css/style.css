@@ -9,16 +9,61 @@
   --red: #D64545;
   --green: #3E8E5A;
   --yellow: #F2C94C;
-  /* childlike handwriting: Comic Sans & friends, all system fonts, no network */
-  --hand: 'Comic Sans MS', 'Comic Neue', 'Chalkboard SE', 'Marker Felt', 'Segoe Print', 'Bradley Hand', cursive;
-  --serif: var(--hand);
-  --sans: var(--hand);
+  --card: #ffffff;   /* card / input / knob surface */
+  --track: #e9e3d1;  /* meter track / off-toggle */
+  --shadow: rgba(42, 38, 34, 0.18);
+  /* Two roles, both system fonts (no network):
+     --display = playful/childlike, used ONLY on short bits (title, buttons).
+     --read    = clean & highly legible, used for everything you actually read
+                 (descriptions, speech bubble, inputs, rules, history).
+     Note: no `cursive` generic — on phones without Comic Sans it falls back to a
+     joined script that is genuinely hard to read, which is what caused complaints. */
+  --display: 'Comic Sans MS', 'Comic Neue', 'Chalkboard SE', 'Segoe UI', system-ui, sans-serif;
+  --read: 'Trebuchet MS', 'Segoe UI', system-ui, -apple-system, Verdana, Arial, sans-serif;
+  --hand: var(--display);
+  --serif: var(--read);
+  --sans: var(--display);
   --mono: 'Courier New', monospace;
   --wobble: 255px 15px 225px 15px / 15px 225px 15px 255px;
   --wobble2: 15px 225px 15px 255px / 255px 15px 225px 15px;
 }
 
-* { box-sizing: border-box; }
+/* ---------- dark / night theme ---------- */
+/* forced dark (footer toggle) */
+[data-theme="dark"] {
+  --paper: #201D19;
+  --ink: #F1EBDD;
+  --blue: #6FA8E0;
+  --red: #E56E6E;
+  --green: #62BA86;
+  --yellow: #F2C94C;
+  --card: #2C2822;
+  --track: #3A352E;
+  --shadow: rgba(0, 0, 0, 0.4);
+}
+/* auto dark from the OS, unless the player forced light */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #201D19;
+    --ink: #F1EBDD;
+    --blue: #6FA8E0;
+    --red: #E56E6E;
+    --green: #62BA86;
+    --yellow: #F2C94C;
+    --card: #2C2822;
+    --track: #3A352E;
+    --shadow: rgba(0, 0, 0, 0.4);
+  }
+}
+html { transition: background-color 0.2s, color 0.2s; }
+
+/* The inline kid SVGs use literal ink/white; remap those to theme vars so the
+   kid recolors in dark mode. Accent fills (yellow dress, red mouth) stay. */
+.kid-svg [stroke="#232323"] { stroke: var(--ink); }
+.kid-svg [fill="#232323"] { fill: var(--ink); }
+.kid-svg [fill="#fff"] { fill: var(--card); }
+
+*, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 
 /* the hidden attribute must beat any display rule below */
@@ -26,13 +71,40 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 
 button, a, input, textarea, label { touch-action: manipulation; }
 
+/* ---------- accessibility ---------- */
+/* clear, consistent keyboard focus ring */
+a:focus-visible, button:focus-visible, input:focus-visible,
+textarea:focus-visible, select:focus-visible, [tabindex]:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 2px;
+}
+/* honor "reduce motion": kill the bobbing, hopping, shaking, count-ups, fades */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+/* visually-hidden but read by screen readers */
+.sr-only {
+  position: absolute; width: 1px; height: 1px;
+  padding: 0; margin: -1px; overflow: hidden;
+  clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+
 html, body {
   margin: 0;
   padding: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: var(--hand);
+  font-family: var(--read);
+  line-height: 1.5;
 }
+
+/* short, decorative headings stay playful; everything else reads clean */
+h1, h2, .title, .page-title { font-family: var(--display); }
 
 main {
   max-width: 640px;
@@ -48,15 +120,15 @@ section { animation: fade-in 180ms ease-out; }
 .card {
   border: 3px solid var(--ink);
   border-radius: var(--wobble);
-  background: #fff;
+  background: var(--card);
   padding: 1rem 1.25rem;
-  box-shadow: 3px 4px 0 rgba(42, 38, 34, 0.15);
+  box-shadow: 3px 4px 0 var(--shadow);
 }
 
 .game-text {
-  font-family: var(--hand);
+  font-family: var(--read);
   font-size: 1.3rem;
-  line-height: 1.7;
+  line-height: 1.65;
 }
 
 .btn {
@@ -69,7 +141,7 @@ section { animation: fade-in 180ms ease-out; }
   padding: 0.5rem 1rem;
   cursor: pointer;
 }
-.btn:hover:not(:disabled) { background: #efe9d8; }
+.btn:hover:not(:disabled) { background: var(--track); }
 .btn.primary {
   background: var(--blue);
   border-color: var(--blue);
@@ -98,11 +170,11 @@ section { animation: fade-in 180ms ease-out; }
   margin: 0.6rem 0;
   border: 3px solid var(--ink);
   border-radius: var(--wobble);
-  background: #fff;
+  background: var(--card);
   color: var(--ink);
   cursor: pointer;
   font-family: var(--hand);
-  box-shadow: 3px 4px 0 rgba(42, 38, 34, 0.18);
+  box-shadow: 3px 4px 0 var(--shadow);
   transition: transform 90ms ease-out;
 }
 .big-btn.primary { background: var(--yellow); border-color: var(--ink); color: var(--ink); }
@@ -113,6 +185,7 @@ section { animation: fade-in 180ms ease-out; }
 .big-btn:active:not(:disabled) { transform: translate(2px, 2px); box-shadow: 1px 1px 0 rgba(42,38,34,0.18); }
 .big-btn:disabled { opacity: 0.45; cursor: default; }
 .big-btn small { font-weight: normal; font-size: 0.8rem; }
+.btn-sub { display: block; font-weight: normal; font-size: 0.72rem; opacity: 0.75; margin-top: 0.15rem; }
 
 .chip {
   display: inline-block;
@@ -130,7 +203,7 @@ section { animation: fade-in 180ms ease-out; }
   padding: 1rem 1rem 1.5rem;
   font-family: var(--mono);
   font-size: 0.8rem;
-  border-top: 2px dashed rgba(42, 38, 34, 0.4);
+  border-top: 2px dashed var(--track);
   margin-top: 1rem;
   display: flex;
   gap: 0.75rem;
@@ -165,7 +238,7 @@ section { animation: fade-in 180ms ease-out; }
   gap: 0.6rem;
   padding: 0.2rem 0;
   font-size: 0.85rem;
-  border-bottom: 1px dotted rgba(35, 35, 35, 0.25);
+  border-bottom: 1px dotted var(--track);
 }
 .history-row:last-child { border-bottom: none; }
 .h-mode { font-weight: bold; min-width: 6.5rem; }
@@ -205,7 +278,7 @@ section { animation: fade-in 180ms ease-out; }
   transform: rotate(-2deg);
   text-shadow: 3px 3px 0 var(--yellow);
 }
-.one-liner { font-family: var(--hand); font-size: 1.15rem; margin-top: 0.5rem; }
+.one-liner { font-family: var(--read); font-size: 1.15rem; margin-top: 0.5rem; }
 .page-title { text-align: center; font-size: 2.2rem; transform: rotate(-1.5deg); text-shadow: 2px 2px 0 var(--yellow); }
 
 @keyframes kid-bob {
@@ -225,13 +298,38 @@ section { animation: fade-in 180ms ease-out; }
 .mode-buttons { max-width: 340px; margin: 1.5rem auto 0; }
 
 .five-toggle {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
   max-width: 340px;
   margin: 1rem auto 0;
   font-size: 0.9rem;
   cursor: pointer;
+  text-align: left;
 }
-.five-toggle input { accent-color: var(--blue); margin-right: 0.4rem; }
+.toggle-text { flex: 1; }
+.toggle-switch { position: relative; display: inline-block; width: 54px; height: 30px; flex: 0 0 auto; }
+.toggle-switch input { position: absolute; opacity: 0; width: 0; height: 0; }
+.toggle-slider {
+  position: absolute; inset: 0;
+  background: var(--track);
+  border: 2px solid var(--ink);
+  border-radius: 999px;
+  transition: background 0.2s;
+}
+.toggle-slider::before {
+  content: '';
+  position: absolute;
+  height: 20px; width: 20px;
+  left: 3px; top: 3px;
+  background: var(--card);
+  border: 2px solid var(--ink);
+  border-radius: 50%;
+  transition: transform 0.2s;
+}
+.toggle-switch input:checked + .toggle-slider { background: var(--green); }
+.toggle-switch input:checked + .toggle-slider::before { transform: translateX(24px); }
+.toggle-switch input:focus-visible + .toggle-slider { outline: 2px solid var(--blue); outline-offset: 2px; }
 
 .best-scores {
   margin-top: 0.9rem;
@@ -278,7 +376,7 @@ section { animation: fade-in 180ms ease-out; }
   border: 2px solid var(--ink);
   border-radius: var(--wobble2);
   overflow: hidden;
-  background: #eae4d3;
+  background: var(--track);
 }
 .meter-fill {
   height: 100%;
@@ -306,6 +404,28 @@ body.timed-mode .meter-fill { transition: width 200ms linear; }
 .timed-kid { display: none; }
 .timed-kid .kid-svg { width: 72px; height: auto; display: block; animation: kid-bob 1.6s ease-in-out infinite; }
 
+/* kid facial expressions: show one mouth (and optional brow) at a time */
+.kid-svg .m, .kid-svg .brow { display: none; }
+.kid-svg.face-talk .m-talk,
+.kid-svg.face-happy .m-happy,
+.kid-svg.face-confused .m-confused,
+.kid-svg.face-confused .brow-confused,
+.kid-svg.face-sad .m-sad { display: block; }
+/* a happy kid stops bobbing and gives a little hop; a sad one droops */
+.timed-kid .kid-svg.face-happy { animation: kid-hop 0.5s ease-in-out 2; }
+.timed-kid .kid-svg.face-sad { animation: none; transform: translateY(2px) rotate(-4deg); }
+.timed-kid .kid-svg.face-confused { animation: kid-tilt 0.6s ease-in-out; }
+
+@keyframes kid-hop {
+  0%, 100% { transform: translateY(0) rotate(0); }
+  40% { transform: translateY(-8px) rotate(4deg); }
+}
+@keyframes kid-tilt {
+  0%, 100% { transform: rotate(0); }
+  30% { transform: rotate(-8deg); }
+  70% { transform: rotate(6deg); }
+}
+
 body.timed-mode .speech-area {
   display: flex;
   align-items: flex-start;
@@ -317,7 +437,7 @@ body.timed-mode #guess-text {
   position: relative;
   min-width: 0;
   border-radius: 26px 26px 26px 10px;
-  background: #fff;
+  background: var(--card);
 }
 /* speech-bubble tail pointing left toward the kid */
 body.timed-mode #guess-text::before {
@@ -332,7 +452,7 @@ body.timed-mode #guess-text::after {
   position: absolute;
   left: -13px; top: 26px;
   border: 9px solid transparent;
-  border-right-color: #fff;
+  border-right-color: var(--card);
 }
 
 .guess-actions {
@@ -349,7 +469,7 @@ body.timed-mode #guess-text::after {
   padding: 0.5rem 0.75rem;
   border: 2px solid var(--ink);
   border-radius: var(--wobble2);
-  background: #fff;
+  background: var(--card);
   color: var(--ink);
   min-width: 0;
 }
@@ -390,6 +510,8 @@ body.timed-mode #guess-text::after {
 
 /* ---------- write screen ---------- */
 
+.write-intro { max-width: 520px; margin: 0.5rem auto; text-align: center; font-size: 0.95rem; opacity: 0.85; }
+#submitted-desc { text-align: left; margin: 0.75rem 0; }
 .write-target { margin: 0.5rem 0 0.75rem; text-align: center; padding: 0.75rem; }
 .write-label { font-size: 0.85rem; opacity: 0.7; display: block; }
 .write-target h2 { margin: 0.15rem 0 0.4rem; font-size: 1.7rem; }
@@ -424,7 +546,7 @@ body.timed-mode #guess-text::after {
   position: absolute;
   inset: 0;
   overflow: auto;
-  background: #fff;
+  background: var(--card);
   color: var(--ink);
   border-color: transparent;
   pointer-events: none;
@@ -468,6 +590,20 @@ mark.forbidden { text-decoration-color: #d98324; }
   color: var(--blue);
   margin-bottom: 1.25rem;
 }
+.end-actions { display: flex; gap: 0.6rem; justify-content: center; margin: 0.25rem 0 0.5rem; flex-wrap: wrap; }
+.share-toast { min-height: 1.2rem; color: var(--green); font-weight: bold; font-size: 0.9rem; }
+
+/* theme toggle in the footer */
+.theme-toggle {
+  background: none; border: none; cursor: pointer;
+  color: var(--blue); font-weight: bold; text-decoration: underline;
+  font-family: var(--mono); font-size: 0.8rem; padding: 0;
+}
+/* daily puzzle: emoji grid + streak */
+.daily-grid { font-size: 1.9rem; letter-spacing: 0.18rem; margin: 0.5rem 0 0.75rem; }
+.daily-note { opacity: 0.85; font-size: 0.95rem; margin: 0.25rem 0; }
+.streak-line { font-weight: bold; color: var(--red); margin: 0.5rem 0; }
+.splash-streak { margin: 0.35rem auto 0; font-weight: bold; color: var(--red); min-height: 1.1rem; font-size: 0.95rem; }
 .breakdown { max-width: 460px; margin: 0 auto 1rem; text-align: left; }
 .breakdown-row {
   border-bottom: 2px dotted var(--ink);
@@ -527,11 +663,11 @@ mark.forbidden { text-decoration-color: #d98324; }
 .stat-box {
   border: 3px solid var(--ink);
   border-radius: var(--wobble2);
-  background: #fff;
+  background: var(--card);
   padding: 0.5rem 0.9rem;
   text-align: center;
   min-width: 5.5rem;
-  box-shadow: 2px 3px 0 rgba(42, 38, 34, 0.15);
+  box-shadow: 2px 3px 0 var(--shadow);
 }
 .stat-num { font-size: 1.6rem; font-weight: bold; color: var(--blue); }
 .stat-label { font-size: 0.8rem; opacity: 0.75; }

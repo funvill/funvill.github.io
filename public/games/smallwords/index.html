@@ -24,7 +24,7 @@
     <!-- Splash -->
     <section id="screen-splash" hidden>
       <div class="splash-kid" aria-hidden="true">
-        <svg class="kid-svg" viewBox="0 0 80 100" xmlns="http://www.w3.org/2000/svg">
+        <svg class="kid-svg face-happy" viewBox="0 0 80 100" xmlns="http://www.w3.org/2000/svg">
           <path d="M18 98 Q40 56 62 98 Z" fill="#F2C94C" stroke="#232323" stroke-width="3" stroke-linejoin="round"/>
           <path d="M27 74 Q12 72 9 60" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
           <path d="M53 74 Q70 74 73 62" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
@@ -35,7 +35,10 @@
           <circle cx="47" cy="33" r="2.6" fill="#232323"/>
           <circle cx="28" cy="41" r="3.5" fill="#D64545" opacity="0.45"/>
           <circle cx="52" cy="41" r="3.5" fill="#D64545" opacity="0.45"/>
-          <ellipse cx="40" cy="43" rx="4.5" ry="3.5" fill="#D64545" stroke="#232323" stroke-width="1.5"/>
+          <ellipse class="m m-talk" cx="40" cy="43" rx="4.5" ry="3.5" fill="#D64545" stroke="#232323" stroke-width="1.5"/>
+          <path class="m m-happy" d="M31 40 Q40 51 49 40 Z" fill="#D64545" stroke="#232323" stroke-width="1.5" stroke-linejoin="round"/>
+          <path class="m m-confused" d="M32 45 Q36 41 40 45 Q44 49 48 45" fill="none" stroke="#232323" stroke-width="2.2" stroke-linecap="round"/>
+          <path class="m m-sad" d="M32 47 Q40 40 48 47" fill="none" stroke="#232323" stroke-width="2.2" stroke-linecap="round"/>
         </svg>
       </div>
       <h1 class="title">SMALL WORDS</h1>
@@ -43,20 +46,25 @@
       <ul class="rules">
         <li>A kid is trying to name a big thing, but only knows small words.</li>
         <li><b>⏱ Beat the Clock:</b> the words come out one at a time. Guess fast — you lose points while you wait!</li>
-        <li><b>🐢 Take Your Time:</b> read a little, then buy more words if you are stuck.</li>
-        <li><b>✏️ Write:</b> now <i>you</i> be the kid — tell about a big thing using only small words.</li>
-        <li>Say it in as few words as you can.</li>
+        <li><b>🐢 Take Your Time:</b> read a little, buy more words, or just guess. A wrong guess shows more! Keep going until three misses.</li>
+        <li><b>✍️ Submit a Description:</b> be the kid — write a new clue for others, using only small words.</li>
+        <li>Every wrong guess also uncovers more of the story.</li>
       </ul>
       <p class="controls-line">Type your guess and press Enter. Buttons do the rest. Works on a phone too.</p>
       <div class="mode-buttons">
-        <button id="btn-mode-timed" class="big-btn primary">⏱ Beat the Clock</button>
-        <button id="btn-mode-guess" class="big-btn">🐢 Take Your Time</button>
-        <button id="btn-mode-write" class="big-btn">✏️ Write</button>
-        <button id="btn-mode-pass" class="big-btn">👥 Pass &amp; Play</button>
+        <button id="btn-mode-daily" class="big-btn primary">📅 Daily Puzzle<small class="btn-sub">The same few for everyone, once a day</small></button>
+        <button id="btn-mode-timed" class="big-btn">⏱ Beat the Clock<small class="btn-sub">Words come out one at a time</small></button>
+        <button id="btn-mode-endless" class="big-btn">🐢 Take Your Time<small class="btn-sub">Keep going — 3 misses and you're out</small></button>
+        <button id="btn-mode-write" class="big-btn">✍️ Submit a Description<small class="btn-sub">Write a new clue for the game</small></button>
+        <button id="btn-mode-pass" class="big-btn">👥 Pass &amp; Play<small class="btn-sub">Two players, one device</small></button>
       </div>
+      <div id="splash-streak" class="splash-streak"></div>
       <label class="five-toggle">
-        <input type="checkbox" id="five-toggle">
-        Five Hundred mode — only the five hundred most used words. Harder!
+        <span class="toggle-switch">
+          <input type="checkbox" id="five-toggle">
+          <span class="toggle-slider"></span>
+        </span>
+        <span class="toggle-text">Five Hundred mode — only the five hundred most used words. Harder!</span>
       </label>
       <button id="btn-open-history" class="big-btn ghost">🏅 Your Games &amp; Scores</button>
     </section>
@@ -82,18 +90,22 @@
       </div>
       <div class="speech-area">
         <div id="timed-kid" class="timed-kid" aria-hidden="true">
-          <svg class="kid-svg" viewBox="0 0 80 100" xmlns="http://www.w3.org/2000/svg">
+          <svg class="kid-svg face-talk" viewBox="0 0 80 100" xmlns="http://www.w3.org/2000/svg">
             <path d="M18 98 Q40 56 62 98 Z" fill="#F2C94C" stroke="#232323" stroke-width="3" stroke-linejoin="round"/>
             <path d="M27 74 Q12 72 9 60" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
             <path d="M53 74 Q70 74 73 62" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
             <circle cx="40" cy="34" r="21" fill="#fff" stroke="#232323" stroke-width="3"/>
             <path d="M21 26 Q25 7 40 8 Q55 7 59 26" fill="none" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
             <path d="M40 8 L40 2" stroke="#232323" stroke-width="3" stroke-linecap="round"/>
+            <path class="brow brow-confused" d="M29 26 L37 24" stroke="#232323" stroke-width="2.2" stroke-linecap="round"/>
             <circle cx="33" cy="33" r="2.6" fill="#232323"/>
             <circle cx="47" cy="33" r="2.6" fill="#232323"/>
             <circle cx="28" cy="41" r="3.5" fill="#D64545" opacity="0.45"/>
             <circle cx="52" cy="41" r="3.5" fill="#D64545" opacity="0.45"/>
-            <ellipse cx="40" cy="43" rx="4.5" ry="3.5" fill="#D64545" stroke="#232323" stroke-width="1.5"/>
+            <ellipse class="m m-talk" cx="40" cy="43" rx="4.5" ry="3.5" fill="#D64545" stroke="#232323" stroke-width="1.5"/>
+            <path class="m m-happy" d="M31 40 Q40 51 49 40 Z" fill="#D64545" stroke="#232323" stroke-width="1.5" stroke-linejoin="round"/>
+            <path class="m m-confused" d="M32 45 Q36 41 40 45 Q44 49 48 45" fill="none" stroke="#232323" stroke-width="2.2" stroke-linecap="round"/>
+            <path class="m m-sad" d="M32 47 Q40 40 48 47" fill="none" stroke="#232323" stroke-width="2.2" stroke-linecap="round"/>
           </svg>
         </div>
         <div id="guess-text" class="game-text card"></div>
@@ -121,34 +133,45 @@
       </div>
     </section>
 
-    <!-- Write screen -->
+    <!-- Submit a Description screen -->
     <section id="screen-write" hidden>
+      <p class="write-intro">Be the kid! Describe this thing using only small words. Hard words get a red line. When it looks good, send it in and it may be added to the game.</p>
       <div class="write-target card">
-        <span class="write-label">Tell about:</span>
+        <span class="write-label">Describe:</span>
         <h2 id="write-object"></h2>
         <span id="write-category" class="chip category-chip"></span>
       </div>
       <div class="write-status">
-        <span id="letter-counter" class="counter">0 / par —</span>
+        <span id="letter-counter" class="counter">0 letters</span>
         <span id="illegal-chip" class="chip warn-chip" hidden></span>
       </div>
       <div class="editor-wrap">
         <div id="editor-backdrop" class="editor-backdrop" aria-hidden="true"></div>
-        <textarea id="write-input" class="editor" placeholder="Use only small words…" spellcheck="false"></textarea>
+        <textarea id="write-input" class="editor" placeholder="A big thing that…" spellcheck="false"></textarea>
       </div>
       <div class="write-actions">
-        <button id="btn-submit" class="btn primary" disabled>Submit</button>
+        <button id="btn-submit" class="btn primary" disabled>Send it in ✉️</button>
         <span id="submit-reason" class="submit-reason"></span>
-        <button id="btn-skip" class="btn link-btn">Skip</button>
+        <button id="btn-skip" class="btn link-btn">Different thing</button>
       </div>
     </section>
 
-    <!-- Write result interstitial -->
+    <!-- Submission thank-you -->
     <section id="screen-write-result" hidden>
       <div class="card answer-card">
-        <div id="write-result-stars" class="stars"></div>
-        <div id="write-result-detail"></div>
-        <p class="tap-hint">Click or tap to keep going</p>
+        <h2>Thank you! ✨</h2>
+        <p class="hint">Saved on this device. Send it to the game maker so it can be added:</p>
+        <p id="submitted-desc" class="game-text"></p>
+        <div class="end-actions">
+          <button id="btn-form-desc" class="btn primary" hidden>📤 Send it in</button>
+          <button id="btn-copy-desc" class="btn">📋 Copy it</button>
+          <button id="btn-email-desc" class="btn" hidden>✉️ Email it</button>
+        </div>
+        <div id="submit-toast" class="share-toast"></div>
+        <div class="mode-buttons">
+          <button id="btn-write-another" class="big-btn primary">Write another</button>
+          <button id="btn-write-menu" class="big-btn">Menu</button>
+        </div>
       </div>
     </section>
 
@@ -165,7 +188,17 @@
     <section id="screen-end" hidden>
       <h1 id="end-total" class="end-total"></h1>
       <div id="end-rank" class="end-rank"></div>
+      <div id="daily-extra" hidden>
+        <div id="daily-grid" class="daily-grid"></div>
+        <div id="daily-streak" class="streak-line"></div>
+        <div id="daily-note" class="daily-note"></div>
+      </div>
       <div id="end-breakdown" class="breakdown"></div>
+      <div class="end-actions">
+        <button id="btn-share" class="btn">📣 Share</button>
+        <button id="btn-save-card" class="btn">🖼️ Save card</button>
+      </div>
+      <div id="share-toast" class="share-toast" aria-live="polite"></div>
       <div class="mode-buttons">
         <button id="btn-again" class="big-btn primary">Play again</button>
         <button id="btn-menu" class="big-btn">Menu</button>
@@ -187,8 +220,8 @@
   <!-- Quit confirm overlay -->
   <div id="overlay-quit" class="overlay" hidden>
     <div class="overlay-panel card">
-      <h2>Quit this game?</h2>
-      <p class="overlay-msg">Your round will be lost.</p>
+      <h2 id="quit-title">Quit this game?</h2>
+      <p id="quit-msg" class="overlay-msg">Your round will be lost.</p>
       <button id="btn-quit-yes" class="btn primary">Yes, quit</button>
       <button id="btn-quit-no" class="btn">Keep playing</button>
     </div>
@@ -199,6 +232,7 @@
 
   <footer id="app-footer" class="footer">
     <span id="footer-version"></span>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle night mode">🌙 Night</button>
     <a class="footer-link" href="https://blog.abluestar.com/game-idea-10-thing-explain-guess-theme-the-fablebound-five/" target="_blank" rel="noopener noreferrer">About this game</a>
   </footer>
 

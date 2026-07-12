@@ -4,11 +4,13 @@ import { CONFIG, VERSION } from './config.js';
 import { hashString, mulberry32 } from './rng.js';
 import { buildWordSet } from './checker.js';
 import { audio } from './audio.js';
-import { showScreen, setTopbarVisible, setTopbar, renderSplash, renderHistoryPage, renderEnd, pauseOverlay, debugOverlay, disarmAdvanceKey } from './ui/screens.js';
+import { showScreen, setTopbarVisible, setTopbar, renderSplash, renderSplashStreak, renderHistoryPage, renderEnd, pauseOverlay, debugOverlay, disarmAdvanceKey } from './ui/screens.js';
+import { dateKey, updateStreak, shareGrid } from './daily.js';
 import { startGuessRound } from './ui/guess.js';
 import { startWriteRound } from './ui/write.js';
 import { startPassPlay } from './ui/passplay.js';
 import { startTimedRound } from './ui/timed.js';
+import { startEndlessRound } from './ui/endless.js';
 
 const params = new URLSearchParams(location.search);
 const flags = {
@@ -32,8 +34,11 @@ const app = {
   seenWrite: new Set(),
   seenPass: new Set(),
   seenTimed: new Set(),
+  seenEndless: new Set(),
   best: {},            // best scores per mode, persisted
   history: [],         // every completed game, persisted
+  streak: null,        // daily-puzzle streak { current, best, lastDate }
+  daily: null,         // last completed daily { date, score, rank, grid }
   mode: null,          // 'guess' | 'write'
   round: null,         // active round controller (has .cheat hooks)
   roundSeedCounter: 0,
@@ -54,6 +59,7 @@ function toSplash() {
   app.mode = null;
   app.round = null;
   setTopbarVisible(false);
+  renderSplashStreak(app);
   showScreen('screen-splash');
 }
 
@@ -75,6 +81,14 @@ function updateFooter() {
 function showQuitConfirm() {
   if (!app.mode) return;
   if (app.round && app.round.setPaused) app.round.setPaused(true); // freeze the clock while asking
+  // "Submit a Description" has no round to lose — just confirm.
+  const isSubmit = app.mode === 'write';
+  document.getElementById('quit-title').textContent = isSubmit ? 'Are you sure?' : 'Quit this game?';
+  const msg = document.getElementById('quit-msg');
+  msg.textContent = isSubmit ? '' : 'Your round will be lost.';
+  msg.hidden = isSubmit;
+  document.getElementById('btn-quit-yes').textContent = isSubmit ? 'Yes, leave' : 'Yes, quit';
+  document.getElementById('btn-quit-no').textContent = isSubmit ? 'Keep writing' : 'Keep playing';
   document.getElementById('overlay-quit').hidden = false;
 }
 
@@ -100,10 +114,13 @@ function startMode(mode, { restartSame = false } = {}) {
     app.round = startGuessRound(app, rand, onRoundEnd);
   } else if (mode === 'timed') {
     app.round = startTimedRound(app, rand, onRoundEnd);
+  } else if (mode === 'endless') {
+    app.round = startEndlessRound(app, rand, onRoundEnd);
   } else if (mode === 'pass') {
     app.round = startPassPlay(app, rand, onRoundEnd);
   } else {
-    app.round = startWriteRound(app, rand, onRoundEnd);
+    // "Submit a Description" is a content tool, not a scored round — it exits to menu.
+    app.round = startWriteRound(app, rand, toSplash);
   }
   debugOverlay.update(app);
 }
@@ -114,8 +131,11 @@ const HISTORY_CAP = 200; // keep a long tail, but bound localStorage growth
 
 /** Reduce a round summary to { mode, score, detail } for best-tracking + history. */
 function summarize(summary) {
-  if (summary.mode === 'guess' || summary.mode === 'timed') {
+  if (summary.mode === 'guess' || summary.mode === 'timed' || summary.mode === 'daily') {
     return { mode: summary.mode, score: summary.score, detail: summary.rank };
+  }
+  if (summary.mode === 'endless') {
+    return { mode: summary.mode, score: summary.solved, detail: `${summary.points} pts` };
   }
   if (summary.mode === 'write') {
     return { mode: summary.mode, score: summary.points, detail: '★'.repeat(summary.stars) };
@@ -146,6 +166,73 @@ function onRoundEnd(summary) {
     onAgain: () => startMode(summary.mode),
     onMenu: toSplash,
   });
+}
+
+// ---- Daily Puzzle ----
+
+const STREAK_KEY = 'smallwords.streak.v1';
+const DAILY_KEY = 'smallwords.daily.v1';
+
+function startDaily() {
+  if (app.round && app.round.destroy) app.round.destroy();
+  disarmAdvanceKey();
+  const today = dateKey(new Date());
+  if (app.daily && app.daily.date === today) {
+    // already played today — show the stored result, no replay
+    app.mode = 'daily';
+    setTopbarVisible(false);
+    renderEnd(app, {
+      mode: 'daily', score: app.daily.score, rank: app.daily.rank, grid: app.daily.grid,
+      streak: app.streak ? app.streak.current : 0, results: [], alreadyPlayed: true,
+    }, { onAgain: () => {}, onMenu: toSplash });
+    return;
+  }
+  app.mode = 'daily';
+  setTopbarVisible(true);
+  document.getElementById('btn-pause').hidden = false;
+  const cfg = { ...CONFIG, descriptionsPerRound: CONFIG.dailyPuzzleCount, rankThresholds: [400, 300, 200] };
+  const rand = mulberry32(hashString('daily:' + today)); // same for everyone that day
+  app.round = startGuessRound(app, rand, onDailyEnd, { mode: 'daily', config: cfg, seenIds: new Set() });
+  debugOverlay.update(app);
+}
+
+function onDailyEnd(summary) {
+  app.round = null;
+  setTopbarVisible(false);
+  const today = dateKey(new Date());
+  const grid = shareGrid(summary.results);
+  app.streak = updateStreak(app.streak, today);
+  try { localStorage.setItem(STREAK_KEY, JSON.stringify(app.streak)); } catch { /* fine */ }
+  app.daily = { date: today, score: summary.score, rank: summary.rank, grid };
+  try { localStorage.setItem(DAILY_KEY, JSON.stringify(app.daily)); } catch { /* fine */ }
+  recordGame({ mode: 'daily', score: summary.score, rank: summary.rank });
+  renderEnd(app, {
+    mode: 'daily', score: summary.score, rank: summary.rank, warmth: summary.warmth,
+    grid, streak: app.streak.current, results: summary.results, alreadyPlayed: false,
+  }, { onAgain: () => {}, onMenu: toSplash });
+}
+
+// ---- theme (day / night) ----
+
+const THEME_KEY = 'smallwords.theme.v1';
+
+function currentlyDark() {
+  const forced = document.documentElement.getAttribute('data-theme');
+  if (forced) return forced === 'dark';
+  return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+}
+
+function applyTheme(theme) {
+  if (theme === 'light' || theme === 'dark') document.documentElement.setAttribute('data-theme', theme);
+  else document.documentElement.removeAttribute('data-theme');
+  const btn = document.getElementById('theme-toggle');
+  if (btn) btn.textContent = currentlyDark() ? '☀️ Day' : '🌙 Night';
+}
+
+function toggleTheme() {
+  const next = currentlyDark() ? 'light' : 'dark';
+  applyTheme(next);
+  try { localStorage.setItem(THEME_KEY, next); } catch { /* fine */ }
 }
 
 // ---- pause / global keys ----
@@ -226,11 +313,15 @@ async function boot() {
   try { app.best = JSON.parse(localStorage.getItem(BEST_KEY) || '{}'); } catch { app.best = {}; }
   try { app.history = JSON.parse(localStorage.getItem(HISTORY_KEY) || '[]'); } catch { app.history = []; }
   if (!Array.isArray(app.history)) app.history = [];
+  try { app.streak = JSON.parse(localStorage.getItem(STREAK_KEY) || 'null'); } catch { app.streak = null; }
+  try { app.daily = JSON.parse(localStorage.getItem(DAILY_KEY) || 'null'); } catch { app.daily = null; }
+  try { applyTheme(localStorage.getItem(THEME_KEY)); } catch { applyTheme(null); }
   updateFooter();
 
   renderSplash(app, {
-    onGuess: () => startMode('guess'),
+    onDaily: startDaily,
     onTimed: () => startMode('timed'),
+    onEndless: () => startMode('endless'),
     onWrite: () => startMode('write'),
     onPass: () => startMode('pass'),
     onHistory: openHistory,
@@ -260,11 +351,14 @@ async function boot() {
   document.getElementById('btn-quit-yes').onclick = () => { hideQuitConfirm(false); toSplash(); };
   document.getElementById('btn-quit-no').onclick = () => hideQuitConfirm(true);
   document.getElementById('btn-history-back').onclick = toSplash;
+  document.getElementById('theme-toggle').onclick = toggleTheme;
   updateMuteButtons();
 
   if (flags.debug) debugOverlay.show(app);
 
-  if (['guess', 'timed', 'write', 'pass'].includes(flags.mode)) {
+  if (flags.mode === 'daily') {
+    startDaily();
+  } else if (['guess', 'timed', 'endless', 'write', 'pass'].includes(flags.mode)) {
     startMode(flags.mode);
   } else {
     toSplash();

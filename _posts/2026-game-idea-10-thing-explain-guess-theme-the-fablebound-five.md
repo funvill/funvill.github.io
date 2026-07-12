@@ -17,6 +17,7 @@ excerpt: "Can you describe complexity with simple words?"
 
 ## Thing explain guess
 
+<img src='/uploads/2026/smallwords.png' alt='screenshot of smallwords' title='screenshot of smallwords' style="float: right; margin-left: 10px; border: 1px solid black; padding: 5px">
 One Liner: Can you describe complexity with simple words?
 
 A variation of the ['up goer five'](https://xkcd.com/1133/)

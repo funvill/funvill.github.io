@@ -39,8 +39,9 @@ export function renderGuessItem(el, item, config) {
   el.text.innerHTML = item.words.map((w, i) =>
     i < item.revealedWords
       ? `<span class="w">${escapeHtml(w)}</span>`
-      : `<span class="w blank">${'▁'.repeat(Math.min(w.length, 12))}</span>`
+      : `<span class="w blank" aria-hidden="true">${'▁'.repeat(Math.min(w.length, 12))}</span>`
   ).join(' ');
+  el.meterValue.setAttribute('aria-label', `${item.value} points left`);
 
   el.reveal.textContent = `Show more (−${config.revealCost})`;
   el.reveal.disabled = item.fullyRevealed;
@@ -62,12 +63,14 @@ export function setGuessFeedback(el, msg, cls) {
   el.feedback.className = 'feedback ' + (cls || '');
 }
 
-export function startGuessRound(app, rand, onEnd) {
+export function startGuessRound(app, rand, onEnd, opts = {}) {
+  const mode = opts.mode || 'guess';        // e.g. 'daily' reuses this UI
+  const cfg = opts.config || app.config;    // daily overrides round length + ranks
   const round = createGuessRound({
     pack: app.pack,
-    config: app.config,
+    config: cfg,
     rand,
-    seenIds: app.seenGuess,
+    seenIds: opts.seenIds || app.seenGuess,
   });
 
   const el = getGuessEls();
@@ -87,6 +90,11 @@ export function startGuessRound(app, rand, onEnd) {
     const from = shownScore;
     if (from === target) return;
     shownScore = target;
+    // respect reduced-motion: jump straight to the value, no count-up tween
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      document.getElementById('topbar-left').textContent = `Score ${target}`;
+      return;
+    }
     const start = performance.now();
     const dur = 200;
     function tick(now) {
@@ -135,9 +143,9 @@ export function startGuessRound(app, rand, onEnd) {
 
   function finish() {
     const s = round.state;
-    const [wizard, quick] = app.config.rankThresholds;
+    const [wizard, quick] = cfg.rankThresholds;
     onEnd({
-      mode: 'guess',
+      mode,
       score: s.roundScore,
       rank: s.rank,
       warmth: s.roundScore >= wizard ? 2 : s.roundScore >= quick ? 1 : 0,

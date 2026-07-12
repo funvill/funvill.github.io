@@ -1,6 +1,15 @@
 // Splash, end-of-round, pause and debug overlays, screen router.
 
+import { setupShare } from './share.js';
+
 const SCREENS = ['screen-splash', 'screen-history', 'screen-guess', 'screen-answer', 'screen-write', 'screen-write-result', 'screen-handoff', 'screen-end'];
+
+function endlessLabel(solved) {
+  if (solved >= 15) return 'Word Wizard';
+  if (solved >= 10) return 'Quick Head';
+  if (solved >= 5) return 'Good Guesser';
+  return 'Keep Trying';
+}
 
 export function showScreen(id) {
   for (const s of SCREENS) {
@@ -17,18 +26,29 @@ export function setTopbar(left, center) {
   document.getElementById('topbar-center').textContent = center;
 }
 
-export function renderSplash(app, { onGuess, onTimed, onWrite, onPass, onFiveToggle, onHistory }) {
-  document.getElementById('btn-mode-guess').onclick = onGuess;
+export function renderSplash(app, { onDaily, onTimed, onEndless, onWrite, onPass, onFiveToggle, onHistory }) {
+  document.getElementById('btn-mode-daily').onclick = onDaily;
   document.getElementById('btn-mode-timed').onclick = onTimed;
+  document.getElementById('btn-mode-endless').onclick = onEndless; // "Take Your Time"
   document.getElementById('btn-mode-write').onclick = onWrite;
   document.getElementById('btn-mode-pass').onclick = onPass;
   document.getElementById('btn-open-history').onclick = onHistory;
   const toggle = document.getElementById('five-toggle');
   toggle.checked = app.config.vocabSize === 500;
   toggle.onchange = () => onFiveToggle(toggle.checked);
+  renderSplashStreak(app);
 }
 
-const MODE_LABEL = { guess: 'Take Your Time', timed: 'Beat the Clock', write: 'Write', pass: 'Pass & Play' };
+/** The "🔥 N day streak" line under the Daily button. */
+export function renderSplashStreak(app) {
+  const el = document.getElementById('splash-streak');
+  const s = app.streak;
+  el.textContent = s && s.current > 0
+    ? `🔥 ${s.current} day streak` + (s.best > s.current ? ` · best ${s.best}` : '')
+    : '';
+}
+
+const MODE_LABEL = { guess: 'Take Your Time', timed: 'Beat the Clock', endless: 'Take Your Time', daily: 'Daily Puzzle', write: 'Submit', pass: 'Pass & Play' };
 
 /** The full "Your Games" page: stats + bests + every game ever played. */
 export function renderHistoryPage(app) {
@@ -70,8 +90,7 @@ export function renderBestScores(app) {
   const best = app.best || {};
   const parts = [];
   if (best.timed) parts.push(`Beat the Clock ${best.timed}`);
-  if (best.guess) parts.push(`Take Your Time ${best.guess}`);
-  if (best.write) parts.push(`Write ${best.write}`);
+  if (best.endless) parts.push(`Take Your Time ${best.endless}`);
   if (best.pass) parts.push(`Pass & Play ${best.pass}`);
   el.textContent = parts.length ? 'Best so far: ' + parts.join(' · ') : '';
 }
@@ -84,10 +103,39 @@ export function renderEnd(app, summary, { onAgain, onMenu }) {
   breakdown.innerHTML = '';
 
   total.classList.remove('star-total');
+  document.getElementById('daily-extra').hidden = summary.mode !== 'daily';
+  document.getElementById('btn-again').hidden = summary.mode === 'daily'; // one play per day
   if (summary.mode === 'guess' || summary.mode === 'timed') {
     total.textContent = `${summary.score} points`;
     rank.textContent = summary.rank;
     app.audio.play('fanfare', summary.warmth);
+    for (const r of summary.results) {
+      const row = document.createElement('div');
+      row.className = 'breakdown-row';
+      const status = r.status === 'won' ? `+${r.banked}` : r.status === 'gaveup' ? 'gave up' : 'missed';
+      row.innerHTML = `<span class="bd-name">${escapeHtml(r.object.name)}</span><span class="bd-score ${r.status === 'won' ? 'good' : 'bad'}">${status}</span>`;
+      breakdown.appendChild(row);
+    }
+  } else if (summary.mode === 'daily') {
+    total.textContent = `${summary.score} points`;
+    rank.textContent = summary.rank;
+    document.getElementById('daily-grid').textContent = summary.grid || '';
+    document.getElementById('daily-streak').textContent = summary.streak ? `🔥 ${summary.streak} day streak` : '';
+    document.getElementById('daily-note').textContent = summary.alreadyPlayed
+      ? 'You already played today — come back tomorrow!'
+      : 'Come back tomorrow for a new one!';
+    if (!summary.alreadyPlayed) app.audio.play('fanfare', summary.warmth || 0);
+    for (const r of summary.results || []) {
+      const row = document.createElement('div');
+      row.className = 'breakdown-row';
+      const status = r.status === 'won' ? `+${r.banked}` : r.status === 'gaveup' ? 'gave up' : 'missed';
+      row.innerHTML = `<span class="bd-name">${escapeHtml(r.object.name)}</span><span class="bd-score ${r.status === 'won' ? 'good' : 'bad'}">${status}</span>`;
+      breakdown.appendChild(row);
+    }
+  } else if (summary.mode === 'endless') {
+    total.textContent = `Solved ${summary.solved}`;
+    rank.textContent = `${endlessLabel(summary.solved)} · ${summary.points} points`;
+    app.audio.play('fanfare', summary.solved >= 10 ? 2 : summary.solved >= 5 ? 1 : 0);
     for (const r of summary.results) {
       const row = document.createElement('div');
       row.className = 'breakdown-row';
@@ -140,6 +188,7 @@ export function renderEnd(app, summary, { onAgain, onMenu }) {
 
   document.getElementById('btn-again').onclick = onAgain;
   document.getElementById('btn-menu').onclick = onMenu;
+  setupShare(app, summary);
   showScreen('screen-end');
 }
 
@@ -196,6 +245,14 @@ export function disarmAdvanceKey() {
     document.removeEventListener('keydown', armedAdvanceHandler);
     armedAdvanceHandler = null;
   }
+}
+
+/** Set the Beat-the-Clock kid's face: 'talk' | 'happy' | 'confused' | 'sad'. */
+export function setKidFace(name) {
+  const svg = document.querySelector('#timed-kid .kid-svg');
+  if (!svg) return;
+  svg.classList.remove('face-talk', 'face-happy', 'face-confused', 'face-sad');
+  svg.classList.add('face-' + name);
 }
 
 export function escapeHtml(s) {

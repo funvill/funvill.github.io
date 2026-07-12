@@ -1,21 +1,17 @@
 // Write screen renderer: live underliner backdrop + golf scoring (design §6.6, §11).
 // Editor helpers are shared with pass-and-play (ui/passplay.js).
 
-import { createWriteRound } from '../game-write.js';
-import { showScreen, setTopbar, escapeHtml, debugOverlay, advanceOnKey, disarmAdvanceKey } from './screens.js';
+import { evaluateText, forbiddenWordsFor } from '../game-write.js';
+import { shuffle } from '../rng.js';
+import { showScreen, setTopbar, escapeHtml, debugOverlay } from './screens.js';
 
-// Written texts are kept locally for pass-and-play later (design §7);
-// nothing is uploaded.
+// Submitted descriptions are kept locally so the player can copy/send them.
 const WRITTEN_KEY = 'smallwords.written.v1';
 
-function saveWritten(results) {
+function saveWritten(object, text) {
   try {
     const stored = JSON.parse(localStorage.getItem(WRITTEN_KEY) || '[]');
-    for (const r of results) {
-      if (r.status === 'submitted') {
-        stored.push({ objectId: r.object.id, text: r.text, letterCount: r.letterCount, stars: r.stars });
-      }
-    }
+    stored.push({ objectId: object.id, name: object.name, text });
     localStorage.setItem(WRITTEN_KEY, JSON.stringify(stored));
   } catch { /* private mode — fine, nothing persists */ }
 }
@@ -35,8 +31,9 @@ export function getWriteEls() {
   };
 }
 
-/** Paint one evaluation result into the write screen (backdrop, counter, chip, submit). */
-export function renderEditorState(el, ev, par, config) {
+/** Paint one evaluation result into the write screen (backdrop, counter, chip, submit).
+ *  opts.noPar → show a plain letter count (submission mode has no golf par). */
+export function renderEditorState(el, ev, par, config, opts = {}) {
   const text = el.input.value;
   const r = ev.checkResult;
 
@@ -54,10 +51,15 @@ export function renderEditorState(el, ev, par, config) {
   html += escapeHtml(text.slice(pos));
   el.backdrop.innerHTML = html + '\n'; // trailing newline keeps heights in sync
 
-  el.counter.textContent = `${r.letterCount} / par ${par}`;
-  el.counter.className = 'counter ' + (
-    r.letterCount <= par ? 'good' : r.letterCount <= par * config.parStar2Multiplier ? 'okay' : ''
-  );
+  if (opts.noPar) {
+    el.counter.textContent = `${r.letterCount} letters · ${r.wordCount} words`;
+    el.counter.className = 'counter';
+  } else {
+    el.counter.textContent = `${r.letterCount} / par ${par}`;
+    el.counter.className = 'counter ' + (
+      r.letterCount <= par ? 'good' : r.letterCount <= par * config.parStar2Multiplier ? 'okay' : ''
+    );
+  }
 
   const badCount = r.illegalCount + r.forbiddenCount;
   el.illegalChip.hidden = badCount === 0;
@@ -74,13 +76,13 @@ export function renderEditorState(el, ev, par, config) {
  * (not added) so starting a new round replaces the previous round's wiring.
  * Returns { runCheck } so callers can force an immediate re-check.
  */
-export function bindEditor(el, app, { evaluate, getPar, onSubmit, onSkip }) {
+export function bindEditor(el, app, { evaluate, getPar, onSubmit, onSkip, noPar = false }) {
   let debounceTimer = null;
   let lastIllegalCount = 0;
 
   function runCheck() {
     const ev = evaluate(el.input.value);
-    renderEditorState(el, ev, getPar(), app.config);
+    renderEditorState(el, ev, getPar(), app.config, { noPar });
     if (ev.checkResult.illegalCount > lastIllegalCount) {
       app.audio.play('illegal', app.config.illegalBlipThrottleMs);
     }
@@ -114,97 +116,116 @@ export function bindEditor(el, app, { evaluate, getPar, onSubmit, onSkip }) {
   return { runCheck };
 }
 
-export function startWriteRound(app, rand, onEnd) {
-  const round = createWriteRound({
-    pack: app.pack,
-    config: app.config,
-    rand,
-    wordSet: app.wordSet,
-    seenIds: app.seenWrite,
-  });
-
+// "Submit a Description": describe a thing using only small words, live-checked,
+// then send it to the game maker. No golf score — this is a content tool.
+export function startWriteRound(app, rand, onExit) {
   const el = getWriteEls();
-  el.resultScreen = document.getElementById('screen-write-result');
-  el.resultStars = document.getElementById('write-result-stars');
-  el.resultDetail = document.getElementById('write-result-detail');
+  const res = {
+    screen: document.getElementById('screen-write-result'),
+    desc: document.getElementById('submitted-desc'),
+    form: document.getElementById('btn-form-desc'),
+    copy: document.getElementById('btn-copy-desc'),
+    email: document.getElementById('btn-email-desc'),
+    toast: document.getElementById('submit-toast'),
+    another: document.getElementById('btn-write-another'),
+    menu: document.getElementById('btn-write-menu'),
+  };
+
+  // a shuffled queue of things to describe, honoring the session "seen" set
+  let queue = [];
+  function nextObject() {
+    if (!queue.length) {
+      queue = shuffle(app.pack.objects, rand).filter((o) => !app.seenWrite.has(o.id));
+      if (!queue.length) { app.seenWrite.clear(); queue = shuffle(app.pack.objects, rand); }
+    }
+    const o = queue.shift();
+    app.seenWrite.add(o.id);
+    return o;
+  }
+  let current = nextObject();
 
   const editor = bindEditor(el, app, {
-    evaluate: (text) => round.evaluate(text),
-    getPar: () => round.state.item.object.parLetters,
+    evaluate: (text) => evaluateText(text, app.wordSet, app.config, forbiddenWordsFor(current)),
+    getPar: () => current.parLetters,
     onSubmit: trySubmit,
-    onSkip: () => {
-      if (round.skip()) {
-        app.audio.play('giveup');
-        goNext();
-      }
-    },
+    onSkip: () => { current = nextObject(); renderTarget(); el.input.focus(); },
+    noPar: true,
   });
 
   function renderTarget() {
-    const s = round.state;
-    setTopbar(`Thing ${s.index + 1} / ${s.total}`, '');
-    el.object.textContent = s.item.object.name;
-    el.category.textContent = s.item.object.category;
+    setTopbar('Describe a thing', '');
+    el.object.textContent = current.name;
+    el.category.textContent = current.category;
     el.input.value = '';
     editor.runCheck();
     debugOverlay.update(app);
   }
 
-  function showResult(res) {
-    const it = round.state.item;
-    el.resultStars.textContent = '★'.repeat(res.stars) + '☆'.repeat(3 - res.stars);
-    el.resultDetail.textContent = `${res.letterCount} letters against a par of ${it.object.parLetters}. +${res.points} points.`;
-    showScreen('screen-write-result');
-    for (let i = 0; i < res.stars; i++) {
-      setTimeout(() => app.audio.play('star'), 300 + i * 250);
-    }
-    const advance = () => {
-      el.resultScreen.onclick = null;
-      disarmAdvanceKey();
-      goNext();
-    };
-    el.resultScreen.onclick = advance;
-    advanceOnKey(advance); // Enter / Space → next thing
-    if (app.flags.skip) advance();
+  function trySubmit() {
+    const ev = evaluateText(el.input.value, app.wordSet, app.config, forbiddenWordsFor(current));
+    const r = ev.checkResult;
+    if (r.illegalCount > 0 || r.forbiddenCount > 0 || r.wordCount < 1) return;
+    const text = el.input.value.replace(/\s+/g, ' ').trim();
+    app.audio.play('stamp');
+    saveWritten(current, text);
+    showThanks(current, text);
   }
 
-  function goNext() {
-    const more = round.next();
-    if (more) {
+  let toastTimer = null;
+  function toast(msg) {
+    res.toast.textContent = msg;
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => { res.toast.textContent = ''; }, 2500);
+  }
+
+  function showThanks(object, text) {
+    res.desc.textContent = `“${text}”  — (${object.name})`;
+    res.toast.textContent = '';
+
+    // Anonymous Google Form (if configured) is the primary way to submit.
+    const form = app.config.submitForm;
+    const formOn = form && form.viewformUrl && form.textEntry;
+    res.form.hidden = !formOn;
+    if (formOn) {
+      res.form.onclick = () => {
+        const p = new URLSearchParams({ usp: 'pp_url' });
+        if (form.thingEntry) p.set(form.thingEntry, object.name);
+        p.set(form.textEntry, text);
+        window.open(form.viewformUrl + '?' + p.toString(), '_blank', 'noopener');
+        toast('Opening the form — thank you!');
+      };
+    }
+
+    res.copy.onclick = async () => {
+      const payload = `SMALL WORDS description\nThing: ${object.name}\n${text}`;
+      try { await navigator.clipboard.writeText(payload); toast('Copied! Now paste it in a message.'); }
+      catch { toast('Could not copy — select the text above.'); }
+    };
+
+    const email = app.config.submitEmail;
+    res.email.hidden = !email;
+    if (email) {
+      const subject = encodeURIComponent('A new SMALL WORDS description');
+      const body = encodeURIComponent(`Thing: ${object.name}\n\n${text}`);
+      res.email.onclick = () => { window.location.href = `mailto:${email}?subject=${subject}&body=${body}`; };
+    }
+
+    res.another.onclick = () => {
+      current = nextObject();
       showScreen('screen-write');
       renderTarget();
       el.input.focus();
-    } else {
-      const s = round.state;
-      saveWritten(s.results);
-      onEnd({
-        mode: 'write',
-        stars: s.totalStars,
-        maxStars: s.total * 3,
-        points: s.totalPoints,
-        results: s.results,
-      });
-    }
-  }
+    };
+    res.menu.onclick = onExit;
 
-  function trySubmit() {
-    const res = round.submit(el.input.value);
-    if (!res) return;
-    app.audio.play('stamp');
-    showResult(res);
+    showScreen('screen-write-result');
   }
 
   const controller = {
-    debugInfo() {
-      const it = round.state.item;
-      return it ? { answer: it.object.name, aliases: it.object.aliases } : null;
-    },
-    cheatSolve() {
-      if (round.state.item.status !== 'writing') return;
-      round.skip();
-      goNext();
-    },
-    cheatPoints() { /* no-op in write mode */ },
+    debugInfo() { return { answer: current.name, aliases: current.aliases }; },
+    cheatSolve() { current = nextObject(); renderTarget(); el.input.focus(); },
+    cheatPoints() { /* no-op */ },
+    destroy() { clearTimeout(toastTimer); },
   };
 
   showScreen('screen-write');
