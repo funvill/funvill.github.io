@@ -8,7 +8,7 @@ excerpt     : 'Timeline of Steven Smethurst projects, workshops, exhibits, talks
 toc         : false
 ---
 
-This page was lasted on 📅 __Febuary 26th, 2022__.
+This page was last updated on 📅 __Febuary 26th, 2022__.
 
 > A CV—short for the Latin "[curriculum vitae](https://en.wikipedia.org/wiki/Curriculum_vitae),  meaning "course of life"—is a detailed document highlighting your professional and academic history.
 
