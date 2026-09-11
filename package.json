@@ -12,7 +12,7 @@
     "lint": "npm run lint:frontmatter && npm run lint:md"
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.18",
+    "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.3",
     "@fontsource-variable/hanken-grotesk": "^5.2.8",
     "@fontsource-variable/space-grotesk": "^5.2.10",
