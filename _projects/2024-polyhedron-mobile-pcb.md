@@ -1,7 +1,7 @@
 ---
-title: "(2026) Polyhedron Mobile PCB"
-date: 2026-09-22 00:00:00
-slug: 2026-polyhedron-mobile-pcb
+title: "(2024) Polyhedron Mobile PCB"
+date: 2024-12-03 00:00:00
+slug: 2024-polyhedron-mobile-pcb
 categories:
   - Projects
 tags:
@@ -14,7 +14,7 @@ tags:
   - ideas
 excerpt: "A family of LED polyhedron lamps, each face its own welded PCB panel"
 header:
-  teaser: /uploads/2026/rhombic-dodecahedron-front.png
+  teaser: /uploads/2024/rhombic-dodecahedron-front.png
 toc: false
 ---
 > A 3D shape built out of PCBs instead of paper.
@@ -27,8 +27,8 @@ So far there are three shapes in the family.
 
 ## Rhombic Dodecahedron
 
-<a href='/public/uploads/2026/rhombic-dodecahedron-front.png'><img style="float: left; margin: 10px; max-width: 340px; border: 1px solid black; padding: 5px" src="/public/uploads/2026/rhombic-dodecahedron-front.png" alt="Rhombic Dodecahedron PCB, front"></a>
-<a href='/public/uploads/2026/rhombic-dodecahedron-back.png'><img style="float: left; margin: 10px; max-width: 340px; border: 1px solid black; padding: 5px" src="/public/uploads/2026/rhombic-dodecahedron-back.png" alt="Rhombic Dodecahedron PCB, back"></a>
+<a href='/public/uploads/2024/rhombic-dodecahedron-front.png'><img style="float: left; margin: 10px; max-width: 340px; border: 1px solid black; padding: 5px" src="/public/uploads/2024/rhombic-dodecahedron-front.png" alt="Rhombic Dodecahedron PCB, front"></a>
+<a href='/public/uploads/2024/rhombic-dodecahedron-back.png'><img style="float: left; margin: 10px; max-width: 340px; border: 1px solid black; padding: 5px" src="/public/uploads/2024/rhombic-dodecahedron-back.png" alt="Rhombic Dodecahedron PCB, back"></a>
 
 <div style="clear: both;"></div>
 
@@ -36,8 +36,8 @@ A [rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) is 
 
 ## Tetragonal Trapezohedron
 
-<a href='/public/uploads/2026/tetragonal-trapezohedron-pcb-front.png'><img style="float: left; margin: 10px; max-width: 340px; border: 1px solid black; padding: 5px" src="/public/uploads/2026/tetragonal-trapezohedron-pcb-front.png" alt="Tetragonal Trapezohedron PCB, front"></a>
-<a href='/public/uploads/2026/tetragonal-trapezohedron-pcb-back.png'><img style="float: left; margin: 10px; max-width: 340px; border: 1px solid black; padding: 5px" src="/public/uploads/2026/tetragonal-trapezohedron-pcb-back.png" alt="Tetragonal Trapezohedron PCB, back"></a>
+<a href='/public/uploads/2024/tetragonal-trapezohedron-pcb-front.png'><img style="float: left; margin: 10px; max-width: 340px; border: 1px solid black; padding: 5px" src="/public/uploads/2024/tetragonal-trapezohedron-pcb-front.png" alt="Tetragonal Trapezohedron PCB, front"></a>
+<a href='/public/uploads/2024/tetragonal-trapezohedron-pcb-back.png'><img style="float: left; margin: 10px; max-width: 340px; border: 1px solid black; padding: 5px" src="/public/uploads/2024/tetragonal-trapezohedron-pcb-back.png" alt="Tetragonal Trapezohedron PCB, back"></a>
 
 <div style="clear: both;"></div>
 
