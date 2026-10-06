@@ -37,6 +37,7 @@ h1{font-family:var(--f-display);font-weight:600;font-size:34px;line-height:1;mar
 @media (max-width:900px){.main{grid-template-columns:minmax(0,1fr)}}
 aside{display:grid;gap:14px}
 fieldset{border:1px solid var(--rule);background:var(--sheet);border-radius:6px;margin:0;padding:12px 14px 14px;display:grid;gap:8px;min-width:0}
+fieldset[hidden]{display:none}
 legend{font-family:var(--f-display);font-weight:600;text-transform:uppercase;letter-spacing:.1em;font-size:13px;color:var(--muted);padding:0 6px}
 .row{display:grid;grid-template-columns:minmax(0,1fr) 104px;align-items:center;gap:10px}
 .row label{font-size:14px}
@@ -65,7 +66,7 @@ section.panel{background:var(--sheet);border:1px solid var(--rule);border-radius
 .checks li{display:grid;grid-template-columns:62px minmax(0,1fr);gap:10px;align-items:start;padding:8px 0;border-top:1px solid var(--rule)}
 .checks li:first-child{border-top:0}
 .pill{font-family:var(--f-display);font-weight:600;letter-spacing:.08em;text-transform:uppercase;font-size:12px;text-align:center;padding:2px 0;border-radius:3px}
-.pill.ok{background:var(--ok-bg);color:var(--ok)} .pill.warn{background:var(--warn-bg);color:var(--warn)} .pill.bad{background:var(--bad-bg);color:var(--bad)}
+.pill.ok{background:var(--ok-bg);color:var(--ok)} .pill.warn{background:var(--warn-bg);color:var(--warn)} .pill.bad{background:var(--bad-bg);color:var(--bad)} .pill.note{background:var(--paper);color:var(--muted);border:1px solid var(--rule)}
 .checks strong{display:block;font-size:14px}
 .checks span.d{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
 table{width:100%;border-collapse:collapse;font-size:14px}
@@ -146,29 +147,37 @@ footer{font-size:13px;color:var(--muted)}
 
 <script>
 const DEF = {
-  ct:1.5, cab:30, kick:4, ovh:0.875, islandW:36,
-  leafD:29.5, leafW:36, leafT:1.5, mat:'maple',
+  style:'bracket',
+  ct:1.5, cab:30, kick:4, kickSet:0.25, ovh:0.875, islandW:36,
+  leafD:30, leafW:36, leafT:1.5, mat:'maple',
   rail:2.5, cleatD:2, cleatH:3,
-  brL:18, brFold:1.25, brN:2, brInset:4, rating:300, load:100,
-  leg:false, legIn:2, legSide:2
+  brL:15.75, brFold:1.42, brN:2, brInset:4, rating:375, load:100,
+  legN:1, legT:1, legW:1.75, legIn:1.5, legSide:1.5, hwT:0.1875, glideH:0.5
 };
 const MATS = {maple:['Hard maple butcher block',0.0255], oak:['Red oak',0.0255], birch:['Birch butcher block',0.0237], ply:['Baltic birch plywood',0.0246], pine:['Pine / spruce',0.0145]};
+const STYLES = {
+  bracket:['Leaf on brackets, no hinge','Leaf screws to the bracket arms and folds down with them. Its back edge butts the granite when raised.'],
+  dropleaf:['Hinge rail + drop-leaf hinges','Fixed hardwood rail tight to the granite. Table-leaf hinges between the brackets join leaf to rail.'],
+  piano:['Hinge rail + piano hinge','Same rail, with one continuous hinge along the joint. Mortise it flush so the bracket arms pass under.']
+};
 const GROUPS = [
+  ['Mounting style',[
+    ['style','Style','style']]],
   ['Existing island',[
-    ['ct','Countertop thickness'],['cab','Cabinet height above kick'],['kick','Kick height'],['ovh','Granite overhang past end panel'],['islandW','Countertop width at end']]],
+    ['ct','Countertop thickness'],['cab','Cabinet height above kick'],['kick','Kick height'],['kickSet','Kick setback from end panel'],['ovh','Granite overhang past end panel'],['islandW','Countertop width at end']]],
   ['Leaf',[
     ['leafD','Leaf depth'],['leafW','Leaf width'],['leafT','Leaf thickness'],['mat','Material','select']]],
   ['Hinge rail and cleat',[
     ['rail','Rail width'],['cleatD','Cleat depth off panel'],['cleatH','Cleat height']]],
   ['Brackets',[
     ['brL','Arm length'],['brFold','Folded thickness'],['brN','How many','count'],['brInset','Inset from leaf ends'],['rating','Rated load, all brackets (lb)','num'],['load','Load you plan for (lb)','num']]],
-  ['Fold-out leg',[
-    ['leg','Add a fold-out leg','check'],['legIn','Inset from outer edge'],['legSide','Inset from side']]]
+  ['Fold-out legs',[
+    ['legN','Legs','legs'],['legT','Leg thickness (folds against leaf)'],['legW','Leg width'],['legIn','Inset from outer edge'],['legSide','Pivot inset from side'],['hwT','Hinge plate thickness'],['glideH','Leveling glide height']]]
 ];
 
 let P = {...DEF};
-try{ const s = JSON.parse(localStorage.getItem('dropleaf-v1')||'null'); if(s) P = {...DEF, ...s}; }catch(e){}
-function save(){ try{ localStorage.setItem('dropleaf-v1', JSON.stringify(P)); }catch(e){} }
+try{ const s = JSON.parse(localStorage.getItem('dropleaf-v4')||'null'); if(s) P = {...DEF, ...s}; }catch(e){}
+function save(){ try{ localStorage.setItem('dropleaf-v4', JSON.stringify(P)); }catch(e){} }
 
 function gcd(a,b){return b?gcd(b,a%b):a}
 function F(x, unit=true){
@@ -194,10 +203,15 @@ GROUPS.forEach(([name, fields])=>{
   fields.forEach(([k,label,type])=>{
     const row = document.createElement('div'); row.className='row';
     const id = 'f_'+k;
-    if(type==='select'){
+    if(type==='style'){
+      row.innerHTML = `<select id="${id}" aria-label="${label}">${Object.entries(STYLES).map(([v,[t]])=>`<option value="${v}">${t}</option>`).join('')}</select>`;
+      row.style.gridTemplateColumns='minmax(0,1fr)';
+    } else if(type==='select'){
       row.innerHTML = `<label for="${id}">${label}</label><select id="${id}">${Object.entries(MATS).map(([v,[t]])=>`<option value="${v}">${t}</option>`).join('')}</select>`;
       row.style.gridTemplateColumns='minmax(0,1fr) 150px';
-    } else if(type==='count'){
+    } else if(type==='legs'){
+      row.innerHTML = `<label for="${id}">${label}</label><select id="${id}"><option value="0">None</option><option value="1">One</option><option value="2">Two</option></select>`;
+    } else if((type==='count'||type==='legs')){
       row.innerHTML = `<label for="${id}">${label}</label><select id="${id}"><option>2</option><option>3</option><option>4</option></select>`;
     } else if(type==='check'){
       row.className='row check';
@@ -207,7 +221,10 @@ GROUPS.forEach(([name, fields])=>{
     }
     fs.appendChild(row);
   });
-  if(name==='Brackets') fs.insertAdjacentHTML('beforeend','<p class="hint">Rakks EH-1818FS: 18" arm, folds to about 1 1/4". Use your bracket\'s spec sheet.</p>');
+  if(name==='Fold-out legs') fs.insertAdjacentHTML('beforeend','<p class="hint">Legs pivot at an outer corner and fold flat along the outer edge. A second leg mirrors from the other corner, set further in so they pass.</p>');
+  if(name==='Brackets') fs.insertAdjacentHTML('beforeend','<p class="hint">Defaults are your Everbilt 16" extra-duty folding brackets: 15 3/4" arm, 375 lb listed capacity. Folded thickness is a guess, so measure yours.</p>');
+  if(name==='Mounting style') fs.insertAdjacentHTML('beforeend','<p class="hint" id="styleHint"></p>');
+  if(name==='Hinge rail and cleat') fs.id='fsRail';
   if(name==='Hinge rail and cleat') fs.insertAdjacentHTML('beforeend','<p class="hint">Cleat blocks sit between the brackets, tight under the granite and rail.</p>');
   ctl.insertBefore(fs, ctl.lastElementChild);
 });
@@ -215,7 +232,7 @@ function fillInputs(){
   GROUPS.forEach(([,f])=>f.forEach(([k,,type])=>{
     const el = document.getElementById('f_'+k);
     if(type==='check') el.checked = !!P[k];
-    else if(type==='select'||type==='count') el.value = String(P[k]);
+    else if(type==='select'||(type==='count'||type==='legs')||type==='style') el.value = String(P[k]);
     else if(type==='num') el.value = String(P[k]);
     else el.value = F(P[k],false);
     el.classList && el.classList.remove('err');
@@ -223,11 +240,11 @@ function fillInputs(){
 }
 GROUPS.forEach(([,f])=>f.forEach(([k,,type])=>{
   const el = document.getElementById('f_'+k);
-  const ev = (type==='check'||type==='select'||type==='count') ? 'change' : 'input';
+  const ev = (type==='check'||type==='select'||(type==='count'||type==='legs')||type==='style') ? 'change' : 'input';
   el.addEventListener(ev, ()=>{
     if(type==='check') P[k]=el.checked;
-    else if(type==='select') P[k]=el.value;
-    else if(type==='count') P[k]=+el.value;
+    else if(type==='select'||type==='style') P[k]=el.value;
+    else if((type==='count'||type==='legs')) P[k]=+el.value;
     else {
       const v = type==='num' ? parseFloat(el.value) : parseIn(el.value);
       if(!isFinite(v) || v<0){ el.classList.add('err'); return; }
@@ -235,7 +252,7 @@ GROUPS.forEach(([,f])=>f.forEach(([k,,type])=>{
     }
     save(); render();
   });
-  if(!(type==='check'||type==='select'||type==='count')) el.addEventListener('blur',()=>{ if(!el.classList.contains('err')) el.value = type==='num'? String(P[k]) : F(P[k],false); });
+  if(!(type==='check'||type==='select'||(type==='count'||type==='legs')||type==='style')) el.addEventListener('blur',()=>{ if(!el.classList.contains('err')) el.value = type==='num'? String(P[k]) : F(P[k],false); });
 }));
 document.getElementById('reset').addEventListener('click',()=>{ P={...DEF}; save(); fillInputs(); render(); });
 
@@ -255,21 +272,35 @@ document.getElementById('btnDown').onclick=()=>animateTo(0);
 document.getElementById('btnUp').onclick=()=>animateTo(90);
 
 /* geometry */
+function rot(px,py,cx,cy,ph){ const dx=px-cx, dy=py-cy, c=Math.cos(ph), s=Math.sin(ph);
+  return [cx+dx*c+dy*s, cy-dx*s+dy*c]; }
 function derive(){
+  const B = P.style==='bracket';
   const u = P.kick + P.cab;               // underside of counter above floor
-  const ax = P.ovh + P.rail;              // hinge axis x from end panel
-  const armT = Math.min(P.brFold, 0.75);
-  const weight = P.leafW*P.leafD*P.leafT*MATS[P.mat][1];
+  const rail = B? 0 : P.rail;
+  const ax = P.ovh + rail;                // back edge of the leaf, from end panel
+  const armT = B? Math.min(P.brFold,1.5) : Math.min(P.brFold,0.75);
+  const lp = B? [0,u-armT] : [ax,u];      // what the leaf pivots about
+  const D=P.leafD, t=P.leafT;
+  const box=[[ax,u],[ax+D,u],[ax+D,u+t],[ax,u+t]];
+  const fold=box.map(([x,y])=>rot(x,y,lp[0],lp[1],Math.PI/2));
+  const foldX0=Math.min(...fold.map(q=>q[0])), foldX1=Math.max(...fold.map(q=>q[0]));
+  const gap=Math.min(...fold.map(q=>q[1])), foldTop=Math.max(...fold.map(q=>q[1]));
+  const weight = P.leafW*D*t*MATS[P.mat][1];
   const n=P.brN, e=P.brInset;
   const pos = n===1? [P.leafW/2] : Array.from({length:n},(_,i)=> e + i*(P.leafW-2*e)/(n-1));
   const edges=[0,...pos,P.leafW]; const hinges=[];
   for(let i=0;i<edges.length-1;i++) hinges.push((edges[i]+edges[i+1])/2);
   const blocks=[]; const pw=1.5; const bnd=[0,...pos.flatMap(p=>[p-pw/2,p+pw/2]),P.leafW];
   for(let i=0;i<bnd.length;i+=2){ const L=bnd[i+1]-bnd[i]-0.25; if(L>=2) blocks.push(L); }
-  return {u, ax, armT, weight, pos, hinges, blocks, H:u+P.ct, ext:P.rail+P.leafD, legL:u};
+  const legL=u-P.glideH-P.hwT, legs=[];
+  for(let i=0;i<P.legN;i++){ const dOut=D-P.legIn-i*(P.legW+0.5); legs.push({dIn:dOut-P.legW, dOut, pivotX: i===0? P.legSide : P.leafW-P.legSide, dir: i===0?1:-1}); }
+  const yAt=d=>rot(ax+d,u,lp[0],lp[1],Math.PI/2)[1];
+  const legTopY = legs.length? Math.max(...legs.map(L=>yAt(L.dIn))) : 0;
+  const avail = foldX0 + (legs.length && legTopY<=P.kick ? P.kickSet : 0);
+  const need = P.legT+P.hwT, armReach=P.brL-ax, legInner = legs.length? Math.min(...legs.map(L=>L.dIn)) : D;
+  return {B, u, ax, rail, armT, lp, box, foldX0, foldX1, gap, foldTop, weight, pos, hinges, blocks, H:u+P.ct, ext:rail+D, legL, legs, legTopY, avail, need, armReach, legInner};
 }
-function rot(px,py,cx,cy,ph){ const dx=px-cx, dy=py-cy, c=Math.cos(ph), s=Math.sin(ph);
-  return [cx+dx*c+dy*s, cy-dx*s+dy*c]; }
 
 function sideSVG(G){
   const ph = (90-theta)*Math.PI/180;
@@ -284,24 +315,20 @@ function sideSVG(G){
   const dimH=(x1,x2,y,label,above=true)=>{ const a=X(x1),b=X(x2),yy=Y(y);
     const tx=(a+b)/2, ty= above? yy-6 : yy+15;
     return `<line class="s-dim" x1="${a}" y1="${yy}" x2="${b}" y2="${yy}"/>${tick(a,yy)}${tick(b,yy)}<text class="s-dimt" x="${tx}" y="${ty}" text-anchor="middle">${label}</text>`; };
-  const dimV=(y1,y2,x,label,side='right')=>{ const a=Y(y1),b=Y(y2),xx=X(x);
-    const tx= side==='right'? xx+7 : xx-7;
-    return `<line class="s-dim" x1="${xx}" y1="${a}" x2="${xx}" y2="${b}"/>${tick(xx,a)}${tick(xx,b)}<text class="s-dimt" x="${tx}" y="${(a+b)/2+4}" text-anchor="${side==='right'?'start':'end'}">${label}</text>`; };
+  const dimV=(y1,y2,x,label)=>{ const a=Y(y1),b=Y(y2),xx=X(x);
+    return `<line class="s-dim" x1="${xx}" y1="${a}" x2="${xx}" y2="${b}"/>${tick(xx,a)}${tick(xx,b)}<text class="s-dimt" x="${xx+7}" y="${(a+b)/2+4}">${label}</text>`; };
   const lab=(x,y,tx,ty,t,anchor='start')=>`<line class="s-lead" x1="${X(x)}" y1="${Y(y)}" x2="${X(tx)}" y2="${Y(ty)}"/><text class="s-lab" x="${X(tx)+(anchor==='start'?3:-3)}" y="${Y(ty)+4}" text-anchor="${anchor}">${t}</text>`;
 
-  const u=G.u, ax=G.ax, D=P.leafD, t=P.leafT;
-  let o=`<svg viewBox="0 0 ${VW} ${VH}" role="img" aria-label="Side section of the island end with the leaf at ${Math.round(theta)} degrees">`;
+  const u=G.u, ax=G.ax, D=P.leafD, t=P.leafT, B=G.B;
+  const up = theta>=89.5, down = theta<1;
+  let o=`<svg viewBox="0 0 ${VW} ${VH}" role="img" aria-label="Side section of the island end with the leaf at ${Math.round(theta)} degrees, ${STYLES[P.style][0]}">`;
   o+=`<defs><pattern id="speck" width="9" height="7" patternUnits="userSpaceOnUse"><rect width="9" height="7" fill="var(--granite)"/><circle cx="2" cy="2" r="1" fill="var(--granite-dot)"/><circle cx="6.5" cy="5" r=".8" fill="var(--granite-dot)"/></pattern></defs>`;
-  // floor + hatch
   o+=line(xmin,0,xmax,0,'s-floor');
   for(let x=xmin+0.5;x<xmax;x+=2) o+=line(x,0,x-0.8,-0.8,'s-hatch');
-  // cabinet + kick
   o+=rect(-11,P.kick,0,u,'s-cab');
-  o+=rect(-11,0,-0.25,P.kick,'s-kick');
-  // granite
+  o+=rect(-11,0,-P.kickSet,P.kick,'s-kick');
   o+=rect(-11,u,P.ovh,u+P.ct,'s-granite');
-  // cleat (dashed, between brackets)
-  o+=rect(0,u-P.cleatH,P.cleatD,u,'s-cleat');
+  if(!B) o+=rect(0,u-P.cleatH,P.cleatD,u,'s-cleat');
   // bracket: wall plate, arm, brace
   const piv=[0,u-G.armT];
   o+=rect(-0.25,u-P.brL*0.85,0,u,'s-steel');
@@ -309,51 +336,68 @@ function sideSVG(G){
   o+=poly(armPts,'s-steel');
   const bA=[0,u-P.brL*0.62], bB=rot(P.brL*0.62,u-G.armT,piv[0],piv[1],ph);
   if(theta>3) o+=line(bA[0],bA[1],bB[0],bB[1],'s-steel-l');
-  // rail
-  o+=rect(P.ovh,u,ax,u+t,'s-wood');
-  // leaf rotated about (ax,u)
-  const leafPts=[[ax,u],[ax+D,u],[ax+D,u+t],[ax,u+t]].map(([x,y])=>rot(x,y,ax,u,ph));
-  o+=poly(leafPts,'s-wood');
-  // ghost of the other position
-  if(theta>45) o+=rect(ax,u-D,ax+t,u,'s-ghost'); else o+=rect(ax,u,ax+D,u+t,'s-ghost');
-  // leg
-  const up = theta>=89.5;
-  if(P.leg && up){ const lx=ax+D-P.legIn; o+=rect(lx-1.5,0,lx,u,'s-leg'); o+=lab(lx-0.75,u*0.45,lx+2.2,u*0.45,'Leg '+F(G.legL)); }
-  // hinge pivot
-  o+=`<circle class="s-pivot" cx="${X(ax)}" cy="${Y(u)}" r="4"/>`;
+  if(!B) o+=rect(P.ovh,u,ax,u+t,'s-wood');
+  // ghost of the other position, then the leaf
+  o+=poly(G.box.map(([x,y])=>rot(x,y,G.lp[0],G.lp[1], theta>45? Math.PI/2 : 0)),'s-ghost');
+  o+=poly(G.box.map(([x,y])=>rot(x,y,G.lp[0],G.lp[1],ph)),'s-wood');
+  if(P.legN){
+    if(up){
+      G.legs.forEach(L=>{ const x1=ax+L.dIn, x2=ax+L.dOut;
+        o+=rect(x1,P.glideH,x2,u-P.hwT,'s-leg'); o+=rect(x1+0.25,0,x2-0.25,P.glideH,'s-steel'); o+=rect(x1-0.15,u-P.hwT,x2+0.15,u,'s-steel'); });
+      const L0=G.legs[0]; o+=lab(ax+L0.dOut,u*0.45,ax+L0.dOut+2.2,u*0.45,(P.legN>1?'Legs ':'Leg ')+F(G.legL)+' + glide');
+    } else {
+      G.legs.forEach(L=>{ const b=[[ax+L.dIn,u],[ax+L.dOut,u],[ax+L.dOut,u-P.legT-P.hwT],[ax+L.dIn,u-P.legT-P.hwT]];
+        o+=poly(b.map(([x,y])=>rot(x,y,G.lp[0],G.lp[1],ph)),'s-leg'); });
+      if(down){ const L=G.legs[0]; const c=rot(ax+(L.dIn+L.dOut)/2,u-P.legT/2,G.lp[0],G.lp[1],Math.PI/2); o+=lab(c[0],c[1],-4,c[1]+2.5,'Leg folded','end'); }
+    }
+  }
+  if(!B) o+=`<circle class="s-pivot" cx="${X(ax)}" cy="${Y(u)}" r="4"/>`;
+  o+=`<circle class="s-pivot" cx="${X(piv[0])}" cy="${Y(piv[1])}" r="3"/>`;
 
   // dimensions
-  o+=dimV(0,G.H,ax+D+3.5,'Top '+F(G.H),'right');
-  o+=dimV(P.kick,u,-12.2,'','right');
+  o+=dimV(0,G.H,ax+D+3.5,'Top '+F(G.H));
+  o+=dimV(P.kick,u,-12.2,'');
   o+=`<text class="s-dimt" x="${X(-12.2)+7}" y="${Y(P.kick+P.cab*0.62)}">${F(P.cab)}</text>`;
   if(up){
-    o+=dimH(P.ovh,ax,u+t+1.6,F(P.rail));
-    o+=dimH(ax,ax+D,u+t+1.6,'Leaf '+F(D));
-    o+=dimH(P.ovh,ax+D,u+t+3.8,'Extends '+F(G.ext)+' past granite');
+    if(B){
+      o+=dimH(ax,ax+D,u+t+1.6,'Leaf '+F(D)+', extends '+F(G.ext)+' past granite');
+    } else {
+      o+=dimH(P.ovh,ax,u+t+1.6,F(P.rail));
+      o+=dimH(ax,ax+D,u+t+1.6,'Leaf '+F(D));
+      o+=dimH(P.ovh,ax+D,u+t+3.8,'Extends '+F(G.ext)+' past granite');
+    }
     o+=dimH(0,P.brL,u-G.armT-1.4,'Arm '+F(P.brL),false);
-  } else if(theta<1){
-    const gap=u-D, yC=Math.max(u-P.brL-3, P.kick+2);
-    o+=dimV(0,u-D,ax+t+1.2,'Floor gap '+F(gap),'right');
-    o+=dimH(0,ax,yC,F(ax)+' behind leaf',false);
-    o+=dimH(P.brFold,ax,u-P.brL*0.4,F(ax-P.brFold),true);
-    o+=dimV(u-D,u,ax+t+1.2,'',"right");
-    o+=`<text class="s-dimt" x="${X(ax+t+1.2)+7}" y="${Y(u-D/2)+4}">Leaf ${F(D)}</text>`;
-    if(gap<0) o+=line(ax-1,0,ax+t+1,0,'s-bad');
+  } else if(down){
+    const dx=G.foldX1+1.2, yC=Math.max(u-P.brL-3, P.kick+2);
+    o+=dimV(0,G.gap,dx,'Floor gap '+F(G.gap));
+    o+=dimV(G.gap,G.foldTop,dx,'');
+    o+=`<text class="s-dimt" x="${X(dx)+7}" y="${Y((G.gap+G.foldTop)/2)+4}">Leaf ${F(D)}</text>`;
+    if(B){
+      o+=dimH(0,G.foldX1,yC,'',false)+`<text class="s-dimt" x="${X(0)-8}" y="${Y(yC)+4}" text-anchor="end">${F(G.foldX1)} off panel</text>`;
+    } else {
+      o+=dimH(0,ax,yC,F(ax)+' behind leaf',false);
+      o+=dimH(P.brFold,ax,u-P.brL*0.4,F(ax-P.brFold),true);
+    }
+    if(G.gap<0) o+=line(G.foldX0-1,0,G.foldX1+1,0,'s-bad');
   }
   // labels
   o+=lab(-6,u+P.ct*0.5,-9.5,u+P.ct+3.2,'Granite','start');
   o+=lab(-5,P.kick+P.cab*0.25,-9.5,P.kick+P.cab*0.18,'Cabinet','start');
-  if(up) o+=lab(ax+D*0.7,u+t*0.5,ax+D*0.7,u-3.5,'Leaf','start');
-  o+=lab(P.cleatD,u-P.cleatH*0.5, up? P.brL*0.62+3 : ax+P.leafT+1.2, u-P.cleatH-1.5,'Cleat (between brackets)','start');
-  o+=lab(P.ovh+P.rail*0.5,u+t,-1,u+t+1.6,'Hinge rail','end');
+  if(up) o+=lab(ax+D*0.7,u+t*0.5,ax+D*0.7,u-3.5, B? 'Leaf, screwed to arms' : 'Leaf','start');
+  if(!B){
+    o+=lab(P.cleatD,u-P.cleatH*0.5, up? P.brL*0.62+3 : ax+P.leafT+1.2, u-P.cleatH-1.5,'Cleat (between brackets)','start');
+    o+=lab(P.ovh+P.rail*0.5,u+t,-1,u+t+1.6, P.style==='piano'? 'Rail + piano hinge' : 'Hinge rail','end');
+  } else if(up){
+    o+=lab(P.ovh,u+t*0.5,-1,u+t+1.6,'Butt joint','end');
+  }
   o+=lab(-0.1,u-P.brL*0.7,-4,u-P.brL*0.75,'Bracket','end');
   o+=`</svg>`;
   return o;
 }
 
 function planSVG(G){
-  const W=Math.max(P.leafW,P.islandW), D=P.leafD;
-  const xmin=-3, xmax=W+3, top=-(P.ovh+4), bot=P.rail+D+3;
+  const W=Math.max(P.leafW,P.islandW), D=P.leafD, rl=G.rail;
+  const xmin=-3, xmax=W+3, top=-(P.ovh+4), bot=rl+D+3;
   const VW=560, s=(VW-40)/(xmax-xmin), VH=Math.round((bot-top)*s+40);
   const X=x=>20+(x-xmin)*s, Y=y=>20+(y-top)*s;
   const lx=(W-P.leafW)/2, ix=(W-P.islandW)/2;
@@ -362,25 +406,21 @@ function planSVG(G){
   o+=`<defs><pattern id="speck2" width="9" height="7" patternUnits="userSpaceOnUse"><rect width="9" height="7" fill="var(--granite)"/><circle cx="2" cy="2" r="1" fill="var(--granite-dot)"/><circle cx="6.5" cy="5" r=".8" fill="var(--granite-dot)"/></pattern></defs>`;
   o+=`<rect x="${X(ix)}" y="${Y(top)}" width="${P.islandW*s}" height="${(-top)*s}" fill="url(#speck2)" stroke="var(--ink)"/>`;
   o+=`<line class="s-ghost" x1="${X(ix)}" y1="${Y(-P.ovh)}" x2="${X(ix+P.islandW)}" y2="${Y(-P.ovh)}"/>`;
-  o+=R(ix,0,ix+P.islandW,P.rail,'s-wood');
-  o+=R(lx,P.rail,lx+P.leafW,P.rail+D,'s-wood');
-  // brackets (hidden, below)
+  if(rl) o+=R(ix,0,ix+P.islandW,rl,'s-wood');
+  o+=R(lx,rl,lx+P.leafW,rl+D,'s-wood');
   G.pos.forEach(p=>{ o+=`<line class="s-dim" style="stroke:var(--steel);stroke-width:3;stroke-dasharray:6 4" x1="${X(lx+p)}" y1="${Y(-P.ovh)}" x2="${X(lx+p)}" y2="${Y(-P.ovh+P.brL)}"/>`; });
-  // hinges
-  G.hinges.forEach(h=>{ o+=`<rect x="${X(lx+h)-1.5*s}" y="${Y(P.rail)-0.6*s}" width="${3*s}" height="${1.2*s}" fill="var(--steel)"/>`; });
-  // leg
-  if(P.leg){ const cx=lx+P.legSide+0.75, cy=P.rail+D-P.legIn-0.75;
-    o+=`<rect x="${X(cx-0.75)}" y="${Y(cy-0.75)}" width="${1.5*s}" height="${1.5*s}" fill="var(--leg)" stroke="var(--wood-edge)"/>`;
-    const fl=Math.min(G.legL, P.leafW-P.legSide-1);
-    o+=`<rect class="s-ghost" x="${X(cx-0.75)}" y="${Y(cy-0.75)}" width="${fl*s}" height="${1.5*s}"/>`;
-    if(G.legL>P.leafW-P.legSide-0.5) o+=`<line class="s-bad" x1="${X(lx+P.leafW)}" y1="${Y(cy-1.5)}" x2="${X(lx+P.leafW)}" y2="${Y(cy+1.5)}"/>`;
-  }
-  // dims
+  if(P.style==='dropleaf') G.hinges.forEach(h=>{ o+=`<rect x="${X(lx+h)-1.5*s}" y="${Y(rl)-0.6*s}" width="${3*s}" height="${1.2*s}" fill="var(--steel)"/>`; });
+  if(P.style==='piano') o+=`<rect x="${X(lx+0.5)}" y="${Y(rl)-0.375*s}" width="${(P.leafW-1)*s}" height="${0.75*s}" fill="var(--steel)"/>`;
+  G.legs.forEach(L=>{ const y1=rl+L.dIn, x0=lx+L.pivotX, len=G.legL, w=len+0.75, xa= L.dir>0? x0-0.75 : x0-len;
+    o+=`<rect x="${X(xa)}" y="${Y(y1)}" width="${w*s}" height="${P.legW*s}" rx="2" fill="var(--leg)" stroke="var(--wood-edge)"/>`;
+    o+=`<circle cx="${X(x0)}" cy="${Y(y1+P.legW/2)}" r="3.5" fill="var(--sheet)" stroke="var(--ink)"/>`;
+    if(xa<lx+0.25 || xa+w>lx+P.leafW-0.25){ const xe= xa<lx+0.25? lx : lx+P.leafW; o+=`<line class="s-bad" x1="${X(xe)}" y1="${Y(y1-1)}" x2="${X(xe)}" y2="${Y(y1+P.legW+1)}"/>`; }
+  });
   const t=(x,y,txt,a='middle')=>`<text class="s-dimt" x="${x}" y="${y}" text-anchor="${a}">${txt}</text>`;
   o+=`<line class="s-dim" x1="${X(lx)}" y1="${Y(bot-1.2)}" x2="${X(lx+P.leafW)}" y2="${Y(bot-1.2)}"/>`+t(X(lx+P.leafW/2),Y(bot-1.2)-5,'Leaf width '+F(P.leafW));
   G.pos.forEach((p,i)=>{ o+=t(X(lx+p),Y(-P.ovh)-6, i===0? 'Bracket @ '+F(p) : F(p)); });
   o+=t(X(lx+P.leafW/2),Y(top/2)+4,'Existing granite');
-  o+=t(X(lx+P.leafW/2),Y(P.rail+D*0.55),'Leaf '+F(D)+' deep');
+  o+=t(X(lx+P.leafW/2),Y(rl+D*0.55),'Leaf '+F(D)+' deep');
   o+=`</svg>`;
   return o;
 }
@@ -388,57 +428,85 @@ function planSVG(G){
 function checks(G){
   const out=[];
   const add=(st,title,d)=>out.push({st,title,d});
-  const behind=G.ax, spare=behind-P.brFold;
-  add(spare>=0.375?'ok':spare>=0.125?'warn':'bad','Folded leaf clears the folded brackets',
-    `${F(behind)} from the end panel to the back of the hanging leaf. Brackets fold to ${F(P.brFold)}, leaving ${F(spare)}.`);
-  const gap=G.u-P.leafD;
+  if(G.B){
+    add('ok','Folded leaf stays close to the island',
+      `Bracket folds to ${F(P.brFold)} plus the ${F(P.leafT)} leaf: ${F(P.brFold+P.leafT)} proud of the end panel when folded.`);
+  } else {
+    const behind=G.ax, spare=behind-P.brFold;
+    add(spare>=0.375?'ok':spare>=0.125?'warn':'bad','Folded leaf clears the folded brackets',
+      `${F(behind)} from the end panel to the back of the hanging leaf. Brackets fold to ${F(P.brFold)}, leaving ${F(spare)}.`);
+  }
+  const gap=G.gap;
   add(gap>=0.5?'ok':gap>=0.125?'warn':'bad','Folded leaf clears the floor',
-    gap>=0? `Leaf bottom hangs ${F(gap)} above the floor (${F(gap-P.kick)} relative to the kick top).` : `Leaf is ${F(-gap)} too long to hang. Shorten it or raise the hinge.`);
+    gap>=0? `Leaf bottom hangs ${F(gap)} above the floor.` : `Leaf is ${F(-gap)} too long to hang. Shorten the leaf${G.B?'':' or raise the hinge'}.`);
   const under=P.brL-G.ax, ratio=under/P.leafD;
   add(ratio>=0.6?'ok':ratio>=0.45?'warn':'bad','Bracket reach under the leaf',
     `Arms reach ${F(Math.max(0,under))} under the leaf, ${Math.round(ratio*100)}% of its depth. Aim for 60% or more.`);
   const room=P.cab-G.armT-P.brL;
   add(room>=0?'ok':'bad','Folded brackets fit on the end panel',
     room>=0? `Folded arm stops ${F(room)} above the kick.` : `Folded arm runs ${F(-room)} past the cabinet bottom. Use a shorter bracket.`);
-  const seat=P.rail-(P.cleatD-P.ovh);
-  add(P.cleatD<=P.ovh?'bad':seat>=1?'ok':seat>=0.75?'warn':'bad','Rail has room for the hinge',
-    P.cleatD<=P.ovh? `Cleat doesn't reach past the granite to carry the rail. Make it deeper than ${F(P.ovh)}.` : `Cleat carries ${F(P.cleatD-P.ovh)} of the rail, leaving ${F(seat)} of flat underside for the hinge leaf.`);
-  const total=G.weight+P.load, share=P.leg? total*0.5 : total;
+  if(G.B){
+    add('note','Leaf lands flush with the granite',
+      'Pick a bracket whose arm top is flush with the top of its wall plate and mount it tight under the granite. Shim between arm and leaf to fine-tune. The leaf only butts the granite, so expect a 1/16" to 1/8" seam.');
+  } else {
+    const seat=P.rail-(P.cleatD-P.ovh), need=P.style==='piano'?0.75:1;
+    add(P.cleatD<=P.ovh?'bad':seat>=need?'ok':seat>=need-0.25?'warn':'bad','Rail has room for the hinge',
+      P.cleatD<=P.ovh? `Cleat doesn't reach past the granite to carry the rail. Make it deeper than ${F(P.ovh)}.` : `Cleat carries ${F(P.cleatD-P.ovh)} of the rail, leaving ${F(seat)} of flat underside. ${P.style==='piano'?'A 1 1/2" open piano hinge needs 3/4" per side.':'A drop-leaf hinge needs about 1".'}`);
+  }
+  const total=G.weight+P.load, frac=[1,0.6,0.4][P.legN], share=total*frac;
   add(P.rating>=share*1.5?'ok':P.rating>=share?'warn':'bad','Bracket rating vs load',
-    `Leaf about ${Math.round(G.weight)} lb plus ${Math.round(P.load)} lb planned${P.leg?', leg takes about half':''}: brackets carry about ${Math.round(share)} lb against a ${Math.round(P.rating)} lb rating.`);
-  if(P.leg){ const fits=G.legL<=P.leafW-P.legSide-0.5;
-    add(fits?'ok':'bad','Leg folds along the leaf width',
-      fits? `${F(G.legL)} leg folds flat along the ${F(P.leafW)} outer edge.` : `${F(G.legL)} leg is longer than the leaf edge allows. Move the pivot closer to the side.`);
+    `Leaf about ${Math.round(G.weight)} lb plus ${Math.round(P.load)} lb planned${P.legN?`, legs take about ${Math.round((1-frac)*100)}%`:''}: brackets carry about ${Math.round(share)} lb against a ${Math.round(P.rating)} lb rating.`);
+  if(P.legN){
+    const fitW = P.legSide>=0.75 && P.legSide+G.legL<=P.leafW-0.25;
+    add(fitW?'ok':'bad','Leg folds within the leaf width',
+      fitW? `${F(G.legL)} leg folds flat and ends ${F(P.leafW-P.legSide-G.legL)} short of the far edge.` : `${F(G.legL)} leg won't fold within the ${F(P.leafW)} width. Move the pivot toward the side or use a shorter glide.`);
+    const sp=G.avail-G.need;
+    add(sp>=0.125?'ok':sp>=0?'warn':'bad','Folded leg fits between leaf and cabinet',
+      `Leg plus hinge plate is ${F(G.need)} thick. Room behind the folded leaf at that height is ${F(G.avail)}${G.legTopY<=P.kick?' (it lands beside the recessed kick)':''}, leaving ${F(sp)}.`);
+    const cl=G.legInner-G.armReach;
+    add(cl>=0.5?'ok':cl>=0?'warn':'bad','Folded leg clears the bracket arms',
+      cl>=0? `Leg starts ${F(cl)} past the bracket arm tips.` : `Leg overlaps the bracket arms by ${F(-cl)}. Move it toward the outer edge or use shorter brackets.`);
+    add('note','Leveling glide',`Set the brackets so the leaf is flush first, then screw the glide down until the leg just takes weight. It also absorbs any slope in the floor.`);
   }
   return out;
 }
 
 function cutRows(G){
   const r=[], m=MATS[P.mat][0];
-  r.push(['Leaf','1',`${F(P.leafT)} × ${F(P.leafD)} × ${F(P.leafW)}`,m]);
-  r.push(['Hinge rail','1',`${F(P.leafT)} × ${F(P.rail)} × ${F(P.islandW)}`,'Same stock as the leaf, silicone at the granite seam']);
-  const bl={}; G.blocks.forEach(L=>{ const k=F(L); bl[k]=(bl[k]||0)+1; });
-  Object.entries(bl).forEach(([k,n])=>r.push(['Cleat block',String(n),`${F(P.cleatD)} × ${F(P.cleatH)} × ${k}`,'Hardwood, glued and screwed to the end panel']));
+  r.push(['Leaf','1',`${F(P.leafT)} × ${F(P.leafD)} × ${F(P.leafW)}`, m + (G.B? ', ease the back edge to match the granite':'')]);
+  if(!G.B){
+    r.push(['Hinge rail','1',`${F(P.leafT)} × ${F(P.rail)} × ${F(P.islandW)}`,'Same stock as the leaf, silicone at the granite seam']);
+    const bl={}; G.blocks.forEach(L=>{ const k=F(L); bl[k]=(bl[k]||0)+1; });
+    Object.entries(bl).forEach(([k,n])=>r.push(['Cleat block',String(n),`${F(P.cleatD)} × ${F(P.cleatH)} × ${k}`,'Hardwood, glued and screwed to the end panel']));
+  }
   r.push(['Panel backer','1',`3/4" × ${F(Math.min(P.cab-2,P.brL+2))} × ${F(P.islandW-3)}`,'Plywood, glued inside the end panel for bracket bolts']);
-  if(P.leg) r.push(['Leg','1',`1 1/2" × 1 1/2" × ${F(G.legL)}`,'Trim to fit, add a glide']);
-  r.push(['Folding brackets',String(P.brN),`${F(P.brL)} arm`,'At '+G.pos.map(p=>F(p)).join(', ')+' from left end; through-bolt with 1/4" bolts']);
-  r.push(['Drop-leaf hinges',String(G.hinges.length),'Table-leaf type','At '+G.hinges.map(p=>F(p)).join(', ')+', mortised flush']);
-  if(P.leg) r.push(['Folding leg brace','1','Locking','At the leg pivot']);
-  r.push(['Felt bumpers','2','—','Back of leaf near the bottom']);
+  if(P.legN) r.push(['Leg',String(P.legN),`${F(P.legT)} × ${F(P.legW)} × ${F(G.legL)}`,'Hard maple. Cut long, trim after the brackets are set']);
+  r.push(['Folding brackets',String(P.brN),`${F(P.brL)} arm`,'At '+G.pos.map(p=>F(p)).join(', ')+' from left end; through-bolt with 1/4" bolts'+(G.B?'. Arm top flush with plate top.':'')]);
+  if(G.B) r.push(['Wood screws',String(P.brN*4),'#10 × 1 1/4" pan head','Up through the arms into the leaf; slot the holes so the wood can move']);
+  if(P.style==='dropleaf') r.push(['Drop-leaf hinges',String(G.hinges.length),'Table-leaf type','At '+G.hinges.map(p=>F(p)).join(', ')+', mortised flush']);
+  if(P.style==='piano') r.push(['Piano hinge','1',`${F(P.leafW-1)} long, 1 1/2" open`,'Heavy-duty, mortised flush so the bracket arms pass under']);
+  if(P.legN){
+    r.push(['Folding leg bracket',String(P.legN),`Self-locking, ${F(P.legT)} leg`,`Pivot ${F(P.legSide)} in from the side, leg ${F(P.legIn)} in from the outer edge`]);
+    r.push(['Leveling glide',String(P.legN),'1/4-20 leveler + threaded insert',`${F(P.glideH)} tall at mid adjustment`]);
+    r.push(['Magnet catch',String(P.legN),'Small cabinet catch','Holds the folded leg flat']);
+  }
+  if(!G.B) r.push(['Felt bumpers','2','—','Back of leaf near the bottom']);
   return r;
 }
 
 function render(){
   angleOut.textContent=Math.round(theta)+'°';
   const G=derive();
+  document.getElementById('fsRail').hidden = G.B;
+  document.getElementById('styleHint').textContent = STYLES[P.style][1];
   document.getElementById('side').innerHTML=sideSVG(G);
   document.getElementById('plan').innerHTML=planSVG(G);
   const cs=checks(G);
-  document.getElementById('checks').innerHTML=cs.map(c=>`<li><span class="pill ${c.st}">${c.st==='ok'?'OK':c.st==='warn'?'Tight':'Fix'}</span><div><strong>${c.title}</strong><span class="d">${c.d}</span></div></li>`).join('');
+  document.getElementById('checks').innerHTML=cs.map(c=>`<li><span class="pill ${c.st}">${c.st==='ok'?'OK':c.st==='warn'?'Tight':c.st==='note'?'Note':'Fix'}</span><div><strong>${c.title}</strong><span class="d">${c.d}</span></div></li>`).join('');
   const bad=cs.filter(c=>c.st==='bad').length, warn=cs.filter(c=>c.st==='warn').length;
   document.getElementById('chips').innerHTML=[
-    ['Extends',F(G.ext)],['Leaf weight','≈'+Math.round(G.weight)+' lb'],['Leg length',P.leg?F(G.legL):'none'],
-    ['Checks', bad? bad+' to fix' : warn? warn+' tight' : 'all OK']
+    ['Extends',F(G.ext)],['Leaf weight','≈'+Math.round(G.weight)+' lb'],['Legs',P.legN? P.legN+' × '+F(G.legL):'none'],
+    ['Hinge', {bracket:'none, on brackets',dropleaf:'drop-leaf',piano:'piano'}[P.style]],['Checks', bad? bad+' to fix' : warn? warn+' tight' : 'all OK']
   ].map(([a,b])=>`<span class="chip"><b>${a}</b>${b}</span>`).join('');
   const rows=cutRows(G);
   document.getElementById('cut').innerHTML='<thead><tr><th>Part</th><th>Qty</th><th>Size (T × W × L)</th><th>Notes</th></tr></thead><tbody>'+
