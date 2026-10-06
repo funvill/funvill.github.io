@@ -1,0 +1,457 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Island Drop-Leaf Planner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: drafting sheet. Controls rail on the left, live side section + plan view + checks on the right. */
+:root{
+  --paper:#EDF0EF; --sheet:#F8FAF9; --ink:#1C2322; --muted:#5B6866; --rule:#C7CFCD;
+  --dim:#2350B0; --wood:#C98C50; --wood-edge:#8A5A2B; --granite:#6E5A54; --granite-dot:#B39A8F;
+  --cab:#D9C4A8; --cab-edge:#9C7F5C; --steel:#3B4442; --leg:#A9743F;
+  --ok:#1E7A4C; --ok-bg:#DDF0E5; --warn:#9A6200; --warn-bg:#FBEBCB; --bad:#B42D2D; --bad-bg:#F8DCDC;
+  --f-display:"Barlow Condensed","Arial Narrow",sans-serif;
+  --f-body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#121716; --sheet:#1A201F; --ink:#E2E8E6; --muted:#97A4A1; --rule:#2F3836;
+  --dim:#86A6F2; --wood:#B57B42; --wood-edge:#E0A86E; --granite:#7C6660; --granite-dot:#4B3D39;
+  --cab:#4A3E30; --cab-edge:#8C7457; --steel:#AEB8B5; --leg:#C98C50;
+  --ok:#6FD39E; --ok-bg:#173326; --warn:#F0BC5E; --warn-bg:#3A2C0F; --bad:#F08A8A; --bad-bg:#3D1A1A; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#121716; --sheet:#1A201F; --ink:#E2E8E6; --muted:#97A4A1; --rule:#2F3836;
+  --dim:#86A6F2; --wood:#B57B42; --wood-edge:#E0A86E; --granite:#7C6660; --granite-dot:#4B3D39;
+  --cab:#4A3E30; --cab-edge:#8C7457; --steel:#AEB8B5; --leg:#C98C50;
+  --ok:#6FD39E; --ok-bg:#173326; --warn:#F0BC5E; --warn-bg:#3A2C0F; --bad:#F08A8A; --bad-bg:#3D1A1A; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.5;padding-inline:16px;padding-block:20px 40px}
+.wrap{max-width:1280px;margin:0 auto;display:grid;gap:20px}
+header{display:flex;flex-wrap:wrap;align-items:end;justify-content:space-between;gap:12px 24px;border-bottom:1.5px solid var(--ink);padding-bottom:12px}
+h1{font-family:var(--f-display);font-weight:600;font-size:34px;line-height:1;margin:0;letter-spacing:.01em;text-wrap:balance}
+.sub{color:var(--muted);margin:6px 0 0;font-size:14px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{font-family:var(--f-mono);font-size:13px;border:1px solid var(--rule);background:var(--sheet);padding:6px 10px;border-radius:4px;font-variant-numeric:tabular-nums}
+.chip b{font-family:var(--f-display);font-weight:600;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-right:6px}
+.main{display:grid;grid-template-columns:320px minmax(0,1fr);gap:20px;align-items:start}
+@media (max-width:900px){.main{grid-template-columns:minmax(0,1fr)}}
+aside{display:grid;gap:14px}
+fieldset{border:1px solid var(--rule);background:var(--sheet);border-radius:6px;margin:0;padding:12px 14px 14px;display:grid;gap:8px;min-width:0}
+legend{font-family:var(--f-display);font-weight:600;text-transform:uppercase;letter-spacing:.1em;font-size:13px;color:var(--muted);padding:0 6px}
+.row{display:grid;grid-template-columns:minmax(0,1fr) 104px;align-items:center;gap:10px}
+.row label{font-size:14px}
+.row input[type=text],.row select{width:100%;font-family:var(--f-mono);font-size:14px;padding:5px 8px;border:1px solid var(--rule);border-radius:4px;background:var(--paper);color:var(--ink);text-align:right}
+.row select{text-align:left}
+.row input.err{border-color:var(--bad);background:var(--bad-bg)}
+.row.check{grid-template-columns:auto 1fr}
+.hint{font-size:12px;color:var(--muted);margin:0}
+input:focus-visible,select:focus-visible,button:focus-visible{outline:2px solid var(--dim);outline-offset:2px}
+.btns{display:flex;gap:8px;flex-wrap:wrap}
+button{font-family:var(--f-display);font-weight:600;letter-spacing:.06em;text-transform:uppercase;font-size:14px;border:1px solid var(--ink);background:var(--sheet);color:var(--ink);padding:6px 14px;border-radius:4px;cursor:pointer}
+button:hover{background:var(--ink);color:var(--sheet)}
+button.ghost{border-color:var(--rule);color:var(--muted)}
+section.panel{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:14px 16px;min-width:0}
+.panel h2{font-family:var(--f-display);font-weight:600;font-size:20px;margin:0;letter-spacing:.02em}
+.panel-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px 16px;margin-bottom:8px}
+.fold{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:14px}
+.fold input[type=range]{width:180px;max-width:100%}
+.fold output{font-family:var(--f-mono);font-size:13px;min-width:60px}
+.draw{overflow-x:auto}
+.draw svg{display:block;width:100%;height:auto}
+#side svg{min-width:560px}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}
+@media (max-width:1100px){.cols{grid-template-columns:minmax(0,1fr)}}
+.checks{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.checks li{display:grid;grid-template-columns:62px minmax(0,1fr);gap:10px;align-items:start;padding:8px 0;border-top:1px solid var(--rule)}
+.checks li:first-child{border-top:0}
+.pill{font-family:var(--f-display);font-weight:600;letter-spacing:.08em;text-transform:uppercase;font-size:12px;text-align:center;padding:2px 0;border-radius:3px}
+.pill.ok{background:var(--ok-bg);color:var(--ok)} .pill.warn{background:var(--warn-bg);color:var(--warn)} .pill.bad{background:var(--bad-bg);color:var(--bad)}
+.checks strong{display:block;font-size:14px}
+.checks span.d{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{font-family:var(--f-display);font-weight:600;text-transform:uppercase;letter-spacing:.08em;font-size:12px;color:var(--muted);text-align:left;padding:6px 8px;border-bottom:1.5px solid var(--ink)}
+td{padding:7px 8px;border-bottom:1px solid var(--rule);vertical-align:top}
+td.n{font-family:var(--f-mono);font-size:13px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.tbl{overflow-x:auto}
+/* svg classes */
+.s-granite{fill:url(#speck);stroke:var(--ink);stroke-width:1}
+.s-wood{fill:var(--wood);stroke:var(--wood-edge);stroke-width:1}
+.s-cab{fill:var(--cab);stroke:var(--cab-edge);stroke-width:1}
+.s-kick{fill:var(--steel);opacity:.55}
+.s-cleat{fill:var(--wood);fill-opacity:.35;stroke:var(--wood-edge);stroke-dasharray:4 3;stroke-width:1}
+.s-steel{fill:var(--steel);stroke:none}
+.s-steel-l{stroke:var(--steel);stroke-width:3;fill:none;stroke-linecap:round}
+.s-leg{fill:var(--leg);stroke:var(--wood-edge);stroke-width:1}
+.s-floor{stroke:var(--ink);stroke-width:1.5}
+.s-hatch{stroke:var(--muted);stroke-width:.8}
+.s-ghost{fill:none;stroke:var(--muted);stroke-dasharray:5 4;stroke-width:1}
+.s-dim{stroke:var(--dim);stroke-width:1;fill:none}
+.s-dimt{fill:var(--dim);font-family:var(--f-mono);font-size:12px;paint-order:stroke;stroke:var(--sheet);stroke-width:4px;stroke-linejoin:round}
+.s-lab{fill:var(--muted);font-family:var(--f-display);font-weight:500;font-size:13px;letter-spacing:.05em;text-transform:uppercase;paint-order:stroke;stroke:var(--sheet);stroke-width:4px}
+.s-lead{stroke:var(--muted);stroke-width:.7;fill:none}
+.s-pivot{fill:var(--sheet);stroke:var(--ink);stroke-width:1.2}
+.s-bad{stroke:var(--bad);stroke-width:2;fill:none}
+footer{font-size:13px;color:var(--muted)}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Island drop-leaf planner</h1>
+      <p class="sub">Side section and plan of a folding leaf on the island end. Type dimensions in inches: 29.5, 29 1/2 and 7/8 all work.</p>
+    </div>
+    <div class="chips" id="chips"></div>
+  </header>
+
+  <div class="main">
+    <aside id="controls">
+      <div class="btns"><button type="button" class="ghost" id="reset">Reset to defaults</button></div>
+    </aside>
+
+    <div style="display:grid;gap:20px;min-width:0">
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Side section</h2>
+          <div class="fold">
+            <button type="button" id="btnDown">Fold down</button>
+            <button type="button" id="btnUp">Raise</button>
+            <label for="angle">Angle</label>
+            <input type="range" id="angle" min="0" max="90" step="1" value="90">
+            <output id="angleOut" for="angle">90°</output>
+          </div>
+        </div>
+        <div class="draw" id="side"></div>
+      </section>
+
+      <div class="cols">
+        <section class="panel">
+          <div class="panel-head"><h2>Checks</h2></div>
+          <ul class="checks" id="checks"></ul>
+        </section>
+        <section class="panel">
+          <div class="panel-head"><h2>Plan view, leaf raised</h2></div>
+          <div class="draw" id="plan"></div>
+        </section>
+      </div>
+
+      <section class="panel">
+        <div class="panel-head"><h2>Cut list and hardware</h2><button type="button" class="ghost" id="copy">Copy cut list</button></div>
+        <div class="tbl"><table id="cut"></table></div>
+      </section>
+      <footer>Weights use typical densities and bracket ratings are what you enter from the spec sheet. Measure your own island before cutting. The kick height wasn't measured, so check it and enter the real value.</footer>
+    </div>
+  </div>
+</div>
+
+<script>
+const DEF = {
+  ct:1.5, cab:30, kick:4, ovh:0.875, islandW:36,
+  leafD:29.5, leafW:36, leafT:1.5, mat:'maple',
+  rail:2.5, cleatD:2, cleatH:3,
+  brL:18, brFold:1.25, brN:2, brInset:4, rating:300, load:100,
+  leg:false, legIn:2, legSide:2
+};
+const MATS = {maple:['Hard maple butcher block',0.0255], oak:['Red oak',0.0255], birch:['Birch butcher block',0.0237], ply:['Baltic birch plywood',0.0246], pine:['Pine / spruce',0.0145]};
+const GROUPS = [
+  ['Existing island',[
+    ['ct','Countertop thickness'],['cab','Cabinet height above kick'],['kick','Kick height'],['ovh','Granite overhang past end panel'],['islandW','Countertop width at end']]],
+  ['Leaf',[
+    ['leafD','Leaf depth'],['leafW','Leaf width'],['leafT','Leaf thickness'],['mat','Material','select']]],
+  ['Hinge rail and cleat',[
+    ['rail','Rail width'],['cleatD','Cleat depth off panel'],['cleatH','Cleat height']]],
+  ['Brackets',[
+    ['brL','Arm length'],['brFold','Folded thickness'],['brN','How many','count'],['brInset','Inset from leaf ends'],['rating','Rated load, all brackets (lb)','num'],['load','Load you plan for (lb)','num']]],
+  ['Fold-out leg',[
+    ['leg','Add a fold-out leg','check'],['legIn','Inset from outer edge'],['legSide','Inset from side']]]
+];
+
+let P = {...DEF};
+try{ const s = JSON.parse(localStorage.getItem('dropleaf-v1')||'null'); if(s) P = {...DEF, ...s}; }catch(e){}
+function save(){ try{ localStorage.setItem('dropleaf-v1', JSON.stringify(P)); }catch(e){} }
+
+function gcd(a,b){return b?gcd(b,a%b):a}
+function F(x, unit=true){
+  const neg = x<0; let n = Math.round(Math.abs(x)*16);
+  const w = Math.floor(n/16), r = n%16; let s='';
+  if(r){ const g=gcd(r,16); s = (w? w+' ' : '') + (r/g)+'/'+(16/g); } else s = String(w);
+  return (neg && n? '−':'') + s + (unit?'"':'');
+}
+function parseIn(str){
+  str = String(str).trim().replace(/["”″]|in$/g,'').trim();
+  let m;
+  if(/^-?\d+(\.\d+)?$/.test(str)) return parseFloat(str);
+  if((m = str.match(/^(\d+)\s*[- ]\s*(\d+)\s*\/\s*(\d+)$/))) return +m[1] + (+m[2])/(+m[3]);
+  if((m = str.match(/^(\d+)\s*\/\s*(\d+)$/))) return (+m[1])/(+m[2]);
+  return NaN;
+}
+
+/* build controls */
+const ctl = document.getElementById('controls');
+GROUPS.forEach(([name, fields])=>{
+  const fs = document.createElement('fieldset');
+  fs.innerHTML = `<legend>${name}</legend>`;
+  fields.forEach(([k,label,type])=>{
+    const row = document.createElement('div'); row.className='row';
+    const id = 'f_'+k;
+    if(type==='select'){
+      row.innerHTML = `<label for="${id}">${label}</label><select id="${id}">${Object.entries(MATS).map(([v,[t]])=>`<option value="${v}">${t}</option>`).join('')}</select>`;
+      row.style.gridTemplateColumns='minmax(0,1fr) 150px';
+    } else if(type==='count'){
+      row.innerHTML = `<label for="${id}">${label}</label><select id="${id}"><option>2</option><option>3</option><option>4</option></select>`;
+    } else if(type==='check'){
+      row.className='row check';
+      row.innerHTML = `<input type="checkbox" id="${id}"><label for="${id}">${label}</label>`;
+    } else {
+      row.innerHTML = `<label for="${id}">${label}</label><input type="text" inputmode="decimal" id="${id}" autocomplete="off">`;
+    }
+    fs.appendChild(row);
+  });
+  if(name==='Brackets') fs.insertAdjacentHTML('beforeend','<p class="hint">Rakks EH-1818FS: 18" arm, folds to about 1 1/4". Use your bracket\'s spec sheet.</p>');
+  if(name==='Hinge rail and cleat') fs.insertAdjacentHTML('beforeend','<p class="hint">Cleat blocks sit between the brackets, tight under the granite and rail.</p>');
+  ctl.insertBefore(fs, ctl.lastElementChild);
+});
+function fillInputs(){
+  GROUPS.forEach(([,f])=>f.forEach(([k,,type])=>{
+    const el = document.getElementById('f_'+k);
+    if(type==='check') el.checked = !!P[k];
+    else if(type==='select'||type==='count') el.value = String(P[k]);
+    else if(type==='num') el.value = String(P[k]);
+    else el.value = F(P[k],false);
+    el.classList && el.classList.remove('err');
+  }));
+}
+GROUPS.forEach(([,f])=>f.forEach(([k,,type])=>{
+  const el = document.getElementById('f_'+k);
+  const ev = (type==='check'||type==='select'||type==='count') ? 'change' : 'input';
+  el.addEventListener(ev, ()=>{
+    if(type==='check') P[k]=el.checked;
+    else if(type==='select') P[k]=el.value;
+    else if(type==='count') P[k]=+el.value;
+    else {
+      const v = type==='num' ? parseFloat(el.value) : parseIn(el.value);
+      if(!isFinite(v) || v<0){ el.classList.add('err'); return; }
+      el.classList.remove('err'); P[k]=v;
+    }
+    save(); render();
+  });
+  if(!(type==='check'||type==='select'||type==='count')) el.addEventListener('blur',()=>{ if(!el.classList.contains('err')) el.value = type==='num'? String(P[k]) : F(P[k],false); });
+}));
+document.getElementById('reset').addEventListener('click',()=>{ P={...DEF}; save(); fillInputs(); render(); });
+
+/* fold angle */
+let theta = 90; const angle = document.getElementById('angle'), angleOut = document.getElementById('angleOut');
+angle.addEventListener('input',()=>{ theta=+angle.value; render(); });
+let anim=null;
+function animateTo(t){
+  cancelAnimationFrame(anim);
+  if(matchMedia('(prefers-reduced-motion: reduce)').matches){ theta=t; angle.value=t; render(); return; }
+  const start=theta, t0=performance.now(), dur=900;
+  const step=now=>{ const k=Math.min(1,(now-t0)/dur), e=k<.5?2*k*k:1-Math.pow(-2*k+2,2)/2;
+    theta=start+(t-start)*e; angle.value=Math.round(theta); render(); if(k<1) anim=requestAnimationFrame(step); };
+  anim=requestAnimationFrame(step);
+}
+document.getElementById('btnDown').onclick=()=>animateTo(0);
+document.getElementById('btnUp').onclick=()=>animateTo(90);
+
+/* geometry */
+function derive(){
+  const u = P.kick + P.cab;               // underside of counter above floor
+  const ax = P.ovh + P.rail;              // hinge axis x from end panel
+  const armT = Math.min(P.brFold, 0.75);
+  const weight = P.leafW*P.leafD*P.leafT*MATS[P.mat][1];
+  const n=P.brN, e=P.brInset;
+  const pos = n===1? [P.leafW/2] : Array.from({length:n},(_,i)=> e + i*(P.leafW-2*e)/(n-1));
+  const edges=[0,...pos,P.leafW]; const hinges=[];
+  for(let i=0;i<edges.length-1;i++) hinges.push((edges[i]+edges[i+1])/2);
+  const blocks=[]; const pw=1.5; const bnd=[0,...pos.flatMap(p=>[p-pw/2,p+pw/2]),P.leafW];
+  for(let i=0;i<bnd.length;i+=2){ const L=bnd[i+1]-bnd[i]-0.25; if(L>=2) blocks.push(L); }
+  return {u, ax, armT, weight, pos, hinges, blocks, H:u+P.ct, ext:P.rail+P.leafD, legL:u};
+}
+function rot(px,py,cx,cy,ph){ const dx=px-cx, dy=py-cy, c=Math.cos(ph), s=Math.sin(ph);
+  return [cx+dx*c+dy*s, cy-dx*s+dy*c]; }
+
+function sideSVG(G){
+  const ph = (90-theta)*Math.PI/180;
+  const xmin=-13, xmax=G.ax+P.leafD+10, ymin=-1.5, ymax=G.H+3;
+  const VW=900, padL=70, padR=30, padT=20, padB=24;
+  const s=(VW-padL-padR)/(xmax-xmin), VH=Math.round((ymax-ymin)*s+padT+padB);
+  const X=x=>padL+(x-xmin)*s, Y=y=>padT+(ymax-y)*s;
+  const rect=(x1,y1,x2,y2,c)=>`<rect class="${c}" x="${X(Math.min(x1,x2)).toFixed(1)}" y="${Y(Math.max(y1,y2)).toFixed(1)}" width="${(Math.abs(x2-x1)*s).toFixed(1)}" height="${(Math.abs(y2-y1)*s).toFixed(1)}"/>`;
+  const poly=(pts,c)=>`<polygon class="${c}" points="${pts.map(([x,y])=>X(x).toFixed(1)+','+Y(y).toFixed(1)).join(' ')}"/>`;
+  const line=(x1,y1,x2,y2,c)=>`<line class="${c}" x1="${X(x1).toFixed(1)}" y1="${Y(y1).toFixed(1)}" x2="${X(x2).toFixed(1)}" y2="${Y(y2).toFixed(1)}"/>`;
+  const tick=(x,y)=>`<line class="s-dim" x1="${x-4}" y1="${y+4}" x2="${x+4}" y2="${y-4}"/>`;
+  const dimH=(x1,x2,y,label,above=true)=>{ const a=X(x1),b=X(x2),yy=Y(y);
+    const tx=(a+b)/2, ty= above? yy-6 : yy+15;
+    return `<line class="s-dim" x1="${a}" y1="${yy}" x2="${b}" y2="${yy}"/>${tick(a,yy)}${tick(b,yy)}<text class="s-dimt" x="${tx}" y="${ty}" text-anchor="middle">${label}</text>`; };
+  const dimV=(y1,y2,x,label,side='right')=>{ const a=Y(y1),b=Y(y2),xx=X(x);
+    const tx= side==='right'? xx+7 : xx-7;
+    return `<line class="s-dim" x1="${xx}" y1="${a}" x2="${xx}" y2="${b}"/>${tick(xx,a)}${tick(xx,b)}<text class="s-dimt" x="${tx}" y="${(a+b)/2+4}" text-anchor="${side==='right'?'start':'end'}">${label}</text>`; };
+  const lab=(x,y,tx,ty,t,anchor='start')=>`<line class="s-lead" x1="${X(x)}" y1="${Y(y)}" x2="${X(tx)}" y2="${Y(ty)}"/><text class="s-lab" x="${X(tx)+(anchor==='start'?3:-3)}" y="${Y(ty)+4}" text-anchor="${anchor}">${t}</text>`;
+
+  const u=G.u, ax=G.ax, D=P.leafD, t=P.leafT;
+  let o=`<svg viewBox="0 0 ${VW} ${VH}" role="img" aria-label="Side section of the island end with the leaf at ${Math.round(theta)} degrees">`;
+  o+=`<defs><pattern id="speck" width="9" height="7" patternUnits="userSpaceOnUse"><rect width="9" height="7" fill="var(--granite)"/><circle cx="2" cy="2" r="1" fill="var(--granite-dot)"/><circle cx="6.5" cy="5" r=".8" fill="var(--granite-dot)"/></pattern></defs>`;
+  // floor + hatch
+  o+=line(xmin,0,xmax,0,'s-floor');
+  for(let x=xmin+0.5;x<xmax;x+=2) o+=line(x,0,x-0.8,-0.8,'s-hatch');
+  // cabinet + kick
+  o+=rect(-11,P.kick,0,u,'s-cab');
+  o+=rect(-11,0,-0.25,P.kick,'s-kick');
+  // granite
+  o+=rect(-11,u,P.ovh,u+P.ct,'s-granite');
+  // cleat (dashed, between brackets)
+  o+=rect(0,u-P.cleatH,P.cleatD,u,'s-cleat');
+  // bracket: wall plate, arm, brace
+  const piv=[0,u-G.armT];
+  o+=rect(-0.25,u-P.brL*0.85,0,u,'s-steel');
+  const armPts=[[0,u-G.armT],[P.brL,u-G.armT],[P.brL,u],[0,u]].map(([x,y])=>rot(x,y,piv[0],piv[1],ph));
+  o+=poly(armPts,'s-steel');
+  const bA=[0,u-P.brL*0.62], bB=rot(P.brL*0.62,u-G.armT,piv[0],piv[1],ph);
+  if(theta>3) o+=line(bA[0],bA[1],bB[0],bB[1],'s-steel-l');
+  // rail
+  o+=rect(P.ovh,u,ax,u+t,'s-wood');
+  // leaf rotated about (ax,u)
+  const leafPts=[[ax,u],[ax+D,u],[ax+D,u+t],[ax,u+t]].map(([x,y])=>rot(x,y,ax,u,ph));
+  o+=poly(leafPts,'s-wood');
+  // ghost of the other position
+  if(theta>45) o+=rect(ax,u-D,ax+t,u,'s-ghost'); else o+=rect(ax,u,ax+D,u+t,'s-ghost');
+  // leg
+  const up = theta>=89.5;
+  if(P.leg && up){ const lx=ax+D-P.legIn; o+=rect(lx-1.5,0,lx,u,'s-leg'); o+=lab(lx-0.75,u*0.45,lx+2.2,u*0.45,'Leg '+F(G.legL)); }
+  // hinge pivot
+  o+=`<circle class="s-pivot" cx="${X(ax)}" cy="${Y(u)}" r="4"/>`;
+
+  // dimensions
+  o+=dimV(0,G.H,ax+D+3.5,'Top '+F(G.H),'right');
+  o+=dimV(P.kick,u,-12.2,'','right');
+  o+=`<text class="s-dimt" x="${X(-12.2)+7}" y="${Y(P.kick+P.cab*0.62)}">${F(P.cab)}</text>`;
+  if(up){
+    o+=dimH(P.ovh,ax,u+t+1.6,F(P.rail));
+    o+=dimH(ax,ax+D,u+t+1.6,'Leaf '+F(D));
+    o+=dimH(P.ovh,ax+D,u+t+3.8,'Extends '+F(G.ext)+' past granite');
+    o+=dimH(0,P.brL,u-G.armT-1.4,'Arm '+F(P.brL),false);
+  } else if(theta<1){
+    const gap=u-D, yC=Math.max(u-P.brL-3, P.kick+2);
+    o+=dimV(0,u-D,ax+t+1.2,'Floor gap '+F(gap),'right');
+    o+=dimH(0,ax,yC,F(ax)+' behind leaf',false);
+    o+=dimH(P.brFold,ax,u-P.brL*0.4,F(ax-P.brFold),true);
+    o+=dimV(u-D,u,ax+t+1.2,'',"right");
+    o+=`<text class="s-dimt" x="${X(ax+t+1.2)+7}" y="${Y(u-D/2)+4}">Leaf ${F(D)}</text>`;
+    if(gap<0) o+=line(ax-1,0,ax+t+1,0,'s-bad');
+  }
+  // labels
+  o+=lab(-6,u+P.ct*0.5,-9.5,u+P.ct+3.2,'Granite','start');
+  o+=lab(-5,P.kick+P.cab*0.25,-9.5,P.kick+P.cab*0.18,'Cabinet','start');
+  if(up) o+=lab(ax+D*0.7,u+t*0.5,ax+D*0.7,u-3.5,'Leaf','start');
+  o+=lab(P.cleatD,u-P.cleatH*0.5, up? P.brL*0.62+3 : ax+P.leafT+1.2, u-P.cleatH-1.5,'Cleat (between brackets)','start');
+  o+=lab(P.ovh+P.rail*0.5,u+t,-1,u+t+1.6,'Hinge rail','end');
+  o+=lab(-0.1,u-P.brL*0.7,-4,u-P.brL*0.75,'Bracket','end');
+  o+=`</svg>`;
+  return o;
+}
+
+function planSVG(G){
+  const W=Math.max(P.leafW,P.islandW), D=P.leafD;
+  const xmin=-3, xmax=W+3, top=-(P.ovh+4), bot=P.rail+D+3;
+  const VW=560, s=(VW-40)/(xmax-xmin), VH=Math.round((bot-top)*s+40);
+  const X=x=>20+(x-xmin)*s, Y=y=>20+(y-top)*s;
+  const lx=(W-P.leafW)/2, ix=(W-P.islandW)/2;
+  const R=(x1,y1,x2,y2,c)=>`<rect class="${c}" x="${X(x1)}" y="${Y(y1)}" width="${(x2-x1)*s}" height="${(y2-y1)*s}"/>`;
+  let o=`<svg viewBox="0 0 ${VW} ${VH}" role="img" aria-label="Plan view of the raised leaf with brackets, hinges and leg">`;
+  o+=`<defs><pattern id="speck2" width="9" height="7" patternUnits="userSpaceOnUse"><rect width="9" height="7" fill="var(--granite)"/><circle cx="2" cy="2" r="1" fill="var(--granite-dot)"/><circle cx="6.5" cy="5" r=".8" fill="var(--granite-dot)"/></pattern></defs>`;
+  o+=`<rect x="${X(ix)}" y="${Y(top)}" width="${P.islandW*s}" height="${(-top)*s}" fill="url(#speck2)" stroke="var(--ink)"/>`;
+  o+=`<line class="s-ghost" x1="${X(ix)}" y1="${Y(-P.ovh)}" x2="${X(ix+P.islandW)}" y2="${Y(-P.ovh)}"/>`;
+  o+=R(ix,0,ix+P.islandW,P.rail,'s-wood');
+  o+=R(lx,P.rail,lx+P.leafW,P.rail+D,'s-wood');
+  // brackets (hidden, below)
+  G.pos.forEach(p=>{ o+=`<line class="s-dim" style="stroke:var(--steel);stroke-width:3;stroke-dasharray:6 4" x1="${X(lx+p)}" y1="${Y(-P.ovh)}" x2="${X(lx+p)}" y2="${Y(-P.ovh+P.brL)}"/>`; });
+  // hinges
+  G.hinges.forEach(h=>{ o+=`<rect x="${X(lx+h)-1.5*s}" y="${Y(P.rail)-0.6*s}" width="${3*s}" height="${1.2*s}" fill="var(--steel)"/>`; });
+  // leg
+  if(P.leg){ const cx=lx+P.legSide+0.75, cy=P.rail+D-P.legIn-0.75;
+    o+=`<rect x="${X(cx-0.75)}" y="${Y(cy-0.75)}" width="${1.5*s}" height="${1.5*s}" fill="var(--leg)" stroke="var(--wood-edge)"/>`;
+    const fl=Math.min(G.legL, P.leafW-P.legSide-1);
+    o+=`<rect class="s-ghost" x="${X(cx-0.75)}" y="${Y(cy-0.75)}" width="${fl*s}" height="${1.5*s}"/>`;
+    if(G.legL>P.leafW-P.legSide-0.5) o+=`<line class="s-bad" x1="${X(lx+P.leafW)}" y1="${Y(cy-1.5)}" x2="${X(lx+P.leafW)}" y2="${Y(cy+1.5)}"/>`;
+  }
+  // dims
+  const t=(x,y,txt,a='middle')=>`<text class="s-dimt" x="${x}" y="${y}" text-anchor="${a}">${txt}</text>`;
+  o+=`<line class="s-dim" x1="${X(lx)}" y1="${Y(bot-1.2)}" x2="${X(lx+P.leafW)}" y2="${Y(bot-1.2)}"/>`+t(X(lx+P.leafW/2),Y(bot-1.2)-5,'Leaf width '+F(P.leafW));
+  G.pos.forEach((p,i)=>{ o+=t(X(lx+p),Y(-P.ovh)-6, i===0? 'Bracket @ '+F(p) : F(p)); });
+  o+=t(X(lx+P.leafW/2),Y(top/2)+4,'Existing granite');
+  o+=t(X(lx+P.leafW/2),Y(P.rail+D*0.55),'Leaf '+F(D)+' deep');
+  o+=`</svg>`;
+  return o;
+}
+
+function checks(G){
+  const out=[];
+  const add=(st,title,d)=>out.push({st,title,d});
+  const behind=G.ax, spare=behind-P.brFold;
+  add(spare>=0.375?'ok':spare>=0.125?'warn':'bad','Folded leaf clears the folded brackets',
+    `${F(behind)} from the end panel to the back of the hanging leaf. Brackets fold to ${F(P.brFold)}, leaving ${F(spare)}.`);
+  const gap=G.u-P.leafD;
+  add(gap>=0.5?'ok':gap>=0.125?'warn':'bad','Folded leaf clears the floor',
+    gap>=0? `Leaf bottom hangs ${F(gap)} above the floor (${F(gap-P.kick)} relative to the kick top).` : `Leaf is ${F(-gap)} too long to hang. Shorten it or raise the hinge.`);
+  const under=P.brL-G.ax, ratio=under/P.leafD;
+  add(ratio>=0.6?'ok':ratio>=0.45?'warn':'bad','Bracket reach under the leaf',
+    `Arms reach ${F(Math.max(0,under))} under the leaf, ${Math.round(ratio*100)}% of its depth. Aim for 60% or more.`);
+  const room=P.cab-G.armT-P.brL;
+  add(room>=0?'ok':'bad','Folded brackets fit on the end panel',
+    room>=0? `Folded arm stops ${F(room)} above the kick.` : `Folded arm runs ${F(-room)} past the cabinet bottom. Use a shorter bracket.`);
+  const seat=P.rail-(P.cleatD-P.ovh);
+  add(P.cleatD<=P.ovh?'bad':seat>=1?'ok':seat>=0.75?'warn':'bad','Rail has room for the hinge',
+    P.cleatD<=P.ovh? `Cleat doesn't reach past the granite to carry the rail. Make it deeper than ${F(P.ovh)}.` : `Cleat carries ${F(P.cleatD-P.ovh)} of the rail, leaving ${F(seat)} of flat underside for the hinge leaf.`);
+  const total=G.weight+P.load, share=P.leg? total*0.5 : total;
+  add(P.rating>=share*1.5?'ok':P.rating>=share?'warn':'bad','Bracket rating vs load',
+    `Leaf about ${Math.round(G.weight)} lb plus ${Math.round(P.load)} lb planned${P.leg?', leg takes about half':''}: brackets carry about ${Math.round(share)} lb against a ${Math.round(P.rating)} lb rating.`);
+  if(P.leg){ const fits=G.legL<=P.leafW-P.legSide-0.5;
+    add(fits?'ok':'bad','Leg folds along the leaf width',
+      fits? `${F(G.legL)} leg folds flat along the ${F(P.leafW)} outer edge.` : `${F(G.legL)} leg is longer than the leaf edge allows. Move the pivot closer to the side.`);
+  }
+  return out;
+}
+
+function cutRows(G){
+  const r=[], m=MATS[P.mat][0];
+  r.push(['Leaf','1',`${F(P.leafT)} × ${F(P.leafD)} × ${F(P.leafW)}`,m]);
+  r.push(['Hinge rail','1',`${F(P.leafT)} × ${F(P.rail)} × ${F(P.islandW)}`,'Same stock as the leaf, silicone at the granite seam']);
+  const bl={}; G.blocks.forEach(L=>{ const k=F(L); bl[k]=(bl[k]||0)+1; });
+  Object.entries(bl).forEach(([k,n])=>r.push(['Cleat block',String(n),`${F(P.cleatD)} × ${F(P.cleatH)} × ${k}`,'Hardwood, glued and screwed to the end panel']));
+  r.push(['Panel backer','1',`3/4" × ${F(Math.min(P.cab-2,P.brL+2))} × ${F(P.islandW-3)}`,'Plywood, glued inside the end panel for bracket bolts']);
+  if(P.leg) r.push(['Leg','1',`1 1/2" × 1 1/2" × ${F(G.legL)}`,'Trim to fit, add a glide']);
+  r.push(['Folding brackets',String(P.brN),`${F(P.brL)} arm`,'At '+G.pos.map(p=>F(p)).join(', ')+' from left end; through-bolt with 1/4" bolts']);
+  r.push(['Drop-leaf hinges',String(G.hinges.length),'Table-leaf type','At '+G.hinges.map(p=>F(p)).join(', ')+', mortised flush']);
+  if(P.leg) r.push(['Folding leg brace','1','Locking','At the leg pivot']);
+  r.push(['Felt bumpers','2','—','Back of leaf near the bottom']);
+  return r;
+}
+
+function render(){
+  angleOut.textContent=Math.round(theta)+'°';
+  const G=derive();
+  document.getElementById('side').innerHTML=sideSVG(G);
+  document.getElementById('plan').innerHTML=planSVG(G);
+  const cs=checks(G);
+  document.getElementById('checks').innerHTML=cs.map(c=>`<li><span class="pill ${c.st}">${c.st==='ok'?'OK':c.st==='warn'?'Tight':'Fix'}</span><div><strong>${c.title}</strong><span class="d">${c.d}</span></div></li>`).join('');
+  const bad=cs.filter(c=>c.st==='bad').length, warn=cs.filter(c=>c.st==='warn').length;
+  document.getElementById('chips').innerHTML=[
+    ['Extends',F(G.ext)],['Leaf weight','≈'+Math.round(G.weight)+' lb'],['Leg length',P.leg?F(G.legL):'none'],
+    ['Checks', bad? bad+' to fix' : warn? warn+' tight' : 'all OK']
+  ].map(([a,b])=>`<span class="chip"><b>${a}</b>${b}</span>`).join('');
+  const rows=cutRows(G);
+  document.getElementById('cut').innerHTML='<thead><tr><th>Part</th><th>Qty</th><th>Size (T × W × L)</th><th>Notes</th></tr></thead><tbody>'+
+    rows.map(r=>`<tr><td>${r[0]}</td><td class="n">${r[1]}</td><td class="n">${r[2]}</td><td>${r[3]}</td></tr>`).join('')+'</tbody>';
+  window.__rows=rows;
+}
+document.getElementById('copy').addEventListener('click',async e=>{
+  const txt=window.__rows.map(r=>r.join('\t')).join('\n'); const b=e.currentTarget;
+  try{ await navigator.clipboard.writeText(txt); b.textContent='Copied'; }
+  catch(err){ const r=document.createRange(); r.selectNodeContents(document.getElementById('cut')); const s=getSelection(); s.removeAllRanges(); s.addRange(r); b.textContent='Selected, press copy'; }
+  setTimeout(()=>b.textContent='Copy cut list',1800);
+});
+fillInputs(); render();
+</script>
+
+</body></html>
