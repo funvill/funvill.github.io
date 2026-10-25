@@ -166,7 +166,7 @@ Before starting this project I did my research to find out what everyone else wa
 
 I didn't realize that they were shipping from China. My proofs took 4 weeks to ship to my door. The shipping costs were relatively expensive compared to the costs of the decks of cards. If I knew it was going to take that long I would have printed several different variants of the cards for proofs.
 
-Pricing for [Custom poker size cards](https://www.makeplayingcards.com/design/custom-blank-card.html) quanity: 1-5 ($13.90 USD), 50-99 ($7.95 USD), 100-249 ($6.35 USD)
+Pricing for [Custom poker size cards](https://www.makeplayingcards.com/design/custom-blank-card.html) quantity: 1-5 ($13.90 USD), 50-99 ($7.95 USD), 100-249 ($6.35 USD)
 
 I am planning on printing around 60 decks of cards. It should cost around $500 + shipping.
 

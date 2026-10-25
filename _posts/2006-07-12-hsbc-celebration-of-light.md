@@ -21,7 +21,7 @@ For the first time in its history, four countries will be competing in the HSBC 
 </ul>
 On the final night, <strong>August 5, 2006</strong>, the evening will conclude with a Celebration Finale, a specially-designed show to pay tribute to the event.
 
-HSBC has ploted out some of the <a href="http://www.hsbccelebrationoflight.com/fireworks/viewmap.html">best viewing points</a> English Bay, Kitsilano, Vanier Park, Jericho Beach, West Vancouver. The event is free to watch from public parks and beaches.
+HSBC has plotted out some of the <a href="http://www.hsbccelebrationoflight.com/fireworks/viewmap.html">best viewing points</a> English Bay, Kitsilano, Vanier Park, Jericho Beach, West Vancouver. The event is free to watch from public parks and beaches.
 
 <strong>Who:</strong> Estimated annual attendance 1.4 million people.
 <strong>What:</strong> One of the largest <strong>FREE</strong> fireworks competition in the world.

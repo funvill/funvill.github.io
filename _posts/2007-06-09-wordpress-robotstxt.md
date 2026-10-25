@@ -31,17 +31,17 @@ Disallow: /blog/feed/
 User-agent: duggmirror
 Disallow: /</pre>
 <strong>Line 01: 'sitemap: http://www.abluestar.com/sitemap.xml'</strong>
-I included a link to my site map, this is for Google Site map utility. Google Site map utility lets you define your site map in your robots.tst file or on there webmasters configuration page. I use both just incase.
+I included a link to my site map, this is for Google Site map utility. Google Site map utility lets you define your site map in your robots.tst file or on there webmasters configuration page. I use both just in case.
 
 <strong>Line 02: 'User-agent:  *'</strong>
 This tell search engines that the following rules apply to all robots and everyone should follow it.
 
 <strong> Line 03: 'Disallow: /img/'</strong>
-This line tells the search engines that I don't want them to index my /img/ folder. The folder mainly contains pictures of my family and friends. There is no reason for robots to search this directory, infact I don't want pictures of my family showing up randomly on the internet.
+This line tells the search engines that I don't want them to index my /img/ folder. The folder mainly contains pictures of my family and friends. There is no reason for robots to search this directory, in fact I don't want pictures of my family showing up randomly on the internet.
 
 <strong>Line 04: 'Disallow: /blog/wp-admin/'
 Line 05: 'Disallow: /blog/wp-includes/'</strong>
-These two lines tell robots to say out of the Wordpress softwares application data, most of these files are password protected and there is no reason for a robot to go here.
+These two lines tell robots to say out of the Wordpress software application data, most of these files are password protected and there is no reason for a robot to go here.
 
 <strong>Line 06: 'Disallow: /blog/category/'
 Line 07: 'Disallow: /blog/feed/'</strong>

@@ -31,7 +31,7 @@ The brightness of the star could also be represented if I have brightness contro
 
 The LED slowly fades out one by one between each constellation, then fades in with the new constellation to make a pleasing twinkling animation.
 
-I see these panels mostly as art installations, but they could also be used as flashcards for constellations where you need to guess the name of the constellation before it switches to the next one. Or it could be a movie prop in a science fiction show. The manual backup star map for incase the main computers go down.
+I see these panels mostly as art installations, but they could also be used as flashcards for constellations where you need to guess the name of the constellation before it switches to the next one. Or it could be a movie prop in a science fiction show. The manual backup star map for in case the main computers go down.
 
 To the layman this panel would look like randomly assorted LEDs, but to anyone who was in the know it would be a star map. Insider knowledge makes people feel smart and feel special as they are part of the in crowd.
 

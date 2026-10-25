@@ -213,4 +213,4 @@ Art lovers, Electrons enthoists, anyone who loves animals.
 
 ## Feedback
 
-> Rather than the attiny, I would choose one of the chinese chips like [WCH(Jiangsu Qin Heng) CH32V203C8T6](https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_WCH-Jiangsu-Qin-Heng-CH32V203C8T6_C3001172.html) ($0.55) lots more capability. 64KB Flash, RISC-V 20KB RAM, 144MHz, 16 TouchKeys, 8 UART, Analog, and digitial pins.
+> Rather than the attiny, I would choose one of the chinese chips like [WCH(Jiangsu Qin Heng) CH32V203C8T6](https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_WCH-Jiangsu-Qin-Heng-CH32V203C8T6_C3001172.html) ($0.55) lots more capability. 64KB Flash, RISC-V 20KB RAM, 144MHz, 16 TouchKeys, 8 UART, Analog, and digital pins.

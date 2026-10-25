@@ -15,7 +15,7 @@ excerpt: "Building a simple sensor-reading Android app with Google App Inventor,
 
 So I created a simple sensor reading app that reads all the sensors on the phone and displays them raw to the users. (Note the sensors are all zero because its running in emulation)
 
-The App inventor is a pretty simple programing IDE, it would work great for kits as its simple enough for them to understand and it gets stuff to the screen fast.
+The App inventor is a pretty simple programming IDE, it would work great for kits as its simple enough for them to understand and it gets stuff to the screen fast.
 
 A few missing features that i was wishing for while building this app.
 <ul>

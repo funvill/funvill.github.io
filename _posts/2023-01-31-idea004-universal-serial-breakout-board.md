@@ -20,12 +20,12 @@ A USB to Serial port board that supports many different physical layers. TTL 3.3
 
 For my work I often need devices to connect to the following types of physical layer devices.
 
-- [TTL](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic) at 3.3v, TTL at 5v for programing microcontrollers (I rarely if at all do 1.8v)
+- [TTL](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic) at 3.3v, TTL at 5v for programming microcontrollers (I rarely if at all do 1.8v)
 - [RS232](https://en.wikipedia.org/wiki/RS-232) for point to point protocols, Fire Alarm panels, etc..  
 - [RS485](https://en.wikipedia.org/wiki/RS-485) for multi drop protocols like Modbus RTU, BACnet MSTP
 - [1-Wire](https://en.wikipedia.org/wiki/1-Wire) for [DS18B20](https://www.analog.com/en/products/ds18b20.html) and other one wire sensors
 - [4-20ma](https://en.wikipedia.org/wiki/Current_loop) current loop for power meters
-- Analog [0-10v](https://en.wikipedia.org/wiki/0-10_V_lighting_control) for lighting controlers
+- Analog [0-10v](https://en.wikipedia.org/wiki/0-10_V_lighting_control) for lighting controllers
 - [i2c](https://en.wikipedia.org/wiki/I%C2%B2C) for Microcontroller devices
 - [JTAG](https://en.wikipedia.org/wiki/JTAG) for Microcontroller debugging
 - Dry contact, wet contact, Simple [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output)

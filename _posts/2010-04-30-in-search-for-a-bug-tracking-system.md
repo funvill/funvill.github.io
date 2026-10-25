@@ -15,7 +15,7 @@ I'm about to start a new development project with a new group and we needed so
 
 <strong>Requirements</strong>
 <ul>
-	<li>Installs on a LAMP system (MySQL, PHP, ect..) - Easy to install, I am lazy and I want to do as little work as possible</li>
+	<li>Installs on a LAMP system (MySQL, PHP, etc..) - Easy to install, I am lazy and I want to do as little work as possible</li>
 	<li>Self hosted - Paranoia keeps me from using anyone else server.</li>
 	<li>Web interface  - Need somewhere to submit a ticket.</li>
 	<li>Notification - The user that submitted the ticket needs to be notified when we add a comment.</li>
@@ -32,7 +32,7 @@ I'm about to start a new development project with a new group and we needed so
 <strong>Different Bug tracking systems out there </strong>
 <ul>
 	<li><a href="http://www.redmine.org/">Redmine</a> - Written in Ruby on rails and will not run out of the box on a LAMP system.</li>
-	<li><a href="http://www.bugzilla.org/">Bugzilla</a> - Mature, its been around for years and used by many different projects. IT scales increadably well up to extreamly large projects such as <a href="https://bugzilla.mozilla.org/">Mozilla's bug tracking system</a></li>
+	<li><a href="http://www.bugzilla.org/">Bugzilla</a> - Mature, its been around for years and used by many different projects. IT scales increadably well up to extremely large projects such as <a href="https://bugzilla.mozilla.org/">Mozilla's bug tracking system</a></li>
 	<li><a href="http://trac.edgewall.org/">Trac </a>- I really like how minimalist it is. Written in python and uses MySQL for a database.</li>
 </ul>
 In the end I went with Trac because how how easy it was to install and its minimalist feel.

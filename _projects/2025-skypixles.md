@@ -66,7 +66,7 @@ Using the output from the analyze step, this NodeJS application creates several 
 
 Currently there are two layouts; Evenly spaced spiral, and Vogel spiral.
 
-## Ploting and Pating
+## Plotting and Pating
 
 Once enough data is collected (1 Month, 6 months, 1 year), the layouts are printed to canvas using a plotter.
 

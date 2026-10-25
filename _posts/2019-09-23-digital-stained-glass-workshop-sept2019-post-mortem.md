@@ -61,5 +61,5 @@ Total: $312.4 Material costs (per person $52.06 )
 
 ## Source files 
 
-All the files that are used in this workshop are avalaible open source from this github repo 
+All the files that are used in this workshop are available open source from this github repo 
 [https://github.com/funvill/Workshop-DigitialStainedGlassWindow](https://github.com/funvill/Workshop-DigitialStainedGlassWindow)

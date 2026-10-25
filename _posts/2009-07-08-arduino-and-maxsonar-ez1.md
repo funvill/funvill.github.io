@@ -38,7 +38,7 @@ I have included my source code for your reference.
 <strong>Update (12 July 2009):</strong>
 After getting contacted by <em>Bob Gross</em> of <em><a href="http://www.maxbotix.com/">MaxBotix Inc</a>. </em>I decided to give this sensor anther chance.
 Using the code above I connected  analog pin 1 (NOT Pin 0) to the "AN" ping on the chip. GND to GND, +5 to 5V. <a style="text-decoration: none;" href="http://www.abluestar.com/dev/arduino/snippets/IMG_8504.JPG">Picture</a>
-Uploaded the code and connected Hyper terminal capturing the output to a text file and let it run for about an ~hour poiting at the roof.
+Uploaded the code and connected Hyper terminal capturing the output to a text file and let it run for about an ~hour pointing at the roof.
 The results where variable as shown in <a href="http://www.abluestar.com/dev/arduino/snippets/ouput.txt">the output</a>.
 
 <strong>Update (13 July 2009)</strong>

@@ -21,7 +21,7 @@ My project will be similar to this project
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="350" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/4KN0xoHsUiI" /><embed type="application/x-shockwave-flash" width="425" height="350" src="http://www.youtube.com/v/4KN0xoHsUiI"></embed></object>
 <a href="http://www.youtube.com/watch?v=4KN0xoHsUiI">watch?v=4KN0xoHsUiI</a>
 
-But my project has more LEDs, it will play almost full motion video instead of a static image, and the globe will be a quite a bit larger, approximatively 1.5 - 2 meters in diameter, big enough to put a human in the center of the globe.
+But my project has more LEDs, it will play almost full motion video instead of a static image, and the globe will be a quite a bit larger, approximately 1.5 - 2 meters in diameter, big enough to put a human in the center of the globe.
 
 <a href="/public/uploads/2011/03/Mondomatrix_LEDMatrix_b_t.jpg"><img class="size-thumbnail wp-image-1352 alignright" title="Mondomatrix_LEDMatrix_b_t" src="/public/uploads/2011/03/Mondomatrix_LEDMatrix_b_t-150x150.jpg" alt="" width="150" height="150" /></a>Each of the 64x RGB LED will require 3x PWM pins for a total of 192 PWM pins. No Micro-controller has that many output pins, I know I have <a href="http://electronics.stackexchange.com/questions/11670/arm-development-board-with-lots-of-pwms">asked</a>. So you need to either create a <a href="http://www.instructables.com/id/LED-Dot-Matrix-Display/#step1">matrix of LEDs</a> or use some shift registers (SIPO). I decided to go with the shift register as is much harder to power a matrix of LEDs properly compared the shift registers.
 
@@ -43,14 +43,14 @@ Next is how to power this project. 192 * ~30 mA = ~5.8 Amps at full brightness�
 
 <img class="alignright size-thumbnail wp-image-1359" title="0111879_1" src="/public/uploads/2011/03/0111879_1-150x150.jpg" alt="" width="150" height="150" />A <a href="http://goo.gl/A5LoC">100 Amp/hr deep cycle car battery</a> costs ~$250 CAN and this project could drain it in ~14hrs. So I am going to need at lest two of them and a way of charging them during the day. A ~1000 W  <a href="http://en.wikipedia.org/wiki/Solar_power">solar power</a> set up that is able to charge these batteries is going cost &gt;$2k. A <a href="http://goo.gl/hNKaU">1000 W generator</a> new is about ~$950 USD to buy but I think I could rent it for a week for a quarter of that, or beg, borrow, or steal it for much less.
 
-Next problem is the micro-controller has to be able to handle a buffer of 810k per sec. A typical <a href="http://arduino.cc/en/Main/ArduinoBoardMega2560">Arduino Mega 2560</a> (thats the big one) has 8k of SRAM. I could use some very tricky programing methods to read the file only as it is needed but even still it would be extremely difficult if not impossible to get it working right. Ideally I would like to have a multi-threaded chip with at lest 4mb of SRAM to buffer as many of the 32k frames between refresh. <a href="http://electronics.stackexchange.com/questions/11670/arm-development-board-with-lots-of-pwms">Still working on this one</a>.
+Next problem is the micro-controller has to be able to handle a buffer of 810k per sec. A typical <a href="http://arduino.cc/en/Main/ArduinoBoardMega2560">Arduino Mega 2560</a> (thats the big one) has 8k of SRAM. I could use some very tricky programming methods to read the file only as it is needed but even still it would be extremely difficult if not impossible to get it working right. Ideally I would like to have a multi-threaded chip with at lest 4mb of SRAM to buffer as many of the 32k frames between refresh. <a href="http://electronics.stackexchange.com/questions/11670/arm-development-board-with-lots-of-pwms">Still working on this one</a>.
 
 Still lots to think about but at lest some of the parts are coming together.
 
 <strong>Item list </strong>
 <ul>
 	<li>Micro-controller (still researching)</li>
-	<li>~$200, 10x <a href="http://macetech.com/store/index.php?main_page=product_info&amp;cPath=1&amp;products_id=22">OctoBrite DEFILIPPI</a> boards (2x spare, just incase)</li>
+	<li>~$200, 10x <a href="http://macetech.com/store/index.php?main_page=product_info&amp;cPath=1&amp;products_id=22">OctoBrite DEFILIPPI</a> boards (2x spare, just in case)</li>
 	<li>~$60, 100x RGB LED, viewing angle ~100, ~9400 MCD @0.59 each</li>
 	<li>Physical body (still researching)</li>
 	<li>~$100, Power supply ~10 Amp, 5-12v</li>

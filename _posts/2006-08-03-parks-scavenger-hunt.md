@@ -44,5 +44,5 @@ Spend a day in any park in BC and see how many of our scavenger list items you a
 <strong>Where:</strong> Any park in B.C
 <strong>Cost:</strong> Free
 
-For more infomation
+For more information
 <a href="http://www.julyisparksmonth.ca/scavengerhunt.html">http://www.julyisparksmonth.ca/scavengerhunt.html</a>

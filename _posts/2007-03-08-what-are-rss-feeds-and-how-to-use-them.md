@@ -12,7 +12,7 @@ excerpt: "An intro to RSS feeds and feed readers like FeedDemon, Thunderbird, an
 ---
 <a href="/public/uploads/2007/03/100px-feed-iconsvg.png" title="RSS icon 100Ã—100"><img src="/public/uploads/2007/03/100px-feed-iconsvg.png" alt="RSS icon 100Ã—100" align="left" /></a><strong>What is an RSS feed? </strong>
 
-An RSS (Rich Site Summary) a format for delivering regularly changing web content, designed for Blogs, Newsgroups, ect.
+An RSS (Rich Site Summary) a format for delivering regularly changing web content, designed for Blogs, Newsgroups, etc.
 Basically it is a small text document that contains a summery of the recent posts on a Blog or newsgroup that a User/Feed reader/Aggregators can download to check if there is any new contact on a particular website.
 
 One of the biggest benefits for the user is that you can check to see if one or multiple websites have been updated with out having to visit each and every one.

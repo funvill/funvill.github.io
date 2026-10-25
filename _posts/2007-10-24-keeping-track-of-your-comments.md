@@ -12,9 +12,9 @@ excerpt: "Comparing Subscribe-to-Comments plugins against coComment.com for trac
 ---
 One problem i have is that while i am browsing around the internet making comments on peoples blogs i often forgot to check back in a week to see if there are any responses.
 
-Some people have 'Subscribe to comments via email' plugin installed but it dosn't work one blogs that get 100+ comments per post.
+Some people have 'Subscribe to comments via email' plugin installed but it doesn't work one blogs that get 100+ comments per post.
 <h3>Subscribe to comments via email</h3>
-This is a popular solution for many web site developers, its a little check box at the bottom of each post that lets your users get a email notification automatically when ever someone replies to the post. Easly installed on most blogging platforms with a plugin.
+This is a popular solution for many web site developers, its a little check box at the bottom of each post that lets your users get a email notification automatically when ever someone replies to the post. Easily installed on most blogging platforms with a plugin.
 
 <strong>The Advantages  </strong>
 Easy install, Simple for the users.

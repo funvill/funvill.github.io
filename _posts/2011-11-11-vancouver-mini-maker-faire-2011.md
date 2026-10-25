@@ -27,7 +27,7 @@ Instead I made a few smaller projects just in time for Vancouver mini Maker Fair
 There is no way I could catalog all the interesting things that I saw over the weekend so here are some of the highlights.
 
 <strong>Luke Detheridge milk jug dragon
-</strong>Built with milk jugs, wire, rivits, and a hell of a lot of creativity.  This project was hidden away in the <a href="http://www.containr.com/">ContainR</a> project instead of the dark spaces witch is too bad as a lot of people didn't get a chance to see it. I lent him the RGB LED strip lighting to make the whole thing glow and change color.
+</strong>Built with milk jugs, wire, rivits, and a hell of a lot of creativity.  This project was hidden away in the <a href="http://www.containr.com/">Container</a> project instead of the dark spaces witch is too bad as a lot of people didn't get a chance to see it. I lent him the RGB LED strip lighting to make the whole thing glow and change color.
 
 httpv://www.youtube.com/watch?v=xAQjGT3_-6Y
 

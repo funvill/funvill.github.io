@@ -43,4 +43,4 @@ There is a lot of prior art, and tutorials on how to do this style of publishing
 
 ## Market
 
-Me, People who are programers who want to make photo books using HTML, CSS, and Javascript
+Me, People who are programmers who want to make photo books using HTML, CSS, and Javascript

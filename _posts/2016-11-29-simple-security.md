@@ -35,7 +35,7 @@ I personally try to defend against my local government, as well as do some of th
 
 ## Tools
 
-I have arranged this section from the easiest tools/practices that will have a low-high impact on your life. Do the low hanging fruit (Easy stuff) first and work your way up as you get more confortable.
+I have arranged this section from the easiest tools/practices that will have a low-high impact on your life. Do the low hanging fruit (Easy stuff) first and work your way up as you get more comfortable.
 
 ### Low impact on your life
 

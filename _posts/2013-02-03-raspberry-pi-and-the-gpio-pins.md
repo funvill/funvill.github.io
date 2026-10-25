@@ -60,6 +60,6 @@ Next I followed <a href="http://learn.adafruit.com/send-raspberry-pi-data-to-co
 
 &nbsp;
 
-The GPIO pins on the Raspberry PI are pretty easy to use with the python libary. Its too bad there are no analog pins. I can add <a href="http://en.wikipedia.org/wiki/Analog-to-digital_converter">AtoD converters</a> or interface the <a href="http://www.raspberrypi.org/archives/1171">Raspberry PI with an Arduino</a> to add some analog pins.
+The GPIO pins on the Raspberry PI are pretty easy to use with the python library. Its too bad there are no analog pins. I can add <a href="http://en.wikipedia.org/wiki/Analog-to-digital_converter">AtoD converters</a> or interface the <a href="http://www.raspberrypi.org/archives/1171">Raspberry PI with an Arduino</a> to add some analog pins.
 
 More to come.

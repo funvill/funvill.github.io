@@ -35,7 +35,7 @@ I started with a 4’x8’ 3/4” sheet of baltic birch plywood and cut a 80 mm 
 
 To cut the groove for the acrylic plate to be seated in, I lower the table saw blade so that only 10 mm is extended from the deck of the table saw. This is the 10mm depth of the grove for the acrylic plate. Then moved the table saw fence so that it is 10 mm from the blade of the saw. This will be the 10 mm spacing between the grove and the top of the frame. 
 
-The saw blade that I was using was only 4mm thick and my acrylic is 6mm. I expanded the grove by moving the table saw fence from 10mm from the blade to 14mm from the blade. You can see from the photo below the two distinct cuts. This happens because I accidently bumped the height of the saw between cuts. 
+The saw blade that I was using was only 4mm thick and my acrylic is 6mm. I expanded the grove by moving the table saw fence from 10mm from the blade to 14mm from the blade. You can see from the photo below the two distinct cuts. This happens because I accidentally bumped the height of the saw between cuts. 
 
 <img src="/public/uploads/wood-frame-groves.png" alt="wood-frame-groves" />
 

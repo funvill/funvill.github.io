@@ -40,9 +40,9 @@ A top down survival shooter similar to [Crimsonland](https://store.steampowered.
 
 Every time you kill an enemy you get money, money can be used to increase your stats. No limit, numbers always go up.
 
-Everytime you shoot a weapon you get experience with that weapon. Trade experience for upgrades on that weapon. No limits, numbers always go up.
+Every time you shoot a weapon you get experience with that weapon. Trade experience for upgrades on that weapon. No limits, numbers always go up.
 
-Everytime you kill an enemy of a certain type they get slightly stronger. No limits, numbers always go up.
+Every time you kill an enemy of a certain type they get slightly stronger. No limits, numbers always go up.
 
 Every thing in the game should have a lot of arbitrary stats. Dozens for each thing. The stats affect things in subtle ways. No limits on the stats, and all numbers go up. For example a weapon could have the following stats. Shots per second, bullet spread, bullets fired per shot, speed of bullets, reloads per second, number of bounce per bullet, penetration of bullets, wobble of bullets, length, size, etc…
 

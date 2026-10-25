@@ -48,26 +48,26 @@ For example;
 	<li>Your name and exact billing address with a legal "court order"</li>
 </ul>
 </li>
-	<li><a href="http://en.wikipedia.org/wiki/User_agent">User agent string</a> - This is a string that your browser is kind enough to send us telling us what your browser supports. (<a href="http://www.useragentstring.com/">http://www.useragentstring.com</a>) This string looks like this "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10" and may seem harmless but when you break it down it tells me a lot about you. I can also use this string to "uniquely Identify you" encase you are using a proxy or a public Wify, ect, because the string is so uniquely tied to your computer. With this information I can learn the following about you.
+	<li><a href="http://en.wikipedia.org/wiki/User_agent">User agent string</a> - This is a string that your browser is kind enough to send us telling us what your browser supports. (<a href="http://www.useragentstring.com/">http://www.useragentstring.com</a>) This string looks like this "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10" and may seem harmless but when you break it down it tells me a lot about you. I can also use this string to "uniquely Identify you" encase you are using a proxy or a public Wify, etc, because the string is so uniquely tied to your computer. With this information I can learn the following about you.
 <ul>
 	<li>What browser you are using</li>
-	<li>What operating system, Windows, MAC, Linus, What versions, ect.</li>
+	<li>What operating system, Windows, MAC, Linus, What versions, etc.</li>
 	<li>If your software is up to date and how old your equipment is.</li>
 </ul>
 </li>
 </ul>
 A lot of this information is harmless by its self but the information that it infers about you can help me tremendousness while building a profile of you. After your first visit I can set a cookie to "uniquely Identify you" among all the visitors to my site. If you don't accept cookies then i can use your MAC address and your user adgent  to create a pretty good unique Identifier.
 
-Now that I have a "unique Identifier" for you I can keep a log of all the pages that you visit on my site and all the pages you visit on my "friends" pages where they include my content or any 3rd party that shares there logs with me. I can track how long you stay on each page, how big your monitor is, what is your resolution, how often you are on line, where you go to get online, what devices you use to get online, who else uses the same devices (who your family members or friends are), ect. ect.
+Now that I have a "unique Identifier" for you I can keep a log of all the pages that you visit on my site and all the pages you visit on my "friends" pages where they include my content or any 3rd party that shares there logs with me. I can track how long you stay on each page, how big your monitor is, what is your resolution, how often you are on line, where you go to get online, what devices you use to get online, who else uses the same devices (who your family members or friends are), etc. etc.
 
 <strong>Your kind of evil aren't you?</strong>
 Nope just hungry.
 
 <strong>Is everyone doing this?</strong>
-Most people are collecting this information with out even knowing the value of the information and are only using the top level. (How many people visited this website in this time frame). But all the big guys (Google, Yahoo, Microsoft, ect) are exploiting anything they can get from you, anything that they can use to gain an advantage over their competitors. Its safer to just assume that its happening all the time.
+Most people are collecting this information with out even knowing the value of the information and are only using the top level. (How many people visited this website in this time frame). But all the big guys (Google, Yahoo, Microsoft, etc) are exploiting anything they can get from you, anything that they can use to gain an advantage over their competitors. Its safer to just assume that its happening all the time.
 
 <strong>There has to be laws against this kind of thing</strong>
-Yes there are laws, mostly to do with tracking children under the age of ~13 but as a user it is extreamly hard to tell what information "they" are collecting and even if they say they delete it, it doesn't mean that they did from all their backups or network storage, ect... Or the laws on data retention are pretty toothless.
+Yes there are laws, mostly to do with tracking children under the age of ~13 but as a user it is extremely hard to tell what information "they" are collecting and even if they say they delete it, it doesn't mean that they did from all their backups or network storage, etc... Or the laws on data retention are pretty toothless.
 
 <strong>Is their anyway to stop them from getting this information?</strong>
 Yes, but why do you care? Your getting their content for "free" and they are getting information about you that helps them make better more directed content for you. making your experience better. Its sort-of kind-of a "good thing" almost...

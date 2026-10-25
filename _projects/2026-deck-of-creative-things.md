@@ -35,7 +35,7 @@ The deck starts with only one card, "#1 Add a new Card". When this card is drawn
 
 - When a card is drawn its placed into the discard pile.
 - If the deck is empty, '**#1 - Add a new Card**'' to the discards, then shuffle the discards into the deck for tomorrow.
-  - Note: The '#1 - Add a new Card' use to be its own card, but the rules were updated (2026-June-25) to remove this card, and change it so that a new card is added when ever you exaust the deck.
+  - Note: The '#1 - Add a new Card' use to be its own card, but the rules were updated (2026-June-25) to remove this card, and change it so that a new card is added when ever you exhaust the deck.
 
 ## List of Cards (So far)
 
@@ -54,7 +54,7 @@ The deck starts with only one card, "#1 Add a new Card". When this card is drawn
 - **June 23** - **"#2 Documentation"**. I made this project page (this page) for the ***Deck of Creative Things** to record the progress.
 - **June 24** - **"#1 Add a new Card"**. It was the only card in the deck. I added **"#3 - Photo Artwork"** to the bottom of the deck.
 - **June 25** - **"#3 Photo Artwork"**. It was the only card in the deck. I photographed [Gather](https://publicartregistry.com/artwork/gather-0734ea02) by [Rebecca Bayer](https://www.rebeccabayer.com/) and added it to [Public Art Registry](https://publicartregistry.com/) project.
-  - **Note**: The rules were changed. The "#1 Add a new Card" card was removed, and instead when you exaust the deck you add a new card before shuffling.
+  - **Note**: The rules were changed. The "#1 Add a new Card" card was removed, and instead when you exhaust the deck you add a new card before shuffling.
 - **June 26** - **"#1 Add a new Card"**. There are no cards in the deck. I added a new card called **"#4 - Mapping"**
   - **"#4 - Mapping"** - I added videos of the London Underground map to the [PCB Mapping project](/projects/2024-metro-map-pcb/) page.
   - **Shuffled** the three cards into the deck.

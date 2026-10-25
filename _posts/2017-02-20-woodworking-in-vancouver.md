@@ -31,7 +31,7 @@ Doing a workshop or course is a great way to get started with woodworking.
 
 - [Round House](http://roundhouse.ca/programs/adult/) - An amazing set of regulare course to get you started with woodworking. From beginner intro courses to artisan hand tools courses, the round house has it all. They also have drop in nights once a week. Their instructors are experienced and passionate about their craft. [Urban Woodworker](http://www.urbanwoodworker.com/) partners with the *Round House* to provide the hand tools workshops.
 - [Maker Labs](http://www.makerlabs.com/) - Runs regular courses on many different topics with an amazing fully equipped workshop.
-- [Lee Valley](http://www.leevalley.com/en/home/SeminarList.aspx?rs=20) In-Store Seminars offer regulare course from experenced people. Lee Valley is one of the main woodworking stores in Vancouver. 
+- [Lee Valley](http://www.leevalley.com/en/home/SeminarList.aspx?rs=20) In-Store Seminars offer regulare course from experienced people. Lee Valley is one of the main woodworking stores in Vancouver. 
 - [Woodshop COOP](https://woodshop.coop/workshops/) - Runs a 1 day (8 hour),  workshop on reclaimed wood furniture. Great for people that are into the design side of woodworking. 51 Southern St in the False Creek Flats near Main & Terminal
 
 ## Inspiration 

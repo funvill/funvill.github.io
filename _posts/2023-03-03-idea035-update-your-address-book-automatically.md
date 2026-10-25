@@ -41,7 +41,7 @@ Centralize the address book into a website.
 - "User B" receives a email from address book website with the updated contact information for "User A". Included in the email is a call to action telling "User B" to use the address book website to keep their contact information up to day.
 - If "User A" and "User B" both use the address book website then when "User A" updates their contact, "user B" automatically gets the update without an email. (The world is better place)
 - If "User B" doesn't join the address book website then they will forever get notifications from "User A" when he updates his contact info. (punishment for not making the world a better place)
-- "User B" can opt out of reciving updates from Everyone or just "User A"
+- "User B" can opt out of receiving updates from Everyone or just "User A"
 
 ## Prior art
 

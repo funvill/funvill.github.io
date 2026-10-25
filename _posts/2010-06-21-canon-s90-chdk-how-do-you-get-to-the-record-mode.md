@@ -17,6 +17,6 @@ Upgrading to this custom firmware can be tricky but they have tried to make it a
 
 The upgraded firmware is a software hack and does not change your cameras memory, instead it runs off the SD card. If you don't want to use the custom firmware just format your SD card and your camera will be back to its default firmware.
 
-The scripting allows you do to some interesting things such as time laps photography, super long exposure videos, motion sensing recording, ect...
+The scripting allows you do to some interesting things such as time laps photography, super long exposure videos, motion sensing recording, etc...
 
 When I upgraded my <a href="http://en.wikipedia.org/wiki/Canon_PowerShot_S90">Canon S90</a> firmware to <a href="http://chdk.wikia.com/">CHDK </a>version 0.9.9.905 and ran in to a problem. When the camera stats up with the firmware enabled it starts in [playback] mode. When you click the [<em>playback button</em>] to switch it to [<em>record mode</em>] the camera turns its self off. After playing with it for a while I found a solution to the problem. When you want to switch from [<em>playback mode</em>] to [<em>recode mode</em>]  you need to press the [<em>shutter button</em>] instead of the [<em>playback button</em>]. This is different then all the other cameras that I have installed CHDK on.

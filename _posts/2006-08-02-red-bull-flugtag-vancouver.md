@@ -19,7 +19,7 @@ The first Flugtag took place in Austria in 1991. Since then, the dream of flying
 <strong>Who:</strong> All ages
 <strong>Cost:</strong> Free
 
-For more infomation please visit
+For more information please visit
 <a href="http://www.redbullflugtag.ca/en/default.html">RedBullFlugTag.ca/</a>
 
 Add this event to your google calendar

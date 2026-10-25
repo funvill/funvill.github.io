@@ -70,7 +70,7 @@ Robbox has a user interface that makes it easy to set the proper rotation speed 
 ### [GeoCache locator](http://www.instructables.com/id/Arduino-Geocache-Locator/)
 Input a GPS location and this fun device will point you in the right with a ring of LEDS. Could be neat to make a few city style games. 
 
-### [Free Programming notes](http://books.goalkicker.com/) for many different lanuages 
+### [Free Programming notes](http://books.goalkicker.com/) for many different languages 
 Their [C++ book](http://books.goalkicker.com/CPlusPlusBook/) is pretty good even for a verderan like my self. 
 
 ### Simple [ESP8266 tutorials with the Arduino IDE](http://www.electronicwings.com/nodemcu/arduino-ide)

@@ -16,7 +16,7 @@ Blog, You should start a blog as soon as possible. You don't have to update it e
 
 Get friends with blogs to post about your story. Try to get as many of your friends to update there blogs with post about your story. You can reciprocate when they get published. 
 
-Social media sites such as StumbleUpon, Digg, Redit, ect. Don't underestimate these websites they can bring thousands of visitors to your story. 
+Social media sites such as StumbleUpon, Digg, Redit, etc. Don't underestimate these websites they can bring thousands of visitors to your story. 
 
 
 Facebook, Create a link, update your status. Create a group for your writing. 

@@ -30,7 +30,7 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain
 ## Social  
 
 - [List of makers on twitter](https://twitter.com/airbornesurfer/status/1120456497513865218) - A list of people on twitter to follow that are makers/inventers. 
-- [Cassidy Williams @cassidoo](https://twitter.com/cassidoo) - A very very funny programer comedian. Also a mech keyboard fan. Favorite posts: [First try](https://twitter.com/cassidoo/status/1153738731188187141), [ESLint](https://twitter.com/cassidoo/status/1185656470953549824), [goofing off](https://twitter.com/cassidoo/status/1179110386445905920)
+- [Cassidy Williams @cassidoo](https://twitter.com/cassidoo) - A very very funny programmer comedian. Also a mech keyboard fan. Favorite posts: [First try](https://twitter.com/cassidoo/status/1153738731188187141), [ESLint](https://twitter.com/cassidoo/status/1185656470953549824), [goofing off](https://twitter.com/cassidoo/status/1179110386445905920)
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - a Swedish inventor, maker, robotics enthusiast, maker of shitty robots. 
 
 ## Maker stuff 
@@ -39,7 +39,7 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain
 - [My neighbor totoro](https://twitter.com/wireengineer/status/1150201866069905409) backlit PCB board. 
 - [Bookshelf Dioramic](https://laughingsquid.com/back-alley-bookshelf-inserts/) - Tiny Dioramic that is sized to fit next to books on a bookshelf.
 - [Lightwork ](https://github.com/marvage/Lightwork) - Lightwork simplifies the process of mapping complex arrangements of LEDs, removing the limitations of straight lines and grids from your light based creations.
-- [Mechanical 7-segment display](http://fablabsendai-flat.com/2019/11/04/mechanical7seg_en/) - A cam system for dispaying a mechanical 7-segment display. [Hackaday](https://hackaday.com/2019/11/11/mechanical-seven-segment-display-mixes-art-with-hacking/), [Video](https://www.youtube.com/watch?v=tSkKMkYYUJM)
+- [Mechanical 7-segment display](http://fablabsendai-flat.com/2019/11/04/mechanical7seg_en/) - A cam system for displaying a mechanical 7-segment display. [Hackaday](https://hackaday.com/2019/11/11/mechanical-seven-segment-display-mixes-art-with-hacking/), [Video](https://www.youtube.com/watch?v=tSkKMkYYUJM)
 - [Capacitive touch noise synth](https://twitter.com/oshpark/status/1206711384223997958?s=09) - A wonderfuly designed PCB with beautiful capacitive touch traces. Made by Nicolas Collins at the School of the Art Institute in Chicago
 - [LED Lava Lamp](https://hackaday.com/2019/03/06/fueled-by-jealousy-this-smart-lamp-really-shines/) - A wonderfully designed LED Lava lamp with a great diffuser.
 - [PCB coin cell to USB](https://youtu.be/PJs1Ax6M9Qs?t=671) - A super neat PCB coin cell that converts USB power to a coin cell 3v. [instructables](https://www.instructables.com/id/PCB-Christmas-Tree-Card/)
@@ -53,8 +53,8 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain
 
 ## Art 
 
-- [Minimalist Marble Machine](https://tinkerlog.com/2015/02/24/minimalist-marble-machine/) - The simplest form of a marble machine but done extreamly well. [Hackaday post](https://hackaday.com/2015/03/21/your-marble-machine-doesnt-need-to-change-the-world/)
-- [Detector](https://www.instagram.com/p/B5L9C8lFRrw/?igshid=1peo39679eni2) - A star light led panels with wonderful patterns at the pace gallery, by @[leo_villareal_studio](https://www.instagram.com/leo_villareal_studio/). When I was in london I got a chance to see this art exibit, wonderful. My videos can be found on my [instagram](https://www.instagram.com/p/B6T__rwBzej/).
+- [Minimalist Marble Machine](https://tinkerlog.com/2015/02/24/minimalist-marble-machine/) - The simplest form of a marble machine but done extremely well. [Hackaday post](https://hackaday.com/2015/03/21/your-marble-machine-doesnt-need-to-change-the-world/)
+- [Detector](https://www.instagram.com/p/B5L9C8lFRrw/?igshid=1peo39679eni2) - A star light led panels with wonderful patterns at the pace gallery, by @[leo_villareal_studio](https://www.instagram.com/leo_villareal_studio/). When I was in london I got a chance to see this art exhibit, wonderful. My videos can be found on my [instagram](https://www.instagram.com/p/B6T__rwBzej/).
 
 ## Tools 
 

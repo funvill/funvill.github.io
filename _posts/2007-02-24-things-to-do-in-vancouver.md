@@ -24,7 +24,7 @@ A small personal list of what to do in vancouver
 	<li><a href="http://www.grousemountain.com">The Grouse Grind</a></li>
 	<li><a href="http://www.wreckbeach.org/">Wreck beach</a>, <a href="http://www.virtualvancouver.com/jericobeach.html">Jericho Beach</a> (<a href="http://www.jericho.bc.ca/webcam/webcam.html">Webcam</a>), <a href="http://www.virtualvancouver.com/kitsbeach.html">Kitsilano Beach</a>, <a href="http://www.city.vancouver.bc.ca/parks/rec/beaches/spanw1.htm">Spanish Banks.</a></li>
 	<li>See a movie in <a href="http://www.cinemark.com/theater_showtimes.asp?theater_id=504">Tinseltown</a></li>
-	<li>Go have breakfast at <a href="http://www.123vancouver.com/restaurants/elbow-room.htm">The Elbow Room</a> on Davie street, about 2 blocks east of Granville. GREAT food, and the waiters will HECKLE you, they are halarious, and it is great fun.</li>
+	<li>Go have breakfast at <a href="http://www.123vancouver.com/restaurants/elbow-room.htm">The Elbow Room</a> on Davie street, about 2 blocks east of Granville. GREAT food, and the waiters will HECKLE you, they are hilarious, and it is great fun.</li>
 	<li><a href="http://www.frommers.com/destinations/vancouver/D52085.html">La Casa Gelato</a> Venables Street, a few blocks west of Clark Drive, (they have a billion flavors of ice cream, like, Corn, Beer, Tequila, Pistachio, Rice, Wasabi, Curry, Balsamic Vinigrette... and all the traditional favorites!)</li>
 	<li>Goto Chinatown and Little India.</li>
 	<li><a href="http://www.scienceworld.bc.ca/">Science World</a> on a day you are feeling fun and silly, you should make a point of checking out their <a href="http://www.scienceworld.bc.ca/whats_on/alcan_omnimax_theatre/overview.htm">OMNIMAX theatre</a>. CRAZY FUN.</li>
@@ -35,14 +35,14 @@ A small personal list of what to do in vancouver
 	<li>Anime shops in China town.</li>
 	<li>Farmer's Market at Trout Lake Park</li>
 	<li>Little India (40th and Oak area)</li>
-	<li><a href="http://www.findfamilyfun.com/lynncanyon.htm">lynn canyon suspension bridge</a> (free) Swiming too</li>
+	<li><a href="http://www.findfamilyfun.com/lynncanyon.htm">lynn canyon suspension bridge</a> (free) Swimming too</li>
 	<li>sunset from the top of capitol hill</li>
 	<li>comedy at the <a href="http://www.artsclub.com/aboutus/rentalgranville.htm">granville island theatre</a></li>
 	<li>Tower Beach as the sun rises</li>
 	<li>chinatown in the summer. They have the midnight market. All kindsa food and insanity till midnight on weekends. SO RAD! Happens in richmond too</li>
 	<li>Bons on Broadway is a wicked little place on Tuesdays. They have their $3 breakfast, and $2 pints of beer! After about 6pm it cleans out to young people all in for the beer special</li>
 	<li>And The Blarney Stone has actually been taken over by new owners, as of last week. They fired the whole staff ( some of which have been working there for 10 years ) and have plans to re-vamp the whole place into a "nicer" pub that is open during the day as well. It's not going to be the same :(</li>
-	<li>If you're looking for good pub's with Pool tables check out the Cambie or The Bourbon. They always have good people in it, and it's always a load of fun where you are guarenteed to meet new people.</li>
+	<li>If you're looking for good pub's with Pool tables check out the Cambie or The Bourbon. They always have good people in it, and it's always a load of fun where you are guaranteed to meet new people.</li>
 	<li>Squamish chieftain</li>
 	<li>Lighthouse Park [<a href="http://www.seethenorthshore.com/light/light.htm">1</a>]</li>
 	<li><a href="http://vancouver.ca/parks/parks/vandusen/index.htm">VanDusen Botanical Garden</a></li>

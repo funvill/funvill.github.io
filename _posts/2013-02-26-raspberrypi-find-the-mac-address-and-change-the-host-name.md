@@ -45,4 +45,4 @@ CTRL+X" then "
 Y" to quit) 
 sudo nano /etc/hosts and replace raspberry with the hostname you chose above
 sudo /etc/init.d/hostname.sh start (to enable the changes).</pre>
-Instead of typing the IP address of your Rapsberry PI you can use the host name to connect to your device.
+Instead of typing the IP address of your Raspberry PI you can use the host name to connect to your device.

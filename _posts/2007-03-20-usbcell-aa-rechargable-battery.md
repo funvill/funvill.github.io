@@ -1,5 +1,5 @@
 ---
-title: "USBCELL AA Rechargable Battery"
+title: "USBCELL AA Rechargeable Battery"
 date: 2007-03-20 13:05:00
 slug: usbcell-aa-rechargable-battery
 categories:

@@ -13,7 +13,7 @@ After the first time my computer crashed and i lost 3 months of work, I started 
 
 For source code and documents I use a SVN repository (Rev 9000+ and counting). The SVN server is running on a local server that mirrors its self to an off site backup nightly. (Just in case my house burns down)
 
-This local server is a aging computer and needs to be replaced with brand new one, more space, raid, batter backup, ect.
+This local server is a aging computer and needs to be replaced with brand new one, more space, raid, batter backup, etc.
 
 I'm going to have to move the SVN repository.
 I did a quick Google search and found <a href="http://svn.haxx.se/users/archive-2006-12/0424.shtml">this forum post</a>.

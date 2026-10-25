@@ -25,9 +25,9 @@ Previous lighting talks have included;
 	<li>Non standard eating utensils, <a href="http://en.wikipedia.org/wiki/Spork">Spork</a> and battle spoon</li>
 	<li>Geocashing</li>
 	<li>Bitcoins</li>
-	<li>Security for your parents, <a href="http://www.truecrypt.org/">Truecrypt</a>, <a href="https://lastpass.com/">lastpass</a>, <a href="https://www.torproject.org/">TOR</a>, ect..</li>
+	<li>Security for your parents, <a href="http://www.truecrypt.org/">Truecrypt</a>, <a href="https://lastpass.com/">lastpass</a>, <a href="https://www.torproject.org/">TOR</a>, etc..</li>
 	<li>The mating cycle of wheat</li>
-	<li>ect...</li>
+	<li>etc...</li>
 </ul>
 One of the problems is that we only get a few members to do a lighting talk. So to incentive people to do more lighting talks, I am designing a <strong>Challenge Coin</strong> to be given to members that do a lighting talk.
 <blockquote><a href="/public/uploads/2012/11/geo9.jpg"><img class="alignright size-full wp-image-2938" title="geo9" src="/public/uploads/2012/11/geo9.jpg" alt="" width="187" height="189" /></a>A <a href="http://en.wikipedia.org/wiki/Challenge_coin">challenge coin</a> is a small coin bearing an organization&quot;s insignia or emblem and carried by the organization&quot;s members. Traditionally, they are given to prove membership when challenged and to enhance morale. In addition, they are also collected by service members. In practice, challenge coins are normally presented by unit commanders in recognition of special achievement by a member of the unit. They are also exchanged in recognition of visits to an organization</blockquote>

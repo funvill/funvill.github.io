@@ -32,7 +32,7 @@ I got to spend two days in Shenzhen at the tail end of a vacation. I love hittin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CyLCwa2mneY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Copper led "fairy light"](https://www.youtube.com/watch?v=DoRbHYJAwis) - Cheap LED fairy wire. I use it to add a bit of light to projects.
-- [RUIDENG UM24/UM24C USB 2.0 Color LCD Display Tester Voltage](https://www.youtube.com/watch?v=nP0DaCQyF5E) - Lots of features used to determin how much current a USB charger is using. Logs to CSV. Very userful for my LEDs projects.
+- [RUIDENG UM24/UM24C USB 2.0 Color LCD Display Tester Voltage](https://www.youtube.com/watch?v=nP0DaCQyF5E) - Lots of features used to determin how much current a USB charger is using. Logs to CSV. Very useful for my LEDs projects.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nP0DaCQyF5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

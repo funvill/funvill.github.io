@@ -91,7 +91,7 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 - [Launch Academy](http://www.launchacademy.ca/) - Education and mentorship in a collaborative environment
 - [The Profile](http://theprofile.ca/) - Co working space.
 - [The Network Hub](https://www.thenetworkhub.ca/) - Co working space, hot desk.
-- [Light House Labs](https://www.lighthouselabs.ca/) - Code bootcamp. Full-Stack, iOS devlopment, etc...
+- [Light House Labs](https://www.lighthouselabs.ca/) - Code bootcamp. Full-Stack, iOS development, etc...
 - [Code Core](https://www.codecore.ca/) - Code bootcamp. Full-Stack, Rails, Javascript, etc...
 - [Red Academy](https://www.redacademy.com/) - Code bootcamp.
 
@@ -114,16 +114,16 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 
 - [Practical Engineering](https://www.youtube.com/user/gradyhillhouse/featured) - Has a great series on [What's that Infrastructure](https://www.youtube.com/watch?v=oA2-80lY5rE&list=PLTZM4MrZKfW_3wFRD1eYzHjHToLkAJWJ0). High products values with well researched topics. The [Arduino Garden Controller - [Automatic Watering and Data Logging](https://www.youtube.com/watch?v=O_Q1WKCtWiA) is one of my favorite videos as I a bit of a data horder myself.
 - [Engineer Guy](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ) - I first found the engineer guy while looking for a good explanation of [plastic injection modlding](https://www.youtube.com/watch?v=RMjtmsr3CqA). High production values with great research with history.
-- [DIY Perks](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw) - Intersting proejcts each week. I started following him after I build my own ["Sun blaster" flashlight](https://www.youtube.com/watch?v=kh9j5mDU_hA) based on his tutorials.
+- [DIY Perks](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw) - Interesting projects each week. I started following him after I build my own ["Sun blaster" flashlight](https://www.youtube.com/watch?v=kh9j5mDU_hA) based on his tutorials.
 - [MegaBots Inc](https://www.youtube.com/channel/UClT-fyp4Kgd76hESsuLbksA) - Giant fighting robots.
 - [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA) - Primitive huts and tools from scratch using only natural materials in the wild.
 
-#### Eletronics
+#### Electronics
 
 - [MickMake](https://www.youtube.com/channel/UC7GMT3ohvYEAJFDenzj9EMQ) - Current status of the maker world. Reviews, tutorials, technology explanations, news and Maker event coverage.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - An off-the-cuff video blog for electronic engineers, hobbyists, and hackers.
 - [Scanlime](https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ) - Creator of the FadeCandy board. She is the first person that I supported on [Patreon](https://www.patreon.com/scanlime). A great value to the maker community. One of my favorite videos of hers is the [011 / Ultrasonic Transducer](https://www.youtube.com/watch?v=VuzytIcSxwI). [@scanlime](https://twitter.com/scanlime)
-- [Mikes Electric Stuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Amazing artist that also does a great amount build out video on his channel. One of my favorite art installtions that he has done is [Emergence](https://www.youtube.com/watch?v=9Qlmywxjau0) more info about this installtion can be found here [Heathrow Airport Emergence](http://cinimodstudio.com/portfolio/heathrow-airport-emergence/). [Patreon](https://www.patreon.com/mikeselectricstuff).
+- [Mikes Electric Stuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Amazing artist that also does a great amount build out video on his channel. One of my favorite art installations that he has done is [Emergence](https://www.youtube.com/watch?v=9Qlmywxjau0) more info about this installation can be found here [Heathrow Airport Emergence](http://cinimodstudio.com/portfolio/heathrow-airport-emergence/). [Patreon](https://www.patreon.com/mikeselectricstuff).
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - The queen of "shitty" robots. One of my favorite videos of hers [Wake-up Machine FAIL](https://www.youtube.com/watch?v=0MzPVe30Q1A) [@simonegiertz](https://twitter.com/simonegiertz).
 - [Adafruit Industries](https://www.youtube.com/channel/UCpOlOeQjj7EsVnDh3zuCgsA) - Daily new videos. Everything from new products, Ask an Engineer, Weekly 3D print, show and tell. 
 
@@ -137,8 +137,8 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 Awesome people doing awesome things
 
 - [J Mantzel](https://www.youtube.com/channel/UC1p7jFXjL7Q0qMii08oAeAQ) - I have never met anyone with as much energy as this guy. His [giant walking robot](https://www.youtube.com/playlist?list=PL13A11662BDE6EB83) series from a few years ago is inspiring and frighting. He is currently building a off the grid ["Sea Castle"/Fortress](https://www.youtube.com/watch?v=MN5S26JA1OI). I backed his [failed kickstarter](https://www.kickstarter.com/projects/1089105581/the-greatest-toy-kit-in-the-universe-spider-tank-m) ad well as support him on [Patreon](https://www.patreon.com/jmemantzel).
-- [The Hacksmith](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ) - Amoung other things, he tries to make working prototypes of props from movies. Such as a [flying iron man suit](https://www.youtube.com/playlist?list=PLbncXbXlaNQcCnCaFTVn84-RLhfX68fFX).
-- [GravityRoad](https://www.youtube.com/channel/UCPelotG5UTbWYKrMfG0ynKg) - Quirky maker with some intersting projects.
+- [The Hacksmith](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ) - Among other things, he tries to make working prototypes of props from movies. Such as a [flying iron man suit](https://www.youtube.com/playlist?list=PLbncXbXlaNQcCnCaFTVn84-RLhfX68fFX).
+- [GravityRoad](https://www.youtube.com/channel/UCPelotG5UTbWYKrMfG0ynKg) - Quirky maker with some interesting projects.
 
 
 ### Blogs
@@ -154,7 +154,7 @@ Awesome people doing awesome things
 ## Suppliers
 These suppliers are local to Vancouver area.
 
-### Eletronics conponents
+### Electronics conponents
 
 - [Lees Electronic](http://www.leeselectronic.com/) - Supports maker faire and the local maker community. 4131 Fraser St (King Ed and Fraser). [<i class="fab fa-twitter" aria-hidden="true"></i>](https://twitter.com/lees_electronic), [<i class="fab fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/LeesElectronicComponents)
 - [RP Electronics](http://www.rpelectronics.com/) - Also has some consumer electronics. 4181 Dawson Street, Burnaby
@@ -192,7 +192,7 @@ These suppliers are local to Vancouver area.
 
 #### Bearings
 
-- [Ringball](http://www.ringball.com/home.html): Mainly bearings, some linear slides and some acme screws and such. Good prices, but $30 minumum order
+- [Ringball](http://www.ringball.com/home.html): Mainly bearings, some linear slides and some acme screws and such. Good prices, but $30 minimum order
 - [DealExtreme](http://www.dx.com): Free shipping, probably knockoff bearings
 
 #### Springs

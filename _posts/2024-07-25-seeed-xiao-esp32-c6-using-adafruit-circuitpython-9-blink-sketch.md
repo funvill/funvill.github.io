@@ -28,7 +28,7 @@ I discovered that the ESP32-C6 chip does not have support for native USB. This m
 
 To be able to run CircuitPython on the ESP32 you need to load the CircuitPython firmware via [ESPTools](https://github.com/espressif/esptool) and connect to the [CircuitPython Web Workflow Code Editor](https://learn.adafruit.com/getting-started-with-web-workflow-using-the-code-editor/overview) in a browser. [Adafruit](https://www.adafruit.com/) has done their best to make this as easy as possible but it was still a disappointment that I couldn't just save files to the USB drive like I do with the [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
-I downloaded the latest version of the [CircuitPython frimware for Seeed Xiao ESP32C6](https://circuitpython.org/board/seeed_xiao_esp32c6/)
+I downloaded the latest version of the [CircuitPython firmware for Seeed Xiao ESP32C6](https://circuitpython.org/board/seeed_xiao_esp32c6/)
 
 Then followed [Circuit Python with ESP32 Quick Start Guide](https://learn.adafruit.com/circuitpython-with-esp32-quick-start/command-line-esptool).
 
@@ -76,7 +76,7 @@ dir(board)
 ['__class__', '__name__', 'A0', 'A1', 'A2', 'A4', 'A5', 'A6', 'D0', 'D1', 'D10', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9', 'I2C', 'LP_I2C_SCL', 'LP_I2C_SDA', 'LP_UART_RXD', 'LP_UART_TXD', 'MISO', 'MOSI', 'MTCK', 'MTDI', 'MTDO', 'MTMS', 'RX', 'SCK', 'SCL', 'SDA', 'SPI', 'TX', 'UART', '__dict__', 'board_id']
 ```
 
-I found the [SeeedStudio-XIAO-ESP32C6 Schematic](https://files.seeedstudio.com/wiki/SeeedStudio-XIAO-ESP32C6/XIAO-ESP32-C6_v1.0_SCH_PDF_24028.pdf) and the build in LED uses *GPIO15*. This doesn't seem to be avalaible as part of the board pin definitions.
+I found the [SeeedStudio-XIAO-ESP32C6 Schematic](https://files.seeedstudio.com/wiki/SeeedStudio-XIAO-ESP32C6/XIAO-ESP32-C6_v1.0_SCH_PDF_24028.pdf) and the build in LED uses *GPIO15*. This doesn't seem to be available as part of the board pin definitions.
 
 After some more research I found that the [CircuitPython differentiates between *board* pins and internal *microcontroller* pins](https://github.com/adafruit/circuitpython/issues/5651#issuecomment-985626630).
 
@@ -88,7 +88,7 @@ dir(microcontroller.pin)
 ['__class__', 'GPIO0', 'GPIO1', 'GPIO10', 'GPIO11', 'GPIO12', 'GPIO13', 'GPIO14', 'GPIO15', 'GPIO16', 'GPIO17', 'GPIO18', 'GPIO19', 'GPIO2', 'GPIO20', 'GPIO21', 'GPIO22', 'GPIO23', 'GPIO24', 'GPIO25', 'GPIO26', 'GPIO27', 'GPIO28', 'GPIO29', 'GPIO3', 'GPIO30', 'GPIO4', 'GPIO5', 'GPIO6', 'GPIO7', 'GPIO8', 'GPIO9', '__dict__']
 ```
 
-This is the working example. Hopfully it will save you some time in your projects.
+This is the working example. Hopefully it will save you some time in your projects.
 
 ```python
 """Working Example. Blinks the built-in LED."""

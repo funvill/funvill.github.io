@@ -84,7 +84,7 @@ Some of the things that I have found interesting in March 2017. This page is upd
 - [Oroville dam spillway](https://imgur.com/gallery/mpUge) - A dam's spill way collapses
 - [List of BC trails that have streetview](http://www.destinationbc.ca/News/Local/Destination-BC-takes-the-world-on-a-journey-throug.aspx#.WNQOdzsrKUk) - Destination BC and their partners were loaned two Google Street View Trekkers—a wearable backpack outfitted with 15 separate cameras that collect 360° panoramic imagery in remote outdoor locations inaccessible by car. [links to google maps](http://www.destinationbc.ca/getattachment/Marketing/Consumer-Marketing/2017-North-America-Marketing-Initiatives/British-Columbia-Google-Treks-Links-List-(1).pdf.aspx)
 
-## Devlopment 
+## Development 
 
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - To generate buzz and get users.
 - [Servo's Hunting](https://forums.adafruit.com/viewtopic.php?f=19&t=113369) - The feedback loop will constantly overshoot the correct position, then overcorrect the other way.

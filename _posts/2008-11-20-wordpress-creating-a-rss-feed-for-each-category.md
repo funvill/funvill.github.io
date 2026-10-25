@@ -17,7 +17,7 @@ Say for example that you run an artiest website like my friend <a href="http://w
 Well your in luck because wordpress already does it for you.
 You just need to know the syntax
 
-<code>&lt;blog url&gt;/?feed=rss2&amp;cat=&lt;Catagory ID&gt;
+<code>&lt;blog url&gt;/?feed=rss2&amp;cat=&lt;Category ID&gt;
 eg. <a href="http://www.camilladerrico.com/blog/?feed=rss2&amp;cat=16">http://www.camilladerrico.com/blog/?feed=rss2&amp;cat=16</a></code>
 
 It works in Wordpress 2.6.3

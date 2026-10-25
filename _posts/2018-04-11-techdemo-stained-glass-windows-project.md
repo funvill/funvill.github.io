@@ -51,7 +51,7 @@ An LED hotspot is when the light from the LED does not diffuse, and you can see 
 
 One of the simplest ways to solve this problem, is to increase the distance from the LED to the diffusing panel. Finding the optional distance that doesn’t make your project's profile too thick is always a challenge. Normally this comes down to trial an error. A good rule of thumb is twice the distance from the next closest LED. 
 
-Another solution is to add a wax paper as a diffusing material. I find that this doesn’t alway produce uniform results and I tend to avoid it. 
+Another solution is to add a wax paper as a diffusing material. I find that this doesn’t always produce uniform results and I tend to avoid it. 
 
 In my case, most of the sections in my panels are 20 mm apart from each other. After a bit of trial and error I ended up using a divider with the height of 30 mm. 
 

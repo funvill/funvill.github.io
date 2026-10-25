@@ -18,7 +18,7 @@ A horizontal matrix of 16 water nozzles in a grid on bike carriage to draw with 
 
 ## Description
 
-<img src='\public\uploads\2023\dotmatrix.png' alt='dotmatrix' title='dotmatrix' style="float: right; max-width: 400px; margin: 10px; border: 1px solid black; padding: 5px">Bicycle pulling a carriage. On the carriage there is a horizontal row of 16 water nozzles. When the bike is moving the speed is detected by a microcontroller. The microcontroller tiggers the 16 water nozzles on and off to release water at specific times. The nozzles paint the sidewalk with dots of water to spell a message.
+<img src='\public\uploads\2023\dotmatrix.png' alt='dotmatrix' title='dotmatrix' style="float: right; max-width: 400px; margin: 10px; border: 1px solid black; padding: 5px">Bicycle pulling a carriage. On the carriage there is a horizontal row of 16 water nozzles. When the bike is moving the speed is detected by a microcontroller. The microcontroller triggers the 16 water nozzles on and off to release water at specific times. The nozzles paint the sidewalk with dots of water to spell a message.
 
 Afterwards the water evaporates and no harm is done.
 

@@ -23,7 +23,7 @@ The macro pad can be application aware by using [AutoHotKey](https://www.autohot
 
 A full set of Emoji keycaps would be prohibitively expensive to ship. Instead I would let people select the keycaps that they want for the Emoji keyboard with some common packs. Like top 16, etc…
 
-To create the key caps using [dye sublimation](https://www.youtube.com/watch?v=jNZkzK4l0F8) techniques descriped in this video, or from this one from [Linus Tech Tips](https://www.youtube.com/watch?v=-scV7LLvdh8).
+To create the key caps using [dye sublimation](https://www.youtube.com/watch?v=jNZkzK4l0F8) techniques described in this video, or from this one from [Linus Tech Tips](https://www.youtube.com/watch?v=-scV7LLvdh8).
 
 According to [Emojipedia stats](https://emojipedia.org/stats/) the 16 most popular Emoji are;
 ❤️ Red Heart, 🫶 Heart Hands, 😊 Smiling Face with Smiling Eyes, 🔥 Fire, ✨ Sparkles, 💀 Skull

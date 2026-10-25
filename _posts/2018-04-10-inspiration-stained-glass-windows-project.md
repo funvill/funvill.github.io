@@ -16,7 +16,7 @@ excerpt: "Inspiration for the stained glass windows project, from Lumina Lab's S
 ---
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window).
 
-I was looking for a project that allowed me to combine my experience with the laser cutter, programing, and my new fascination with Math Art, mandalas and sacred geometry.
+I was looking for a project that allowed me to combine my experience with the laser cutter, programming, and my new fascination with Math Art, mandalas and sacred geometry.
 
 The primary source of inspiration came from my trip to [Portland winter lighting festival](https://www.pdxwlf.com/2018-festival) in february 2018. One of the many [amazing projects](https://www.instagram.com/p/BfHMFCvB2TA/?taken-by=funvill) that I saw during the festival was [Stoicheia Elements](https://www.pdxwlf.com/b41) by [Lilli Szafranski](https://github.com/lillialexis) and [Jesse Banks](https://github.com/jbanks2) from [Lumina Lab](https://www.luminalabpdx.com/stoicheia-elements/). A Digital stained-glass, twelve-sided, four-foot diameter, [Dodecahedron](https://en.wikipedia.org/wiki/Dodecahedron), with 2,200 RGB LEDs. The [Kickstarter Project](https://www.kickstarter.com/projects/620607414/stoicheia-elements-digital-stained-glass-art-insta) describes the project in detail.
 
@@ -24,7 +24,7 @@ Lilli Szafranski also did a talk about this project during the festival. [The so
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qu6uhI93SkI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-I liked Stoicheia Elements a lot. It combined a bunch of my passions into a single project. Laser cutter, CNC, CAD, LEDs, programing, art, and geometric shapes.
+I liked Stoicheia Elements a lot. It combined a bunch of my passions into a single project. Laser cutter, CNC, CAD, LEDs, programming, art, and geometric shapes.
 
 [Corinne Leroux](https://www.instagram.com/awesomesaucedes/) from [Awesome Sauce Designs](http://awesomesaucedesigns.com/), create these amazing pop culture stainglass windows in her workshop next to mine at [Maker Labs](http://www.makerlabs.com/). [etsy](https://www.etsy.com/shop/awesomesaucedesigns). She has shown me a few tricks over the months with different stain glass techniques.
 

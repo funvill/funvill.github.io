@@ -14,7 +14,7 @@ excerpt: "Five-step walkthrough for turning on Akismet in WordPress to kill almo
 To help stop spam activate the <a href="http://akismet.com/download/">Akismet plugin</a>.
 <ol>
 	<li>Login to your wordpress blog</li>
-	<li>On the right hand side there is a pugin button, click it</li>
+	<li>On the right hand side there is a plugin button, click it</li>
 	<li>Activate Akismet plugin (<a href="http://akismet.com/download/">download here</a> if its not all ready installed)</li>
 	<li>Get a Wordpress API key <a href="http://wordpress.com/api-keys/">http://wordpress.com/api-keys/</a> (its free)</li>
 	<li>Set the Wordpress API key in the Akismet settings page.</li>

@@ -12,7 +12,7 @@ tags:
 excerpt: "A PHP script that auto-generates 79,206 timezone-comparison pages for cities like Vancouver, Paris, and New York."
 ---
 Have you ever ask yourself what is the current time is it in <a href="http://www.abluestar.com/utilities/timezones/zoneinfo/Asia/Hong_Kong">HongKong</a>, <a href="http://www.abluestar.com/utilities/timezones/zoneinfo/America/Vancouver">Vancouver</a>?
-I work with people all over this planet, I'm constantly asking myself what time is its where they are?, can I phone them? ect...
+I work with people all over this planet, I'm constantly asking myself what time is its where they are?, can I phone them? etc...
 
 So I created this simple PHP script to show the current local time of all the major cites around the world.
 <a href="http://www.abluestar.com/utilities/timezones/zoneinfo/">What is the local time in different cities</a>

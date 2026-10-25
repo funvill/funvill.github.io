@@ -123,8 +123,8 @@ Artooooo!"....drink</li>
 	<li>If  Leia is almost totally nude...drink x3</li>
 	<li>Obi-Wan Kenobi materializes for a guest appearance....drink</li>
 	<li>Obi-Wan Kenobi plays detective. ("€¦Only Imperial Stormtroopers are so precise.")....drink</li>
-	<li>Han brags about the Millenium Falcon....drink</li>
-	<li>Anybody insults the Millenium Falcon....drink</li>
+	<li>Han brags about the Millennium Falcon....drink</li>
+	<li>Anybody insults the Millennium Falcon....drink</li>
 	<li>Something doesn&quot;t work on the Falcon....drink</li>
 	<li>If it&quot;s the hyperdrive....drink x2</li>
 	<li>Yoda uses bad grammar....drink x2</li>

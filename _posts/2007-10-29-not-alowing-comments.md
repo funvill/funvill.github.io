@@ -1,5 +1,5 @@
 ---
-title: "Not alowing comments"
+title: "Not allowing comments"
 date: 2007-10-29 18:41:00
 slug: not-alowing-comments
 categories:

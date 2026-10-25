@@ -1,5 +1,5 @@
 ---
-title: "Cakephp - Using the same view for multiple controler functions"
+title: "Cakephp - Using the same view for multiple controller functions"
 date: 2009-11-19 12:05:00
 slug: cakephp-using-the-same-view-for-multiple-controler-functions
 categories:

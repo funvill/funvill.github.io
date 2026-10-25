@@ -26,8 +26,8 @@ I'm in the process of <span style="color: #222222;">consolidating </span>all my
 </ul>
 <strong>Nice to have </strong>(I<em>n order of importance</em>)
 <ul>
-	<li><strong>Non-US data storag</strong>e preferably Canadian - With all the revelations about the US NSA, NSL etc.. I would prefer not to do business with a US based company if I can help it. My preference for Canadian is only exists as it makes it easier to deal with them legally incase I have to.</li>
-	<li><strong>Two factor authentication</strong> preferably using Google authenticator - Two factor authentication makes me feel better about storing all my domains in a single place. In theory it should make it harder for people to steal my domains incase I am targeted by an directed attack.</li>
+	<li><strong>Non-US data storag</strong>e preferably Canadian - With all the revelations about the US NSA, NSL etc.. I would prefer not to do business with a US based company if I can help it. My preference for Canadian is only exists as it makes it easier to deal with them legally in case I have to.</li>
+	<li><strong>Two factor authentication</strong> preferably using Google authenticator - Two factor authentication makes me feel better about storing all my domains in a single place. In theory it should make it harder for people to steal my domains in case I am targeted by an directed attack.</li>
 	<li><strong>DNSSEC</strong> - Prevents DNS poisoning and adds more security</li>
 	<li><strong>Supports .io domains</strong> and other exotic TLDs - I don't need them right now but I might in the future.</li>
 	<li><strong>IPv6 Support</strong> - I don't need it now but it might be nice to support it in the future.</li>
@@ -36,7 +36,7 @@ I'm in the process of <span style="color: #222222;">consolidating </span>all my
 After researching and asking the <a href="http://vancouver.hackspace.ca/wp/">VHS mailing list</a> I came down to this short list of registrars. I am currently leaning towards Gandi.net
 <ol>
 	<li><a href="https://www.gandi.net/">Gandi.net</a>- <strong>Good</strong>: Supports exotic TLDs, DNSSEC, Two factor authentication, $15/yr, Non-US (French), 99.99 SLA,</li>
-	<li><a href="https://web.easydns.com/">EasyDNS.com</a> - <strong>Good:</strong> Non-US (Canadain), DNSSEC, IPv6, 99.99 SLA, $15/yr (Recommented to me by several people) <strong>Bad:</strong> No Two factor authentication.</li>
+	<li><a href="https://web.easydns.com/">EasyDNS.com</a> - <strong>Good:</strong> Non-US (Canadain), DNSSEC, IPv6, 99.99 SLA, $15/yr (Recommended to me by several people) <strong>Bad:</strong> No Two factor authentication.</li>
 	<li><a href="http://name.com">name.com</a> - <strong>Good</strong>: IPv6, Two factor authentication, Supports exotic TLDs, DNSSEC <strong>Bad</strong>: US-Based (Denver, Colorado)</li>
 </ol>
 <strong> What registrar do you use? and why? </strong>

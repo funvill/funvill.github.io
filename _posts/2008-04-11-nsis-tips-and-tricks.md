@@ -11,7 +11,7 @@ excerpt: "A growing snippet library for NSIS installers: opening folders, regist
 ---
 I create a lot of windows application to make things easier for my customers. The simple act of coping a file from an email to a certain directory can become the most complicated tasks for a certain type of customer.
 
-I use an Scriptable Install System provided by <a href="http://www.nullsoft.com/">NullSoft</a> called <a href="http://nsis.sourceforge.net/Main_Page">NSIS </a>(Nullsoft Scriptable Install System). Ita great system that just plain works. Its free, open source, and can be used for <a href="http://nsis.sourceforge.net/License">commercial products</a>, Great plugin system, Dead simple for simple things, <a href="http://nsis.sourceforge.net/Features">ect</a>.
+I use an Scriptable Install System provided by <a href="http://www.nullsoft.com/">NullSoft</a> called <a href="http://nsis.sourceforge.net/Main_Page">NSIS </a>(Nullsoft Scriptable Install System). Ita great system that just plain works. Its free, open source, and can be used for <a href="http://nsis.sourceforge.net/License">commercial products</a>, Great plugin system, Dead simple for simple things, <a href="http://nsis.sourceforge.net/Features">etc</a>.
 
 The <a href="http://nsis.sourceforge.net/Docs/Contents.html">manual</a> has lots of examples and function documentation to help <a href="http://nsis.sourceforge.net/Download">get you started</a>.
 

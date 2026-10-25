@@ -64,9 +64,9 @@ We make money because people are bad at following directions, reading the small 
 
 We have incentive to make our system more draconian over time. Make it harder for these people to complete the challenge. We are betting against the consumers.
 
-We can tell them what our deal is. Explane all the rules in an single document that we send to them when they start. We don't lie. They have to accept our terms.
+We can tell them what our deal is. Explain all the rules in an single document that we send to them when they start. We don't lie. They have to accept our terms.
 
-Maybe we make the restaurants on different sides of the city, or select restaurants that are very busy and you need to make reservations weeks in advance. Or have a restaurant in the group that only has expensive meals +$50 so they can’t keep it economically. Or require a selphy infront of the restaurants sign. We get to try and think of ways to make it harder and harder each time.
+Maybe we make the restaurants on different sides of the city, or select restaurants that are very busy and you need to make reservations weeks in advance. Or have a restaurant in the group that only has expensive meals +$50 so they can’t keep it economically. Or require a selphy in front of the restaurants sign. We get to try and think of ways to make it harder and harder each time.
 
 ### Unsorted
 

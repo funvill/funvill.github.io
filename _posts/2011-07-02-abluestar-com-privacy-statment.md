@@ -1,5 +1,5 @@
 ---
-title: "Abluestar.com privacy statment"
+title: "Abluestar.com privacy statement"
 date: 2011-07-02 13:56:00
 slug: abluestar-com-privacy-statment
 categories:
@@ -10,7 +10,7 @@ tags:
   - journal
 excerpt: "A blunt parody privacy statement for Abluestar.com that says all data is collected, kept, and sold on request."
 ---
-I record as much information as I possiably can from all my users, all the time, and I keep it for as long as I want to. I will sell it to anyone who asks and give it to anyone who puts a lawyers paper under my nose.
+I record as much information as I possibly can from all my users, all the time, and I keep it for as long as I want to. I will sell it to anyone who asks and give it to anyone who puts a lawyers paper under my nose.
 
 * NOTE: This only applies to Abluestar.com. My other sites I got out of my way to remove personal information that I don't need so I won't be subpoenaed for the info. Having my web server seized would definitively cause downtime. *
 

@@ -8,7 +8,7 @@ tags:
   - plastic
   - led
   - video
-excerpt: "Mirroed dome"
+excerpt: "Mirrored dome"
 header:
   teaser: /uploads/teaser_2015_pocket_universe.png
 ---

@@ -44,7 +44,7 @@ I made a small time laps video from a friends roof of the street. Unfortunately
 <div>
 <ul>
 	<li>June 26, 2010 @ 1pm - <a href="http://www.vancouverpublicspace.ca/index.php?page=139">Stick It to the Streets</a> (see above), <a href="http://www.facebook.com/event.php?eid=127220227305473">Facebook event</a></li>
-	<li>June 27, 2010 @ 10am-6pm - <a href="http://www.facebook.com/event.php?eid=116695205015298&amp;ref=mf">eatART Powers the VAG 2010</a>. it is a DJ station ( <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.myspace.com%2Floveandelectrik&amp;h=2fc9dXuEJ56CeKuVs3qpAUD5y5A">Love &amp; Electrik</a> )  that is powered by three riders and their bikes. The riders pedal with their back wheel resting on a spinning mini generator that is connected to the sound system. The boomin' soundsystem is controled by a DJ who can spin records with energy aware panache.</li>
+	<li>June 27, 2010 @ 10am-6pm - <a href="http://www.facebook.com/event.php?eid=116695205015298&amp;ref=mf">eatART Powers the VAG 2010</a>. it is a DJ station ( <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.myspace.com%2Floveandelectrik&amp;h=2fc9dXuEJ56CeKuVs3qpAUD5y5A">Love &amp; Electrik</a> )  that is powered by three riders and their bikes. The riders pedal with their back wheel resting on a spinning mini generator that is connected to the sound system. The boomin' soundsystem is controlled by a DJ who can spin records with energy aware panache.</li>
 	<li>July 10, 2010 @ 4pm-11pm - <a href="http://www.facebook.com/event.php?eid=111874062157982">1st Annual East Van Chili Cook Off</a></li>
 </ul>
 </div>

@@ -12,14 +12,14 @@ excerpt: "Personal review of past web hosts (Hostgator, Dreamhost, Media Temple,
 ---
 I been with a bunch of different hosts over the past few years
 <ul>
-	<li><a href="http://www.hostgator.com/">Hostgator</a> (Good)- Reseller account, only positive things to say about them so far. Good phone/Chat/Email support. Great response time for there servers. ect...</li>
+	<li><a href="http://www.hostgator.com/">Hostgator</a> (Good)- Reseller account, only positive things to say about them so far. Good phone/Chat/Email support. Great response time for there servers. etc...</li>
 	<li><a href="http://www.dreamhost.com/">Dreamhost</a> (OKish) - 1800+ domains on shard hosting?! decent email support, lots of features, funny newsletter, downtime every month, and ping time is getting slower each and every month.</li>
 	<li><a href="http://mediatemple.net/">Media temple</a> (Never again)- Complete and utter garbage, slow, lots of down time. Only used there servers for 2 months before moving.</li>
-	<li><a href="http://www.hasweb.com/">Hasweb</a> (Bad) - Good for years and they botched a server move horribly. Lost everything; files, EMail, databases. ect... Luckily I had regulate backups, weeks of downtime and bugs afterwards. It was so bad that I didn't want anything to do with them ever again.</li>
+	<li><a href="http://www.hasweb.com/">Hasweb</a> (Bad) - Good for years and they botched a server move horribly. Lost everything; files, EMail, databases. etc... Luckily I had regulate backups, weeks of downtime and bugs afterwards. It was so bad that I didn't want anything to do with them ever again.</li>
 	<li><a href="http://www.hostdime.com/">Hostdime</a> (Bad my association)- After my issues with Hasweb (sister company to Hostdime) I moved my domains away from there servers as well.</li>
 	<li><a href="http://www.godaddy.com/">GoDaddy </a>(Annoying)- Never had a problem with there servers although I was only with them for a short period of time. The reason that I left was every month they would send me 10+ add on services emails, they would out right spammed me. In a single month I got +30 emails from GoDaddy on extra products that they wanted to sell me.</li>
 </ul>
-Currently Hostgator is at the top of my list and i have never had any problems with them so far. But I like to spread my websites across many different host just in case one of them goes down for any reason, diversity ect...
+Currently Hostgator is at the top of my list and i have never had any problems with them so far. But I like to spread my websites across many different host just in case one of them goes down for any reason, diversity etc...
 
 So I am in search of a new cheap shared webhost.
 
@@ -32,7 +32,7 @@ So I am in search of a new cheap shared webhost.
 	<li>POP3 (SSL), IMAP, - As much as I "like" your custom build web mail I would much rather download my mail to my own PC.</li>
 	<li>SVN repositories - At lest one, it just makes my life easier.</li>
 	<li>SFTP, CRON, MyPHPAdmin,</li>
-	<li>LAMP style setup (Apache, MySQL, PHP5, ect) - It works and I don't care about anything else.</li>
+	<li>LAMP style setup (Apache, MySQL, PHP5, etc) - It works and I don't care about anything else.</li>
 </ul>
 <strong>Things that I would like </strong>
 <ul>

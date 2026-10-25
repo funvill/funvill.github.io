@@ -9,7 +9,7 @@ tags:
   - bookmark
 excerpt: "Picks from a six-word story contest on middlezonemusings.com, plus a couple of my own attempts."
 ---
-<img src="/public/uploads/1062053772786.gif" alt="1062053772786.gif" title="1062053772786.gif" align="right" border="0" height="107" width="110" />In my endless wondering around the internet I found this interesting site <a href="http://middlezonemusings.com">middlezonemusings.com</a> that had an intersting writing contest recently.
+<img src="/public/uploads/1062053772786.gif" alt="1062053772786.gif" title="1062053772786.gif" align="right" border="0" height="107" width="110" />In my endless wondering around the internet I found this interesting site <a href="http://middlezonemusings.com">middlezonemusings.com</a> that had an interesting writing contest recently.
 
 <a href="http://middlezonemusings.com/all-contest-entries-lets-be-brief/">Write a story in 6 words </a>
 

@@ -60,9 +60,9 @@ Sooner or later someone is going to upload photos of photos of the objects, or p
 #### Unsorted ideas
 
 - Users don't need to submit all the items. Instead they can just submit some. The easy to find items are worth less then the ones that are harder to find.
-- Holliday or themed versions. Items around easter are easter themed or xmas themed, etc...
-- Instead of people uploading images to a private website the could have to post them on social media with a hashtag. Then we don't need to create accounts we just use the social meida user name.
-- Locations as well as objects so people need to leave there house. Generic locations like infront of a tree or near a stop sign.
+- Holiday or themed versions. Items around easter are easter themed or xmas themed, etc...
+- Instead of people uploading images to a private website the could have to post them on social media with a hashtag. Then we don't need to create accounts we just use the social media user name.
+- Locations as well as objects so people need to leave there house. Generic locations like in front of a tree or near a stop sign.
 
 ## Prior art
 

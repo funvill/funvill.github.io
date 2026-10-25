@@ -24,5 +24,5 @@ Anyone that gets to 100 shots wins and gains Centurion status.
 The game isn&quot;t that hard when you think about it.  100 shots of beers is about 13 beers its just the pace that you have to keep drinking at.
 <strong>
 Variation of this game</strong>
-The '100' you are allowed to puke but you are not allowed out of your seat for the full 100 mins and every 10 mins you must take a shot of hard bar (vodka, rum, ect).
+The '100' you are allowed to puke but you are not allowed out of your seat for the full 100 mins and every 10 mins you must take a shot of hard bar (vodka, rum, etc).
 100 beers in 3 days (one weekend, including Friday) if you complete all 100 beers you are even more hardcore then the the people that completed €˜The '100'

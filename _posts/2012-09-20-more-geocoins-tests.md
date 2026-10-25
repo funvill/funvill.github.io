@@ -15,7 +15,7 @@ excerpt: "Dialling in the laser settings on 25 test geocoins at VHS and logging 
 <a style="color: #ff4b33; line-height: 24px; font-size: 16px;" href="/public/uploads/2012/09/2012-09-19-23.04.57.jpg">
 <img class="alignright size-medium wp-image-2858" title="2012-09-19 23.04.57" src="/public/uploads/2012/09/2012-09-19-23.04.57-300x225.jpg" alt="" width="300" height="225" /></a> I made some more demo GeoCoins on VHS's laser cutter. It took creating about ~25 coins to get the settings just right.
 
-I have started adding <a href="http://www.abluestar.com/utilities/thing/?act=view&amp;id=23">some of them</a> to<a href="http://www.abluestar.com/utilities/thing/"> the thing tracker</a>. While using the thing tracker I hope to learn how to make the experence better for normal users. I like to <a href="http://en.wikipedia.org/wiki/Eating_your_own_dog_food">Eat my own dog food</a>.
+I have started adding <a href="http://www.abluestar.com/utilities/thing/?act=view&amp;id=23">some of them</a> to<a href="http://www.abluestar.com/utilities/thing/"> the thing tracker</a>. While using the thing tracker I hope to learn how to make the experience better for normal users. I like to <a href="http://en.wikipedia.org/wiki/Eating_your_own_dog_food">Eat my own dog food</a>.
 
 The sweet spot seems to be for the Ghost and lettering is 40 % speed and 100% power. The outside cutting of the coin looks to be 7% speed with 100% power.
 

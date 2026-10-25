@@ -21,7 +21,7 @@ echo $form-&gt;input('search_text', array('label' =&gt; false));
 echo $form-&gt;end('Search');
 ?&gt;</code>
 
-<strong>Controler:</strong>
+<strong>Controller:</strong>
 <code>&lt;?php
 function admin_index( )
 {

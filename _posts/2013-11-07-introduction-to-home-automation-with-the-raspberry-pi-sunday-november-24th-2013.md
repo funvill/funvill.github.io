@@ -59,7 +59,7 @@ Before this workshop you should have your Raspberry PI loaded with an OS and hav
 <ul>
 	<li>One Wire Digital Temperature Sensor - <a href="http://www.maximintegrated.com/datasheet/index.mvp/id/2812">DS18B20</a>
 <ul>
-	<li><a href="http://dx.com/p/1-wire-temperature-and-humidity-sensor-142cm-143515">$2.50 at Deal Extream</a></li>
+	<li><a href="http://dx.com/p/1-wire-temperature-and-humidity-sensor-142cm-143515">$2.50 at Deal Extreme</a></li>
 	<li><a href="http://www.adafruit.com/products/381">$10 from AdaFruit</a></li>
 </ul>
 </li>
@@ -80,7 +80,7 @@ Before this workshop you should have your Raspberry PI loaded with an OS and hav
 <ul>
 	<li>Replay breakout board (5V input)
 <ul>
-	<li><a href="http://dx.com/p/4-ch-12v-power-relay-module-red-blue-173827">$7.20 from Deal Extream</a></li>
+	<li><a href="http://dx.com/p/4-ch-12v-power-relay-module-red-blue-173827">$7.20 from Deal Extreme</a></li>
 	<li><a href=" http://www.adafruit.com/products/268">$26 from AdaFruit</a> <strong>(highly suggested) </strong></li>
 </ul>
 </li>
@@ -98,6 +98,6 @@ If you would like to get started early we will be following these tutorials prov
 	<li><a href="http://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing">DS18B20 tempture sensor</a></li>
 	<li><a href="http://learn.adafruit.com/adafruits-raspberry-pi-lesson-12-sensing-movement">PID motion sensor and magnetic door switch</a></li>
 	<li><a href="http://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/connecting-to-google-docs">Using Google docs as a database for sensor data</a></li>
-	<li><a href="http://learn.adafruit.com/send-raspberry-pi-data-to-cosm/necessary-packages">Using Cosm as a database for sensor data</a>, <a href="https://github.com/petervizi/python-eeml">better version of the EEML libary</a>, <a href="http://lxml.de/installation.html">installing lxml</a></li>
+	<li><a href="http://learn.adafruit.com/send-raspberry-pi-data-to-cosm/necessary-packages">Using Cosm as a database for sensor data</a>, <a href="https://github.com/petervizi/python-eeml">better version of the EEML library</a>, <a href="http://lxml.de/installation.html">installing lxml</a></li>
 	<li><a href="http://learn.adafruit.com/adafruits-raspberry-pi-lesson-13-power-control">Relays</a></li>
 </ul>

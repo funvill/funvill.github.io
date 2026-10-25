@@ -1,5 +1,5 @@
 ---
-title: "CakePHP - Disable validation in controler"
+title: "CakePHP - Disable validation in controller"
 date: 2009-12-10 14:52:00
 slug: cakephp-disable-validation-in-controler
 categories:

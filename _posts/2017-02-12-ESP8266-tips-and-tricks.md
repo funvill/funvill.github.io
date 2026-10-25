@@ -21,12 +21,12 @@ This is a list of tips and tricks for the [ESP8266](https://en.wikipedia.org/wik
 Where to look for help and support.
 
 - [ESP Community forums](http://www.esp8266.com/viewforum.php?f=25)
-- [Gitter for ESP8266](https://gitter.im/esp8266/Arduino) - A group chat for the ESP8266 and the Arduino libary. 
+- [Gitter for ESP8266](https://gitter.im/esp8266/Arduino) - A group chat for the ESP8266 and the Arduino library. 
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/esp8266), and [electronics.stackexchange](https://electronics.stackexchange.com/questions/tagged/esp8266) are great for asking questions.
 
 ## Documtation
 
-- [Debugging ESP8266 Arduino](https://github.com/esp8266/Arduino/blob/master/doc/Troubleshooting/debugging.md) - Instruction on how to set up the Arduino IDE to debug the ESP8266 Arduino libary.
+- [Debugging ESP8266 Arduino](https://github.com/esp8266/Arduino/blob/master/doc/Troubleshooting/debugging.md) - Instruction on how to set up the Arduino IDE to debug the ESP8266 Arduino library.
 
 ### Youtube
 
@@ -34,7 +34,7 @@ Where to look for help and support.
 
 ## Libaries
 
-- [ESP8266 Arduino Libary](https://github.com/esp8266/Arduino)
+- [ESP8266 Arduino Library](https://github.com/esp8266/Arduino)
 - [WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with fallback web configuration portal
 - [WIZ Ethernet Library](https://github.com/funvill/WIZ_Ethernet_Library) - A fork of the WIZ_Ethernet_Library that supports Wiznet 550io Ethernet board. (Created by me)
 

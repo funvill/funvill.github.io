@@ -16,7 +16,7 @@ The Raspberry Pi is a credit-card-sized single-board computer developed in the U
 
 A good place to start is the <a href="http://www.raspberrypi.org/wp-content/uploads/2012/04/quick-start-guide-v2_1.pdf">Raspberry PI quick start guide</a> This will describe the different components on the board and what they can be used for.
 
-<strong>Downloading, installing and perparing the Raspberry PI OS</strong>
+<strong>Downloading, installing and preparing the Raspberry PI OS</strong>
 
 The Raspberry PI will run several different specialty prepared versions of Linux that have been compiled specifically for the Raspberry PI. The Raspberry PI team have created a image of several different compatible Raspberry PI Operating systems that can fit on a 4gb SD card. They called this image <em>New Out of Box Software </em>(NOOBS) and it can be <a href="http://www.raspberrypi.org/downloads">downloaded from the Raspberry PI</a> main site. The NOOBS Image makes this whole process a lot easier.
 <ol>

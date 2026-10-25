@@ -36,7 +36,7 @@ Causes of zombie-ness: As everyone knows - or should know - zombies are usually 
 	<li>science gone astray - chemical or biological accidents, experiments, viruses and the like</li>
 	<li>the apocalypse</li>
 </ol>
-Of course, there are many more possibilties. Be creative. Corpses in all stages of decay are encouraged.
+Of course, there are many more possibilities. Be creative. Corpses in all stages of decay are encouraged.
 For the low-budget zombie:
 <ol>
 	<li>Oatmeal and liquid latex works wonders.</li>
@@ -53,5 +53,5 @@ Pass this info on to anyone who might be interested - it has a bit of a 'viral' 
 <strong>When:</strong> Saturday, August 19 - Starts 4pm
 <strong>Who:</strong> Zombie
 
-For more infomation
+For more information
 <a href="http://groups.myspace.com/vanzombiewalk">http://groups.myspace.com/vanzombiewalk</a>

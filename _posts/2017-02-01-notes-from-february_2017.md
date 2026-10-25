@@ -34,8 +34,8 @@ Some of the things that I have found interesting in February 2017.
 
 ## News 
 
-- [Pinboard, Popular links](https://pinboard.in/popular/) - A list of the most populare links on pinboard. 
-- [Pocket, popular links](https://getpocket.com/explore/?src=top_navbar) - The most populare links on Pocket
+- [Pinboard, Popular links](https://pinboard.in/popular/) - A list of the most popular links on pinboard. 
+- [Pocket, popular links](https://getpocket.com/explore/?src=top_navbar) - The most popular links on Pocket
 
 ## Fiction 
 
@@ -44,7 +44,7 @@ Some of the things that I have found interesting in February 2017.
 ## Art 
 
 - [1000 Errors - laser cut art, clothing, prints](https://www.facebook.com/1000ErrorsLaserCutArt/) - an awesome collection of layered laser cut art. 
-- [Random International](https://random-international.com/work/) - Random International is a collaborative studio for experimental practice within contemporary art. Founded in 2005 by Hannes Koch and Florian Ortkrass, the studio now includes a larger team in London and Berlin. Questioning aspects of identity and autonomy in the post-digital age, Random International’s work invites active participation. I liked the [fly](https://random-international.com/work/fly/) exibit. 
+- [Random International](https://random-international.com/work/) - Random International is a collaborative studio for experimental practice within contemporary art. Founded in 2005 by Hannes Koch and Florian Ortkrass, the studio now includes a larger team in London and Berlin. Questioning aspects of identity and autonomy in the post-digital age, Random International’s work invites active participation. I liked the [fly](https://random-international.com/work/fly/) exhibit. 
 
 ### Paper
 
@@ -63,7 +63,7 @@ Some of the things that I have found interesting in February 2017.
 
 ## Information 
 
-- [Product Chart](https://www.productchart.com/) - Quickly compaire many different products in a catagory together. 
+- [Product Chart](https://www.productchart.com/) - Quickly compare many different products in a category together. 
 - [Largest API Directory](https://www.programmableweb.com/category/all/apis) - A directory of existing APIs, and articles on making APIs 
 - [Google's API Guidelines](https://cloud.google.com/apis/design/)
 - [Microsoft's API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
@@ -84,7 +84,7 @@ Some of the things that I have found interesting in February 2017.
 
 - [Mongoose OS](https://mongoose-os.com/) - An open source Operating System for the Internet of Things. Supported microcontrollers: ESP32, ESP8266, STM32, TI CC3200, Amazon AWS IoT integrated
 - [Data Clock (Cloud + Amazon Echo + LED's = Artistic Data!)](https://www.instructables.com/id/Data-Clock-Cloud-Amazon-Echo-LEDs-Artistic-Data/) CNC clock with IoT functions ![Clock](/public/uploads/clock.jpg "Clock") 
-- [Lasercut & 3D printed Platonic Solids](https://www.thingiverse.com/thing:1862570) - Strictly Platonic. The verticies work for any lasercut tile that has the hole 15mm from the edge. M3 screws should self-tap nicely into the plastic. (I used ordinary PLA and had no problem). ![Strictly Platonic](/public/uploads/StrictlyPlatonic.jpg "Strictly Platonic") 
+- [Lasercut & 3D printed Platonic Solids](https://www.thingiverse.com/thing:1862570) - Strictly Platonic. The vertices work for any lasercut tile that has the hole 15mm from the edge. M3 screws should self-tap nicely into the plastic. (I used ordinary PLA and had no problem). ![Strictly Platonic](/public/uploads/StrictlyPlatonic.jpg "Strictly Platonic") 
 - [3D paradox wall art puzzle](https://imgur.com/gallery/W3KRB) - Made from cardboard. ![3D paradox](/public/uploads/KsD4FNC.jpg "[3D paradox")
 - [SPACE10 open sources The Growroom](https://medium.com/space10-the-farm/space10-open-sources-the-growroom-aa7ca6621715#.x009s42fn) - CNC designs for creating a grow room ![growroom](/public/uploads/1-QN5_BJRFEHKJF8jMTF9qwA.jpeg "growroom")
 

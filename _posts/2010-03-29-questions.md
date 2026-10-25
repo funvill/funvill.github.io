@@ -15,7 +15,7 @@ This is a favorite drinking game, although it&quot;s often difficult to find peo
 <ul>
 	<li>Obviously, the infraction of any rule is punishable by drink.</li>
 	<li>You can only ask one person one question at a time.</li>
-	<li>The person who asks the question must address the person querried by name; no pointing (newcomers to a crowd are allowed some leeway until they learn names).</li>
+	<li>The person who asks the question must address the person queried by name; no pointing (newcomers to a crowd are allowed some leeway until they learn names).</li>
 	<li>The questions must be answerable with "
 yes" or "
 no", (This rule is optional, but be certain beforehand if it will be observed.)</li>

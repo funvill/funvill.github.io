@@ -11,8 +11,8 @@ tags:
   - c
 excerpt: "A small Windows C++ sample that calls SHGetKnownFolderPath to find the right per-user spots for app data and logs under UAC."
 ---
-This application will print the special folders that you should be storing your applcations data in.
-UAC on Windows Vista/7 will no longer alowe you to write to files in the "C:\Program Files\" with out elevation to administrator. Instead you should be writting your settings file to the "LocalAppData" folder and your output and log file to "Documents" folder.
+This application will print the special folders that you should be storing your applications data in.
+UAC on Windows Vista/7 will no longer alowe you to write to files in the "C:\Program Files\" with out elevation to administrator. Instead you should be writing your settings file to the "LocalAppData" folder and your output and log file to "Documents" folder.
 
 <strong>More information on UAC</strong>
 <ul>

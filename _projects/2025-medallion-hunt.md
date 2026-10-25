@@ -140,7 +140,7 @@ To keep the story cohesive, every five chapters included a **main storyline even
 >
 > “Find the next one,” he called. “It’s waiting. Just like I was.”
 >
-> Then he vanished into the leaves, leaving you beside a quiet bronze medallion, a rippling sky memory, and a secret you could no longer unknow.
+> Then he vanished into the leaves, leaving you beside a quiet bronze medallion, a rippling sky memory, and a secret you could no longer unknown.
 >
 
 ## Technical Details

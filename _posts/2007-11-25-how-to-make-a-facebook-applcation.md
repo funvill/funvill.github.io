@@ -1,5 +1,5 @@
 ---
-title: "How to make a facebook applcation."
+title: "How to make a facebook application."
 date: 2007-11-25 18:02:00
 slug: how-to-make-a-facebook-applcation
 categories:
@@ -23,7 +23,7 @@ We are going to build a simple <a href="http://www.facebook.com/">facebook</a> a
 <ol>
 	<li>Add the developers application to your facebook account.
 Goto: <a href="http://www.facebook.com/developers/">http://www.facebook.com/developers/</a> and add the developers application to your account.
-<img src="/public/uploads/2007/11/adddevlopers.png" />After you sugsefuly add the devlopers application you should see the devlopers icon on the left sidebar.
+<img src="/public/uploads/2007/11/adddevlopers.png" />After you sugsefuly add the developers application you should see the developers icon on the left sidebar.
 <img src="/public/uploads/2007/11/adddevlopers2.png" /></li>
 	<li>Create a new application
 Goto: <a href="http://www.facebook.com/developers/editapp.php?new">http://www.facebook.com/developers/editapp.php?new</a>
@@ -57,9 +57,9 @@ Extract it to a folder on your local computer.</li>
 <ol>
 	<li>Download and edit Step1.php with your faviorite php editor. (I suggest and use <a href="http://notepad-plus.sourceforge.net/uk/site.htm">notepad++</a>)<code></code>// Include the Facebook php API
 // The API can be downloaded from facebook's website. http://developers.facebook.com/resources.php
-require_once 'facebook.php';// These are settings that are given to you when you register your applcation.
+require_once 'facebook.php';// These are settings that are given to you when you register your application.
 // ToDo: Change these setting to match the ones found on your
-//		 My Applcation page http://www.facebook.com/developers/apps.php
+//		 My Application page http://www.facebook.com/developers/apps.php
 $appapikey = '[your api_key]';
 $appsecret = '[your secret]';
 
@@ -67,7 +67,7 @@ $appsecret = '[your secret]';
 $facebook = new Facebook($appapikey, $appsecret);
 
 // attempt to log in to facebook
-// We will attemp to log in as the current user,
+// We will attempt to log in as the current user,
 $user = $facebook-&gt;require_login();
 
 // The call back url for all internal links on this page.

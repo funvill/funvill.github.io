@@ -23,6 +23,6 @@ These maps took about 2 hrs each to cut and look amazing. This is a map of all t
 
 The problems with these maps is that I only used 1/16th inch wood. The wood bowed and twisted significantly. To flatten it out, I had to soak the map in water for an hour then stack books on top of it. Next time I think i will use thicker wood 1/8th or 1/4th
 
-The maps are also very busy, with lots of lines. The next time I do this I will make a map with less lines. maybe just the parks or the bike lanes, ect..
+The maps are also very busy, with lots of lines. The next time I do this I will make a map with less lines. maybe just the parks or the bike lanes, etc..
 
 Source files in GitHub: <a href="https://github.com/funvill/VancouverOpenData">/funvill/VancouverOpenData</a>

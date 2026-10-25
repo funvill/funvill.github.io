@@ -22,7 +22,7 @@ Below is the hardware and parts that I am using this project.
 
 ### 6 mm semi-transparent white acrylic 
 
-6 mm is the most common and cheapest thickness of acrylic that is available. This acrylic is 60% transparent creating a good difusion pattern to scatter the LED light. I also have a bunch of it that I salvaged from a dumpster behind a sign shop. 
+6 mm is the most common and cheapest thickness of acrylic that is available. This acrylic is 60% transparent creating a good diffusion pattern to scatter the LED light. I also have a bunch of it that I salvaged from a dumpster behind a sign shop. 
 
 ### Square 12mm WS2812B RGB LEDS (NeoPixels) 
 
@@ -43,4 +43,4 @@ I am using the [ESP826 arduino core library](https://github.com/esp8266/Arduino)
 
 ### 5 volt 5 amp AC to DC power supply 
 
-Each LED at full brightness consumes 60 mA, normally running at 20 mA. Each panel has between 30-45 LEDs. With a total of 7 panels. I needed around 6 Amps power supply but Power supplies larger than 5 Amps is expensive. I programed the LEDs to be 20% darker than their max, to reduce the power requirement to be less than 5 Amp so I could use this cheaper power supply. 
+Each LED at full brightness consumes 60 mA, normally running at 20 mA. Each panel has between 30-45 LEDs. With a total of 7 panels. I needed around 6 Amps power supply but Power supplies larger than 5 Amps is expensive. I programmed the LEDs to be 20% darker than their max, to reduce the power requirement to be less than 5 Amp so I could use this cheaper power supply. 

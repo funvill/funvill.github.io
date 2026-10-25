@@ -27,7 +27,7 @@ There is something about seeing the real thing, something magical, seeing someth
 
 I don't know what copyright is on artwork after the artist has dies. Does it work in the same way as written works or media?
 
-I know most of the great works have been throughly scanned already. I wonder if the files are available. If not we can provide the service for free for museum in exchange for access. You could even ask for the general public to do photogramatry to make the 3d models Most of the effort here is collecting a large enough database of artwork that can be reproduced. I like this idea because it is "good" for humanity unlike most of my ideas. Having more access to the great artwork will inspire a whole generation of new creatives.
+I know most of the great works have been thoroughly scanned already. I wonder if the files are available. If not we can provide the service for free for museum in exchange for access. You could even ask for the general public to do photogramatry to make the 3d models Most of the effort here is collecting a large enough database of artwork that can be reproduced. I like this idea because it is "good" for humanity unlike most of my ideas. Having more access to the great artwork will inspire a whole generation of new creatives.
 
 ## Prior art
 

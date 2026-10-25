@@ -10,7 +10,7 @@ tags:
 excerpt: "Notes on fixing the msvcrt.dll _except_handler4_common error caused by a Vista DLL landing on Windows XP."
 ---
 <blockquote>The procedure entry point_except_handler4_common could not be located in the dynamic link library msvcrt.dll</blockquote>
-This error is caused by a 3rd party utility or applcation overwriting your msvcrt.dll with a different version.
+This error is caused by a 3rd party utility or application overwriting your msvcrt.dll with a different version.
 
 For example if a windows vista version of this DLL was copied on to a windows XP computer you would probably get this error.
 

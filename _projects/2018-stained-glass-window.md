@@ -27,7 +27,7 @@ The lights of each window has been custom-programmed by an ever-evolving algorit
 * [Tech Demo](/techdemo-stained-glass-windows-project/)
 * [Designing panels](/designing-panels-stained-glass-windows-project/)
 * [Hardware](/hardware-stained-glass-windows-project/)
-* [Programing patterns](/programing-stained-glass-windows-project/)
+* [Programming patterns](/programing-stained-glass-windows-project/)
 * [Wood frames](/wood-frames-stained-glass-windows-project/)
 * [Costs](/costs-stained-glass-windows-project/)
 * [Panels](/panels-stained-glass-windows-project/)

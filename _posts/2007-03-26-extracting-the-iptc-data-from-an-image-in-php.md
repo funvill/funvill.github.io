@@ -17,11 +17,11 @@ While creating the <a href="http://www.abluestar.com/utilities/ephpg_iptc/">IPTC
 
 <strong>What is IPTC?</strong>
 
-IPTC stands for <a href="http://www.iptc.org/">International Press Telecommunications Council</a> and is a defined set of medadata mainly used in news organizations for copyright proposes.
+IPTC stands for <a href="http://www.iptc.org/">International Press Telecommunications Council</a> and is a defined set of metadata mainly used in news organizations for copyright proposes.
 
 Basically its a standard set of attributes for an image.
 
-Some of the attributes that are included in this standard are; datesent, timesent, objectname, editstatus, urgency, category, subcategory, fixture, keyword, reldate, reltime, specinstr, credate, cretime, orgprg, prgver, byline, bytitle, city, sublocation, state, countrycode, countryname, orgtransref, <strong>headline</strong>, credit, <strong>source</strong>, copyright, contact, <strong>caption</strong>, captionwriter, imagetype, orientation, language, subfile, appreserve. for a full list see the <a href="http://www.iptc.org/IPTC7901/">REF document on IPTC.</a>
+Some of the attributes that are included in this standard are; datesent, timesent, objectname, editstatus, urgency, category, subcategory, fixture, keyword, reldate, reltime, specinstr, created, cretime, orgprg, prgver, byline, bytitle, city, sublocation, state, countrycode, countryname, orgtransref, <strong>headline</strong>, credit, <strong>source</strong>, copyright, contact, <strong>caption</strong>, captionwriter, imagetype, orientation, language, subfile, appreserve. for a full list see the <a href="http://www.iptc.org/IPTC7901/">REF document on IPTC.</a>
 
 <strong>How to I extract IPTC information from an image?</strong>
 

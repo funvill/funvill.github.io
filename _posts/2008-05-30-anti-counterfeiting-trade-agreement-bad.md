@@ -22,7 +22,7 @@ The agreement proposes any content that may have been copied from a DVD or digit
 Its being structured like a trade agreement so it won&quot;t have to be put in front of Parliament.
 What this means is that when you cross the board the boarder guards will have the right to inspect your electronic equipment for IP such as MP3s, DVDs, home movies.
 
-If you data is encrypted (like most of mine) they have the right to ask for the password to your data. If you refuse then you will not be allowed in the country. Just imagine if you are trying to catch a flight, you have 30 mins to get there but they have to make a copy of all your data, inspect if for IP infringements ect.
+If you data is encrypted (like most of mine) they have the right to ask for the password to your data. If you refuse then you will not be allowed in the country. Just imagine if you are trying to catch a flight, you have 30 mins to get there but they have to make a copy of all your data, inspect if for IP infringements etc.
 
 Most of my music is rips of Legitimate CDs that I own, PODcasts, and Creative Commons music.
 How is a boarder guard suppose to identify what I have rightly purchased and what I haven&quot;t?

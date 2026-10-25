@@ -19,7 +19,7 @@ After reading about projects like <a href="http://www.csse.monash.edu.au/%7Ejonm
 Each creature has a few attributes,
 <ul>
 	<li>ID - A unique identifier for every creature</li>
-	<li>Sex - Male or female of the species males can only mate with other females, ect.</li>
+	<li>Sex - Male or female of the species males can only mate with other females, etc.</li>
 	<li>Age - Depending on there genetic material each creature will have a different max age, once this age is reached the creature dies. if the creature does not mate before that then they do not pass on there genetic history.</li>
 	<li>Energy level - If the creature does not regularly eat it will die off, it can eat the fool found around the land or the dead bodies of the other creatures,</li>
 	<li>X - Where it is located on the map in the X plane</li>

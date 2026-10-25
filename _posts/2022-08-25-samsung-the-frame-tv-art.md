@@ -15,7 +15,7 @@ I created a [Gallery](/ArtSamsungTheFrameTV/) of AI/ML generated artwork for the
 
 Samsung 'The Frame' TV requires a very specific resolution of 3840×2160 for custom artwork that you load onto the TV. If the resolution of the image is off by single pixel, even if the ratio (16:9), it will put a 'mat border' around the artwork. I find that the mat border less appealing.
 
-I was having a problem finding artwork that fit this specifc 16:9 ratio but with the help of [Mid Journey](https://www.midjourney.com/) I was able to generate a series of photos with the specific resolution for the TV.
+I was having a problem finding artwork that fit this specific 16:9 ratio but with the help of [Mid Journey](https://www.midjourney.com/) I was able to generate a series of photos with the specific resolution for the TV.
 
 I created this project primarily to learn [NuxtJS framework](https://nuxtjs.org/), and [VueJS](https://vuejs.org/) and to share the images I created using [Mid Journey](https://www.midjourney.com/) for the [Samsung 'The Frame' TV](https://www.samsung.com/ca/lifestyle-tvs/the-frame/).
 

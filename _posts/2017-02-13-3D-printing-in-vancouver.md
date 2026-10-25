@@ -30,7 +30,7 @@ A 3D printing services is useful, If you are looking for a local 3D printing ser
 
 ## Buying a 3D printer
 
-The 3D printing industry is rapidly changing with new technologies and 3D printers being released everyday. Its hard to recommend a single company or printer because of how fast things are changing. I have found this from guide from 3DHubs on [what 3D printer to buy](https://www.3dhubs.com/best-3d-printer-guide) to be one of the best resources for selecting a printer. Their [3D printer index](https://www.3dhubs.com/3d-printers) is updated constantly based on the feedback from the 3DHubs comunity.
+The 3D printing industry is rapidly changing with new technologies and 3D printers being released everyday. Its hard to recommend a single company or printer because of how fast things are changing. I have found this from guide from 3DHubs on [what 3D printer to buy](https://www.3dhubs.com/best-3d-printer-guide) to be one of the best resources for selecting a printer. Their [3D printer index](https://www.3dhubs.com/3d-printers) is updated constantly based on the feedback from the 3DHubs community.
 
 I personally use a [Wanhao Duplicator i3](https://www.3dhubs.com/3d-printers/wanhao-duplicator-i3). Its a cheap, workhorse of a printer that has served me for ~1200 hours without too much problems. I also can highly recommend the [Ultimaker 2+](https://www.3dhubs.com/3d-printers/ultimaker-2-plus) and [Tinkerine Ditto Pro](http://store-ca.tinkerine.com/products/ditto-pro). They cost more, but they are as close as plug in play as you can get. 
 

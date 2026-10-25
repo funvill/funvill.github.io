@@ -26,7 +26,7 @@ http://funvill.tumblr.com/
 +1 point for tumblr.com
 
 <strong>Who owns your data</strong>
-I am very paranoid about losing my data or a free service that becomes pay and holds my data ransom. These are things that wake me up in the middle of the night in a cold sweat. Lucky both of these sites allow for offsite backups and YOU OWN your own data. They also let you use your own domain just incase your mini blog ever becomes super popular and you want to switch services.
+I am very paranoid about losing my data or a free service that becomes pay and holds my data ransom. These are things that wake me up in the middle of the night in a cold sweat. Lucky both of these sites allow for offsite backups and YOU OWN your own data. They also let you use your own domain just in case your mini blog ever becomes super popular and you want to switch services.
 +3 points for twitter.com
 +3 points for tumblr.com
 

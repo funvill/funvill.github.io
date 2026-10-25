@@ -22,4 +22,4 @@ These things normally would go for around $4 each.
 <strong>Who:</strong> <a href="http://www.starbucks.ca/en-ca/">Starbucks</a>
 <strong>What:</strong> 1 Free Grande Iced Cap pre day
 <strong>Where:</strong> Any lower mainland Starbucks [<a href="http://www.starbucks.ca/en-ca/">Find a local Starbucks</a>]
-<strong>When:</strong> Untill September 30th, 2006!
+<strong>When:</strong> Until September 30th, 2006!
