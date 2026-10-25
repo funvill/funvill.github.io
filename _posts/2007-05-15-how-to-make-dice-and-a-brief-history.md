@@ -9,7 +9,7 @@ tags:
   - tutorial
   - ideas
   - journal
-excerpt: "A short history of dice from divining sticks to teetotums, plus printable origami paper dice for when yours go missing."
+excerpt: "A short history of dice from divining sticks and the tombs of Ur to teetotums and medieval dice boards."
 ---
 <img src="/public/uploads/2007/05/dice.thumbnail.jpg" alt="dice.jpg" align="right" />Die (plural, Dice)  - A die is usually a small six sided cube, made of bone, ivory, or most commonly plastic, that is marked with one to six dotes on each of its faces. The cubed dice have the advantage of being balanced in such a way that any side should have an equal chance up landing face up.
 

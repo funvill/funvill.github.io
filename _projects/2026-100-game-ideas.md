@@ -7,7 +7,7 @@ categories:
 tags:
   - ideas
   - game-idea
-excerpt: "Come up with one hundred game ideas"
+excerpt: "A daily game idea written to a group-chosen theme, collected as a list of 100 pitches."
 header:
   teaser: /uploads/2026/smallwords.png
 toc: false

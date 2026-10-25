@@ -7,7 +7,7 @@ categories:
 tags:
   - code
   - journal
-excerpt: "A code-review WTF: a sleep loop written as for(int i=0; i<PAUSE_LENGTH; i++) { i++; }."
+excerpt: "A code-review WTF: a sleep loop that increments its counter twice per pass."
 ---
 I found this today while doing code review.
 

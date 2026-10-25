@@ -9,7 +9,7 @@ tags:
   - jewelry
   - canada
   - photo
-excerpt: "A writeup of Crokinole, the 1876 Ontario tabletop flicking game, with rules and a note about the 2007 world championship."
+excerpt: "Crokinole, the tabletop flicking game from Ontario in 1876, with its history and the 2007 world championship in Tavistock."
 ---
 <a href="http://flickr.com/photos/jwagner/41019485/"><img src="/public/uploads/2007/05/Crokinole_small.jpg" alt="Crokinole_small.jpg" title="Crokinole_small.jpg" align="right" border="0" height="150" width="200" /></a>Crokinole (pronounced croak-i-knoll, <span title="Pronunciation in IPA" class="IPA">/ËˆkÉ¹okÉªinol/</span>) is one of the most memorable childhood games that I use to play with my family. Its basically miniature table top curling board but fun (unlike real curling).
 

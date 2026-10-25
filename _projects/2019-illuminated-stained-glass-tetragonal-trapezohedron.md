@@ -15,7 +15,7 @@ tags:
   - art
   - maker-faire
   - vancouver
-excerpt: "Illuminated Stained Glass Tetragonal Trapezohedron sculpture"
+excerpt: "An LED-lit stained glass tetragonal trapezohedron sculpture with 28 patterns and a phone app, made for Vancouver Maker Faire 2019."
 header:
   teaser: /uploads/tetragonalTrapezohedron.png
 ---

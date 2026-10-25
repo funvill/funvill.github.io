@@ -12,7 +12,7 @@ tags:
   - journal
   - photo
   - ideas
-excerpt: "Visted every Vancouver city park during COVID-19 for a selfie"
+excerpt: "Visited every Vancouver city park during COVID-19 and took a selfie at each one."
 header:
   teaser: /uploads/2020/2020-parks-teaser.png
 ---

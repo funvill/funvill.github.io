@@ -9,8 +9,6 @@ tags:
   - kicad
   - code
   - ai
-  - machine-learning
-  - electronics
   - ideas
 excerpt: "A Magic 8 Ball with a tiny LLM living inside it, writing your fortune from scratch"
 header:

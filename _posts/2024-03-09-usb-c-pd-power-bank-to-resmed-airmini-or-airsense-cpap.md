@@ -9,7 +9,7 @@ tags:
   - tutorial
   - review
   - ideas
-excerpt: "Is it cheaper to build your own solution to portable CPAP battery, or buy something off the shelf?"
+excerpt: "A roughly $150 DIY battery for a Resmed CPAP built from a USB-C PD power bank, a trigger cable and a 24V boost converter."
 ---
 This is a classic "DIY or Buy" Maker problem
 

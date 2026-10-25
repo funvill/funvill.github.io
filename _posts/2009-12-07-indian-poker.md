@@ -8,7 +8,7 @@ tags:
   - recipe
   - ideas
   - tutorial
-excerpt: "A drinking card game where you lick a card to your forehead and bet drinks on whether yours is higher than everyone elses."
+excerpt: "Rules for Indian Poker, a drinking card game where you stick a card to your forehead and bet drinks that yours is the highest."
 ---
 Indian Poker is a drinking, card game.
 I just played this game for the first time this weekend.  It was very simple to learn and really good after a few beers.  It's a pretty silly game and if you are in the right mood it can really make you laugh.

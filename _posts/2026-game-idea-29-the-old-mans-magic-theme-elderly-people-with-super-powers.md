@@ -8,7 +8,7 @@ tags:
   - game-idea
   - story
   - fantasy
-excerpt: "The last magic user in the world has lived too long. A hero's journey to defeat him and release magic back into the world"
+excerpt: "A game idea about the last magic user, an immortal who absorbed everyone's powers, and the boy who sets out to defeat him and release magic back into the world."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

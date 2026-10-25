@@ -8,7 +8,7 @@ tags:
   - web
   - bookmark
   - journal
-excerpt: "Joining a Technorati favourites cross-linking experiment, with the rules and the running list of blogs to fave."
+excerpt: "Joining a Technorati favourites cross-linking experiment, with the rules for faving each other's blogs."
 ---
 <img src="/public/uploads/2007/06/technoratiicon.gif" alt="technoratiicon.gif" align="right" />Technorati is becoming one of the biggest players in blogging. Its a great tool for ranking one site against anther and its also a search engine of content. Before I make a post I do a quick search on Technorati and see who else has written about it. After I make a post I search Technorati for other blogs that might benefit from my content and posts comments on there blogs.
 

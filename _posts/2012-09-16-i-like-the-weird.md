@@ -8,7 +8,7 @@ tags:
   - video
   - bookmark
   - art
-excerpt: "Two Burning Man videos I keep coming back to, Hula Cam 2012 and Home from 2011."
+excerpt: "Two Burning Man videos worth rewatching, Hula Cam 2012 and Home from 2011."
 ---
 Games
 

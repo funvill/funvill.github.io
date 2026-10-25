@@ -8,7 +8,7 @@ tags:
   - game-idea
   - web-game
   - party-game
-excerpt: "Can you describe complexity with simple words?"
+excerpt: "A web game where you describe a complex object like a dam using only the most common words, in the style of Up Goer Five."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

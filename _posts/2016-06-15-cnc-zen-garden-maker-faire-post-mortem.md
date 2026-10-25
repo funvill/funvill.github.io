@@ -15,7 +15,7 @@ tags:
   - maker-faire
   - vancouver
   - photo
-excerpt: "Post mortem of the CNC zen garden at Vancouver Mini Maker Faire 2016: shorts, skipped steps, and fixes that worked."
+excerpt: "Post mortem of the CNC zen garden at Vancouver Mini Maker Faire 2016: a RAMPS short, skipped steps, and the fixes that worked."
 ---
 This is a post mortem of the version of the cnc zen garden that I took to the [Vancouver Mini Maker Faire 2016](http://makerfaire.ca/). 
 

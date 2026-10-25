@@ -10,7 +10,7 @@ tags:
   - led
   - code
   - art
-excerpt: "Laser cut silhouette of branches in a tree, illuminated with color changing LEDs"
+excerpt: "A laser-cut silhouette of tree branches lit from behind by color-changing LEDs."
 header:
   teaser: /uploads/teaser_2016_branchy_light_box.png
 ---

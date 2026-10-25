@@ -12,7 +12,7 @@ tags:
   - web
   - php
   - security
-excerpt: "Why I rebuilt blog.abluestar.com on a fresh Jekyll theme, plus a 20-year history of my CMS choices from plain HTML to static sites."
+excerpt: "Why blog.abluestar.com moved to a fresh Jekyll theme, plus a 20-year history of CMS choices from plain HTML to static sites."
 ---
 ## What is Jekyll
 

@@ -8,7 +8,7 @@ tags:
   - game-idea
   - story
   - puzzle
-excerpt: "A dialog driven potion maker game. Listen to customer stories and make judgment calls from incomplete information"
+excerpt: "A game idea for a dialog-driven potion shop where an apprentice wizard serves customers and makes judgment calls from incomplete recipe information."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

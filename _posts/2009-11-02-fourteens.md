@@ -7,7 +7,7 @@ categories:
 tags:
   - ideas
   - tutorial
-excerpt: "Rules for Fourteens, a ten-dice tavern banking game from the 1930s Midwest paying eight-to-one on fourteen hits of the point."
+excerpt: "Rules for Fourteens, a ten-dice tavern banking game from the 1930s Midwest paying 8-to-1 on fourteen hits of the point."
 ---
 Fourteens is a dice game.
 This is a banking game that was popular in the Midwest of the USA between the 1930's and 1950's.  It was often played in taverns which would make payoffs in drinks until anti-gambling legislation killed off the game to a great extent.  An operator will often provide a score sheet which states the rules and payoffs made on bets.  Of course the odds are always in the operators favor.

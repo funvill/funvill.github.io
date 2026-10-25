@@ -8,7 +8,7 @@ tags:
   - web
   - tutorial
   - review
-excerpt: "Notes on picking a web host by disk space, uptime, and company age, with a comparison of GoDaddy, Dreamhost, and friends."
+excerpt: "How to pick a web host by disk space and transfer, reliability, and the company behind it."
 ---
 I am often asked who is the best web host?, what web host do you use? and what makes a good web host good?
 

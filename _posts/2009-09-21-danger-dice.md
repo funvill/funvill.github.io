@@ -9,7 +9,7 @@ tags:
   - ideas
   - recipe
   - tutorial
-excerpt: "A drinking game where six numbered pint glasses get filled and downed based on what comes up on a single die."
+excerpt: "Rules for Danger Dice, a drinking game where six numbered pint glasses get filled and downed based on one die."
 ---
 Danger Dice is a Drinking game
 

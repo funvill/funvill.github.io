@@ -9,7 +9,7 @@ tags:
   - birds
   - photo
   - web-game
-excerpt: "Make a game out of the frustrations of using a telephoto lens while trying to photograph small song birds"
+excerpt: "A Duck Hunt style browser game about the frustration of photographing small songbirds through a telephoto lens."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

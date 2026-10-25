@@ -8,7 +8,7 @@ tags:
   - game-idea
   - board-game
   - party-game
-excerpt: "'Guess who' of monsters"
+excerpt: "A game idea for a Guess Who-style party game played with a field guide of 100 cryptids and urban legend monsters."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

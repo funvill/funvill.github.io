@@ -8,7 +8,7 @@ tags:
   - game-idea
   - simulation
   - flowers
-excerpt: "Sell flowers to townsfolk who love you, while harvesting the flowers from the town, making the town more gloomy, making more demand for your flowers. (AKA cute drug dealer with flowers)"
+excerpt: "Sell flowers to townsfolk who love you, while harvesting the flowers from the town, making the town gloomier and the demand higher."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

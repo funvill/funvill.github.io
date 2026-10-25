@@ -14,7 +14,7 @@ tags:
   - tutorial
   - video
   - ideas
-excerpt: "Generating bird images from Mid Journey"
+excerpt: "A daily Midjourney-generated bird image posted to social media, with the top voted birds collected into a printed book."
 header:
   teaser: /uploads/flockingai/banner.png
 toc: true

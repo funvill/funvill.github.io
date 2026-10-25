@@ -10,7 +10,7 @@ tags:
   - ws2812
   - code
   - art
-excerpt: "An interactive lamp that mimics thunderstorm cloud."
+excerpt: "A 60 cm pillow-fluff cloud lamp with LEDs and sensors that flashes its own lightning storm, made for the Luminescence II art show."
 header:
   teaser: /uploads/teaser_2017_ThunderstormCloud.png
 ---

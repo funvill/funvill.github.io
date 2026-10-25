@@ -7,7 +7,7 @@ categories:
 tags:
   - game-idea
   - party-game
-excerpt: "Mini game based around who gets to choose the radio station on a road trip"
+excerpt: "A Jackbox style mini game collection about who gets to pick the radio station on a road trip."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

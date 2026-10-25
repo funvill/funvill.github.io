@@ -8,7 +8,7 @@ tags:
   - recipe
   - ideas
   - tutorial
-excerpt: "A drinking game where each player fills an ice cube tray with beer and races to suck every slot dry through a straw."
+excerpt: "Rules for Ice Cube Raft Race, a drinking game where each player fills an ice cube tray with beer and sucks every slot dry through a straw."
 ---
 Ice Cube Raft Race is a drinking game.
 

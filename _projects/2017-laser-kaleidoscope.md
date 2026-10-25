@@ -10,7 +10,7 @@ tags:
   - art
   - vancouver
   - video
-excerpt: "Moving lasers which generate twisting fractal shapes"
+excerpt: "A circular light box with 16 servo-mounted laser diodes that sweep out twisting fractal patterns."
 header:
   teaser: /uploads/teaser_2017_LaserKaleidoscope.png
 ---

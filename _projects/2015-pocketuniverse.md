@@ -8,7 +8,7 @@ tags:
   - plastic
   - led
   - video
-excerpt: "Mirrored dome"
+excerpt: "Plans for a 10 foot wooden icosahedron dome lined with mirrored Mylar and WS2811 LEDs, with a button and slider controller inside."
 header:
   teaser: /uploads/teaser_2015_pocket_universe.png
 ---

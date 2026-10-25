@@ -15,7 +15,7 @@ tags:
   - canada
   - tutorial
   - journal
-excerpt: "A deck of playing cards featuring photos of birds from around Vancouver"
+excerpt: "A deck of playing cards with photos of birds taken around Vancouver."
 header:
   teaser: /uploads/2021/2021-bird-playing-cards-teaser.png
 toc: true

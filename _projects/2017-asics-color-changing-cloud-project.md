@@ -9,7 +9,7 @@ tags:
   - led
   - code
   - fabric
-excerpt: "A series of color changing clouds for Asics New York popup shop."
+excerpt: "Color-changing fluffy clouds hung over the crowd at the Asics New York pop-up shop in August 2017, built with HFour Studios."
 header:
   teaser: /uploads/teaser_2017_asics_color_changing_cloud.png
 ---

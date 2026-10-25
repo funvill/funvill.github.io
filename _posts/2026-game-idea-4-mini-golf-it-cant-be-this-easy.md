@@ -7,7 +7,7 @@ categories:
 tags:
   - game-idea
   - puzzle
-excerpt: "A puzzle mini golf game, where every round is a hole-in-one"
+excerpt: "A game idea for a puzzle mini golf game where every hole must be a hole-in-one, guided by ghost lines of every other player's shots."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

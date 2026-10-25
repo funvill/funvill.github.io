@@ -9,7 +9,7 @@ tags:
   - tutorial
   - web
   - bookmark
-excerpt: "Isnoop.net plots UPS, FedEx, USPS, and DHL package progress on Google Maps and spits out an RSS feed of pickups and deliveries."
+excerpt: "Isnoop.net plots UPS, FedEx, USPS, and DHL package progress on Google Maps and generates an RSS feed of pickups and deliveries."
 ---
 <a href="/public/uploads/2007/03/tracking.png" title="Google maps tracking"><img src="/public/uploads/2007/03/tracking.png" alt="Google maps tracking" align="right" /></a><a href="http://www.isnoop.net/">Isnoop.net</a> has created a package tracking tool that will map your UPS, FedEx, USPS, or DHL/Airborne package's progress with Google Maps.
 

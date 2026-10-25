@@ -10,7 +10,7 @@ tags:
   - led
   - paper
   - ideas
-excerpt: "Plan for hanging origami-style plastic hearts with internal LEDs from a tree in Mount Pleasant. Never built."
+excerpt: "A plan to hang 20 to 50 origami-style plastic hearts with internal LEDs from a tree in Mount Pleasant. It was never built."
 header:
   teaser: /uploads/teaser_2016_heart_of_mount_pleasant.png
 ---

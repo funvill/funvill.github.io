@@ -10,7 +10,7 @@ tags:
   - code
   - photo
   - video
-excerpt: "A Wooden icosahedron with LEDs used for festivals as a marker"
+excerpt: "A laser-cut wooden icosahedron with flower of life panels and NeoPixel LEDs, carried as a marker to find me in festival crowds."
 header:
   teaser: /uploads/teaser_2016_ball_of_life.png
 ---

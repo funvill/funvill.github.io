@@ -8,7 +8,7 @@ tags:
   - security
   - web
   - journal
-excerpt: "Notes on why RPXnow users see scary Windows Live ID sign-out warnings, with the support thread that explains the gap."
+excerpt: "Why RPXnow users see scary Windows Live ID sign-out errors, with a link to the Google Groups support thread that explains it."
 ---
 <strong>The problem </strong>
 

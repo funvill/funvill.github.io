@@ -10,7 +10,7 @@ tags:
   - wood
   - ideas
   - tutorial
-excerpt: "Notes on Crokinole, the Ontario-born tabletop flicking game, with a bit of its 1876 history and the basic rules."
+excerpt: "Crokinole, the Ontario-born tabletop flicking game: its 1876 history and the basic rules."
 ---
 Crokinole (pronounced croak-i-knoll, /ËˆkÉ¹okÉªinol/) is one of the most memorable childhood games that I use to play with my family.  Its basically miniature table top curling board but fun, (unlike real curling).
 There are Crokinole clubs and tournaments in many major cities that meet regularly, and tons of books, even movies, on the subject; but its still not a widely known game.  Most people I talk to have never heard of it or seen anyone play it before.

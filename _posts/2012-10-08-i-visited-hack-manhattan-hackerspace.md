@@ -10,7 +10,7 @@ tags:
   - robots
   - maker-faire
   - metal
-excerpt: "Visiting HACK Manhattan on an OLLO robot workshop night, with a brass lock build on the lathe in progress."
+excerpt: "A visit to HACK Manhattan on an OLLO robot workshop night, with a brass lock being made on the lathe."
 ---
 While I was in New York to see <a href="http://makerfaire.com/newyork/2012/">World Maker Faire</a>, I got a chance to visit <a href="http://hackmanhattan.com/">HACK Manhattan</a>.
 

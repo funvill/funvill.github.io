@@ -11,7 +11,7 @@ tags:
   - canada
   - tutorial
   - journal
-excerpt: "What I put in my Vancouver earthquake kit for under $30, parts list, and the personal items I tell people to add themselves."
+excerpt: "A Vancouver earthquake kit built for under $30, with a parts list and the personal items to add yourself."
 ---
 I live in [Vancouver, BC](https://en.wikipedia.org/wiki/Vancouver), a city near the edge of two of these [tectonic plates](https://en.wikipedia.org/wiki/Plate_tectonics): the massive North American plate, and the smaller Juan de Fuca plate. There is a good chance that me, and my loved ones are going to live though a large earthquake in my lifetime.
 

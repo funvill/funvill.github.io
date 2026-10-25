@@ -9,7 +9,7 @@ tags:
   - painting
   - vancouver
   - hackspace
-excerpt: "Cutting spray paint stencils on the VHS laser cutter in 15 minutes instead of 2-3 hours by hand, including Cthulhu and Hypnotoad."
+excerpt: "Spray paint stencils cut on the VHS laser cutter in 15 minutes instead of 2-3 hours by hand, including Cthulhu and Hypnotoad."
 ---
 I have been using laser cutter at the <a href="https://vancouver.hackspace.ca/">Vancouver hackspace</a> to make spray paint stencils. I use to cut these stencils by hand and it would take anywhere from 2-3 hours each. Now it takes 15mins with the laser cutter.
 

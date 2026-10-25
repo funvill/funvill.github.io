@@ -9,7 +9,7 @@ tags:
   - art
   - photo
   - video
-excerpt: "Short movie about the feelings of a puppet"
+excerpt: "A 48-hour horror comedy short film about the feelings of a puppet, shot in October 2020 for the MyRodeReel contest."
 header:
   teaser: /uploads/2020/2020-tender-threads-2-teaser.png
 ---

@@ -13,7 +13,7 @@ tags:
   - robots
   - birds
   - photo
-excerpt: "Post mortem from showing the Flocking AI bird gallery at Maker Labs during Eastside Culture Crawl 2022: pitch, sales, and what to fix."
+excerpt: "Post mortem from showing the Flocking AI bird gallery at Maker Labs during Eastside Culture Crawl 2022: the wall layout, what people said, and what to fix."
 header:
   teaser: /uploads/2022/flockingai-wall.jpg
 ---

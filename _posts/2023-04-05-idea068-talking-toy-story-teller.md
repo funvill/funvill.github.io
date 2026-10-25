@@ -10,7 +10,7 @@ tags:
   - robots
   - birds
   - flowers
-excerpt: "Connect ChatGPT to Text to Voice application inside a Furby/teady bear style robotic pet"
+excerpt: "A Furby-style robotic toy that uses ChatGPT and text to speech to tell interactive stories that children steer with three buttons."
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 

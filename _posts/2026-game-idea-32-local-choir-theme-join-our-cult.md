@@ -8,7 +8,7 @@ tags:
   - game-idea
   - story
   - comedy
-excerpt: "You joined a local choir to meet new people. It's a cult. But they turned out to be pretty decent drinking buddies"
+excerpt: "A comedy game idea where you join a local choir to meet people and find out it is a cult, though its members are decent drinking buddies."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

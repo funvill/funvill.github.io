@@ -12,7 +12,7 @@ tags:
   - security
   - birds
   - vancouver
-excerpt: "Hunt and seek game for Burnaby BC"
+excerpt: "A two-month treasure hunt in Burnaby, BC where players scan QR code posters of local animals hidden around the city."
 header:
   teaser: /uploads/2025/medallion-hunt-header.png
 toc: false

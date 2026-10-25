@@ -8,7 +8,7 @@ tags:
   - art
   - code
   - web
-  - map
+  - maps
   - vancouver
 excerpt: "A community-built map documenting public art before it's gone"
 header:

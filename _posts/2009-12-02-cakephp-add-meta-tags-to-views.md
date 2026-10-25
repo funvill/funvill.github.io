@@ -9,7 +9,7 @@ tags:
   - tutorial
   - code
   - web
-excerpt: "How to inject per-view meta keywords and descriptions into a CakePHP layout using $scripts_for_layout and the HTML helper."
+excerpt: "How to add per-view meta keywords and descriptions to a CakePHP layout using $scripts_for_layout and the HTML helper."
 ---
 This is how you add well formatted meta tags to a cakephp views even thou the meta tags are rendered in the layout.
 

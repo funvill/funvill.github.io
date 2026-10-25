@@ -8,7 +8,7 @@ tags:
   - game-idea
   - strategy
   - sci-fi
-excerpt: "Hive mind assimilating earth"
+excerpt: "A game idea for an XCom-style strategy game where you play a hive mind assimilating the population of Earth's cities while rival hive minds compete."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

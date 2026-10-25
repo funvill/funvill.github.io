@@ -11,7 +11,7 @@ tags:
   - art
   - vancouver
   - video
-excerpt: "A custom electric bike carousel installed at the Fairmont Pacific Rim hotel downtown Vancouver."
+excerpt: "An electric bike carousel for the Fairmont Pacific Rim hotel in Vancouver, lit by over 5000 addressable LEDs on 18 spokes."
 header:
   teaser: /uploads/teaser_2017_FairmontPacificRimBikeCarousel.png
 ---

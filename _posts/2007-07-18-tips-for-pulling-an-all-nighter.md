@@ -8,7 +8,7 @@ tags:
   - ideas
   - tutorial
   - journal
-excerpt: "Tips for pulling an all-nighter at the computer: showers, dark editor themes, fruit, a 4 a.m. meal, and loud music."
+excerpt: "Tips for pulling an all-nighter at the computer, written as a rebuttal to Jon Lee's advice to work in a dark room."
 ---
 <img src="/public/uploads/2007/07/shift-work-sleep-disorder.thumbnail.jpg" alt="shift-work-sleep-disorder.jpg" align="right" />
 <blockquote>People who say they sleep like a baby usually don't have one.

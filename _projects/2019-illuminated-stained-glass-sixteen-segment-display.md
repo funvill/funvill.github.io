@@ -15,7 +15,7 @@ tags:
   - code
   - art
   - ideas
-excerpt: "Illuminated Stained Glass Sixteen Segment Display"
+excerpt: "An illuminated stained glass sixteen segment display that can show upper and lower case letters and numbers."
 header:
   teaser: /uploads/foam-16-segments.png
 ---

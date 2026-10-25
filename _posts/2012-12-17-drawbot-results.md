@@ -8,7 +8,7 @@ tags:
   - paper
   - art
   - photo
-excerpt: "Prints off the Marginally Clever drawbot, made as a birthday gift for my nephew."
+excerpt: "Prints from the Marginally Clever drawbot, made as a birthday gift for a nephew."
 ---
 I was able to get the <a href="https://github.com/i-make-robots/drawbot">drawbot</a> made by <a href="http://www.marginallyclever.com/blog/">marginallyclever.com</a> up and running. It produced some beautiful prints for my nephew's birthday.
 

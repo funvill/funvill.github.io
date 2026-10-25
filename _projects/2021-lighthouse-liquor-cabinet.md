@@ -9,7 +9,7 @@ tags:
   - led
   - coins
   - furniture
-excerpt: "Converting a Lighthouse Redemption Machine into a liquor and glassware cabinet"
+excerpt: "A Lighthouse prize redemption arcade machine converted into a liquor and glassware cabinet."
 header:
   teaser: /uploads/2021/lighthouse_banner.jpg
 toc: true

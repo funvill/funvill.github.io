@@ -9,7 +9,7 @@ tags:
   - art
   - ideas
   - painting
-excerpt: "Traveling art exhibit of all the sculptures from a single great master 3d printed in marble"
+excerpt: "Idea: a traveling art exhibit of every sculpture by one great master, 3D printed to look like marble."
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 

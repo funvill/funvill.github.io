@@ -11,7 +11,7 @@ tags:
   - conference
   - hackspace
   - tutorial
-excerpt: "A guide to 3D printing in Vancouver: where to get prints done, what printer to buy, where to find models, and which shop to skip."
+excerpt: "A guide to 3D printing in Vancouver: where to get prints done, what printer to buy, where to find models, and which shop to avoid."
 toc: true
 ---
 # 3D printing in Vancouver

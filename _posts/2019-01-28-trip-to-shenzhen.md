@@ -12,7 +12,7 @@ tags:
   - jewelry
   - video
   - journal
-excerpt: "Two days at the Huaqiang Road markets in Shenzhen and the pile of LED strips, switches, and Pi cases I came back with."
+excerpt: "Two days at the Huaqiang Road markets in Shenzhen and the pile of LED strips, switches, and Pi cases brought home."
 ---
 I got to spend two days in Shenzhen at the tail end of a vacation. I love hitting up the markets in [Huaqiang Road](https://goo.gl/maps/anWCCQarAC82). Makers paradise. Below is a list of the things that I picked up.  
 

@@ -7,7 +7,7 @@ categories:
 tags:
   - review
   - ideas
-excerpt: "A writeup of Steve Jackson's card game Munchkin, with a list of every expansion in the Munchkin family."
+excerpt: "Review of Steve Jackson's card game Munchkin, where you kill monsters, steal treasure, and race to level 10."
 ---
 <a href="/public/uploads/2007/05/munchkin.jpg"><img src="/public/uploads/2007/05/munchkin_1.jpg" alt="munchkin_1.jpg" title="munchkin_1.jpg" align="right" border="0" height="300" width="207" /></a><strong>Play time:</strong> 1 hour
 <strong>Players: </strong>3-6*

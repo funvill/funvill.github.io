@@ -8,7 +8,7 @@ tags:
   - web
   - ideas
   - code
-excerpt: "Allows people to assert their experience with a skill with 3rd parties confidence score"
+excerpt: "A system for third parties to vouch for a person's skills with Open Badges and a confidence score, dropped as LinkedIn with more steps."
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 

@@ -8,7 +8,7 @@ tags:
   - web
   - security
   - code
-excerpt: "HostGator emailed back my forgotten password in plain text, proving they store credentials unhashed in their billing database."
+excerpt: "HostGator emailed back a forgotten password in plain text, showing they store credentials unhashed in their billing database."
 ---
 I had a bad experience with <a href="http://www.hostgator.com/">HostGator</a> the other day. I had forgot the password to HostGators billing system and went though their password recovery function. The password recovery system emailed me my password in plain text instead of a link to reset the password.
 

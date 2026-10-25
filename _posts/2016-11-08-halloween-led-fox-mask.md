@@ -9,7 +9,7 @@ tags:
   - led
   - arduino
   - code
-excerpt: "A coroplast low-poly fox mask wired with NeoPixels and a WeMos D1 mini, with a brightness dial after Halloween blinded everyone."
+excerpt: "A coroplast low-poly fox mask wired with NeoPixels and a WeMos D1 mini, with a brightness dial added after it proved too bright at a Halloween party."
 ---
 For Halloween this year I combined a Fox Mask designed by [Winter Croft](https://wintercroft.com/) ([Instagram](https://www.instagram.com/wintercroft/)) and the LED mapping technique from [wow_elec_tron](https://www.instagram.com/wow_elec_tron/) ( [Etsy](https://www.etsy.com/au/shop/ElecDashTron) ).
 

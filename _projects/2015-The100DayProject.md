@@ -15,7 +15,7 @@ tags:
   - flowers
   - maker-faire
   - vancouver
-excerpt: "A series of single day projects."
+excerpt: "A 2015 run of the 100 Day Project: one small make each day, from a fractal triangle to an arcade button MIDI controller."
 header:
   teaser: /uploads/teaser_2015_100_day.png
 ---

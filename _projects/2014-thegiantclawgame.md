@@ -8,7 +8,7 @@ tags:
   - robots
   - maker-faire
   - vancouver
-excerpt: "A large claw game made for Vancouver Maker Faire 2014"
+excerpt: "A giant claw game built for Vancouver Maker Faire 2014, with a motorized gantry, relay-based controls, and several claw prototypes."
 header:
   teaser: /uploads/2013/05/reference.png
 ---

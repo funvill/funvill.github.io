@@ -10,7 +10,7 @@ tags:
   - code
   - maker-faire
   - vancouver
-excerpt: "What I brought to Vancouver Maker Faire 2017: the LED Pillar rhythm game, laser kaleidoscope, fox mask, thunderstorm cloud, and more."
+excerpt: "The projects shown at Vancouver Maker Faire 2017: the LED Pillar rhythm game, laser kaleidoscope, fox mask, thunderstorm cloud, and more."
 ---
 This year for the vancouver maker faire I decided to show off some my LED and lighting projects that I had created over the past few years. I also created a special project just for Vancouver Maker Faire the LED Pillar.
 

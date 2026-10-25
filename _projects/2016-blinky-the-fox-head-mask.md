@@ -14,7 +14,7 @@ tags:
   - maker-faire
   - vancouver
   - photo
-excerpt: "A low polygon fox head mask with an array of LEDS create patterns on the faces."
+excerpt: "A low-poly fox head mask laser cut from coroplast with WS2812 LEDs on the faces that run animated patterns."
 header:
   teaser: /uploads/teaser_2016_blinky_fox_head_mask.png
 ---

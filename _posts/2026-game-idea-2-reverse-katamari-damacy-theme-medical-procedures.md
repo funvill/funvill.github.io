@@ -7,7 +7,7 @@ categories:
 tags:
   - game-idea
   - comedy
-excerpt: "Top down vertical scroller,  Reverse “Katamari Damacy” game where you are trying to drag your kid to a doctor's appointment"
+excerpt: "A top-down game where you drag your kid to a doctor's appointment, like Katamari Damacy in reverse."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

@@ -7,7 +7,7 @@ categories:
 tags:
   - recipe
   - ideas
-excerpt: "Rules for Landmines, a quarter-spinning shot game where empty cans pile up on the table as obstacles."
+excerpt: "Rules for Landmines, a quarter-spinning shot game where empty beer cans pile up on the table as obstacles."
 ---
 Landmines is a drinking game.
 

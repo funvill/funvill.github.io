@@ -15,7 +15,7 @@ tags:
   - maps
   - furniture
   - jewelry
-excerpt: "A guide to laser cutting in Vancouver after 4000 hours on the machines: where to cut, who to follow, and which shop to avoid."
+excerpt: "A guide to laser cutting in Vancouver from someone with 4000 hours on the machines: where to cut, who to follow, and which shop to avoid."
 toc: true
 ---
 # Laser cutting in Vancouver

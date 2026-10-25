@@ -8,7 +8,7 @@ tags:
   - web
   - ideas
   - recipe
-excerpt: "Betting against consumers on human nature"
+excerpt: "A deal where diners get cheap meals if they finish a 10-restaurant challenge, review each place and file expense claims on time, betting most will not."
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 

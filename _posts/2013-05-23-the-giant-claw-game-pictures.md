@@ -9,7 +9,7 @@ tags:
   - motor
   - metal
   - photo
-excerpt: "Build photos and notes on the Giant Claw Game cart, drill-motor pulleys, and cable tensioning."
+excerpt: "Build photos and notes on the Giant Claw Game cart, its drill-motor spindle, and cable tensioning."
 ---
 <strong>The Cart</strong>
 

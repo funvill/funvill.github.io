@@ -8,7 +8,7 @@ tags:
   - art
   - glass
   - ideas
-excerpt: "An art installation where a user enters a room that looks like the inside of a kaleidoscope"
+excerpt: "A walk-in dome with many head-sized windows that looks like the inside of a kaleidoscope."
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 

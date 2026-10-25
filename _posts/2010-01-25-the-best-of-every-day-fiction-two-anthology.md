@@ -7,7 +7,7 @@ categories:
 tags:
   - review
   - bookmark
-excerpt: "Announcing The Best of Every Day Fiction Two, a 316-page paperback collecting a hundred flash stories from the site's second year."
+excerpt: "Announcement of The Best of Every Day Fiction Two, a 316-page paperback of a hundred flash stories from the site's second year."
 ---
 <img src="http://www.everydaypublishing.ca/cart/EDF2009_small.jpg" alt="" align="left" />Flash fiction is perfect for your coffee break, your commute, or whenever you have a few minutes for yourself. Crafted with gemlike precision, every flash fiction piece tells a complete story, never using more than a thousand words.
 

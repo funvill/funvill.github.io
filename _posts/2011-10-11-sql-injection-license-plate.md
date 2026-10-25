@@ -8,7 +8,7 @@ tags:
   - security
   - bookmark
   - code
-excerpt: "A hacker changes his license plate to a SQL injection string in hopes of crashing the speed camera database."
+excerpt: "A bookmark about a driver whose license plate is a SQL injection string meant to crash the speed camera database."
 ---
 <a href="/public/uploads/2011/10/for_traffic_cameras.jpg"><img class="size-medium wp-image-2248 alignright" title="for_traffic_cameras" src="/public/uploads/2011/10/for_traffic_cameras-300x225.jpg" alt="" width="300" height="225" /></a> One clever hacker realized that recent speed traps use cameras that automatically register your speed, take a picture of you license plate, and then use character recognition to translate you license plate number into something they can use as a lookup within the DMV database. With this in mind, he changed his license plate number to
 <blockquote>('ZU 0666', 0, 0); Drop Database Table.</blockquote>

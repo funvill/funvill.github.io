@@ -12,7 +12,7 @@ tags:
   - markdown
   - maps
   - web
-excerpt: "Building my own thing-tracking web app to use on laser-cut geocoins after the official GeoCaching tracking codes priced me out."
+excerpt: "A home-built thing-tracking web app for laser-cut geocoins, made after the official GeoCaching tracking codes cost too much."
 ---
 <a style="color: #ff4b33; line-height: 24px; font-size: 16px;" href="/public/uploads/2012/09/2012-09-08-14.23.18.jpg"><img class="alignright size-medium wp-image-2847" title="2012-09-08 14.23.18" src="/public/uploads/2012/09/2012-09-08-14.23.18-225x300.jpg" alt="" width="225" height="300" /></a>
 

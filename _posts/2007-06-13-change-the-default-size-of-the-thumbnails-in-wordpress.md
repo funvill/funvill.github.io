@@ -8,7 +8,7 @@ tags:
   - web
   - php
   - tutorial
-excerpt: "Two recipes for changing WordPress's default upload thumbnail size, one for pre-2.1 and one for 2.1+."
+excerpt: "Two recipes for changing WordPress's default upload thumbnail size, one for pre-2.1 and one for 2.1 and later."
 ---
 I get asked this question lot, how to change the default size of the thumbnail that wordpress creates when you upload an image. There are two different ways of doing it depending on what version of your Wordpress you have installed.
 

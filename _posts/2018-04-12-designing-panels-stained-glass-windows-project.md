@@ -9,7 +9,7 @@ tags:
   - glass
   - laser-cut
   - code
-excerpt: "How I design the stained glass panel patterns in Fusion 360 and Inkscape, then export SVGs ready for the laser cutter."
+excerpt: "How the stained glass panel patterns are designed in Fusion 360 and Inkscape, then exported as SVGs for the laser cutter."
 ---
 This post is part of a series on the [stained glass windows project](/projects/2018-stained-glass-window). 
 

@@ -12,7 +12,7 @@ tags:
   - code
   - video
   - ideas
-excerpt: "Retrospective of the dodecahedron polyhedron lamp"
+excerpt: "What went right and wrong building a dodecahedron lamp from twelve LED pentagon PCBs, about $60 USD from JLCPCB for 25 panels."
 ---
 The [Idea 077 - Equilateral triangles LED panels](https://blog.abluestar.com/idea077-equilateral-triangles-led-panels/) is part of the [100 Days of Ideas project](https://blog.abluestar.com/projects/2023-100-ideas/) from 2023.
 

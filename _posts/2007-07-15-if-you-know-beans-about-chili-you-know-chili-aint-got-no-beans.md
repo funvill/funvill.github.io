@@ -7,7 +7,7 @@ categories:
 tags:
   - recipe
   - tutorial
-excerpt: "My slow-cooker chili recipe with bacon and three kinds of beans, plus a note on the no-beans purist debate."
+excerpt: "A chili recipe and the no-beans purist debate, citing the CASI cook-off rule against fillers."
 ---
 <blockquote>"Next to jazz music, there is nothing that lifts the spirit and strengthens the soul more than a good bowl of chili. Congress should pass a law making it mandatory for all restaurants serving chili to follow a Texas recipe."
 €” Harry James, trumpet player.</blockquote>

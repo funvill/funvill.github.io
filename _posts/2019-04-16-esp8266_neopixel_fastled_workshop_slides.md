@@ -12,7 +12,7 @@ tags:
   - ws2812
   - review
   - tutorial
-excerpt: "Slides from the March 2019 ESP8266, NeoPixel, and FastLED workshop I taught at Maker Labs."
+excerpt: "Slides from the March 2019 ESP8266, NeoPixel, and FastLED workshop taught at Maker Labs."
 ---
 These are the slides that I used for a workshop at [Maker labs](https://www.makerlabs.com/). [Arduino lighting workshop](https://www.eventbrite.ca/e/arduino-lighting-workshop-tickets-58392302950) on March 23, 2019. Any feedback is appreciated. 
 

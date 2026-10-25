@@ -8,7 +8,7 @@ tags:
   - maps
   - web
   - ideas
-excerpt: "A constantly updated map of interesting places from around the world"
+excerpt: "A Google map of interesting places around the world to visit, added to over time."
 header:
   teaser: /uploads/teaser_2016_map_of_interesting_places.png
 ---

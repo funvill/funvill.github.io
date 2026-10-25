@@ -13,7 +13,7 @@ tags:
   - code
   - art
   - vancouver
-excerpt: "A series of hexagon stainglass"
+excerpt: "A series of hexagon stained glass windows lit from behind by programmed LED patterns."
 header:
   teaser: /uploads/teaser_2018_StainedGlassWindows.png
 ---

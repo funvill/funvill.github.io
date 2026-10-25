@@ -11,7 +11,7 @@ tags:
   - soldering
   - code
   - ideas
-excerpt: "PCB design of a pentagon plate of a dodecahedron lamp"
+excerpt: "Design notes for a pentagon PCB panel with addressable LEDs, twelve of which weld together into a dodecahedron lamp."
 ---
 <img src='\public\uploads\2024\Dodecahedron.gif' alt='Dodecahedron' title='Dodecahedron' style='float: right;border: 1px solid black; margin: 5px; padding: 5px;'> It seems to be a right of passage that people learning how to design PCBs make an LED Cube. It's a good learning project because it only has a few components and each face (PDB Boards) is identical.
 

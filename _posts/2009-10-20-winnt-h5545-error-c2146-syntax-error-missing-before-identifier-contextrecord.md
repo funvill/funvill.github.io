@@ -8,7 +8,7 @@ tags:
   - code
   - cpp
   - tutorial
-excerpt: "Fix for the winnt.h C2146 ContextRecord compile error: include windows.h before the offending header."
+excerpt: "Fix for the winnt.h C2146 ContextRecord compile error: add #include windows.h."
 ---
 Anther annoying compiling error.
 

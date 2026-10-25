@@ -8,7 +8,7 @@ tags:
   - art
   - led
   - code
-excerpt: "A big button in a park"
+excerpt: "A big button in a park that resets a 24-hour countdown each time it is pressed. If the timer hits zero, the project ends."
 header:
   teaser: /uploads/2025/counterproductive-header.png
 toc: false

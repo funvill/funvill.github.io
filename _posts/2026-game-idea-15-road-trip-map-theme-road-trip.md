@@ -8,7 +8,7 @@ tags:
   - game-idea
   - party-game
   - strategy
-excerpt: "The best road trip with your friends"
+excerpt: "A Jackbox style road trip game with a shared half-missing map and each player's hidden, competing goals."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

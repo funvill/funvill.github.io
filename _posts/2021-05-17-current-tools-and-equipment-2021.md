@@ -11,7 +11,7 @@ tags:
   - birds
   - photo
   - journal
-excerpt: "A list of my current tooks that I am using in 2021"
+excerpt: "The software, gadgets and gear Steven uses day to day in 2021, and what changed since 2018 after the move to working from home."
 ---
 Everyday I use a series of tools that make my life easier. These tool change and morph each year. This is my most up-to-date list of recommended tools and equipment.
 

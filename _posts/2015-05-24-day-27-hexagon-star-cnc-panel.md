@@ -8,7 +8,7 @@ tags:
   - cnc
   - code
   - video
-excerpt: "First CNC-cut hexagon star panel for the Pocket Universe dome, after a full day of fighting design issues at Maker Labs."
+excerpt: "The first CNC-cut hexagon star panel for the Pocket Universe dome, after a full day of design problems at Maker Labs."
 ---
 Video 
 

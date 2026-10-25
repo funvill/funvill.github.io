@@ -8,7 +8,7 @@ tags:
   - game-idea
   - clicker
   - comedy
-excerpt: "Speed run humanity's progress towards coffee"
+excerpt: "A game idea for a clicker where you guide early humanity toward one goal, the perfect cup of coffee, with technology as a side effect."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

@@ -9,7 +9,7 @@ tags:
   - story
   - sci-fi
   - comedy
-excerpt: "A fish out of water story: a 10,000 year old AI war machine looks for a new job in a post-scarcity universe"
+excerpt: "A story idea about a 10,000 year old AI war machine trying a string of ill-fitting jobs in a post-scarcity universe, until it finds work as a metal recycler."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

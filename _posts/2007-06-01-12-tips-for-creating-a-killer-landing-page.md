@@ -8,7 +8,7 @@ tags:
   - web
   - tutorial
   - ideas
-excerpt: "Twelve rules for landing pages that convert, drawn from rebuilding a friend's AdWords campaign from 2 leads a day to 25."
+excerpt: "Twelve rules for landing pages that convert, drawn from rebuilding a friend's AdWords campaign from 2 leads a day to 12-25."
 ---
 <img src="/public/uploads/2007/05/writting.jpg" align="right" height="96" width="92" />Good landing pages are a key to creating conversations from your advertisement. It's the first page that your users see when they click on one of your ads its got to be exactly what they want.
 

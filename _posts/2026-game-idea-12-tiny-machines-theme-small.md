@@ -8,7 +8,7 @@ tags:
   - game-idea
   - racing
   - web-game
-excerpt: "Tiny racing machines, in an oversized world"
+excerpt: "A Micro Machines style racing game with tiny cars on oversized tracks like a breakfast table."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

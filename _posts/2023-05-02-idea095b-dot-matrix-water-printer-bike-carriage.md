@@ -8,7 +8,7 @@ tags:
   - art
   - ideas
   - video
-excerpt: "A horizontal matrix of 16 water nozzles in a grid on bike carriage to draw with water on the sidewalk"
+excerpt: "A bike-towed carriage with a row of 16 water nozzles that spells messages in dots of water on the sidewalk."
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 

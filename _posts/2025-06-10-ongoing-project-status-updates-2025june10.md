@@ -8,7 +8,7 @@ tags:
   - art
   - code
   - journal
-excerpt: "A status update of the Counter productive, Sky Pixles projects"
+excerpt: "Status update on the Counter Productive button, which hit 1000 presses in 71 days, and the Sky Pixels project."
 ---
 ## Counter Productive (Button project)
 

@@ -8,7 +8,7 @@ tags:
   - recipe
   - ideas
   - tutorial
-excerpt: "A card-flipping drinking game where every heart turns into a round of nosy questions and unwanted dares."
+excerpt: "Rules for Dirty Hearts, a card-flipping drinking game where every heart turns into nosy questions and dares."
 ---
 Dirty Hearts is a Drinking, Cards game
 

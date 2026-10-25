@@ -9,7 +9,7 @@ tags:
   - maps
   - fabric
   - vancouver
-excerpt: "Laser cut map of vancouver with GPS heat map of a years worth of travel."
+excerpt: "A laser-cut wooden map of Vancouver with a year of my GPS location data pulled tight in coloured thread."
 header:
   teaser: /uploads/teaser_2014_thread_map_of_vancouver.png
 ---

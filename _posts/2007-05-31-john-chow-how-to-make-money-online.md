@@ -8,7 +8,7 @@ tags:
   - tutorial
   - review
   - web
-excerpt: "Notes on trimming a 200-feed RSS list down to 10 and a quick review of John Chow's make-money-online blog."
+excerpt: "Trimming a 200-feed RSS list down to 10, and why John Chow's make-money-online blog made the cut."
 ---
 <a href="http://www.johnchow.com/" title="johnchow.jpg"><img src="/public/uploads/2007/05/johnchow.thumbnail.jpg" alt="johnchow.jpg" align="right" /></a>I recently reached the 200 mark in subscribed RSS feeds it was becoming unmanageable and I spent maybe 4 hours a day reading posts instead of making posts, not very productive.
 

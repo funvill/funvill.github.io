@@ -9,7 +9,7 @@ tags:
   - esp32
   - code
   - sensor
-excerpt: "CounterProductive downtime between June 28-July 4"
+excerpt: "The CounterProductive button went offline June 28 to July 4, 2025 after a WiFi and MQTT failure, and version 5 adds a backup server."
 ---
 The [CounterProductive Button](https://blog.abluestar.com/projects/2025-counterproductive/) experienced downtime between **Saturday, June 28 and Friday, July 4 2025** due to a connectivity issue.
 

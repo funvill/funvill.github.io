@@ -9,7 +9,7 @@ tags:
   - photo
   - laser-cut
   - wood
-excerpt: "A 70cm laser-cut panel of tangled branches, made to drop into one of the CNC frame panels on the dome."
+excerpt: "A 70cm laser-cut panel of tangled branches, made to fill the center of one of the CNC frame panels on the dome."
 ---
 Full size
 

@@ -9,7 +9,7 @@ tags:
   - painting
   - code
   - photo
-excerpt: "Snapshot of the sky"
+excerpt: "A timeline of the sky's average color from web cams around the world, sampled every 5 minutes."
 header:
   teaser: /uploads/2025/skypixels-header.png
 toc: false

@@ -8,7 +8,7 @@ tags:
   - game-idea
   - rhythm-game
   - horror
-excerpt: "A rhythm game where a strong, tired hand drags a terrified inky mass through the environment, ripping its tendrils free on the beat"
+excerpt: "A game idea for a rhythm game where a strong, tired hand drags a terrified inky mass through the environment, ripping its tendrils free on the beat."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

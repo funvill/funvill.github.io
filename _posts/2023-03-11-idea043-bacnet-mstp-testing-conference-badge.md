@@ -11,7 +11,7 @@ tags:
   - led
   - jlcpcb
   - sensor
-excerpt: "A convention badge for BACnet plugfest that is useful for testing"
+excerpt: "A sub-$10 conference badge for BACnet plugfest that works as both a BACnet server and client for testing equipment."
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 

@@ -9,7 +9,7 @@ tags:
   - story
   - sci-fi
   - horror
-excerpt: "A systemic eco-horror where two identical Earths destroy each other through convenience, exploitation, and a thousand 'temporary' solutions—until gravity itself turns against them"
+excerpt: "A game idea for an eco-horror where bridges between two identical Earths are used for dumping and mining until the mass imbalance wrecks the planet's orbit."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

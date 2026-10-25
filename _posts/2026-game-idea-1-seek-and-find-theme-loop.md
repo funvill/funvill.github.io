@@ -8,7 +8,7 @@ tags:
   - game-idea
   - puzzle
   - strategy
-excerpt: "A 'Seek and Find' game set in a living town updating in real time. Spot what the cultists are changing and stop them before they summon their evil god"
+excerpt: "A Seek and Find game set in a living town updating in real time. Spot what the cultists are changing and stop them before they summon their evil god"
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project

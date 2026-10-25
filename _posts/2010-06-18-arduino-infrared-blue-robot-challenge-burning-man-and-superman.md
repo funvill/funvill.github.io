@@ -14,7 +14,7 @@ tags:
   - vhs
   - sensor
   - journal
-excerpt: "Working on the VHS Blue Robot IR beacon challenge, plus notes on WordPress 3.0, Burning Man, and upcoming Vancouver events."
+excerpt: "Working on the VHS Blue Robot IR beacon challenge with an Arduino, plus WordPress 3.0, Burning Man, and Vancouver event links."
 ---
 <strong>Blue robot challenge </strong>
 

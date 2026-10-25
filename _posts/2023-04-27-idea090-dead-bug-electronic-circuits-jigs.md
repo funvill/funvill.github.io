@@ -9,7 +9,7 @@ tags:
   - 3d-printing
   - art
   - video
-excerpt: "Create a series of 3D printed jigs for making exploded electronic circuits without PCBs"
+excerpt: "3D printed jigs for building dead bug style electronic circuits without a PCB, with tutorials for Instructables."
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 

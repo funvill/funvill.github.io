@@ -8,7 +8,7 @@ tags:
   - video
   - security
   - review
-excerpt: "2023 year end Movies and TV Reviews"
+excerpt: "Ratings of the movies and TV watched in 2023, after dropping Netflix over password sharing and moving to Plex."
 ---
 Part of my 2023 year in review
 

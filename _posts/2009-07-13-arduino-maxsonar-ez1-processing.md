@@ -8,7 +8,7 @@ tags:
   - arduino
   - code
   - sensor
-excerpt: "Visualizing Arduino MaxSonar EZ1 distance data in Processing, drawing coloured arcs that change hue with range."
+excerpt: "Processing sketch that draws Arduino MaxSonar EZ1 distance data as coloured arcs whose hue changes with range."
 ---
 After resolving my user error with the Maxsonar EZ1 with the help of <em>Bob Gross</em> I moved on to visualizing the data captured. Capturing the output of from the Arduino with Hyper terminal as a CSV file and importing it in to Excel worked, but I was looking for something more advanced. After a little <a href="http://en.wikipedia.org/wiki/Google_(verb)">google</a> (The verb <strong>to google</strong> (also spelled <strong>to Google</strong>) refers to using the Google search engine to obtain information on the Web.) I found a simlare project <a href=" http://creativetechnology.eu/wordpress/?p=299">Arduino + Processing: range finder</a> that worked but didn't look as nice as I wanted.
 

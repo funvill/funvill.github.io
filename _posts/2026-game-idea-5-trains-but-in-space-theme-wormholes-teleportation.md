@@ -8,7 +8,7 @@ tags:
   - game-idea
   - board-game
   - sci-fi
-excerpt: "Building the galactic wormhole network, one generation ship at a time. Trains but in space using wormholes"
+excerpt: "A game idea for a Ticket to Ride-style board game where corporations send generation ships to build a wormhole network between star systems."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

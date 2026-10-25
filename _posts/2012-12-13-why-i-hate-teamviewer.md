@@ -7,7 +7,7 @@ categories:
 tags:
   - video
   - review
-excerpt: "Why I stopped paying for TeamViewer after version 6 was bricked by forced upgrades, and what I switched to."
+excerpt: "Why paying for TeamViewer 6 was a mistake after version 7 forced an upgrade the license did not cover."
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SCRzaGUKEFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -13,7 +13,7 @@ tags:
   - photo
   - video
   - ideas
-excerpt: "A deck of cards that helps inspire creative works."
+excerpt: "A deck of cards that prompts creative work, starting with one card that says to add a new card, inspired by D&D's Deck of Many Things."
 header:
   teaser: /uploads/2026/2026-deckofcreativethings-v1.png
 toc: false

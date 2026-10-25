@@ -8,7 +8,7 @@ tags:
   - game-idea
   - party-game
   - rhythm-game
-excerpt: "Vibe out with your fiends"
+excerpt: "A Jackbox style game where each player controls one off-key instrument from their phone and the group works to sync up key and tempo."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

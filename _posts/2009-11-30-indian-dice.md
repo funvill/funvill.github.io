@@ -7,7 +7,7 @@ categories:
 tags:
   - ideas
   - tutorial
-excerpt: "Rules for Indian Dice, a five-dice poker variant for when you want to play poker but cannot find the cards."
+excerpt: "Rules for Indian Dice, a five-dice poker variant for when you want to play poker but have no cards."
 ---
 Indian Dice is a poker game with dice.
 

@@ -9,7 +9,7 @@ tags:
   - glass
   - security
   - review
-excerpt: "2024 year end Movies and TV Reviews"
+excerpt: "Ratings of the movies and TV watched in 2024, from Deadpool & Wolverine to Joker: Folie à Deux, with notes from the Plex server."
 ---
 # TV and Movies
 

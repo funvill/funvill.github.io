@@ -14,8 +14,6 @@ tags:
   - code
   - maps
   - vancouver
-  - london
-  - ideas
 excerpt: "PCB maps of metro and transit systems, lit up station by station"
 header:
   teaser: /uploads/2024/banner-pcb-map.png

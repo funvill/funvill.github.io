@@ -7,7 +7,7 @@ categories:
 tags:
   - video
   - bookmark
-excerpt: "Three short videos worth watching: Biting Elbows office parkour, ZombinLaden, and the Daffy Duck Wizard short."
+excerpt: "Three short videos: Biting Elbows office parkour, the ZombinLaden short film, and the Daffy Duck Wizard cartoon."
 ---
 <a href="http://www.youtube.com/watch?v=QYm-dT24iRY&feature=player_embedded">Insane Office Escape (try this at work!) - Biting Elbows</a>
 Interesting music video, includes: free running, <a href="http://en.wikipedia.org/wiki/Parkour">parkour</a>, interesting fight sequence and camera angles. Well worth the 3mins it takes to watch it. 

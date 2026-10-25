@@ -9,7 +9,7 @@ tags:
   - cnc
   - photo
   - video
-excerpt: "February 2020 brain dump: pocket operator pinouts, CNC squid kits, maze dice sculptures, photo ideas, and the Hub16 macro pad."
+excerpt: "February 2020 bookmark roundup: pocket operator pinouts, CNC squid kits, maze dice sculptures, photo ideas, and the Hub16 macro pad."
 toc: true
 ---
 Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain dump:* snapshot of the internal state of a knowledge database for transfer or archiving purposes). Previous: [Jun 2019](/jun-2019-brain-dump/),  [Feb 2019](/feb-2019-brain-dump), [Others](/tags/#bookmarks).

@@ -8,7 +8,7 @@ tags:
   - led
   - esp32
   - pcb
-excerpt: "A monthly habit tracker inspired by Simone Giertz “The Every Day Calendar”"
+excerpt: "A single-month habit tracker board with physical buttons, inspired by Simone Giertz's Every Day Calendar."
 header:
   teaser: /uploads/2022/habit_tracker_banner.png
 toc: true

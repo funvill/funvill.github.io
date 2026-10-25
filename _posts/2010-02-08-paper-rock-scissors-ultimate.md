@@ -8,7 +8,7 @@ tags:
   - paper
   - recipe
   - ideas
-excerpt: "A paper-rock-scissors variant where ties stack up extra shots for whoever loses next."
+excerpt: "Rules for Paper, Rock, Scissors Ultimate, a drinking variant where ties stack extra shots onto whoever loses next."
 ---
 Paper, Rock, Scissors Ultimate is a drinking game.
 

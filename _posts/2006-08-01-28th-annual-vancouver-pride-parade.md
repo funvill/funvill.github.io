@@ -7,7 +7,7 @@ categories:
 tags:
   - vancouver
   - canada
-excerpt: "The 28th Vancouver Pride Parade rolls down Beach Avenue on August 6 with 130 floats and an expected 185,000 spectators."
+excerpt: "The 28th Vancouver Pride Parade on August 6 starts at Denman and Robson with 130 floats and an expected 185,000 spectators."
 ---
 <a href="/public/uploads/2006/07/Pride_JoyLogo.jpg" rel="lightbox"><img src="/public/uploads/2006/07/Pride_JoyLogo.jpg" alt="Pride_JoyLogo.jpg" title="Pride_JoyLogo.jpg" style="margin: 5px 10px; padding: 3px" align="right" border="2" height="167" width="200" /></a>
 

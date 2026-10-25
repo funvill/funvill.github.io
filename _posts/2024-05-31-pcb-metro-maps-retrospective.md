@@ -15,7 +15,7 @@ tags:
   - jewelry
   - vancouver
   - ideas
-excerpt: "Retrospective of the Vancouver skytrain and Washinton Metro PCB maps"
+excerpt: "Retrospective of the Vancouver SkyTrain and Washington DC Metro PCB maps with LEDs that light up as trains arrive."
 ---
 The [Idea 022 - Translink map PCB](https://blog.abluestar.com/idea022-translink-map-pcb/) is part of the [100 Days of Ideas project](https://blog.abluestar.com/projects/2023-100-ideas/) from 2023.
 

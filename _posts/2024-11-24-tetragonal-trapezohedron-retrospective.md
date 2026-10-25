@@ -15,7 +15,7 @@ tags:
   - stained-glass
   - esp32
   - kicad
-excerpt: "Retrospective of the Tetragonal Trapezohedron polyhedron lamp"
+excerpt: "Retrospective of a Tetragonal Trapezohedron lamp built from eight kite-shaped LED PCBs welded together."
 ---
 I created the [Tetragonal Trapezohedron](https://en.wikipedia.org/wiki/Tetragonal_trapezohedron) LED polyhedron as part of the [Idea 010 - Polyhedron Papercraft Mobile](https://blog.abluestar.com/idea010-polyhedron-papercraft-mobile/), and [Idea 077 - Equilateral triangles LED panels](https://blog.abluestar.com/idea077-equilateral-triangles-led-panels/) projects.
 

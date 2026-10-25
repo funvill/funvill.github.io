@@ -10,7 +10,7 @@ tags:
   - jekyll
   - code
   - ai
-excerpt: "On June 21, 2026 I switched the site from Jekyll to Astro and rebuilt the theme from scratch. Here's why."
+excerpt: "On June 21, 2026 the site moved from Jekyll to Astro with a theme rebuilt from scratch. Here's why."
 ---
 The blog has been running on [Jekyll](https://jekyllrb.com/) since around 2014, sitting on top of the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme. It worked fine for a long time. Write a [Markdown](https://www.markdownguide.org/) file, push to [GitHub](https://github.com/funvill/funvill.github.io), done.
 

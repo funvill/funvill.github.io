@@ -14,7 +14,7 @@ tags:
   - flowers
   - video
   - ideas
-excerpt: "Skull Card Game designed with PCBs"
+excerpt: "The Skull bluffing card game remade as PCB disks, with Midjourney art, manufactured at JLCPCB."
 header:
   teaser: /uploads/2024/banner-skull.png
 toc: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - video
   - review
-excerpt: "The ending song from Portal, the black-humour puzzle game from Valve that I would happily replay tomorrow."
+excerpt: "The ending song from Portal, Valve's black-humour puzzle game, embedded from YouTube."
 ---
 Portal is one of the better games I have played this year. A black humor puzzle game that's not repetitive and is actually fun... Fun you remember fun don't you? the way games use to be before we go all caught up in our new shinny graphics cards.
 

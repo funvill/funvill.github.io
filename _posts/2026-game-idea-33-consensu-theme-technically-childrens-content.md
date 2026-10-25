@@ -7,7 +7,7 @@ categories:
 tags:
   - game-idea
   - party-game
-excerpt: "A Jack Box style voting game that punishes divergence and teaches you to vote with the group. The optimal play is to get eliminated early"
+excerpt: "A game idea for a Jackbox-style voting game that eliminates players who vote differently from the group, so the best play is to get knocked out early."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

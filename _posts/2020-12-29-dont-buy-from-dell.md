@@ -9,7 +9,7 @@ tags:
   - canada
   - review
   - journal
-excerpt: "Why I will not buy from Dell again: a saga of failed cancellations, lost rewards, wrong shipping addresses, and useless chat support."
+excerpt: "Rant on why Steven will not buy from Dell again: a failed order cancellation, lost rewards, a monitor shipped to the wrong address, and useless chat support."
 ---
 Maybe you should not buy equipment from dell. This is my story and the reason that I will not buy from dell in the future.
 

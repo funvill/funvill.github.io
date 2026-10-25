@@ -8,7 +8,7 @@ tags:
   - game-idea
   - party-game
   - comedy
-excerpt: "Talk to NPCs, use 'magnetic poetry' to build a strange fetish, entice the most NPCs to make the most popular orgy. Social game"
+excerpt: "A Jackbox style masquerade party game where players talk to NPCs and use magnetic poetry words to build a strange fetish."
 ---
 
 > This idea was part of the 2025 [game jam](/projects/2026-100-game-ideas/) ideas project.

@@ -8,7 +8,7 @@ tags:
   - cnc
   - video
   - 3d-printing
-excerpt: "A 3D milling machine built entirely out of LEGO."
+excerpt: "A video of a 3D milling machine built entirely out of LEGO."
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/pX1cO2XhMrg" frameborder="0" allowfullscreen></iframe>
 

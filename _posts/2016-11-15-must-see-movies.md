@@ -8,7 +8,7 @@ tags:
   - video
   - journal
   - review
-excerpt: "My running list of must-see movies from Mad Max Fury Road back through Spirited Away, Memento, and Cube, with short notes on each."
+excerpt: "A running list of must-see movies from Mad Max Fury Road back through Spirited Away, Memento, and Cube, with short notes on each."
 ---
 Last updated November 13, 2016
 

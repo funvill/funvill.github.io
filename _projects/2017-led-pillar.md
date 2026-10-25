@@ -12,7 +12,7 @@ tags:
   - code
   - maker-faire
   - vancouver
-excerpt: "A game using a single strip of LEDs as a display. Made for Vancouver Mini Maker Faire 2017"
+excerpt: "A Guitar Hero-style game played on a single strip of LEDs up a 5 meter pole, made for Vancouver Mini Maker Faire 2017."
 header:
   teaser: /uploads/teaser_2017_LEDPillar.png
 ---

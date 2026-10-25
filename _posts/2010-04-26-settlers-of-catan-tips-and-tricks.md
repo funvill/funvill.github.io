@@ -9,7 +9,7 @@ tags:
   - ideas
   - tutorial
   - review
-excerpt: "Settlers of Catan: Tricks and Tactics"
+excerpt: "Settlers of Catan strategy tips: where to place first settlements, which hexes to claim, and how to build cities faster."
 ---
 Settlers of Catan is a multiplayer board game designed by Klaus Teuber.
 It was first published in 1995 in Germany by Franckh-Kosmos Verlags-Gmb H &amp; Co. (Kosmos), under the name Die Siedler von Catan.

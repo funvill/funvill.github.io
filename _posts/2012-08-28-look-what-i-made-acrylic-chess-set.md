@@ -11,7 +11,7 @@ tags:
   - vhs
   - vancouver
   - hackspace
-excerpt: "An acrylic chess set cut on the new VHS laser cutter from a Thingiverse design, my first laser cutter project."
+excerpt: "An acrylic chess set cut on the new VHS laser cutter from a Thingiverse design, the first laser cutter project."
 ---
 &nbsp;
 

@@ -8,7 +8,7 @@ tags:
   - arduino
   - esp8266
   - code
-excerpt: "A Wemos D1 and OLED shield that polls the Coindesk API every five minutes and shows the current BTC price and my running profit."
+excerpt: "A Wemos D1 and OLED shield that polls the Coindesk API every five minutes and shows the current BTC price and running profit."
 ---
 # A simple bitcoin price ticker
 

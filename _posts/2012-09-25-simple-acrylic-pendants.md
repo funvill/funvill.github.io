@@ -12,7 +12,7 @@ tags:
   - plastic
   - flowers
   - maker-faire
-excerpt: "Quick laser-cut acrylic Hibiscus and ukulele pendants as gifts for the family stops on my World Maker Faire trip."
+excerpt: "Quick laser-cut acrylic Hibiscus and ukulele pendants as gifts for family stops on a World Maker Faire trip."
 ---
 <img class="size-medium wp-image-2883 alignleft" title="2012-09-23 23.37.38" src="/public/uploads/2012/09/2012-09-23-23.37.381-269x300.jpg" alt="" width="269" height="300" />
 

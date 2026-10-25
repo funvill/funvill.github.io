@@ -10,7 +10,7 @@ tags:
   - flowers
   - maker-faire
   - photo
-excerpt: "A Zen garden controlled by a CNC XY platform."
+excerpt: "A Zen garden where a CoreXY CNC platform moves a magnet under the sand to drag a steel ball bearing through patterns."
 header:
   teaser: /uploads/teaser_2016_CNC_Zen_Garden.png
 ---

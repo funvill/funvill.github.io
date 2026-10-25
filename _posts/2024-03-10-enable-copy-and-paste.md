@@ -9,7 +9,7 @@ tags:
   - code
   - web
   - tutorial
-excerpt: "A tutorial on how to enable copy and paste on website that disable copy and paste. Specifically BrimFinancial"
+excerpt: "A TamperMonkey script that re-enables copy and paste on websites that block it, written for Brim Financial."
 ---
 I hate it when web sites and web applications prevent me from being able to paste text into input fields. I use a [password manager](https://www.pcmag.com/how-to/why-you-need-a-password-manager-and-how-to-choose-the-right-one) and every website gets its own specific email address and password. If I have to type in my password it's guaranteed to be less secure then anything that my password manager would generate.
 

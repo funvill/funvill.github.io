@@ -12,7 +12,7 @@ tags:
   - maps
   - vancouver
   - review
-excerpt: "Bookmarks from March 2026"
+excerpt: "Bookmarks from March 2026: maps, 3D printable trail generators, tools, and references."
 ---
 A March 2026 bookmark dump. Mostly projects, tools, references, and rabbit holes I want to come back to later.  more a notebook page of things that sparked ideas.
 

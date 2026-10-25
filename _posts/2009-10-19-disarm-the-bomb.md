@@ -8,7 +8,7 @@ tags:
   - recipe
   - ideas
   - tutorial
-excerpt: "A drinking game where four beer cans get taped into a cube, taped to your hands, and you have ten minutes to drink them."
+excerpt: "Rules for Disarm The Bomb, a drinking game with four beer cans taped into a cube and to your hands, ten minutes to finish."
 ---
 Disarm The Bomb is a drinking game.
 
