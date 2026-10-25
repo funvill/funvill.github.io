@@ -17,11 +17,11 @@ So I created a simple sensor reading app that reads all the sensors on the phone
 
 The App inventor is a pretty simple programming IDE, it would work great for kits as its simple enough for them to understand and it gets stuff to the screen fast.
 
-A few missing features that i was wishing for while building this app.
+A few missing features that I was wishing for while building this app.
 <ul>
-	<li>Html panel designer - I can do a lot with simple HTML much more then i could with their GUI designer.</li>
+	<li>Html panel designer - I can do a lot with simple HTML much more then I could with their GUI designer.</li>
 	<li>RSS feeds - I really want to get content from 3rd party websites to build social web apps.</li>
-	<li>File IO - This might be a bit beyond the scope of this project but I want a away to save the results of this output to a text file for future review. I know they have the SQLiteDB but its not saved as plain text and needs a special application to actually view it.</li>
+	<li>File IO - This might be a bit beyond the scope of this project but I want a way to save the results of this output to a text file for future review. I know they have the SQLiteDB but its not saved as plain text and needs a special application to actually view it.</li>
 </ul>
 Interesting idea, but I don't see to many people making killer apps with this software.
 

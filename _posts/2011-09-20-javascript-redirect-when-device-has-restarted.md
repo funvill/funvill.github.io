@@ -10,7 +10,7 @@ tags:
   - tutorial
 excerpt: "A small jQuery snippet that polls an embedded webserver after a reboot and redirects users once the device is back online."
 ---
-Over the past few months I have been building a sensor device with a embedded webserver for configuration and reporting. When a user saves a configuration to the device the device needs to be restarted before the changes come in to effect.
+Over the past few months I have been building a sensor device with an embedded webserver for configuration and reporting. When a user saves a configuration to the device the device needs to be restarted before the changes come in to effect.
 
 While the device is restarting the webserver is unreachable and the users get a blank page or 404 pages, this is bad for the users. So I created this simple script to check to see if the device has been restarted correctly then redirect the users to the correct page. This script uses <a href="http://jquery.com/">JQuery</a>
 

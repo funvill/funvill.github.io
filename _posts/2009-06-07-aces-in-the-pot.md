@@ -10,7 +10,7 @@ tags:
   - tutorial
 excerpt: "Rules for Aces In The Pot, a two-dice gambling game where 1s feed the pot and 6s pass coins to your neighbour."
 ---
-Aces In The Pot is a a very simple Gambling Dice game that I am told was played mainly in ports of very old cities.
+Aces In The Pot is a very simple Gambling Dice game that I am told was played mainly in ports of very old cities.
 
 <strong>What you need to play</strong>
 2 dice

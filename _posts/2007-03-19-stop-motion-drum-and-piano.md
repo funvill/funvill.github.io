@@ -18,7 +18,7 @@ A video where <a href="http://www.youtube.com/profile?user=lassegg">lassegg</a> 
 Some "Youtube" people are saying that he ripped off Michel Gondry's video but there is a pretty important difference between the two. Michel Gondry's is mixing drum sequences while lassegg is mixing just the beats of the song them remixing them.
 
 I think there is a substantial difference between the two.
-Here is <a href="http://www.youtube.com/watch?v=VaB_Do8HV2c">Michel Gondry's video</a> and heres <a href="http://www.youtube.com/watch?v=JzqumbhfxRo">lassegg video</a>
+Here is <a href="http://www.youtube.com/watch?v=VaB_Do8HV2c">Michel Gondry's video</a> and here's <a href="http://www.youtube.com/watch?v=JzqumbhfxRo">lassegg video</a>
 What one do you like better?
 
-And here is <a href="http://www.youtube.com/watch?v=CYulV4c28nA">a really slow one with a Guitar</a> thats not too good but still uses the same tech. 
+And here is <a href="http://www.youtube.com/watch?v=CYulV4c28nA">a really slow one with a Guitar</a> that's not too good but still uses the same tech. 

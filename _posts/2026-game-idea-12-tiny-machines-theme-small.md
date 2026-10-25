@@ -33,7 +33,7 @@ Engine, and working example, full source code, permissible license.
 
 ### 3. Remake of Micro Machines in the browser
 
-The idea would be to take Bruno Simon portfolio and add in new assets for an oversized environment like in Micro Machines. Then make a envisioned version of Micro Machines.
+The idea would be to take Bruno Simon portfolio and add in new assets for an oversized environment like in Micro Machines. Then make an envisioned version of Micro Machines.
 
 After getting the cars to move around on the map, the next goal would be to make a level editor that allows for loading arbitrary blender models and giving them a material. The material would dictate how they respond to the world (when hit by a car, etc…)
 

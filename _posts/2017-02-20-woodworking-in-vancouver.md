@@ -19,7 +19,7 @@ Woodworking can be a very rewarding hobby, and Vancouver is a great place to get
 
 ## Woodworking shops
 
-There are only a few good rent-able woodworking shops in Vancouver. This is because of the insurance that is required to run a open to the public woodworking shop.
+There are only a few good rent-able woodworking shops in Vancouver. This is because of the insurance that is required to run an open to the public woodworking shop.
 
 - [Maker Labs](http://www.makerlabs.com/) - A 26,000sf maker space that has a clean, well equipped woodworking shop. They provided regular courses on many different topics as well as safety courses. Their membership rates are very competitive with other shops. Among their extensive tool list, they also have a full sheet (4x8) CNC cutter ([Shopbot](http://shopbottools.com/)) that is extremely useful for furniture projects. 780 East Cordova Street,Vancouver. Open 12-9 PM, 778.984.7299 [<i class="fab fa-twitter" aria-hidden="true"></i>](https://twitter.com/MakerLabsVan), [<i class="fab fa-instagram" aria-hidden="true"></i>](http://instagram.com/makerlabs), [<i class="fab fa-facebook-official" aria-hidden="true"></i>](http://www.facebook.com/makerlabs)
 - [Vancouver Community Lab](http://vancommunitylab.com/workshops/) - Is a maker space for metal and wood working. They have good selection of wood working tools and lots of space. They run woodworking workshops but not on a regular schedule. While their membership rates are good they currently have reached their membership cap and are not accepting new members ([wait list](http://vancommunitylab.com/membership/)). 1907 Triumph St, Vancouver.
@@ -64,6 +64,6 @@ You are going to need some wood for making awesome projects.
  
 ## Places to avoid
 
-Vancouver has a lot of great resources for woodworking but there are also some places that are horrible. If you have had the unfortunate experience of going to The [Vancouver Hackspace](/alternatives-to-the-vancouver-hackspace) (VHS), please don't give up on woodworking! and try one of the great alternatives in Vancouver. Their small selection of used recycled tools are constantly broken, dull, or unsafe. Their volunteers are all but useless, and teach bad unsafe habits. They are not adequate insured and are a accident waiting to happen. Their space is too small to a project of any reasonable size. No proper ventilation, the list goes on.
+Vancouver has a lot of great resources for woodworking but there are also some places that are horrible. If you have had the unfortunate experience of going to The [Vancouver Hackspace](/alternatives-to-the-vancouver-hackspace) (VHS), please don't give up on woodworking! and try one of the great alternatives in Vancouver. Their small selection of used recycled tools are constantly broken, dull, or unsafe. Their volunteers are all but useless, and teach bad unsafe habits. They are not adequate insured and are an accident waiting to happen. Their space is too small to a project of any reasonable size. No proper ventilation, the list goes on.
 
 Don't let the Vancouver hackspace ruin your experience with woodworking.

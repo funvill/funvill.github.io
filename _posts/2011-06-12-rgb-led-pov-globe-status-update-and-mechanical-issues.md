@@ -81,11 +81,11 @@ With the top mount and the PET-G even if this project does spin honorably out 
 <strong>Issues </strong>
 <ul>
 	<li>The bluetooth receiver broke while I was mounting it to the Arduino board. Ordered another one and it should be here 2 days before Maker Faire. If it does not get here in time I will pre program the POV with a single image and use that to demo it.</li>
-	<li>I have no welding skills and i'm reliant on others to do the welds that I need for this project.</li>
+	<li>I have no welding skills and I'm reliant on others to do the welds that I need for this project.</li>
 	<li>I have burnt out two used motors testing this project. I have purchased a bran new motor for Maker faire but if it burns out on site I will not be able to replace it.</li>
 	<li>Spinning speed, there is a controversy on what speed I should spin the ring at. Its safer at slower speeds but I will get less frame rate. The POV is not spinning yet so I can not test it at different speeds.</li>
 </ul>
-<strong>Whats left to do </strong>
+<strong>What's left to do </strong>
 <ul>
 	<li>Add the top mount for safety</li>
 	<li>Add the PET-G container for safety</li>

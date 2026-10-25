@@ -14,15 +14,15 @@ excerpt: "Notes on Google Talk, the XMPP protocol behind it, and how to connect 
 
 <strong>What is Google Talk or GTalk </strong>
 
-Google talk (<a href="http://www.google.com/talk/">GTalk</a>) is a instance message client and voice over IP client provided by Google. GTalk uses an open protocol called XMPP that allows for other XMPP instance message clients to communicate with Google's GTalk network. <a href="http://www.xmpp.org/">XMPP  </a>is the same protocol that <a href="http://en.wikipedia.org/wiki/Jabber">Jabber</a> is based off so any Jabber client should be able to communicant with Google's GTalk network and client. In December 2005 Google purchased 5% of AOL and announced that in the future AIM users and GTalk users will be able to communicate with each other. Google and Skype are also exploring interoperability via the open protocol.
+Google talk (<a href="http://www.google.com/talk/">GTalk</a>) is an instance message client and voice over IP client provided by Google. GTalk uses an open protocol called XMPP that allows for other XMPP instance message clients to communicate with Google's GTalk network. <a href="http://www.xmpp.org/">XMPP  </a>is the same protocol that <a href="http://en.wikipedia.org/wiki/Jabber">Jabber</a> is based off so any Jabber client should be able to communicant with Google's GTalk network and client. In December 2005 Google purchased 5% of AOL and announced that in the future AIM users and GTalk users will be able to communicate with each other. Google and Skype are also exploring interoperability via the open protocol.
 
-Basically it is a instance message client that works on an open protocol.
+Basically it is an instance message client that works on an open protocol.
 
 <strong>What makes GTalk great</strong>
 
-The of the biggest features of GTalk is that it operates on the open protocol XMPP. XMPP is build to to be expandable with plugins and extra features.  you can add just about anything you want to the payload such as VOIP, Encryption, or video messaging, games, etc...
+The of the biggest features of GTalk is that it operates on the open protocol XMPP. XMPP is build to be expandable with plugins and extra features.  you can add just about anything you want to the payload such as VOIP, Encryption, or video messaging, games, etc...
 
-Googles Music Trends is a opt-in service bundled with GTalk that records the last play mp3 on your computer and builds trend data from it.  View the <a href="http://www.google.com/trends/music">top 20 music trends</a> from each genre.  although you are not able to see your own trend data it is still pretty interesting.  if you want to recorded your own musical trend data I suggest a service like <a href="http://www.last.fm/">last.fm</a>
+Googles Music Trends is an opt-in service bundled with GTalk that records the last play mp3 on your computer and builds trend data from it.  View the <a href="http://www.google.com/trends/music">top 20 music trends</a> from each genre.  although you are not able to see your own trend data it is still pretty interesting.  if you want to recorded your own musical trend data I suggest a service like <a href="http://www.last.fm/">last.fm</a>
 
 All your conversations in GTalk are recorded in your <a href="http://mail.google.com/mail/">GMail </a>for future reference. This can be extremely useful when trying to hunt down the restaurant that billy told you about 4 weeks ago.
 
@@ -36,7 +36,7 @@ Yes, Gtalk works with almost any jabber clients and there just so happens to be 
 
 <strong>How do I connect to GTalk network with a Jabber client </strong>
 
-It depends on your jabber client, I use <a href="http://www.ceruleanstudios.com/">Trillian </a>a instance message client that alowes you to connect variouse IM networks such as AIM, Yahoo, MSN, ICQ, IRC, Jabber, etc.
+It depends on your jabber client, I use <a href="http://www.ceruleanstudios.com/">Trillian </a>an instance message client that alowes you to connect variouse IM networks such as AIM, Yahoo, MSN, ICQ, IRC, Jabber, etc.
 
 <strong>How do I connect to GTalk with Trillian  </strong>
 

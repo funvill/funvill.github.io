@@ -14,7 +14,7 @@ A <strong>"Google twin"</strong> is a person <a href="http://www.google.ca/searc
 
 If your Google twin is ranked higher then you on google then you have to defeat him by getting your ranking for your name up higher then his.
 
-Currently when you search for 'Steven Smethurst' on Google a engine casting site shows up at rank #1 followed by 5 pages (49 links) of me.
+Currently when you search for 'Steven Smethurst' on Google an engine casting site shows up at rank #1 followed by 5 pages (49 links) of me.
 
 My goal by Christmas is to kill off my Google twin.
 At lest off rank #1 preferably off the first page completely.

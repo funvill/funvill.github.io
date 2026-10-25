@@ -10,11 +10,11 @@ tags:
   - ws2812
   - code
   - art
-excerpt: "A interactive lamp that mimics thunderstorm cloud."
+excerpt: "An interactive lamp that mimics thunderstorm cloud."
 header:
   teaser: /uploads/teaser_2017_ThunderstormCloud.png
 ---
-The Thunderstorm cloud project is an interactive lamp that mimics thunderstorm cloud. Utilizing a strip of LEDS, some sensors, and a Arduino. It is cable of creating a unique lighting storm based on its surroundings. No two thunderstorms are the same. A 60 cm wide 40 cm tall made of pillow fluff and chicken wire.
+The Thunderstorm cloud project is an interactive lamp that mimics thunderstorm cloud. Utilizing a strip of LEDS, some sensors, and an Arduino. It is cable of creating a unique lighting storm based on its surroundings. No two thunderstorms are the same. A 60 cm wide 40 cm tall made of pillow fluff and chicken wire.
 
 Made for [Luminescence II art show](http://www.burnabyartscouncil.org/event/luminescence-2/) at [Burnaby Arts Council](http://www.burnabyartscouncil.org). Source code and project files can be found in this github project: [Lightning Cloud Workshop](https://github.com/funvill/LightningCloudWorkshop)
 

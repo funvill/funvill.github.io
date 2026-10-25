@@ -15,6 +15,6 @@ excerpt: "A Cthulhu panel for the Pocket Universe dome, planned to get a green-t
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 
-[Cthulhu panel](https://en.wikipedia.org/wiki/Cthulhu). I don't like how big his head is. I wish i would have just outlined his head instead of cutting it out. If I get time this one will have a green rotating to purple glow behind it. It should look quite demonic.
+[Cthulhu panel](https://en.wikipedia.org/wiki/Cthulhu). I don't like how big his head is. I wish I would have just outlined his head instead of cutting it out. If I get time this one will have a green rotating to purple glow behind it. It should look quite demonic.
 
 7 panels done, 9 more to go. 8 days left before Maker Faire. I'm am full on panic mode. Gotta get it done.

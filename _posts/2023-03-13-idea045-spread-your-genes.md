@@ -8,13 +8,13 @@ tags:
   - ideas
   - code
   - web
-excerpt: "A outdoor game that rewards you for spreading your DNA to as many other players as possible"
+excerpt: "An outdoor game that rewards you for spreading your DNA to as many other players as possible"
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
-A outdoor game that rewards you for spreading your DNA to as many other players as possible
+An outdoor game that rewards you for spreading your DNA to as many other players as possible
 
 ## Description
 
@@ -26,7 +26,7 @@ When you join the game you are given a glyph that represents your DNA. This glyp
 
 The glyph is a modified QR code that looks alien in origin and should be instantly recognizable for anyone who has played the game, but is nonsense to anyone who hasn’t (secret knowledge)
 
-> This feels like more of a game mechanic then a actual game. It feels spammy more then fun. It needs more then this.
+> This feels like more of a game mechanic then an actual game. It feels spammy more then fun. It needs more then this.
 
 ### Goals
 

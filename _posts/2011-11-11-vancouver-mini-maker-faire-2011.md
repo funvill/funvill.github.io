@@ -15,7 +15,7 @@ excerpt: "Notes from Vancouver Mini Maker Faire 2011: sign posts, a spin-art box
 ---
 <strong>* I found this post in my drafts, unfinished, lost and forgotten. I decided to post it, unfinished instead of deleting it. * </strong>
 
-What a Amazing, fun, aw-inspiring event. Thank you everyone that put on this event, <a href="http://bluemollusc.com/">Emily</a> <a href="http://www.bigsight.org/dallas_luther">Dallas</a>, Jenny, all the volunteers, <a href="http://makerfaire.ca/makers/">makers</a> and <a href="http://makerfaire.ca/sponsorship/">sponsors</a>. Thank you for putting on a fantastic event.
+What an Amazing, fun, aw-inspiring event. Thank you everyone that put on this event, <a href="http://bluemollusc.com/">Emily</a> <a href="http://www.bigsight.org/dallas_luther">Dallas</a>, Jenny, all the volunteers, <a href="http://makerfaire.ca/makers/">makers</a> and <a href="http://makerfaire.ca/sponsorship/">sponsors</a>. Thank you for putting on a fantastic event.
 
 When I heard about this even a few months ago at <a href="http://vancouver.hackspace.ca">VHS</a>. I decide to build a RGB LED POV Globe, The same one that I have been talking about on this blog for the past few weeks. After working very hard on it with lots of help from friends, I was unable to get it working in time for Maker Faire Vancouver. Very sad but I will keep working on it and should have it ready for <a href="http://www.burningman.com/">burning man</a> this year.
 

@@ -18,7 +18,7 @@ Selecting a good host basically comes down to three things, Disk space and trans
 
 Depending on what you want to do with your website you might have different requirements.
 For example:
-if you wanted to create a photo gallery of all your 30 gigs of pictures you have taken over the last 10 years I suggest finding a host with a lot of free disk space and lots of monthly transfer. although i would stay away from the hosts that advertise unlimited space and transfer.
+if you wanted to create a photo gallery of all your 30 gigs of pictures you have taken over the last 10 years I suggest finding a host with a lot of free disk space and lots of monthly transfer. although I would stay away from the hosts that advertise unlimited space and transfer.
 If you wanted to create a blog I would suggest one with good reliability, with a company that has been around for years and isn't going anywhere soon.
 For a business website or online store reliability should be at the top of your list followed by customer service.
 
@@ -64,13 +64,13 @@ For a business website or online store reliability should be at the top of your 
 <strong>Why doesn't anyone have 100% uptime?</strong>
 Computers need to be updated every once in a while, security patches, hardware/software updates. People find bugs in programs all the time and these problems need to be resolved as soon as possible to prevent malicious people from hacking web servers. That's the official answer, the most common reason that most web servers don't have 100% uptime is that bad stuff happens such as someone accidentally pushing the red button cutting power to the data center, fire, wind storms, tornadoes, bugs chewing at the cables, massive power outages that last longer then the reserve generators can last, Godzilla and Mothra attacks, etc.
 
-99.9% uptime is nothing to laugh at, basically 99.9% means that your site will be unreachable for approximately 8 hours of the year, thats really not that bad. Even still, Murphy's law decrees that the 8 hours that you are down will be when you need it most.
+99.9% uptime is nothing to laugh at, basically 99.9% means that your site will be unreachable for approximately 8 hours of the year, that's really not that bad. Even still, Murphy's law decrees that the 8 hours that you are down will be when you need it most.
 
 Some companies like Google and Wal-mart spend millions of dollars to get 99.999% uptime (less then 18min downtime) these companies need the extra 0.099%. Just think how much money Wal-mart would lose if there servers went down right around 6pm ie prim time for shopping. They could stand to lose millions in sales and irritate there customers.
 A good article on the subject can be found at <a href="http://www.37signals.com/">37signals</a> - <a href="http://www.37signals.com/svn/archives2/dont_scale_99999_uptime_is_for_walmart.php">dont_scale_99999_uptime_is_for_walmart</a>
 
 <strong>How long the company has been around</strong>
-If the dot com burst of 2000 taught us anything is that you can guarantee a internet company will be around forever. Companies get bought, sold, traded, and go bankrupt all the time. Once a company goes under your website and its data could be gone over night. Even if you have backups setting everything all over again can be a pain full experience.
+If the dot com burst of 2000 taught us anything is that you can guarantee an internet company will be around forever. Companies get bought, sold, traded, and go bankrupt all the time. Once a company goes under your website and its data could be gone over night. Even if you have backups setting everything all over again can be a pain full experience.
 When looking for a host you want to find a company that has been around for a while. 5 years is a good amount the company should be stable enough to trust. You can use the Whois records to get a good estimates of when the company was created. I suggest using <a href="http://www.whois.sc/">whois.sc</a>
 <table width="50%">
 <tr>
@@ -101,5 +101,5 @@ When looking for a host you want to find a company that has been around for a wh
 <strong>A few other things that could help  </strong>
 <ul>
 	<li><a href="http://www.webhostingtalk.com/">Search for a few reviews</a></li>
-	<li>Send a email to the support desk to see how long it takes them to respond</li>
+	<li>Send an email to the support desk to see how long it takes them to respond</li>
 </ul>

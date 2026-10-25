@@ -48,7 +48,7 @@ The data lines are a bit more complicated as they are one directional. Having a 
 
 A few angled jigs could be created to help with the soldering of angles. Another jig could be created for charging that connects the 5v and the GND to the edge of the objects.
 
-The main processor and the battery could be floating in the center of the object or tapped to one of the inner faces of the object. The main processor should have a accelerometer and a gyro in it so it can detect the angle that the object is at.
+The main processor and the battery could be floating in the center of the object or tapped to one of the inner faces of the object. The main processor should have an accelerometer and a gyro in it so it can detect the angle that the object is at.
 
 These objects could also be attached to wires and hung from a mobile in the ceiling. Very similar to [Idea 10 - Polyhedron Papercraft Mobile](/idea010-polyhedron-papercraft-mobile/)
 

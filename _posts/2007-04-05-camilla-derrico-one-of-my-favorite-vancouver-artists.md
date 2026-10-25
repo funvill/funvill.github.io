@@ -19,8 +19,8 @@ excerpt: "Notes on Vancouver artist Camilla d'Errico, her helmet-head paintings,
 
 In 2007 she started to pop up a lot more as she started doing a lot more show local and abode.  A list of <a href="http://www.camilladerrico.com/upcomingevents.html">her upcoming shows</a> can be found on her website.
 
-She also sells prints of her work on her website, I bought a few when i met her at the comic con.
+She also sells prints of her work on her website, I bought a few when I met her at the comic con.
 
 Camillia has a standing show of her work at the <a href="http://www.aydengallery.com/">ayden gallery</a> in Tinseltown Vancouver. I highly suggest that you check out her work.
 
-A online gallery of her work can be found on her website <a href="http://www.camilladerrico.com/">Camilladerrico.com</a>, She also has a <a href="http://www.camilladerrico.com/"></a><a href="http://www.myspace.com/camilladerrico">MySpace</a>
+An online gallery of her work can be found on her website <a href="http://www.camilladerrico.com/">Camilladerrico.com</a>, She also has a <a href="http://www.camilladerrico.com/"></a><a href="http://www.myspace.com/camilladerrico">MySpace</a>

@@ -8,13 +8,13 @@ tags:
   - security
   - web
   - ideas
-excerpt: "A identify provider for all digital platforms based on social trust"
+excerpt: "An identify provider for all digital platforms based on social trust"
 ---
 > This post is part of [the 100 project ideas](/projects/2023-100-ideas/) project. [#The100DayProject](https://www.the100dayproject.org/). I am looking for feedback. <a href='#utterances-comments'>Comment</a> below or DM me via social media <a href="https://instagram.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a>, <a href="https://twitter.com/funvill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span></a>.
 
 ## One Line Pitch
 
-A identify provider for all digital platforms based on social trust
+An identify provider for all digital platforms based on social trust
 
 ## Description
 
@@ -36,7 +36,7 @@ Anyone who needs to prove that they are who they say they are. This could be whe
 
 ### User story
 
-A website/app that allows users to create an account. The account starts with no assets. When the user creates an account a OG private key is generated for them. This OG private key is shown to the user as a QR code and twelve words. The user prints his private key and stores it somewhere safe.
+A website/app that allows users to create an account. The account starts with no assets. When the user creates an account an OG private key is generated for them. This OG private key is shown to the user as a QR code and twelve words. The user prints his private key and stores it somewhere safe.
 
 The user then uses the OG private key to sign sub private keys for each of his devices. Such as a laptop or a phone, desktop computer, etc… This process adds these new devices to his assets, asserting that they are his by cryptographic signature.
 

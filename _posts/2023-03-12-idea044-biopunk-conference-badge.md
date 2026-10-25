@@ -17,7 +17,7 @@ excerpt: "A convention badge"
 
 ## One Line Pitch
 
-A electronic badge that lets you mix your badge’s pet’s DNA with others
+An electronic badge that lets you mix your badge’s pet’s DNA with others
 
 ## Description
 

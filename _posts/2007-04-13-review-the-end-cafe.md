@@ -15,7 +15,7 @@ Last Saturday night around 9pm we where killing time at Broadway Skytrain statio
 
 The place was packed with people (20 something to mid 30s) there was a live Spanish band playing on a small stage that was pretty good good. People dancing laughing and generally having a good time, great first date atmosphere.
 
-We ordered a <a href="http://www.drinksmixer.com/drink820.html">Amaretto Sour</a> ($4.50) but they couldn't have done a worse job, first they didn't use a shaker, pored one good size shot of Ameretto in to a glass of cube ice and added a shot of raspberry sour puss. I don't know what they where thinking adding sour puss to a Ameretto sour but I wouldn't pay for it. I complained for a bit and they gave me a free beer.
+We ordered a <a href="http://www.drinksmixer.com/drink820.html">Amaretto Sour</a> ($4.50) but they couldn't have done a worse job, first they didn't use a shaker, pored one good size shot of Ameretto in to a glass of cube ice and added a shot of raspberry sour puss. I don't know what they where thinking adding sour puss to an Ameretto sour but I wouldn't pay for it. I complained for a bit and they gave me a free beer.
 
 The bad drink tainted the entire night but the good music and atmosphere made up for it, I will go back to this place but I won't be ordering any of there badly mixed drinks.
 

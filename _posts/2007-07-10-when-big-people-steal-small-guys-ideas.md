@@ -37,4 +37,4 @@ Adobe should do one of three things
 What are your ideas on this?
 If a big company steals a little guys project and adds a bunch of features making it "Better" is it right?
 
-Where is gets sticky is if you cant build on other peoples work then there would only be one OS in the world. As far as I know IBM was the first company to build an OS. Windows, Apple's OS, Linux all came after and I can't really image a world with out Windows and other compedators.
+Where is gets sticky is if you can't build on other peoples work then there would only be one OS in the world. As far as I know IBM was the first company to build an OS. Windows, Apple's OS, Linux all came after and I can't really image a world with out Windows and other compedators.

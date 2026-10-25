@@ -46,7 +46,7 @@ This should be workshopped so that as many different types of objects are repres
 - **Analog output** - RGB LED where the brightness or color represents the value
 - **Multi-state Input**
 - **Multi-state output**
-  - Set the mode of a Analog input
+  - Set the mode of an Analog input
 - **BitString Value**
   - Current state of all the LEDS. On or Off
   - Current state of all the button, Up or down

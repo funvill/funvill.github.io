@@ -30,7 +30,7 @@ A small personal list of what to do in vancouver
 	<li><a href="http://www.scienceworld.bc.ca/">Science World</a> on a day you are feeling fun and silly, you should make a point of checking out their <a href="http://www.scienceworld.bc.ca/whats_on/alcan_omnimax_theatre/overview.htm">OMNIMAX theatre</a>. CRAZY FUN.</li>
 	<li>Explore Commercial Drive. Thoroughly</li>
 	<li>A hookah in The Persian Tea House on Davie and Granville.</li>
-	<li>Open Mic's and and local/indie music</li>
+	<li>Open Mic's and local/indie music</li>
 	<li>Zen Garden in China town.</li>
 	<li>Anime shops in China town.</li>
 	<li>Farmer's Market at Trout Lake Park</li>

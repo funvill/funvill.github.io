@@ -16,7 +16,7 @@ Useful links
 Places to get laser cut files
 http://www.thingiverse.com/tag:laser - You can also get 3d printer files from here as well.
 http://msraynsford.blogspot.co.uk/ - 365 laser cut items in 365 days.
-http://www.123dapp.com/ - This is a app developed by auto desk It will take 3D models and slice them in to flat layers that can be cut on the laser cutter. Then stacked on top of each other to form a 3D shape.
+http://www.123dapp.com/ - This is an app developed by auto desk It will take 3D models and slice them in to flat layers that can be cut on the laser cutter. Then stacked on top of each other to form a 3D shape.
 http://thenounproject.com/ - These files are not meant for the laser cutter and may need a few touch ups before using them but they are awesome.
 Places to get ideas (no "free" files provided)
 http://cncking.com/laser-cutter-projects.html

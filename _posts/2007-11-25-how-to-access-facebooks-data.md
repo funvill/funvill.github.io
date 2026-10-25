@@ -90,5 +90,5 @@ $users_getInfo = $facebook-&gt;api_client-&gt;users_getInfo( '732945108', "name"
 
 The test console is a great tool for testing out how methods work and how the response is formatted.
 
-Now we want to put all three of these functions together to create a application that lists all your friends common friend.
+Now we want to put all three of these functions together to create an application that lists all your friends common friend.
 <a href="/public/uploads/2007/11/popfriends.txt">PopFriends.txt</a> demonstrates how to do this.

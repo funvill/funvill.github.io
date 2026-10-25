@@ -40,4 +40,4 @@ Feedburner while free, has many other problems with it and no support to turn to
 
 Sending ~6000 emails every morning from MailChimp, it would cost around ~<a href="http://mailchimp.com/pricing/b/growing-business/">$75 per month for 5,800-10,000 subscribers</a>. This is a cost that we just can't afford to pay at this moment. Other email services like MailChimp cost about the same amount or more.
 <h3>Plea for help</h3>
-How do you send a email to a large subscription base daily on the cheap?
+How do you send an email to a large subscription base daily on the cheap?

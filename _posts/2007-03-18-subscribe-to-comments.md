@@ -14,7 +14,7 @@ I found this great plug-in for [tag]Wordpress[/tag] that allows your users to su
 
 This is much easier then having to check back on the post periodically to see if anyone has made a response to your response or subscribe to the comments <a href="/what-are-rss-feeds-and-how-to-use-them/">rss feed</a>.
 
-The Plugin is very easy to install - just upload two files and activate the Plug-in in the Wordpress Plug-in's control panel.
+The Plugin is very easy to install - just upload two files and activate the Plug-in the Wordpress Plug-in's control panel.
 
 Currently I set the default subscription to true, but you can disable it by un-checking the subscription check box when creating a comment.
 

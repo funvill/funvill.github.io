@@ -46,7 +46,7 @@ Having separate applications/binaries for each command line tool allows you to s
 
 - **tree** - Displays all the files and folders in a tree that can be expanded. Add options to show the file size, creation date, type of file, allow for filtering on. Allow the tree to be printed to PDF for including in manuals.
 - **find/[fd](https://github.com/sharkdp/fd)** - Fuzzy search for files. Allow for looking in files by their file name or for a string within the files. Allow for simple templates for the fuzzy search. “?” for exactly one any character, “*” for one or more of any character.
-- **DNS client / Nslookup / [dog](https://github.com/ogham/dog)** - A DNS client for the computer that looks up the DNS records for a domain. Including the contact information and the server information. A AAAA NS MX TXT records.
+- **DNS client / Nslookup / [dog](https://github.com/ogham/dog)** - A DNS client for the computer that looks up the DNS records for a domain. Including the contact information and the server information. An AAAA NS MX TXT records.
 - **netstat** - What program is using what sockets ports UDP/TCP.
 - **Systeminfo** - Create a report of all the hardware and software that is installed on your computer. Like a snapshot of its current state.
 - **ipconfig / ifconfig** - Show your adapter settings, allow for release and renew of adapters, or manually setting the adapters ip addresses.

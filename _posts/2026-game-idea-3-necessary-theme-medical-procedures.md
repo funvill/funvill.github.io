@@ -23,7 +23,7 @@ You control a blocky cell-shaded hand (Think the hands from the old man hand fro
 
 The hand takes up 25% of the bottom half of the screen. You can see a little bit of the wrists as you move it up the screen.
 
-In the top of the screen there is a inky black blob that looks similar to e-coli or blown ink artwork with its main mass and tendrils reaching out in all directions. It's inky black covered with shadows (like blown ink). It should have the feelings of being terrified of the hand, desperate, scared for its life.
+In the top of the screen there is an inky black blob that looks similar to e-coli or blown ink artwork with its main mass and tendrils reaching out in all directions. It's inky black covered with shadows (like blown ink). It should have the feelings of being terrified of the hand, desperate, scared for its life.
 
 The game starts as the hand reaches up to grab the inky mass, its squishes in the fingers and the tendrils squirm out in all directions off the screen. Your hand still holds most of the mass. The view port zooms out and there are obstacles on the screen. The tendrils reach out and attach to these obstacles. Your hand automatically pulls towards the bottom of the screen.
 

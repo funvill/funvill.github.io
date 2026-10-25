@@ -33,7 +33,7 @@ Its cheaper and better in almost all ways to build your own version.
 
 The first easy solution is to buy a [Jackey Portable Power Station](https://ca.jackery.com/). It giant battery with an 12v DC to 120v AC inverter, with some extra smarts. They cost around $450. It dead simple and would just work. That half the costs off to a good start. The issue is that they are bulky and hard to fly with. I figured that I could build a DIY solution for half this price.
 
-The next idea is to use a USB-C PD power bank. They are easy to find at any store that sells electronics (Walmart, Amazon), easy to charge (Standard USB-C), small enough to carry on a airplane (<100W) and the PD (Power Delivery) standard can output 20V at 5A (100W). [All about USB-C PD standard](https://hackaday.com/2023/01/09/all-about-usb-c-power-delivery/)
+The next idea is to use a USB-C PD power bank. They are easy to find at any store that sells electronics (Walmart, Amazon), easy to charge (Standard USB-C), small enough to carry on an airplane (<100W) and the PD (Power Delivery) standard can output 20V at 5A (100W). [All about USB-C PD standard](https://hackaday.com/2023/01/09/all-about-usb-c-power-delivery/)
 
 According to the adapter the Resmed AirMini requires 24V at 0.83A (20W), and the Resmed Airsense 11 requires 24v at 2.71A (65.04W). Actual power testing shows that Airsense 11 only needs 1.2A when the heated hose and humidifier are disabled.
 

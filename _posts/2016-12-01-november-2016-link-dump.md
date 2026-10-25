@@ -36,7 +36,7 @@ What has interested me in the month of November 2016
 
 ## Knowledge
 
-- [Path to craftsmanship: Dont buy awful safety gear](https://hackaday.com/2016/11/14/path-to-craftsmanship-dont-buy-awful-safety-gear/) - A good guide on how to keep yourself alive when working on projects. It also includes a recommendations on what equipment to buy.
+- [Path to craftsmanship: Don't buy awful safety gear](https://hackaday.com/2016/11/14/path-to-craftsmanship-dont-buy-awful-safety-gear/) - A good guide on how to keep yourself alive when working on projects. It also includes a recommendations on what equipment to buy.
 - [Critical Making](http://conceptlab.com/criticalmaking/) - Critical Making is a handmade book project by Garnet Hertz that explores how hands-on productive work ‐ making.
 - [Doomsday planning for less crazy folk](http://lcamtuf.coredump.cx/prep/) - When ever doomsday talk starts I point people at this article.
 - [Guerrilla guide to CNC](http://lcamtuf.coredump.cx/gcnc/) - A great guild to setting up a CNC.

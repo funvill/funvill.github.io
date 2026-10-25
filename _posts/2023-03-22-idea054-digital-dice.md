@@ -33,7 +33,7 @@ To program it with a new range, rotate the die to a face then tap it to activate
 
 For example, say you needed to roll 3d6. Rotate the dice to side 1 then tap it on the table twice. The face will show what dice type mode it is in. Rotate the dice to side 2, then tap it on the table three times. Every time you tap the dice, it counts up the count of dice and shows the new range. 3d6 = 3-18
 
-It is expected that once the dice is programmed, the player wont change it until they find a new weapon or level up. This digital dice would only be used for specific actions.
+It is expected that once the dice is programmed, the player won't change it until they find a new weapon or level up. This digital dice would only be used for specific actions.
 
 The LCDs could show animations as they roll, similar to a slot machine where the faces are slowly rotating until they land on a number. Add some suspense to the rolls.
 

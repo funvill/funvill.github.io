@@ -1,5 +1,5 @@
 ---
-title: "InkPop.com, Are spammers and a security risk for their users. DONT USE THEM. They suck"
+title: "InkPop.com, Are spammers and a security risk for their users. DON'T USE THEM. They suck"
 date: 2011-07-01 13:37:00
 slug: inkpop-com-are-spammers-and-a-security-risk-for-their-users-dont-use-them-they-suck
 categories:

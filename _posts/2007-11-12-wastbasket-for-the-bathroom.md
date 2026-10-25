@@ -10,7 +10,7 @@ tags:
   - review
 excerpt: "A bathroom wastebasket from SnowTone with a lid you seal by dropping in a magazine, made for toilet readers."
 ---
-The bin can be sealed by a ordinary magazine, useful for people who like to read on the toilet
+The bin can be sealed by an ordinary magazine, useful for people who like to read on the toilet
 
 <img src="/public/uploads/2007/11/basket-chrome.jpg" />
 

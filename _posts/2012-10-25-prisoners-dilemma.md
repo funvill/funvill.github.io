@@ -19,7 +19,7 @@ I have been trying to think of a simple programming competition that we can ru
 
 Too challenging for a SHHH where would probably consuming some beers and having fun. I was hoping for one with less of a barrier to entry where people with less programming experience could at-lest join in.
 
-A few months ago I listened to a <a href="http://www.radiolab.org">Radio Lab</a> podcast on <a href="http://www.radiolab.org/blogs/radiolab-blogland/2010/dec/14/prisoners-dilemma/">the prisoners-dilemma</a> where they describe the problem and created a competition where people could submit robots that would play this game. They went on to describe the outcome of a few of these robots, how they worked, why they worked that way. It was a interesting podcast.
+A few months ago I listened to a <a href="http://www.radiolab.org">Radio Lab</a> podcast on <a href="http://www.radiolab.org/blogs/radiolab-blogland/2010/dec/14/prisoners-dilemma/">the prisoners-dilemma</a> where they describe the problem and created a competition where people could submit robots that would play this game. They went on to describe the outcome of a few of these robots, how they worked, why they worked that way. It was an interesting podcast.
 
 <img class="alignright size-medium wp-image-2930" style="line-height: 24px; font-size: 16px;" title="PrisonersDilemma" src="/public/uploads/2012/10/PrisonersDilemma-300x167.png" alt="" width="300" height="167" />
 

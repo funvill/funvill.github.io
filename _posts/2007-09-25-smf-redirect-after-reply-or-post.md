@@ -16,7 +16,7 @@ it works great but it has had a few odd quirks including;
 Every time you created topic or replyed to a post it sent you back to the board index instead of the topic.
 it took me a while to figure out why this was happening and I thought I would share my solution with you.
 
-Its a OPTION for your users, the default is set to return the user to the board index after a post.
+Its an OPTION for your users, the default is set to return the user to the board index after a post.
 You can change the option from your admin control panel.
 
 Go to Admin-&gt;Themes and Layout-&gt;Reset Options and click on:

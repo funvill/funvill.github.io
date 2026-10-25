@@ -32,7 +32,7 @@ A paper sheet like to-do list for simple daily lists.
 I have posted about my hate for [teamviewer](/why-i-hate-teamviewer) and their horrible licence system before. A few years ago there wasn't many good alternatives to TeamViewer but that has changed. Now I am happy to suggest [Anydesk](https://anydesk.com/remote-desktop), and [Zoho assist](https://www.zoho.com/assist/). 
 
 ### Sarah Anne Johnson [FIREWORKS (2012)](http://sarahannejohnson.ca/works/fireworks-2012/) 
-> Fireworks is an extension of the work I completed for Arctic Wonderland, and it was commissioned in 2012 by the Winnipeg Art Gallery for its centennial exhibition (Winnipeg Now.) The main element of this piece is the massive illuminated fireworks sculpture I created to hang from the ceiling. Inside are different types of lights that burst, flicker, and shine at various times and with vivid colors. Underneath this piece is a schooner that originally had figurines partying on it, but I later reconfigured it to be filled with fleshy silicon mounds. The whole piece is set against a backdrop photograph of the arctic, giving an ironic undertone the the celebratory jubilation happening with the sculpture.
+> Fireworks is an extension of the work I completed for Arctic Wonderland, and it was commissioned in 2012 by the Winnipeg Art Gallery for its centennial exhibition (Winnipeg Now.) The main element of this piece is the massive illuminated fireworks sculpture I created to hang from the ceiling. Inside are different types of lights that burst, flicker, and shine at various times and with vivid colors. Underneath this piece is a schooner that originally had figurines partying on it, but I later reconfigured it to be filled with fleshy silicon mounds. The whole piece is set against a backdrop photograph of the arctic, giving an ironic undertone the celebratory jubilation happening with the sculpture.
 
 Check out her website for a video. Its impressive. 
 
@@ -44,7 +44,7 @@ Basically, paper cut-outs are layered on each other in a box with a glass frame.
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/sKzEJ"><a href="//imgur.com/sKzEJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Furtherfield
-[Furtherfield](https://www.furtherfield.org/) A art and technology gallery, that has some interesting blockchain art exhibits. I found out about furtherfield thou the [disobedient electronics](https://www.furtherfield.org/disobedient-electronics-protest-book-review/) book. 
+[Furtherfield](https://www.furtherfield.org/) An art and technology gallery, that has some interesting blockchain art exhibits. I found out about furtherfield thou the [disobedient electronics](https://www.furtherfield.org/disobedient-electronics-protest-book-review/) book. 
 
 ### Plantoids
 [Plantoids](https://bitcoinmagazine.com/articles/plantoids-the-first-blockchain-based-artificial-life-forms-1482768916/): The First Blockchain-Based Artificial Life Forms A neat sculpture art project that uses the smart-contracts and the blockchain to receive donations. When it receives enough money it commissioners another version of its self, replicating. 

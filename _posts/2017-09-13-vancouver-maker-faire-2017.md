@@ -42,7 +42,7 @@ For more information about this project, including source code, and parts list, 
 
 ## Thunderstorm cloud
 
-The Thunderstorm cloud project is an interactive lamp that mimics thunderstorm cloud. Utilizing a strip of LEDS, some sensors, and a Arduino. It is cable of creating a unique lighting storm based on its surroundings. No two thunderstorms are the same. A 60 cm wide 40 cm tall made of pillow fluff and chicken wire.
+The Thunderstorm cloud project is an interactive lamp that mimics thunderstorm cloud. Utilizing a strip of LEDS, some sensors, and an Arduino. It is cable of creating a unique lighting storm based on its surroundings. No two thunderstorms are the same. A 60 cm wide 40 cm tall made of pillow fluff and chicken wire.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhZVbw8gZVWK1zxaSK1JQAFXm9AHjC9eponqBlM4I0z20SrL1LQhr0mcnkVTOaszG_2iKyKp2MqTR2/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

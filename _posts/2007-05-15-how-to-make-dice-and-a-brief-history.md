@@ -19,7 +19,7 @@ The oldest known dice where probably divining sticks made from twigs that where 
 
 Sometimes in medieval England, dice where thrown on a dice board. The board was divide in to six spaces and a funnel was mounted above the board that the dice where dropped in to it. Instead of using the value found on the dice, they used the value of the squares where the dice landed.
 
-Dice are a essential part of many game, and are needed for everything from <a href="/drinking-game-boxing/">Boxing</a> to Yahtzee. A pair of misplaced dice can destroy your plans for the weekend, I know its happened to me many times.
+Dice are an essential part of many game, and are needed for everything from <a href="/drinking-game-boxing/">Boxing</a> to Yahtzee. A pair of misplaced dice can destroy your plans for the weekend, I know its happened to me many times.
 
 Next time you are stranded without a pair of dice and your guests are already on there way, try printing off a few of these  origami paper dice. A little glue or tap and a printer is all you need.
 <table align="center">

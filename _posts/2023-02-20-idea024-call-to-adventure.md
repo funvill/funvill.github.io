@@ -19,7 +19,7 @@ A mystery letter is delivered filled with puzzles that need to be solved in orde
 
 ## Description
 
-<img src="/public/uploads/2023/pigpen.png " alt="pigpen" style="float: right;margin: 10px; border: 1px solid black; padding: 5px"/>Create a letter that has a call to action “You have been chosen” to describe a scenario where they are needed to right a wrong that has happened in the world. Then say “To ensure that this letter has been delivered to the the right person, you must solve these problems three”
+<img src="/public/uploads/2023/pigpen.png " alt="pigpen" style="float: right;margin: 10px; border: 1px solid black; padding: 5px"/>Create a letter that has a call to action “You have been chosen” to describe a scenario where they are needed to right a wrong that has happened in the world. Then say “To ensure that this letter has been delivered to the right person, you must solve these problems three”
 
 Where, When, Password
 

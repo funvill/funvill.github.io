@@ -35,7 +35,7 @@ I ended up with the low tech method of using clear packing tape stretch across t
 
 ### Dividers between the different segments in the design. 
 
-Each segment of the design has a individually addressable LED. I needed a way to prevent the light from one LED from bleeding into the segment of a neighboring LED. 
+Each segment of the design has an individually addressable LED. I needed a way to prevent the light from one LED from bleeding into the segment of a neighboring LED. 
 
 My first idea was to use the laser cutter to create slotted dividers between each segment. This would have taken a bunch of time to design and I wanted to rapidly iterate on different designs. 
 

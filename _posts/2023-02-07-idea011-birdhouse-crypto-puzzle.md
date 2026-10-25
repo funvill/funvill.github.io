@@ -97,7 +97,7 @@ Z = 26 | ⬜🟩⬜🟩🟩
 
 ### Example 1 - Bushtit
 
-Each one of these columns would be a different bird house. On each bird house there would be a letter on the left and a index on the right
+Each one of these columns would be a different bird house. On each bird house there would be a letter on the left and an index on the right
 
 <img src="/public/uploads/2023/example-bushtit.png" alt="example bushtit" style="margin: 10px; border: 1px solid black; padding: 5px"/>
 

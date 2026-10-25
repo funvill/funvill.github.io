@@ -43,7 +43,7 @@ Twitter.com only gives you the very basic theme options, good enough for most pe
 +2 points for tumblr.com (I really like there theme viewer/editor)
 
 <strong>Conclusion</strong>
-Go with whatever service has more of your friends on it. There both pretty much the same. If you are the first or a trendsetter I would suggest tumblr.com. I personally will not be switching off of Wordpress myself. Wordpress is just too powerful and I can host it on my own servers (+10,000 points) my own paranoia wont let me use any of these services for too long.
+Go with whatever service has more of your friends on it. There both pretty much the same. If you are the first or a trendsetter I would suggest tumblr.com. I personally will not be switching off of Wordpress myself. Wordpress is just too powerful and I can host it on my own servers (+10,000 points) my own paranoia won't let me use any of these services for too long.
 
 9 points for twitter.com
 12 points for tumblr.com

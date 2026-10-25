@@ -17,7 +17,7 @@ For the people that grew up with the <a href="http://en.wikipedia.org/wiki/The_M
 Today with the help of <a href="http://www.neatorama.com/2007/04/24/roflmao-is-the-name-of-the-video/">Neatorama.com</a> I found a few version featuring characters from <a href="http://en.wikipedia.org/wiki/World_of_Warcraft">WOW</a>.
 
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/iEWgs6YQR9A"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/iEWgs6YQR9A" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
-<a href="http://www.youtube.com/watch?v=iEWgs6YQR9A">ROFLMAO </a>(thats the name of the song)
+<a href="http://www.youtube.com/watch?v=iEWgs6YQR9A">ROFLMAO </a>(that's the name of the song)
 
 Enjoy.
 All my <a href="http://www.youtube.com/profile?user=funvill">favorite Youtube videos</a> can be found on my Youtube account.

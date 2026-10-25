@@ -16,7 +16,7 @@ Everyone in the game gets a name which ends with shit (i.e.  Batshit, Dogshit, 
 
 The drinking game starts when someone starts to tell a long winded story that includes the word shit several times.
 "
-I was walking through the woods and it was some crazy shit, absolutely wild shit, i might have even been smoking shit, etc€¦"
+I was walking through the woods and it was some crazy shit, absolutely wild shit, I might have even been smoking shit, etc€¦"
 
 Usually the crowd eggs the person on.  Then the storyteller will work in one of the group members names (eg. batshit) at which time the person has to say:
 Player:  Who shit?

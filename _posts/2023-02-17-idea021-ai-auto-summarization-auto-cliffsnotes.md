@@ -20,7 +20,7 @@ Use AI to summarize large amounts of information into brief notes and key points
 
 Our world is becoming more and more complicated every single day. There is no stopping it. We need to make tools to help us manage the sheer amount of incoming data that we have to process every single day.
 
-A email thread from a dozen people with hundreds of replies, A book with a few hundred pages, form posts that have 100s of replies, A twitter thread with a few dozen messages, project activity logs after returning from a few weeks vacation. Understanding and creating a summary of any large chunk of text can be time consuming to process, it often takes someone who “lived through the process” to be able to quickly understand all the important details of a subject.
+An email thread from a dozen people with hundreds of replies, A book with a few hundred pages, form posts that have 100s of replies, A twitter thread with a few dozen messages, project activity logs after returning from a few weeks vacation. Understanding and creating a summary of any large chunk of text can be time consuming to process, it often takes someone who “lived through the process” to be able to quickly understand all the important details of a subject.
 
 We could make a service that takes a url to a large text subject and tries to reduce it to the smallest amount of key information as possible. Creating a summer of the whole body of text.
 

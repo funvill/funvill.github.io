@@ -15,7 +15,7 @@ After it was done I went to leave a comment only to find that comments have been
 
 Instead he suggest that you make a comment on your own site and use a track back to his website.
 Warren Ellis is a decently big fish on the intarweb(s) so he actually gets track back.
-I checked <a href="http://technorati.com/blogs/www.warrenellis.com">Technorati</a> 5600 links with an authority: 1,349 thats damn good.
+I checked <a href="http://technorati.com/blogs/www.warrenellis.com">Technorati</a> 5600 links with an authority: 1,349 that's damn good.
 Comparatively <a href="http://www.everydayfiction.com">EveryDayFiction.com</a> has 140 links and an authority 83.
 
 Its a good idea.

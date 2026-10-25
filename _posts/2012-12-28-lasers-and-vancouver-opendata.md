@@ -21,7 +21,7 @@ These maps took about 2 hrs each to cut and look amazing. This is a map of all t
 
 <a href="/public/uploads/2012/12/IMG_8983.jpg"><img class="alignnone size-medium wp-image-3104" alt="IMG_8983" src="/public/uploads/2012/12/IMG_8983-300x225.jpg" width="300" height="225" /></a> <a href="/public/uploads/2012/12/IMG_8984.jpg"><img class="alignnone size-medium wp-image-3105" alt="IMG_8984" src="/public/uploads/2012/12/IMG_8984-300x225.jpg" width="300" height="225" /></a> <a href="/public/uploads/2012/12/IMG_8985.jpg"><img class="alignnone size-medium wp-image-3106" alt="IMG_8985" src="/public/uploads/2012/12/IMG_8985-300x225.jpg" width="300" height="225" /></a>
 
-The problems with these maps is that I only used 1/16th inch wood. The wood bowed and twisted significantly. To flatten it out, I had to soak the map in water for an hour then stack books on top of it. Next time I think i will use thicker wood 1/8th or 1/4th
+The problems with these maps is that I only used 1/16th inch wood. The wood bowed and twisted significantly. To flatten it out, I had to soak the map in water for an hour then stack books on top of it. Next time I think I will use thicker wood 1/8th or 1/4th
 
 The maps are also very busy, with lots of lines. The next time I do this I will make a map with less lines. maybe just the parks or the bike lanes, etc..
 

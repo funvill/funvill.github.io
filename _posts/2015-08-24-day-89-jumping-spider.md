@@ -17,4 +17,4 @@ excerpt: "A laser-cut wood jumping spider with a top hat, another entry in the F
 
 Jumping spider with a top hat stencil for #burningman, made with vhs #lasercutter. 89 of 100 for #the100dayproject. #insect #bug #laser #wood #tophat #fancybugs #spider #jumpingspider
 
-Hes a genital bug!
+He's a genital bug!

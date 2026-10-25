@@ -15,7 +15,7 @@ You have no expectation of privacy. We will collect any and all information you 
 Today on Slashdot they have an article on <a href="http://yro.slashdot.org/story/10/12/09/1718255/The-First-Truly-Honest-Privacy-Policy?from=rss">privacy policy</a> and it got me thinking about how much information I can collect about you just by viewing some of my content hosted by my server.
 
 <strong>What is my content?</strong>
-It could be 'this page' or Image or a JavaScript that does something interesting or an IFrame or something along thous lines. But it could also be a ad placed on anther persons website or any 3rd party script. just viewing this post exposes your information to at lest three people {Google, Yahoo, Me}
+It could be 'this page' or Image or a JavaScript that does something interesting or an IFrame or something along thous lines. But it could also be an ad placed on anther persons website or any 3rd party script. just viewing this post exposes your information to at lest three people {Google, Yahoo, Me}
 
 <strong>Three people isn't so bad right?
 </strong>Its not too bad but Google could share that information with other 3rd parties and other people could share that info with others. Once it leaves your browser you really don't have control of it any longer. For example <a href="http://dictionary.reference.com/">Dictionary.com</a> has <a href="http://blogs.wsj.com/wtk/">240+ trackers</a>
@@ -56,7 +56,7 @@ For example;
 </ul>
 </li>
 </ul>
-A lot of this information is harmless by its self but the information that it infers about you can help me tremendousness while building a profile of you. After your first visit I can set a cookie to "uniquely Identify you" among all the visitors to my site. If you don't accept cookies then i can use your MAC address and your user adgent  to create a pretty good unique Identifier.
+A lot of this information is harmless by its self but the information that it infers about you can help me tremendousness while building a profile of you. After your first visit I can set a cookie to "uniquely Identify you" among all the visitors to my site. If you don't accept cookies then I can use your MAC address and your user adgent  to create a pretty good unique Identifier.
 
 Now that I have a "unique Identifier" for you I can keep a log of all the pages that you visit on my site and all the pages you visit on my "friends" pages where they include my content or any 3rd party that shares there logs with me. I can track how long you stay on each page, how big your monitor is, what is your resolution, how often you are on line, where you go to get online, what devices you use to get online, who else uses the same devices (who your family members or friends are), etc. etc.
 

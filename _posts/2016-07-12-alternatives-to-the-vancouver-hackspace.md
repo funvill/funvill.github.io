@@ -67,7 +67,7 @@ This is a list of the alternatives to The Vancouver Hackspace (VHS) as well as a
 
 ### Meetups
 
-- [The Open Science Network](http://www.meetup.com/open-science-network/) - [YVR DIYbio](http://www.opensciencenet.org) is is a community in which burgeoning biological engineers can come together to learn and share ideas, bringing back that enthusiasm for science we experienced as kids. DIYbio promotes the responsible and safe practice of scientific techniques.
+- [The Open Science Network](http://www.meetup.com/open-science-network/) - [YVR DIYbio](http://www.opensciencenet.org) is a community in which burgeoning biological engineers can come together to learn and share ideas, bringing back that enthusiasm for science we experienced as kids. DIYbio promotes the responsible and safe practice of scientific techniques.
 - [Hack the Night - Richmond Public Library](https://www.meetup.com/rpltechmeetup) - Richmond Public Library Tech Meetup to learn about the latest technologies, meet and network with other technologists, and collaborate with others on creative tech projects. We have meetups about 3D printing, coding, VR, and much more.
 - [Creative Mornings](https://creativemornings.com/cities/van) - A series of talks about creative things and things that effect your life. [<i class="fab fa-twitter" aria-hidden="true"></i>](https://twitter.com/vancouver_cm), [<i class="fab fa-instagram" aria-hidden="true"></i>](https://instagram.com/creativemorningsvancouver)
 - [OpenDataBC-Vancouver](http://www.meetup.com/OpenDataBC-Vancouver/) - OpenDataBC is a collaborative effort by a group of B.C. residents to explore, promote and create value with open data and related technologies.
@@ -371,7 +371,7 @@ Online retailers of components and dev boards.
 ### 3D printable models
 
 - [Yobi3D](https://www.yobi3d.com/) - A 3D model search engine.  Search results are shown in 3D.
-- [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
+- [Pinshape](https://pinshape.com/) - An online catalog of 3D printer models. Paid and free.
 - [MyMiniFactory](https://www.myminifactory.com/) - A decent selection of curiated 3D-printable models.
 - [ThingiVerse](http://www.thingiverse.com) - The original online catalog of 3D printer models.
 - [YouMagine](https://www.youmagine.com/) - Open source designs and 3D-printable models.

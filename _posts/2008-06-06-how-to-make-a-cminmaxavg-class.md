@@ -11,7 +11,7 @@ tags:
 excerpt: "A small C++ CMinMaxAvg class that tracks count, total, min, max, and average for a stream of ints."
 ---
 I got asked how to create a simple averaging class.
-If you where feeling smart you could enhance this class in to a template class for a object that has the =,+,&gt;,&lt; operator. But I'm feeling lazy today.
+If you where feeling smart you could enhance this class in to a template class for an object that has the =,+,&gt;,&lt; operator. But I'm feeling lazy today.
 <pre>class CMinMaxAvg
 {
 private :

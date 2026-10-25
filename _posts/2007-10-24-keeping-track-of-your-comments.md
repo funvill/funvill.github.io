@@ -10,11 +10,11 @@ tags:
   - tutorial
 excerpt: "Comparing Subscribe-to-Comments plugins against coComment.com for tracking replies on the blogs you comment on."
 ---
-One problem i have is that while i am browsing around the internet making comments on peoples blogs i often forgot to check back in a week to see if there are any responses.
+One problem I have is that while I am browsing around the internet making comments on peoples blogs I often forgot to check back in a week to see if there are any responses.
 
 Some people have 'Subscribe to comments via email' plugin installed but it doesn't work one blogs that get 100+ comments per post.
 <h3>Subscribe to comments via email</h3>
-This is a popular solution for many web site developers, its a little check box at the bottom of each post that lets your users get a email notification automatically when ever someone replies to the post. Easily installed on most blogging platforms with a plugin.
+This is a popular solution for many web site developers, its a little check box at the bottom of each post that lets your users get an email notification automatically when ever someone replies to the post. Easily installed on most blogging platforms with a plugin.
 
 <strong>The Advantages  </strong>
 Easy install, Simple for the users.
@@ -22,7 +22,7 @@ Easy install, Simple for the users.
 <strong>The Disadvantage  </strong>
 It can get annoying to get 100+ comments on a post that is very popular.
 <h3>coComment.com</h3>
-There is also online service called <a href="http://www.cocomment.com/">coComment.com</a> that tries to create a list of all your online conversations. It works by installing a browser plug-in that checks the pages for certain HTML elements and inserts a coComments bar. When you post a comment on a supported blogging platform such as Wordpress, Blogger, Flicker, Digg, Type pad, <a href="http://www.cocomment.com/supported">and others</a> it copies the comment and adds it to your <a href="http://www.cocomment.com/comments/funvill">online profile</a>. When someone replies to the post you are altered with a icon in your browser.
+There is also online service called <a href="http://www.cocomment.com/">coComment.com</a> that tries to create a list of all your online conversations. It works by installing a browser plug-in that checks the pages for certain HTML elements and inserts a coComments bar. When you post a comment on a supported blogging platform such as Wordpress, Blogger, Flicker, Digg, Type pad, <a href="http://www.cocomment.com/supported">and others</a> it copies the comment and adds it to your <a href="http://www.cocomment.com/comments/funvill">online profile</a>. When someone replies to the post you are altered with an icon in your browser.
 
 <strong>The Advantage
 </strong>It creates a clean easy to read list of posts where there have been replies since you last made a comment, and its dead simple to use.

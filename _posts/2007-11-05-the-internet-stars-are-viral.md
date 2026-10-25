@@ -9,7 +9,7 @@ tags:
   - bookmark
 excerpt: "A viral video about viral videos, cutting together the year's most-watched clips into one montage."
 ---
-Over the past year there have been a lot of viral videos, being addticted to the interent i seen them all.
+Over the past year there have been a lot of viral videos, being addticted to the interent I seen them all.
 Here is a montages of some of the more popular ones.
 
 A viral video about viral videos... hmm.

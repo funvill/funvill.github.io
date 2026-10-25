@@ -28,7 +28,7 @@ Yes they do, manufacturers almost never give you pure filament. Normally it is d
 
 ## 3D Printable models
 
-- [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
+- [Pinshape](https://pinshape.com/) - An online catalog of 3D printer models. Paid and free.
 - [GrabCAD](https://grabcad.com/) - Professional 3D models for manufacting parts.
 - [Yeggi.com](http://www.yeggi.com/) - Search Engine for 3D printable Models. Searches a lot of the smaller sites.
 - [ThingiVerse](http://www.thingiverse.com) - The original online catalog of 3D printer models.

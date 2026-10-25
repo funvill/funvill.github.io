@@ -12,7 +12,7 @@ tags:
   - maker-faire
 excerpt: "Laser-cut controller box for the Giant Claw Game with an arcade joystick, a fire button, and an RJ45 pigtail."
 ---
-Continuing from my last post on <a href="/the-giant-claw-game-vancouver-maker-faire-2013-project/">The Giant Claw Game!</a> This week I build the controller for the Giant Claw using the laser cutter, a arcade joystick and a button.
+Continuing from my last post on <a href="/the-giant-claw-game-vancouver-maker-faire-2013-project/">The Giant Claw Game!</a> This week I build the controller for the Giant Claw using the laser cutter, an arcade joystick and a button.
 
 <img class="size-medium wp-image-3209 alignright" alt="messing wiring" src="/public/uploads/2013/03/2013-03-04-14.55.00-300x225.jpg" width="300" height="225" />
 

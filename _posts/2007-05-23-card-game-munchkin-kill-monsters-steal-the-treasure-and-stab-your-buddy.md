@@ -18,8 +18,8 @@ excerpt: "A writeup of Steve Jackson's card game Munchkin, with a list of every 
 
 Munchkin is one of my favorite card games of all time, anyone that has ever played a d20 system such as dungeons and dragons can relate to this game. Its captures the essence of the dungeon and dragons experience with none of that boring roleplaying stuff.
 
-The game was invented by Steve Jackson an independent board game developer the same person that came up with the GURPS roleplaying system. Steve Jackson games are unique, easy to learn and most importantly fun, hes a genius and a personal hero.
-The game is based around a group of Munchkin type player exploring a endless dungeon in search of treasure and experience. The object of the game is to be the first person to reach level 10 but its not that easy.  All your "buddies" are also trying for it too and will do anything to stab you in the back along the way.
+The game was invented by Steve Jackson an independent board game developer the same person that came up with the GURPS roleplaying system. Steve Jackson games are unique, easy to learn and most importantly fun, he's a genius and a personal hero.
+The game is based around a group of Munchkin type player exploring an endless dungeon in search of treasure and experience. The object of the game is to be the first person to reach level 10 but its not that easy.  All your "buddies" are also trying for it too and will do anything to stab you in the back along the way.
 
 The game contains two types of cards, doors and treasure cards. If you kick down a door and defeat the monster behind it you get a treasure, if you can't defeat the monster you get the bad stuff its that simple.
 

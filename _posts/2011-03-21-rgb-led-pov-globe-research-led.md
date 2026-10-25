@@ -16,7 +16,7 @@ Normally I would go to my local electronics supply story, but this project requi
 <ul>
 	<li>RGB LED Thou hole, I want to use the thou hole LEDs as they are a lot more durable then the SMT versions and last longer.</li>
 	<li>Wide angle. I would like a ~100 degree viewing angle (its measured from the center of the LED, so it more like a 200 viewing angle) but these types of LEDs are hard to come by so I might have to settle with 60 degree viewing angle.</li>
-	<li>30 mA or less at full brightness. The <a href="http://focus.ti.com/docs/prod/folders/print/tlc5947.html">TLC5947</a> shift regulator chip that I am using supports a max of 30 mA and i am hoping to get a LED that uses less then that to prevent over heating.</li>
+	<li>30 mA or less at full brightness. The <a href="http://focus.ti.com/docs/prod/folders/print/tlc5947.html">TLC5947</a> shift regulator chip that I am using supports a max of 30 mA and I am hoping to get a LED that uses less then that to prevent over heating.</li>
 	<li>Diffused. I'm not sure why but all the<a href="http://www.ladyada.net/make/minipov3/parts.html"> other POV projects</a> are using diffused LEDs. I have<a href="http://electronics.stackexchange.com/questions/11790/what-makes-a-good-rgb-led"> asked a question</a> about this on <a href="http://electronics.stackexchange.com/">electronics.stackexchange.com</a>. But for right now I will just follow conventional wisdom.</li>
 	<li><a href="http://www.av8n.com/physics/anode-cathode.htm">Common anode</a>. The <a href="http://focus.ti.com/docs/prod/folders/print/tlc5947.html">TLC5947</a> chip we use is a sink driver and therefor requires common anode.</li>
 </ul>

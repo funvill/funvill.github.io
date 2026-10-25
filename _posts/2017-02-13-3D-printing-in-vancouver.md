@@ -22,7 +22,7 @@ If you are a beginner, that wants to get into the craft of 3D printing, or are l
 
 A 3D printing services is useful, If you are looking for a local 3D printing service and want the end product without having to do the work yourself.
 
-- [3D Hubs](https://www.3dhubs.com/3dprint#?place=Vancouver,%20Canada&latitude=49.262&longitude=-123.0923&shipsToCountry=CA&shipsToState=BC) is a online market of people with 3D printers that can print your object for you. Normally it takes about 48 hour to print and deliver the 3D printed object. Sometimes you can even meetup with these people and work together to get your product perfect.
+- [3D Hubs](https://www.3dhubs.com/3dprint#?place=Vancouver,%20Canada&latitude=49.262&longitude=-123.0923&shipsToCountry=CA&shipsToState=BC) is an online market of people with 3D printers that can print your object for you. Normally it takes about 48 hour to print and deliver the 3D printed object. Sometimes you can even meetup with these people and work together to get your product perfect.
 
 - [Maker Labs](http://www.makerlabs.com/) is local maker space with lots of different kinds of 3D printers. Their staff can either teach you how to use the 3D printer or print the object for you. They are a great group of knowledgeable people. 780 East Cordova Street,Vancouver. Open 12-9 PM, 778.984.7299
 
@@ -49,7 +49,7 @@ After you know how to use a 3D printer, the next thing is to join a community an
 ## Where do you get 3D printable models?
 
 - [Yobi3D](https://www.yobi3d.com/) - 3D model search engine.  It has a viewer to show search results in 3D.
-- [Pinshape](https://pinshape.com/) - A online catalog of 3D printer models. Paid and free.
+- [Pinshape](https://pinshape.com/) - An online catalog of 3D printer models. Paid and free.
 - [MyMiniFactory](https://www.myminifactory.com/) - A decent selection of curiated 3D-printable models.
 - [ThingiVerse](http://www.thingiverse.com) - The original online catalog of 3D printer models.
 - [YouMagine](https://www.youmagine.com/) - Open source designs and 3D-printable models.

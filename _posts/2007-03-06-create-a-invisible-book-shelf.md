@@ -1,5 +1,5 @@
 ---
-title: "Create a invisible book shelf"
+title: "Create an invisible book shelf"
 date: 2007-03-06 17:15:00
 slug: create-a-invisible-book-shelf
 categories:
@@ -10,7 +10,7 @@ tags:
   - ideas
 excerpt: "An invisible bookshelf made by hiding an L bracket behind the bottom book of a stack."
 ---
-Create a invisible book shelf
+Create an invisible book shelf
 By inserting a "L" bracket behind the bottom book.
 Interesting if not absurdly simple.
 

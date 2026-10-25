@@ -23,7 +23,7 @@ In my search, I discovered [List of different types of word play](https://en.wik
 
 Kangaroo word wasn't exactly what I was looking for but it was on the right path. I started searching for a list of all the common Kangaroo word, and what is the largest Kangaroo words that exist. I was able to find [a few small lists](https://en.wiktionary.org/wiki/Appendix:Kangaroo_words) but nothing that was complete. 
 
-[The Word Circus: A Letter - Perfect Book (Lighter Side of Language Series)](https://www.amazon.com/Word-Circus-Letter-Perfect-Lighter-Language/dp/0877793549) was a a good book with lots of Kangaroo words and phrases.
+[The Word Circus: A Letter - Perfect Book (Lighter Side of Language Series)](https://www.amazon.com/Word-Circus-Letter-Perfect-Lighter-Language/dp/0877793549) was a good book with lots of Kangaroo words and phrases.
 
 Because there was no exhaustive list Kangaroo words, and I needed to practice my python I decided to create my own list. The script goes thought all ~250,000 words and finds all the sub words that appear in the word. The problem with this version is that a lot of the sub words that were being found were not common words.
 

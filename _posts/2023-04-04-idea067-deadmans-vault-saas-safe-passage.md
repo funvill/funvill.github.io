@@ -30,13 +30,13 @@ Names from [Alice_and_Bob](https://en.wikipedia.org/wiki/Alice_and_Bob)
 - Alice - Account holder, owner of the data.
 - Bob - Significant other of Alice
 - Carol - Daughter of Alice and Bob
-- Dave - Son of of Alice and Bob
+- Dave - Son of Alice and Bob
 - Eve - A bad actor that got a hold of Carol’s password
 - Faythe - Layer of Alice and Bob
 
 ### User story
 
-Alice (Account holder) has a password database with all of her account passwords and secrets. She wants to make these available to Bob, Carol, and Dave after her death. She doesn’t want Bob to know the the family secrets before her death (Carol is not Bob’s biological daughter)
+Alice (Account holder) has a password database with all of her account passwords and secrets. She wants to make these available to Bob, Carol, and Dave after her death. She doesn’t want Bob to know the family secrets before her death (Carol is not Bob’s biological daughter)
 
 Alice (Account holder) copies the password database, and her secrets into this service and encrypts it. She has a master password that she stores in her password database.
 

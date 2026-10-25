@@ -23,7 +23,7 @@ A necklace penchant that has a LED matrix that displays Atari Space Invaders ani
 
 ## Description
 
-<img src='\public\uploads\2023\space-invaders.gif' alt='space-invaders.gif' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >I made a few [Atari Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) animation LED Matrix pendants in 2012 after reading a HackADay post about them. [Led Matrix Pendants](https://hackaday.com/2012/10/12/led-matrix-pendants/). They used a full size LED matrix with a ATTiny DIP chip. It wasn’t very comfortable to wear and the batteries (2x AA) were heavy to wear around your neck.
+<img src='\public\uploads\2023\space-invaders.gif' alt='space-invaders.gif' style="float: right; margin: 10px; max-width: 400px; border: 1px solid black; padding: 5px" >I made a few [Atari Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) animation LED Matrix pendants in 2012 after reading a HackADay post about them. [Led Matrix Pendants](https://hackaday.com/2012/10/12/led-matrix-pendants/). They used a full size LED matrix with an ATTiny DIP chip. It wasn’t very comfortable to wear and the batteries (2x AA) were heavy to wear around your neck.
 
 A lot has changed and a new version of these pendants could be made using modern techniques using tiny LEDs picked and placed onto a custom PCB board.
 

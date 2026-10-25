@@ -45,7 +45,7 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain
 - [PCB coin cell to USB](https://youtu.be/PJs1Ax6M9Qs?t=671) - A super neat PCB coin cell that converts USB power to a coin cell 3v. [instructables](https://www.instructables.com/id/PCB-Christmas-Tree-Card/)
 - [Truncated Icosidodecahedron](https://www.instructables.com/id/Design-Build-a-Truncated-Icosidodecahedron/) - Instructions on how to make a Truncated Icosidodecahedron on a laser cutter and a 3d printer. It shows how it is designed in Fusion 360. 
 - [Laser cutter projects](https://www.youtube.com/channel/UC_RbkyX5b3Fh4EGI5xYPfVw) - A youtube channel that has a bunch of different laser tuctter projects, and the files to make them. This video has a few [starwars models](https://www.youtube.com/watch?v=ce86lg4Vz_g)
-- [The Essential Guide to Shenzhen](https://www.bunniestudios.com/blog/?p=5689) - A free downloadable ebook copy of the The Essential Guide to Shenzhen by [bunnie](https://twitter.com/bunniestudios) 
+- [The Essential Guide to Shenzhen](https://www.bunniestudios.com/blog/?p=5689) - A free downloadable ebook copy of the Essential Guide to Shenzhen by [bunnie](https://twitter.com/bunniestudios) 
 
 ## Cosplay 
 

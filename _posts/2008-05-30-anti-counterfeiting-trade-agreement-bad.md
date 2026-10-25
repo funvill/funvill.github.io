@@ -14,7 +14,7 @@ excerpt: "A 2008 rant against ACTA and what it would mean for Canadian traveller
 Have you heard about the €˜Anti-Counterfeiting Trade Agreement,&quot;
 <blockquote>The agreement is being structured much like the North American Free Trade Agreement (NAFTA) except it will create rules and regulations regarding private copying and copyright laws.
 Federal trade agreements do not require parliamentary approval.
-The deal would create a international regulator that could turn border guards and other public security personnel into copyright police. The security officials would be charged with checking laptops, iPods and even cellular phones for content that "infringes" on copyright laws, such as ripped CDs and movies.
+The deal would create an international regulator that could turn border guards and other public security personnel into copyright police. The security officials would be charged with checking laptops, iPods and even cellular phones for content that "infringes" on copyright laws, such as ripped CDs and movies.
 The guards would also be responsible for determining what is infringing content and what is not.
 The agreement proposes any content that may have been copied from a DVD or digital video recorder would be open for scrutiny by officials - even if the content was copied legally.
 

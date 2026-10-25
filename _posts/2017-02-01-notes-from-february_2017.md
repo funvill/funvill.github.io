@@ -30,7 +30,7 @@ Some of the things that I have found interesting in February 2017.
 ## Articles
 
 - [Page weight matters on Youtube](http://blog.chriszacharias.com/page-weight-matters) - Optimizing the weight of a page, slowed down the overall page load times, because a large numbers of people who were previously unable to use YouTube before were suddenly able to.
-- [The Google Analytics setup I use](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/) - A indepth look into setting up Google Analytics.
+- [The Google Analytics setup I use](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/) - An indepth look into setting up Google Analytics.
 
 ## News 
 

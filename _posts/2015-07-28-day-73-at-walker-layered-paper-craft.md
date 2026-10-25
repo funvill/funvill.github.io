@@ -17,6 +17,6 @@ Three layer version
 
 I have been experimenting with layered paper craft. This is similar to the dragon one from [Day 13](/day-13-layered-paper-craft-dragon)  .
 
-This one turned out okay, there is still refining to do. The template that I used to make all of these layered paper craft models uses a 10mm distance between the layers. I think i can cut that distance down to 5mm instead.
+This one turned out okay, there is still refining to do. The template that I used to make all of these layered paper craft models uses a 10mm distance between the layers. I think I can cut that distance down to 5mm instead.
 
 Source files: [https://github.com/funvill/LayeredPaperCraft](https://github.com/funvill/LayeredPaperCraft)

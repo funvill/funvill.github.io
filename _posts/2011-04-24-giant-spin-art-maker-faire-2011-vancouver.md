@@ -15,7 +15,7 @@ I wanted to create a very simple project for <a href="http://makerfaire.ca/">Mak
 
 I read about the <a href="http://makeprojects.com/Project/Giant-Spin-Art/482/1">Giant spin art box</a> in a <a href="http://makeprojects.com/">Make magazine</a> Volume 25. It seemed simple enough and I could spray paint the Maker Faire logo with a stencil.
 
-The build was pretty simple. I found a AC washing machine motor at a local junk yard that had a max speed of 1700 RPM. I created a mount for the motor to sit in so that it wouldn't shake around too much then attached a flat board to the top of the motor with some screws. The whole process took about 3 hours.
+The build was pretty simple. I found an AC washing machine motor at a local junk yard that had a max speed of 1700 RPM. I created a mount for the motor to sit in so that it wouldn't shake around too much then attached a flat board to the top of the motor with some screws. The whole process took about 3 hours.
 
 [nggallery id=3]
 

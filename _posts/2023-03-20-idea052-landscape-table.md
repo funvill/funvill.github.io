@@ -61,7 +61,7 @@ Other
 - Found [OpenData for BC and its 1000s](http://www.data.gov.bc.ca/dbc/search/detail.page?ms=url%3Aapps.gov.bc.ca&recorduid=173523&title=Coastal%20BC%20Bathymetry) of data points to draw from. including Bathymetric data for BC coast lines. But I have to order the data (for free), I can’t just download it for some reason.
 - [Bathymetric map data](http://www.naturalearthdata.com/downloads/10m-physical-vectors/) that works with tilemill 0m and 200m. It's a start but I need the in between data as well.
 - [USGS](http://www.gelib.com/usgs-topographic-maps-2.htm) This will make an overlay for all the USA but not canada
-- [Detailed Bathymetric/Bathymetry contour data (0-200M)](http://gis.stackexchange.com/questions/45334/detailed-bathymetric-bathymetry-data-0-200m) - The maps are getting better but I need more detailed Bathymetric maps of the area, so far i have only found layer 0 and layer 200. I am looking for more ranges between these two points.
+- [Detailed Bathymetric/Bathymetry contour data (0-200M)](http://gis.stackexchange.com/questions/45334/detailed-bathymetric-bathymetry-data-0-200m) - The maps are getting better but I need more detailed Bathymetric maps of the area, so far I have only found layer 0 and layer 200. I am looking for more ranges between these two points.
 
 <img src="/public/uploads/2023/topographical_virtual.png" alt="topographical_virtual" style="margin: 10px; border: 1px solid black; padding: 5px"/>
 
@@ -84,7 +84,7 @@ It even looks like they let you select the location of and make your own landsca
 
 #### Stacked sheets of wood
 
-As interesting as it would be to mill it out of wood, i could also cut it on the laser cutter and stack the sheets on top of each other. [Topo map](http://thelasercutter.blogspot.ca/2011/10/topo-map.html), [Lo-Fi landscape](http://thelasercutter.blogspot.ca/2010/11/lo-fi-landscape.html), [Solar Topographies](http://thelasercutter.blogspot.ca/2010/02/solar-topographies.html)
+As interesting as it would be to mill it out of wood, I could also cut it on the laser cutter and stack the sheets on top of each other. [Topo map](http://thelasercutter.blogspot.ca/2011/10/topo-map.html), [Lo-Fi landscape](http://thelasercutter.blogspot.ca/2010/11/lo-fi-landscape.html), [Solar Topographies](http://thelasercutter.blogspot.ca/2010/02/solar-topographies.html)
 
 <img src="/public/uploads/2023/stacked_wood.png" alt="stacked_wood" style="margin: 10px; border: 1px solid black; padding: 5px"/>
 

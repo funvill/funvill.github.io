@@ -49,7 +49,7 @@ As of version 5, now deployed to the button, the following improvements have bee
   - "HELP! - Press the Button"
   - "Keep It Going - Press the Button"
   - "You Make This Happen - Press the Button"
-  - "One Press Cant Hurt - Press the Button"
+  - "One Press Can't Hurt - Press the Button"
   - "Be Part of the Story - Press the Button"
   - "The Power Is in Your finger - Press the Button"
   - "Keep the Streak Alive - Press the Button"
