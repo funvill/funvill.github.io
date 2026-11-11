@@ -30,7 +30,7 @@
     "yaml": "^2.8.2"
   },
   "devDependencies": {
-    "markdownlint-cli2": "^0.23.0",
+    "markdownlint-cli2": "^0.23.3",
     "pagefind": "^1.5.2"
   },
   "overrides": {
