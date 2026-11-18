@@ -41,7 +41,7 @@ As of **November 18, 2026**:
 - **Daily video:** built from real frames on my PC. The NAS job that will make it every day isn't scheduled yet.
 - **Instagram:** nothing posts yet. The sky score works, but the posting threshold isn't settled.
 - **Weak spot:** the Pi is on an old Wi-Fi dongle. It drops for a couple of minutes about once an hour, and at sunset the copy to the NAS falls behind. No frames have been lost, because frames stay on the Pi until the NAS has them. A network cable is coming.
-- **Before the real run:** the foam hood and the 3D-printed mount, the network cable, and new cells for the UPS. Settings freeze on **December 14**, a week before the start.
+- **Before the real run:** the foam hood and the 3D-printed mount, the network cable, and wiring the UPS to the Pi. Settings freeze on **December 14**, a week before the start.
 
 The [daily report](https://htmlpreview.github.io/?https://github.com/funvill/project-sunshine/blob/main/reports/index.html) has every day of the wide camera: a thumbnail of where the sun meets the horizon, the sky score with a graph, the frames taken and missed, the weather and the Pi's health. It's rebuilt when I update the project, so it can be a few weeks behind.
 
@@ -137,7 +137,7 @@ Both cameras run on one Pi, `sunshine`. Both use the same Sony IMX477 sensor as 
 - A 3D-printed mount in PETG or ASA (PLA softens in the sun), stuck to the glass with 3M VHB tape, keyed so a replacement camera goes back to the same framing
 - A black foam hood sealed against the glass to stop reflections of the room
 - A network cable to the Pi
-- A Mini-Box OpenUPS2, which takes 11 to 24 V and suits the MyPi board. It's flashed with the Li-ion firmware, but the 18650 cells I had for it were dead, so it needs new ones
+- A Mini-Box OpenUPS2, which takes 11 to 24 V and suits the MyPi board. It's flashed with the Li-ion firmware and has three new 18650 cells, and it has been tested on the bench. It isn't connected to the Pi yet
 - A temperature and humidity sensor at the glass for condensation, a lux sensor, and maybe a small dew heater
 - A 16 mm lens for a tighter shot of downtown, once I find the spacer it needs to focus at infinity
 
