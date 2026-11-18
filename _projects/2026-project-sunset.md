@@ -43,6 +43,8 @@ As of **November 18, 2026**:
 - **Weak spot:** the Pi is on an old Wi-Fi dongle. It drops for a couple of minutes about once an hour, and at sunset the copy to the NAS falls behind. No frames have been lost, because frames stay on the Pi until the NAS has them. A network cable is coming.
 - **Before the real run:** the foam hood and the 3D-printed mount, the network cable, and new cells for the UPS. Settings freeze on **December 14**, a week before the start.
 
+The [daily report](https://htmlpreview.github.io/?https://github.com/funvill/project-sunshine/blob/main/reports/index.html) has every day of the wide camera: a thumbnail of where the sun meets the horizon, the sky score with a graph, the frames taken and missed, the weather and the Pi's health. It's rebuilt when I update the project, so it can be a few weeks behind.
+
 The open questions and experiments are in [issue #3](https://github.com/funvill/project-sunshine/issues/3), and every change and event is in the [changelog](https://github.com/funvill/project-sunshine/blob/main/changelog.md).
 
 ## Why five years
@@ -166,6 +168,8 @@ Repo: [github.com/funvill/project-sunshine](https://github.com/funvill/project-s
 - **A daily sunset video** for Instagram, only on days the sky score says are worth it ([issue #2](https://github.com/funvill/project-sunshine/issues/2)).
 
 ## Updates
+
+The [daily report](https://htmlpreview.github.io/?https://github.com/funvill/project-sunshine/blob/main/reports/index.html) is updated with each post.
 
 Progress reports, newest first:
 
