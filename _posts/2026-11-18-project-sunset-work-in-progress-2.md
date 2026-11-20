@@ -37,7 +37,7 @@ Most November sunsets in Vancouver are grey. I don't want to post a grey video e
 The sky score is plain image maths. For the hour around sunset it measures how much of the upper part of the frame is bright and warm (more red than blue), and takes the best few frames. Grey evenings score 5 to 13. The good ones so far:
 
 - **November 8:** 69, the first clear one
-- **November 12:** 67, broken cloud
+- **November 12:** 48, broken cloud
 - **November 16:** 71, the best of the pilot, and the first above the posting threshold of 60
 - **November 17:** 41, a completely clear sky
 
@@ -45,7 +45,7 @@ The sky score is plain image maths. For the hour around sunset it measures how m
 
 November 17 surprised me. It was a beautiful clear evening, and it only scored 41. A clear sky has a thin warm band along the horizon and blue above it. The sunsets that score high need cloud for the colour to land on. That might be the right answer for Instagram, or the score might need a second measure for clear skies. I'll know after a few more.
 
-The score is now written on each video, small, at the bottom right.
+The score is now written on each video, small, at the bottom right. The [daily report](https://htmlpreview.github.io/?https://github.com/funvill/project-sunshine/blob/main/reports/index.html) has every day's score with a graph, a thumbnail of where the sun meets the horizon, the frames taken and missed, the weather and the Pi's health.
 
 ## Flicker
 
@@ -78,7 +78,7 @@ The next evening the sun set inside the wide camera's frame, just left of downto
 
 ## A UPS
 
-I have a Mini-Box OpenUPS2 for the Compute Module. It takes 11 to 24 V, which suits the MyPi board. I flashed it with the Li-ion firmware and wrote a small reader that logs its state without wearing out the storage. Then I measured the three 18650 cells I had for it: about 1.1 V each, completely dead. New cells are on the list.
+I have a Mini-Box OpenUPS2 for the Compute Module. It takes 11 to 24 V, which suits the MyPi board. I flashed it with the Li-ion firmware and wrote a small reader that logs its state without wearing out the storage. Then I measured the three 18650 cells I had for it: about 1.1 V each, completely dead. I fitted three new cells on November 16 and tested the UPS on the bench, on mains and on battery. It's now connected (see the update below).
 
 ## A health check
 
@@ -86,11 +86,20 @@ I check the cameras a lot, so there's now a script that does it in about ten sec
 
 ![Dusk on November 17, 25 minutes after sunset, with the city lights coming on](/uploads/2026/project-sunset-nov17-dusk.jpg)
 
+## Update, November 20
+
+A few things changed in the two days after this post.
+
+- **New Wi-Fi.** I swapped the old dongle for a 5 GHz one with an AIC8800 chip. Linux has no driver for it built in, and this unit has an older revision of the chip that the current firmware won't load on, so I built the driver on the Pi with the older firmware. It now copies to the NAS at about 88 Mbit/s instead of 2.4, so the sunset backlog is gone. The cable is off the list: the Pi has to stay on Wi-Fi.
+- **The cameras started failing.** From 7:05 am on November 19 both cameras failed captures on and off for about 16 hours. The wide camera lost 11 frames. A reboot fixed it, and I still don't know the cause. The failures were scattered, never two in a row on the wide camera, so a "reboot after N failures in a row" rule would never have fired. The Pi now reboots itself if one camera fails 3 captures within an hour, at most once every six hours.
+- **The UPS is connected.** It sits between a 15 V supply and the Pi. Its state goes into every frame's data: on mains or battery, the charge, each cell's voltage and temperature. Its log is copied to the NAS with the rest.
+- **Two grey evenings.** November 18 scored 27 and November 19 scored 31, so no videos. They're in the [daily report](https://htmlpreview.github.io/?https://github.com/funvill/project-sunshine/blob/main/reports/index.html), which the health check now rebuilds each time it runs.
+
 ## Next
 
-- A network cable to the Pi
+- A week on the new Wi-Fi, to see if it holds
 - The foam hood and the 3D-printed mount
-- New cells for the UPS
+- See how long the UPS runs the Pi on battery
 - A scale for the downtown camera's sky score, and a few more sunsets to settle the posting threshold
 - Settings freeze on December 14, a week before the real start on December 21
 
