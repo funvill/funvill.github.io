@@ -12,14 +12,14 @@ tags:
   - vancouver
 excerpt: "A five-year time-lapse of the sunset over Vancouver, one frame every five minutes from a window in Burnaby, starting on the 2026 winter solstice."
 header:
-  teaser: /uploads/2026/project-sunset-nov16-sunset.jpg
+  teaser: /uploads/2026/project-sunset-oct10-long-exposure.jpg
 toc: false
 ---
 > Five years of sunsets from one window
 
 ## Overview
 
-![The sun going down on November 16, ten minutes before sunset, with a band of cloud lit from below](/uploads/2026/project-sunset-nov16-sunset.jpg)
+![A long exposure on my phone from the window on October 10, just after sunset: red cloud over an orange horizon, with two nearby towers in the middle](/uploads/2026/project-sunset-oct10-long-exposure.jpg)
 
 My apartment window in Burnaby faces due west, toward downtown Vancouver. The sun sets somewhere in that view every evening, but where it sets moves a long way over the year. In December it goes down left of the city. In June it sets far off to the right, behind the mountains.
 
@@ -61,7 +61,7 @@ Downtown is about 10 to 12 km away and the mountains behind it are more than 50 
 
 ![The wide camera at night on November 12, before it was turned to its final aim](/uploads/2026/project-sunset-wide-camera-night.jpg)
 
-The nearby towers are blurred in every photo I post. The neighbours didn't sign up for a five-year time-lapse.
+The nearby towers are blurred in every camera frame I post. The neighbours didn't sign up for a five-year time-lapse.
 
 ## The swing problem
 
